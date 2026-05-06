@@ -6,16 +6,16 @@
 <title>팀오호츠크 투자 대쉬보드</title>
 <style>
 :root {
-  --bg:#0f1117; --surface:#1a1d2e; --surface2:#242740;
+  --bg:#f0f4fb; --surface:#ffffff; --surface2:#eef1f9;
   --accent:#6c63ff; --accent2:#ff6584;
-  --green:#00d4aa; --red:#ff4d6d; --yellow:#ffd166;
-  --text:#e8eaf6; --text2:#9198b5; --border:#2e3350; --r:12px;
+  --green:#00b894; --red:#e84057; --yellow:#f0a500;
+  --text:#1a1d35; --text2:#64748b; --border:#dde3f0; --r:12px;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:var(--bg);color:var(--text);font-family:'Segoe UI',-apple-system,sans-serif;padding-bottom:60px}
 
 /* Header */
-.header{background:linear-gradient(135deg,#1a1d2e,#242740);border-bottom:1px solid var(--border);padding:20px 32px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
+.header{background:linear-gradient(135deg,#ffffff,#eef1f9);border-bottom:1px solid var(--border);padding:20px 32px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
 .header-left{display:flex;align-items:center;gap:14px}
 .logo{width:44px;height:44px;background:linear-gradient(135deg,var(--accent),var(--accent2));border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:bold}
 .header h1{font-size:20px;font-weight:700}
@@ -142,7 +142,7 @@ tr:hover td{background:rgba(108,99,255,.04)}
 .ty{background:rgba(145,152,181,.15);color:var(--text2)}
 
 /* Modal */
-.modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:200;align-items:center;justify-content:center}
+.modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,30,.4);z-index:200;align-items:center;justify-content:center}
 .modal-overlay.open{display:flex}
 .modal{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:24px;width:480px;max-width:90vw;max-height:80vh;overflow-y:auto}
 .modal-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
@@ -151,6 +151,13 @@ tr:hover td{background:rgba(108,99,255,.04)}
 .modal-close:hover{color:var(--text)}
 .empty-state{text-align:center;padding:48px;color:var(--text2);font-size:14px;grid-column:1/-1}
 .empty-state .icon{font-size:40px;margin-bottom:12px}
+
+/* Season tabs */
+.season-bar{display:flex;align-items:center;gap:10px;margin-bottom:24px;flex-wrap:wrap}
+.season-bar-label{font-size:12px;color:var(--text2);font-weight:500;letter-spacing:.5px;text-transform:uppercase}
+.season-tab{padding:6px 20px;border-radius:20px;border:1px solid var(--border);background:var(--surface);cursor:pointer;font-size:13px;font-weight:700;color:var(--text2);transition:all .2s}
+.season-tab.active{background:linear-gradient(135deg,var(--accent),#9c93ff);border-color:var(--accent);color:#fff;box-shadow:0 2px 12px rgba(108,99,255,.3)}
+.season-tab:hover:not(.active){border-color:var(--accent);color:var(--accent)}
 
 .m-cards{display:none;flex-direction:column;gap:12px}
 .m-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);overflow:hidden}
@@ -185,6 +192,7 @@ tr:hover td{background:rgba(108,99,255,.04)}
 </div>
 
 <div class="container">
+  <div class="season-bar" id="seasonBar"></div>
   <div class="stats-row" id="statsRow"></div>
   <div class="timeline"><div class="timeline-title">투자 라운드 진행 현황</div><div class="timeline-list" id="timelineList"></div></div>
   <div class="round-tabs" id="roundTabs"></div>
@@ -240,7 +248,7 @@ tr:hover td{background:rgba(108,99,255,.04)}
 const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxUN2bEncv6DmZ5PqAslNdzk10ndH0NIMrtVXYfj8Vq-DZb9PAY8oObbP_8mDD0Ir1-Mg/exec';
 
 const SEED = {
-  rounds: [
+  seasons: [{ id:"26봄", label:"26봄", status:"current", rounds: [
     { id:1, label:"1회차", date:"2026-03-23", status:"done", stocks:[{
       ticker:"PL", name:"플래닛 랩스", sector:"위성 / 데이터",
       buyPrice:31.87, currentPrice:35.44, recommendation:"buy",
@@ -284,45 +292,50 @@ const SEED = {
       ]
     }]},
     { id:4, label:"4회차", date:"", status:"upcoming", stocks:[] }
-  ],
+  ]}],
   watchlist: [],
   members: [
     { name:"김재윤", color:"#6c63ff", holdings:[
-      {ticker:"PL",round:1,quantity:30,buyPrice:33.00},
-      {ticker:"NVDA",round:2,quantity:1,buyPrice:195.00},
-      {ticker:"GOOGL",round:2,quantity:1,buyPrice:335.00}
+      {season:"26봄",ticker:"PL",round:1,quantity:30,buyPrice:33.00},
+      {season:"26봄",ticker:"NVDA",round:2,quantity:1,buyPrice:195.00},
+      {season:"26봄",ticker:"GOOGL",round:2,quantity:1,buyPrice:335.00}
     ]},
     { name:"김하나", color:"#ff6584", holdings:[
-      {ticker:"PL",round:1,quantity:6,buyPrice:29.75},
-      {ticker:"NVDA",round:2,quantity:1,buyPrice:183.55},
-      {ticker:"GOOGL",round:2,quantity:1,buyPrice:312.66}
+      {season:"26봄",ticker:"PL",round:1,quantity:6,buyPrice:29.75},
+      {season:"26봄",ticker:"NVDA",round:2,quantity:1,buyPrice:183.55},
+      {season:"26봄",ticker:"GOOGL",round:2,quantity:1,buyPrice:312.66}
     ]},
-    { name:"박지원", color:"#00d4aa", holdings:[{ticker:"PL",round:1,quantity:1,buyPrice:35.82}]},
-    { name:"신선아", color:"#ffd166", holdings:[{ticker:"PL",round:1,quantity:10,buyPrice:28.00}]},
-    { name:"이수연", color:"#74c0fc", holdings:[{ticker:"PL",round:1,quantity:10,buyPrice:29.50}]},
+    { name:"박지원", color:"#00d4aa", holdings:[{season:"26봄",ticker:"PL",round:1,quantity:1,buyPrice:35.82}]},
+    { name:"신선아", color:"#ffd166", holdings:[{season:"26봄",ticker:"PL",round:1,quantity:10,buyPrice:28.00}]},
+    { name:"이수연", color:"#74c0fc", holdings:[{season:"26봄",ticker:"PL",round:1,quantity:10,buyPrice:29.50}]},
     { name:"이주영", color:"#a29bfe", holdings:[
-      {ticker:"PL",round:1,quantity:10,buyPrice:30.80},
-      {ticker:"NVDA",round:2,quantity:1,buyPrice:200.00},
-      {ticker:"GOOGL",round:2,quantity:1,buyPrice:335.00}
+      {season:"26봄",ticker:"PL",round:1,quantity:10,buyPrice:30.80},
+      {season:"26봄",ticker:"NVDA",round:2,quantity:1,buyPrice:200.00},
+      {season:"26봄",ticker:"GOOGL",round:2,quantity:1,buyPrice:335.00}
     ]},
-    { name:"조진서", color:"#55efc4", holdings:[{ticker:"PL",round:1,quantity:1,buyPrice:36.20}]}
+    { name:"조진서", color:"#55efc4", holdings:[{season:"26봄",ticker:"PL",round:1,quantity:1,buyPrice:36.20}]}
   ]
 };
 
 let DATA = SEED;
-let curRound = 2;
+let curSeason = '26봄';
+let curRound = 3;
 
 // ── 유틸 ──────────────────────────────────────────
+function currentSeason() {
+  return DATA.seasons.find(s => s.id === curSeason) || DATA.seasons[0] || { id:'', rounds:[] };
+}
+
 function stockMap() {
   const m = {};
-  DATA.rounds.forEach(r => r.stocks.forEach(s => { m[s.ticker] = s; }));
+  currentSeason().rounds.forEach(r => r.stocks.forEach(s => { m[s.ticker] = s; }));
   return m;
 }
 
 function memberStats(member) {
   const sm = stockMap();
   let cost = 0, val = 0;
-  member.holdings.forEach(h => {
+  member.holdings.filter(h => h.season === curSeason).forEach(h => {
     const s = sm[h.ticker];
     if (!s) return;
     cost += h.quantity * h.buyPrice;
@@ -366,7 +379,7 @@ function renderStats() {
     <div class="stat-card">
       <div class="stat-label">총 투자 금액</div>
       <div class="stat-value">${usd(totalCost)}</div>
-      <div class="stat-sub">${DATA.members.length}명 참여</div>
+      <div class="stat-sub">${DATA.members.filter(m=>m.holdings.some(h=>h.season===curSeason)).length}명 참여</div>
     </div>
     <div class="stat-card yellow">
       <div class="stat-label">수익률 TOP</div>
@@ -381,7 +394,7 @@ function renderStats() {
 }
 
 function renderTimeline() {
-  const html = DATA.rounds.map(r => {
+  const html = currentSeason().rounds.map(r => {
     const tickers = r.stocks.map(s => s.ticker).join(' · ') || '미정';
     let ret = '';
     if (r.stocks.length) {
@@ -398,14 +411,15 @@ function renderTimeline() {
 }
 
 function renderTabs() {
-  document.getElementById('roundTabs').innerHTML = DATA.rounds.map(r =>
+  document.getElementById('roundTabs').innerHTML = currentSeason().rounds.map(r =>
     `<button class="round-tab ${r.id===curRound?'active':''} ${r.status==='upcoming'?'locked':''}"
       ${r.status!=='upcoming'?`onclick="selectRound(${r.id})"`:''}>${r.label}${r.status==='current'?' ●':''}</button>`
   ).join('');
 }
 
 function renderStocks() {
-  const round = DATA.rounds.find(r => r.id === curRound);
+  const round = currentSeason().rounds.find(r => r.id === curRound);
+  if (!round) return;
   document.getElementById('roundTitle').textContent = `${round.label} 선정 종목${round.date?' — '+round.date:''}`;
 
   if (!round.stocks.length) {
@@ -568,10 +582,10 @@ function renderWatchlist() {
         <div><div class="news-text">${n.text}</div><div class="news-date">${n.date}</div></div>
       </div>`
     ).join('');
-    return `<div class="stock-card" style="border-color:#3a3d55">
-      <div class="stock-card-header" style="background:#1e2035">
+    return `<div class="stock-card" style="border-color:var(--border)">
+      <div class="stock-card-header" style="background:var(--surface2)">
         <div class="stock-info">
-          <div class="ticker-badge" style="background:linear-gradient(135deg,#4a4870,#6b5f9e)">${s.ticker}</div>
+          <div class="ticker-badge" style="background:linear-gradient(135deg,var(--accent),#9c93ff)">${s.ticker}</div>
           <div><div class="stock-name">${s.name}</div><div class="stock-sector">${s.sector}</div></div>
         </div>
         <div class="stock-price-info">
@@ -589,20 +603,28 @@ function renderWatchlist() {
 }
 
 function renderAll() {
-  curRound = DATA.rounds.find(r=>r.status==='current')?.id || DATA.rounds.find(r=>r.status!=='upcoming')?.id || 1;
-  renderStats();
-  renderTimeline();
-  renderTabs();
-  renderStocks();
-  renderRoundMembers();
-  renderWatchlist();
-  renderAllocation();
-  renderTop();
-  renderTable();
+  try {
+    curSeason = DATA.seasons.find(s=>s.status==='current')?.id || DATA.seasons[DATA.seasons.length-1]?.id || curSeason;
+    const sr = currentSeason().rounds;
+    curRound = sr.find(r=>r.status==='current')?.id || sr.filter(r=>r.status!=='upcoming').slice(-1)[0]?.id || sr[0]?.id || 1;
+    renderSeasonTabs();
+    renderStats();
+    renderTimeline();
+    renderTabs();
+    renderStocks();
+    renderRoundMembers();
+    renderWatchlist();
+    renderAllocation();
+    renderTop();
+    renderTable();
+  } catch(e) {
+    console.error('renderAll 오류:', e);
+    document.getElementById('lastUpdated').textContent = '⚠️ 렌더링 오류: ' + e.message;
+  }
 }
 
 function renderRoundMembers() {
-  const round = DATA.rounds.find(r => r.id === curRound);
+  const round = currentSeason().rounds.find(r => r.id === curRound) || null;
   const section = document.getElementById('roundMembersSection');
 
   if (!round || !round.stocks.length) { section.style.display = 'none'; return; }
@@ -711,6 +733,29 @@ function renderRoundMembers() {
   }).join('');
 }
 
+function renderSeasonTabs() {
+  document.getElementById('seasonBar').innerHTML =
+    '<span class="season-bar-label">시즌</span>' +
+    DATA.seasons.map(s =>
+      `<button class="season-tab ${s.id===curSeason?'active':''}" onclick="selectSeason('${s.id}')">${s.label}</button>`
+    ).join('');
+}
+
+function selectSeason(id) {
+  curSeason = id;
+  const sr = currentSeason().rounds;
+  curRound = sr.find(r=>r.status==='current')?.id || sr.filter(r=>r.status!=='upcoming').slice(-1)[0]?.id || sr[0]?.id || 1;
+  renderSeasonTabs();
+  renderStats();
+  renderTimeline();
+  renderTabs();
+  renderStocks();
+  renderRoundMembers();
+  renderAllocation();
+  renderTop();
+  renderTable();
+}
+
 function selectRound(id) { curRound = id; renderTabs(); renderStocks(); renderRoundMembers(); }
 function closeModal() { document.getElementById('memberModal').classList.remove('open'); }
 
@@ -751,7 +796,8 @@ function openModal(name) {
 
 async function fetchData() {
   if (!SCRIPT_URL) return;
-  document.getElementById('lastUpdated').textContent = '⏳ 시트 데이터 업데이트 중...';
+  const el = document.getElementById('lastUpdated');
+  el.textContent = '⏳ 시트 데이터 업데이트 중...';
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), 15000);
   try {
@@ -759,14 +805,19 @@ async function fetchData() {
     clearTimeout(t);
     const json = await res.json();
     if (json.error) throw new Error(json.error);
+    // 구형 응답(rounds) → 시즌 구조 자동 변환
+    if (json.rounds && !json.seasons) {
+      json.seasons = [{ id:'26봄', label:'26봄', status:'current', rounds: json.rounds }];
+      (json.members || []).forEach(m => m.holdings.forEach(h => { if (!h.season) h.season = '26봄'; }));
+    }
     DATA = json;
-    renderAll();
-    document.getElementById('lastUpdated').textContent =
-      '최근 업데이트: ' + new Date().toLocaleString('ko-KR',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});
+    el.textContent = '최근 업데이트: ' + new Date().toLocaleString('ko-KR',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});
   } catch(e) {
     clearTimeout(t);
-    document.getElementById('lastUpdated').textContent = e.name==='AbortError' ? '⚠️ 시트 연결 시간 초과 (샘플 데이터)' : '⚠️ 시트 연결 실패 (샘플 데이터)';
+    el.textContent = e.name==='AbortError' ? '⚠️ 시트 연결 시간 초과 (샘플 데이터)' : '⚠️ 시트 연결 실패 (샘플 데이터)';
+    return;
   }
+  renderAll();
 }
 
 function refresh() { fetchData(); }
