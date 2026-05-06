@@ -143,6 +143,11 @@ tr:hover td{background:rgba(108,99,255,.04)}
 
 /* Modal */
 .modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,30,.4);z-index:200;align-items:center;justify-content:center}
+.live-badge{background:rgba(0,184,148,.12);color:var(--green);font-size:11px;font-weight:700;padding:3px 9px;border-radius:10px;border:1px solid rgba(0,184,148,.3);animation:liveblink 2.4s ease-in-out infinite}
+@keyframes liveblink{0%,100%{opacity:1}50%{opacity:.5}}
+.next-refresh{font-size:11px;color:var(--text2);min-width:110px;text-align:right}
+.news-refresh-bar{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--text2);margin-bottom:6px}
+.news-refresh-dot{width:6px;height:6px;border-radius:50%;background:var(--green)}
 .modal-overlay.open{display:flex}
 .modal{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:24px;width:480px;max-width:90vw;max-height:80vh;overflow-y:auto}
 .modal-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
@@ -186,7 +191,9 @@ tr:hover td{background:rgba(108,99,255,.04)}
     <div><h1>팀 <span>오호츠크</span> 투자 대쉬보드</h1></div>
   </div>
   <div class="header-right">
+    <span class="live-badge">● LIVE</span>
     <span class="last-updated" id="lastUpdated">로딩 중...</span>
+    <span class="next-refresh" id="nextRefresh"></span>
     <button class="refresh-btn" onclick="refresh()">↻ 새로고침</button>
   </div>
 </div>
@@ -463,10 +470,19 @@ function renderStocks() {
         </div>
         <div class="recommendation-row">${recHtml}</div>
         <div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:var(--accent)">💡 의견:</span> ${s.recReason}</div>
-        <div class="news-section"><div class="news-title">주요 뉴스</div>${newsHtml}</div>
+        <div class="news-section">
+          <div class="news-refresh-bar">
+            <div class="news-refresh-dot"></div>
+            <span>주요 뉴스 &nbsp;<span id="newsTs_${s.ticker}" style="color:var(--text2)"></span></span>
+          </div>
+          ${newsHtml}
+        </div>
       </div>
     </div>`;
   }).join('');
+  if (_lastNewsAt) {
+    document.querySelectorAll('[id^="newsTs_"]').forEach(el => { el.textContent = '· ' + _lastNewsAt; });
+  }
 }
 
 function renderAllocation() {
@@ -596,7 +612,10 @@ function renderWatchlist() {
       <div class="stock-card-body">
         <div class="recommendation-row">${recHtml}</div>
         <div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:#9c93ff">💡 의견:</span> ${s.recReason}</div>
-        <div class="news-section"><div class="news-title">주요 뉴스</div>${newsHtml}</div>
+        <div class="news-section">
+          <div class="news-refresh-bar"><div class="news-refresh-dot"></div><span>주요 뉴스</span></div>
+          ${newsHtml}
+        </div>
       </div>
     </div>`;
   }).join('');
@@ -811,7 +830,8 @@ async function fetchData() {
       (json.members || []).forEach(m => m.holdings.forEach(h => { if (!h.season) h.season = '26봄'; }));
     }
     DATA = json;
-    el.textContent = '최근 업데이트: ' + new Date().toLocaleString('ko-KR',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});
+    _lastNewsAt = new Date().toLocaleString('ko-KR',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});
+    el.textContent = '최근 업데이트: ' + _lastNewsAt;
   } catch(e) {
     clearTimeout(t);
     el.textContent = e.name==='AbortError' ? '⚠️ 시트 연결 시간 초과 (샘플 데이터)' : '⚠️ 시트 연결 실패 (샘플 데이터)';
@@ -820,12 +840,41 @@ async function fetchData() {
   renderAll();
 }
 
-function refresh() { fetchData(); }
+// ── 자동 새로고침 (5분) ───────────────────────────────────────
+const REFRESH_MS = 5 * 60 * 1000;
+let _refreshTimeout = null;
+let _countdownInterval = null;
+let _nextAt = 0;
+let _lastNewsAt = '';
 
-// 즉시 렌더 → 백그라운드 시트 업데이트
+function startAutoRefresh() {
+  clearTimeout(_refreshTimeout);
+  clearInterval(_countdownInterval);
+  _nextAt = Date.now() + REFRESH_MS;
+
+  _countdownInterval = setInterval(() => {
+    const left = Math.max(0, _nextAt - Date.now());
+    const m = Math.floor(left / 60000);
+    const s = Math.floor((left % 60000) / 1000);
+    const el = document.getElementById('nextRefresh');
+    if (el) el.textContent = `다음 뉴스 업데이트 ${m}:${s.toString().padStart(2,'0')}`;
+  }, 1000);
+
+  _refreshTimeout = setTimeout(() => {
+    fetchData().finally(startAutoRefresh);
+  }, REFRESH_MS);
+}
+
+function refresh() {
+  clearTimeout(_refreshTimeout);
+  clearInterval(_countdownInterval);
+  fetchData().finally(startAutoRefresh);
+}
+
+// 즉시 렌더 → 백그라운드 시트 & 뉴스 업데이트
 renderAll();
 document.getElementById('lastUpdated').textContent = '샘플 데이터';
-fetchData();
+fetchData().finally(startAutoRefresh);
 </script>
 </body>
 </html>
