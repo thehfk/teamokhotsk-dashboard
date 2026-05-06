@@ -361,18 +361,24 @@ function pct(n) {
 }
 function clr(n) { return n >= 0 ? 'var(--green)' : 'var(--red)'; }
 
+// 현재 시즌에 참여한 멤버만 반환
+function seasonMembers() {
+  return DATA.members.filter(m => m.holdings.some(h => h.season === curSeason));
+}
+
 // ── 렌더 ──────────────────────────────────────────
 function renderStats() {
   const sm = stockMap();
   let totalCost = 0, totalVal = 0;
-  DATA.members.forEach(m => {
+  seasonMembers().forEach(m => {
     const s = memberStats(m);
     totalCost += s.cost;
     totalVal  += s.val;
   });
   const totalPnl = totalVal - totalCost;
   const totalPct = totalCost > 0 ? totalPnl / totalCost * 100 : 0;
-  const allStats = [...DATA.members].map(m => { const s = memberStats(m); return {...m, cost:s.cost, val:s.val, pnl:s.pnl, rate:s.pct}; });
+  const smem = seasonMembers();
+  const allStats = smem.map(m => { const s = memberStats(m); return {...m, cost:s.cost, val:s.val, pnl:s.pnl, rate:s.pct}; });
   const active  = allStats.filter(m => m.cost > 0);
   const best    = active.length ? [...active].sort((a,b) => b.rate - a.rate)[0] : null;
   const bestPnl = active.length ? [...active].sort((a,b) => b.pnl  - a.pnl )[0] : null;
@@ -386,7 +392,7 @@ function renderStats() {
     <div class="stat-card">
       <div class="stat-label">총 투자 금액</div>
       <div class="stat-value">${usd(totalCost)}</div>
-      <div class="stat-sub">${DATA.members.filter(m=>m.holdings.some(h=>h.season===curSeason)).length}명 참여</div>
+      <div class="stat-sub">${smem.length}명 참여</div>
     </div>
     <div class="stat-card yellow">
       <div class="stat-label">수익률 TOP</div>
@@ -438,8 +444,8 @@ function renderStocks() {
   document.getElementById('stocksGrid').innerHTML = round.stocks.map(s => {
     const chg = s.currentPrice - s.buyPrice;
     const chgPct = chg / s.buyPrice * 100;
-    const totalShares = DATA.members.reduce((sum, m) => {
-      const h = m.holdings.find(h => h.ticker === s.ticker);
+    const totalShares = seasonMembers().reduce((sum, m) => {
+      const h = m.holdings.find(h => h.ticker === s.ticker && h.season === curSeason);
       return sum + (h ? h.quantity : 0);
     }, 0);
     const recHtml = ['strong-buy','buy','hold','sell'].map(r =>
@@ -488,7 +494,7 @@ function renderStocks() {
 function renderAllocation() {
   const sm = stockMap();
   const totals = {};
-  DATA.members.forEach(m => m.holdings.forEach(h => {
+  seasonMembers().forEach(m => m.holdings.filter(h=>h.season===curSeason).forEach(h => {
     const s = sm[h.ticker];
     if (!s) return;
     totals[h.ticker] = (totals[h.ticker]||0) + h.quantity * s.currentPrice;
@@ -509,7 +515,7 @@ function renderAllocation() {
 }
 
 function renderTop() {
-  const all = [...DATA.members].map(m=>{ const s=memberStats(m); return {...m, pct:s.pct, pnl:s.pnl, cost:s.cost}; });
+  const all = seasonMembers().map(m=>{ const s=memberStats(m); return {...m, pct:s.pct, pnl:s.pnl, cost:s.cost}; });
 
   const byRate = [...all].sort((a,b)=>b.pct-a.pct);
   const maxRate = Math.max(...byRate.map(m=>Math.abs(m.pct)))||1;
@@ -541,12 +547,12 @@ function renderTop() {
 }
 
 function renderTable() {
-  const sorted = [...DATA.members].map(m=>({...m,...memberStats(m)})).sort((a,b)=>b.pct-a.pct);
+  const sorted = seasonMembers().map(m=>({...m,...memberStats(m)})).sort((a,b)=>b.pct-a.pct);
   const max = Math.max(...sorted.map(m=>Math.abs(m.pct)))||1;
   const rc = (i) => [' r1',' r2',' r3'][i]||' rn';
 
   document.getElementById('memberBody').innerHTML = sorted.map((m,i) => {
-    const tickers = [...new Set(m.holdings.map(h=>h.ticker))].map(t=>`<span class="tag ty">${t}</span>`).join(' ');
+    const tickers = [...new Set(m.holdings.filter(h=>h.season===curSeason).map(h=>h.ticker))].map(t=>`<span class="tag ty">${t}</span>`).join(' ');
     const bar = (Math.abs(m.pct)/max*100).toFixed(1);
     return `<tr onclick="openModal('${m.name}')" style="cursor:pointer">
       <td><div class="rank-badge${rc(i)}">${i+1}</div></td>
@@ -561,7 +567,7 @@ function renderTable() {
   }).join('');
 
   document.getElementById('memberCards').innerHTML = sorted.map((m,i) => {
-    const tickers = [...new Set(m.holdings.map(h=>h.ticker))].map(t=>`<span class="tag ty">${t}</span>`).join('');
+    const tickers = [...new Set(m.holdings.filter(h=>h.season===curSeason).map(h=>h.ticker))].map(t=>`<span class="tag ty">${t}</span>`).join('');
     return `<div class="m-card" onclick="openModal('${m.name}')" style="cursor:pointer">
       <div class="m-card-header">
         <div style="display:flex;align-items:center;gap:8px">
@@ -673,10 +679,10 @@ function renderRoundMembers() {
     </tr>`;
 
   // 바디 — 수익률 높은 순, 미참여는 마지막
-  const memberRows = DATA.members.map(m => {
+  const memberRows = seasonMembers().map(m => {
     let totalCost = 0, totalVal = 0;
     const cells = tickers.map(ticker => {
-      const h = m.holdings.find(h => h.ticker === ticker && h.round === curRound);
+      const h = m.holdings.find(h => h.ticker === ticker && h.round === curRound && h.season === curSeason);
       const s = sm[ticker];
       if (!h || !s) return `<td class="right" style="border-left:1px solid var(--border);color:var(--text2)">—</td><td class="right" style="color:var(--text2)">—</td>`;
       const cost = h.quantity * h.buyPrice;
@@ -717,7 +723,7 @@ function renderRoundMembers() {
 
   document.getElementById('roundMemberCards').innerHTML = memberRows.map(({ m, totalCost, totalVal, totalPnl, p }) => {
     const holdings = tickers.map(ticker => {
-      const h = m.holdings.find(h => h.ticker === ticker && h.round === curRound);
+      const h = m.holdings.find(h => h.ticker === ticker && h.round === curRound && h.season === curSeason);
       if (!h) return '';
       return `<div class="m-row"><span class="m-row-label">${ticker}</span><span>${h.quantity}주 @ $${h.buyPrice.toFixed(2)}</span></div>`;
     }).join('');
@@ -783,7 +789,7 @@ function openModal(name) {
   const sm = stockMap();
   const st = memberStats(m);
   document.getElementById('modalTitle').textContent = `${name} 상세 보유 현황`;
-  const rows = m.holdings.map(h => {
+  const rows = m.holdings.filter(h=>h.season===curSeason).map(h => {
     const s = sm[h.ticker];
     if (!s) return '';
     const c = h.quantity * h.buyPrice, v = h.quantity * s.currentPrice, p = (v-c)/c*100;
