@@ -12,7 +12,8 @@
   --text:#1a1d35; --text2:#64748b; --border:#dde3f0; --r:12px;
 }
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:var(--bg);color:var(--text);font-family:'Segoe UI',-apple-system,sans-serif;padding-bottom:60px}
+body{background:var(--bg);color:var(--text);font-family:'Segoe UI',-apple-system,sans-serif;padding-bottom:60px;overflow-x:hidden}
+html{overflow-x:hidden}
 
 /* Header */
 .header{background:linear-gradient(135deg,#ffffff,#eef1f9);border-bottom:1px solid var(--border);padding:20px 32px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
@@ -20,7 +21,7 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',-apple-system
 .logo{width:44px;height:44px;background:linear-gradient(135deg,var(--accent),var(--accent2));border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:bold}
 .header h1{font-size:20px;font-weight:700}
 .header h1 span{color:var(--accent)}
-.header-right{display:flex;align-items:center;gap:12px}
+.header-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-end}
 .last-updated{font-size:12px;color:var(--text2)}
 .refresh-btn{background:var(--surface2);border:1px solid var(--border);color:var(--text2);padding:6px 14px;border-radius:8px;cursor:pointer;font-size:13px;transition:all .2s}
 .refresh-btn:hover{border-color:var(--accent);color:var(--accent)}
@@ -51,8 +52,8 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',-apple-system
 .timeline-dot.done{background:var(--accent);border-color:var(--accent);color:#fff}
 .timeline-dot.current{background:var(--green);border-color:var(--green);color:#000;animation:pulse 2s infinite}
 @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(0,212,170,.4)}50%{box-shadow:0 0 0 8px rgba(0,212,170,0)}}
-.timeline-label{font-size:12px;color:var(--text2)}
-.timeline-stocks{font-size:11px;font-weight:600;color:var(--text);margin-top:4px}
+.timeline-label{font-size:12px;color:var(--text2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:100%}
+.timeline-stocks{font-size:11px;font-weight:600;color:var(--text);margin-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .timeline-return{font-size:12px;font-weight:600;margin-top:2px}
 
 /* Round tabs */
@@ -95,7 +96,7 @@ body{background:var(--bg);color:var(--text);font-family:'Segoe UI',-apple-system
 .news-dot{width:6px;height:6px;border-radius:50%;background:var(--accent);margin-top:6px;flex-shrink:0}
 .news-dot.negative{background:var(--red)}
 .news-dot.neutral{background:var(--yellow)}
-.news-text{color:var(--text2)}
+.news-text{color:var(--text2);word-break:keep-all;overflow-wrap:break-word}
 .news-text strong{color:var(--text)}
 .news-date{font-size:11px;color:var(--text2);margin-top:2px}
 
@@ -173,13 +174,77 @@ tr:hover td{background:rgba(108,99,255,.04)}
 .m-holdings{display:flex;gap:6px;flex-wrap:wrap;margin-top:2px}
 
 @media(max-width:900px){
-  .container{padding:16px}
-  .stats-row{grid-template-columns:repeat(2,1fr)}
+  /* 레이아웃 */
+  .container{padding:14px 12px}
+
+  /* 헤더 */
+  .header{padding:10px 14px;gap:6px}
+  .logo{width:36px;height:36px;font-size:18px;border-radius:10px}
+  .header h1{font-size:15px}
+  .next-refresh{display:none}
+  .last-updated{font-size:11px;max-width:130px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .live-badge{font-size:10px;padding:2px 7px}
+  .refresh-btn{padding:5px 10px;font-size:12px}
+
+  /* 시즌 탭 */
+  .season-tab{padding:5px 14px;font-size:12px}
+
+  /* 통계 카드 */
+  .stats-row{grid-template-columns:repeat(2,1fr);gap:10px;margin-bottom:20px}
+  .stat-card{padding:14px 16px}
+  .stat-value{font-size:20px}
+
+  /* 타임라인 */
+  .timeline{padding:14px 12px}
+  .timeline-label{font-size:10px}
+  .timeline-stocks{font-size:10px}
+  .timeline-return{font-size:11px}
+  .timeline-dot{width:28px;height:28px;font-size:11px}
+
+  /* 회차 탭 */
+  .round-tabs{padding:4px;gap:4px}
+  .round-tab{padding:7px 6px;font-size:11px}
+
+  /* 종목 카드 */
   .stocks-grid{grid-template-columns:1fr}
+  .stock-card-header{padding:12px 14px}
+  .stock-card-body{padding:12px 14px}
+  .stock-name{font-size:13px}
+  .current-price{font-size:18px}
+  .ticker-badge{font-size:13px;padding:4px 10px}
+  .metrics-row{gap:8px}
+  .metric-box{padding:8px 10px}
+  .metric-value{font-size:13px}
+  .recommendation-row{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+  .news-item{font-size:12px}
+
+  /* 배분/TOP 섹션 */
   .allocation-section{grid-template-columns:1fr}
-  .header{padding:14px 16px}
+
+  /* 테이블 → 카드 */
   .desktop-table{display:none}
   .m-cards{display:flex}
+  .section-title{font-size:14px}
+
+  /* 모달 */
+  .modal{width:95vw;padding:16px}
+}
+
+@media(max-width:480px){
+  .stats-row{grid-template-columns:repeat(2,1fr)}
+  .stat-card{padding:12px}
+  .stat-value{font-size:17px}
+  .stat-sub{font-size:11px}
+  .header-left{gap:8px}
+  .header h1{font-size:13px}
+  .last-updated{display:none}
+  .timeline-list::before{top:13px}
+  .timeline-dot{width:26px;height:26px;font-size:10px}
+  .timeline-item{padding-top:32px}
+  .round-tab{font-size:10px;padding:6px 4px}
+  .ticker-badge{font-size:12px;padding:4px 8px}
+  .current-price{font-size:16px}
+  .season-tab{padding:4px 12px;font-size:11px}
 }
 </style>
 </head>
