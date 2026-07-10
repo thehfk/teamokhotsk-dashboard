@@ -111,6 +111,7 @@ html{overflow-x:hidden}
 .hof-avatar{width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;flex-shrink:0;border:1px solid #f0d580}
 .hof-name{font-size:13px;font-weight:600;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .hof-season{display:inline-block;margin-left:4px;padding:1px 6px;background:rgba(240,165,0,.15);color:#a07800;border-radius:4px;font-size:10px;font-weight:600;vertical-align:middle}
+.hof-season + .hof-season{margin-left:2px}
 .hof-sub{font-size:10px;color:var(--text2)}
 .hof-value{font-size:16px;font-weight:700;margin-left:auto;flex-shrink:0}
 .hof-empty{padding:10px;text-align:center;font-size:11px;color:var(--text2);flex:1}
@@ -450,18 +451,19 @@ function globalStockMap() {
   return m;
 }
 
-function memberSeasonStats(member, gsm) {
-  const bySeason = {};
+function memberStatsAllSeasons(member, gsm) {
+  let cost = 0, val = 0;
+  const seasonsIn = new Set();
   member.holdings.forEach(h => {
     const s = (gsm[h.season] || {})[h.ticker];
     if (!s) return;
-    if (!bySeason[h.season]) bySeason[h.season] = { season: h.season, cost: 0, val: 0 };
-    bySeason[h.season].cost += h.quantity * h.buyPrice;
-    bySeason[h.season].val  += h.quantity * priceOf(s);
+    cost += h.quantity * h.buyPrice;
+    val  += h.quantity * priceOf(s);
+    seasonsIn.add(h.season);
   });
-  return Object.values(bySeason)
-    .filter(x => x.cost > 0)
-    .map(x => ({ ...x, pnl: x.val - x.cost, pct: (x.val - x.cost) / x.cost * 100 }));
+  const pnl = val - cost;
+  const pct = cost > 0 ? pnl / cost * 100 : 0;
+  return { cost, val, pnl, pct, seasons: [...seasonsIn].sort() };
 }
 
 function hasExitedStock() {
@@ -709,29 +711,31 @@ function renderTop() {
 function renderHallOfFame() {
   const gsm = globalStockMap();
   const seasonLabel = Object.fromEntries(DATA.seasons.map(s => [s.id, s.label]));
-  const peaks = [];
-  DATA.members.forEach(m => {
-    memberSeasonStats(m, gsm).forEach(st => peaks.push({ ...m, ...st }));
-  });
+  const all = DATA.members
+    .map(m => ({ ...m, ...memberStatsAllSeasons(m, gsm) }))
+    .filter(m => m.cost > 0);
 
   const rateCard = document.getElementById('hofRateCard');
   const pnlCard  = document.getElementById('hofPnlCard');
 
-  if (!peaks.length) {
+  if (!all.length) {
     rateCard.innerHTML = '<div class="hof-empty">데이터 없음</div>';
     pnlCard.innerHTML  = '<div class="hof-empty">데이터 없음</div>';
     return;
   }
 
-  const topRate = [...peaks].sort((a,b) => b.pct - a.pct)[0];
-  const topPnl  = [...peaks].sort((a,b) => b.pnl - a.pnl)[0];
+  const topRate = [...all].sort((a,b) => b.pct - a.pct)[0];
+  const topPnl  = [...all].sort((a,b) => b.pnl - a.pnl)[0];
+
+  const seasonBadges = (ids) =>
+    ids.map(id => `<span class="hof-season">${seasonLabel[id] || id}</span>`).join('');
 
   const card = (head, m, valueHtml) => `
     <span class="hof-crown">👑</span>
     <div class="hof-head">${head}</div>
     <div class="hof-avatar" style="background:${m.color}20;color:${m.color}">${m.name[0]}</div>
     <div style="min-width:0;line-height:1.2">
-      <div class="hof-name">${m.name} <span class="hof-season">${seasonLabel[m.season] || m.season}</span></div>
+      <div class="hof-name">${m.name} ${seasonBadges(m.seasons)}</div>
       <div class="hof-sub">투자 ${usd(m.cost)}</div>
     </div>
     <div class="hof-value">${valueHtml}</div>`;
