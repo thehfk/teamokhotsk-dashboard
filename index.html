@@ -944,7 +944,7 @@ async function fetchData() {
   const el = document.getElementById('lastUpdated');
   el.textContent = '⏳ 시트 데이터 업데이트 중...';
   const ctrl = new AbortController();
-  const t = setTimeout(() => ctrl.abort(), 15000);
+  const t = setTimeout(() => ctrl.abort(), 30000);
   try {
     const res = await fetch(SCRIPT_URL, { signal: ctrl.signal });
     clearTimeout(t);
