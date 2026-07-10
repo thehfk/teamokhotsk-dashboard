@@ -431,7 +431,13 @@ function setViewMode(mode) {
   viewMode = mode;
   localStorage.setItem('okhotsk_view_mode', mode);
   updateViewModeBar();
-  renderAll();
+  renderStats();
+  renderTimeline();
+  renderStocks();
+  renderRoundMembers();
+  renderAllocation();
+  renderTop();
+  renderTable();
 }
 
 function updateViewModeBar() {
