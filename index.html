@@ -69,6 +69,8 @@ html{overflow-x:hidden}
 .stock-card-header{padding:18px 20px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;background:var(--surface2)}
 .stock-info{display:flex;align-items:center;gap:12px}
 .ticker-badge{background:linear-gradient(135deg,var(--accent),#9c93ff);padding:6px 12px;border-radius:8px;font-size:16px;font-weight:700;letter-spacing:1px}
+.exit-badge{display:inline-block;margin-left:8px;padding:3px 8px;border:1px solid var(--border);border-radius:6px;font-size:11px;color:var(--text2);letter-spacing:.3px;vertical-align:middle}
+.exit-note{font-size:11px;color:var(--text2);margin-top:4px}
 .stock-name{font-size:14px;font-weight:600}
 .stock-sector{font-size:11px;color:var(--text2);margin-top:2px}
 .stock-price-info{text-align:right}
@@ -161,6 +163,12 @@ tr:hover td{background:rgba(108,99,255,.04)}
 /* Season tabs */
 .season-bar{display:flex;align-items:center;gap:10px;margin-bottom:24px;flex-wrap:wrap}
 .season-bar-label{font-size:12px;color:var(--text2);font-weight:500;letter-spacing:.5px;text-transform:uppercase}
+.view-mode-bar{display:none;align-items:center;gap:10px;margin-bottom:20px;padding:10px 14px;background:var(--surface2);border:1px solid var(--border);border-radius:10px;font-size:12px;flex-wrap:wrap}
+.view-mode-bar.show{display:flex}
+.view-mode-bar .vm-label{color:var(--text2);margin-right:auto}
+.view-mode-btn{padding:5px 12px;border:1px solid var(--border);border-radius:6px;background:transparent;color:var(--text2);cursor:pointer;font-size:12px;transition:all .15s}
+.view-mode-btn:hover{border-color:var(--accent);color:var(--text)}
+.view-mode-btn.active{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
 .season-tab{padding:6px 20px;border-radius:20px;border:1px solid var(--border);background:var(--surface);cursor:pointer;font-size:13px;font-weight:700;color:var(--text2);transition:all .2s}
 .season-tab.active{background:linear-gradient(135deg,var(--accent),#9c93ff);border-color:var(--accent);color:#fff;box-shadow:0 2px 12px rgba(108,99,255,.3)}
 .season-tab:hover:not(.active){border-color:var(--accent);color:var(--accent)}
@@ -265,6 +273,11 @@ tr:hover td{background:rgba(108,99,255,.04)}
 
 <div class="container">
   <div class="season-bar" id="seasonBar"></div>
+  <div class="view-mode-bar" id="viewModeBar">
+    <span class="vm-label">종료된 종목 수익률 기준</span>
+    <button class="view-mode-btn" data-mode="exit" onclick="setViewMode('exit')">청산가</button>
+    <button class="view-mode-btn" data-mode="live" onclick="setViewMode('live')">현재가 (계속 보유 가정)</button>
+  </div>
   <div class="stats-row" id="statsRow"></div>
   <div class="timeline"><div class="timeline-title">투자 라운드 진행 현황</div><div class="timeline-list" id="timelineList"></div></div>
   <div class="round-tabs" id="roundTabs"></div>
@@ -404,6 +417,32 @@ function stockMap() {
   return m;
 }
 
+let viewMode = localStorage.getItem('okhotsk_view_mode') || 'exit';
+
+function priceOf(s) {
+  return viewMode === 'live' ? (s.livePrice || s.currentPrice) : s.currentPrice;
+}
+
+function hasExitedStock() {
+  return currentSeason().rounds.some(r => r.stocks.some(s => s.exitDate));
+}
+
+function setViewMode(mode) {
+  viewMode = mode;
+  localStorage.setItem('okhotsk_view_mode', mode);
+  updateViewModeBar();
+  renderAll();
+}
+
+function updateViewModeBar() {
+  const bar = document.getElementById('viewModeBar');
+  if (!bar) return;
+  bar.classList.toggle('show', hasExitedStock());
+  bar.querySelectorAll('.view-mode-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.mode === viewMode);
+  });
+}
+
 function memberStats(member) {
   const sm = stockMap();
   let cost = 0, val = 0;
@@ -411,7 +450,7 @@ function memberStats(member) {
     const s = sm[h.ticker];
     if (!s) return;
     cost += h.quantity * h.buyPrice;
-    val  += h.quantity * s.currentPrice;
+    val  += h.quantity * priceOf(s);
   });
   const pnl = val - cost;
   const pct = cost > 0 ? pnl / cost * 100 : 0;
@@ -476,7 +515,7 @@ function renderTimeline() {
     const tickers = r.stocks.map(s => s.ticker).join(' · ') || '미정';
     let ret = '';
     if (r.stocks.length) {
-      const avg = r.stocks.reduce((s, x) => s + (x.currentPrice - x.buyPrice) / x.buyPrice * 100, 0) / r.stocks.length;
+      const avg = r.stocks.reduce((s, x) => s + (priceOf(x) - x.buyPrice) / x.buyPrice * 100, 0) / r.stocks.length;
       ret = `<div class="timeline-return" style="color:${clr(avg)}">${pct(avg)}</div>`;
     }
     return `<div class="timeline-item">
@@ -507,7 +546,9 @@ function renderStocks() {
 
   const recLabels = {'strong-buy':'강력 매수','buy':'매수','hold':'보유','sell':'매도'};
   document.getElementById('stocksGrid').innerHTML = round.stocks.map(s => {
-    const chg = s.currentPrice - s.buyPrice;
+    const isExited = !!s.exitDate;
+    const shownPrice = priceOf(s);
+    const chg = shownPrice - s.buyPrice;
     const chgPct = chg / s.buyPrice * 100;
     const totalShares = seasonMembers().reduce((sum, m) => {
       const h = m.holdings.find(h => h.ticker === s.ticker && h.season === curSeason);
@@ -522,24 +563,30 @@ function renderStocks() {
         <div><div class="news-text">${n.text}</div><div class="news-date">${n.date}</div></div>
       </div>`
     ).join('');
+    const priceLabel = (isExited && viewMode === 'exit') ? '청산가' : '현재가';
+    const exitBadge = isExited ? `<span class="exit-badge" title="청산일 ${s.exitDate}">청산</span>` : '';
+    const exitNote  = isExited
+      ? `<div class="exit-note">청산일 ${s.exitDate}${viewMode==='live' ? ' · 현재가 기준 표시' : ''}</div>`
+      : '';
     return `<div class="stock-card">
       <div class="stock-card-header">
         <div class="stock-info">
           <div class="ticker-badge">${s.ticker}</div>
-          <div><div class="stock-name">${s.name}</div><div class="stock-sector">${s.sector}</div></div>
+          <div><div class="stock-name">${s.name}${exitBadge}</div><div class="stock-sector">${s.sector}</div></div>
         </div>
         <div class="stock-price-info">
-          <div class="current-price">$${s.currentPrice.toFixed(2)}</div>
+          <div class="current-price">$${shownPrice.toFixed(2)}</div>
           <div class="price-change ${chgPct>=0?'up':'down'}">${chgPct>=0?'▲':'▼'} ${pct(chgPct)} (${chg>=0?'+':''}$${chg.toFixed(2)})</div>
+          ${exitNote}
         </div>
       </div>
       <div class="stock-card-body">
         <div class="metrics-row">
           <div class="metric-box"><div class="metric-label">매수가</div><div class="metric-value">$${s.buyPrice.toFixed(2)}</div></div>
-          <div class="metric-box"><div class="metric-label">현재가</div><div class="metric-value" style="color:${clr(chg)}">$${s.currentPrice.toFixed(2)}</div></div>
+          <div class="metric-box"><div class="metric-label">${priceLabel}</div><div class="metric-value" style="color:${clr(chg)}">$${shownPrice.toFixed(2)}</div></div>
           <div class="metric-box"><div class="metric-label">팀 보유</div><div class="metric-value">${totalShares}주</div></div>
         </div>
-        <div class="recommendation-row">${recHtml}</div>
+        ${isExited ? '' : `<div class="recommendation-row">${recHtml}</div>
         <div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:var(--accent)">💡 의견:</span> ${s.recReason}</div>
         <div class="news-section">
           <div class="news-refresh-bar">
@@ -547,7 +594,7 @@ function renderStocks() {
             <span>주요 뉴스 &nbsp;<span id="newsTs_${s.ticker}" style="color:var(--text2)"></span></span>
           </div>
           ${newsHtml}
-        </div>
+        </div>`}
       </div>
     </div>`;
   }).join('');
@@ -562,7 +609,7 @@ function renderAllocation() {
   seasonMembers().forEach(m => m.holdings.filter(h=>h.season===curSeason).forEach(h => {
     const s = sm[h.ticker];
     if (!s) return;
-    totals[h.ticker] = (totals[h.ticker]||0) + h.quantity * s.currentPrice;
+    totals[h.ticker] = (totals[h.ticker]||0) + h.quantity * priceOf(s);
   }));
   const total = Object.values(totals).reduce((a,b)=>a+b,0);
   const colors = ['#6c63ff','#ff6584','#00d4aa','#ffd166','#ff9f43','#74c0fc'];
@@ -697,6 +744,7 @@ function renderAll() {
     curSeason = DATA.seasons.find(s=>s.status==='current')?.id || DATA.seasons[DATA.seasons.length-1]?.id || curSeason;
     const sr = currentSeason().rounds;
     curRound = sr.find(r=>r.status==='current')?.id || sr.filter(r=>r.status!=='upcoming').slice(-1)[0]?.id || sr[0]?.id || 1;
+    updateViewModeBar();
     renderSeasonTabs();
     renderStats();
     renderTimeline();
@@ -751,7 +799,7 @@ function renderRoundMembers() {
       const s = sm[ticker];
       if (!h || !s) return `<td class="right" style="border-left:1px solid var(--border);color:var(--text2)">—</td><td class="right" style="color:var(--text2)">—</td>`;
       const cost = h.quantity * h.buyPrice;
-      const val  = h.quantity * s.currentPrice;
+      const val  = h.quantity * priceOf(s);
       totalCost += cost; totalVal += val;
       return `<td class="right" style="border-left:1px solid var(--border)">${h.quantity}주</td>
               <td class="right" style="color:var(--text2)">$${h.buyPrice.toFixed(2)}</td>`;
@@ -835,6 +883,7 @@ function selectSeason(id) {
   curSeason = id;
   const sr = currentSeason().rounds;
   curRound = sr.find(r=>r.status==='current')?.id || sr.filter(r=>r.status!=='upcoming').slice(-1)[0]?.id || sr[0]?.id || 1;
+  updateViewModeBar();
   renderSeasonTabs();
   renderStats();
   renderTimeline();
@@ -857,7 +906,7 @@ function openModal(name) {
   const rows = m.holdings.filter(h=>h.season===curSeason).map(h => {
     const s = sm[h.ticker];
     if (!s) return '';
-    const c = h.quantity * h.buyPrice, v = h.quantity * s.currentPrice, p = (v-c)/c*100;
+    const c = h.quantity * h.buyPrice, v = h.quantity * priceOf(s), p = (v-c)/c*100;
     return `<tr>
       <td><span class="tag ty">${h.ticker}</span></td>
       <td style="text-align:right">${h.quantity}주</td>
