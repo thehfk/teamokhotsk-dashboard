@@ -169,9 +169,9 @@ tr:hover td{background:rgba(108,99,255,.04)}
 .view-mode-btn{padding:5px 12px;border:1px solid var(--border);border-radius:6px;background:transparent;color:var(--text2);cursor:pointer;font-size:12px;transition:all .15s}
 .view-mode-btn:hover{border-color:var(--accent);color:var(--text)}
 .view-mode-btn.active{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
-.season-tab{padding:6px 20px;border-radius:20px;border:1px solid var(--border);background:var(--surface);cursor:pointer;font-size:13px;font-weight:700;color:var(--text2);transition:all .2s}
-.season-tab.active{background:linear-gradient(135deg,var(--accent),#9c93ff);border-color:var(--accent);color:#fff;box-shadow:0 2px 12px rgba(108,99,255,.3)}
-.season-tab:hover:not(.active){border-color:var(--accent);color:var(--accent)}
+.season-select{padding:7px 34px 7px 18px;border-radius:20px;border:1px solid var(--accent);background:var(--accent) url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12'><path fill='%23ffffff' d='M6 8L2 4h8z'/></svg>") no-repeat right 12px center;background-size:10px;color:#fff;cursor:pointer;font-size:13px;font-weight:700;box-shadow:0 2px 12px rgba(108,99,255,.3);appearance:none;-webkit-appearance:none;-moz-appearance:none}
+.season-select:focus{outline:none;box-shadow:0 0 0 3px rgba(108,99,255,.25),0 2px 12px rgba(108,99,255,.3)}
+.season-select option{background:var(--surface);color:var(--text);font-weight:500}
 
 .m-cards{display:none;flex-direction:column;gap:12px}
 .m-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);overflow:hidden}
@@ -194,8 +194,8 @@ tr:hover td{background:rgba(108,99,255,.04)}
   .live-badge{font-size:10px;padding:2px 7px}
   .refresh-btn{padding:5px 10px;font-size:12px}
 
-  /* 시즌 탭 */
-  .season-tab{padding:5px 14px;font-size:12px}
+  /* 시즌 셀렉트 */
+  .season-select{padding:6px 30px 6px 14px;font-size:12px}
 
   /* 통계 카드 */
   .stats-row{grid-template-columns:repeat(2,1fr);gap:10px;margin-bottom:20px}
@@ -252,7 +252,7 @@ tr:hover td{background:rgba(108,99,255,.04)}
   .round-tab{font-size:10px;padding:6px 4px}
   .ticker-badge{font-size:12px;padding:4px 8px}
   .current-price{font-size:16px}
-  .season-tab{padding:4px 12px;font-size:11px}
+  .season-select{padding:5px 28px 5px 12px;font-size:11px}
 }
 </style>
 </head>
@@ -878,11 +878,15 @@ function renderRoundMembers() {
 }
 
 function renderSeasonTabs() {
+  const seasons = [...DATA.seasons].reverse();
+  const statusLabel = { current: ' · 진행 중', done: ' · 종료' };
   document.getElementById('seasonBar').innerHTML =
     '<span class="season-bar-label">시즌</span>' +
-    DATA.seasons.map(s =>
-      `<button class="season-tab ${s.id===curSeason?'active':''}" onclick="selectSeason('${s.id}')">${s.label}</button>`
-    ).join('');
+    `<select class="season-select" onchange="selectSeason(this.value)" aria-label="시즌 선택">` +
+    seasons.map(s =>
+      `<option value="${s.id}" ${s.id===curSeason?'selected':''}>${s.label}${statusLabel[s.status]||''}</option>`
+    ).join('') +
+    `</select>`;
 }
 
 function selectSeason(id) {
