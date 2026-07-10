@@ -104,16 +104,17 @@ html{overflow-x:hidden}
 
 /* Allocation */
 .allocation-section{display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin-bottom:28px}
-.hof-section{margin-bottom:28px}
-.hof-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
-.hof-item{display:flex;align-items:center;justify-content:space-between;padding:10px 12px;background:var(--bg);border:1px solid var(--border);border-radius:10px}
-.hof-left{display:flex;align-items:center;gap:10px;min-width:0}
-.hof-medal{font-size:18px;width:24px;text-align:center;flex-shrink:0}
-.hof-name{font-weight:600;font-size:14px}
-.hof-sub{font-size:11px;color:var(--text2);margin-top:2px}
-.hof-right{text-align:right;flex-shrink:0}
-.hof-value{font-size:15px;font-weight:700}
-.hof-value-sub{font-size:11px;color:var(--text2);margin-top:2px}
+.hof-banner{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:28px}
+.hof-card{background:linear-gradient(135deg,#fff8e6,#fff);border:1px solid #f0d580;border-radius:14px;padding:18px 22px;position:relative;overflow:hidden;box-shadow:0 4px 16px rgba(240,165,0,.08)}
+.hof-card::after{content:'';position:absolute;top:-40px;right:-40px;width:120px;height:120px;background:radial-gradient(circle,rgba(240,165,0,.14),transparent 70%);pointer-events:none}
+.hof-head{display:flex;align-items:center;gap:8px;font-size:12px;color:#a07800;font-weight:600;letter-spacing:.3px;margin-bottom:10px;text-transform:uppercase}
+.hof-head .hof-crown{font-size:16px}
+.hof-body{display:flex;align-items:center;gap:14px;position:relative;z-index:1}
+.hof-avatar{width:52px;height:52px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;flex-shrink:0;border:2px solid #f0d580}
+.hof-name{font-size:20px;font-weight:700;color:var(--text);line-height:1.2}
+.hof-value{font-size:28px;font-weight:800;margin-top:2px;line-height:1.1}
+.hof-sub{font-size:11px;color:var(--text2);margin-top:4px}
+.hof-empty{padding:20px;text-align:center;font-size:12px;color:var(--text2)}
 .chart-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:20px}
 .chart-title{font-size:14px;font-weight:600;margin-bottom:16px}
 .legend-list{display:flex;flex-direction:column;gap:10px}
@@ -238,7 +239,7 @@ tr:hover td{background:rgba(108,99,255,.04)}
 
   /* 배분/TOP 섹션 */
   .allocation-section{grid-template-columns:1fr}
-  .hof-grid{grid-template-columns:1fr}
+  .hof-banner{grid-template-columns:1fr;gap:12px}
 
   /* 테이블 → 카드 */
   .desktop-table{display:none}
@@ -284,6 +285,12 @@ tr:hover td{background:rgba(108,99,255,.04)}
 
 <div class="container">
   <div class="season-bar" id="seasonBar"></div>
+
+  <div class="hof-banner" id="hofBanner">
+    <div class="hof-card" id="hofRateCard"></div>
+    <div class="hof-card" id="hofPnlCard"></div>
+  </div>
+
   <div class="view-mode-bar" id="viewModeBar">
     <span class="vm-label">종료된 종목 수익률 기준</span>
     <button class="view-mode-btn" data-mode="exit" onclick="setViewMode('exit')">청산가</button>
@@ -314,13 +321,6 @@ tr:hover td{background:rgba(108,99,255,.04)}
     <div class="chart-card"><div class="chart-title">수익금 TOP 멤버</div><div class="legend-list" id="topPnlList"></div></div>
   </div>
 
-  <div class="hof-section" id="hofSection">
-    <div class="section-header"><div class="section-title">🏆 명예의 전당 (전체 시즌 누적)</div></div>
-    <div class="hof-grid">
-      <div class="chart-card"><div class="chart-title">수익률 TOP</div><div class="legend-list" id="hofRateList"></div></div>
-      <div class="chart-card"><div class="chart-title">수익금 TOP</div><div class="legend-list" id="hofPnlList"></div></div>
-    </div>
-  </div>
   <div class="members-section">
     <div class="section-header"><div class="section-title">멤버별 투자 현황</div></div>
     <div class="desktop-table"><div class="table-wrap">
@@ -714,33 +714,39 @@ function renderHallOfFame() {
     .map(m => ({ ...m, ...memberStatsAllSeasons(m, gsm) }))
     .filter(m => m.cost > 0);
 
-  const medals = ['🥇','🥈','🥉','4','5'];
+  const rateCard = document.getElementById('hofRateCard');
+  const pnlCard  = document.getElementById('hofPnlCard');
 
-  const renderList = (list, valueFn, subFn, valueColorFn) => list.map((m, i) => `
-    <div class="hof-item">
-      <div class="hof-left">
-        <span class="hof-medal">${medals[i]}</span>
-        <div class="avatar" style="background:${m.color}20;color:${m.color}">${m.name[0]}</div>
-        <div>
-          <div class="hof-name">${m.name}</div>
-          <div class="hof-sub">${m.seasonCount}개 시즌 · 투자 ${usd(m.cost)}</div>
-        </div>
+  if (!all.length) {
+    rateCard.innerHTML = '<div class="hof-empty">데이터 없음</div>';
+    pnlCard.innerHTML  = '<div class="hof-empty">데이터 없음</div>';
+    return;
+  }
+
+  const topRate = [...all].sort((a,b) => b.pct - a.pct)[0];
+  const topPnl  = [...all].sort((a,b) => b.pnl - a.pnl)[0];
+
+  const card = (head, m, valueHtml) => `
+    <div class="hof-head"><span class="hof-crown">👑</span><span>${head}</span></div>
+    <div class="hof-body">
+      <div class="hof-avatar" style="background:${m.color}20;color:${m.color}">${m.name[0]}</div>
+      <div style="min-width:0">
+        <div class="hof-name">${m.name}</div>
+        <div class="hof-value">${valueHtml}</div>
+        <div class="hof-sub">${m.seasonCount}개 시즌 참여 · 투자 ${usd(m.cost)}</div>
       </div>
-      <div class="hof-right">
-        <div class="hof-value" style="color:${valueColorFn(m)}">${valueFn(m)}</div>
-        <div class="hof-value-sub">${subFn(m)}</div>
-      </div>
-    </div>`).join('');
+    </div>`;
 
-  const byRate = [...all].sort((a,b) => b.pct - a.pct).slice(0, 5);
-  document.getElementById('hofRateList').innerHTML = byRate.length
-    ? renderList(byRate, m => pct(m.pct), m => `${m.pnl>=0?'+':''}${usd(m.pnl)}`, m => clr(m.pct))
-    : '<div style="font-size:12px;color:var(--text2);text-align:center;padding:20px">데이터 없음</div>';
-
-  const byPnl = [...all].sort((a,b) => b.pnl - a.pnl).slice(0, 5);
-  document.getElementById('hofPnlList').innerHTML = byPnl.length
-    ? renderList(byPnl, m => `${m.pnl>=0?'+':''}${usd(m.pnl)}`, m => pct(m.pct), m => clr(m.pnl))
-    : '<div style="font-size:12px;color:var(--text2);text-align:center;padding:20px">데이터 없음</div>';
+  rateCard.innerHTML = card(
+    '명예의 전당 · 최고 수익률',
+    topRate,
+    `<span style="color:${clr(topRate.pct)}">${pct(topRate.pct)}</span>`
+  );
+  pnlCard.innerHTML = card(
+    '명예의 전당 · 최고 수익금',
+    topPnl,
+    `<span style="color:${clr(topPnl.pnl)}">${topPnl.pnl>=0?'+':''}${usd(topPnl.pnl)}</span>`
+  );
 }
 
 function renderTable() {
