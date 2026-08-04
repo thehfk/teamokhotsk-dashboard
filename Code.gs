@@ -251,7 +251,7 @@ function buildData(sheet) {
   });
 
   const members = Object.values(memberMap).map(m => ({ name: m.name, color: m.color, holdings: m.holdings }));
-  return { seasons, members, updatedAt: new Date().toISOString() };
+  return { seasons, members, market: buildMarket(), updatedAt: new Date().toISOString() };
 }
 
 // ── 유틸 ────────────────────────────────────────────────────
@@ -259,6 +259,70 @@ function parseTicker(raw) {
   // "NYSE:pl" → "PL",  "NASDAQ:NVDA" → "NVDA",  "GOOGL" → "GOOGL"
   const parts = String(raw).split(':');
   return parts[parts.length - 1].toUpperCase().trim();
+}
+
+// ── 시장 지수 (Yahoo Finance 3개월 일봉, 10분 캐시) ────────
+const MARKET_INDICES = [
+  { name: 'KOSPI',       ticker: '^KS11',  group: '한국 시장' },
+  { name: 'KOSDAQ',      ticker: '^KQ11',  group: '한국 시장' },
+  { name: 'S&P500',      ticker: '^GSPC',  group: '미국 시장' },
+  { name: 'NASDAQ',      ticker: '^IXIC',  group: '미국 시장' },
+  { name: '다우존스',     ticker: '^DJI',   group: '미국 시장' },
+  { name: 'VIX',         ticker: '^VIX',   group: '공포지수' },
+  { name: '원달러환율',   ticker: 'KRW=X',  group: '환율 / 금리' },
+  { name: '미국10년금리', ticker: '^TNX',   group: '환율 / 금리' }
+];
+
+function fetchIndexData(ticker) {
+  try {
+    const cache = CacheService.getScriptCache();
+    const key = 'idx_' + ticker;
+    const hit = cache.get(key);
+    if (hit) return JSON.parse(hit);
+
+    const url = 'https://query1.finance.yahoo.com/v8/finance/chart/' +
+                encodeURIComponent(ticker) + '?range=3mo&interval=1d';
+    const resp = UrlFetchApp.fetch(url, {
+      muteHttpExceptions: true,
+      headers: { 'User-Agent': 'Mozilla/5.0' }
+    });
+    if (resp.getResponseCode() !== 200) return null;
+    const data = JSON.parse(resp.getContentText());
+    const result = data.chart.result && data.chart.result[0];
+    if (!result) return null;
+    const rawCloses = result.indicators.quote[0].close;
+    const timestamps = result.timestamp || [];
+
+    const labels = [], series = [];
+    for (let i = 0; i < timestamps.length; i++) {
+      const c = rawCloses[i];
+      if (c === null || c === undefined) continue;
+      labels.push(Utilities.formatDate(new Date(timestamps[i]*1000), 'Asia/Seoul', 'MM/dd'));
+      series.push(Math.round(c * 100) / 100);
+    }
+    if (series.length < 2) return null;
+    const value = series[series.length - 1];
+    const prev  = series[series.length - 2];
+    const change = ((value - prev) / prev) * 100;
+    const out = { value, change: Math.round(change * 100) / 100, labels, series };
+    cache.put(key, JSON.stringify(out), 600);
+    return out;
+  } catch (e) {
+    return null;
+  }
+}
+
+function buildMarket() {
+  const cards = [];
+  const groupMap = {};
+  MARKET_INDICES.forEach(idx => {
+    const d = fetchIndexData(idx.ticker);
+    if (!d) return;
+    cards.push({ name: idx.name, value: d.value, change: d.change });
+    if (!groupMap[idx.group]) groupMap[idx.group] = { name: idx.group, labels: d.labels, series: [] };
+    groupMap[idx.group].series.push({ name: idx.name, data: d.series });
+  });
+  return { cards, groups: Object.values(groupMap) };
 }
 
 // ── RSI (Yahoo Finance 일봉, 10분 캐시) ──────────────────────

@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>팀오호츠크 투자 대쉬보드</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 :root {
   --bg:#f0f4fb; --surface:#ffffff; --surface2:#eef1f9;
@@ -38,6 +39,23 @@ html{overflow-x:hidden}
 .stat-value.green{color:var(--green)}
 .stat-value.red{color:var(--red)}
 .stat-sub{font-size:12px;color:var(--text2);margin-top:4px}
+
+/* 시장 개요 */
+.market-section{margin-bottom:32px}
+.market-title{font-size:12px;font-weight:600;color:var(--text2);text-transform:uppercase;letter-spacing:.5px;margin-bottom:12px}
+.market-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;margin-bottom:20px}
+.market-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px 14px}
+.market-card-label{font-size:11px;color:var(--text2);margin-bottom:4px}
+.market-card-value{font-size:17px;font-weight:700;color:var(--text)}
+.market-card-change{font-size:12px;margin-top:2px;font-weight:500}
+.market-card-change.up{color:var(--green)}
+.market-card-change.down{color:var(--red)}
+.market-card-change.flat{color:var(--text2)}
+.market-charts{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:14px}
+.market-chart-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px 18px}
+.market-chart-head{font-size:13px;font-weight:600;color:var(--text);margin-bottom:2px}
+.market-chart-sub{font-size:11px;color:var(--text2);margin-bottom:10px}
+.market-chart-wrap{position:relative;height:200px}
 
 /* Timeline */
 .timeline{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:20px;margin-bottom:28px}
@@ -230,6 +248,13 @@ tr:hover td{background:rgba(108,99,255,.04)}
   .timeline-return{font-size:11px}
   .timeline-dot{width:28px;height:28px;font-size:11px}
 
+  /* 시장 개요 */
+  .market-cards{grid-template-columns:repeat(2,1fr);gap:8px}
+  .market-card{padding:10px 12px}
+  .market-card-value{font-size:14px}
+  .market-charts{grid-template-columns:1fr;gap:10px}
+  .market-chart-wrap{height:160px}
+
   /* 회차 탭 */
   .round-tabs{padding:4px;gap:4px}
   .round-tab{padding:7px 6px;font-size:11px}
@@ -289,6 +314,12 @@ tr:hover td{background:rgba(108,99,255,.04)}
     <span id="nextRefresh"></span>
     <span class="sep">|</span>
     <a class="refresh" onclick="refresh()">↻ 새로고침</a>
+  </div>
+
+  <div class="market-section" id="marketSection">
+    <div class="market-title">📊 시장 개요 · 최근 3개월</div>
+    <div class="market-cards" id="marketCards"></div>
+    <div class="market-charts" id="marketCharts"></div>
   </div>
 
   <div class="season-bar" id="seasonBar"></div>
@@ -702,6 +733,81 @@ function renderTop() {
     </div>`).join('');
 }
 
+let _marketCharts = [];
+function renderMarket() {
+  const section = document.getElementById('marketSection');
+  const m = DATA.market || { cards: [], groups: [] };
+  if (!m.cards.length && !m.groups.length) {
+    section.style.display = 'none';
+    return;
+  }
+  section.style.display = '';
+
+  document.getElementById('marketCards').innerHTML = m.cards.map(c => {
+    const cls = c.change > 0 ? 'up' : c.change < 0 ? 'down' : 'flat';
+    const arrow = c.change > 0 ? '▲' : c.change < 0 ? '▼' : '·';
+    return `<div class="market-card">
+      <div class="market-card-label">${c.name}</div>
+      <div class="market-card-value">${c.value.toLocaleString('en-US', {maximumFractionDigits: 2})}</div>
+      <div class="market-card-change ${cls}">${arrow} ${Math.abs(c.change).toFixed(2)}%</div>
+    </div>`;
+  }).join('');
+
+  _marketCharts.forEach(c => c.destroy());
+  _marketCharts = [];
+
+  document.getElementById('marketCharts').innerHTML = m.groups.map((g, i) =>
+    `<div class="market-chart-card">
+      <div class="market-chart-head">${g.name}</div>
+      <div class="market-chart-sub">3개월 % 변화 (시작 시점 = 0%)</div>
+      <div class="market-chart-wrap"><canvas id="marketChart_${i}"></canvas></div>
+    </div>`
+  ).join('');
+
+  const palette = ['#6c63ff','#ff6584','#00b894','#f0a500','#4fc3f7'];
+  m.groups.forEach((g, i) => {
+    const canvas = document.getElementById(`marketChart_${i}`);
+    if (!canvas) return;
+    const datasets = g.series.map((s, j) => {
+      const first = s.data.find(v => v != null);
+      const normalized = s.data.map(v => v == null || !first ? null : ((v - first) / first * 100));
+      return {
+        label: s.name,
+        data: normalized,
+        borderColor: palette[j % palette.length],
+        backgroundColor: palette[j % palette.length] + '22',
+        borderWidth: 1.6,
+        pointRadius: 0,
+        pointHoverRadius: 4,
+        tension: 0.2
+      };
+    });
+    _marketCharts.push(new Chart(canvas.getContext('2d'), {
+      type: 'line',
+      data: { labels: g.labels, datasets },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: g.series.length > 1
+            ? { position: 'top', labels: { color: '#1a1d35', font: { size: 11 }, boxWidth: 10, boxHeight: 10, padding: 8 } }
+            : { display: false },
+          tooltip: {
+            backgroundColor: '#1a1d35',
+            padding: 8,
+            callbacks: { label: ctx => `${ctx.dataset.label}: ${(ctx.parsed.y>=0?'+':'') + ctx.parsed.y.toFixed(2)}%` }
+          }
+        },
+        scales: {
+          x: { ticks: { color: '#64748b', maxTicksLimit: 6, font: { size: 10 } }, grid: { color: '#eef1f9' } },
+          y: { ticks: { color: '#64748b', font: { size: 10 }, callback: v => (v>=0?'+':'') + v.toFixed(0) + '%' }, grid: { color: '#eef1f9' } }
+        }
+      }
+    }));
+  });
+}
+
 function computeAlerts() {
   const season = currentSeason();
   const items = [];
@@ -908,7 +1014,8 @@ function renderAll() {
     renderTable();
     renderHallOfFame();
     renderAlerts();
-      } catch(e) {
+    renderMarket();
+  } catch(e) {
     console.error('renderAll 오류:', e);
     document.getElementById('lastUpdated').textContent = '⚠️ 렌더링 오류: ' + e.message;
   }
