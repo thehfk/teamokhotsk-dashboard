@@ -226,7 +226,8 @@ function buildData(sheet) {
           ? s.buyPrices.reduce((a, b) => a + b, 0) / s.buyPrices.length : 0;
         const isExited = !!s.exitDate;
         const liveNews = isExited ? [] : fetchNewsRSS(s.ticker);
-        const rsi      = isExited ? null : fetchRSI(s.ticker);
+        // RSI는 프론트에서 CORS 프록시로 Yahoo 직접 호출 (Apps Script IP는 Yahoo에서 차단)
+        const rsi      = null;
         return {
           ticker:         s.ticker,
           name:           s.name,

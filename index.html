@@ -782,6 +782,67 @@ async function fetchMarketData() {
   return { cards, groups: Object.values(groupMap) };
 }
 
+// ── RSI (프론트 fetch, Yahoo 1개월 일봉 → 14-period 단순 평균) ──
+let _rsiLoading = true;
+
+function computeRSIClient(closes, period) {
+  period = period || 14;
+  const c = (closes || []).filter(x => x !== null && !isNaN(x));
+  if (c.length < period + 1) return null;
+  const slice = c.slice(-period - 1);
+  let gains = 0, losses = 0;
+  for (let i = 1; i < slice.length; i++) {
+    const d = slice[i] - slice[i-1];
+    if (d > 0) gains += d;
+    else losses -= d;
+  }
+  const avgGain = gains / period;
+  const avgLoss = losses / period;
+  if (avgLoss === 0) return 100;
+  const rs = avgGain / avgLoss;
+  return Math.round((100 - 100 / (1 + rs)) * 10) / 10;
+}
+
+async function fetchRSIForStocks() {
+  const proxy = 'https://corsproxy.io/?';
+  const tickerSet = new Set();
+  DATA.seasons.forEach(sn => sn.rounds.forEach(r => r.stocks.forEach(s => {
+    if (!s.exitDate) tickerSet.add(s.ticker);
+  })));
+
+  const rsiMap = {};
+  await Promise.allSettled([...tickerSet].map(async ticker => {
+    try {
+      const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(ticker)}?range=1mo&interval=1d`;
+      const r = await fetch(proxy + encodeURIComponent(url));
+      if (!r.ok) return;
+      const data = await r.json();
+      const result = data.chart.result && data.chart.result[0];
+      if (!result) return;
+      const closes = result.indicators.quote[0].close;
+      const rsi = computeRSIClient(closes);
+      if (rsi !== null) rsiMap[ticker] = rsi;
+    } catch (e) {}
+  }));
+
+  // 종목 객체에 rsi 주입
+  DATA.seasons.forEach(sn => sn.rounds.forEach(r => r.stocks.forEach(s => {
+    if (rsiMap[s.ticker] !== undefined) s.rsi = rsiMap[s.ticker];
+  })));
+}
+
+async function loadRSIAsync() {
+  try {
+    await fetchRSIForStocks();
+  } catch (e) {
+    console.warn('RSI fetch 실패:', e);
+  } finally {
+    _rsiLoading = false;
+    renderStocks();
+    renderAlerts();
+  }
+}
+
 async function loadMarketAsync() {
   try {
     const section = document.getElementById('marketSection');
@@ -917,9 +978,10 @@ function computeAlerts() {
 
 function rsiHtml(rsi) {
   if (rsi === null || rsi === undefined) {
+    const msg = _rsiLoading ? '로딩 중...' : '데이터 없음';
     return `<div class="rsi-box">
       <div class="rsi-head"><span class="rsi-title">RSI <span class="rsi-title-full">(14일)</span></span></div>
-      <div class="rsi-empty">데이터 없음</div>
+      <div class="rsi-empty">${msg}</div>
     </div>`;
   }
   const pos = Math.max(0, Math.min(100, rsi));
@@ -1300,6 +1362,7 @@ async function fetchData() {
   }
   renderAll();
   loadMarketAsync();
+  loadRSIAsync();
 }
 
 // ── 자동 새로고침 (5분) ───────────────────────────────────────
@@ -1333,9 +1396,10 @@ function refresh() {
   fetchData().finally(startAutoRefresh);
 }
 
-// 즉시 렌더 → 백그라운드 시트 & 뉴스 & 시장 지수 업데이트
+// 즉시 렌더 → 백그라운드 시트 & 뉴스 & 시장 지수 & RSI 업데이트
 renderAll();
 loadMarketAsync();
+loadRSIAsync();
 document.getElementById('lastUpdated').textContent = '샘플 데이터';
 fetchData().finally(startAutoRefresh);
 </script>
