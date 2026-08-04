@@ -992,6 +992,7 @@ function renderAll() {
     renderTable();
     renderHallOfFame();
     renderAlerts();
+    renderMacroChart();
   } catch(e) {
     console.error('renderAll 오류:', e);
     document.getElementById('lastUpdated').textContent = '⚠️ 렌더링 오류: ' + e.message;
