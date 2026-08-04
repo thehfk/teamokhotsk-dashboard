@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T23:26:43.599255+00:00",
+  "updatedAt": "2026-08-04T23:42:02.087344+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1429.53,
-        "change": 0.07
+        "value": 1429.63,
+        "change": 0.08
       },
       {
         "name": "KOSPI",
@@ -667,7 +667,7 @@
               1420.6,
               1435.7,
               1428.5,
-              1429.53
+              1429.63
             ]
           }
         ]
@@ -936,18 +936,18 @@
         "date": "08/05 06:33"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm Stock’s Biggest Risk Is The Gap Between Pain And Payoff",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHVvTkxacWZyMl9pNXBlLUQydDJxd1VfTkZ0M0ZRUG93S3VGOS03UmxEa1ZZaEQ0R3NTNUtxUUduVjZuOVhwNmpRQ1pzV1Z6TzlaY2NCREF3RkFhWnNEUU1URjk3UkRrblVUUXRNUk9sVnQ4R21uTWVUUUJFbmtDbHlRMGNwNER1ZVpqSkx4N25UMkp1emplM25qNHRuZ2dTd2t1cUxINUxXTEUwdmJHaUlrcWhZU09meUxrekZuNm1LUQ?oc=5",
-        "date": "07/31 23:30"
+        "type": "positive",
+        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
+        "publisher": "stocktwits.com",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
+        "date": "08/04 07:10"
       }
     ],
     "VRT": [
       {
         "type": "negative",
         "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
         "date": "08/01 11:50"
       },

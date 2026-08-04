@@ -392,32 +392,19 @@ tr:hover td{background:rgba(108,99,255,.04)}
 <script>
 const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxUN2bEncv6DmZ5PqAslNdzk10ndH0NIMrtVXYfj8Vq-DZb9PAY8oObbP_8mDD0Ir1-Mg/exec';
 
+// 시트(Apps Script) 연결 실패 시 표시되는 폴백 샘플. rsi/news는 data.json에서 주입.
 const SEED = {
   seasons: [{ id:"26봄", label:"26봄", status:"current", rounds: [
-    { id:1, label:"1회차", date:"2026-03-23", status:"done", stocks:[{
-      ticker:"PL", name:"플래닛 랩스", sector:"위성 / 데이터",
-      buyPrice:31.87, currentPrice:35.44,
-      recReason:"AI 위성 기술 상용화 + 방위 수요 급증으로 수주잔고 $900M 돌파. 흑자 전환 시점이 핵심 관전 포인트",
-      news:[]
-    }]},
-    { id:2, label:"2회차", date:"2026-04-06", status:"done", stocks:[
-      { ticker:"NVDA", name:"엔비디아", sector:"반도체 / AI",
-        buyPrice:192.85, currentPrice:208.26,
-        recReason:"사상 최고가 재돌파, 시총 $5.1조 달성. 5월 실적 발표 앞두고 블랙웰 공급 확대 기대감 지속",
-        news:[]
-      },
-      { ticker:"GOOGL", name:"알파벳", sector:"빅테크 / 클라우드",
-        buyPrice:327.55, currentPrice:344.40,
-        recReason:"Anthropic $400억 투자·Wiz 인수 완료로 AI 클라우드 경쟁력 강화. 4/29 실적 발표가 단기 방향성 결정",
-        news:[]
-      }
+    { id:1, label:"1회차", date:"2026-03-23", status:"done", stocks:[
+      { ticker:"PL", name:"플래닛 랩스", sector:"위성 / 데이터", buyPrice:31.87, currentPrice:35.44 }
     ]},
-    { id:3, label:"3회차", date:"2026-04-26", status:"current", stocks:[{
-      ticker:"NKE", name:"나이키", sector:"스포츠 의류 / 소비재",
-      buyPrice:44.69, currentPrice:44.69,
-      recReason:"'Win Now' 구조조정으로 비용 절감 중이나 중국 매출 -20% 전망·Converse -35% 등 단기 실적 회복 불확실. 2027년 2월 분기부터 매출 성장 재개 예상",
-      news:[]
-    }]},
+    { id:2, label:"2회차", date:"2026-04-06", status:"done", stocks:[
+      { ticker:"NVDA",  name:"엔비디아", sector:"반도체 / AI",     buyPrice:192.85, currentPrice:208.26 },
+      { ticker:"GOOGL", name:"알파벳",   sector:"빅테크 / 클라우드", buyPrice:327.55, currentPrice:344.40 }
+    ]},
+    { id:3, label:"3회차", date:"2026-04-26", status:"current", stocks:[
+      { ticker:"NKE", name:"나이키", sector:"스포츠 의류 / 소비재", buyPrice:44.69, currentPrice:44.69 }
+    ]},
     { id:4, label:"4회차", date:"", status:"upcoming", stocks:[] }
   ]}],
   watchlist: [],
@@ -650,7 +637,6 @@ function renderStocks() {
           <div class="metric-box"><div class="metric-label">팀 보유</div><div class="metric-value">${totalShares}주</div></div>
         </div>
         ${isExited ? '' : `${rsiHtml(s.rsi)}
-        ${s.recReason ? `<div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:var(--accent)">💡 의견:</span> ${s.recReason}</div>` : ''}
         ${newsArticlesHtml(s.news) ? `<div class="news-section">
           <div class="news-section-title">📰 관련 뉴스</div>
           <div class="news-articles">${newsArticlesHtml(s.news)}</div>
@@ -1027,7 +1013,6 @@ function renderWatchlist() {
       </div>
       <div class="stock-card-body">
         ${rsiHtml(s.rsi)}
-        ${s.recReason ? `<div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:#9c93ff">💡 의견:</span> ${s.recReason}</div>` : ''}
       </div>
     </div>`;
   }).join('');
