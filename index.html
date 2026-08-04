@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>팀오호츠크 투자 대쉬보드</title>
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 :root {
   --bg:#f0f4fb; --surface:#ffffff; --surface2:#eef1f9;
@@ -39,12 +38,6 @@ html{overflow-x:hidden}
 .stat-value.green{color:var(--green)}
 .stat-value.red{color:var(--red)}
 .stat-sub{font-size:12px;color:var(--text2);margin-top:4px}
-
-/* Macro chart */
-.macro-chart-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:20px;margin-bottom:28px}
-.macro-chart-title{font-size:14px;font-weight:600;margin-bottom:6px}
-.macro-chart-sub{font-size:11px;color:var(--text2);margin-bottom:14px}
-.macro-chart-wrap{position:relative;height:280px}
 
 /* Timeline */
 .timeline{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:20px;margin-bottom:28px}
@@ -212,7 +205,6 @@ tr:hover td{background:rgba(108,99,255,.04)}
   #mainMemberTable thead th:nth-child(8),
   #mainMemberTable tbody td:nth-child(7),
   #mainMemberTable tbody td:nth-child(8){display:none}
-  .macro-chart-wrap{height:220px}
 }
 
 @media(max-width:900px){
@@ -237,10 +229,6 @@ tr:hover td{background:rgba(108,99,255,.04)}
   .timeline-stocks{font-size:10px}
   .timeline-return{font-size:11px}
   .timeline-dot{width:28px;height:28px;font-size:11px}
-
-  /* 매크로 차트 */
-  .macro-chart-card{padding:14px 12px}
-  .macro-chart-wrap{height:200px}
 
   /* 회차 탭 */
   .round-tabs{padding:4px;gap:4px}
@@ -319,12 +307,6 @@ tr:hover td{background:rgba(108,99,255,.04)}
   </div>
   <div class="stats-row" id="statsRow"></div>
   <div class="timeline"><div class="timeline-title">투자 라운드 진행 현황</div><div class="timeline-list" id="timelineList"></div></div>
-
-  <div class="macro-chart-card" id="macroChartCard">
-    <div class="macro-chart-title">회차별 수익률 추이</div>
-    <div class="macro-chart-sub">전 시즌 회차 평균 수익률 · 뷰모드 토글 반영</div>
-    <div class="macro-chart-wrap"><canvas id="macroChart"></canvas></div>
-  </div>
 
   <div class="round-tabs" id="roundTabs"></div>
   <div class="section-header"><div class="section-title" id="roundTitle"></div></div>
@@ -510,7 +492,6 @@ function setViewMode(mode) {
   renderTable();
   renderHallOfFame();
   renderAlerts();
-  renderMacroChart();
 }
 
 function updateViewModeBar() {
@@ -721,69 +702,6 @@ function renderTop() {
     </div>`).join('');
 }
 
-let _macroChart = null;
-function renderMacroChart() {
-  const canvas = document.getElementById('macroChart');
-  const card   = document.getElementById('macroChartCard');
-  if (!canvas || !card) return;
-
-  const palette = ['#6c63ff','#ff6584','#00b894','#f0a500','#4fc3f7','#e84057','#a29bfe','#55efc4'];
-  const seasons = DATA.seasons.filter(sn => sn.rounds.some(r => r.stocks.length > 0));
-
-  if (!seasons.length) { card.style.display = 'none'; return; }
-  card.style.display = '';
-
-  const maxRounds = Math.max(...seasons.map(sn => Math.max(...sn.rounds.map(r => r.id))));
-  const labels = Array.from({length: maxRounds}, (_, i) => `${i+1}회차`);
-
-  const datasets = seasons.map((sn, i) => {
-    const perRound = {};
-    sn.rounds.forEach(r => {
-      if (!r.stocks.length) return;
-      perRound[r.id] = r.stocks.reduce((s,x) => s + (priceOf(x) - x.buyPrice)/x.buyPrice*100, 0) / r.stocks.length;
-    });
-    const color = palette[i % palette.length];
-    return {
-      label: sn.label,
-      data: labels.map((_, idx) => perRound[idx+1] ?? null),
-      borderColor: color,
-      backgroundColor: color + '22',
-      pointBackgroundColor: color,
-      tension: 0.3,
-      spanGaps: true,
-      borderWidth: 2,
-      pointRadius: 4,
-      pointHoverRadius: 6
-    };
-  });
-
-  if (_macroChart) _macroChart.destroy();
-  _macroChart = new Chart(canvas.getContext('2d'), {
-    type: 'line',
-    data: { labels, datasets },
-    options: {
-      responsive: true,
-      maintainAspectRatio: false,
-      interaction: { mode: 'index', intersect: false },
-      plugins: {
-        legend: { position: 'top', labels: { color: '#1a1d35', font: { size: 12, weight: '600' }, boxWidth: 12, boxHeight: 12 } },
-        tooltip: {
-          backgroundColor: '#1a1d35',
-          padding: 10,
-          callbacks: {
-            label: (ctx) => ctx.parsed.y === null ? null :
-              `${ctx.dataset.label}: ${(ctx.parsed.y>=0?'+':'') + ctx.parsed.y.toFixed(2)}%`
-          }
-        }
-      },
-      scales: {
-        x: { grid: { color: '#eef1f9' }, ticks: { color: '#64748b' } },
-        y: { grid: { color: '#eef1f9' }, ticks: { color: '#64748b', callback: v => (v>=0?'+':'') + v + '%' } }
-      }
-    }
-  });
-}
-
 function computeAlerts() {
   const season = currentSeason();
   const items = [];
@@ -990,8 +908,7 @@ function renderAll() {
     renderTable();
     renderHallOfFame();
     renderAlerts();
-    renderMacroChart();
-    } catch(e) {
+      } catch(e) {
     console.error('renderAll 오류:', e);
     document.getElementById('lastUpdated').textContent = '⚠️ 렌더링 오류: ' + e.message;
   }
@@ -1134,7 +1051,6 @@ function selectSeason(id) {
   renderTop();
   renderTable();
   renderAlerts();
-  renderMacroChart();
 }
 
 function selectRound(id) { curRound = id; renderTabs(); renderStocks(); renderRoundMembers(); }
