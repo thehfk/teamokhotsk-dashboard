@@ -764,9 +764,8 @@ async function fetchMarketData() {
   return { cards, groups: Object.values(groupMap) };
 }
 
-// ── 뉴스 (프론트 fetch, Google News RSS via CORS proxy) ──
+// ── 뉴스 (프론트 fetch, Google News RSS via rss2json.com) ──
 async function fetchNewsForStocks() {
-  const proxy = 'https://corsproxy.io/?';
   const tickerSet = new Set();
   DATA.seasons.forEach(sn => sn.rounds.forEach(r => r.stocks.forEach(s => {
     if (!s.exitDate) tickerSet.add(s.ticker);
@@ -778,24 +777,26 @@ async function fetchNewsForStocks() {
   const newsMap = {};
   await Promise.allSettled([...tickerSet].map(async ticker => {
     try {
-      const url = `https://news.google.com/rss/search?q=${encodeURIComponent(ticker + ' stock')}&hl=en-US&gl=US&ceid=US:en`;
-      const r = await fetch(proxy + encodeURIComponent(url));
+      const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(ticker + ' stock')}&hl=en-US&gl=US&ceid=US:en`;
+      const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&count=4`;
+      const r = await fetch(apiUrl);
       if (!r.ok) return;
-      const xml = await r.text();
-      const doc = new DOMParser().parseFromString(xml, 'text/xml');
-      const items = [...doc.querySelectorAll('item')].slice(0, 4);
-      newsMap[ticker] = items.map(item => {
-        const rawTitle = item.querySelector('title')?.textContent || '';
-        const link     = item.querySelector('link')?.textContent  || '';
-        const pubDate  = item.querySelector('pubDate')?.textContent || '';
+      const json = await r.json();
+      if (json.status !== 'ok' || !Array.isArray(json.items)) return;
+      newsMap[ticker] = json.items.map(item => {
+        const rawTitle = item.title || '';
+        const link     = item.link  || '';
+        const pubDate  = item.pubDate || '';
         const m = rawTitle.match(/^(.*)\s[-–]\s([^-–]+)$/);
         const title     = (m ? m[1] : rawTitle).trim();
         const publisher = m ? m[2].trim() : '';
         let date = '';
         try {
-          const d = new Date(pubDate);
-          date = `${(d.getMonth()+1).toString().padStart(2,'0')}/${d.getDate().toString().padStart(2,'0')} ` +
-                 `${d.getHours().toString().padStart(2,'0')}:${d.getMinutes().toString().padStart(2,'0')}`;
+          const d = new Date(pubDate.replace(' ', 'T') + 'Z');
+          if (!isNaN(d)) {
+            date = `${(d.getMonth()+1).toString().padStart(2,'0')}/${d.getDate().toString().padStart(2,'0')} ` +
+                   `${d.getHours().toString().padStart(2,'0')}:${d.getMinutes().toString().padStart(2,'0')}`;
+          }
         } catch(e) {}
         const lower = title.toLowerCase();
         let type = 'neutral';
