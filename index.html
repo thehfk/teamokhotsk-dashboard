@@ -896,6 +896,16 @@ function computeAlerts() {
     }
   });
 
+  // RSI 시그널 (청산 안 된 종목만)
+  activeStocks.forEach(s => {
+    if (s.rsi === null || s.rsi === undefined) return;
+    if (s.rsi < 30) {
+      items.push({ type: 'buy', icon: '📊', msg: `${s.name} RSI ${s.rsi.toFixed(1)} · 과매도` });
+    } else if (s.rsi > 70) {
+      items.push({ type: 'sell', icon: '📊', msg: `${s.name} RSI ${s.rsi.toFixed(1)} · 과매수` });
+    }
+  });
+
   // 다음 회차 리서치 대기
   const upcoming = season.rounds.find(r => r.status === 'upcoming');
   if (upcoming && !items.some(x => x.type === 'info')) {
