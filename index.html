@@ -782,6 +782,63 @@ async function fetchMarketData() {
   return { cards, groups: Object.values(groupMap) };
 }
 
+// ── 뉴스 (프론트 fetch, Google News RSS via CORS proxy) ──
+async function fetchNewsForStocks() {
+  const proxy = 'https://corsproxy.io/?';
+  const tickerSet = new Set();
+  DATA.seasons.forEach(sn => sn.rounds.forEach(r => r.stocks.forEach(s => {
+    if (!s.exitDate) tickerSet.add(s.ticker);
+  })));
+
+  const posRE = /surge|soar|jump|beat|rise|gain|high|record|strong|growth|profit|up|bull|rally/;
+  const negRE = /fall|drop|plunge|miss|decline|loss|low|down|weak|cut|layoff|warn|concern|risk|sue|fine/;
+
+  const newsMap = {};
+  await Promise.allSettled([...tickerSet].map(async ticker => {
+    try {
+      const url = `https://news.google.com/rss/search?q=${encodeURIComponent(ticker + ' stock')}&hl=en-US&gl=US&ceid=US:en`;
+      const r = await fetch(proxy + encodeURIComponent(url));
+      if (!r.ok) return;
+      const xml = await r.text();
+      const doc = new DOMParser().parseFromString(xml, 'text/xml');
+      const items = [...doc.querySelectorAll('item')].slice(0, 4);
+      newsMap[ticker] = items.map(item => {
+        const rawTitle = item.querySelector('title')?.textContent || '';
+        const link     = item.querySelector('link')?.textContent  || '';
+        const pubDate  = item.querySelector('pubDate')?.textContent || '';
+        const m = rawTitle.match(/^(.*)\s[-–]\s([^-–]+)$/);
+        const title     = (m ? m[1] : rawTitle).trim();
+        const publisher = m ? m[2].trim() : '';
+        let date = '';
+        try {
+          const d = new Date(pubDate);
+          date = `${(d.getMonth()+1).toString().padStart(2,'0')}/${d.getDate().toString().padStart(2,'0')} ` +
+                 `${d.getHours().toString().padStart(2,'0')}:${d.getMinutes().toString().padStart(2,'0')}`;
+        } catch(e) {}
+        const lower = title.toLowerCase();
+        let type = 'neutral';
+        if (posRE.test(lower)) type = 'positive';
+        if (negRE.test(lower)) type = 'negative';
+        return { type, title, publisher, link, date };
+      });
+    } catch (e) {}
+  }));
+
+  DATA.seasons.forEach(sn => sn.rounds.forEach(r => r.stocks.forEach(s => {
+    if (newsMap[s.ticker] !== undefined) s.news = newsMap[s.ticker];
+  })));
+}
+
+async function loadNewsAsync() {
+  try {
+    await fetchNewsForStocks();
+  } catch (e) {
+    console.warn('뉴스 fetch 실패:', e);
+  } finally {
+    renderStocks();
+  }
+}
+
 // ── RSI (프론트 fetch, Yahoo 1개월 일봉 → 14-period 단순 평균) ──
 let _rsiLoading = true;
 
@@ -1363,6 +1420,7 @@ async function fetchData() {
   renderAll();
   loadMarketAsync();
   loadRSIAsync();
+  loadNewsAsync();
 }
 
 // ── 자동 새로고침 (5분) ───────────────────────────────────────
@@ -1400,6 +1458,7 @@ function refresh() {
 renderAll();
 loadMarketAsync();
 loadRSIAsync();
+loadNewsAsync();
 document.getElementById('lastUpdated').textContent = '샘플 데이터';
 fetchData().finally(startAutoRefresh);
 </script>

@@ -24,48 +24,10 @@ const DEFAULT_TOTAL_ROUNDS = 4;
 
 // 종목별 뉴스 & 추천 의견
 const STOCK_META = {
-  'PL': {
-    sector: '위성 / 데이터',
-    recommendation: 'buy',
-    recReason: 'AI 위성 기술 상용화 + 방위 수요 급증으로 수주잔고 $900M 돌파. 흑자 전환 시점이 핵심 관전 포인트',
-    news: [
-      { type: 'positive', text: '<strong>AI 궤도 탐지 성공</strong> — 펠리칸-4 위성에서 NVIDIA Jetson으로 실시간 AI 물체 탐지 구현', date: '2026-04-16' },
-      { type: 'positive', text: '<strong>Q4 FY2026 어닝 서프라이즈</strong> — 매출 $86.8M (컨센서스 $78.2M 상회), 방위 수주잔고 $900M 돌파', date: '2026-04-02' },
-      { type: 'positive', text: '<strong>미 공군 우주 예산 YoY +124%</strong> — 2027 회계연도 우주 분야 예산 대폭 증가, 지구 관측 수요 확대 기대', date: '2026-04-22' },
-      { type: 'neutral',  text: '<strong>수익성 개선 과제</strong> — EBIT 마진 -77.6% 유지, 흑자 전환까지 장기 관점 필요. Goldman Sachs 목표가 $20 유지', date: '2026-04-20' }
-    ]
-  },
-  'NVDA': {
-    sector: '반도체 / AI',
-    recommendation: 'strong-buy',
-    recReason: '사상 최고가 재돌파, 시총 $5.1조 달성. 5월 실적 발표 앞두고 블랙웰 공급 확대 기대감 지속',
-    news: [
-      { type: 'positive', text: '<strong>사상 최고가 재돌파</strong> — 4/24 2025년 10월 이후 첫 신고가 경신, 시가총액 $5.1조로 단독 선두 복귀', date: '2026-04-24' },
-      { type: 'positive', text: '<strong>반도체 AI 수요 확인</strong> — Intel 데이터센터 +22% 실적 호조로 AI 칩 수요 증가 전망 상향', date: '2026-04-24' },
-      { type: 'neutral',  text: '<strong>5월 20일 실적 발표 예정</strong> — 블랙웰 GPU 공급 현황·마진 가이던스 주목, 단기 차익 실현 매물 경계', date: '2026-04-25' }
-    ]
-  },
-  'NKE': {
-    sector: '스포츠 의류 / 소비재',
-    recommendation: 'hold',
-    recReason: "'Win Now' 구조조정으로 비용 절감 중이나 중국 매출 -20% 전망·Converse -35% 등 단기 실적 회복 불확실. 2027년 2월 분기부터 매출 성장 재개 예상",
-    news: [
-      { type: 'negative', text: '<strong>2차 인력 감축 단행</strong> — 기술 부서 중심 1,400명(전체 2%) 추가 감원, Win Now 턴어라운드 전략 가속화', date: '2026-04-15' },
-      { type: 'negative', text: '<strong>중국 매출 -20% 전망</strong> — 현 분기 중국 추가 급락, Converse YoY -35% 지속. JPMorgan 등 복수 증권사 하향 조정', date: '2026-04-10' },
-      { type: 'neutral',  text: '<strong>혁신 총괄 임원 교체</strong> — Tony Bignell 퇴임·Andy Caine 선임, 제품 혁신 방향 재정비 중', date: '2026-04-08' },
-      { type: 'neutral',  text: '<strong>52주 최저가 근접</strong> — 현재 $44.69, 52주 저점 $42.09 근접. 밸류에이션 매력 vs 실적 불확실성 사이 관망세', date: '2026-04-24' }
-    ]
-  },
-  'GOOGL': {
-    sector: '빅테크 / 클라우드',
-    recommendation: 'buy',
-    recReason: 'Anthropic $400억 투자·Wiz 인수 완료로 AI 클라우드 경쟁력 강화. 4/29 실적 발표가 단기 방향성 결정',
-    news: [
-      { type: 'positive', text: '<strong>Anthropic $400억 투자 확정</strong> — Google Cloud를 주요 인프라로 지정, AI 클라우드 수요 직접 수혜 기대', date: '2026-04-23' },
-      { type: 'positive', text: '<strong>Wiz 인수 완료</strong> — 클라우드 보안 강자 Wiz 인수로 AI 보안 포트폴리오 강화', date: '2026-04-23' },
-      { type: 'neutral',  text: '<strong>4월 29일 1분기 실적 발표</strong> — AI 투자 ROI·광고 매출 성장률·Google Cloud 가속 여부 주목', date: '2026-04-22' }
-    ]
-  }
+  'PL':    { sector: '위성 / 데이터' },
+  'NVDA':  { sector: '반도체 / AI' },
+  'NKE':   { sector: '스포츠 의류 / 소비재' },
+  'GOOGL': { sector: '빅테크 / 클라우드' }
 };
 
 // 멤버 색상 (이름 → hex)
@@ -225,8 +187,7 @@ function buildData(sheet) {
         const avgBuy = s.buyPrices.length > 0
           ? s.buyPrices.reduce((a, b) => a + b, 0) / s.buyPrices.length : 0;
         const isExited = !!s.exitDate;
-        const liveNews = isExited ? [] : fetchNewsRSS(s.ticker);
-        // RSI는 프론트에서 CORS 프록시로 Yahoo 직접 호출 (Apps Script IP는 Yahoo에서 차단)
+        // 뉴스와 RSI 모두 프론트에서 CORS 프록시로 직접 호출 (Apps Script IP는 대부분 외부 데이터 소스에서 차단)
         const rsi      = null;
         return {
           ticker:         s.ticker,
@@ -238,7 +199,7 @@ function buildData(sheet) {
           exitDate:       s.exitDate || '',
           rsi:            rsi,
           recReason:      meta.recReason      || '',
-          news:           isExited ? [] : (liveNews.length ? liveNews : (meta.news || []))
+          news:           []  // 프론트에서 loadNewsAsync가 채움
         };
       });
       return { id: roundId, label: `${roundId}회차`, date, status: rStatus, stocks };
