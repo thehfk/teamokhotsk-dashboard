@@ -95,24 +95,15 @@ html{overflow-x:hidden}
 .rec-btn.sell{border-color:var(--red);background:rgba(255,77,109,.1);color:var(--red)}
 .rec-btn.active{opacity:1;transform:scale(1.02)}
 .rec-btn:not(.active){opacity:.3}
-/* News (dedicated section) */
-.news-legend{display:flex;flex-wrap:wrap;gap:12px;align-items:center;font-size:12px;color:var(--text2)}
-.news-legend-item{display:flex;align-items:center;gap:5px}
-.news-legend-swatch{width:10px;height:10px;border-radius:2px;display:inline-block}
-.news-legend-swatch.pos{background:var(--green)}
-.news-legend-swatch.neg{background:var(--red)}
-.news-legend-swatch.neu{background:var(--border)}
-.news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px;margin-bottom:32px}
-.news-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px}
-.news-stock-tag{font-size:0.78rem;color:var(--accent);font-weight:700;margin-bottom:10px}
-.news-stock-tag .ticker{color:var(--text2);font-weight:500;margin-left:4px}
-.news-empty{font-size:12px;color:var(--text2);text-align:center;padding:20px}
+/* News (per stock card) */
+.news-section{margin-top:12px}
+.news-section-title{font-size:11px;color:var(--text2);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px;font-weight:600}
 .news-articles{display:flex;flex-direction:column;gap:8px}
 .news-article{padding:8px 10px;border-radius:6px;background:var(--surface2);border-left:3px solid var(--border)}
 .news-article.positive{border-left-color:var(--green);background:rgba(0,184,148,.06)}
 .news-article.negative{border-left-color:var(--red);background:rgba(232,64,87,.06)}
 .news-article-title{font-size:0.83rem;color:var(--text);line-height:1.45;margin-bottom:5px;word-break:keep-all;overflow-wrap:break-word}
-.news-article-meta{font-size:0.70rem;color:var(--text2);display:flex;align-items:center;gap:8px}
+.news-article-meta{font-size:0.70rem;color:var(--text2);display:flex;align-items:center;gap:8px;flex-wrap:wrap}
 .news-article-link{font-size:0.70rem;color:var(--accent);border:1px solid var(--border);border-radius:4px;padding:1px 8px;text-decoration:none;white-space:nowrap;margin-left:auto}
 .news-article-link:hover{background:var(--surface2)}
 
@@ -367,16 +358,6 @@ tr:hover td{background:rgba(108,99,255,.04)}
     </div></div>
     <div class="m-cards" id="memberCards"></div>
   </div>
-
-  <div style="display:flex;align-items:center;gap:16px;margin:32px 0 12px;flex-wrap:wrap">
-    <div class="section-title" style="margin:0">📰 관련 뉴스</div>
-    <div class="news-legend">
-      <span class="news-legend-item"><span class="news-legend-swatch pos"></span>긍정적 뉴스</span>
-      <span class="news-legend-item"><span class="news-legend-swatch neg"></span>부정적 뉴스</span>
-      <span class="news-legend-item"><span class="news-legend-swatch neu"></span>중립</span>
-    </div>
-  </div>
-  <div class="news-grid" id="newsGrid"></div>
 </div>
 
 <div class="modal-overlay" id="memberModal" onclick="if(event.target===this)closeModal()">
@@ -524,7 +505,6 @@ function setViewMode(mode) {
   renderHallOfFame();
   renderAlerts();
   renderMacroChart();
-  renderNews();
 }
 
 function updateViewModeBar() {
@@ -674,7 +654,11 @@ function renderStocks() {
           <div class="metric-box"><div class="metric-label">팀 보유</div><div class="metric-value">${totalShares}주</div></div>
         </div>
         ${isExited ? '' : `<div class="recommendation-row">${recHtml}</div>
-        <div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:var(--accent)">💡 의견:</span> ${s.recReason}</div>`}
+        <div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:var(--accent)">💡 의견:</span> ${s.recReason}</div>
+        ${newsArticlesHtml(s.news) ? `<div class="news-section">
+          <div class="news-section-title">📰 관련 뉴스</div>
+          <div class="news-articles">${newsArticlesHtml(s.news)}</div>
+        </div>` : ''}`}
       </div>
     </div>`;
   }).join('');
@@ -829,43 +813,19 @@ function computeAlerts() {
   return items;
 }
 
-function renderNews() {
-  const grid = document.getElementById('newsGrid');
-  if (!grid) return;
-
-  const seen = new Set();
-  const stocks = [];
-  currentSeason().rounds.forEach(r => r.stocks.forEach(s => {
-    if (s.exitDate) return;
-    if (seen.has(s.ticker)) return;
-    seen.add(s.ticker);
-    stocks.push(s);
-  }));
-
-  if (!stocks.length) {
-    grid.innerHTML = '<div class="news-empty">청산 안 된 종목이 없어 표시할 뉴스가 없습니다</div>';
-    return;
-  }
-
-  grid.innerHTML = stocks.map(s => {
-    const items = (s.news || []).filter(n => (n.title || n.text));
-    const articlesHtml = items.length
-      ? items.map(n => {
-          const cls = n.type === 'positive' ? 'positive' : n.type === 'negative' ? 'negative' : 'neutral';
-          const titleText = n.title || (n.text || '').replace(/<\/?strong>/g, '');
-          const meta = [n.publisher, n.date].filter(Boolean).join(' · ');
-          const link = n.link
-            ? `<a class="news-article-link" href="${n.link}" target="_blank" rel="noopener">원문 →</a>`
-            : '';
-          return `<div class="news-article ${cls}">
-            <div class="news-article-title">${titleText}</div>
-            <div class="news-article-meta">${meta}${link}</div>
-          </div>`;
-        }).join('')
-      : '<div class="news-empty" style="padding:8px 0">뉴스 없음</div>';
-    return `<div class="news-card">
-      <div class="news-stock-tag">${s.name} <span class="ticker">(${s.ticker})</span></div>
-      <div class="news-articles">${articlesHtml}</div>
+function newsArticlesHtml(newsList) {
+  const items = (newsList || []).filter(n => n.title || n.text);
+  if (!items.length) return '';
+  return items.map(n => {
+    const cls = n.type === 'positive' ? 'positive' : n.type === 'negative' ? 'negative' : 'neutral';
+    const titleText = n.title || (n.text || '').replace(/<\/?strong>/g, '');
+    const meta = [n.publisher, n.date].filter(Boolean).join(' · ');
+    const link = n.link
+      ? `<a class="news-article-link" href="${n.link}" target="_blank" rel="noopener">원문 →</a>`
+      : '';
+    return `<div class="news-article ${cls}">
+      <div class="news-article-title">${titleText}</div>
+      <div class="news-article-meta">${meta}${link}</div>
     </div>`;
   }).join('');
 }
@@ -1011,8 +971,7 @@ function renderAll() {
     renderHallOfFame();
     renderAlerts();
     renderMacroChart();
-    renderNews();
-  } catch(e) {
+    } catch(e) {
     console.error('renderAll 오류:', e);
     document.getElementById('lastUpdated').textContent = '⚠️ 렌더링 오류: ' + e.message;
   }
@@ -1156,7 +1115,6 @@ function selectSeason(id) {
   renderTable();
   renderAlerts();
   renderMacroChart();
-  renderNews();
 }
 
 function selectRound(id) { curRound = id; renderTabs(); renderStocks(); renderRoundMembers(); }
