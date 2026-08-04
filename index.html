@@ -87,14 +87,20 @@ html{overflow-x:hidden}
 .metric-box{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:10px 12px;text-align:center}
 .metric-label{font-size:10px;color:var(--text2);margin-bottom:4px;text-transform:uppercase}
 .metric-value{font-size:15px;font-weight:600}
-.recommendation-row{display:flex;gap:8px;margin-bottom:16px}
-.rec-btn{flex:1;padding:8px;border-radius:8px;border:1px solid;font-size:12px;font-weight:600;text-align:center;cursor:default}
-.rec-btn.strong-buy{border-color:var(--green);background:rgba(0,212,170,.1);color:var(--green)}
-.rec-btn.buy{border-color:#69db7c;background:rgba(105,219,124,.1);color:#69db7c}
-.rec-btn.hold{border-color:var(--yellow);background:rgba(255,209,102,.1);color:var(--yellow)}
-.rec-btn.sell{border-color:var(--red);background:rgba(255,77,109,.1);color:var(--red)}
-.rec-btn.active{opacity:1;transform:scale(1.02)}
-.rec-btn:not(.active){opacity:.3}
+/* RSI (Relative Strength Index) */
+.rsi-box{margin-bottom:16px;padding:12px 14px;background:var(--surface2);border:1px solid var(--border);border-radius:8px}
+.rsi-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px}
+.rsi-title{font-size:11px;color:var(--text2);letter-spacing:.3px}
+.rsi-title-full{opacity:.6;font-size:10px}
+.rsi-value{font-size:20px;font-weight:700}
+.rsi-status{font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;margin-left:8px}
+.rsi-status.oversold{background:rgba(0,184,148,.12);color:var(--green)}
+.rsi-status.neutral{background:var(--border);color:var(--text2)}
+.rsi-status.overbought{background:rgba(232,64,87,.12);color:var(--red)}
+.rsi-bar{position:relative;height:8px;background:linear-gradient(to right,rgba(0,184,148,.25) 0%,rgba(0,184,148,.25) 30%,var(--border) 30%,var(--border) 70%,rgba(232,64,87,.25) 70%,rgba(232,64,87,.25) 100%);border-radius:4px;overflow:visible}
+.rsi-pointer{position:absolute;top:-2px;width:2px;height:12px;background:var(--text);transform:translateX(-1px);border-radius:1px}
+.rsi-scale{display:flex;justify-content:space-between;font-size:10px;color:var(--text2);margin-top:4px;opacity:.7}
+.rsi-empty{font-size:11px;color:var(--text2);text-align:center;padding:6px 0}
 /* News (per stock card) */
 .news-section{margin-top:12px}
 .news-section-title{font-size:11px;color:var(--text2);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px;font-weight:600}
@@ -250,7 +256,7 @@ tr:hover td{background:rgba(108,99,255,.04)}
   .metrics-row{gap:8px}
   .metric-box{padding:8px 10px}
   .metric-value{font-size:13px}
-  .recommendation-row{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+  .rsi-value{font-size:17px}
   .news-grid{grid-template-columns:1fr;gap:10px}
 
   /* 배분/TOP 섹션 */
@@ -617,7 +623,6 @@ function renderStocks() {
     return;
   }
 
-  const recLabels = {'strong-buy':'강력 매수','buy':'매수','hold':'보유','sell':'매도'};
   document.getElementById('stocksGrid').innerHTML = round.stocks.map(s => {
     const isExited = !!s.exitDate;
     const shownPrice = priceOf(s);
@@ -627,9 +632,6 @@ function renderStocks() {
       const h = m.holdings.find(h => h.ticker === s.ticker && h.season === curSeason);
       return sum + (h ? h.quantity : 0);
     }, 0);
-    const recHtml = ['strong-buy','buy','hold','sell'].map(r =>
-      `<div class="rec-btn ${r} ${s.recommendation===r?'active':''}">${recLabels[r]}</div>`
-    ).join('');
     const priceLabel = (isExited && viewMode === 'exit') ? '청산가' : '현재가';
     const exitBadge = isExited ? `<span class="exit-badge" title="청산일 ${s.exitDate}">청산</span>` : '';
     const exitNote  = isExited
@@ -653,8 +655,8 @@ function renderStocks() {
           <div class="metric-box"><div class="metric-label">${priceLabel}</div><div class="metric-value" style="color:${clr(chg)}">$${shownPrice.toFixed(2)}</div></div>
           <div class="metric-box"><div class="metric-label">팀 보유</div><div class="metric-value">${totalShares}주</div></div>
         </div>
-        ${isExited ? '' : `<div class="recommendation-row">${recHtml}</div>
-        <div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:var(--accent)">💡 의견:</span> ${s.recReason}</div>
+        ${isExited ? '' : `${rsiHtml(s.rsi)}
+        ${s.recReason ? `<div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:var(--accent)">💡 의견:</span> ${s.recReason}</div>` : ''}
         ${newsArticlesHtml(s.news) ? `<div class="news-section">
           <div class="news-section-title">📰 관련 뉴스</div>
           <div class="news-articles">${newsArticlesHtml(s.news)}</div>
@@ -813,6 +815,28 @@ function computeAlerts() {
   return items;
 }
 
+function rsiHtml(rsi) {
+  if (rsi === null || rsi === undefined) {
+    return `<div class="rsi-box">
+      <div class="rsi-head"><span class="rsi-title">RSI <span class="rsi-title-full">(14일)</span></span></div>
+      <div class="rsi-empty">데이터 없음</div>
+    </div>`;
+  }
+  const pos = Math.max(0, Math.min(100, rsi));
+  let cls = 'neutral', label = '중립';
+  if (rsi < 30) { cls = 'oversold'; label = '과매도'; }
+  else if (rsi > 70) { cls = 'overbought'; label = '과매수'; }
+  const color = rsi < 30 ? 'var(--green)' : rsi > 70 ? 'var(--red)' : 'var(--text)';
+  return `<div class="rsi-box">
+    <div class="rsi-head">
+      <span class="rsi-title">RSI <span class="rsi-title-full">(Relative Strength Index, 14일)</span></span>
+      <span><span class="rsi-value" style="color:${color}">${rsi.toFixed(1)}</span><span class="rsi-status ${cls}">${label}</span></span>
+    </div>
+    <div class="rsi-bar"><div class="rsi-pointer" style="left:${pos}%"></div></div>
+    <div class="rsi-scale"><span>0</span><span>30</span><span>70</span><span>100</span></div>
+  </div>`;
+}
+
 function newsArticlesHtml(newsList) {
   const items = (newsList || []).filter(n => n.title || n.text);
   if (!items.length) return '';
@@ -928,11 +952,7 @@ function renderWatchlist() {
   if (!list.length) { el.style.display = 'none'; return; }
   el.style.display = '';
 
-  const recLabels = {'strong-buy':'강력 매수','buy':'매수','hold':'보유','sell':'매도'};
   document.getElementById('watchlistGrid').innerHTML = list.map(s => {
-    const recHtml = ['strong-buy','buy','hold','sell'].map(r =>
-      `<div class="rec-btn ${r} ${s.recommendation===r?'active':''}">${recLabels[r]}</div>`
-    ).join('');
     return `<div class="stock-card" style="border-color:var(--border)">
       <div class="stock-card-header" style="background:var(--surface2)">
         <div class="stock-info">
@@ -945,8 +965,8 @@ function renderWatchlist() {
         </div>
       </div>
       <div class="stock-card-body">
-        <div class="recommendation-row">${recHtml}</div>
-        <div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:#9c93ff">💡 의견:</span> ${s.recReason}</div>
+        ${rsiHtml(s.rsi)}
+        ${s.recReason ? `<div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6"><span style="color:#9c93ff">💡 의견:</span> ${s.recReason}</div>` : ''}
       </div>
     </div>`;
   }).join('');

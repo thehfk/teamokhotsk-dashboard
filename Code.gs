@@ -226,6 +226,7 @@ function buildData(sheet) {
           ? s.buyPrices.reduce((a, b) => a + b, 0) / s.buyPrices.length : 0;
         const isExited = !!s.exitDate;
         const liveNews = isExited ? [] : fetchNewsRSS(s.ticker);
+        const rsi      = isExited ? null : fetchRSI(s.ticker);
         return {
           ticker:         s.ticker,
           name:           s.name,
@@ -234,7 +235,7 @@ function buildData(sheet) {
           currentPrice:   s.currentPrice,
           livePrice:      s.livePrice || s.currentPrice,
           exitDate:       s.exitDate || '',
-          recommendation: meta.recommendation || 'hold',
+          rsi:            rsi,
           recReason:      meta.recReason      || '',
           news:           isExited ? [] : (liveNews.length ? liveNews : (meta.news || []))
         };
@@ -258,6 +259,51 @@ function parseTicker(raw) {
   // "NYSE:pl" → "PL",  "NASDAQ:NVDA" → "NVDA",  "GOOGL" → "GOOGL"
   const parts = String(raw).split(':');
   return parts[parts.length - 1].toUpperCase().trim();
+}
+
+// ── RSI (Yahoo Finance 일봉, 10분 캐시) ──────────────────────
+function computeRSI(closes, period) {
+  period = period || 14;
+  const c = (closes || []).filter(x => x !== null && !isNaN(x));
+  if (c.length < period + 1) return null;
+  const slice = c.slice(-period - 1);
+  let gains = 0, losses = 0;
+  for (let i = 1; i < slice.length; i++) {
+    const d = slice[i] - slice[i-1];
+    if (d > 0) gains += d;
+    else losses -= d;
+  }
+  const avgGain = gains / period;
+  const avgLoss = losses / period;
+  if (avgLoss === 0) return 100;
+  const rs = avgGain / avgLoss;
+  return Math.round((100 - 100 / (1 + rs)) * 10) / 10;
+}
+
+function fetchRSI(ticker) {
+  try {
+    const cache = CacheService.getScriptCache();
+    const key = 'rsi_' + ticker;
+    const hit = cache.get(key);
+    if (hit !== null) {
+      const v = parseFloat(hit);
+      return isNaN(v) ? null : v;
+    }
+    const url = 'https://query1.finance.yahoo.com/v8/finance/chart/' +
+                encodeURIComponent(ticker) + '?range=1mo&interval=1d';
+    const resp = UrlFetchApp.fetch(url, {
+      muteHttpExceptions: true,
+      headers: { 'User-Agent': 'Mozilla/5.0' }
+    });
+    if (resp.getResponseCode() !== 200) return null;
+    const data = JSON.parse(resp.getContentText());
+    const closes = data.chart.result[0].indicators.quote[0].close;
+    const rsi = computeRSI(closes);
+    cache.put(key, rsi === null ? '' : String(rsi), 600);
+    return rsi;
+  } catch (e) {
+    return null;
+  }
 }
 
 // ── 실시간 뉴스 (Google News RSS, 30분 캐시) ────────────────
