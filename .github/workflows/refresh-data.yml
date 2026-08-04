@@ -1,0 +1,43 @@
+name: Refresh data
+
+on:
+  schedule:
+    # 30분마다 (UTC 기준). GitHub Actions cron은 정확한 시간이 아닐 수 있음 (~5분 지연 일반적)
+    - cron: "*/30 * * * *"
+  workflow_dispatch:  # Actions 탭에서 수동 실행 가능
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Fetch data
+        run: python scripts/refresh_data.py
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n "$(git status --porcelain data/data.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/data.json
+            git commit -m "data: auto-refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "No changes to commit"
+          fi

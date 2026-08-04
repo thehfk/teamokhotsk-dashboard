@@ -715,212 +715,47 @@ function renderTop() {
     </div>`).join('');
 }
 
-const MARKET_INDICES = [
-  { name: 'S&P500',      ticker: '^GSPC',  group: '미국 시장' },
-  { name: 'NASDAQ',      ticker: '^IXIC',  group: '미국 시장' },
-  { name: '다우존스',     ticker: '^DJI',   group: '미국 시장' },
-  { name: '공포지수 VIX', ticker: '^VIX',   group: '공포지수 VIX' },
-  { name: '미국10년금리', ticker: '^TNX',   group: '환율 / 금리' },
-  { name: '원달러환율',   ticker: 'KRW=X',  group: '환율 / 금리' },
-  { name: 'KOSPI',       ticker: '^KS11',  group: '한국 시장' },
-  { name: 'KOSDAQ',      ticker: '^KQ11',  group: '한국 시장' }
-];
+// ── 시장 지수 + RSI + 뉴스 (GitHub Actions가 30분마다 갱신한 data/data.json) ──
+let _dataLoading = true;
 
-async function fetchMarketData() {
-  const proxy = 'https://corsproxy.io/?';
-  const results = await Promise.allSettled(MARKET_INDICES.map(async idx => {
-    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(idx.ticker)}?range=3mo&interval=1d`;
-    const r = await fetch(proxy + encodeURIComponent(url));
-    if (!r.ok) throw new Error('HTTP ' + r.status);
-    const data = await r.json();
-    const result = data.chart.result && data.chart.result[0];
-    if (!result) throw new Error('empty');
-    const closes = result.indicators.quote[0].close;
-    const timestamps = result.timestamp || [];
-    const labels = [], series = [];
-    for (let i = 0; i < timestamps.length; i++) {
-      const c = closes[i];
-      if (c === null || c === undefined) continue;
-      const d = new Date(timestamps[i] * 1000);
-      labels.push(`${(d.getMonth()+1).toString().padStart(2,'0')}/${d.getDate().toString().padStart(2,'0')}`);
-      series.push(Math.round(c * 100) / 100);
-    }
-    if (series.length < 2) throw new Error('insufficient data');
-    const value = series[series.length - 1];
-    const prev  = series[series.length - 2];
-    const change = ((value - prev) / prev) * 100;
-    return { ...idx, value, change: Math.round(change * 100) / 100, labels, series };
-  }));
-
-  const cards = [];
-  const groupMap = {};
-  results.forEach(r => {
-    if (r.status !== 'fulfilled') return;
-    const d = r.value;
-    cards.push({ name: d.name, value: d.value, change: d.change });
-    if (!groupMap[d.group]) groupMap[d.group] = { name: d.group, labels: d.labels, series: [] };
-    groupMap[d.group].series.push({ name: d.name, data: d.series });
-  });
-  return { cards, groups: Object.values(groupMap) };
-}
-
-// ── 뉴스 (프론트 fetch, Google News RSS via rss2json.com) ──
-async function fetchNewsForStocks() {
-  const tickerSet = new Set();
-  DATA.seasons.forEach(sn => sn.rounds.forEach(r => r.stocks.forEach(s => {
-    if (!s.exitDate) tickerSet.add(s.ticker);
-  })));
-
-  const posRE = /surge|soar|jump|beat|rise|gain|high|record|strong|growth|profit|up|bull|rally/;
-  const negRE = /fall|drop|plunge|miss|decline|loss|low|down|weak|cut|layoff|warn|concern|risk|sue|fine/;
-
-  // rss2json 3회 재시도 → 그래도 실패면 feed2json fallback
-  async function fetchRawNewsItems(rssUrl) {
-    const rss2jsonUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
-    for (let i = 0; i < 3; i++) {
-      try {
-        const r = await fetch(rss2jsonUrl);
-        if (r.ok) {
-          const j = await r.json();
-          if (j.status === 'ok' && Array.isArray(j.items) && j.items.length) {
-            return j.items.map(x => ({ title: x.title, link: x.link, pubDate: x.pubDate }));
-          }
-        }
-      } catch (e) {}
-      if (i < 2) await new Promise(res => setTimeout(res, 1500 * (i + 1)));
-    }
-    try {
-      const r = await fetch(`https://feed2json.org/convert?url=${encodeURIComponent(rssUrl)}`);
-      if (r.ok) {
-        const j = await r.json();
-        if (Array.isArray(j.items) && j.items.length) {
-          return j.items.map(x => ({ title: x.title, link: x.url, pubDate: x.date_published }));
-        }
-      }
-    } catch (e) {}
-    return null;
-  }
-
-  const newsMap = {};
-  await Promise.allSettled([...tickerSet].map(async ticker => {
-    try {
-      const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(ticker + ' stock')}&hl=en-US&gl=US&ceid=US:en`;
-      const items = await fetchRawNewsItems(rssUrl);
-      if (!items) return;
-      newsMap[ticker] = items.slice(0, 4).map(item => {
-        const rawTitle = item.title || '';
-        const link     = item.link  || '';
-        const pubDate  = item.pubDate || '';
-        const m = rawTitle.match(/^(.*)\s[-–]\s([^-–]+)$/);
-        const title     = (m ? m[1] : rawTitle).trim();
-        const publisher = m ? m[2].trim() : '';
-        let date = '';
-        try {
-          const d = new Date(pubDate.replace(' ', 'T') + 'Z');
-          if (!isNaN(d)) {
-            date = `${(d.getMonth()+1).toString().padStart(2,'0')}/${d.getDate().toString().padStart(2,'0')} ` +
-                   `${d.getHours().toString().padStart(2,'0')}:${d.getMinutes().toString().padStart(2,'0')}`;
-          }
-        } catch(e) {}
-        const lower = title.toLowerCase();
-        let type = 'neutral';
-        if (posRE.test(lower)) type = 'positive';
-        if (negRE.test(lower)) type = 'negative';
-        return { type, title, publisher, link, date };
-      });
-    } catch (e) {}
-  }));
-
-  DATA.seasons.forEach(sn => sn.rounds.forEach(r => r.stocks.forEach(s => {
-    if (newsMap[s.ticker] !== undefined) s.news = newsMap[s.ticker];
-  })));
-}
-
-async function loadNewsAsync() {
-  try {
-    await fetchNewsForStocks();
-  } catch (e) {
-    console.warn('뉴스 fetch 실패:', e);
-  } finally {
-    renderStocks();
-  }
-}
-
-// ── RSI (프론트 fetch, Yahoo 1개월 일봉 → 14-period 단순 평균) ──
-let _rsiLoading = true;
-
-function computeRSIClient(closes, period) {
-  period = period || 14;
-  const c = (closes || []).filter(x => x !== null && !isNaN(x));
-  if (c.length < period + 1) return null;
-  const slice = c.slice(-period - 1);
-  let gains = 0, losses = 0;
-  for (let i = 1; i < slice.length; i++) {
-    const d = slice[i] - slice[i-1];
-    if (d > 0) gains += d;
-    else losses -= d;
-  }
-  const avgGain = gains / period;
-  const avgLoss = losses / period;
-  if (avgLoss === 0) return 100;
-  const rs = avgGain / avgLoss;
-  return Math.round((100 - 100 / (1 + rs)) * 10) / 10;
-}
-
-async function fetchRSIForStocks() {
-  const proxy = 'https://corsproxy.io/?';
-  const tickerSet = new Set();
-  DATA.seasons.forEach(sn => sn.rounds.forEach(r => r.stocks.forEach(s => {
-    if (!s.exitDate) tickerSet.add(s.ticker);
-  })));
-
-  const rsiMap = {};
-  await Promise.allSettled([...tickerSet].map(async ticker => {
-    try {
-      const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(ticker)}?range=1mo&interval=1d`;
-      const r = await fetch(proxy + encodeURIComponent(url));
-      if (!r.ok) return;
-      const data = await r.json();
-      const result = data.chart.result && data.chart.result[0];
-      if (!result) return;
-      const closes = result.indicators.quote[0].close;
-      const rsi = computeRSIClient(closes);
-      if (rsi !== null) rsiMap[ticker] = rsi;
-    } catch (e) {}
-  }));
-
-  // 종목 객체에 rsi 주입
-  DATA.seasons.forEach(sn => sn.rounds.forEach(r => r.stocks.forEach(s => {
-    if (rsiMap[s.ticker] !== undefined) s.rsi = rsiMap[s.ticker];
-  })));
-}
-
-async function loadRSIAsync() {
-  try {
-    await fetchRSIForStocks();
-  } catch (e) {
-    console.warn('RSI fetch 실패:', e);
-  } finally {
-    _rsiLoading = false;
-    renderStocks();
-    renderAlerts();
-  }
-}
-
-async function loadMarketAsync() {
-  try {
-    const section = document.getElementById('marketSection');
-    if (section) section.style.display = '';
-    // 로딩 표시
+async function loadDataAsync() {
+  const section = document.getElementById('marketSection');
+  if (section) {
+    section.style.display = '';
     document.getElementById('marketCards').innerHTML =
       '<div style="grid-column:1/-1;padding:20px;text-align:center;font-size:12px;color:var(--text2)">시장 지수 로딩 중...</div>';
-    const m = await fetchMarketData();
-    DATA.market = m;
-    renderMarket();
+  }
+  try {
+    const r = await fetch('data/data.json?_=' + Date.now());
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const bundle = await r.json();
+
+    if (bundle.market) DATA.market = bundle.market;
+
+    if (bundle.rsi) {
+      DATA.seasons.forEach(sn => sn.rounds.forEach(rd => rd.stocks.forEach(s => {
+        if (bundle.rsi[s.ticker] !== undefined) s.rsi = bundle.rsi[s.ticker];
+      })));
+    }
+
+    if (bundle.news) {
+      DATA.seasons.forEach(sn => sn.rounds.forEach(rd => rd.stocks.forEach(s => {
+        if (bundle.news[s.ticker] !== undefined) s.news = bundle.news[s.ticker];
+      })));
+    }
+
+    if (bundle.updatedAt) {
+      DATA._dataUpdatedAt = bundle.updatedAt;
+    }
   } catch (e) {
-    console.warn('시장 데이터 fetch 실패:', e);
+    console.warn('data.json fetch 실패:', e);
     document.getElementById('marketCards').innerHTML =
       '<div style="grid-column:1/-1;padding:20px;text-align:center;font-size:12px;color:var(--text2)">시장 지수 로딩 실패</div>';
+  } finally {
+    _dataLoading = false;
+    renderMarket();
+    renderStocks();
+    renderAlerts();
   }
 }
 
@@ -1042,7 +877,7 @@ function computeAlerts() {
 
 function rsiHtml(rsi) {
   if (rsi === null || rsi === undefined) {
-    const msg = _rsiLoading ? '로딩 중...' : '데이터 없음';
+    const msg = _dataLoading ? '로딩 중...' : '데이터 없음';
     return `<div class="rsi-box">
       <div class="rsi-head"><span class="rsi-title">RSI <span class="rsi-title-full">(14일)</span></span></div>
       <div class="rsi-empty">${msg}</div>
@@ -1425,9 +1260,7 @@ async function fetchData() {
     return;
   }
   renderAll();
-  loadMarketAsync();
-  loadRSIAsync();
-  loadNewsAsync();
+  loadDataAsync();
 }
 
 // ── 자동 새로고침 (5분) ───────────────────────────────────────
@@ -1461,11 +1294,9 @@ function refresh() {
   fetchData().finally(startAutoRefresh);
 }
 
-// 즉시 렌더 → 백그라운드 시트 & 뉴스 & 시장 지수 & RSI 업데이트
+// 즉시 렌더 → 백그라운드로 시트(Apps Script) & 시장/RSI/뉴스(data.json) 로드
 renderAll();
-loadMarketAsync();
-loadRSIAsync();
-loadNewsAsync();
+loadDataAsync();
 document.getElementById('lastUpdated').textContent = '샘플 데이터';
 fetchData().finally(startAutoRefresh);
 </script>
