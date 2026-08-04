@@ -16,16 +16,13 @@
 body{background:var(--bg);color:var(--text);font-family:'Segoe UI',-apple-system,sans-serif;padding-bottom:60px;overflow-x:hidden}
 html{overflow-x:hidden}
 
-/* Header */
-.header{background:linear-gradient(135deg,#ffffff,#eef1f9);border-bottom:1px solid var(--border);padding:20px 32px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
-.header-left{display:flex;align-items:center;gap:14px}
-.logo{width:44px;height:44px;background:linear-gradient(135deg,var(--accent),var(--accent2));border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:bold}
-.header h1{font-size:20px;font-weight:700}
-.header h1 span{color:var(--accent)}
-.header-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-end}
-.last-updated{font-size:12px;color:var(--text2)}
-.refresh-btn{background:var(--surface2);border:1px solid var(--border);color:var(--text2);padding:6px 14px;border-radius:8px;cursor:pointer;font-size:13px;transition:all .2s}
-.refresh-btn:hover{border-color:var(--accent);color:var(--accent)}
+/* Header (minimal) */
+.dash-h1{font-size:1.5rem;font-weight:700;color:var(--text);margin-bottom:4px}
+.dash-subtitle{color:var(--text2);font-size:0.85rem;margin-bottom:24px;display:flex;flex-wrap:wrap;align-items:center;gap:6px 4px}
+.dash-subtitle .sep{color:var(--text2);opacity:.5}
+.dash-subtitle .live{color:var(--green);font-weight:600}
+.dash-subtitle .refresh{color:var(--accent);cursor:pointer;text-decoration:none;font-weight:600}
+.dash-subtitle .refresh:hover{text-decoration:underline}
 
 /* Layout */
 .container{max-width:1400px;margin:0 auto;padding:28px 32px}
@@ -164,9 +161,6 @@ tr:hover td{background:rgba(108,99,255,.04)}
 
 /* Modal */
 .modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,30,.4);z-index:200;align-items:center;justify-content:center}
-.live-badge{background:rgba(0,184,148,.12);color:var(--green);font-size:11px;font-weight:700;padding:3px 9px;border-radius:10px;border:1px solid rgba(0,184,148,.3);animation:liveblink 2.4s ease-in-out infinite}
-@keyframes liveblink{0%,100%{opacity:1}50%{opacity:.5}}
-.next-refresh{font-size:11px;color:var(--text2);min-width:110px;text-align:right}
 .news-refresh-bar{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--text2);margin-bottom:6px}
 .news-refresh-dot{width:6px;height:6px;border-radius:50%;background:var(--green)}
 .modal-overlay.open{display:flex}
@@ -221,13 +215,8 @@ tr:hover td{background:rgba(108,99,255,.04)}
   .container{padding:14px 12px}
 
   /* 헤더 */
-  .header{padding:10px 14px;gap:6px}
-  .logo{width:36px;height:36px;font-size:18px;border-radius:10px}
-  .header h1{font-size:15px}
-  .next-refresh{display:none}
-  .last-updated{font-size:11px;max-width:130px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-  .live-badge{font-size:10px;padding:2px 7px}
-  .refresh-btn{padding:5px 10px;font-size:12px}
+  .dash-h1{font-size:1.15rem}
+  .dash-subtitle{font-size:0.78rem;margin-bottom:16px}
 
   /* 시즌 셀렉트 */
   .season-select{padding:6px 30px 6px 14px;font-size:12px}
@@ -283,9 +272,8 @@ tr:hover td{background:rgba(108,99,255,.04)}
   .stat-card{padding:12px}
   .stat-value{font-size:17px}
   .stat-sub{font-size:11px}
-  .header-left{gap:8px}
-  .header h1{font-size:13px}
-  .last-updated{display:none}
+  .dash-h1{font-size:1rem}
+  .dash-subtitle{font-size:0.72rem;gap:4px 3px}
   .timeline-list::before{top:13px}
   .timeline-dot{width:26px;height:26px;font-size:10px}
   .timeline-item{padding-top:32px}
@@ -298,20 +286,18 @@ tr:hover td{background:rgba(108,99,255,.04)}
 </head>
 <body>
 
-<div class="header">
-  <div class="header-left">
-    <div class="logo">오</div>
-    <div><h1>팀 <span>오호츠크</span> 투자 대쉬보드</h1></div>
-  </div>
-  <div class="header-right">
-    <span class="live-badge">● LIVE</span>
-    <span class="last-updated" id="lastUpdated">로딩 중...</span>
-    <span class="next-refresh" id="nextRefresh"></span>
-    <button class="refresh-btn" onclick="refresh()">↻ 새로고침</button>
-  </div>
-</div>
-
 <div class="container">
+  <h1 class="dash-h1">📊 팀오호츠크 투자 대쉬보드</h1>
+  <div class="dash-subtitle">
+    <span id="lastUpdated">로딩 중...</span>
+    <span class="sep">|</span>
+    <span class="live">● LIVE</span>
+    <span class="sep">|</span>
+    <span id="nextRefresh"></span>
+    <span class="sep">|</span>
+    <a class="refresh" onclick="refresh()">↻ 새로고침</a>
+  </div>
+
   <div class="season-bar" id="seasonBar"></div>
 
   <div class="hof-banner" id="hofBanner">
