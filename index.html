@@ -733,6 +733,72 @@ function renderTop() {
     </div>`).join('');
 }
 
+const MARKET_INDICES = [
+  { name: 'KOSPI',       ticker: '^KS11',  group: '한국 시장' },
+  { name: 'KOSDAQ',      ticker: '^KQ11',  group: '한국 시장' },
+  { name: 'S&P500',      ticker: '^GSPC',  group: '미국 시장' },
+  { name: 'NASDAQ',      ticker: '^IXIC',  group: '미국 시장' },
+  { name: '다우존스',     ticker: '^DJI',   group: '미국 시장' },
+  { name: 'VIX',         ticker: '^VIX',   group: '공포지수' },
+  { name: '원달러환율',   ticker: 'KRW=X',  group: '환율 / 금리' },
+  { name: '미국10년금리', ticker: '^TNX',   group: '환율 / 금리' }
+];
+
+async function fetchMarketData() {
+  const proxy = 'https://corsproxy.io/?';
+  const results = await Promise.allSettled(MARKET_INDICES.map(async idx => {
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(idx.ticker)}?range=3mo&interval=1d`;
+    const r = await fetch(proxy + encodeURIComponent(url));
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const data = await r.json();
+    const result = data.chart.result && data.chart.result[0];
+    if (!result) throw new Error('empty');
+    const closes = result.indicators.quote[0].close;
+    const timestamps = result.timestamp || [];
+    const labels = [], series = [];
+    for (let i = 0; i < timestamps.length; i++) {
+      const c = closes[i];
+      if (c === null || c === undefined) continue;
+      const d = new Date(timestamps[i] * 1000);
+      labels.push(`${(d.getMonth()+1).toString().padStart(2,'0')}/${d.getDate().toString().padStart(2,'0')}`);
+      series.push(Math.round(c * 100) / 100);
+    }
+    if (series.length < 2) throw new Error('insufficient data');
+    const value = series[series.length - 1];
+    const prev  = series[series.length - 2];
+    const change = ((value - prev) / prev) * 100;
+    return { ...idx, value, change: Math.round(change * 100) / 100, labels, series };
+  }));
+
+  const cards = [];
+  const groupMap = {};
+  results.forEach(r => {
+    if (r.status !== 'fulfilled') return;
+    const d = r.value;
+    cards.push({ name: d.name, value: d.value, change: d.change });
+    if (!groupMap[d.group]) groupMap[d.group] = { name: d.group, labels: d.labels, series: [] };
+    groupMap[d.group].series.push({ name: d.name, data: d.series });
+  });
+  return { cards, groups: Object.values(groupMap) };
+}
+
+async function loadMarketAsync() {
+  try {
+    const section = document.getElementById('marketSection');
+    if (section) section.style.display = '';
+    // 로딩 표시
+    document.getElementById('marketCards').innerHTML =
+      '<div style="grid-column:1/-1;padding:20px;text-align:center;font-size:12px;color:var(--text2)">시장 지수 로딩 중...</div>';
+    const m = await fetchMarketData();
+    DATA.market = m;
+    renderMarket();
+  } catch (e) {
+    console.warn('시장 데이터 fetch 실패:', e);
+    document.getElementById('marketCards').innerHTML =
+      '<div style="grid-column:1/-1;padding:20px;text-align:center;font-size:12px;color:var(--text2)">시장 지수 로딩 실패</div>';
+  }
+}
+
 let _marketCharts = [];
 function renderMarket() {
   const section = document.getElementById('marketSection');
@@ -1223,6 +1289,7 @@ async function fetchData() {
     return;
   }
   renderAll();
+  loadMarketAsync();
 }
 
 // ── 자동 새로고침 (5분) ───────────────────────────────────────
@@ -1256,8 +1323,9 @@ function refresh() {
   fetchData().finally(startAutoRefresh);
 }
 
-// 즉시 렌더 → 백그라운드 시트 & 뉴스 업데이트
+// 즉시 렌더 → 백그라운드 시트 & 뉴스 & 시장 지수 업데이트
 renderAll();
+loadMarketAsync();
 document.getElementById('lastUpdated').textContent = '샘플 데이터';
 fetchData().finally(startAutoRefresh);
 </script>

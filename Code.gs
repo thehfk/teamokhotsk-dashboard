@@ -251,7 +251,8 @@ function buildData(sheet) {
   });
 
   const members = Object.values(memberMap).map(m => ({ name: m.name, color: m.color, holdings: m.holdings }));
-  return { seasons, members, market: buildMarket(), updatedAt: new Date().toISOString() };
+  // 시장 지수는 프론트에서 CORS 프록시로 Yahoo 직접 호출 (Apps Script IP는 Yahoo에서 차단됨)
+  return { seasons, members, updatedAt: new Date().toISOString() };
 }
 
 // ── 유틸 ────────────────────────────────────────────────────
