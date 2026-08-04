@@ -278,18 +278,25 @@ function fetchNewsRSS(ticker) {
 
     const news = items.map(item => {
       const rawTitle = item.getChildText('title') || '';
-      // "Title - Source" → "Title" 분리
-      const title = rawTitle.replace(/\s[-–]\s[^-–]+$/, '').trim();
-      const pubDate = item.getChildText('pubDate') || '';
+      const link     = item.getChildText('link')  || '';
+      const pubDate  = item.getChildText('pubDate') || '';
+
+      // "Title - Source" 분리
+      const m = rawTitle.match(/^(.*)\s[-–]\s([^-–]+)$/);
+      const title     = (m ? m[1] : rawTitle).trim();
+      const publisher = m ? m[2].trim() : '';
+
       let date = '';
-      try { date = new Date(pubDate).toISOString().split('T')[0]; } catch(e) {}
+      try {
+        date = Utilities.formatDate(new Date(pubDate), 'Asia/Seoul', 'MM/dd HH:mm');
+      } catch(e) {}
 
       const lower = title.toLowerCase();
       let type = 'neutral';
       if (/surge|soar|jump|beat|rise|gain|high|record|strong|growth|profit|up|bull|rally/.test(lower)) type = 'positive';
       if (/fall|drop|plunge|miss|decline|loss|low|down|weak|cut|layoff|warn|concern|risk|sue|fine/.test(lower)) type = 'negative';
 
-      return { type, text: '<strong>' + title + '</strong>', date };
+      return { type, title, publisher, link, date, text: '<strong>' + title + '</strong>' };
     });
 
     cache.put(key, JSON.stringify(news), 300);
