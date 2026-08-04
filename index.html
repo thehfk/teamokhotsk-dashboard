@@ -778,12 +778,12 @@ async function fetchNewsForStocks() {
   await Promise.allSettled([...tickerSet].map(async ticker => {
     try {
       const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(ticker + ' stock')}&hl=en-US&gl=US&ceid=US:en`;
-      const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&count=4`;
+      const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
       const r = await fetch(apiUrl);
       if (!r.ok) return;
       const json = await r.json();
       if (json.status !== 'ok' || !Array.isArray(json.items)) return;
-      newsMap[ticker] = json.items.map(item => {
+      newsMap[ticker] = json.items.slice(0, 4).map(item => {
         const rawTitle = item.title || '';
         const link     = item.link  || '';
         const pubDate  = item.pubDate || '';
