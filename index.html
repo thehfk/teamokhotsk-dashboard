@@ -774,15 +774,27 @@ async function fetchNewsForStocks() {
   const posRE = /surge|soar|jump|beat|rise|gain|high|record|strong|growth|profit|up|bull|rally/;
   const negRE = /fall|drop|plunge|miss|decline|loss|low|down|weak|cut|layoff|warn|concern|risk|sue|fine/;
 
+  async function fetchWithRetry(apiUrl, maxTries) {
+    for (let i = 0; i < maxTries; i++) {
+      try {
+        const r = await fetch(apiUrl);
+        if (r.ok) {
+          const json = await r.json();
+          if (json.status === 'ok' && Array.isArray(json.items) && json.items.length) return json;
+        }
+      } catch (e) {}
+      if (i < maxTries - 1) await new Promise(res => setTimeout(res, 1500 * (i + 1)));
+    }
+    return null;
+  }
+
   const newsMap = {};
   await Promise.allSettled([...tickerSet].map(async ticker => {
     try {
       const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(ticker + ' stock')}&hl=en-US&gl=US&ceid=US:en`;
       const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
-      const r = await fetch(apiUrl);
-      if (!r.ok) return;
-      const json = await r.json();
-      if (json.status !== 'ok' || !Array.isArray(json.items)) return;
+      const json = await fetchWithRetry(apiUrl, 3);
+      if (!json) return;
       newsMap[ticker] = json.items.slice(0, 4).map(item => {
         const rawTitle = item.title || '';
         const link     = item.link  || '';
