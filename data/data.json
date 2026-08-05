@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-05T18:59:33.926921+00:00",
+  "updatedAt": "2026-08-05T20:27:25.517775+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7738.61,
-        "change": 0.03
+        "value": 7723.55,
+        "change": -0.17
       },
       {
         "name": "NASDAQ",
-        "value": 26426.71,
-        "change": -0.6
+        "value": 26363.44,
+        "change": -0.83
       },
       {
         "name": "다우존스",
-        "value": 54487.96,
-        "change": 0.74
+        "value": 54349.12,
+        "change": 0.49
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.66,
-        "change": -5.09
+        "value": 15.83,
+        "change": -4.06
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1421.09,
-        "change": -0.52
+        "value": 1421.84,
+        "change": -0.46
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "05/05",
           "05/06",
           "05/07",
           "05/08",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7259.22,
               7365.12,
               7337.11,
               7398.93,
@@ -179,13 +177,12 @@
               7489.72,
               7600.5,
               7736.52,
-              7738.61
+              7723.55
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              25326.13,
               25838.94,
               25806.2,
               26247.08,
@@ -248,13 +245,12 @@
               25373.85,
               25913.9,
               26584.99,
-              26426.71
+              26363.44
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              49298.25,
               49910.59,
               49596.97,
               49609.16,
@@ -317,7 +313,7 @@
               52485.03,
               53178.41,
               54085.88,
-              54487.96
+              54349.12
             ]
           }
         ]
@@ -459,7 +455,7 @@
               15.99,
               15.86,
               16.5,
-              15.66
+              15.83
             ]
           }
         ]
@@ -671,7 +667,8 @@
               1420.6,
               1435.7,
               1428.5,
-              1421.09
+              1428.43,
+              1421.84
             ]
           }
         ]
@@ -882,9 +879,9 @@
     ]
   },
   "rsi": {
-    "GOOGL": 52.7,
-    "QCOM": 39.7,
-    "VRT": 45.8
+    "GOOGL": 53.1,
+    "QCOM": 39.5,
+    "VRT": 45.0
   },
   "news": {
     "GOOGL": [
@@ -910,11 +907,11 @@
         "date": "08/04 15:14"
       },
       {
-        "type": "neutral",
-        "title": "Alphabet: The $514 Billion Backlog Doesn't Lie",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmltaFZqbjdtUXU1Y1pwMkgzVzJQd01GY09VcTQwQWRUd0J4d1N4NUhIUTVCV0ZaVS1feE9TOFlFVkg2Sm1KdWRDNHRwWE93MmNwM3o4SzlwdW1xck5kM0R4MnAxLUhUemRNQnR0OGlLTUFqQlRwZnJ2U0NocVlFdEVQZG1mQ0YxZjBhXw?oc=5",
-        "date": "08/04 19:44"
+        "type": "negative",
+        "title": "Alphabet’s stock drops as Google loses another key AI executive",
+        "publisher": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
+        "date": "08/06 02:50"
       }
     ],
     "QCOM": [
@@ -935,16 +932,16 @@
       {
         "type": "negative",
         "title": "Qualcomm (NASDAQ:QCOM) Shares Steady as Broader Portfolio Cushions 61% Handset Decline",
-        "publisher": "TechStock²",
+        "publisher": "ts2.tech",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHhXRzJJVlBWaWlObWtKcExJYVZGSjJvNTBfWmhuRFhrcVAteE9jYTJCb1c5X0pyZ09nc1BiNnFWQlB2NkdaR1R2WWdMWW5ZVjVFRlp4WExpalVKbHc1cWZsLWdoTTRXdlRWYWNaTVp5NmExLXJKN2w4VFZlb2NLS29ITHJlZWNRbWJpaFVTVlZnN0VEZTFrbV9QTGg4QlhCZlRfX29B?oc=5",
         "date": "08/05 18:00"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm Inc (QCOM) Stock Up 7.3% and Still Undervalued -- GF Sc",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcV8zZG1hV24xMGdHaXkzVExHVUtOaEZaUzZHYVlsdl9mUjBfaW1BcDN3Yk5SWnpPX2huVElwZHY5ZWdGclRqc0JKWkhoSVlUOVdsc2x4c3pJNC1abWJLT1RseXVIQ1FEUTFvZW1kWTNuMHh3TDBZcnpabDNlNUY4VTFGNGtyd05Jb1hLN0xDelBUSkYzdmF0NEI5R1JDZ29BcTZfV0Q5ZTA?oc=5",
-        "date": "08/05 06:33"
+        "type": "negative",
+        "title": "Qualcomm Inc Stock (QCOM) Moved Down by 3.31% on Aug 5: Key Drivers Unveiled",
+        "publisher": "tradingkey.com",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOODRWWHJkZkVrbm1CTUh5emdMV2FmQk5CN2R4eTR6ZXhKejVCRldfLWdMQTVaYTQwTGs1Nk5KaWJMZmMycENzMXVoMl80a0M2cUdKQ0NiVmJWNUp5ZnRyVXRKWHRNeVV6Z0FBMlpoaF85ci1aQ1NwM0gwZEc0YzJjX0xnakVHU0Fydkx3?oc=5",
+        "date": "08/06 01:15"
       }
     ],
     "VRT": [
