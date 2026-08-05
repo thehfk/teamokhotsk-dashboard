@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T03:53:19.010536+00:00",
+  "updatedAt": "2026-08-05T06:19:47.405389+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1422.98,
-        "change": -0.39
+        "value": 1424.28,
+        "change": -0.3
       },
       {
         "name": "KOSPI",
-        "value": 6616.15,
-        "change": 4.04
+        "value": 6634.86,
+        "change": 4.34
       },
       {
         "name": "KOSDAQ",
-        "value": 798.14,
-        "change": 2.23
+        "value": 799.87,
+        "change": 2.45
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1420.6,
               1435.7,
               1428.5,
-              1422.98
+              1424.28
             ]
           }
         ]
@@ -805,7 +805,7 @@
               6595.45,
               6257.45,
               6358.95,
-              6616.15
+              6634.86
             ]
           },
           {
@@ -873,7 +873,7 @@
               719.76,
               737.35,
               780.72,
-              798.14
+              799.87
             ]
           }
         ]
@@ -903,17 +903,17 @@
       },
       {
         "type": "neutral",
-        "title": "META, GOOGL Stocks In Focus — White House Plans Meeting With Tech Giants On Tuesday Over AI Safety Tests, Says Report",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXhYblBGbGxoWDB2cExIellyMHprUmhvSFlsTldzbHctcS1fdU1VRUJycXFqdVB2YlVlNUNZbDhhQnZvS1pTNXhqTDhPaUd1d2l0SG1MS1JjMmVvWVU0QUJ4RF9hS0Y5R0VteHFjVUNLUE5EcWV0emZlTGdZZE8yUUpfNXAzM253ckZZRzlJNXZqdl9SaHRMdQ?oc=5",
-        "date": "08/04 08:44"
-      },
-      {
-        "type": "neutral",
         "title": "Berkshire Hathaway Has Invested $23 Billion in This Stock Since Greg Abel Took Over as CEO. History Says There May Be More to Come",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3NHRGNGY1ZVeVFZQVRDMTd5RVpuU1BHZ2x6Z015TXhMblZHR2dYcFpyZHhfRVoyOXlqQWJyRDd3Ykdyb1hWakZiVjlsRExvWmxLdVQxRjN2WmwwY0M1SEFXN19qWFZWbU9ZVEUtb0NfYkNxSDM1eEFud3NxY2wyMmRiUUxVamMwSURaRF9rdUdIZkFLd1k5Sg?oc=5",
         "date": "08/04 14:30"
+      },
+      {
+        "type": "positive",
+        "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhQmgwTmR1aXpDTm5sVklCWk9RSjQ2UTNqTlhkNGJINlJIcGE2bFk0UDdOb2h2WDFfUnZLTm9PQ3ZuRm9oYWRjMHJmNTFTVkxaTkhneUEzVmF5WDNQd1ZXazY0SVNEYjJHdXB6Q3hObkk0ZDI1VldDZGktM1k0d9IBgwFBVV95cUxNWlVxN1dqdkE2QnNzMGlYOUF4MmFNMUpVaFhUN01tVHZUX29pT3E3RzBzSXdCNGlXU3lnSTVGbkROUm9Ka0VDVVVCeHNocDIzdHJQNTBmSEpkakxwOGw5aEhyTlFfY2d1S0hJSF95dmoyYkdDMWZEMUVjNmd6V2xqSFdfSQ?oc=5",
+        "date": "07/22 16:00"
       }
     ],
     "QCOM": [
@@ -925,11 +925,11 @@
         "date": "08/04 22:52"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm Inc (QCOM) Stock Up 7.3% and Still Undervalued -- GF Sc",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcV8zZG1hV24xMGdHaXkzVExHVUtOaEZaUzZHYVlsdl9mUjBfaW1BcDN3Yk5SWnpPX2huVElwZHY5ZWdGclRqc0JKWkhoSVlUOVdsc2x4c3pJNC1abWJLT1RseXVIQ1FEUTFvZW1kWTNuMHh3TDBZcnpabDNlNUY4VTFGNGtyd05Jb1hLN0xDelBUSkYzdmF0NEI5R1JDZ29BcTZfV0Q5ZTA?oc=5",
-        "date": "08/05 06:33"
+        "type": "neutral",
+        "title": "QCOM Stock Slides Premarket: Qualcomm's Dragonfly AI Push Gets Overshadowed By Nvidia's Computex Blitz",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXBSY0pCWWhxb2ZrZXpVMWFqOGFJcm5jZnE4dEJwa0wwSkUyNTNqTHpzSVBsYkd3cXBZTmZnRUFpUHRUM1B1SmhBdHBqd3UtalBaVG1zTTRnZ1U2ang4NWk3eTQ5TkpuWUdlZHhTcWE2RmxIdmJ5Zl8yMWliY2NUR0hWY0d6ZDg4RC1zZEFyOUlfc1pvOWlOWTVZaHJHT2JiM1M2b1hPRWExbnpnbU9QUE1DU0RmYU9OQlpQYjZnNGE?oc=5",
+        "date": "08/05 01:16"
       },
       {
         "type": "neutral",
@@ -940,10 +940,10 @@
       },
       {
         "type": "positive",
-        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
-        "date": "08/04 07:10"
+        "title": "Qualcomm Inc (QCOM) Stock Up 7.3% and Still Undervalued -- GF Sc",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcV8zZG1hV24xMGdHaXkzVExHVUtOaEZaUzZHYVlsdl9mUjBfaW1BcDN3Yk5SWnpPX2huVElwZHY5ZWdGclRqc0JKWkhoSVlUOVdsc2x4c3pJNC1abWJLT1RseXVIQ1FEUTFvZW1kWTNuMHh3TDBZcnpabDNlNUY4VTFGNGtyd05Jb1hLN0xDelBUSkYzdmF0NEI5R1JDZ29BcTZfV0Q5ZTA?oc=5",
+        "date": "08/05 06:33"
       }
     ],
     "VRT": [
