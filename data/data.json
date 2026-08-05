@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-05T11:35:08.081487+00:00",
+  "updatedAt": "2026-08-05T13:42:54.552447+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7736.52,
-        "change": 1.79
+        "value": 7788.26,
+        "change": 0.67
       },
       {
         "name": "NASDAQ",
-        "value": 26584.99,
-        "change": 2.59
+        "value": 26724.33,
+        "change": 0.52
       },
       {
         "name": "다우존스",
-        "value": 54085.88,
-        "change": 1.71
+        "value": 54587.77,
+        "change": 0.93
       },
       {
         "name": "공포지수 VIX",
-        "value": 16.65,
-        "change": 0.91
+        "value": 16.96,
+        "change": 2.79
       },
       {
         "name": "미국10년금리",
         "value": 4.63,
-        "change": -1.28
+        "change": 0.0
       },
       {
         "name": "원달러환율",
-        "value": 1423.58,
-        "change": -0.34
+        "value": 1424.58,
+        "change": -0.27
       },
       {
         "name": "KOSPI",
@@ -109,7 +109,8 @@
           "07/30",
           "07/31",
           "08/03",
-          "08/04"
+          "08/04",
+          "08/05"
         ],
         "series": [
           {
@@ -177,7 +178,8 @@
               7437.63,
               7489.72,
               7600.5,
-              7736.52
+              7736.52,
+              7788.26
             ]
           },
           {
@@ -245,7 +247,8 @@
               25122.18,
               25373.85,
               25913.9,
-              26584.99
+              26584.99,
+              26724.33
             ]
           },
           {
@@ -313,7 +316,8 @@
               52208.06,
               52485.03,
               53178.41,
-              54085.88
+              54085.88,
+              54587.77
             ]
           }
         ]
@@ -455,7 +459,7 @@
               15.99,
               15.86,
               16.5,
-              16.65
+              16.96
             ]
           }
         ]
@@ -463,7 +467,6 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "05/04",
           "05/05",
           "05/06",
           "05/07",
@@ -526,13 +529,13 @@
           "07/30",
           "07/31",
           "08/03",
-          "08/04"
+          "08/04",
+          "08/05"
         ],
         "series": [
           {
             "name": "미국10년금리",
             "data": [
-              4.45,
               4.42,
               4.36,
               4.39,
@@ -595,6 +598,7 @@
               4.66,
               4.74,
               4.69,
+              4.63,
               4.63
             ]
           },
@@ -667,7 +671,7 @@
               1420.6,
               1435.7,
               1428.5,
-              1423.58
+              1424.58
             ]
           }
         ]
@@ -881,9 +885,9 @@
     ]
   },
   "rsi": {
-    "GOOGL": 52.6,
-    "QCOM": 38.1,
-    "VRT": 39.4
+    "GOOGL": 61.5,
+    "QCOM": 41.7,
+    "VRT": 45.1
   },
   "news": {
     "GOOGL": [
@@ -904,16 +908,16 @@
       {
         "type": "neutral",
         "title": "Berkshire Hathaway Has Invested $23 Billion in This Stock Since Greg Abel Took Over as CEO. History Says There May Be More to Come",
-        "publisher": "fool.com",
+        "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3NHRGNGY1ZVeVFZQVRDMTd5RVpuU1BHZ2x6Z015TXhMblZHR2dYcFpyZHhfRVoyOXlqQWJyRDd3Ykdyb1hWakZiVjlsRExvWmxLdVQxRjN2WmwwY0M1SEFXN19qWFZWbU9ZVEUtb0NfYkNxSDM1eEFud3NxY2wyMmRiUUxVamMwSURaRF9rdUdIZkFLd1k5Sg?oc=5",
         "date": "08/04 14:30"
       },
       {
-        "type": "neutral",
-        "title": "The ‘Nvidia Tax’: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock",
-        "publisher": "247wallst.com",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdk14MnZyY0dVSzlwMVdreWs2VWwxWlVnMkFJSkxmU2xxUWl6Y0x2Z2R2ZE5Yc0xQX25xR0hzRWRDX2R0UjdFalpzbVJMYXBZNVlYTDhNdDVqellxcEZ6MjFmTVVDR000YWFhNnF1LV96SFRzUG92WERoeDFZWG9CaE1EWDBlZnB1SGs1bTBMMzlSUlIwZFpvbF96TzVrbFcyUTJvT0d6Z3lqWkxUaVViczduVDVVekhTdmpPdTZtSDczUQ?oc=5",
-        "date": "08/04 02:10"
+        "type": "positive",
+        "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhQmgwTmR1aXpDTm5sVklCWk9RSjQ2UTNqTlhkNGJINlJIcGE2bFk0UDdOb2h2WDFfUnZLTm9PQ3ZuRm9oYWRjMHJmNTFTVkxaTkhneUEzVmF5WDNQd1ZXazY0SVNEYjJHdXB6Q3hObkk0ZDI1VldDZGktM1k0d9IBgwFBVV95cUxNWlVxN1dqdkE2QnNzMGlYOUF4MmFNMUpVaFhUN01tVHZUX29pT3E3RzBzSXdCNGlXU3lnSTVGbkROUm9Ka0VDVVVCeHNocDIzdHJQNTBmSEpkakxwOGw5aEhyTlFfY2d1S0hJSF95dmoyYkdDMWZEMUVjNmd6V2xqSFdfSQ?oc=5",
+        "date": "07/22 16:00"
       }
     ],
     "QCOM": [
@@ -934,7 +938,7 @@
       {
         "type": "neutral",
         "title": "Qualcomm Stock: Buy or Sell?",
-        "publisher": "fool.com",
+        "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MVJsWVBHZG1iSHVXN0VwT2hvQTdwMzloMUpGRzRHeXNRWkRZbHRVamE5NjkxS0dicGpkMkx4eHZ1bGRMMVpYeEN2N25DM0xwQmYwQVBqeFgzakRUS1RYWjVqaThScWxUeU42TU0xNm45T1ZWcDZ6QQ?oc=5",
         "date": "08/02 14:19"
       },
@@ -948,11 +952,11 @@
     ],
     "VRT": [
       {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
+        "type": "positive",
+        "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "08/01 11:50"
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
+        "date": "08/05 21:39"
       },
       {
         "type": "negative",
@@ -962,18 +966,18 @@
         "date": "08/01 18:12"
       },
       {
+        "type": "neutral",
+        "title": "Vertiv Holdings Co. $VRT Shares Acquired by Pacer Advisors Inc.",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUNvT3BsSlRXY3ZyVlhyRksxNTNnb19LNVVvaWFuM2F3bS12bTBMajhEX2xjd01qb1hDeWV3cmdRbVBnOVZQSG9uYm8yUGg1RzFJVlh4UjJxb05LNmlYdW1DMmxsYllsWHZWUWFQRGVXMFZhRGc5TDdtN0tWUjI2dk1xZW1jaEV5WDhRNTFwUkFPZW1jZnhyTGpRUXZXbVY3ZXNOdW5QMTBaa2xWaGo1VEZaTEx2X2dDZ3VsM25R?oc=5",
+        "date": "08/05 19:53"
+      },
+      {
         "type": "positive",
         "title": "Vertiv (VRT) Stock Slides After Revenue Miss Despite Earnings Beat And Higher Outlook",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDhVb3J3NEV5VkpMbWlyS2VrOFR2RmpyOFd2UjJFTzBBR29ac3dZbXNURHFvcGU4VEFiY2ZZZG00UUxSbkZFRmZTTGJlYTZucF90clFJYmZidW15Z0k3OHV1NTNNVHBhTlFKd3pQRkRMZE05Z0JfVUNycm52T3ZKS3JTWDlJT1BqNUNmX0V5NVJ6eVE1aDNOXy1UMU9KdTE1Qk1fQ3BRaXhMZmxwWUx1djlnclFfaktJenNaQkZLSEY5UmFuaFhiLS1KQ3RGYV92a25KedIB2gFBVV95cUxNYUZsSGFhMFBCOHFnSG1XaDJ4clU1Z0w4eXVEYVkxTzdRczczcVRpeXdSNk9KcEt0Nm1VZmlnSU84WlBQRmwxLVBQUVFxajZqRXZaYVR4LWxhR3NkU1ZPUlJQa3dMemhHVVFhdW5MdDhyNzR2Y2VFZm5FRXVSMjlCSEJnZ2NpZjZZTHFDWkhfRmt1U0ZYMjJ4a0RnRFJTbi1oeklmSXhRX3hDZU5jQkcxNDhMUHQ4dzdyQnhyYm5TNC1HcEEwOU1IdFoxYXNPenZDY2ZiREFmYkk3dw?oc=5",
         "date": "07/30 02:16"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Stock Jumps 18% This Week on Raised AI Data Center Outlook",
-        "publisher": "TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjlRd1RhV01JQ2g2MGMzaC11TWNpS3lWLTh1MUVPcE1qZHlGVkxzcExxVlp3cWEtZ3dyTjdEV1hzWDFfYklfellaUzRzY0g5RlM4QkZnWVBZZEh3dXR0WkNVY1JDMFlmczBLUjdnY1pGOXV4VGRVVUxEd1c4anpGbjBTcDduZGh2ekRrTEJESlZaOG1n?oc=5",
-        "date": "08/05 02:32"
       }
     ]
   }
