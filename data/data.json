@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-05T17:20:00.402422+00:00",
+  "updatedAt": "2026-08-05T18:59:33.926921+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7738.03,
-        "change": 0.02
+        "value": 7738.61,
+        "change": 0.03
       },
       {
         "name": "NASDAQ",
-        "value": 26467.06,
-        "change": -0.44
+        "value": 26426.71,
+        "change": -0.6
       },
       {
         "name": "다우존스",
-        "value": 54524.63,
-        "change": 0.81
+        "value": 54487.96,
+        "change": 0.74
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.96,
-        "change": -3.27
+        "value": 15.66,
+        "change": -5.09
       },
       {
         "name": "미국10년금리",
-        "value": 4.63,
-        "change": 0.0
+        "value": 4.62,
+        "change": -0.22
       },
       {
         "name": "원달러환율",
-        "value": 1422.69,
-        "change": -0.41
+        "value": 1421.09,
+        "change": -0.52
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7489.72,
               7600.5,
               7736.52,
-              7738.03
+              7738.61
             ]
           },
           {
@@ -248,7 +248,7 @@
               25373.85,
               25913.9,
               26584.99,
-              26467.06
+              26426.71
             ]
           },
           {
@@ -317,7 +317,7 @@
               52485.03,
               53178.41,
               54085.88,
-              54524.63
+              54487.96
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.99,
               15.86,
               16.5,
-              15.96
+              15.66
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.74,
               4.69,
               4.63,
-              4.63
+              4.62
             ]
           },
           {
@@ -671,7 +671,7 @@
               1420.6,
               1435.7,
               1428.5,
-              1422.69
+              1421.09
             ]
           }
         ]
@@ -882,12 +882,19 @@
     ]
   },
   "rsi": {
-    "GOOGL": 53.4,
+    "GOOGL": 52.7,
     "QCOM": 39.7,
-    "VRT": 46.2
+    "VRT": 45.8
   },
   "news": {
     "GOOGL": [
+      {
+        "type": "positive",
+        "title": "Google stock drops amid DeepMind leadership shake-up",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
+        "date": "08/06 02:02"
+      },
       {
         "type": "neutral",
         "title": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more",
@@ -908,20 +915,13 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmltaFZqbjdtUXU1Y1pwMkgzVzJQd01GY09VcTQwQWRUd0J4d1N4NUhIUTVCV0ZaVS1feE9TOFlFVkg2Sm1KdWRDNHRwWE93MmNwM3o4SzlwdW1xck5kM0R4MnAxLUhUemRNQnR0OGlLTUFqQlRwZnJ2U0NocVlFdEVQZG1mQ0YxZjBhXw?oc=5",
         "date": "08/04 19:44"
-      },
-      {
-        "type": "positive",
-        "title": "Alphabet Stock Could Soar as It Targets the $300 Billion AI Chip Market Dominated by Nvidia",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUdaanR6STBHdFFMaWNXT1lXUTNJcHBrQVExOFlqY2N4UVQtUVlEYzJrWjVYbXFDRmdCS3g1WkJnRGJCOFBNREpqQnhlWk1SNmZsT1A2b2FFaTYzczF2WVlqUUhUR1dxR1QzRzV3dk5oWEpFb1NycWxod0l4OG5aMTNYTW5EdjhsdDVRVnpuQmxVeEQxSFE?oc=5",
-        "date": "08/05 18:48"
       }
     ],
     "QCOM": [
       {
         "type": "negative",
         "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcndxeGlIYjRnaHVCckttd2V6azR3dktocW1YY3VrcmdBNFo1eUZjRjJISlFWWGxGNldaRkROSVZRajN5bDI5QmhvVjFDaW5mVkdsTGtFeDFLLVJheUl3dWZ2OU5MMjl1THNyeWpQYnRQaWZPSmJ2MWtubTZFR3ZycWdTUk1VbXJkUThNLVBIeGFRY0ZtZW9OSW9vY0Y5cmtvQUE?oc=5",
         "date": "08/04 22:52"
       },
@@ -958,7 +958,7 @@
       {
         "type": "negative",
         "title": "Vertiv (VRT) Stock Looks Below Fair Value As AI Demand Grows",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmhWNUgwUTMxNzN0WTB2X2JrVkNXTXhoTmJRV1VaSzhtQlQySm9Jc2lKbU5PMU5VdlhhejNNcG5obnFtS05VemV3MDBKRW5IZEY2Vk5wNU9LeWFBTjVTMmhzMXRqSlY1ZTJWQ21rVGc0WlNWb0Ewa3REWng2aHFqMmV4RVRmaEVyVExkc19yRG1tXzZqTDJ0SA?oc=5",
         "date": "08/01 18:12"
       },
