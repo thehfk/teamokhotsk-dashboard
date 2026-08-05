@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T00:52:43.498724+00:00",
+  "updatedAt": "2026-08-05T03:53:19.010536+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1424.08,
-        "change": -0.31
+        "value": 1422.98,
+        "change": -0.39
       },
       {
         "name": "KOSPI",
-        "value": 6644.91,
-        "change": 6.19
+        "value": 6616.15,
+        "change": 4.04
       },
       {
         "name": "KOSDAQ",
-        "value": 799.4,
-        "change": 8.42
+        "value": 798.14,
+        "change": 2.23
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1420.6,
               1435.7,
               1428.5,
-              1424.08
+              1422.98
             ]
           }
         ]
@@ -736,6 +736,7 @@
           "07/30",
           "07/31",
           "08/03",
+          "08/04",
           "08/05"
         ],
         "series": [
@@ -803,7 +804,8 @@
               5593.56,
               6595.45,
               6257.45,
-              6644.91
+              6358.95,
+              6616.15
             ]
           },
           {
@@ -870,7 +872,8 @@
               644.78,
               719.76,
               737.35,
-              799.4
+              780.72,
+              798.14
             ]
           }
         ]
@@ -900,17 +903,17 @@
       },
       {
         "type": "neutral",
-        "title": "Berkshire Hathaway Has Invested $23 Billion in This Stock Since Greg Abel Took Over as CEO. History Says There May Be More to Come",
-        "publisher": "fool.com",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3NHRGNGY1ZVeVFZQVRDMTd5RVpuU1BHZ2x6Z015TXhMblZHR2dYcFpyZHhfRVoyOXlqQWJyRDd3Ykdyb1hWakZiVjlsRExvWmxLdVQxRjN2WmwwY0M1SEFXN19qWFZWbU9ZVEUtb0NfYkNxSDM1eEFud3NxY2wyMmRiUUxVamMwSURaRF9rdUdIZkFLd1k5Sg?oc=5",
-        "date": "08/04 14:30"
-      },
-      {
-        "type": "neutral",
         "title": "META, GOOGL Stocks In Focus — White House Plans Meeting With Tech Giants On Tuesday Over AI Safety Tests, Says Report",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXhYblBGbGxoWDB2cExIellyMHprUmhvSFlsTldzbHctcS1fdU1VRUJycXFqdVB2YlVlNUNZbDhhQnZvS1pTNXhqTDhPaUd1d2l0SG1MS1JjMmVvWVU0QUJ4RF9hS0Y5R0VteHFjVUNLUE5EcWV0emZlTGdZZE8yUUpfNXAzM253ckZZRzlJNXZqdl9SaHRMdQ?oc=5",
         "date": "08/04 08:44"
+      },
+      {
+        "type": "neutral",
+        "title": "Berkshire Hathaway Has Invested $23 Billion in This Stock Since Greg Abel Took Over as CEO. History Says There May Be More to Come",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3NHRGNGY1ZVeVFZQVRDMTd5RVpuU1BHZ2x6Z015TXhMblZHR2dYcFpyZHhfRVoyOXlqQWJyRDd3Ykdyb1hWakZiVjlsRExvWmxLdVQxRjN2WmwwY0M1SEFXN19qWFZWbU9ZVEUtb0NfYkNxSDM1eEFud3NxY2wyMmRiUUxVamMwSURaRF9rdUdIZkFLd1k5Sg?oc=5",
+        "date": "08/04 14:30"
       }
     ],
     "QCOM": [
@@ -922,13 +925,6 @@
         "date": "08/04 22:52"
       },
       {
-        "type": "neutral",
-        "title": "Qualcomm Stock: Buy or Sell?",
-        "publisher": "fool.com",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MVJsWVBHZG1iSHVXN0VwT2hvQTdwMzloMUpGRzRHeXNRWkRZbHRVamE5NjkxS0dicGpkMkx4eHZ1bGRMMVpYeEN2N25DM0xwQmYwQVBqeFgzakRUS1RYWjVqaThScWxUeU42TU0xNm45T1ZWcDZ6QQ?oc=5",
-        "date": "08/02 19:16"
-      },
-      {
         "type": "positive",
         "title": "Qualcomm Inc (QCOM) Stock Up 7.3% and Still Undervalued -- GF Sc",
         "publisher": "GuruFocus",
@@ -936,11 +932,18 @@
         "date": "08/05 06:33"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm Stock’s Biggest Risk Is The Gap Between Pain And Payoff",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHVvTkxacWZyMl9pNXBlLUQydDJxd1VfTkZ0M0ZRUG93S3VGOS03UmxEa1ZZaEQ0R3NTNUtxUUduVjZuOVhwNmpRQ1pzV1Z6TzlaY2NCREF3RkFhWnNEUU1URjk3UkRrblVUUXRNUk9sVnQ4R21uTWVUUUJFbmtDbHlRMGNwNER1ZVpqSkx4N25UMkp1emplM25qNHRuZ2dTd2t1cUxINUxXTEUwdmJHaUlrcWhZU09meUxrekZuNm1LUQ?oc=5",
-        "date": "07/31 23:30"
+        "type": "neutral",
+        "title": "Qualcomm Stock: Buy or Sell?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MVJsWVBHZG1iSHVXN0VwT2hvQTdwMzloMUpGRzRHeXNRWkRZbHRVamE5NjkxS0dicGpkMkx4eHZ1bGRMMVpYeEN2N25DM0xwQmYwQVBqeFgzakRUS1RYWjVqaThScWxUeU42TU0xNm45T1ZWcDZ6QQ?oc=5",
+        "date": "08/02 14:19"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
+        "date": "08/04 07:10"
       }
     ],
     "VRT": [
