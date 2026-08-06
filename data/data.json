@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-06T12:25:40.650854+00:00",
+  "updatedAt": "2026-08-06T14:44:05.495917+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7723.55,
-        "change": -0.17
+        "value": 7730.76,
+        "change": 0.09
       },
       {
         "name": "NASDAQ",
-        "value": 26363.44,
-        "change": -0.83
+        "value": 26440.51,
+        "change": 0.29
       },
       {
         "name": "다우존스",
-        "value": 54349.12,
-        "change": 0.49
+        "value": 54245.82,
+        "change": -0.19
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.85,
-        "change": 0.25
+        "value": 15.55,
+        "change": -1.64
       },
       {
         "name": "미국10년금리",
-        "value": 4.62,
-        "change": -0.22
+        "value": 4.64,
+        "change": 0.43
       },
       {
         "name": "원달러환율",
-        "value": 1428.31,
-        "change": -0.01
+        "value": 1423.96,
+        "change": -0.31
       },
       {
         "name": "KOSPI",
@@ -109,7 +109,8 @@
           "07/31",
           "08/03",
           "08/04",
-          "08/05"
+          "08/05",
+          "08/06"
         ],
         "series": [
           {
@@ -177,7 +178,8 @@
               7489.72,
               7600.5,
               7736.52,
-              7723.55
+              7723.55,
+              7730.76
             ]
           },
           {
@@ -245,7 +247,8 @@
               25373.85,
               25913.9,
               26584.99,
-              26363.44
+              26363.44,
+              26440.51
             ]
           },
           {
@@ -313,7 +316,8 @@
               52485.03,
               53178.41,
               54085.88,
-              54349.12
+              54349.12,
+              54245.82
             ]
           }
         ]
@@ -455,7 +459,7 @@
               15.86,
               16.5,
               15.81,
-              15.85
+              15.55
             ]
           }
         ]
@@ -525,7 +529,8 @@
           "07/31",
           "08/03",
           "08/04",
-          "08/05"
+          "08/05",
+          "08/06"
         ],
         "series": [
           {
@@ -593,7 +598,8 @@
               4.74,
               4.69,
               4.63,
-              4.62
+              4.62,
+              4.64
             ]
           },
           {
@@ -665,7 +671,7 @@
               1435.7,
               1428.5,
               1428.43,
-              1428.31
+              1423.96
             ]
           }
         ]
@@ -882,12 +888,26 @@
     ]
   },
   "rsi": {
-    "GOOGL": 53.1,
+    "GOOGL": 55.4,
     "QCOM": 39.5,
     "VRT": 45.0
   },
   "news": {
     "GOOGL": [
+      {
+        "type": "negative",
+        "title": "Alphabet’s stock drops as Google loses another key AI executive",
+        "publisher": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
+        "date": "08/06 06:20"
+      },
+      {
+        "type": "neutral",
+        "title": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
+        "date": "08/06 01:15"
+      },
       {
         "type": "positive",
         "title": "Google stock drops amid DeepMind leadership shake-up",
@@ -897,24 +917,10 @@
       },
       {
         "type": "neutral",
-        "title": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more",
-        "publisher": "cnbc.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
-        "date": "08/06 01:15"
-      },
-      {
-        "type": "neutral",
         "title": "After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued?",
-        "publisher": "global.morningstar.com",
+        "publisher": "Morningstar",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcU5wZDBReEdfVHpvZjFKZmQweDlydlFIR2txV0JYV2RscEFFWlZjWldQalg2MF9xWUNFbHNzSmNRaC1PN2JFNDh1OWE4U2lFRkVpbmQzLWhVelJqOUVQdFdLc2hKem5DUUpTdUNGVE5ZUXJQN3dSclIzcnA3X0RPOXhzME4xLXgyUGZFRzdJbkN6TzdJbVI3WUVCbzFTdWZUcjMtM3lGQQ?oc=5",
         "date": "08/04 15:14"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet’s stock drops as Google loses another key AI executive",
-        "publisher": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
-        "date": "08/06 06:20"
       }
     ],
     "QCOM": [
@@ -935,7 +941,7 @@
       {
         "type": "positive",
         "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
         "date": "08/05 17:19"
       },
@@ -950,6 +956,13 @@
     "VRT": [
       {
         "type": "neutral",
+        "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
+        "date": "08/06 22:35"
+      },
+      {
+        "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
@@ -958,16 +971,9 @@
       {
         "type": "positive",
         "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
         "date": "08/05 21:39"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Shares Up 3.1% - Time to Buy?",
-        "publisher": "marketbeat.com",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUVYxTnduZDNwUDRnUUxPLXJ6d1h2VGxwQl9GeFBrWXFkNjgtRlRVd3NzcVE2ck0wcU1ydWJMQTNsS0RhUEZNQW1uMVVsd1h0aHkyaFFIWW4xSWt5ZXpjbDVIQkoyc0I1LXlqSWNuMEJMa3g0NUZfZDRBR1VvSlB3THIycDNMZjRTMV9LdjlMT0xVVEo3cF9qXw?oc=5",
-        "date": "08/06 06:32"
       },
       {
         "type": "positive",
