@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T01:30:04.472378+00:00",
+  "updatedAt": "2026-08-06T04:44:53.895339+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1415.88,
-        "change": -0.88
+        "value": 1419.58,
+        "change": -0.62
       },
       {
         "name": "KOSPI",
-        "value": 6323.11,
-        "change": -4.17
+        "value": 6305.91,
+        "change": -4.43
       },
       {
         "name": "KOSDAQ",
-        "value": 791.38,
-        "change": -1.03
+        "value": 801.15,
+        "change": 0.2
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1435.7,
               1428.5,
               1428.43,
-              1415.88
+              1419.58
             ]
           }
         ]
@@ -807,7 +807,7 @@
               6257.45,
               6358.95,
               6598.26,
-              6323.11
+              6305.91
             ]
           },
           {
@@ -876,7 +876,7 @@
               737.35,
               780.72,
               799.59,
-              791.38
+              801.15
             ]
           }
         ]
@@ -905,18 +905,18 @@
         "date": "08/06 01:15"
       },
       {
-        "type": "neutral",
-        "title": "After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued?",
-        "publisher": "Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcU5wZDBReEdfVHpvZjFKZmQweDlydlFIR2txV0JYV2RscEFFWlZjWldQalg2MF9xWUNFbHNzSmNRaC1PN2JFNDh1OWE4U2lFRkVpbmQzLWhVelJqOUVQdFdLc2hKem5DUUpTdUNGVE5ZUXJQN3dSclIzcnA3X0RPOXhzME4xLXgyUGZFRzdJbkN6TzdJbVI3WUVCbzFTdWZUcjMtM3lGQQ?oc=5",
-        "date": "08/04 15:14"
-      },
-      {
         "type": "negative",
         "title": "Alphabet’s stock drops as Google loses another key AI executive",
         "publisher": "MarketWatch",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
         "date": "08/06 06:20"
+      },
+      {
+        "type": "neutral",
+        "title": "After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued?",
+        "publisher": "Morningstar",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcU5wZDBReEdfVHpvZjFKZmQweDlydlFIR2txV0JYV2RscEFFWlZjWldQalg2MF9xWUNFbHNzSmNRaC1PN2JFNDh1OWE4U2lFRkVpbmQzLWhVelJqOUVQdFdLc2hKem5DUUpTdUNGVE5ZUXJQN3dSclIzcnA3X0RPOXhzME4xLXgyUGZFRzdJbkN6TzdJbVI3WUVCbzFTdWZUcjMtM3lGQQ?oc=5",
+        "date": "08/04 15:14"
       }
     ],
     "QCOM": [
@@ -951,25 +951,25 @@
     ],
     "VRT": [
       {
+        "type": "neutral",
+        "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
+        "date": "08/06 00:15"
+      },
+      {
         "type": "positive",
         "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
         "date": "08/05 21:39"
       },
       {
-        "type": "negative",
-        "title": "Vertiv (VRT) Stock Looks Below Fair Value As AI Demand Grows",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmhWNUgwUTMxNzN0WTB2X2JrVkNXTXhoTmJRV1VaSzhtQlQySm9Jc2lKbU5PMU5VdlhhejNNcG5obnFtS05VemV3MDBKRW5IZEY2Vk5wNU9LeWFBTjVTMmhzMXRqSlY1ZTJWQ21rVGc0WlNWb0Ewa3REWng2aHFqMmV4RVRmaEVyVExkc19yRG1tXzZqTDJ0SA?oc=5",
-        "date": "08/01 18:12"
-      },
-      {
-        "type": "neutral",
-        "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
-        "publisher": "Zacks Investment Research",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3ZwUE5tbEE3WXg5T1Q0LW1ySlRqMTY2dFprZEZkOFRqQ0ZxcXk0SnhaLXh1U193Y0xPWHdCUFdiOElCSGtzRmc5Mms3aTF0Ull1ajNIcXNJZFlYbFMtVTdiVllXMElYZHJITXZkd1F5aVFIRHE3YXRiTGNfWFFKbEE2YTV6TDN2alpxOGwtbDdvM2hRdS01cENNTm9VQQ?oc=5",
-        "date": "08/05 23:22"
+        "type": "positive",
+        "title": "Vertiv (NYSE:VRT) Shares Up 3.1% - Time to Buy?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUVYxTnduZDNwUDRnUUxPLXJ6d1h2VGxwQl9GeFBrWXFkNjgtRlRVd3NzcVE2ck0wcU1ydWJMQTNsS0RhUEZNQW1uMVVsd1h0aHkyaFFIWW4xSWt5ZXpjbDVIQkoyc0I1LXlqSWNuMEJMa3g0NUZfZDRBR1VvSlB3THIycDNMZjRTMV9LdjlMT0xVVEo3cF9qXw?oc=5",
+        "date": "08/06 06:32"
       },
       {
         "type": "positive",
