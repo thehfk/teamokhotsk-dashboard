@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T07:32:59.367707+00:00",
+  "updatedAt": "2026-08-06T10:28:25.197720+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.83,
-        "change": 0.13
+        "value": 15.94,
+        "change": 0.82
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1427.08,
-        "change": -0.09
+        "value": 1423.72,
+        "change": -0.33
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               15.86,
               16.5,
               15.81,
-              15.83
+              15.94
             ]
           }
         ]
@@ -667,7 +667,7 @@
               1435.7,
               1428.5,
               1428.43,
-              1427.08
+              1423.72
             ]
           }
         ]
@@ -883,101 +883,6 @@
       }
     ]
   },
-  "rsi": {
-    "GOOGL": 53.1,
-    "QCOM": 39.5,
-    "VRT": 45.0
-  },
-  "news": {
-    "GOOGL": [
-      {
-        "type": "positive",
-        "title": "Google stock drops amid DeepMind leadership shake-up",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
-        "date": "08/06 02:02"
-      },
-      {
-        "type": "neutral",
-        "title": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
-        "date": "08/06 01:15"
-      },
-      {
-        "type": "neutral",
-        "title": "After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued?",
-        "publisher": "Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcU5wZDBReEdfVHpvZjFKZmQweDlydlFIR2txV0JYV2RscEFFWlZjWldQalg2MF9xWUNFbHNzSmNRaC1PN2JFNDh1OWE4U2lFRkVpbmQzLWhVelJqOUVQdFdLc2hKem5DUUpTdUNGVE5ZUXJQN3dSclIzcnA3X0RPOXhzME4xLXgyUGZFRzdJbkN6TzdJbVI3WUVCbzFTdWZUcjMtM3lGQQ?oc=5",
-        "date": "08/04 15:14"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet’s stock drops as Google loses another key AI executive",
-        "publisher": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
-        "date": "08/06 06:20"
-      }
-    ],
-    "QCOM": [
-      {
-        "type": "negative",
-        "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcndxeGlIYjRnaHVCckttd2V6azR3dktocW1YY3VrcmdBNFo1eUZjRjJISlFWWGxGNldaRkROSVZRajN5bDI5QmhvVjFDaW5mVkdsTGtFeDFLLVJheUl3dWZ2OU5MMjl1THNyeWpQYnRQaWZPSmJ2MWtubTZFR3ZycWdTUk1VbXJkUThNLVBIeGFRY0ZtZW9OSW9vY0Y5cmtvQUE?oc=5",
-        "date": "08/04 22:52"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm Stock: Buy or Sell?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MVJsWVBHZG1iSHVXN0VwT2hvQTdwMzloMUpGRzRHeXNRWkRZbHRVamE5NjkxS0dicGpkMkx4eHZ1bGRMMVpYeEN2N25DM0xwQmYwQVBqeFgzakRUS1RYWjVqaThScWxUeU42TU0xNm45T1ZWcDZ6QQ?oc=5",
-        "date": "08/02 14:19"
-      },
-      {
-        "type": "negative",
-        "title": "Qualcomm (NASDAQ:QCOM) Shares Steady as Broader Portfolio Cushions 61% Handset Decline",
-        "publisher": "TechStock²",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHhXRzJJVlBWaWlObWtKcExJYVZGSjJvNTBfWmhuRFhrcVAteE9jYTJCb1c5X0pyZ09nc1BiNnFWQlB2NkdaR1R2WWdMWW5ZVjVFRlp4WExpalVKbHc1cWZsLWdoTTRXdlRWYWNaTVp5NmExLXJKN2w4VFZlb2NLS29ITHJlZWNRbWJpaFVTVlZnN0VEZTFrbV9QTGg4QlhCZlRfX29B?oc=5",
-        "date": "08/05 18:00"
-      },
-      {
-        "type": "positive",
-        "title": "QUALCOMM (QCOM) Stock Looks Cheap At First Glance, Less So Up Close",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZldKaUpKVEh4dUhyTXZ3N2NnUURMZklfRC05TlNwTHhMWEk2S2c1VFZxUkRhWFotMDRjR0xKeVN4QUhwZ0h1RUc1VUJGSmFKMkZRNC10c25kT09ybXFqRzhFaEsxbHI0V3Q4R0VjZXo3OGQ0d1VRQnhmSlFGMk50RnB4a0xIRHZ3WURvLWlydzdZenNUY0p0YjFLcmNXVFBFZnhUVHp0SHFlckJHRU9ucF9MZk1ULXJOWHZ1cFhTeTlXOG9MY0swMU50c3JBd9IB0wFBVV95cUxQVnFDRTY3TlhuTnAzVEVzNXAtY0VxQW90RTJ2UUdDZUVqMkxESXVNNkpYQVJLX08zREpPMTFKY2hwNXpBN09UNWtaYkRVc1B3cDBFd0ZLcVN5dHF5TGgxazR5bkhiVkdiTl9CWHhYRDk4QmRlMFhvYzZvams0NkpYa2kzcmllcVZtWWFkTExJSE5XRmVJVE9IOUpxVUJHLUJLMzVJczdUUG9kRGI0TVhDTTFyTDA2MjJIRFNNVm04N201azZNZkxZZUltcGN6bVZKXzRj?oc=5",
-        "date": "08/01 18:33"
-      }
-    ],
-    "VRT": [
-      {
-        "type": "neutral",
-        "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
-        "date": "08/06 00:15"
-      },
-      {
-        "type": "positive",
-        "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
-        "date": "08/05 21:39"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Shares Up 3.1% - Time to Buy?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUVYxTnduZDNwUDRnUUxPLXJ6d1h2VGxwQl9GeFBrWXFkNjgtRlRVd3NzcVE2ck0wcU1ydWJMQTNsS0RhUEZNQW1uMVVsd1h0aHkyaFFIWW4xSWt5ZXpjbDVIQkoyc0I1LXlqSWNuMEJMa3g0NUZfZDRBR1VvSlB3THIycDNMZjRTMV9LdjlMT0xVVEo3cF9qXw?oc=5",
-        "date": "08/06 06:32"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Holdings Co Stock (VRT) Moved Up by 4.24% on Aug 5: Key Drivers Unveiled",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGZLajJBRGR2a1BMNGJsalNlSFhaM2JxV1dSaGFhODk5Y3FDaGtqVWlDQWNtWUFuY3RfRmpOaTFhMmZiZXZjQjljeFJHQVZMc2VJLTlEU1JMeG0zdVcwa08tVF9BVlpuS3ItOUliYUZiQWZzazd2QlFFWDhvZmwyRHZGWVVIbVVCS1E?oc=5",
-        "date": "08/06 03:15"
-      }
-    ]
-  }
+  "rsi": {},
+  "news": {}
 }
