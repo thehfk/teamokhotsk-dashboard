@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T04:44:53.895339+00:00",
+  "updatedAt": "2026-08-06T07:32:59.367707+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.81,
-        "change": -4.18
+        "value": 15.83,
+        "change": 0.13
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1419.58,
-        "change": -0.62
+        "value": 1427.08,
+        "change": -0.09
       },
       {
         "name": "KOSPI",
-        "value": 6305.91,
-        "change": -4.43
+        "value": 6296.38,
+        "change": -4.58
       },
       {
         "name": "KOSDAQ",
-        "value": 801.15,
-        "change": 0.2
+        "value": 801.67,
+        "change": 0.26
       }
     ],
     "groups": [
@@ -321,7 +321,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "05/05",
           "05/06",
           "05/07",
           "05/08",
@@ -385,13 +384,13 @@
           "07/31",
           "08/03",
           "08/04",
-          "08/05"
+          "08/05",
+          "08/06"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              17.38,
               17.39,
               17.08,
               17.19,
@@ -455,7 +454,8 @@
               15.99,
               15.86,
               16.5,
-              15.81
+              15.81,
+              15.83
             ]
           }
         ]
@@ -667,7 +667,7 @@
               1435.7,
               1428.5,
               1428.43,
-              1419.58
+              1427.08
             ]
           }
         ]
@@ -807,7 +807,7 @@
               6257.45,
               6358.95,
               6598.26,
-              6305.91
+              6296.38
             ]
           },
           {
@@ -876,7 +876,7 @@
               737.35,
               780.72,
               799.59,
-              801.15
+              801.67
             ]
           }
         ]
@@ -905,18 +905,18 @@
         "date": "08/06 01:15"
       },
       {
-        "type": "negative",
-        "title": "Alphabet’s stock drops as Google loses another key AI executive",
-        "publisher": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
-        "date": "08/06 06:20"
-      },
-      {
         "type": "neutral",
         "title": "After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued?",
         "publisher": "Morningstar",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcU5wZDBReEdfVHpvZjFKZmQweDlydlFIR2txV0JYV2RscEFFWlZjWldQalg2MF9xWUNFbHNzSmNRaC1PN2JFNDh1OWE4U2lFRkVpbmQzLWhVelJqOUVQdFdLc2hKem5DUUpTdUNGVE5ZUXJQN3dSclIzcnA3X0RPOXhzME4xLXgyUGZFRzdJbkN6TzdJbVI3WUVCbzFTdWZUcjMtM3lGQQ?oc=5",
         "date": "08/04 15:14"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet’s stock drops as Google loses another key AI executive",
+        "publisher": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
+        "date": "08/06 06:20"
       }
     ],
     "QCOM": [
@@ -960,7 +960,7 @@
       {
         "type": "positive",
         "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
         "date": "08/05 21:39"
       },
