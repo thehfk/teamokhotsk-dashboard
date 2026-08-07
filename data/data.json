@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-08-07T14:45:23.209414+00:00",
+  "updatedAt": "2026-08-07T15:44:10.500185+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7744.53,
-        "change": 0.45
+        "value": 7754.82,
+        "change": 0.58
       },
       {
         "name": "NASDAQ",
-        "value": 26599.05,
-        "change": 0.95
+        "value": 26682.52,
+        "change": 1.27
       },
       {
         "name": "다우존스",
-        "value": 54007.37,
-        "change": 0.23
+        "value": 53962.13,
+        "change": 0.14
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.98,
-        "change": -1.12
+        "value": 14.94,
+        "change": -1.39
       },
       {
         "name": "미국10년금리",
-        "value": 4.64,
-        "change": -0.64
+        "value": 4.65,
+        "change": -0.43
       },
       {
         "name": "원달러환율",
-        "value": 1410.0,
-        "change": -0.79
+        "value": 1408.88,
+        "change": -0.86
       },
       {
         "name": "KOSPI",
-        "value": 6258.77,
-        "change": -0.6
+        "value": 6296.38,
+        "change": -4.58
       },
       {
         "name": "KOSDAQ",
-        "value": 798.81,
-        "change": -0.36
+        "value": 801.67,
+        "change": 0.26
       }
     ],
     "groups": [
@@ -179,7 +179,7 @@
               7736.52,
               7723.55,
               7709.96,
-              7744.53
+              7754.82
             ]
           },
           {
@@ -248,7 +248,7 @@
               26584.99,
               26363.44,
               26348.35,
-              26599.05
+              26682.52
             ]
           },
           {
@@ -317,7 +317,7 @@
               54085.88,
               54349.12,
               53885.1,
-              54007.37
+              53962.13
             ]
           }
         ]
@@ -459,7 +459,7 @@
               16.5,
               15.81,
               15.15,
-              14.98
+              14.94
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.63,
               4.62,
               4.67,
-              4.64
+              4.65
             ]
           },
           {
@@ -671,7 +671,7 @@
               1428.5,
               1428.43,
               1421.16,
-              1410.0
+              1408.88
             ]
           }
         ]
@@ -741,8 +741,7 @@
           "08/03",
           "08/04",
           "08/05",
-          "08/06",
-          "08/07"
+          "08/06"
         ],
         "series": [
           {
@@ -810,8 +809,7 @@
               6257.45,
               6358.95,
               6598.26,
-              6296.38,
-              6258.77
+              6296.38
             ]
           },
           {
@@ -879,8 +877,7 @@
               737.35,
               780.72,
               799.59,
-              801.67,
-              798.81
+              801.67
             ]
           }
         ]
@@ -889,16 +886,16 @@
   },
   "rsi": {
     "AVGO": 72.8,
-    "GOOGL": 51.1,
-    "QCOM": 45.1,
-    "VRT": 44.6
+    "GOOGL": 52.0,
+    "QCOM": 46.1,
+    "VRT": 45.7
   },
   "news": {
     "AVGO": [
       {
         "type": "neutral",
         "title": "AVGO Stock Headed For $319B Market Cap Wipeout, But Analysts Eye Buying Opportunity",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVpRTzA5eFlORzhveW5TY2U2a2hrM0x6SjQwQ18tVEM4cjlPM1doXzRfS2owRmJfNGkwXzZNTktzQ1VGc1RkOUNJZzNBeTF0X0R0OGN3NmZZZWdxLXUwMm41S1JQaTM2Nlp0WG5IZjIxaHl3SERRdzQwNE9GbE9JLXhkNWlJMTIzOFA1YkxwaUVLQUxGX1k3UmVYU2poTTdUMmpRM0tXb2JpazJVbVJoMlRvRWdjaVdIQU40U3hfWjlTNWVBWWRRenBWX2N6eWsxWDJLT01YQQ?oc=5",
         "date": "08/07 15:24"
       },
@@ -918,10 +915,10 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom Inc. (AVGO) Stock Forecasts",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLTd1aWdzV2RaSU95dnlid0JDVUZZUV9RZ2Ryak13X2FoT3NDZVpyRHpaYlk0NW01V3RpTGRHT3hudFZRd1ZQV1Q4M0htSEJWVDJfRzNmMFlId2NIQzBsS2xBX2dhSXBwOFFEUjBDUlh0QWIzQzRiV3NwX0FrOW9ocDdmYnBsLVRqRTk1ekdpTWw?oc=5",
-        "date": "08/07 19:51"
+        "title": "Why Broadcom Stock Rallied Today",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVYT0dkU1dXdlJDY191VUlQbmNfMXdaYTYzYnV5VUtFYkxDY2RESk96bURpNVN3Skh0LVRXMXc1NjMzS1ViTDNtdGhUZnhzbU56YWwtMUZNVW1lRDBmQ1RacFdkb0wzckxKOEoyQ2MxXy00aGJBMGREV0ZrUmJYVw?oc=5",
+        "date": "08/05 02:52"
       }
     ],
     "GOOGL": [
@@ -931,13 +928,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
         "date": "08/06 02:02"
-      },
-      {
-        "type": "neutral",
-        "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
-        "date": "08/06 05:32"
       },
       {
         "type": "neutral",
@@ -952,6 +942,13 @@
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
         "date": "08/06 01:15"
+      },
+      {
+        "type": "neutral",
+        "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
+        "date": "08/06 05:32"
       }
     ],
     "QCOM": [
@@ -963,18 +960,18 @@
         "date": "08/07 08:17"
       },
       {
-        "type": "neutral",
-        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
-        "publisher": "stocktwits.com",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
-        "date": "08/07 15:14"
+        "type": "negative",
+        "title": "Qualcomm Stock Sinks 11% on Weak Guidance. Is the Selloff a Buying Opportunity?",
+        "publisher": "TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVB1c1MwSW5nb0l2b0pxZ1JSdy16ZHpqMHo3UjVYWnJaQmM5MUhYRndROWVIeFVpbGdqUkcybW8tbDRHUVZqaXlJTW5FVGRYNU1RTmhvS3ZFbkk5MHlndUozLTRmdEV5dURaY1oySnFIZ01JbW1XWnVKbm5rMTlyYmdZX2tsTUgwRllyeEpWaTZMOE5hRU9ZUkdvNnFnYWU2N1ZFNQ?oc=5",
+        "date": "08/07 21:33"
       },
       {
         "type": "neutral",
-        "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVJLZVByZERSczlSWGh2QjJHSFZRSEF5dU9Xd3Utc3hxWjloM1M3ZlM3U1FPMno2ZGRvTnZ1UkZpb0tZN29aYnJocEQwVWM1clFIN29wVnp6Qlg2RllPNkFVNEdJOVdHY1VTNV9CZHhCSWlISVNMWWMzeHpuc0JWb1FjSnBTSjNpOFRjYzlNakZsVHRucHRPY3g0RmJ3T0VXc2ZhQ0lFVFZRalFHVEE?oc=5",
-        "date": "08/07 03:08"
+        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
+        "date": "08/07 15:14"
       },
       {
         "type": "neutral",
@@ -1009,7 +1006,7 @@
       {
         "type": "negative",
         "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
-        "publisher": "StockStory",
+        "publisher": "stockstory.org",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
         "date": "07/29 16:00"
       }
