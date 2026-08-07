@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-07T16:41:48.643756+00:00",
+  "updatedAt": "2026-08-07T17:40:22.403363+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7747.66,
+        "value": 7747.56,
         "change": 0.49
       },
       {
         "name": "NASDAQ",
-        "value": 26620.29,
-        "change": 1.03
+        "value": 26611.9,
+        "change": 1.0
       },
       {
         "name": "다우존스",
-        "value": 53968.2,
-        "change": 0.15
+        "value": 53987.6,
+        "change": 0.19
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.05,
-        "change": -0.66
+        "value": 15.0,
+        "change": -0.99
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1409.32,
-        "change": -0.83
+        "value": 1409.27,
+        "change": -0.84
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7736.52,
               7723.55,
               7709.96,
-              7747.66
+              7747.56
             ]
           },
           {
@@ -248,7 +248,7 @@
               26584.99,
               26363.44,
               26348.35,
-              26620.29
+              26611.9
             ]
           },
           {
@@ -317,7 +317,7 @@
               54085.88,
               54349.12,
               53885.1,
-              53968.2
+              53987.6
             ]
           }
         ]
@@ -459,7 +459,7 @@
               16.5,
               15.81,
               15.15,
-              15.05
+              15.0
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1428.5,
               1428.43,
               1421.16,
-              1409.32
+              1409.27
             ]
           }
         ]
@@ -885,10 +885,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 72.6,
-    "GOOGL": 51.4,
-    "QCOM": 47.2,
-    "VRT": 45.2
+    "AVGO": 72.9,
+    "GOOGL": 51.2,
+    "QCOM": 48.0,
+    "VRT": 44.8
   },
   "news": {
     "AVGO": [
@@ -916,7 +916,7 @@
       {
         "type": "neutral",
         "title": "Broadcom Inc. (AVGO) Stock Forecasts",
-        "publisher": "Yahoo! Finance Canada",
+        "publisher": "ca.finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLTd1aWdzV2RaSU95dnlid0JDVUZZUV9RZ2Ryak13X2FoT3NDZVpyRHpaYlk0NW01V3RpTGRHT3hudFZRd1ZQV1Q4M0htSEJWVDJfRzNmMFlId2NIQzBsS2xBX2dhSXBwOFFEUjBDUlh0QWIzQzRiV3NwX0FrOW9ocDdmYnBsLVRqRTk1ekdpTWw?oc=5",
         "date": "08/07 22:33"
       }
@@ -931,17 +931,10 @@
       },
       {
         "type": "neutral",
-        "title": "After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued?",
-        "publisher": "Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcU5wZDBReEdfVHpvZjFKZmQweDlydlFIR2txV0JYV2RscEFFWlZjWldQalg2MF9xWUNFbHNzSmNRaC1PN2JFNDh1OWE4U2lFRkVpbmQzLWhVelJqOUVQdFdLc2hKem5DUUpTdUNGVE5ZUXJQN3dSclIzcnA3X0RPOXhzME4xLXgyUGZFRzdJbkN6TzdJbVI3WUVCbzFTdWZUcjMtM3lGQQ?oc=5",
-        "date": "08/04 15:14"
-      },
-      {
-        "type": "negative",
-        "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
-        "date": "08/08 00:21"
+        "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
+        "date": "08/06 05:32"
       },
       {
         "type": "neutral",
@@ -949,6 +942,13 @@
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
         "date": "08/06 01:15"
+      },
+      {
+        "type": "negative",
+        "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
+        "date": "08/08 00:21"
       }
     ],
     "QCOM": [
@@ -976,7 +976,7 @@
       {
         "type": "neutral",
         "title": "Qualcomm Stock: Buy or Sell?",
-        "publisher": "fool.com",
+        "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MVJsWVBHZG1iSHVXN0VwT2hvQTdwMzloMUpGRzRHeXNRWkRZbHRVamE5NjkxS0dicGpkMkx4eHZ1bGRMMVpYeEN2N25DM0xwQmYwQVBqeFgzakRUS1RYWjVqaThScWxUeU42TU0xNm45T1ZWcDZ6QQ?oc=5",
         "date": "08/02 14:19"
       }
@@ -1006,7 +1006,7 @@
       {
         "type": "negative",
         "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
-        "publisher": "StockStory",
+        "publisher": "stockstory.org",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
         "date": "07/29 16:00"
       }
