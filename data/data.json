@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-07T19:44:05.477948+00:00",
+  "updatedAt": "2026-08-07T20:29:38.446230+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7750.04,
-        "change": 0.52
+        "value": 7757.64,
+        "change": 0.62
       },
       {
         "name": "NASDAQ",
-        "value": 26647.19,
-        "change": 1.13
+        "value": 26690.62,
+        "change": 1.3
       },
       {
         "name": "다우존스",
-        "value": 54039.55,
-        "change": 0.29
+        "value": 54036.93,
+        "change": 0.28
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.83,
-        "change": -2.11
+        "value": 14.9,
+        "change": -1.65
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1407.11,
-        "change": -0.99
+        "value": 1406.97,
+        "change": -1.08
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "05/07",
           "05/08",
           "05/11",
           "05/12",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7337.11,
               7398.93,
               7412.84,
               7400.96,
@@ -179,13 +177,12 @@
               7736.52,
               7723.55,
               7709.96,
-              7750.04
+              7757.64
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              25806.2,
               26247.08,
               26274.13,
               26088.2,
@@ -248,13 +245,12 @@
               26584.99,
               26363.44,
               26348.35,
-              26647.19
+              26690.62
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              49596.97,
               49609.16,
               49704.47,
               49760.56,
@@ -317,7 +313,7 @@
               54085.88,
               54349.12,
               53885.1,
-              54039.55
+              54036.93
             ]
           }
         ]
@@ -459,7 +455,7 @@
               16.5,
               15.81,
               15.15,
-              14.83
+              14.9
             ]
           }
         ]
@@ -671,7 +667,8 @@
               1428.5,
               1428.43,
               1421.16,
-              1407.11
+              1422.3,
+              1406.97
             ]
           }
         ]
@@ -885,10 +882,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 73.1,
-    "GOOGL": 51.1,
-    "QCOM": 47.4,
-    "VRT": 43.8
+    "AVGO": 73.6,
+    "GOOGL": 50.9,
+    "QCOM": 48.2,
+    "VRT": 44.0
   },
   "news": {
     "AVGO": [
@@ -916,7 +913,7 @@
       {
         "type": "neutral",
         "title": "Prediction: A $5,000 Investment in Broadcom Could Be Worth This Much by Late-2028",
-        "publisher": "The Motley Fool",
+        "publisher": "fool.com",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzlsbkxGRUxiU2dmMGxQa0VpNW9DUVQwZ1NOdDR2Y2RZdF82RTFXWHR1YXN4T3lGTmNjSjNtMnotd3lsYnhTU1JiWDlhdW03VkQ0QVItTmVDeW5rbU1iZGNaOWFRelNoUmF3dkl6alBEQ00tbHljVE1zQ0ZiQk1Dc05FbTNuU0dIcG9CUkE4TE1IMWJWU09V?oc=5",
         "date": "08/06 01:00"
       }
@@ -932,7 +929,7 @@
       {
         "type": "neutral",
         "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
         "date": "08/06 05:32"
       },
@@ -976,7 +973,7 @@
       {
         "type": "neutral",
         "title": "Qualcomm Stock: Buy or Sell?",
-        "publisher": "The Motley Fool",
+        "publisher": "fool.com",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MVJsWVBHZG1iSHVXN0VwT2hvQTdwMzloMUpGRzRHeXNRWkRZbHRVamE5NjkxS0dicGpkMkx4eHZ1bGRMMVpYeEN2N25DM0xwQmYwQVBqeFgzakRUS1RYWjVqaThScWxUeU42TU0xNm45T1ZWcDZ6QQ?oc=5",
         "date": "08/02 14:19"
       }
@@ -999,7 +996,7 @@
       {
         "type": "neutral",
         "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
         "date": "08/06 22:35"
       },
