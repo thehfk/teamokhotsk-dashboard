@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T00:21:20.585098+00:00",
+  "updatedAt": "2026-08-07T03:23:53.901996+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1422.48,
-        "change": 0.09
+        "value": 1420.58,
+        "change": -0.04
       },
       {
         "name": "KOSPI",
-        "value": 6358.6,
-        "change": -3.63
+        "value": 6254.51,
+        "change": -0.66
       },
       {
         "name": "KOSDAQ",
-        "value": 808.99,
-        "change": 1.18
+        "value": 783.23,
+        "change": -2.3
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1428.5,
               1428.43,
               1421.16,
-              1422.48
+              1420.58
             ]
           }
         ]
@@ -737,6 +737,7 @@
           "08/03",
           "08/04",
           "08/05",
+          "08/06",
           "08/07"
         ],
         "series": [
@@ -805,7 +806,8 @@
               6257.45,
               6358.95,
               6598.26,
-              6358.6
+              6296.38,
+              6254.51
             ]
           },
           {
@@ -873,7 +875,8 @@
               737.35,
               780.72,
               799.59,
-              808.99
+              801.67,
+              783.23
             ]
           }
         ]
@@ -897,7 +900,7 @@
       {
         "type": "positive",
         "title": "Google stock drops amid DeepMind leadership shake-up",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
         "date": "08/06 02:02"
       },
@@ -927,7 +930,7 @@
       {
         "type": "negative",
         "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcndxeGlIYjRnaHVCckttd2V6azR3dktocW1YY3VrcmdBNFo1eUZjRjJISlFWWGxGNldaRkROSVZRajN5bDI5QmhvVjFDaW5mVkdsTGtFeDFLLVJheUl3dWZ2OU5MMjl1THNyeWpQYnRQaWZPSmJ2MWtubTZFR3ZycWdTUk1VbXJkUThNLVBIeGFRY0ZtZW9OSW9vY0Y5cmtvQUE?oc=5",
         "date": "08/04 22:52"
       },
@@ -952,12 +955,12 @@
         "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
-        "date": "08/06 22:45"
+        "date": "08/06 22:35"
       },
       {
         "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/06 00:15"
       },
