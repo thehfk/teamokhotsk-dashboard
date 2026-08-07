@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:03:17.609778+00:00",
+  "updatedAt": "2026-08-07T23:02:17.592781+00:00",
   "market": {
     "cards": [
       {
@@ -899,7 +899,7 @@
       {
         "type": "neutral",
         "title": "Why Is Broadcom Stock Surging Friday?",
-        "publisher": "Benzinga",
+        "publisher": "benzinga.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEV1RzJybnI4NXVZZ3Y2aHZSWVRMZk8xVXMxalN0d1ZQR2NuZjVCbDRsbk5wVGRvVzlPNF9CdHhvTkFSM0hvcldKR2JEQmZuakgtdElZbm5ueC1TeUhwTENwWDNCVXJDdWZmTzIwX21XWGZnelZPdENreVZZVXNDM1QwaEg2MDBlYlJLeGFCdTlsUGRVeG9kTnVENFRHZw?oc=5",
         "date": "08/07 22:04"
       },
@@ -913,7 +913,7 @@
       {
         "type": "neutral",
         "title": "Prediction: A $5,000 Investment in Broadcom Could Be Worth This Much by Late-2028",
-        "publisher": "The Motley Fool",
+        "publisher": "fool.com",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzlsbkxGRUxiU2dmMGxQa0VpNW9DUVQwZ1NOdDR2Y2RZdF82RTFXWHR1YXN4T3lGTmNjSjNtMnotd3lsYnhTU1JiWDlhdW03VkQ0QVItTmVDeW5rbU1iZGNaOWFRelNoUmF3dkl6alBEQ00tbHljVE1zQ0ZiQk1Dc05FbTNuU0dIcG9CUkE4TE1IMWJWU09V?oc=5",
         "date": "08/06 01:00"
       }
@@ -936,7 +936,7 @@
       {
         "type": "negative",
         "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
-        "publisher": "Benzinga",
+        "publisher": "benzinga.com",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
         "date": "08/08 00:21"
       },
@@ -949,6 +949,13 @@
       }
     ],
     "QCOM": [
+      {
+        "type": "positive",
+        "title": "QCOM Stock Drops Nearly 8% After Hours — Qualcomm’s Q3 Earnings Miss, Weak Q4 Outlook Overshadows Revenue Beat",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN1VSVzNDdDAxeFdoQmJFY3dVMExzdHVCSEtvWkpNendQNWtVOWM4NFNIYTZHM1RZZzJBQ0dmRmQ3QVZpdVF5LUNhNkUzSWl1dzBOTHZqRTZiTXlWbmc0d2N4eDB5YVN5UkEtTTZLS0IxWWNNczVZNkY3QmJJb29Hd2JEMHhUcXljakY4X1lrZ3N1ZnRwS0ZDblF0Qi1hV1VVdWt2alh4YTB6OGxYbFdGR1pqeG0zbzkzazA3NUtKQ1k4UkV0MHhOcmNkbmRDYm1pNGRsUGNHS2FxQ1BMTzFabVNlM2wySUtMVVo2ZGZuc1VoT29zb2taNWdmX3VsTm9ZeFhZ?oc=5",
+        "date": "08/08 00:52"
+      },
       {
         "type": "negative",
         "title": "Qualcomm (QCOM) Stock Fair Value Moves Lower As Margin Pressure Offsets AI Ambitions",
@@ -965,15 +972,8 @@
       },
       {
         "type": "neutral",
-        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
-        "date": "08/07 15:14"
-      },
-      {
-        "type": "neutral",
         "title": "Qualcomm Stock: Buy or Sell?",
-        "publisher": "The Motley Fool",
+        "publisher": "fool.com",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MVJsWVBHZG1iSHVXN0VwT2hvQTdwMzloMUpGRzRHeXNRWkRZbHRVamE5NjkxS0dicGpkMkx4eHZ1bGRMMVpYeEN2N25DM0xwQmYwQVBqeFgzakRUS1RYWjVqaThScWxUeU42TU0xNm45T1ZWcDZ6QQ?oc=5",
         "date": "08/02 14:19"
       }
@@ -1001,10 +1001,10 @@
         "date": "08/06 22:35"
       },
       {
-        "type": "positive",
-        "title": "Vertiv Earnings Beat Estimates. Why the Stock Is Falling.",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLU05rVjJ6QmtuQk1FVnBRcHJMU1JlcFFIQWFGeU1PTDRTNTJCVW1td2tTWXBqZ3Fxb3NQbFNvem5MNFJ2M1YtVDJrVGs0MnRReGROM0lIc1J4SVNoR0NqSTJXRmhKODhRNU1SbEI4TXpJSUVUbTJrMA?oc=5",
+        "type": "negative",
+        "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
+        "publisher": "StockStory",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
         "date": "07/29 16:00"
       }
     ]
