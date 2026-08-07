@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-07T17:40:22.403363+00:00",
+  "updatedAt": "2026-08-07T18:39:55.216726+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7747.56,
-        "change": 0.49
+        "value": 7736.91,
+        "change": 0.35
       },
       {
         "name": "NASDAQ",
-        "value": 26611.9,
-        "change": 1.0
+        "value": 26569.94,
+        "change": 0.84
       },
       {
         "name": "다우존스",
-        "value": 53987.6,
-        "change": 0.19
+        "value": 53921.97,
+        "change": 0.07
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.0,
-        "change": -0.99
+        "value": 14.91,
+        "change": -1.58
       },
       {
         "name": "미국10년금리",
-        "value": 4.65,
-        "change": -0.43
+        "value": 4.66,
+        "change": -0.21
       },
       {
         "name": "원달러환율",
-        "value": 1409.27,
-        "change": -0.84
+        "value": 1408.69,
+        "change": -0.88
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7736.52,
               7723.55,
               7709.96,
-              7747.56
+              7736.91
             ]
           },
           {
@@ -248,7 +248,7 @@
               26584.99,
               26363.44,
               26348.35,
-              26611.9
+              26569.94
             ]
           },
           {
@@ -317,7 +317,7 @@
               54085.88,
               54349.12,
               53885.1,
-              53987.6
+              53921.97
             ]
           }
         ]
@@ -459,7 +459,7 @@
               16.5,
               15.81,
               15.15,
-              15.0
+              14.91
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.63,
               4.62,
               4.67,
-              4.65
+              4.66
             ]
           },
           {
@@ -671,7 +671,7 @@
               1428.5,
               1428.43,
               1421.16,
-              1409.27
+              1408.69
             ]
           }
         ]
@@ -885,10 +885,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 72.9,
-    "GOOGL": 51.2,
-    "QCOM": 48.0,
-    "VRT": 44.8
+    "AVGO": 72.8,
+    "GOOGL": 50.9,
+    "QCOM": 47.4,
+    "VRT": 44.5
   },
   "news": {
     "AVGO": [
@@ -902,7 +902,7 @@
       {
         "type": "positive",
         "title": "Broadcom Stock: 6 Straight Green Days, Up 14%",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTVIT1luTDItQzJnTzBOSVFKcHFrSkFFWG9Rck5XOVRVNDdaYjR0XzJncE9aYWFOQW9GcUhtNjJ6UkZ1ZU01b1VpMl93bnNsZXNPVktUSlBSQy16SExLMXh2cUdvWWJKVkZKOEFiQVd3b3RDSGNPNHB4bHV0ZnZldGJ5YlNlYlFRaHQ1dVgwSFdZdm8xZEc0WDQtWjM1QWVDMzViLVZn?oc=5",
         "date": "08/07 18:03"
       },
@@ -915,10 +915,10 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom Inc. (AVGO) Stock Forecasts",
-        "publisher": "ca.finance.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLTd1aWdzV2RaSU95dnlid0JDVUZZUV9RZ2Ryak13X2FoT3NDZVpyRHpaYlk0NW01V3RpTGRHT3hudFZRd1ZQV1Q4M0htSEJWVDJfRzNmMFlId2NIQzBsS2xBX2dhSXBwOFFEUjBDUlh0QWIzQzRiV3NwX0FrOW9ocDdmYnBsLVRqRTk1ekdpTWw?oc=5",
-        "date": "08/07 22:33"
+        "title": "Why Broadcom Stock Rallied Today",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVYT0dkU1dXdlJDY191VUlQbmNfMXdaYTYzYnV5VUtFYkxDY2RESk96bURpNVN3Skh0LVRXMXc1NjMzS1ViTDNtdGhUZnhzbU56YWwtMUZNVW1lRDBmQ1RacFdkb0wzckxKOEoyQ2MxXy00aGJBMGREV0ZrUmJYVw?oc=5",
+        "date": "08/05 02:52"
       }
     ],
     "GOOGL": [
@@ -932,7 +932,7 @@
       {
         "type": "neutral",
         "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
         "date": "08/06 05:32"
       },
@@ -992,7 +992,7 @@
       {
         "type": "neutral",
         "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
         "date": "08/06 22:35"
       },
@@ -1006,7 +1006,7 @@
       {
         "type": "negative",
         "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
-        "publisher": "stockstory.org",
+        "publisher": "StockStory",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
         "date": "07/29 16:00"
       }
