@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T08:06:40.348550+00:00",
+  "updatedAt": "2026-08-07T09:29:14.550491+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.3,
-        "change": 0.99
+        "value": 15.25,
+        "change": 0.66
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1418.3,
-        "change": -0.2
+        "value": 1417.54,
+        "change": -0.25
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               16.5,
               15.81,
               15.15,
-              15.3
+              15.25
             ]
           }
         ]
@@ -667,7 +667,7 @@
               1428.5,
               1428.43,
               1421.16,
-              1418.3
+              1417.54
             ]
           }
         ]
@@ -983,17 +983,17 @@
     "VRT": [
       {
         "type": "neutral",
-        "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
-        "date": "08/06 22:35"
-      },
-      {
-        "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/06 00:15"
+      },
+      {
+        "type": "neutral",
+        "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
+        "date": "08/06 22:35"
       },
       {
         "type": "positive",
