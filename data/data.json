@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-07T12:05:46.657617+00:00",
+  "updatedAt": "2026-08-07T13:46:16.911612+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7709.96,
-        "change": -0.18
+        "value": 7740.05,
+        "change": 0.39
       },
       {
         "name": "NASDAQ",
-        "value": 26348.35,
-        "change": -0.06
+        "value": 26583.44,
+        "change": 0.89
       },
       {
         "name": "다우존스",
-        "value": 53885.1,
-        "change": -0.85
+        "value": 53998.18,
+        "change": 0.21
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.17,
-        "change": 0.13
+        "value": 15.26,
+        "change": 0.73
       },
       {
         "name": "미국10년금리",
-        "value": 4.67,
-        "change": 1.08
+        "value": 4.63,
+        "change": -0.86
       },
       {
         "name": "원달러환율",
-        "value": 1416.08,
-        "change": -0.36
+        "value": 1407.58,
+        "change": -0.96
       },
       {
         "name": "KOSPI",
@@ -109,7 +109,8 @@
           "08/03",
           "08/04",
           "08/05",
-          "08/06"
+          "08/06",
+          "08/07"
         ],
         "series": [
           {
@@ -177,7 +178,8 @@
               7600.5,
               7736.52,
               7723.55,
-              7709.96
+              7709.96,
+              7740.05
             ]
           },
           {
@@ -245,7 +247,8 @@
               25913.9,
               26584.99,
               26363.44,
-              26348.35
+              26348.35,
+              26583.44
             ]
           },
           {
@@ -313,7 +316,8 @@
               53178.41,
               54085.88,
               54349.12,
-              53885.1
+              53885.1,
+              53998.18
             ]
           }
         ]
@@ -455,7 +459,7 @@
               16.5,
               15.81,
               15.15,
-              15.17
+              15.26
             ]
           }
         ]
@@ -463,7 +467,6 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "05/06",
           "05/07",
           "05/08",
           "05/11",
@@ -526,13 +529,13 @@
           "08/03",
           "08/04",
           "08/05",
-          "08/06"
+          "08/06",
+          "08/07"
         ],
         "series": [
           {
             "name": "미국10년금리",
             "data": [
-              4.36,
               4.39,
               4.36,
               4.41,
@@ -595,7 +598,8 @@
               4.69,
               4.63,
               4.62,
-              4.67
+              4.67,
+              4.63
             ]
           },
           {
@@ -667,7 +671,7 @@
               1428.5,
               1428.43,
               1421.16,
-              1416.08
+              1407.58
             ]
           }
         ]
@@ -884,13 +888,20 @@
     ]
   },
   "rsi": {
-    "AVGO": 73.6,
-    "GOOGL": 54.4,
-    "QCOM": 41.1,
-    "VRT": 45.5
+    "AVGO": 73.1,
+    "GOOGL": 51.5,
+    "QCOM": 46.0,
+    "VRT": 46.4
   },
   "news": {
     "AVGO": [
+      {
+        "type": "positive",
+        "title": "Broadcom Stock: 6 Straight Green Days, Up 14%",
+        "publisher": "trefis.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTVIT1luTDItQzJnTzBOSVFKcHFrSkFFWG9Rck5XOVRVNDdaYjR0XzJncE9aYWFOQW9GcUhtNjJ6UkZ1ZU01b1VpMl93bnNsZXNPVktUSlBSQy16SExLMXh2cUdvWWJKVkZKOEFiQVd3b3RDSGNPNHB4bHV0ZnZldGJ5YlNlYlFRaHQ1dVgwSFdZdm8xZEc0WDQtWjM1QWVDMzViLVZn?oc=5",
+        "date": "08/07 18:03"
+      },
       {
         "type": "positive",
         "title": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade) (AVGO)",
@@ -911,13 +922,6 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVYT0dkU1dXdlJDY191VUlQbmNfMXdaYTYzYnV5VUtFYkxDY2RESk96bURpNVN3Skh0LVRXMXc1NjMzS1ViTDNtdGhUZnhzbU56YWwtMUZNVW1lRDBmQ1RacFdkb0wzckxKOEoyQ2MxXy00aGJBMGREV0ZrUmJYVw?oc=5",
         "date": "08/05 02:52"
-      },
-      {
-        "type": "neutral",
-        "title": "What Is Going on With Broadcom Stock on Tuesday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV05zYkFXeDhWVFMwT1ZfVlZpRkJpdnlYTkY4QW9uYlU0Qy1VdEhGQmtyMTFZQThFN3preEpUQ1FFQUVqcjJfVjgxVS1aWGVfV0hDSmZNWGZiTHpOdUhtV0xneWI4dHhab0Fldmp4SHNrZm9MZ3JzaWgtMmNteUhvc0lTVjhaT015NmM0eFlGZnUzLTN4VHl6NmVuMmRBc2M0RVJaRg?oc=5",
-        "date": "08/05 02:39"
       }
     ],
     "GOOGL": [
@@ -930,13 +934,6 @@
       },
       {
         "type": "neutral",
-        "title": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
-        "date": "08/06 01:15"
-      },
-      {
-        "type": "neutral",
         "title": "After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued?",
         "publisher": "Morningstar",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcU5wZDBReEdfVHpvZjFKZmQweDlydlFIR2txV0JYV2RscEFFWlZjWldQalg2MF9xWUNFbHNzSmNRaC1PN2JFNDh1OWE4U2lFRkVpbmQzLWhVelJqOUVQdFdLc2hKem5DUUpTdUNGVE5ZUXJQN3dSclIzcnA3X0RPOXhzME4xLXgyUGZFRzdJbkN6TzdJbVI3WUVCbzFTdWZUcjMtM3lGQQ?oc=5",
@@ -944,8 +941,15 @@
       },
       {
         "type": "neutral",
+        "title": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
+        "date": "08/06 01:15"
+      },
+      {
+        "type": "neutral",
         "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
         "date": "08/06 05:32"
       }
@@ -961,15 +965,15 @@
       {
         "type": "neutral",
         "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
         "date": "08/07 15:14"
       },
       {
         "type": "neutral",
         "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
+        "publisher": "trefis.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVJLZVByZERSczlSWGh2QjJHSFZRSEF5dU9Xd3Utc3hxWjloM1M3ZlM3U1FPMno2ZGRvTnZ1UkZpb0tZN29aYnJocEQwVWM1clFIN29wVnp6Qlg2RllPNkFVNEdJOVdHY1VTNV9CZHhCSWlISVNMWWMzeHpuc0JWb1FjSnBTSjNpOFRjYzlNakZsVHRucHRPY3g0RmJ3T0VXc2ZhQ0lFVFZRalFHVEE?oc=5",
         "date": "08/07 03:08"
       },
       {
@@ -991,7 +995,7 @@
       {
         "type": "neutral",
         "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
         "date": "08/06 22:35"
       },
