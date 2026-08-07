@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T03:23:53.901996+00:00",
+  "updatedAt": "2026-08-07T05:10:41.350640+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1420.58,
-        "change": -0.04
+        "value": 1418.48,
+        "change": -0.19
       },
       {
         "name": "KOSPI",
-        "value": 6254.51,
-        "change": -0.66
+        "value": 6225.63,
+        "change": -1.12
       },
       {
         "name": "KOSDAQ",
-        "value": 783.23,
-        "change": -2.3
+        "value": 785.55,
+        "change": -2.01
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1428.5,
               1428.43,
               1421.16,
-              1420.58
+              1418.48
             ]
           }
         ]
@@ -807,7 +807,7 @@
               6358.95,
               6598.26,
               6296.38,
-              6254.51
+              6225.63
             ]
           },
           {
@@ -876,7 +876,7 @@
               780.72,
               799.59,
               801.67,
-              783.23
+              785.55
             ]
           }
         ]
@@ -884,11 +884,42 @@
     ]
   },
   "rsi": {
+    "AVGO": 73.6,
     "GOOGL": 54.4,
     "QCOM": 41.1,
     "VRT": 45.5
   },
   "news": {
+    "AVGO": [
+      {
+        "type": "positive",
+        "title": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade) (AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmZ5NEtZQWM1X0ZxZlA5VHpTeWw5ZExRektwdVZXVUVielNWaEU3YlZ1czlZM0ZJd3UxUHJFUy1KRVhsWHE4NERmcmFwd0NRZDFPOTRKSWMtZ0FHZTJEWUVZWTcyRTcwS1RfaEJsb1dndFVZX3Vrd2FwdjVYTDZURFlORkg0cDZHTmVsSzNBYTBfOUI3MzlwVHNNYTJkSGFuNVBPVmhUU3czalJ4dG5rRTF4VUE?oc=5",
+        "date": "08/06 05:44"
+      },
+      {
+        "type": "neutral",
+        "title": "Could Broadcom (AVGO) Become the Biggest Winner From the Shift to Custom AI Chips?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc25FR1JUSjFXWnBhbXNaQ2dnVWxESFloU2hIcjVPWXVJRjd4dGliaUJxaVRtYk9EbURIUmpLYUxnOTVBandSSUI3ME50TlZ2Q3J5T3B5NXBobzBUSE9pV0VFN3RWd3dTNE4zTzZnRTFfQlU3b3J6TE03cHJSbG9qdnJzdjVIeENMQ0dZSE9keV92M3FOR1pOS2t0VmFaSm8?oc=5",
+        "date": "08/05 22:30"
+      },
+      {
+        "type": "positive",
+        "title": "What Could Push Broadcom Stock Higher Is Already Sitting In Its Order Book",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQl9pcV8xajk3WmdjSmNoSktoTGVMdXE4bGFYcVdCTW8xOE1FYVZPczh2WjMtcWJOY2hWOGhsMTc0bnFVendwaTRYZl9ta2xBNXlkQl9KaG03VE1pU2J4a0JuNDIzY3Z2V1BOTUJicDZvVlowaV9FQVZRaHFNMXZEVjZ1cGJudU52X1J2dC1BdVhsODZTUFVFR05EejQwWHREU2lwbXMycW1naFNPemltX3RLYWxkRk5XaldwZFVqaWZEODlybjU3cXR2V2JIb0Va?oc=5",
+        "date": "08/04 22:29"
+      },
+      {
+        "type": "neutral",
+        "title": "Prediction: A $5,000 Investment in Broadcom Could Be Worth This Much by Late-2028",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzlsbkxGRUxiU2dmMGxQa0VpNW9DUVQwZ1NOdDR2Y2RZdF82RTFXWHR1YXN4T3lGTmNjSjNtMnotd3lsYnhTU1JiWDlhdW03VkQ0QVItTmVDeW5rbU1iZGNaOWFRelNoUmF3dkl6alBEQ00tbHljVE1zQ0ZiQk1Dc05FbTNuU0dIcG9CUkE4TE1IMWJWU09V?oc=5",
+        "date": "08/06 01:00"
+      }
+    ],
     "GOOGL": [
       {
         "type": "neutral",
@@ -900,7 +931,7 @@
       {
         "type": "positive",
         "title": "Google stock drops amid DeepMind leadership shake-up",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
         "date": "08/06 02:02"
       },
@@ -921,18 +952,18 @@
     ],
     "QCOM": [
       {
+        "type": "negative",
+        "title": "Qualcomm (QCOM) Stock Fair Value Moves Lower As Margin Pressure Offsets AI Ambitions",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTdqX2ZxWVl4dXVDV0lLdXJ4YmRMQnBWVkdaandPYWtIbTRjajZBdzk4bFNKOWhpSHZUMHpOY2VCT2tVcTl1bm8tSmQwa2wxODJWS2dtZTVHMG5XSjgyUFlzZDU2TDk5by01bFJNWTVCQkhHZTVDWFhITVpMVWpseElFcVN0SlJmbVpYcG1vNTBXNkcxNVVkclVWOA?oc=5",
+        "date": "08/07 08:17"
+      },
+      {
         "type": "neutral",
         "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONllLWGcwMDUtdUJWaUg5ZmNYRnRMbHMtN3hJVWhVU05wR3RLN3NPWjZzeG1FOUtzX29OQVZ6djI0eTlQQWZpN1MxRlg4dXFlaDFId3ktQVU0YVRjUWtQTzdZSk93M2NrNlFzMXppMWpuV0hhbU1ycWlMTEZiMUNsajktZHMwbjhLWUNXUTVRcmhyb09QV1k0LWY1SFoyQjM0WDlpUVlHUWVESUJYa2Z1WjBUMnhERWNRWmY0?oc=5",
         "date": "08/07 03:08"
-      },
-      {
-        "type": "negative",
-        "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
-        "publisher": "finance.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcndxeGlIYjRnaHVCckttd2V6azR3dktocW1YY3VrcmdBNFo1eUZjRjJISlFWWGxGNldaRkROSVZRajN5bDI5QmhvVjFDaW5mVkdsTGtFeDFLLVJheUl3dWZ2OU5MMjl1THNyeWpQYnRQaWZPSmJ2MWtubTZFR3ZycWdTUk1VbXJkUThNLVBIeGFRY0ZtZW9OSW9vY0Y5cmtvQUE?oc=5",
-        "date": "08/04 22:52"
       },
       {
         "type": "neutral",
@@ -960,7 +991,7 @@
       {
         "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/06 00:15"
       },
