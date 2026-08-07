@@ -1,53 +1,52 @@
 {
-  "updatedAt": "2026-08-06T14:44:05.495917+00:00",
+  "updatedAt": "2026-08-07T00:21:20.585098+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7730.76,
-        "change": 0.09
+        "value": 7709.96,
+        "change": -0.18
       },
       {
         "name": "NASDAQ",
-        "value": 26440.51,
-        "change": 0.29
+        "value": 26348.35,
+        "change": -0.06
       },
       {
         "name": "다우존스",
-        "value": 54245.82,
-        "change": -0.19
+        "value": 53885.1,
+        "change": -0.85
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.55,
-        "change": -1.64
+        "value": 15.15,
+        "change": -4.17
       },
       {
         "name": "미국10년금리",
-        "value": 4.64,
-        "change": 0.43
+        "value": 4.67,
+        "change": 1.08
       },
       {
         "name": "원달러환율",
-        "value": 1423.96,
-        "change": -0.31
+        "value": 1422.48,
+        "change": 0.09
       },
       {
         "name": "KOSPI",
-        "value": 6296.38,
-        "change": -4.58
+        "value": 6358.6,
+        "change": -3.63
       },
       {
         "name": "KOSDAQ",
-        "value": 801.67,
-        "change": 0.26
+        "value": 808.99,
+        "change": 1.18
       }
     ],
     "groups": [
       {
         "name": "미국 시장",
         "labels": [
-          "05/06",
           "05/07",
           "05/08",
           "05/11",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7365.12,
               7337.11,
               7398.93,
               7412.84,
@@ -179,13 +177,12 @@
               7600.5,
               7736.52,
               7723.55,
-              7730.76
+              7709.96
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              25838.94,
               25806.2,
               26247.08,
               26274.13,
@@ -248,13 +245,12 @@
               25913.9,
               26584.99,
               26363.44,
-              26440.51
+              26348.35
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              49910.59,
               49596.97,
               49609.16,
               49704.47,
@@ -317,7 +313,7 @@
               53178.41,
               54085.88,
               54349.12,
-              54245.82
+              53885.1
             ]
           }
         ]
@@ -459,7 +455,7 @@
               15.86,
               16.5,
               15.81,
-              15.55
+              15.15
             ]
           }
         ]
@@ -599,13 +595,12 @@
               4.69,
               4.63,
               4.62,
-              4.64
+              4.67
             ]
           },
           {
             "name": "원달러환율",
             "data": [
-              1473.96,
               1444.45,
               1454.79,
               1460.55,
@@ -671,7 +666,8 @@
               1435.7,
               1428.5,
               1428.43,
-              1423.96
+              1421.16,
+              1422.48
             ]
           }
         ]
@@ -679,7 +675,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "05/06",
           "05/07",
           "05/08",
           "05/11",
@@ -742,13 +737,12 @@
           "08/03",
           "08/04",
           "08/05",
-          "08/06"
+          "08/07"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              7384.56,
               7490.05,
               7498.0,
               7822.24,
@@ -811,13 +805,12 @@
               6257.45,
               6358.95,
               6598.26,
-              6296.38
+              6358.6
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              1210.17,
               1199.18,
               1207.72,
               1207.34,
@@ -880,7 +873,7 @@
               737.35,
               780.72,
               799.59,
-              801.67
+              808.99
             ]
           }
         ]
@@ -888,25 +881,18 @@
     ]
   },
   "rsi": {
-    "GOOGL": 55.4,
-    "QCOM": 39.5,
-    "VRT": 45.0
+    "GOOGL": 54.4,
+    "QCOM": 41.1,
+    "VRT": 45.5
   },
   "news": {
     "GOOGL": [
       {
-        "type": "negative",
-        "title": "Alphabet’s stock drops as Google loses another key AI executive",
-        "publisher": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
-        "date": "08/06 06:20"
-      },
-      {
         "type": "neutral",
-        "title": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more",
+        "title": "Google is expanding its AI empire — and losing the people who built it",
         "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
-        "date": "08/06 01:15"
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWYzT056UVhPQURYS2lfZzFSa2QxUUVCTHQ3MHB1aUM5VmhnVEl0c25NYWI0ZVFXcjNkeTk5Ty1FUkc1QnJkQ1NkWkRhSHVxM2xkdEtMUGl6QWdOUGQ3VEl3eG9mYnE1eWZVd1V3TG1VUGswWlhWRGRSOEFIZ09jWVNsWTE2YlhLVVF6bWR5cDBIU0w2djA4dDJSeTF6bWh6dU1QWEhvYnLSAa4BQVVfeXFMUHh5V1RXLUl0OFdUdkNoOE1MLVJwNGF5VVRBQi1yYy1PMzAzWUtxTk9MQTh0T2VOWm4ySWhzdHo1YTNmVllQWWpwVjAyc0swRGdBdlNDNEdYRU9wVUJJaUVtNTVONXlUQlBCRERFV0RMbmh2UjBWaDdlUFJsaXpILVE4WFVkVVNxRFRkMnpHM3VHNXVnTVBYTXd5cGtJWGlYZWh5X1NfMklwZGxRWnlB?oc=5",
+        "date": "08/06 15:06"
       },
       {
         "type": "positive",
@@ -921,9 +907,23 @@
         "publisher": "Morningstar",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcU5wZDBReEdfVHpvZjFKZmQweDlydlFIR2txV0JYV2RscEFFWlZjWldQalg2MF9xWUNFbHNzSmNRaC1PN2JFNDh1OWE4U2lFRkVpbmQzLWhVelJqOUVQdFdLc2hKem5DUUpTdUNGVE5ZUXJQN3dSclIzcnA3X0RPOXhzME4xLXgyUGZFRzdJbkN6TzdJbVI3WUVCbzFTdWZUcjMtM3lGQQ?oc=5",
         "date": "08/04 15:14"
+      },
+      {
+        "type": "neutral",
+        "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
+        "date": "08/06 05:32"
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
+        "date": "08/07 03:08"
+      },
       {
         "type": "negative",
         "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
@@ -944,13 +944,6 @@
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
         "date": "08/05 17:19"
-      },
-      {
-        "type": "positive",
-        "title": "Qualcomm Inc (QCOM) Stock Up 7.3% and Still Undervalued -- GF Sc",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcV8zZG1hV24xMGdHaXkzVExHVUtOaEZaUzZHYVlsdl9mUjBfaW1BcDN3Yk5SWnpPX2huVElwZHY5ZWdGclRqc0JKWkhoSVlUOVdsc2x4c3pJNC1abWJLT1RseXVIQ1FEUTFvZW1kWTNuMHh3TDBZcnpabDNlNUY4VTFGNGtyd05Jb1hLN0xDelBUSkYzdmF0NEI5R1JDZ29BcTZfV0Q5ZTA?oc=5",
-        "date": "08/05 06:33"
       }
     ],
     "VRT": [
@@ -959,7 +952,7 @@
         "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
-        "date": "08/06 22:35"
+        "date": "08/06 22:45"
       },
       {
         "type": "neutral",
@@ -980,7 +973,7 @@
         "title": "Vertiv (VRT) Stock Slides After Revenue Miss Despite Earnings Beat And Higher Outlook",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDhVb3J3NEV5VkpMbWlyS2VrOFR2RmpyOFd2UjJFTzBBR29ac3dZbXNURHFvcGU4VEFiY2ZZZG00UUxSbkZFRmZTTGJlYTZucF90clFJYmZidW15Z0k3OHV1NTNNVHBhTlFKd3pQRkRMZE05Z0JfVUNycm52T3ZKS3JTWDlJT1BqNUNmX0V5NVJ6eVE1aDNOXy1UMU9KdTE1Qk1fQ3BRaXhMZmxwWUx1djlnclFfaktJenNaQkZLSEY5UmFuaFhiLS1KQ3RGYV92a25KedIB2gFBVV95cUxNYUZsSGFhMFBCOHFnSG1XaDJ4clU1Z0w4eXVEYVkxTzdRczczcVRpeXdSNk9KcEt0Nm1VZmlnSU84WlBQRmwxLVBQUVFxajZqRXZaYVR4LWxhR3NkU1ZPUlJQa3dMemhHVVFhdW5MdDhyNzR2Y2VFZm5FRXVSMjlCSEJnZ2NpZjZZTHFDWkhfRmt1U0ZYMjJ4a0RnRFJTbi1oeklmSXhRX3hDZU5jQkcxNDhMUHQ4dzdyQnhyYm5TNC1HcEEwOU1IdFoxYXNPenZDY2ZiREFmYkk3dw?oc=5",
-        "date": "07/30 02:16"
+        "date": "07/29 16:00"
       }
     ]
   }
