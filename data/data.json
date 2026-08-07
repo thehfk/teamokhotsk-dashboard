@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:14:34.607350+00:00",
+  "updatedAt": "2026-08-07T12:05:46.657617+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.27,
-        "change": 0.79
+        "value": 15.17,
+        "change": 0.13
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1416.4,
-        "change": -0.33
+        "value": 1416.08,
+        "change": -0.36
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               16.5,
               15.81,
               15.15,
-              15.27
+              15.17
             ]
           }
         ]
@@ -667,7 +667,7 @@
               1428.5,
               1428.43,
               1421.16,
-              1416.4
+              1416.08
             ]
           }
         ]
@@ -961,7 +961,7 @@
       {
         "type": "neutral",
         "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
         "date": "08/07 15:14"
       },
@@ -969,7 +969,7 @@
         "type": "neutral",
         "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONllLWGcwMDUtdUJWaUg5ZmNYRnRMbHMtN3hJVWhVU05wR3RLN3NPWjZzeG1FOUtzX29OQVZ6djI0eTlQQWZpN1MxRlg4dXFlaDFId3ktQVU0YVRjUWtQTzdZSk93M2NrNlFzMXppMWpuV0hhbU1ycWlMTEZiMUNsajktZHMwbjhLWUNXUTVRcmhyb09QV1k0LWY1SFoyQjM0WDlpUVlHUWVESUJYa2Z1WjBUMnhERWNRWmY0?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
         "date": "08/07 03:08"
       },
       {
