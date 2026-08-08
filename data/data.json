@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:19:53.267994+00:00",
+  "updatedAt": "2026-08-08T21:53:06.713052+00:00",
   "market": {
     "cards": [
       {
@@ -902,9 +902,16 @@
       {
         "type": "positive",
         "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
         "date": "08/08 17:17"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom’s AI Chip Bookings Hit $30 Billion. Here’s What Q3 Earnings Need to Show",
+        "publisher": "TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ21aYXNSakVqZlAyOW55aDZJZnJjUEdrYnhwRFQycG5GaUxxMjJIamNBZ2U1VU1WSkp5RnRQeGFfUndkOXRFRzNGOFFmR3JaME5HR0wybjZpT2tfNWJSaGN5SGlwY3F2M1ZhYXMyY1ZvRVozZUhzSi0yTldhRF9USEx4d0VFcGZVRnNBUm5hSUJxSDd6YmNWN3ZvSTg0dkxuRnlJSXVB?oc=5",
+        "date": "08/09 06:25"
       },
       {
         "type": "neutral",
@@ -912,13 +919,6 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVYT0dkU1dXdlJDY191VUlQbmNfMXdaYTYzYnV5VUtFYkxDY2RESk96bURpNVN3Skh0LVRXMXc1NjMzS1ViTDNtdGhUZnhzbU56YWwtMUZNVW1lRDBmQ1RacFdkb0wzckxKOEoyQ2MxXy00aGJBMGREV0ZrUmJYVw?oc=5",
         "date": "08/05 02:52"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom (AVGO) Is Assessing Risk From A Proposed US Optical Import Ban",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHAyVkVTbTNVZjYzWG5KSUR2LWJ3YXFyOUtESVdIV2ZHUWF0UVRmSzdGLUhvTGtabzd3eTd3Y2tpazZGUF9hWEJucURFU01tNGc2U1phS1FIZUpYNWRaaVU1ZXVhYjlFLTJ4VkJJVHlqMjkyUnFuM2xvWDM2Z01mRTR4bWVOcXJtOVFJN0pXejZHWEhLSURUVVNMN3ZxN2JnWFlBc2NQVUU0SG93cmIxdVdlaVd4SldQMmRkZGs4ZXFpcjZWZzRuTkpaTEF4Z9IB0wFBVV95cUxQMHpYOXJMZVpyUExjV1g1dDZnV2M4bDlvVklTLVpfck9sY21QUlpYUnMyakxoUDJ1LXhZZXhGUDJxQ2ZsLWlEYTV6UkJoVnRoYWswbld3bEFXX0ZxeWlINVNmT25ubzNSLWNyMHZ4eXVOQTY1TUxQUmtVOVVlZURSRzBsWHFNNjNKOVBoajUtMzVydU0xYi1zS0tteXJzazVnQlBzLUZGUTBDVmExMFZFOW03SHNaWnZqSTZ3ZFdpdnQxdVptSVZNenItNHJMUjZPWktR?oc=5",
-        "date": "08/08 22:28"
       }
     ],
     "GOOGL": [
@@ -955,7 +955,7 @@
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "ca.finance.yahoo.com",
+        "publisher": "Yahoo! Finance Canada",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
         "date": "08/08 05:55"
       },
@@ -969,7 +969,7 @@
       {
         "type": "neutral",
         "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
         "date": "08/07 03:08"
       },
@@ -999,7 +999,7 @@
       {
         "type": "neutral",
         "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
         "date": "08/06 22:35"
       },
