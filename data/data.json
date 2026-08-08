@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T09:08:09.514108+00:00",
+  "updatedAt": "2026-08-08T10:01:10.266357+00:00",
   "market": {
     "cards": [
       {
@@ -900,25 +900,25 @@
         "date": "08/08 17:24"
       },
       {
-        "type": "positive",
-        "title": "Fund Update: New $48.5M $AVGO stock position opened by Mawer Investment Management Ltd.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0ZGcGkxWl82cFR3WnVwVm9LRlpPWlBaWVkwLU5qYl9nZVMteHZza0ticGw0RnB6VUFDaWJ1R3VKZGhXTmhKaUREUmNYVU50NUNWd0RJZ0pwdzZLYnBKaHhQTlByMjdKYW4zcS1LWXlvRGN3bHF5M0RNVHhfVUx1cFhPQkdWdzRYdUFfeF9ZeEZPOFRaT3QtN2F4bFItazBmS0VXWVdEbU9WaTNtc2FUaG9jbUtDcEJ3M2Nka1ludlNscV9t?oc=5",
-        "date": "08/08 04:49"
+        "type": "neutral",
+        "title": "Why Broadcom Inc. (AVGO) Outpaced the Stock Market Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHJJM1hTODUzVjhuMnZicjNqYXhTd2N2NHBTY3E5TV9GcjhNcndvampCbEJGck5LNkNLRTF1UmZnU0RCdmtIU3U3NHFNdUR1emE3NU1FbWJnRGNvTWhqRVdJcTdBNTFvbDlaT0NkVVNpLXZHWXZKS2c1djdxdERVNWRPWG5qMUtnenlINXVKaXZCOW1SOFpLTVRVTQ?oc=5",
+        "date": "08/08 06:45"
       },
       {
-        "type": "negative",
-        "title": "AVGO Stock Drops After-Hours After Q3 Revenue Outlook Fails To Impress",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV25fNEotUF9YeFpFNXV3THVDN1FhY3VaMnJTQ1pYM0RmYnhvbUFNYUFjMDZ4NFMzZWxmTU1xYVhYcDk5WlhiOGJqYll5NW94WmtONmxLN1VBcE5nOVpVTWFVb0kyaFRMaWtzU0V5U2x3UldrQ3Y2bVJ1a3M3Q1JwWC05V3FsYVpldFZIZS1RZ3dPUGJyaE00RXF4a3lsVzZBRDBmSGdPV1ZUVW5rcVY0Q2Jrby1hcUpuNGplVVdjQWQ0NGFtWmRfSFNlSjVaMUE?oc=5",
-        "date": "08/07 21:11"
+        "type": "positive",
+        "title": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade) (AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmZ5NEtZQWM1X0ZxZlA5VHpTeWw5ZExRektwdVZXVUVielNWaEU3YlZ1czlZM0ZJd3UxUHJFUy1KRVhsWHE4NERmcmFwd0NRZDFPOTRKSWMtZ0FHZTJEWUVZWTcyRTcwS1RfaEJsb1dndFVZX3Vrd2FwdjVYTDZURFlORkg0cDZHTmVsSzNBYTBfOUI3MzlwVHNNYTJkSGFuNVBPVmhUU3czalJ4dG5rRTF4VUE?oc=5",
+        "date": "08/06 05:44"
       },
       {
         "type": "neutral",
-        "title": "Why Broadcom Stock Rallied Today",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVYT0dkU1dXdlJDY191VUlQbmNfMXdaYTYzYnV5VUtFYkxDY2RESk96bURpNVN3Skh0LVRXMXc1NjMzS1ViTDNtdGhUZnhzbU56YWwtMUZNVW1lRDBmQ1RacFdkb0wzckxKOEoyQ2MxXy00aGJBMGREV0ZrUmJYVw?oc=5",
-        "date": "08/05 02:52"
+        "title": "Why Is Broadcom Stock Surging Friday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEV1RzJybnI4NXVZZ3Y2aHZSWVRMZk8xVXMxalN0d1ZQR2NuZjVCbDRsbk5wVGRvVzlPNF9CdHhvTkFSM0hvcldKR2JEQmZuakgtdElZbm5ueC1TeUhwTENwWDNCVXJDdWZmTzIwX21XWGZnelZPdENreVZZVXNDM1QwaEg2MDBlYlJLeGFCdTlsUGRVeG9kTnVENFRHZw?oc=5",
+        "date": "08/07 22:04"
       }
     ],
     "GOOGL": [
@@ -930,18 +930,18 @@
         "date": "08/06 02:02"
       },
       {
+        "type": "positive",
+        "title": "Dear GOOGL Stock Fans, Here's What Google's AI Shakeup Means for Alphabet",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVhWbGI5QlFkTzAwaEI4a0lCTFVaNWY2S1AyRzZxdEc1eG5GRTgyMGtETzFPeXZKZWVKZ3lYT1l2TC1GV3kxVjZDV044MlFLMk1aUDFiSW43X3FoUllWaU1EZjUtV3RqRnNPSFQ5S1RjX0F1LVI0RFphNGpWMktwR0VrcjhHWGxEakFwbHczckt0NlFOQ0VNT0JYcjE2LS0xRC1wYmE2OWRHQXROMVh4RXNmYjJKNUU?oc=5",
+        "date": "08/08 04:29"
+      },
+      {
         "type": "negative",
         "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
         "date": "08/08 00:21"
-      },
-      {
-        "type": "neutral",
-        "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
-        "date": "08/06 05:32"
       },
       {
         "type": "neutral",
@@ -953,13 +953,6 @@
     ],
     "QCOM": [
       {
-        "type": "positive",
-        "title": "QCOM Stock Drops Nearly 8% After Hours — Qualcomm’s Q3 Earnings Miss, Weak Q4 Outlook Overshadows Revenue Beat",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN1VSVzNDdDAxeFdoQmJFY3dVMExzdHVCSEtvWkpNendQNWtVOWM4NFNIYTZHM1RZZzJBQ0dmRmQ3QVZpdVF5LUNhNkUzSWl1dzBOTHZqRTZiTXlWbmc0d2N4eDB5YVN5UkEtTTZLS0IxWWNNczVZNkY3QmJJb29Hd2JEMHhUcXljakY4X1lrZ3N1ZnRwS0ZDblF0Qi1hV1VVdWt2alh4YTB6OGxYbFdGR1pqeG0zbzkzazA3NUtKQ1k4UkV0MHhOcmNkbmRDYm1pNGRsUGNHS2FxQ1BMTzFabVNlM2wySUtMVVo2ZGZuc1VoT29zb2taNWdmX3VsTm9ZeFhZ?oc=5",
-        "date": "08/08 00:52"
-      },
-      {
         "type": "negative",
         "title": "Qualcomm (QCOM) Stock Fair Value Moves Lower As Margin Pressure Offsets AI Ambitions",
         "publisher": "Yahoo Finance",
@@ -967,11 +960,11 @@
         "date": "08/07 08:17"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm Stock Sinks 11% on Weak Guidance. Is the Selloff a Buying Opportunity?",
-        "publisher": "TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVB1c1MwSW5nb0l2b0pxZ1JSdy16ZHpqMHo3UjVYWnJaQmM5MUhYRndROWVIeFVpbGdqUkcybW8tbDRHUVZqaXlJTW5FVGRYNU1RTmhvS3ZFbkk5MHlndUozLTRmdEV5dURaY1oySnFIZ01JbW1XWnVKbm5rMTlyYmdZX2tsTUgwRllyeEpWaTZMOE5hRU9ZUkdvNnFnYWU2N1ZFNQ?oc=5",
-        "date": "08/07 21:33"
+        "type": "positive",
+        "title": "QCOM Stock Drops Nearly 8% After Hours — Qualcomm’s Q3 Earnings Miss, Weak Q4 Outlook Overshadows Revenue Beat",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN1VSVzNDdDAxeFdoQmJFY3dVMExzdHVCSEtvWkpNendQNWtVOWM4NFNIYTZHM1RZZzJBQ0dmRmQ3QVZpdVF5LUNhNkUzSWl1dzBOTHZqRTZiTXlWbmc0d2N4eDB5YVN5UkEtTTZLS0IxWWNNczVZNkY3QmJJb29Hd2JEMHhUcXljakY4X1lrZ3N1ZnRwS0ZDblF0Qi1hV1VVdWt2alh4YTB6OGxYbFdGR1pqeG0zbzkzazA3NUtKQ1k4UkV0MHhOcmNkbmRDYm1pNGRsUGNHS2FxQ1BMTzFabVNlM2wySUtMVVo2ZGZuc1VoT29zb2taNWdmX3VsTm9ZeFhZ?oc=5",
+        "date": "08/08 00:52"
       },
       {
         "type": "neutral",
@@ -979,6 +972,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MVJsWVBHZG1iSHVXN0VwT2hvQTdwMzloMUpGRzRHeXNRWkRZbHRVamE5NjkxS0dicGpkMkx4eHZ1bGRMMVpYeEN2N25DM0xwQmYwQVBqeFgzakRUS1RYWjVqaThScWxUeU42TU0xNm45T1ZWcDZ6QQ?oc=5",
         "date": "08/02 14:19"
+      },
+      {
+        "type": "negative",
+        "title": "Qualcomm Stock Sinks 11% on Weak Guidance. Is the Selloff a Buying Opportunity?",
+        "publisher": "TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVB1c1MwSW5nb0l2b0pxZ1JSdy16ZHpqMHo3UjVYWnJaQmM5MUhYRndROWVIeFVpbGdqUkcybW8tbDRHUVZqaXlJTW5FVGRYNU1RTmhvS3ZFbkk5MHlndUozLTRmdEV5dURaY1oySnFIZ01JbW1XWnVKbm5rMTlyYmdZX2tsTUgwRllyeEpWaTZMOE5hRU9ZUkdvNnFnYWU2N1ZFNQ?oc=5",
+        "date": "08/07 21:33"
       }
     ],
     "VRT": [
