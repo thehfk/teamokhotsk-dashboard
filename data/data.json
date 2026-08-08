@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T14:04:28.399527+00:00",
+  "updatedAt": "2026-08-08T14:55:57.929603+00:00",
   "market": {
     "cards": [
       {
@@ -953,6 +953,13 @@
     ],
     "QCOM": [
       {
+        "type": "neutral",
+        "title": "QCOM Stock Slides Premarket: Qualcomm's Dragonfly AI Push Gets Overshadowed By Nvidia's Computex Blitz",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXBSY0pCWWhxb2ZrZXpVMWFqOGFJcm5jZnE4dEJwa0wwSkUyNTNqTHpzSVBsYkd3cXBZTmZnRUFpUHRUM1B1SmhBdHBqd3UtalBaVG1zTTRnZ1U2ang4NWk3eTQ5TkpuWUdlZHhTcWE2RmxIdmJ5Zl8yMWliY2NUR0hWY0d6ZDg4RC1zZEFyOUlfc1pvOWlOWTVZaHJHT2JiM1M2b1hPRWExbnpnbU9QUE1DU0RmYU9OQlpQYjZnNGE?oc=5",
+        "date": "08/08 19:39"
+      },
+      {
         "type": "negative",
         "title": "Qualcomm (QCOM) Stock Fair Value Moves Lower As Margin Pressure Offsets AI Ambitions",
         "publisher": "Yahoo Finance",
@@ -961,10 +968,10 @@
       },
       {
         "type": "positive",
-        "title": "QCOM Stock Drops Nearly 8% After Hours — Qualcomm’s Q3 Earnings Miss, Weak Q4 Outlook Overshadows Revenue Beat",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN1VSVzNDdDAxeFdoQmJFY3dVMExzdHVCSEtvWkpNendQNWtVOWM4NFNIYTZHM1RZZzJBQ0dmRmQ3QVZpdVF5LUNhNkUzSWl1dzBOTHZqRTZiTXlWbmc0d2N4eDB5YVN5UkEtTTZLS0IxWWNNczVZNkY3QmJJb29Hd2JEMHhUcXljakY4X1lrZ3N1ZnRwS0ZDblF0Qi1hV1VVdWt2alh4YTB6OGxYbFdGR1pqeG0zbzkzazA3NUtKQ1k4UkV0MHhOcmNkbmRDYm1pNGRsUGNHS2FxQ1BMTzFabVNlM2wySUtMVVo2ZGZuc1VoT29zb2taNWdmX3VsTm9ZeFhZ?oc=5",
-        "date": "08/08 00:52"
+        "title": "Qualcomm Inc (QCOM) Stock Up 4.7% and Still Undervalued -- GF Sc",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXlrYXVSUWN5TVp2WlNEeHNKd0lYRldKdU1jdEo1ZHVBSnU3MlFVRU51VzZlS1EwdDNJM0NHU2Q2LTgtZXBfekZ2eGREMU5oMkJXakp1Z3U5aG96eERxWDROczhRQVFMel9UaGhkZlVDTmRPVGZwTWJzTWZTNHRXTzBiMVpjRkcxaTJwTll0MHRvYnoxbXJMT0ZIcjhHcFNsUkp3OWZEeTg?oc=5",
+        "date": "08/08 08:14"
       },
       {
         "type": "neutral",
@@ -972,13 +979,6 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MVJsWVBHZG1iSHVXN0VwT2hvQTdwMzloMUpGRzRHeXNRWkRZbHRVamE5NjkxS0dicGpkMkx4eHZ1bGRMMVpYeEN2N25DM0xwQmYwQVBqeFgzakRUS1RYWjVqaThScWxUeU42TU0xNm45T1ZWcDZ6QQ?oc=5",
         "date": "08/02 14:19"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
-        "date": "08/07 03:08"
       }
     ],
     "VRT": [
@@ -1006,7 +1006,7 @@
       {
         "type": "negative",
         "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
-        "publisher": "StockStory",
+        "publisher": "stockstory.org",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
         "date": "07/29 16:00"
       }
