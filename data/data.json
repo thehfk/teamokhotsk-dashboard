@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T00:52:55.908168+00:00",
+  "updatedAt": "2026-08-08T02:50:11.880623+00:00",
   "market": {
     "cards": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "name": "KOSPI",
-        "value": 6296.38,
-        "change": -4.58
+        "value": 6258.77,
+        "change": -0.6
       },
       {
         "name": "KOSDAQ",
-        "value": 801.67,
-        "change": 0.26
+        "value": 798.81,
+        "change": -0.36
       }
     ],
     "groups": [
@@ -738,7 +738,8 @@
           "08/03",
           "08/04",
           "08/05",
-          "08/06"
+          "08/06",
+          "08/07"
         ],
         "series": [
           {
@@ -806,7 +807,8 @@
               6257.45,
               6358.95,
               6598.26,
-              6296.38
+              6296.38,
+              6258.77
             ]
           },
           {
@@ -874,7 +876,8 @@
               737.35,
               780.72,
               799.59,
-              801.67
+              801.67,
+              798.81
             ]
           }
         ]
@@ -891,10 +894,24 @@
     "AVGO": [
       {
         "type": "positive",
-        "title": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade) (AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmZ5NEtZQWM1X0ZxZlA5VHpTeWw5ZExRektwdVZXVUVielNWaEU3YlZ1czlZM0ZJd3UxUHJFUy1KRVhsWHE4NERmcmFwd0NRZDFPOTRKSWMtZ0FHZTJEWUVZWTcyRTcwS1RfaEJsb1dndFVZX3Vrd2FwdjVYTDZURFlORkg0cDZHTmVsSzNBYTBfOUI3MzlwVHNNYTJkSGFuNVBPVmhUU3czalJ4dG5rRTF4VUE?oc=5",
-        "date": "08/06 05:44"
+        "title": "Fund Update: New $48.5M $AVGO stock position opened by Mawer Investment Management Ltd.",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0ZGcGkxWl82cFR3WnVwVm9LRlpPWlBaWVkwLU5qYl9nZVMteHZza0ticGw0RnB6VUFDaWJ1R3VKZGhXTmhKaUREUmNYVU50NUNWd0RJZ0pwdzZLYnBKaHhQTlByMjdKYW4zcS1LWXlvRGN3bHF5M0RNVHhfVUx1cFhPQkdWdzRYdUFfeF9ZeEZPOFRaT3QtN2F4bFItazBmS0VXWVdEbU9WaTNtc2FUaG9jbUtDcEJ3M2Nka1ludlNscV9t?oc=5",
+        "date": "08/08 04:49"
+      },
+      {
+        "type": "negative",
+        "title": "AVGO Stock Drops After-Hours After Q3 Revenue Outlook Fails To Impress",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV25fNEotUF9YeFpFNXV3THVDN1FhY3VaMnJTQ1pYM0RmYnhvbUFNYUFjMDZ4NFMzZWxmTU1xYVhYcDk5WlhiOGJqYll5NW94WmtONmxLN1VBcE5nOVpVTWFVb0kyaFRMaWtzU0V5U2x3UldrQ3Y2bVJ1a3M3Q1JwWC05V3FsYVpldFZIZS1RZ3dPUGJyaE00RXF4a3lsVzZBRDBmSGdPV1ZUVW5rcVY0Q2Jrby1hcUpuNGplVVdjQWQ0NGFtWmRfSFNlSjVaMUE?oc=5",
+        "date": "08/07 21:11"
+      },
+      {
+        "type": "positive",
+        "title": "Broadcom Stock: 6 Straight Green Days, Up 14%",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTVIT1luTDItQzJnTzBOSVFKcHFrSkFFWG9Rck5XOVRVNDdaYjR0XzJncE9aYWFOQW9GcUhtNjJ6UkZ1ZU01b1VpMl93bnNsZXNPVktUSlBSQy16SExLMXh2cUdvWWJKVkZKOEFiQVd3b3RDSGNPNHB4bHV0ZnZldGJ5YlNlYlFRaHQ1dVgwSFdZdm8xZEc0WDQtWjM1QWVDMzViLVZn?oc=5",
+        "date": "08/07 18:11"
       },
       {
         "type": "neutral",
@@ -902,20 +919,6 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEV1RzJybnI4NXVZZ3Y2aHZSWVRMZk8xVXMxalN0d1ZQR2NuZjVCbDRsbk5wVGRvVzlPNF9CdHhvTkFSM0hvcldKR2JEQmZuakgtdElZbm5ueC1TeUhwTENwWDNCVXJDdWZmTzIwX21XWGZnelZPdENreVZZVXNDM1QwaEg2MDBlYlJLeGFCdTlsUGRVeG9kTnVENFRHZw?oc=5",
         "date": "08/07 22:04"
-      },
-      {
-        "type": "neutral",
-        "title": "Could Broadcom (AVGO) Become the Biggest Winner From the Shift to Custom AI Chips?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc25FR1JUSjFXWnBhbXNaQ2dnVWxESFloU2hIcjVPWXVJRjd4dGliaUJxaVRtYk9EbURIUmpLYUxnOTVBandSSUI3ME50TlZ2Q3J5T3B5NXBobzBUSE9pV0VFN3RWd3dTNE4zTzZnRTFfQlU3b3J6TE03cHJSbG9qdnJzdjVIeENMQ0dZSE9keV92M3FOR1pOS2t0VmFaSm8?oc=5",
-        "date": "08/05 22:30"
-      },
-      {
-        "type": "neutral",
-        "title": "Prediction: A $5,000 Investment in Broadcom Could Be Worth This Much by Late-2028",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzlsbkxGRUxiU2dmMGxQa0VpNW9DUVQwZ1NOdDR2Y2RZdF82RTFXWHR1YXN4T3lGTmNjSjNtMnotd3lsYnhTU1JiWDlhdW03VkQ0QVItTmVDeW5rbU1iZGNaOWFRelNoUmF3dkl6alBEQ00tbHljVE1zQ0ZiQk1Dc05FbTNuU0dIcG9CUkE4TE1IMWJWU09V?oc=5",
-        "date": "08/06 01:00"
       }
     ],
     "GOOGL": [
@@ -1003,7 +1006,7 @@
       {
         "type": "negative",
         "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
-        "publisher": "StockStory",
+        "publisher": "stockstory.org",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
         "date": "07/29 16:00"
       }
