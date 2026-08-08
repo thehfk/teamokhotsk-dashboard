@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T13:25:39.164331+00:00",
+  "updatedAt": "2026-08-08T14:04:28.399527+00:00",
   "market": {
     "cards": [
       {
@@ -914,11 +914,11 @@
         "date": "08/07 15:24"
       },
       {
-        "type": "neutral",
-        "title": "Why Broadcom Stock Rallied Today",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVYT0dkU1dXdlJDY191VUlQbmNfMXdaYTYzYnV5VUtFYkxDY2RESk96bURpNVN3Skh0LVRXMXc1NjMzS1ViTDNtdGhUZnhzbU56YWwtMUZNVW1lRDBmQ1RacFdkb0wzckxKOEoyQ2MxXy00aGJBMGREV0ZrUmJYVw?oc=5",
-        "date": "08/05 02:52"
+        "type": "negative",
+        "title": "Broadcom (AVGO) Is Assessing Risk From A Proposed US Optical Import Ban",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHAyVkVTbTNVZjYzWG5KSUR2LWJ3YXFyOUtESVdIV2ZHUWF0UVRmSzdGLUhvTGtabzd3eTd3Y2tpazZGUF9hWEJucURFU01tNGc2U1phS1FIZUpYNWRaaVU1ZXVhYjlFLTJ4VkJJVHlqMjkyUnFuM2xvWDM2Z01mRTR4bWVOcXJtOVFJN0pXejZHWEhLSURUVVNMN3ZxN2JnWFlBc2NQVUU0SG93cmIxdVdlaVd4SldQMmRkZGs4ZXFpcjZWZzRuTkpaTEF4Z9IB0wFBVV95cUxQMHpYOXJMZVpyUExjV1g1dDZnV2M4bDlvVklTLVpfck9sY21QUlpYUnMyakxoUDJ1LXhZZXhGUDJxQ2ZsLWlEYTV6UkJoVnRoYWswbld3bEFXX0ZxeWlINVNmT25ubzNSLWNyMHZ4eXVOQTY1TUxQUmtVOVVlZURSRzBsWHFNNjNKOVBoajUtMzVydU0xYi1zS0tteXJzazVnQlBzLUZGUTBDVmExMFZFOW03SHNaWnZqSTZ3ZFdpdnQxdVptSVZNenItNHJMUjZPWktR?oc=5",
+        "date": "08/08 22:28"
       }
     ],
     "GOOGL": [
@@ -930,18 +930,18 @@
         "date": "08/06 02:02"
       },
       {
-        "type": "negative",
-        "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
-        "date": "08/08 00:21"
-      },
-      {
         "type": "positive",
         "title": "Dear GOOGL Stock Fans, Here's What Google's AI Shakeup Means for Alphabet",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVhWbGI5QlFkTzAwaEI4a0lCTFVaNWY2S1AyRzZxdEc1eG5GRTgyMGtETzFPeXZKZWVKZ3lYT1l2TC1GV3kxVjZDV044MlFLMk1aUDFiSW43X3FoUllWaU1EZjUtV3RqRnNPSFQ5S1RjX0F1LVI0RFphNGpWMktwR0VrcjhHWGxEakFwbHczckt0NlFOQ0VNT0JYcjE2LS0xRC1wYmE2OWRHQXROMVh4RXNmYjJKNUU?oc=5",
         "date": "08/08 04:29"
+      },
+      {
+        "type": "negative",
+        "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
+        "date": "08/08 00:21"
       },
       {
         "type": "neutral",
