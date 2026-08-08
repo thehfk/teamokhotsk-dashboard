@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T18:21:59.483106+00:00",
+  "updatedAt": "2026-08-08T19:06:07.514989+00:00",
   "market": {
     "cards": [
       {
@@ -893,6 +893,13 @@
   "news": {
     "AVGO": [
       {
+        "type": "neutral",
+        "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
+        "date": "08/07 23:40"
+      },
+      {
         "type": "positive",
         "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
         "publisher": "Trefis",
@@ -912,13 +919,6 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVYT0dkU1dXdlJDY191VUlQbmNfMXdaYTYzYnV5VUtFYkxDY2RESk96bURpNVN3Skh0LVRXMXc1NjMzS1ViTDNtdGhUZnhzbU56YWwtMUZNVW1lRDBmQ1RacFdkb0wzckxKOEoyQ2MxXy00aGJBMGREV0ZrUmJYVw?oc=5",
         "date": "08/05 02:52"
-      },
-      {
-        "type": "positive",
-        "title": "Fund Update: New $48.5M $AVGO stock position opened by Mawer Investment Management Ltd.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0ZGcGkxWl82cFR3WnVwVm9LRlpPWlBaWVkwLU5qYl9nZVMteHZza0ticGw0RnB6VUFDaWJ1R3VKZGhXTmhKaUREUmNYVU50NUNWd0RJZ0pwdzZLYnBKaHhQTlByMjdKYW4zcS1LWXlvRGN3bHF5M0RNVHhfVUx1cFhPQkdWdzRYdUFfeF9ZeEZPOFRaT3QtN2F4bFItazBmS0VXWVdEbU9WaTNtc2FUaG9jbUtDcEJ3M2Nka1ludlNscV9t?oc=5",
-        "date": "08/08 04:49"
       }
     ],
     "GOOGL": [
