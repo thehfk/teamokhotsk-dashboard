@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T17:00:05.605829+00:00",
+  "updatedAt": "2026-08-08T17:33:39.834074+00:00",
   "market": {
     "cards": [
       {
@@ -909,7 +909,7 @@
       {
         "type": "positive",
         "title": "Fund Update: New $48.5M $AVGO stock position opened by Mawer Investment Management Ltd.",
-        "publisher": "quiverquant.com",
+        "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0ZGcGkxWl82cFR3WnVwVm9LRlpPWlBaWVkwLU5qYl9nZVMteHZza0ticGw0RnB6VUFDaWJ1R3VKZGhXTmhKaUREUmNYVU50NUNWd0RJZ0pwdzZLYnBKaHhQTlByMjdKYW4zcS1LWXlvRGN3bHF5M0RNVHhfVUx1cFhPQkdWdzRYdUFfeF9ZeEZPOFRaT3QtN2F4bFItazBmS0VXWVdEbU9WaTNtc2FUaG9jbUtDcEJ3M2Nka1ludlNscV9t?oc=5",
         "date": "08/08 04:49"
       },
@@ -955,7 +955,7 @@
       {
         "type": "neutral",
         "title": "QCOM Stock Slides Premarket: Qualcomm's Dragonfly AI Push Gets Overshadowed By Nvidia's Computex Blitz",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXBSY0pCWWhxb2ZrZXpVMWFqOGFJcm5jZnE4dEJwa0wwSkUyNTNqTHpzSVBsYkd3cXBZTmZnRUFpUHRUM1B1SmhBdHBqd3UtalBaVG1zTTRnZ1U2ang4NWk3eTQ5TkpuWUdlZHhTcWE2RmxIdmJ5Zl8yMWliY2NUR0hWY0d6ZDg4RC1zZEFyOUlfc1pvOWlOWTVZaHJHT2JiM1M2b1hPRWExbnpnbU9QUE1DU0RmYU9OQlpQYjZnNGE?oc=5",
         "date": "08/08 19:39"
       },
@@ -983,18 +983,18 @@
     ],
     "VRT": [
       {
-        "type": "positive",
-        "title": "Vertiv (VRT) Stock Could Be Fairly Valued With Strong Cash Flow But Full Earnings",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTNTSFJzN3NULWs3ZTRURTh5NzAtRVA1R2hIVFpNSkxEaWdiYnNXZTlodkxLU2lNUlZZakxIN0hEanZmRzVoLUpTUFBZYUh5WlpsbFJLTHl1RXpYNHkxZWFLcDlTRExrUUNlVFg3MldVbjFxS1kzTWs5X3BsQWRndWxTRlRRLVBOU2lLWWZFXzBuN0hjdS16MFlwWEFyeWZkc09yMlJ5ZE93ekxrb3dDUG1oaTVEbWtpeVJvd1FVMDZqR21FLXEzSk5KaXRWTGR3UTBPZmhsWFJBUVnSAdsBQVVfeXFMUHkzU0hSczdzVC1rN2U0VEU4eTcwLUVQNUdoSFRaTUpMRGlnYmJzV2U5aHZMS1NpTVJWWWpMSDdIRGp2Zkc1aC1KU1BQWWFIeVpabGxSS0x5dUV6WDR5MWVhS3A5U0RMa1FDZVRYNzJXVW4xcUtZM01rOV9wbEFkZ3VsU0ZUUS1QTlNpS1lmRV8wbjdIY3UtejBZcFhBcnlmZHNPcjJSeWRPd3pMa293Q1BtaGk1RG1raXlSb3dRVTA2akdtRS1xM0pOSml0Vkxkd1EwT2ZobFhSQVFZ?oc=5",
-        "date": "08/08 03:50"
-      },
-      {
         "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/06 00:15"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv (VRT) Stock Could Be Fairly Valued With Strong Cash Flow But Full Earnings",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTNTSFJzN3NULWs3ZTRURTh5NzAtRVA1R2hIVFpNSkxEaWdiYnNXZTlodkxLU2lNUlZZakxIN0hEanZmRzVoLUpTUFBZYUh5WlpsbFJLTHl1RXpYNHkxZWFLcDlTRExrUUNlVFg3MldVbjFxS1kzTWs5X3BsQWRndWxTRlRRLVBOU2lLWWZFXzBuN0hjdS16MFlwWEFyeWZkc09yMlJ5ZE93ekxrb3dDUG1oaTVEbWtpeVJvd1FVMDZqR21FLXEzSk5KaXRWTGR3UTBPZmhsWFJBUVnSAdsBQVVfeXFMUHkzU0hSczdzVC1rN2U0VEU4eTcwLUVQNUdoSFRaTUpMRGlnYmJzV2U5aHZMS1NpTVJWWWpMSDdIRGp2Zkc1aC1KU1BQWWFIeVpabGxSS0x5dUV6WDR5MWVhS3A5U0RMa1FDZVRYNzJXVW4xcUtZM01rOV9wbEFkZ3VsU0ZUUS1QTlNpS1lmRV8wbjdIY3UtejBZcFhBcnlmZHNPcjJSeWRPd3pMa293Q1BtaGk1RG1raXlSb3dRVTA2akdtRS1xM0pOSml0Vkxkd1EwT2ZobFhSQVFZ?oc=5",
+        "date": "08/08 03:50"
       },
       {
         "type": "neutral",
