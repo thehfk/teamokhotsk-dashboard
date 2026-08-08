@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T02:50:11.880623+00:00",
+  "updatedAt": "2026-08-08T04:04:11.186190+00:00",
   "market": {
     "cards": [
       {
@@ -930,9 +930,16 @@
         "date": "08/06 02:02"
       },
       {
+        "type": "negative",
+        "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
+        "date": "08/08 00:21"
+      },
+      {
         "type": "neutral",
         "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
         "date": "08/06 05:32"
       },
@@ -942,22 +949,15 @@
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
         "date": "08/06 01:15"
-      },
-      {
-        "type": "negative",
-        "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
-        "date": "08/08 00:21"
       }
     ],
     "QCOM": [
       {
         "type": "positive",
-        "title": "QCOM Stock Drops Nearly 8% After Hours — Qualcomm’s Q3 Earnings Miss, Weak Q4 Outlook Overshadows Revenue Beat",
+        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN1VSVzNDdDAxeFdoQmJFY3dVMExzdHVCSEtvWkpNendQNWtVOWM4NFNIYTZHM1RZZzJBQ0dmRmQ3QVZpdVF5LUNhNkUzSWl1dzBOTHZqRTZiTXlWbmc0d2N4eDB5YVN5UkEtTTZLS0IxWWNNczVZNkY3QmJJb29Hd2JEMHhUcXljakY4X1lrZ3N1ZnRwS0ZDblF0Qi1hV1VVdWt2alh4YTB6OGxYbFdGR1pqeG0zbzkzazA3NUtKQ1k4UkV0MHhOcmNkbmRDYm1pNGRsUGNHS2FxQ1BMTzFabVNlM2wySUtMVVo2ZGZuc1VoT29zb2taNWdmX3VsTm9ZeFhZ?oc=5",
-        "date": "08/08 00:52"
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
+        "date": "08/08 05:35"
       },
       {
         "type": "negative",
@@ -999,14 +999,14 @@
       {
         "type": "neutral",
         "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
         "date": "08/06 22:35"
       },
       {
         "type": "negative",
         "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
-        "publisher": "stockstory.org",
+        "publisher": "StockStory",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
         "date": "07/29 16:00"
       }
