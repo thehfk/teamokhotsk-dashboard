@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T17:33:39.834074+00:00",
+  "updatedAt": "2026-08-08T18:21:59.483106+00:00",
   "market": {
     "cards": [
       {
@@ -907,27 +907,27 @@
         "date": "08/08 22:28"
       },
       {
-        "type": "positive",
-        "title": "Fund Update: New $48.5M $AVGO stock position opened by Mawer Investment Management Ltd.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0ZGcGkxWl82cFR3WnVwVm9LRlpPWlBaWVkwLU5qYl9nZVMteHZza0ticGw0RnB6VUFDaWJ1R3VKZGhXTmhKaUREUmNYVU50NUNWd0RJZ0pwdzZLYnBKaHhQTlByMjdKYW4zcS1LWXlvRGN3bHF5M0RNVHhfVUx1cFhPQkdWdzRYdUFfeF9ZeEZPOFRaT3QtN2F4bFItazBmS0VXWVdEbU9WaTNtc2FUaG9jbUtDcEJ3M2Nka1ludlNscV9t?oc=5",
-        "date": "08/08 04:49"
-      },
-      {
         "type": "neutral",
         "title": "Why Broadcom Stock Rallied Today",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVYT0dkU1dXdlJDY191VUlQbmNfMXdaYTYzYnV5VUtFYkxDY2RESk96bURpNVN3Skh0LVRXMXc1NjMzS1ViTDNtdGhUZnhzbU56YWwtMUZNVW1lRDBmQ1RacFdkb0wzckxKOEoyQ2MxXy00aGJBMGREV0ZrUmJYVw?oc=5",
         "date": "08/05 02:52"
+      },
+      {
+        "type": "positive",
+        "title": "Fund Update: New $48.5M $AVGO stock position opened by Mawer Investment Management Ltd.",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0ZGcGkxWl82cFR3WnVwVm9LRlpPWlBaWVkwLU5qYl9nZVMteHZza0ticGw0RnB6VUFDaWJ1R3VKZGhXTmhKaUREUmNYVU50NUNWd0RJZ0pwdzZLYnBKaHhQTlByMjdKYW4zcS1LWXlvRGN3bHF5M0RNVHhfVUx1cFhPQkdWdzRYdUFfeF9ZeEZPOFRaT3QtN2F4bFItazBmS0VXWVdEbU9WaTNtc2FUaG9jbUtDcEJ3M2Nka1ludlNscV9t?oc=5",
+        "date": "08/08 04:49"
       }
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Google stock drops amid DeepMind leadership shake-up",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
-        "date": "08/06 02:02"
+        "type": "negative",
+        "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
+        "date": "08/08 00:21"
       },
       {
         "type": "positive",
@@ -937,18 +937,18 @@
         "date": "08/08 04:29"
       },
       {
-        "type": "negative",
-        "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
-        "date": "08/08 00:21"
-      },
-      {
         "type": "neutral",
         "title": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more",
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
         "date": "08/06 01:15"
+      },
+      {
+        "type": "positive",
+        "title": "Google stock drops amid DeepMind leadership shake-up",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
+        "date": "08/06 02:02"
       }
     ],
     "QCOM": [
@@ -974,11 +974,11 @@
         "date": "08/07 03:08"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm Inc (QCOM) Stock Up 4.7% and Still Undervalued -- GF Sc",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXlrYXVSUWN5TVp2WlNEeHNKd0lYRldKdU1jdEo1ZHVBSnU3MlFVRU51VzZlS1EwdDNJM0NHU2Q2LTgtZXBfekZ2eGREMU5oMkJXakp1Z3U5aG96eERxWDROczhRQVFMel9UaGhkZlVDTmRPVGZwTWJzTWZTNHRXTzBiMVpjRkcxaTJwTll0MHRvYnoxbXJMT0ZIcjhHcFNsUkp3OWZEeTg?oc=5",
-        "date": "08/08 08:14"
+        "type": "neutral",
+        "title": "Qualcomm Stock: Buy or Sell?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56MVJsWVBHZG1iSHVXN0VwT2hvQTdwMzloMUpGRzRHeXNRWkRZbHRVamE5NjkxS0dicGpkMkx4eHZ1bGRMMVpYeEN2N25DM0xwQmYwQVBqeFgzakRUS1RYWjVqaThScWxUeU42TU0xNm45T1ZWcDZ6QQ?oc=5",
+        "date": "08/02 14:19"
       }
     ],
     "VRT": [
