@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:54:08.220644+00:00",
+  "updatedAt": "2026-08-08T23:18:34.780059+00:00",
   "market": {
     "cards": [
       {
@@ -908,17 +908,17 @@
       },
       {
         "type": "neutral",
+        "title": "Broadcom (NASDAQ:AVGO) Stock Acquired Rep. David Taylor",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU09hc3pXSi00U2lOR2lvNVo4ZzR0c2hISVotYkk2U1Z4RTFiUWtNZDFFTVRuV3RBZ25PdWZkR2tHd29iLUlmNmtITllGQ1VSdXJQdWR2R1pYWlh3VmZXU0I5XzhUem5NQzV1VXd5YWRURlhYbUgzMklpSEdYT25hcWcxNTVhc1ZRNjlsZGd5VlN6TGxhVkxtakdMOEN1VXRFajJOVlFxbkk?oc=5",
+        "date": "08/08 15:05"
+      },
+      {
+        "type": "neutral",
         "title": "Broadcom’s AI Chip Bookings Hit $30 Billion. Here’s What Q3 Earnings Need to Show",
         "publisher": "TIKR.com",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ21aYXNSakVqZlAyOW55aDZJZnJjUEdrYnhwRFQycG5GaUxxMjJIamNBZ2U1VU1WSkp5RnRQeGFfUndkOXRFRzNGOFFmR3JaME5HR0wybjZpT2tfNWJSaGN5SGlwY3F2M1ZhYXMyY1ZvRVozZUhzSi0yTldhRF9USEx4d0VFcGZVRnNBUm5hSUJxSDd6YmNWN3ZvSTg0dkxuRnlJSXVB?oc=5",
         "date": "08/09 06:25"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom (AVGO) Is Assessing Risk From A Proposed US Optical Import Ban",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHAyVkVTbTNVZjYzWG5KSUR2LWJ3YXFyOUtESVdIV2ZHUWF0UVRmSzdGLUhvTGtabzd3eTd3Y2tpazZGUF9hWEJucURFU01tNGc2U1phS1FIZUpYNWRaaVU1ZXVhYjlFLTJ4VkJJVHlqMjkyUnFuM2xvWDM2Z01mRTR4bWVOcXJtOVFJN0pXejZHWEhLSURUVVNMN3ZxN2JnWFlBc2NQVUU0SG93cmIxdVdlaVd4SldQMmRkZGs4ZXFpcjZWZzRuTkpaTEF4Z9IB0wFBVV95cUxQMHpYOXJMZVpyUExjV1g1dDZnV2M4bDlvVklTLVpfck9sY21QUlpYUnMyakxoUDJ1LXhZZXhGUDJxQ2ZsLWlEYTV6UkJoVnRoYWswbld3bEFXX0ZxeWlINVNmT25ubzNSLWNyMHZ4eXVOQTY1TUxQUmtVOVVlZURSRzBsWHFNNjNKOVBoajUtMzVydU0xYi1zS0tteXJzazVnQlBzLUZGUTBDVmExMFZFOW03SHNaWnZqSTZ3ZFdpdnQxdVptSVZNenItNHJMUjZPWktR?oc=5",
-        "date": "08/08 22:28"
       }
     ],
     "GOOGL": [
@@ -946,7 +946,7 @@
       {
         "type": "negative",
         "title": "Arete Wealth Advisors LLC Lowers Stock Holdings in Alphabet Inc. $GOOGL",
-        "publisher": "marketbeat.com",
+        "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUhGZml0SFlqZjZnYW1HTk5sMkgyN3BkR3JOR2RRUV94R0F5dmUxcGFtcUUzbnlNbUVIbFpsdWFLMkx0N09CUEtwYkd0S0ROdTFlMUxKUm9zSnRBMVExeWxSa3FFZUoydUdFa3l4SG1LU0xPSGo4NFc3dUpkbnFOZW1ETHZvdmp4ZlVQZm1ubW8xWld6U3htTDlHbkpiY2tPeTV1UU13TkU0aENBRnBkZWRZWlZZOV93dnRuekJkakhQSGF5VVNacHJR?oc=5",
         "date": "08/08 16:50"
       }
@@ -1006,7 +1006,7 @@
       {
         "type": "negative",
         "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
-        "publisher": "stockstory.org",
+        "publisher": "StockStory",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
         "date": "07/29 16:00"
       }
