@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T06:07:24.902981+00:00",
+  "updatedAt": "2026-08-09T07:29:45.441791+00:00",
   "market": {
     "cards": [
       {
@@ -916,7 +916,7 @@
       {
         "type": "neutral",
         "title": "Cypress Funds Llc trims Broadcom Inc. stake by 24,287 shares",
-        "publisher": "theglobeandmail.com",
+        "publisher": "The Globe and Mail",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQmtXNGp3aWpNTGhFV0tpSU9MSGsyRHhkbi1qU004VDV5Q3JvTTBKNHpJemo2cHFwOE9qMjh5YkZKb0prbks3WlVQdmJmX0N2T3h1M3FGZGFFQW1waHZKRklnOG4xcEd3dVBoa1kyQ0FUSUJMdEUxRzZVVHN3cC1NY3dUSnVlVzQ3eGtYV1dhVUlzdmhLTkh3X3ZiaWdzUm83NkpYcDVvYmJudnRSWGQ1NHlZTG5jdm5iMUowdml0RDBwblpGaGE4STFQQ3pFS3JUdkYwOG9QV3AwMmVRd2tJ?oc=5",
         "date": "08/09 12:24"
       }
@@ -937,18 +937,18 @@
         "date": "08/08 00:21"
       },
       {
-        "type": "neutral",
-        "title": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
-        "date": "08/06 01:15"
-      },
-      {
         "type": "negative",
         "title": "Arete Wealth Advisors LLC Lowers Stock Holdings in Alphabet Inc. $GOOGL",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUhGZml0SFlqZjZnYW1HTk5sMkgyN3BkR3JOR2RRUV94R0F5dmUxcGFtcUUzbnlNbUVIbFpsdWFLMkx0N09CUEtwYkd0S0ROdTFlMUxKUm9zSnRBMVExeWxSa3FFZUoydUdFa3l4SG1LU0xPSGo4NFc3dUpkbnFOZW1ETHZvdmp4ZlVQZm1ubW8xWld6U3htTDlHbkpiY2tPeTV1UU13TkU0aENBRnBkZWRZWlZZOV93dnRuekJkakhQSGF5VVNacHJR?oc=5",
         "date": "08/08 16:50"
+      },
+      {
+        "type": "neutral",
+        "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
+        "date": "08/06 05:43"
       }
     ],
     "QCOM": [
@@ -990,6 +990,13 @@
         "date": "08/06 00:15"
       },
       {
+        "type": "neutral",
+        "title": "Vertiv Holdings Co. (NYSE:VRT) Given Average Recommendation of \"Buy\" by Brokerages",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTMwM1NuZ3dQY0NmY3MtSmxjbngwdmU3R2lmNVUtWndCRXFnV3ZGWlNsVExDSnc2TWFrTlJGZ0F3VlAzeUdQQ2dnZ3k5c1piMWM2NnBKc1lZM0NUclJjNUpfdjhfRF9fSlVYRTFYcGhOa2tzcFo4OGZQRWNOUmtFMllCcU9TdHIyd1l0Y2h1cUhsU1hhdmR1RmYxdVdMeE9GZWRYeFI2VE1hUG1MZWhjU1ZFLUxEcmtYMnc2d21GWlZlREg0cjdGa3FB?oc=5",
+        "date": "08/09 15:37"
+      },
+      {
         "type": "positive",
         "title": "Vertiv (VRT) Stock Could Be Fairly Valued With Strong Cash Flow But Full Earnings",
         "publisher": "simplywall.st",
@@ -1002,13 +1009,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
         "date": "08/06 22:35"
-      },
-      {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "07/29 16:00"
       }
     ]
   }
