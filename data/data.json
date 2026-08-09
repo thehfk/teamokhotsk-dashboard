@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:56:38.696215+00:00",
+  "updatedAt": "2026-08-09T23:24:23.703828+00:00",
   "market": {
     "cards": [
       {
@@ -601,8 +601,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1444.45,
-              1454.79,
               1460.55,
               1474.45,
               1492.99,
@@ -974,11 +972,11 @@
         "date": "08/07 03:08"
       },
       {
-        "type": "negative",
-        "title": "Jacobs & Co. CA Lowers Position in Qualcomm Incorporated $QCOM",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXB2SW81OHNRTWp2VFQ3a3BtRFllZ3ZpNlFjbURBamRCSjIxYmFLeVc2NXBWQU9BclV4TEtvbEhvRWttUFh2aTlPQWZ2TlhZUkVKdmp2c1I1ZGJSZHJqeHp4TXFtSmxmOUQ1bllfQzJFQXJINE9nYVBJaDdUZzBiVHdhUnhuVHhReWhncUx3MDJyUGFBLTliOXR6ck9BMUdmamFmS182Nk9yX3JwSHRwZzVNUk8ybEpIWllv?oc=5",
-        "date": "08/09 19:30"
+        "type": "neutral",
+        "title": "QUALCOMM Incorporated (QCOM) latest stock news and headlines",
+        "publisher": "Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GWVl0UjJiY0hKYWJaWnV1bzRJeTNOOWQ4OHM0TDVwbWZjemhFZE8tS3kyak8tTWZwZ01tQnZFLWRzbmxCWFlNNXJWcEdOV0ZFQTJIeUcwMlo?oc=5",
+        "date": "08/09 20:55"
       }
     ],
     "VRT": [
