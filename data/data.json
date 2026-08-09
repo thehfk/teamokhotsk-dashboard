@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T21:33:58.574936+00:00",
+  "updatedAt": "2026-08-09T22:19:27.477263+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1407.78,
-        "change": -1.02
+        "value": 1407.33,
+        "change": -1.05
       },
       {
         "name": "KOSPI",
@@ -668,7 +668,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1407.78
+              1407.33
             ]
           }
         ]
@@ -895,7 +895,7 @@
       {
         "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
         "date": "08/07 23:40"
       },
@@ -924,45 +924,45 @@
     "GOOGL": [
       {
         "type": "positive",
-        "title": "Dear GOOGL Stock Fans, Here's What Google's AI Shakeup Means for Alphabet",
+        "title": "Google stock drops amid DeepMind leadership shake-up",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1JjR3phTjhxYm4tUHZTR2VJOWpWdU9WemRpbUhzNGItcjFocUJlaks2RjFUaVVwb1I2MHhjbHAxVGUwcnFUandsNzVyQmRnUnlaYU9DX2dORW5DakFpQTN0c0x4a1FEQkpHUTFXNkQyR0JRYndRV0pfaGMycTdyUGF5N2N1eUF2ZjdxNVYxVVNnbDlvR2c?oc=5",
-        "date": "08/08 04:29"
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
+        "date": "08/06 02:02"
       },
       {
         "type": "negative",
-        "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
-        "publisher": "benzinga.com",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
-        "date": "08/08 00:21"
+        "title": "Alphabet’s stock drops as Google loses another key AI executive",
+        "publisher": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
+        "date": "08/06 06:20"
       },
       {
         "type": "neutral",
-        "title": "NewEdge Advisors LLC Reduces Stock Position in Alphabet Inc. $GOOGL",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDZ5MjlWLXNPQkp3dGJBVm81LWN1eU8tWmEwSFA0S3o1WV9wWEQxYVpCUUs0RHE5RXByZnh1eTlfWHdjbm9rWF9yN3I5c085aWZoM3pSdU9YQ0QyOWtlWXZySkItOE5VVE1ROGVQMGlkc2hDdXBpRnYwMkJfb3pQLWdvTW12d1lJeUt0TG5ldDVnekVfS3JUMlNlNmJmdkQ3Z0VwME5PUk5KMFg0MmJyV0V2X3pVOEFfR205WllqeUxHRy1o?oc=5",
-        "date": "08/09 18:12"
+        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+        "date": "08/08 21:41"
       },
       {
-        "type": "negative",
-        "title": "Google Stock Falls as Report of New $25B Bond Sale Sparks Fear of Borrowing Spree",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVp0aXZUeXM0X245WkM3bTRFVzRONFNqTGMxQzBCaVZGTFpyM2daQ084eHZ3eUZsOTFpV01sZ3RxLXo4TlI4Q01PUng4bDViZkZoempnMVJxeHBScFJhdGg1R0dZNmd1bWNRdEFpTFBiSjdzak1xbmttVXRFYWhQQ0lvVXM2bjlOSW1mQTZxSDZ2MFlmSWRuSVJKVkJSaWZpYmhCNDN1M0p6djUyYzVR?oc=5",
-        "date": "08/06 22:51"
+        "type": "neutral",
+        "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
+        "publisher": "stocktwits.com",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
+        "date": "08/08 03:42"
       }
     ],
     "QCOM": [
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "ca.finance.yahoo.com",
+        "publisher": "Yahoo! Finance Canada",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
         "date": "08/08 05:55"
       },
       {
         "type": "positive",
         "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
         "date": "08/08 02:35"
       },
@@ -991,13 +991,6 @@
       },
       {
         "type": "positive",
-        "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
-        "date": "08/08 12:49"
-      },
-      {
-        "type": "positive",
         "title": "Vertiv (VRT) Stock Could Be Fairly Valued With Strong Cash Flow But Full Earnings",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTNTSFJzN3NULWs3ZTRURTh5NzAtRVA1R2hIVFpNSkxEaWdiYnNXZTlodkxLU2lNUlZZakxIN0hEanZmRzVoLUpTUFBZYUh5WlpsbFJLTHl1RXpYNHkxZWFLcDlTRExrUUNlVFg3MldVbjFxS1kzTWs5X3BsQWRndWxTRlRRLVBOU2lLWWZFXzBuN0hjdS16MFlwWEFyeWZkc09yMlJ5ZE93ekxrb3dDUG1oaTVEbWtpeVJvd1FVMDZqR21FLXEzSk5KaXRWTGR3UTBPZmhsWFJBUVnSAdsBQVVfeXFMUHkzU0hSczdzVC1rN2U0VEU4eTcwLUVQNUdoSFRaTUpMRGlnYmJzV2U5aHZMS1NpTVJWWWpMSDdIRGp2Zkc1aC1KU1BQWWFIeVpabGxSS0x5dUV6WDR5MWVhS3A5U0RMa1FDZVRYNzJXVW4xcUtZM01rOV9wbEFkZ3VsU0ZUUS1QTlNpS1lmRV8wbjdIY3UtejBZcFhBcnlmZHNPcjJSeWRPd3pMa293Q1BtaGk1RG1raXlSb3dRVTA2akdtRS1xM0pOSml0Vkxkd1EwT2ZobFhSQVFZ?oc=5",
@@ -1009,6 +1002,13 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
         "date": "08/06 22:35"
+      },
+      {
+        "type": "negative",
+        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
+        "publisher": "stocktwits.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
+        "date": "07/29 16:00"
       }
     ]
   }
