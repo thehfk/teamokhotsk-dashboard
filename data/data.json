@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T20:59:33.523312+00:00",
+  "updatedAt": "2026-08-09T21:33:58.574936+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1407.45,
-        "change": -1.04
+        "value": 1407.78,
+        "change": -1.02
       },
       {
         "name": "KOSPI",
@@ -668,7 +668,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1407.45
+              1407.78
             ]
           }
         ]
@@ -932,7 +932,7 @@
       {
         "type": "negative",
         "title": "SpaceX Stock Meltdown Takes $28 Billion Bite Out of Google's Portfolio",
-        "publisher": "Benzinga",
+        "publisher": "benzinga.com",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNJTkx6LWxGaVYzTEhmN01yYmJHTGJjMXNiWG5vSHBMMUNmLWtlRWV3S2cwRzVjcDNPOHBmeEFGM2hYMndUWFBtRk0zSE9BaW51UUpfN0tycU5jcVAwOEpDa2owd01vbGVfUWlrV2JIUElhV1dXWDFTZTlZQzRkTW95bXJqSkdBMmpUUmZxS1E5UFdpcThiVFRrRS0zWEtvUXY1OFJieHVWcERvZDU5ZUkwX2NUVVBtMFJsUHN3OU9HR2ZGb0QyQQ?oc=5",
         "date": "08/08 00:21"
       },
@@ -955,7 +955,7 @@
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "Yahoo! Finance Canada",
+        "publisher": "ca.finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
         "date": "08/08 05:55"
       },
