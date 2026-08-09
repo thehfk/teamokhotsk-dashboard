@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T07:29:45.441791+00:00",
+  "updatedAt": "2026-08-09T08:08:42.676600+00:00",
   "market": {
     "cards": [
       {
@@ -900,18 +900,18 @@
         "date": "08/07 23:40"
       },
       {
-        "type": "positive",
-        "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
-        "date": "08/08 17:17"
-      },
-      {
         "type": "negative",
         "title": "Broadcom Stock Forecast: Why Did AVGO Drop 17% and Is Wall Street Missing the AI Story?",
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWJZTlZuWDRhOXNJaGVzTW9ObGhfdEZHTmxHazNoTVpUaEVPSno5NXVWbVZESlhMR2xpWmphMlQzYWcwNWp2WDlxZG9PWl9JZnJIV1h3cEVxaVdrQWhONVZ6RnBfYjVfLU04T01KTTVLRVVkVFhybi11MnJLckVZZjM2ZUppdThxVHRYZGhjUHBIWUpWZ0lqVUhHSUxsemlPRnFwN0xIZjNLck9wMHlSSGc0YzdtSUZWNi04NHVpQ2x0Y3ZKZEphY2Q2MFZXZUpoc3o3QTZ5SQ?oc=5",
         "date": "08/08 22:26"
+      },
+      {
+        "type": "positive",
+        "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
+        "date": "08/08 17:17"
       },
       {
         "type": "neutral",
@@ -937,11 +937,11 @@
         "date": "08/08 00:21"
       },
       {
-        "type": "negative",
-        "title": "Arete Wealth Advisors LLC Lowers Stock Holdings in Alphabet Inc. $GOOGL",
+        "type": "neutral",
+        "title": "Concorde Asset Management LLC Has $739,000 Stock Position in Alphabet Inc. $GOOGL",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUhGZml0SFlqZjZnYW1HTk5sMkgyN3BkR3JOR2RRUV94R0F5dmUxcGFtcUUzbnlNbUVIbFpsdWFLMkx0N09CUEtwYkd0S0ROdTFlMUxKUm9zSnRBMVExeWxSa3FFZUoydUdFa3l4SG1LU0xPSGo4NFc3dUpkbnFOZW1ETHZvdmp4ZlVQZm1ubW8xWld6U3htTDlHbkpiY2tPeTV1UU13TkU0aENBRnBkZWRZWlZZOV93dnRuekJkakhQSGF5VVNacHJR?oc=5",
-        "date": "08/08 16:50"
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTm5RcWN5dkRkWEdILUk3bHI0anppMUZWSDBzendKTVQwN0ZOREVVYVNDRlNrOURjNDdUY0JBVE1GWThhSWMwYzExbmkzczF3WXl2Q09CTzRRcFFhVm9waDY3WkExVExjN3lZRVNrMHZsUURUc0RfNXh5VklkWE9OZVY1aVlwTEFrQkdVQVFPM1ktd3hvTFg3Y0FkMFN5cWdtRHhsMnBjZ3FQQ2ExVi1TRkpwcWxzRVFvZjFrNVZNMGpUNi1ucWVPOVBaZUNENlgxN3dCSw?oc=5",
+        "date": "08/09 16:51"
       },
       {
         "type": "neutral",
@@ -984,17 +984,17 @@
     "VRT": [
       {
         "type": "neutral",
-        "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
-        "date": "08/06 00:15"
-      },
-      {
-        "type": "neutral",
         "title": "Vertiv Holdings Co. (NYSE:VRT) Given Average Recommendation of \"Buy\" by Brokerages",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTMwM1NuZ3dQY0NmY3MtSmxjbngwdmU3R2lmNVUtWndCRXFnV3ZGWlNsVExDSnc2TWFrTlJGZ0F3VlAzeUdQQ2dnZ3k5c1piMWM2NnBKc1lZM0NUclJjNUpfdjhfRF9fSlVYRTFYcGhOa2tzcFo4OGZQRWNOUmtFMllCcU9TdHIyd1l0Y2h1cUhsU1hhdmR1RmYxdVdMeE9GZWRYeFI2VE1hUG1MZWhjU1ZFLUxEcmtYMnc2d21GWlZlREg0cjdGa3FB?oc=5",
         "date": "08/09 15:37"
+      },
+      {
+        "type": "neutral",
+        "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
+        "date": "08/06 00:15"
       },
       {
         "type": "positive",
