@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T02:58:36.684585+00:00",
+  "updatedAt": "2026-08-09T04:17:24.536146+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1407.45,
-        "change": -1.04
+        "value": 1415.7,
+        "change": -0.46
       },
       {
         "name": "KOSPI",
@@ -668,7 +668,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1407.45
+              1415.7
             ]
           }
         ]
@@ -907,18 +907,18 @@
         "date": "08/08 17:17"
       },
       {
+        "type": "negative",
+        "title": "Broadcom Stock Forecast: Why Did AVGO Drop 17% and Is Wall Street Missing the AI Story?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWJZTlZuWDRhOXNJaGVzTW9ObGhfdEZHTmxHazNoTVpUaEVPSno5NXVWbVZESlhMR2xpWmphMlQzYWcwNWp2WDlxZG9PWl9JZnJIV1h3cEVxaVdrQWhONVZ6RnBfYjVfLU04T01KTTVLRVVkVFhybi11MnJLckVZZjM2ZUppdThxVHRYZGhjUHBIWUpWZ0lqVUhHSUxsemlPRnFwN0xIZjNLck9wMHlSSGc0YzdtSUZWNi04NHVpQ2x0Y3ZKZEphY2Q2MFZXZUpoc3o3QTZ5SQ?oc=5",
+        "date": "08/08 22:26"
+      },
+      {
         "type": "positive",
         "title": "Broadcom (NASDAQ:AVGO): A Fitting Pick for Affordable Growth Investors",
         "publisher": "ChartMill",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczQ0bVlOZGN3M0NxMEFOSWpDX1JaVnd6MkM4MXppQTMzQkFwUmhIVnFHdHhWTXJzWURDdmhnbUhBLWdycTRkb1RXZmFLY00zcDhyYk54YjJlRmlQQ2JjZjdfS011elJBbllQb29jcy1yb1N5bm04aGZoQ1dGTjNhYU9QbHF4NEEtU1JkR3VMM2VUZE5tZXR4X25pblBlOWx6Y3RwUEl4ZWc2NTNMendFUGhxRFozRjBOQ3c?oc=5",
         "date": "08/08 19:20"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom’s AI Chip Bookings Hit $30 Billion. Here’s What Q3 Earnings Need to Show",
-        "publisher": "TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ21aYXNSakVqZlAyOW55aDZJZnJjUEdrYnhwRFQycG5GaUxxMjJIamNBZ2U1VU1WSkp5RnRQeGFfUndkOXRFRzNGOFFmR3JaME5HR0wybjZpT2tfNWJSaGN5SGlwY3F2M1ZhYXMyY1ZvRVozZUhzSi0yTldhRF9USEx4d0VFcGZVRnNBUm5hSUJxSDd6YmNWN3ZvSTg0dkxuRnlJSXVB?oc=5",
-        "date": "08/09 06:25"
       }
     ],
     "GOOGL": [
