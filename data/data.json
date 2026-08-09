@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:19:27.477263+00:00",
+  "updatedAt": "2026-08-09T22:56:38.696215+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1407.33,
-        "change": -1.05
+        "value": 1409.7,
+        "change": -0.89
       },
       {
         "name": "KOSPI",
@@ -668,7 +668,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1407.33
+              1409.7
             ]
           }
         ]
@@ -895,7 +895,7 @@
       {
         "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
         "date": "08/07 23:40"
       },
@@ -907,18 +907,18 @@
         "date": "08/10 03:19"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom Inc. $AVGO Stock Holdings Lifted by First Heartland Consultants Inc.",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbENlMVB4cE16ZFJGTGZucHpZcGdscng4ZUczbTNWRV9Ka2hNbEhINVAzV1lycUdvRE5kTHBoUGtDeFN2bi05cXpPTnZ1cGk4WFNmeUxDUkRhZ0tBREN0UldHLTBYSEZtTm11d2RXckhKRmM1SmVxNGM4UzlocmNsalN5WTVzZlRnbUctUEY2dXlEOWRDY1ltYkxHSmRxM1BOUXUzcDZ5dzJWY0Z2c0Fmeml4bklWbHpSU1ZWQ2ljSW1Ncmx0QnFQdzFkaVBWTHlU?oc=5",
-        "date": "08/09 18:36"
-      },
-      {
         "type": "positive",
         "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
         "date": "08/08 17:17"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Inc. $AVGO Stock Holdings Lifted by First Heartland Consultants Inc.",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbENlMVB4cE16ZFJGTGZucHpZcGdscng4ZUczbTNWRV9Ka2hNbEhINVAzV1lycUdvRE5kTHBoUGtDeFN2bi05cXpPTnZ1cGk4WFNmeUxDUkRhZ0tBREN0UldHLTBYSEZtTm11d2RXckhKRmM1SmVxNGM4UzlocmNsalN5WTVzZlRnbUctUEY2dXlEOWRDY1ltYkxHSmRxM1BOUXUzcDZ5dzJWY0Z2c0Fmeml4bklWbHpSU1ZWQ2ljSW1Ncmx0QnFQdzFkaVBWTHlU?oc=5",
+        "date": "08/09 18:36"
       }
     ],
     "GOOGL": [
@@ -930,13 +930,6 @@
         "date": "08/06 02:02"
       },
       {
-        "type": "negative",
-        "title": "Alphabet’s stock drops as Google loses another key AI executive",
-        "publisher": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
-        "date": "08/06 06:20"
-      },
-      {
         "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
         "publisher": "TradingKey",
@@ -946,9 +939,16 @@
       {
         "type": "neutral",
         "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
         "date": "08/08 03:42"
+      },
+      {
+        "type": "neutral",
+        "title": "Price Prediction: Google Will Hit $400 on This Date",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkN0TjZRZkZuNkd6d2F6MFFfVkZiaDNkNEZ1dnZZUWZzV0pQaXVpVGlSYzRBTVdpbDdXcDB2M1NqazI5RlB6Q19nQWJyYWFjRnh4d3U5dVFUWUM0SnNDclpodEg5VlRNOUNORUgyWjF5dlRMdFNUeGxpZGZYWjlhbTJoZGxQTHlTZF93MnNoSkZ0NDJMTkJCWA?oc=5",
+        "date": "08/08 00:30"
       }
     ],
     "QCOM": [
@@ -962,7 +962,7 @@
       {
         "type": "positive",
         "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
         "date": "08/08 02:35"
       },
@@ -1006,7 +1006,7 @@
       {
         "type": "negative",
         "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
         "date": "07/29 16:00"
       }
