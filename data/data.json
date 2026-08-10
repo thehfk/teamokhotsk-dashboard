@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T08:20:44.893746+00:00",
+  "updatedAt": "2026-08-10T09:54:47.997154+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.46,
-        "change": 3.76
+        "value": 15.44,
+        "change": 3.62
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1417.89,
-        "change": -0.31
+        "value": 1417.37,
+        "change": -0.35
       },
       {
         "name": "KOSPI",
@@ -453,7 +453,7 @@
               15.81,
               15.15,
               14.9,
-              15.46
+              15.44
             ]
           }
         ]
@@ -664,7 +664,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1417.89
+              1417.37
             ]
           }
         ]
@@ -900,18 +900,18 @@
         "date": "08/10 02:22"
       },
       {
+        "type": "neutral",
+        "title": "Vertrix Wealth Management LLC Sells 3,453 Shares of Broadcom Inc. $AVGO",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0RkMmtNcVNyazZYV3g0dXNaSnBGRWNBYXhDVWE2UnlzVHBFZDRxcy1Va1pkNGI0d0NrU2d1WVJXUWt4UUNkY19tb3k2b24wR2l0NkJxeEoybVFWS0hNWExNdHhVR2hod3ZhdnpNX2t0MU9ka0hCTEhaOXRFY3Awb3RCUEJoQ0M3QTBEU1duekIwUXhQZXlUajUyRGpXNEI4d09LbFRfOE9PME1hN251bjV5LVJ2aEl4MXg5c2JoRWN3aFhTdFZWdg?oc=5",
+        "date": "08/10 18:47"
+      },
+      {
         "type": "positive",
         "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
         "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
         "date": "08/08 17:17"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom Inc. (NASDAQ:AVGO) Receives Consensus Rating of \"Moderate Buy\" from Analysts",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWlxbVRQaFFONF9ZWE43c0YxcU12eWxHdWc4TjVnTTRSbmNaVUNIaExWRzVYdVpiUHgtS3lMenVJcFUya2I4aU1yMC1oWjh4RHBGMWJub0hxaWxJcWtEZE9TU3dzcmVleEZ4VExhR1dmRjBwcktHZFk0MFlpV2lqa0pMUzluMlBranlxQjgxLVBvbjVYZGRFb1duNHhPT0ZndEE2Zm1DTmtzbFdSblJPRkxPaGZ0dHFJSTVMNEtweGwwd25GUWI3UjBNaU9Ldw?oc=5",
-        "date": "08/10 15:45"
       }
     ],
     "GOOGL": [
@@ -924,10 +924,10 @@
       },
       {
         "type": "positive",
-        "title": "Google stock drops amid DeepMind leadership shake-up",
-        "publisher": "finance.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
-        "date": "08/06 02:02"
+        "title": "Dear GOOGL Stock Fans, Here's What Google's AI Shakeup Means for Alphabet",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1JjR3phTjhxYm4tUHZTR2VJOWpWdU9WemRpbUhzNGItcjFocUJlaks2RjFUaVVwb1I2MHhjbHAxVGUwcnFUandsNzVyQmRnUnlaYU9DX2dORW5DakFpQTN0c0x4a1FEQkpHUTFXNkQyR0JRYndRV0pfaGMycTdyUGF5N2N1eUF2ZjdxNVYxVVNnbDlvR2c?oc=5",
+        "date": "08/08 04:29"
       },
       {
         "type": "neutral",
@@ -941,23 +941,30 @@
         "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
-        "date": "08/08 03:42"
+        "date": "08/08 13:59"
       }
     ],
     "QCOM": [
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "Yahoo! Finance Canada",
+        "publisher": "ca.finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
         "date": "08/09 23:44"
+      },
+      {
+        "type": "neutral",
+        "title": "Hennion & Walsh Asset Management Inc. Decreases Stake in Qualcomm Incorporated $QCOM",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUtPUHhtcDA0R29VblN1YWV3MzY1QUdKZHRoSFZNNzZXWllXVUxYblNObFRzVmdsMzFVcF9taDJDQXJvdm5VM1pXYVNLSDFLU2FRNS1zQkJEZHE2QjE3OXgyMlJ4aXc2bV9COGZoZkI0bzZLWW9rZkRwVllCemVuYlgtRXNpYWNyVnVuc1RTTHQ3V1NvWmhkT0gxVW5acy1OT2p1UlJra3pKbFBBaGhQS1dMVGdCTV9pLWtCekRaTnRTdU95LXJ3WWVSRTE1ME9NYVpZSnZpbDg?oc=5",
+        "date": "08/10 18:45"
       },
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) latest stock news and headlines",
         "publisher": "Yahoo Finance UK",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GWVl0UjJiY0hKYWJaWnV1bzRJeTNOOWQ4OHM0TDVwbWZjemhFZE8tS3kyak8tTWZwZ01tQnZFLWRzbmxCWFlNNXJWcEdOV0ZFQTJIeUcwMlo?oc=5",
-        "date": "08/10 11:01"
+        "date": "08/10 11:27"
       },
       {
         "type": "positive",
@@ -965,27 +972,20 @@
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
         "date": "08/09 00:52"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
-        "publisher": "trefis.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
-        "date": "08/07 03:08"
       }
     ],
     "VRT": [
       {
-        "type": "neutral",
-        "title": "Assenagon Asset Management S.A. Sells 218,158 Shares of Vertiv Holdings Co. $VRT",
+        "type": "negative",
+        "title": "Finivi Inc. Cuts Position in Vertiv Holdings Co. $VRT",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUF85TWloZHhJU1hNcGcyajBOTVBnVFMwaW1Fb3I4eUYtVFJHN1g2ekVlMXhRaHdwWHZVbGFWamRIM0lqVWZ0eF9LTHV6Y3ZmSW5oVkVkcUtiVjc3TlFRT0VzeTVMUnVLNE9MdEdSbTNwZHdlenpXYXh2YUdtZzdPV2E4MDBnM3V4SlE0Rjc3dHZ1bS1neFRmeW1fZFhMRjZOdkpDYk1JQV9nTjJRQVJJd3JSZ1ZBZ09OSTFXQ2h6TTNXU1JiSGxVSEVuaXJCeGxjWnc?oc=5",
-        "date": "08/10 16:48"
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1BJdlRwTUpJbWlHbmtId1BNRVdzTkdvSG1nbGFYbFdVYnNZT0JNT0lEV21wVGZsTjdBU3EzMXNHQjdiM21TMTVKeGFDc1A4a0s0cFVtTVZvaFpwZjJ2YUZGWmxoZEpoVEFBaUNQejlId0dpU0JlV2EtSk84SnkwZjF6ZzJzWVF1eXRYc2Ryckp6cVhWZDhfd05pdUIwbUhEbHI5NXNZc3IwOHlfUWs4RA?oc=5",
+        "date": "08/10 17:46"
       },
       {
         "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/06 00:15"
       },
