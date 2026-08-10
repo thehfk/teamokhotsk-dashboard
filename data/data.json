@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T09:54:47.997154+00:00",
+  "updatedAt": "2026-08-10T10:57:42.286114+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.44,
-        "change": 3.62
+        "value": 15.46,
+        "change": 3.76
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1417.37,
-        "change": -0.35
+        "value": 1417.25,
+        "change": -0.36
       },
       {
         "name": "KOSPI",
@@ -453,7 +453,7 @@
               15.81,
               15.15,
               14.9,
-              15.44
+              15.46
             ]
           }
         ]
@@ -664,7 +664,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1417.37
+              1417.25
             ]
           }
         ]
@@ -901,33 +901,33 @@
       },
       {
         "type": "neutral",
-        "title": "Vertrix Wealth Management LLC Sells 3,453 Shares of Broadcom Inc. $AVGO",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0RkMmtNcVNyazZYV3g0dXNaSnBGRWNBYXhDVWE2UnlzVHBFZDRxcy1Va1pkNGI0d0NrU2d1WVJXUWt4UUNkY19tb3k2b24wR2l0NkJxeEoybVFWS0hNWExNdHhVR2hod3ZhdnpNX2t0MU9ka0hCTEhaOXRFY3Awb3RCUEJoQ0M3QTBEU1duekIwUXhQZXlUajUyRGpXNEI4d09LbFRfOE9PME1hN251bjV5LVJ2aEl4MXg5c2JoRWN3aFhTdFZWdg?oc=5",
-        "date": "08/10 18:47"
+        "title": "Broadcom Inc. $AVGO Shares Sold by Sapient Capital LLC",
+        "publisher": "marketbeat.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0ltd2VQakwtVmpqMmJFUGtCSDZDTnNYMS1IWnV4WU9QWTYyV0dTUjdkVnRuRHpfX2hCS2pJSmF6c1c0NVhQOGt0RTBpbHM3YWY3VFNpZ2Znd1RKdndSQVVKZF9jbm1KYW1GSlZNbUhIS0ZVSHBxdFd5OFh4c3FMUjJNckI4RldxT09BVTZNbVZVWUh5a3FJZ2JLcDR3d252Yk9mc0FIWjU1QXpGRlZ5d2ZKMA?oc=5",
+        "date": "08/10 19:23"
       },
       {
         "type": "positive",
         "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
         "date": "08/08 17:17"
       }
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "Alphabet Inc. $GOOGL Shares Bought by AMS Capital Ltda",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0ZLUkdEc2pmZ3RyOFJ4SWIxeFNnVnpyajBlbThnV3Y2VlNrb1lMU05XNktjSmZseVpqbURfMkxNZmg4R2pXNXg5RnNDcUN3alNzX2xRdVZPWEg3UldwcXFsOVU5cnZRN09tcW1SVGhGd010UkxjZ01OdWZINWxyRTdQMnhJcXJHV3lVdF9rRW1IX2gtc0llRjFvbHBMQktvdGtob0c4VVBYUWk1aktDTHpVaw?oc=5",
-        "date": "08/10 16:05"
-      },
-      {
         "type": "positive",
         "title": "Dear GOOGL Stock Fans, Here's What Google's AI Shakeup Means for Alphabet",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1JjR3phTjhxYm4tUHZTR2VJOWpWdU9WemRpbUhzNGItcjFocUJlaks2RjFUaVVwb1I2MHhjbHAxVGUwcnFUandsNzVyQmRnUnlaYU9DX2dORW5DakFpQTN0c0x4a1FEQkpHUTFXNkQyR0JRYndRV0pfaGMycTdyUGF5N2N1eUF2ZjdxNVYxVVNnbDlvR2c?oc=5",
         "date": "08/08 04:29"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Inc. $GOOGL Shares Bought by AMS Capital Ltda",
+        "publisher": "marketbeat.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0ZLUkdEc2pmZ3RyOFJ4SWIxeFNnVnpyajBlbThnV3Y2VlNrb1lMU05XNktjSmZseVpqbURfMkxNZmg4R2pXNXg5RnNDcUN3alNzX2xRdVZPWEg3UldwcXFsOVU5cnZRN09tcW1SVGhGd010UkxjZ01OdWZINWxyRTdQMnhJcXJHV3lVdF9rRW1IX2gtc0llRjFvbHBMQktvdGtob0c4VVBYUWk1aktDTHpVaw?oc=5",
+        "date": "08/10 16:05"
       },
       {
         "type": "neutral",
@@ -948,23 +948,23 @@
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "ca.finance.yahoo.com",
+        "publisher": "Yahoo! Finance Canada",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
         "date": "08/09 23:44"
       },
       {
         "type": "neutral",
-        "title": "Hennion & Walsh Asset Management Inc. Decreases Stake in Qualcomm Incorporated $QCOM",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUtPUHhtcDA0R29VblN1YWV3MzY1QUdKZHRoSFZNNzZXWllXVUxYblNObFRzVmdsMzFVcF9taDJDQXJvdm5VM1pXYVNLSDFLU2FRNS1zQkJEZHE2QjE3OXgyMlJ4aXc2bV9COGZoZkI0bzZLWW9rZkRwVllCemVuYlgtRXNpYWNyVnVuc1RTTHQ3V1NvWmhkT0gxVW5acy1OT2p1UlJra3pKbFBBaGhQS1dMVGdCTV9pLWtCekRaTnRTdU95LXJ3WWVSRTE1ME9NYVpZSnZpbDg?oc=5",
-        "date": "08/10 18:45"
+        "title": "Sapient Capital LLC Has $17.08 Million Position in Qualcomm Incorporated $QCOM",
+        "publisher": "marketbeat.com",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRHZrMDUwUUpiWGdsYjB5TFVEblRMWHlmdmNCUnIxbVBkVlp6VnYtbmNFamdLb3p2TTFHeWdnM3hCRDNEelpjYWhEd0E5cmZSYUVHOFJleWY1d2ZFZWRSa1Vwc2dHTTVIT2s4eDg5ckRQMV9iUDg5SW5HY3lwRHF6a2RESGZXV0Q2bTFSeHduY09uNWtWYkJtejBGanBCR2NNcUV5VkdWQ0VBYVBrZ0FlVjZMUDdYRVJNY2JwVE84NGIyZmdRWHF4SWF6SUtkNkh1RUE?oc=5",
+        "date": "08/10 19:43"
       },
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) latest stock news and headlines",
         "publisher": "Yahoo Finance UK",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GWVl0UjJiY0hKYWJaWnV1bzRJeTNOOWQ4OHM0TDVwbWZjemhFZE8tS3kyak8tTWZwZ01tQnZFLWRzbmxCWFlNNXJWcEdOV0ZFQTJIeUcwMlo?oc=5",
-        "date": "08/10 11:27"
+        "date": "08/10 11:28"
       },
       {
         "type": "positive",
@@ -978,7 +978,7 @@
       {
         "type": "negative",
         "title": "Finivi Inc. Cuts Position in Vertiv Holdings Co. $VRT",
-        "publisher": "MarketBeat",
+        "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1BJdlRwTUpJbWlHbmtId1BNRVdzTkdvSG1nbGFYbFdVYnNZT0JNT0lEV21wVGZsTjdBU3EzMXNHQjdiM21TMTVKeGFDc1A4a0s0cFVtTVZvaFpwZjJ2YUZGWmxoZEpoVEFBaUNQejlId0dpU0JlV2EtSk84SnkwZjF6ZzJzWVF1eXRYc2Ryckp6cVhWZDhfd05pdUIwbUhEbHI5NXNZc3IwOHlfUWs4RA?oc=5",
         "date": "08/10 17:46"
       },
