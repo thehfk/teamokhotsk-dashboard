@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T11:44:17.110500+00:00",
+  "updatedAt": "2026-08-10T12:44:00.372055+00:00",
   "market": {
     "cards": [
       {
@@ -19,18 +19,18 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.45,
-        "change": 3.69
+        "value": 15.4,
+        "change": 3.36
       },
       {
         "name": "미국10년금리",
-        "value": 4.66,
-        "change": -0.21
+        "value": 4.67,
+        "change": 0.21
       },
       {
         "name": "원달러환율",
-        "value": 1417.25,
-        "change": -0.36
+        "value": 1417.9,
+        "change": -0.31
       },
       {
         "name": "KOSPI",
@@ -453,7 +453,7 @@
               15.81,
               15.15,
               14.9,
-              15.45
+              15.4
             ]
           }
         ]
@@ -461,8 +461,6 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "05/07",
-          "05/08",
           "05/11",
           "05/12",
           "05/13",
@@ -524,14 +522,13 @@
           "08/04",
           "08/05",
           "08/06",
-          "08/07"
+          "08/07",
+          "08/10"
         ],
         "series": [
           {
             "name": "미국10년금리",
             "data": [
-              4.39,
-              4.36,
               4.41,
               4.46,
               4.48,
@@ -593,7 +590,8 @@
               4.63,
               4.62,
               4.67,
-              4.66
+              4.66,
+              4.67
             ]
           },
           {
@@ -664,7 +662,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1417.25
+              1417.9
             ]
           }
         ]
@@ -960,18 +958,18 @@
         "date": "08/10 19:43"
       },
       {
-        "type": "neutral",
-        "title": "QUALCOMM Incorporated (QCOM) latest stock news and headlines",
-        "publisher": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GWVl0UjJiY0hKYWJaWnV1bzRJeTNOOWQ4OHM0TDVwbWZjemhFZE8tS3kyak8tTWZwZ01tQnZFLWRzbmxCWFlNNXJWcEdOV0ZFQTJIeUcwMlo?oc=5",
-        "date": "08/10 11:31"
-      },
-      {
         "type": "positive",
         "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
         "date": "08/09 00:52"
+      },
+      {
+        "type": "neutral",
+        "title": "QUALCOMM Incorporated (QCOM) latest stock news and headlines",
+        "publisher": "Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GWVl0UjJiY0hKYWJaWnV1bzRJeTNOOWQ4OHM0TDVwbWZjemhFZE8tS3kyak8tTWZwZ01tQnZFLWRzbmxCWFlNNXJWcEdOV0ZFQTJIeUcwMlo?oc=5",
+        "date": "08/10 11:31"
       }
     ],
     "VRT": [
