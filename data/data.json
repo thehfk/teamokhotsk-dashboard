@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-10T18:10:58.733171+00:00",
+  "updatedAt": "2026-08-10T19:27:52.182495+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7753.04,
-        "change": -0.06
+        "value": 7753.76,
+        "change": -0.05
       },
       {
         "name": "NASDAQ",
-        "value": 26588.79,
-        "change": -0.38
+        "value": 26619.72,
+        "change": -0.27
       },
       {
         "name": "다우존스",
-        "value": 53901.35,
-        "change": -0.25
+        "value": 53881.39,
+        "change": -0.29
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.31,
-        "change": 2.75
+        "value": 15.33,
+        "change": 2.89
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1418.12,
-        "change": -0.29
+        "value": 1417.1,
+        "change": -0.37
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7723.55,
               7709.96,
               7757.64,
-              7753.04
+              7753.76
             ]
           },
           {
@@ -245,7 +245,7 @@
               26363.44,
               26348.35,
               26690.62,
-              26588.79
+              26619.72
             ]
           },
           {
@@ -313,7 +313,7 @@
               54349.12,
               53885.1,
               54036.93,
-              53901.35
+              53881.39
             ]
           }
         ]
@@ -453,7 +453,7 @@
               15.81,
               15.15,
               14.9,
-              15.31
+              15.33
             ]
           }
         ]
@@ -662,7 +662,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1418.12
+              1417.1
             ]
           }
         ]
@@ -873,17 +873,24 @@
     ]
   },
   "rsi": {
-    "AVGO": 68.5,
-    "GOOGL": 53.0,
-    "QCOM": 43.4,
-    "VRT": 39.6
+    "AVGO": 69.2,
+    "GOOGL": 53.4,
+    "QCOM": 43.6,
+    "VRT": 39.7
   },
   "news": {
     "AVGO": [
       {
         "type": "neutral",
+        "title": "Broadcom Stock Looks Like a Screaming Deal",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjlxWW50YUZtV3BzeEZrOUFpNTlsZ2JxcGswX1VseGoxOEI2TTFyN3FmQ21zNmRidDdXNzVtdTlCb1JQLVBDd28yM0l3aThCLXo3NnFXYUVOck9uM2RjLW12M0F2NDRUaHlkTzJUZE1DMEZ0Y0JGeHZkZmtPUGRieXg1MFRqZ1JjOVE1NTJLS18zbm8yUnVNLW5YNFlvLVE1VHc?oc=5",
+        "date": "08/11 01:05"
+      },
+      {
+        "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
         "date": "08/07 23:40"
       },
@@ -900,13 +907,6 @@
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXowOG11TVRBdl9kX2FLM3BlanVXYWkzejhaRG8yYkRURjNNSi1kb2hYaklNSXE0SmQ5bWN0Y3NXN3c1THc3anQ2WW1kNmJSMmxYWFgtZXlrMWMxaHNNTGloTkQ4ZGt3YmJSRm82aEZFTnV0V2FPWU1KU1FLd2JYMF9LWVFkRHd0THJLcFVhb0JKcmVkTnpKZVJEWldjUUE0bEdMRy14NS1OckJKeTdzbmFrbHYtdWhuRGJF?oc=5",
         "date": "08/10 22:19"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM?",
-        "publisher": "tradingview.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZFFpLTV1N1UwVTdRREJjZHQ1UkpuLW5JUGV6WFJyRGFrQkdTM0dJOTdqc1lVVVJWcGN1b3F0ZkFYNXRVWnpEbFpweTh6dlJ6VDNjZkt3Z1RqQ0hhUFVwMUpoUGxKY3NITmkxYjBJOHV6c3l2d1VMNkp0OEhSRGFrdVBmRGFXakxSTXc3cWE2dmhGbkVEZkpaRV9oTmREUks4VzF2RGlVWVVabVlUYlFYUDE2ZU9kVFE?oc=5",
-        "date": "08/11 01:19"
       }
     ],
     "GOOGL": [
@@ -926,38 +926,38 @@
       },
       {
         "type": "neutral",
-        "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
-        "publisher": "stocktwits.com",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
-        "date": "08/09 00:00"
-      },
-      {
-        "type": "neutral",
         "title": "Alphabet Inc. $GOOGL Shares Bought by AMS Capital Ltda",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0ZLUkdEc2pmZ3RyOFJ4SWIxeFNnVnpyajBlbThnV3Y2VlNrb1lMU05XNktjSmZseVpqbURfMkxNZmg4R2pXNXg5RnNDcUN3alNzX2xRdVZPWEg3UldwcXFsOVU5cnZRN09tcW1SVGhGd010UkxjZ01OdWZINWxyRTdQMnhJcXJHV3lVdF9rRW1IX2gtc0llRjFvbHBMQktvdGtob0c4VVBYUWk1aktDTHpVaw?oc=5",
         "date": "08/10 16:05"
+      },
+      {
+        "type": "neutral",
+        "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
+        "date": "08/08 13:59"
       }
     ],
     "QCOM": [
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "ca.finance.yahoo.com",
+        "publisher": "Yahoo! Finance Canada",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
         "date": "08/10 11:39"
       },
       {
-        "type": "neutral",
-        "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
-        "publisher": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSRVJ6dVQzbDhwNWxsOGJpUVFqOERERzk4Ri1RQTRuT2lfLUlBSkVKUENsNFM3cDE4OXZQNWM1Sk1oaWVqNFBGZm93eHNQMHl0ZEg1M2g4UzJlZnpIc2FndGl3?oc=5",
-        "date": "08/10 23:34"
+        "type": "positive",
+        "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
+        "date": "08/11 02:45"
       },
       {
         "type": "positive",
         "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
         "date": "08/09 00:52"
       },
@@ -986,17 +986,17 @@
       },
       {
         "type": "positive",
+        "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
+        "date": "08/08 08:30"
+      },
+      {
+        "type": "positive",
         "title": "Vertiv (VRT) Stock Could Be Fairly Valued With Strong Cash Flow But Full Earnings",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTNTSFJzN3NULWs3ZTRURTh5NzAtRVA1R2hIVFpNSkxEaWdiYnNXZTlodkxLU2lNUlZZakxIN0hEanZmRzVoLUpTUFBZYUh5WlpsbFJLTHl1RXpYNHkxZWFLcDlTRExrUUNlVFg3MldVbjFxS1kzTWs5X3BsQWRndWxTRlRRLVBOU2lLWWZFXzBuN0hjdS16MFlwWEFyeWZkc09yMlJ5ZE93ekxrb3dDUG1oaTVEbWtpeVJvd1FVMDZqR21FLXEzSk5KaXRWTGR3UTBPZmhsWFJBUVnSAdsBQVVfeXFMUHkzU0hSczdzVC1rN2U0VEU4eTcwLUVQNUdoSFRaTUpMRGlnYmJzV2U5aHZMS1NpTVJWWWpMSDdIRGp2Zkc1aC1KU1BQWWFIeVpabGxSS0x5dUV6WDR5MWVhS3A5U0RMa1FDZVRYNzJXVW4xcUtZM01rOV9wbEFkZ3VsU0ZUUS1QTlNpS1lmRV8wbjdIY3UtejBZcFhBcnlmZHNPcjJSeWRPd3pMa293Q1BtaGk1RG1raXlSb3dRVTA2akdtRS1xM0pOSml0Vkxkd1EwT2ZobFhSQVFZ?oc=5",
         "date": "08/08 03:50"
-      },
-      {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "stocktwits.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "07/29 16:00"
       }
     ]
   }
