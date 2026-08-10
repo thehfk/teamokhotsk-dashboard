@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T23:03:37.334352+00:00",
+  "updatedAt": "2026-08-10T23:57:28.964293+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1417.9,
-        "change": 0.77
+        "value": 1418.16,
+        "change": 0.79
       },
       {
         "name": "KOSPI",
@@ -663,7 +663,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1417.9
+              1418.16
             ]
           }
         ]
@@ -934,10 +934,10 @@
       },
       {
         "type": "neutral",
-        "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
-        "date": "08/09 00:00"
+        "title": "Why Is Alphabet (GOOGL) Still Facing 3,000 Youth Addiction Lawsuits?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEMtdy0zV3BaQjNnN1k4VlA0S3l0bFd2SlI0MmlnQnZNOUhaWjZ1RExBYkpWeWJqZlNxbDhaWFIwckZhM2Q4dlVocm00M1dGSno4czdZR3plMkJNVUwwV1g2SHZRZTBfNXEtblZIVjMtWmp3QmFlYlZ0SktxSWdPeE5CaHJTWjkyb3U3UGU0R2R0SUllWW0wdENNc19YRFVUU20wWUp0Y1N4V0w1bUFrNlAwX2gyOFdHMVF6UmtUVGpoYXfSAcgBQVVfeXFMTkpELUxFa0VhY2p1cTRCczlvVjNFUzZKOUFwZVFvLVdKYkV4dmdDMmJhSmJqdEZDdUtSSllvdFJvc3Y4T0NyOGtPN1owYUN4NXZVdFJEaGtxNm5kbUxESGZab1ZjZ1REV2lQQzRvVGlWU0drb091aE8tVndBR2N6YVRSLWctVXo4S2FxNnhGLW1lNG45TmlMTW41bE1WSDhaZ0RlZFB1RVdnS202SkJOaEdHeU5RcXBuSGwwTndZMHVMNHRIeTI2ajI?oc=5",
+        "date": "08/11 08:53"
       }
     ],
     "QCOM": [
