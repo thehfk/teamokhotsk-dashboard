@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-10T15:29:07.770258+00:00",
+  "updatedAt": "2026-08-10T16:23:06.983770+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7760.87,
-        "change": 0.04
+        "value": 7759.18,
+        "change": 0.02
       },
       {
         "name": "NASDAQ",
-        "value": 26619.79,
-        "change": -0.27
+        "value": 26640.17,
+        "change": -0.19
       },
       {
         "name": "다우존스",
-        "value": 54029.73,
-        "change": -0.01
+        "value": 53933.71,
+        "change": -0.19
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.17,
-        "change": 1.81
+        "value": 15.12,
+        "change": 1.48
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1417.22,
-        "change": -0.36
+        "value": 1416.48,
+        "change": -0.41
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7723.55,
               7709.96,
               7757.64,
-              7760.87
+              7759.18
             ]
           },
           {
@@ -245,7 +245,7 @@
               26363.44,
               26348.35,
               26690.62,
-              26619.79
+              26640.17
             ]
           },
           {
@@ -313,7 +313,7 @@
               54349.12,
               53885.1,
               54036.93,
-              54029.73
+              53933.71
             ]
           }
         ]
@@ -453,7 +453,7 @@
               15.81,
               15.15,
               14.9,
-              15.17
+              15.12
             ]
           }
         ]
@@ -662,7 +662,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1417.22
+              1416.48
             ]
           }
         ]
@@ -873,10 +873,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 69.7,
-    "GOOGL": 53.0,
-    "QCOM": 43.1,
-    "VRT": 39.1
+    "AVGO": 70.2,
+    "GOOGL": 52.9,
+    "QCOM": 43.6,
+    "VRT": 39.0
   },
   "news": {
     "AVGO": [
@@ -919,17 +919,17 @@
       },
       {
         "type": "neutral",
-        "title": "Alphabet Inc. $GOOGL Shares Bought by AMS Capital Ltda",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0ZLUkdEc2pmZ3RyOFJ4SWIxeFNnVnpyajBlbThnV3Y2VlNrb1lMU05XNktjSmZseVpqbURfMkxNZmg4R2pXNXg5RnNDcUN3alNzX2xRdVZPWEg3UldwcXFsOVU5cnZRN09tcW1SVGhGd010UkxjZ01OdWZINWxyRTdQMnhJcXJHV3lVdF9rRW1IX2gtc0llRjFvbHBMQktvdGtob0c4VVBYUWk1aktDTHpVaw?oc=5",
-        "date": "08/10 16:05"
-      },
-      {
-        "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
         "date": "08/09 17:47"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Inc. $GOOGL Shares Bought by AMS Capital Ltda",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0ZLUkdEc2pmZ3RyOFJ4SWIxeFNnVnpyajBlbThnV3Y2VlNrb1lMU05XNktjSmZseVpqbURfMkxNZmg4R2pXNXg5RnNDcUN3alNzX2xRdVZPWEg3UldwcXFsOVU5cnZRN09tcW1SVGhGd010UkxjZ01OdWZINWxyRTdQMnhJcXJHV3lVdF9rRW1IX2gtc0llRjFvbHBMQktvdGtob0c4VVBYUWk1aktDTHpVaw?oc=5",
+        "date": "08/10 16:05"
       },
       {
         "type": "neutral",
@@ -943,9 +943,9 @@
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "ca.finance.yahoo.com",
+        "publisher": "Yahoo! Finance Canada",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
-        "date": "08/09 23:44"
+        "date": "08/10 23:39"
       },
       {
         "type": "neutral",
