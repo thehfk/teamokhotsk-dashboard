@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T01:00:35.778318+00:00",
+  "updatedAt": "2026-08-10T03:22:02.467165+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1413.09,
-        "change": -0.65
+        "value": 1415.55,
+        "change": -0.47
       },
       {
         "name": "KOSPI",
-        "value": 6306.15,
-        "change": 0.76
+        "value": 6308.02,
+        "change": 0.79
       },
       {
         "name": "KOSDAQ",
-        "value": 833.81,
-        "change": 4.38
+        "value": 848.05,
+        "change": 6.16
       }
     ],
     "groups": [
@@ -666,7 +666,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1413.09
+              1415.55
             ]
           }
         ]
@@ -804,7 +804,7 @@
               6598.26,
               6296.38,
               6258.77,
-              6306.15
+              6308.02
             ]
           },
           {
@@ -872,7 +872,7 @@
               799.59,
               801.67,
               798.81,
-              833.81
+              848.05
             ]
           }
         ]
@@ -903,17 +903,17 @@
       },
       {
         "type": "positive",
-        "title": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVzROMF9uS0pJd1dCWk5HZkhxZ04yOVV5dXhiNW5ZazZ0c0lURVhXM1FhaG5IMHJUeWtSZjVTM2xTUmJ6ODlaTzBkVnZUeUFucTgwZHVMczRHUmw3WEZCRkVXNzlmbmtRTkkwREZVNUFLanZrbG1IRXVIUk5IT0NRa09nclJLTk9ibVVqU1I4V2Z3ZGht?oc=5",
-        "date": "08/10 03:19"
-      },
-      {
-        "type": "positive",
         "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
         "date": "08/08 17:17"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Inc. $AVGO Stock Holdings Lifted by First Heartland Consultants Inc.",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbENlMVB4cE16ZFJGTGZucHpZcGdscng4ZUczbTNWRV9Ka2hNbEhINVAzV1lycUdvRE5kTHBoUGtDeFN2bi05cXpPTnZ1cGk4WFNmeUxDUkRhZ0tBREN0UldHLTBYSEZtTm11d2RXckhKRmM1SmVxNGM4UzlocmNsalN5WTVzZlRnbUctUEY2dXlEOWRDY1ltYkxHSmRxM1BOUXUzcDZ5dzJWY0Z2c0Fmeml4bklWbHpSU1ZWQ2ljSW1Ncmx0QnFQdzFkaVBWTHlU?oc=5",
+        "date": "08/09 18:36"
       }
     ],
     "GOOGL": [
@@ -926,24 +926,24 @@
       },
       {
         "type": "positive",
-        "title": "Dear GOOGL Stock Fans, Here's What Google's AI Shakeup Means for Alphabet",
+        "title": "Google stock drops amid DeepMind leadership shake-up",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1JjR3phTjhxYm4tUHZTR2VJOWpWdU9WemRpbUhzNGItcjFocUJlaks2RjFUaVVwb1I2MHhjbHAxVGUwcnFUandsNzVyQmRnUnlaYU9DX2dORW5DakFpQTN0c0x4a1FEQkpHUTFXNkQyR0JRYndRV0pfaGMycTdyUGF5N2N1eUF2ZjdxNVYxVVNnbDlvR2c?oc=5",
-        "date": "08/08 04:29"
-      },
-      {
-        "type": "negative",
-        "title": "GOOGL Stock Drops In Premarket: Report Says Search Giant Trims Cloud Team Amid AI Spending Push",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUjZDVDVHZjBJcmxHbmhfVWFBV3ItampZSHFzZXp3dFRFREk4Vkxyb0x0MXZwS1JaQmJjSUQ2aVV6UUxPZk1fdTRFUTFSZFcxOWQyVDB0ZFA5WWVPTEc0dlZtZUhIQVdhTV9WV3IzVGY0UExkVWFadUFJVFRPM1V5YllLQ05lZUNoS0xpZEJXMmtHWmloMjZIMXdVUUItRUJpRmktR2VXUWQ4djluZTRfVFNUTEdqM25SRlZybzMtamtNWklBaDZrMklpN2lhQVJxNlhDZ2JzVDMycGNhdGZqdUNjQjQwVEVzM1RQMXZSdw?oc=5",
-        "date": "08/08 06:33"
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
+        "date": "08/06 02:02"
       },
       {
         "type": "neutral",
-        "title": "Alphabet (GOOGL) $15 Billion India Data Center Draws Environmental And Legal Scrutiny",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWdIMm5rTjU1MHVrQXZlckRQekY2SWp4U21hODFmbllXc3ktZl80UFh6TFhUc1JWTjZqSGtDd0ZEQ05DMldJcWMyclVScE1LTXJoOF9fNVYzRGxhRHBZNzZmR3Z5TnYtWW1GR3VHUEU2dTdPOTZzWXJlNEV6OF9xTElneXY5eFB3LTRZZ0tfYWFJVU1NWTcwMnNma21hSXFoVHZMNGNadk1rcU5kUjExQjJvWnl3QngtbWlBeC1lN0gtZ2vSAcgBQVVfeXFMT1Y5amRYYVlCaHNEX3g4ZFRldFVZSVlOTVBtbFNzOXJyT3JRb3JNUm80ZUhLZVhOVGlOUlZ0bXB0em85MmRRQmd2cHBXWFJvc1UxLTBXVUxfV01OUFZrdDdCMVlWSXE1YURnNlkyNlg1MUs5YW9WLWppRHo0Q2FPeUk3Y0JoSkRmYl96a041VFVPU2J3TnByeWtmUkZSaHZzTE84WlZWV3lEYllVV2phUzhNOXF6M0xTZ3NPc2dDVlc1ME9aMHluSDU?oc=5",
-        "date": "08/10 06:32"
+        "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
+        "date": "08/08 03:42"
+      },
+      {
+        "type": "neutral",
+        "title": "Price Prediction: Google Will Hit $400 on This Date",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkN0TjZRZkZuNkd6d2F6MFFfVkZiaDNkNEZ1dnZZUWZzV0pQaXVpVGlSYzRBTVdpbDdXcDB2M1NqazI5RlB6Q19nQWJyYWFjRnh4d3U5dVFUWUM0SnNDclpodEg5VlRNOUNORUgyWjF5dlRMdFNUeGxpZGZYWjlhbTJoZGxQTHlTZF93MnNoSkZ0NDJMTkJCWA?oc=5",
+        "date": "08/08 00:30"
       }
     ],
     "QCOM": [
@@ -969,11 +969,11 @@
         "date": "08/07 03:08"
       },
       {
-        "type": "neutral",
-        "title": "QUALCOMM Incorporated (QCOM) latest stock news and headlines",
-        "publisher": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GWVl0UjJiY0hKYWJaWnV1bzRJeTNOOWQ4OHM0TDVwbWZjemhFZE8tS3kyak8tTWZwZ01tQnZFLWRzbmxCWFlNNXJWcEdOV0ZFQTJIeUcwMlo?oc=5",
-        "date": "08/09 20:58"
+        "type": "negative",
+        "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFJGSE9razJkU3ZYQXRtUlduTEUtVTdGTGJZRHZNLUZsczdCZDFsWUtQLTU3ZFFqdTdiSEhtY2V1U0xiYU10Qkw0OGxabjRBcnFvZ1BHMFJvY3phQWs4dzJSZVlpQjFSeUNHSHJnNnpma19RYVdmUktDS0JlX1N6Y9IBhgFBVV95cUxQUVAzWF9zVTMxbVRZVnNjT1hWS0JKWTAxakFnVDBubXFzejFWeWZHSjBzUjgxYXRwd3hzRWI5b1J3cnVDdDhHM2E1UVd6bnJWaF9EdVZ0WTBSbjNoSDJURXZjek4zLXVWbHBhT1R5bndZSS1MY2hmSURHMWtzTHY4V0JrcXduQQ?oc=5",
+        "date": "07/29 16:00"
       }
     ],
     "VRT": [
@@ -983,6 +983,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/06 00:15"
+      },
+      {
+        "type": "positive",
+        "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
+        "date": "08/08 12:49"
       },
       {
         "type": "positive",
@@ -997,13 +1004,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
         "date": "08/06 22:35"
-      },
-      {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "07/29 16:00"
       }
     ]
   }
