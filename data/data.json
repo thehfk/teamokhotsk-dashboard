@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T06:49:17.924723+00:00",
+  "updatedAt": "2026-08-10T08:20:44.893746+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.9,
-        "change": -1.65
+        "value": 15.46,
+        "change": 3.76
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1417.88,
+        "value": 1417.89,
         "change": -0.31
       },
       {
         "name": "KOSPI",
-        "value": 6305.1,
-        "change": 0.74
+        "value": 6299.66,
+        "change": 0.65
       },
       {
         "name": "KOSDAQ",
-        "value": 855.22,
-        "change": 7.06
+        "value": 854.47,
+        "change": 6.97
       }
     ],
     "groups": [
@@ -321,8 +321,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "05/07",
-          "05/08",
           "05/11",
           "05/12",
           "05/13",
@@ -385,14 +383,13 @@
           "08/04",
           "08/05",
           "08/06",
-          "08/07"
+          "08/07",
+          "08/10"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              17.08,
-              17.19,
               18.38,
               17.99,
               17.87,
@@ -455,7 +452,8 @@
               16.5,
               15.81,
               15.15,
-              14.9
+              14.9,
+              15.46
             ]
           }
         ]
@@ -666,7 +664,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1417.88
+              1417.89
             ]
           }
         ]
@@ -804,7 +802,7 @@
               6598.26,
               6296.38,
               6258.77,
-              6305.1
+              6299.66
             ]
           },
           {
@@ -872,7 +870,7 @@
               799.59,
               801.67,
               798.81,
-              855.22
+              854.47
             ]
           }
         ]
@@ -895,18 +893,18 @@
         "date": "08/07 23:40"
       },
       {
-        "type": "positive",
-        "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
-        "date": "08/08 17:17"
+        "type": "negative",
+        "title": "Broadcom Stock Forecast: Why Did AVGO Drop 17% and Is Wall Street Missing the AI Story?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWJZTlZuWDRhOXNJaGVzTW9ObGhfdEZHTmxHazNoTVpUaEVPSno5NXVWbVZESlhMR2xpWmphMlQzYWcwNWp2WDlxZG9PWl9JZnJIV1h3cEVxaVdrQWhONVZ6RnBfYjVfLU04T01KTTVLRVVkVFhybi11MnJLckVZZjM2ZUppdThxVHRYZGhjUHBIWUpWZ0lqVUhHSUxsemlPRnFwN0xIZjNLck9wMHlSSGc0YzdtSUZWNi04NHVpQ2x0Y3ZKZEphY2Q2MFZXZUpoc3o3QTZ5SQ?oc=5",
+        "date": "08/10 02:22"
       },
       {
         "type": "positive",
-        "title": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWFNXcVVzemhpT0tGdExxZi1HRV91cVlIcHVTTHZDUGYtcjQwMzhuWXNpMVk2dVB3Uko0Wk5rRjBrQjd2NU5tdUxrLVdfWk43cEk4c1QzaXpmVmQtalNoY3BsYVFnX2VXM01QTVYtWS1iSm1Edk5rNmdjQnJPUFJMeXhDMHFoV0NVcVdWdEtSeGlSYUoydWpjTA?oc=5",
-        "date": "08/09 23:00"
+        "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
+        "publisher": "trefis.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
+        "date": "08/08 17:17"
       },
       {
         "type": "neutral",
@@ -918,9 +916,16 @@
     ],
     "GOOGL": [
       {
+        "type": "neutral",
+        "title": "Alphabet Inc. $GOOGL Shares Bought by AMS Capital Ltda",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0ZLUkdEc2pmZ3RyOFJ4SWIxeFNnVnpyajBlbThnV3Y2VlNrb1lMU05XNktjSmZseVpqbURfMkxNZmg4R2pXNXg5RnNDcUN3alNzX2xRdVZPWEg3UldwcXFsOVU5cnZRN09tcW1SVGhGd010UkxjZ01OdWZINWxyRTdQMnhJcXJHV3lVdF9rRW1IX2gtc0llRjFvbHBMQktvdGtob0c4VVBYUWk1aktDTHpVaw?oc=5",
+        "date": "08/10 16:05"
+      },
+      {
         "type": "positive",
         "title": "Google stock drops amid DeepMind leadership shake-up",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
         "date": "08/06 02:02"
       },
@@ -930,13 +935,6 @@
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
         "date": "08/09 17:47"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet’s stock drops as Google loses another key AI executive",
-        "publisher": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0txLURmUlNJTEFkcy1fazlwNzNwblR0eFBXTnpjUUVvY3B0VUhjazFFNHA2NU9xdUYwaHFhSlpFRmFhd09VdThrVXFvUUVGLUtZZFkzVGMtTXplV05iN2Zqc19kczZzWFBCNDBSZzBjVWloQzRzZGxvVVRnclhYRHFJUmdNQkJ3WnppcTdoVEFyZFRxN0xPRWtlNUJ0dzJsTVpIMnYtSV8?oc=5",
-        "date": "08/06 06:20"
       },
       {
         "type": "neutral",
@@ -959,7 +957,7 @@
         "title": "QUALCOMM Incorporated (QCOM) latest stock news and headlines",
         "publisher": "Yahoo Finance UK",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GWVl0UjJiY0hKYWJaWnV1bzRJeTNOOWQ4OHM0TDVwbWZjemhFZE8tS3kyak8tTWZwZ01tQnZFLWRzbmxCWFlNNXJWcEdOV0ZFQTJIeUcwMlo?oc=5",
-        "date": "08/10 11:51"
+        "date": "08/10 11:01"
       },
       {
         "type": "positive",
@@ -971,7 +969,7 @@
       {
         "type": "neutral",
         "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
         "date": "08/07 03:08"
       }
@@ -979,8 +977,15 @@
     "VRT": [
       {
         "type": "neutral",
+        "title": "Assenagon Asset Management S.A. Sells 218,158 Shares of Vertiv Holdings Co. $VRT",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUF85TWloZHhJU1hNcGcyajBOTVBnVFMwaW1Fb3I4eUYtVFJHN1g2ekVlMXhRaHdwWHZVbGFWamRIM0lqVWZ0eF9LTHV6Y3ZmSW5oVkVkcUtiVjc3TlFRT0VzeTVMUnVLNE9MdEdSbTNwZHdlenpXYXh2YUdtZzdPV2E4MDBnM3V4SlE0Rjc3dHZ1bS1neFRmeW1fZFhMRjZOdkpDYk1JQV9nTjJRQVJJd3JSZ1ZBZ09OSTFXQ2h6TTNXU1JiSGxVSEVuaXJCeGxjWnc?oc=5",
+        "date": "08/10 16:48"
+      },
+      {
+        "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/06 00:15"
       },
@@ -997,13 +1002,6 @@
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTNTSFJzN3NULWs3ZTRURTh5NzAtRVA1R2hIVFpNSkxEaWdiYnNXZTlodkxLU2lNUlZZakxIN0hEanZmRzVoLUpTUFBZYUh5WlpsbFJLTHl1RXpYNHkxZWFLcDlTRExrUUNlVFg3MldVbjFxS1kzTWs5X3BsQWRndWxTRlRRLVBOU2lLWWZFXzBuN0hjdS16MFlwWEFyeWZkc09yMlJ5ZE93ekxrb3dDUG1oaTVEbWtpeVJvd1FVMDZqR21FLXEzSk5KaXRWTGR3UTBPZmhsWFJBUVnSAdsBQVVfeXFMUHkzU0hSczdzVC1rN2U0VEU4eTcwLUVQNUdoSFRaTUpMRGlnYmJzV2U5aHZMS1NpTVJWWWpMSDdIRGp2Zkc1aC1KU1BQWWFIeVpabGxSS0x5dUV6WDR5MWVhS3A5U0RMa1FDZVRYNzJXVW4xcUtZM01rOV9wbEFkZ3VsU0ZUUS1QTlNpS1lmRV8wbjdIY3UtejBZcFhBcnlmZHNPcjJSeWRPd3pMa293Q1BtaGk1RG1raXlSb3dRVTA2akdtRS1xM0pOSml0Vkxkd1EwT2ZobFhSQVFZ?oc=5",
         "date": "08/08 03:50"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv Stock Climbs 25% On A 5-Day Winning Streak",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXhMcjZHUnNKb3cySGZXUHhtbDZIYzBROTFjTy1CNUJxN2JrWDJiaTZlSjlnOElGV1dURkF5djVaWEpWY0thbVcxaWwtVUpCcU5XREJpS0w5b1RSRTB6a0Z1bjJDMk8yNmlieTlOQmNEWFNQcHpqWUJZSW9CX21tMDM1NjlZa0lkQ2c0NUd3Zlh1SHU0bm5XYUZBd1RwUjdlMEFVb2lBa2dhZkt4?oc=5",
-        "date": "08/06 22:35"
       }
     ]
   }
