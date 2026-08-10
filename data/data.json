@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-10T16:23:06.983770+00:00",
+  "updatedAt": "2026-08-10T17:22:04.962679+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7759.18,
-        "change": 0.02
+        "value": 7753.58,
+        "change": -0.05
       },
       {
         "name": "NASDAQ",
-        "value": 26640.17,
-        "change": -0.19
+        "value": 26611.95,
+        "change": -0.29
       },
       {
         "name": "다우존스",
-        "value": 53933.71,
-        "change": -0.19
+        "value": 53897.77,
+        "change": -0.26
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.12,
-        "change": 1.48
+        "value": 15.31,
+        "change": 2.75
       },
       {
         "name": "미국10년금리",
-        "value": 4.69,
-        "change": 0.64
+        "value": 4.7,
+        "change": 0.86
       },
       {
         "name": "원달러환율",
-        "value": 1416.48,
-        "change": -0.41
+        "value": 1417.54,
+        "change": -0.33
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7723.55,
               7709.96,
               7757.64,
-              7759.18
+              7753.58
             ]
           },
           {
@@ -245,7 +245,7 @@
               26363.44,
               26348.35,
               26690.62,
-              26640.17
+              26611.95
             ]
           },
           {
@@ -313,7 +313,7 @@
               54349.12,
               53885.1,
               54036.93,
-              53933.71
+              53897.77
             ]
           }
         ]
@@ -453,7 +453,7 @@
               15.81,
               15.15,
               14.9,
-              15.12
+              15.31
             ]
           }
         ]
@@ -591,7 +591,7 @@
               4.62,
               4.67,
               4.66,
-              4.69
+              4.7
             ]
           },
           {
@@ -662,7 +662,7 @@
               1428.43,
               1421.16,
               1422.3,
-              1416.48
+              1417.54
             ]
           }
         ]
@@ -873,20 +873,13 @@
     ]
   },
   "rsi": {
-    "AVGO": 70.2,
-    "GOOGL": 52.9,
-    "QCOM": 43.6,
-    "VRT": 39.0
+    "AVGO": 68.4,
+    "GOOGL": 53.2,
+    "QCOM": 43.3,
+    "VRT": 39.3
   },
   "news": {
     "AVGO": [
-      {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Monday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDVQSlM3LTRxZUJVZzFlQ0ZlaGhOZVFyblcwNUExamM3bnZrUGV4aTNyT2xPSWU3QmZTRzJ0SldNYVBfNGpnbGRYYnhrMHVrUk80MnJGUHJiTExTcDV3aUVfN0tMRHA0X2hNeVFIc0Y5bl9IUmMwcFdDaFVHUDZPRUZNYUF4aFVhemRMNUw4ODYtdk5MUGtjUHVpSmU?oc=5",
-        "date": "08/10 22:33"
-      },
       {
         "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
@@ -896,17 +889,24 @@
       },
       {
         "type": "neutral",
+        "title": "What's Going On With Broadcom Stock Monday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDVQSlM3LTRxZUJVZzFlQ0ZlaGhOZVFyblcwNUExamM3bnZrUGV4aTNyT2xPSWU3QmZTRzJ0SldNYVBfNGpnbGRYYnhrMHVrUk80MnJGUHJiTExTcDV3aUVfN0tMRHA0X2hNeVFIc0Y5bl9IUmMwcFdDaFVHUDZPRUZNYUF4aFVhemRMNUw4ODYtdk5MUGtjUHVpSmU?oc=5",
+        "date": "08/10 22:33"
+      },
+      {
+        "type": "negative",
+        "title": "Intel Falls 5% on Proposed $15B Share Sale as AMD, NVIDIA, Broadcom Hold Steady",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXowOG11TVRBdl9kX2FLM3BlanVXYWkzejhaRG8yYkRURjNNSi1kb2hYaklNSXE0SmQ5bWN0Y3NXN3c1THc3anQ2WW1kNmJSMmxYWFgtZXlrMWMxaHNNTGloTkQ4ZGt3YmJSRm82aEZFTnV0V2FPWU1KU1FLd2JYMF9LWVFkRHd0THJLcFVhb0JKcmVkTnpKZVJEWldjUUE0bEdMRy14NS1OckJKeTdzbmFrbHYtdWhuRGJF?oc=5",
+        "date": "08/10 22:19"
+      },
+      {
+        "type": "neutral",
         "title": "Broadcom Inc. $AVGO Shares Sold by Sapient Capital LLC",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0ltd2VQakwtVmpqMmJFUGtCSDZDTnNYMS1IWnV4WU9QWTYyV0dTUjdkVnRuRHpfX2hCS2pJSmF6c1c0NVhQOGt0RTBpbHM3YWY3VFNpZ2Znd1RKdndSQVVKZF9jbm1KYW1GSlZNbUhIS0ZVSHBxdFd5OFh4c3FMUjJNckI4RldxT09BVTZNbVZVWUh5a3FJZ2JLcDR3d252Yk9mc0FIWjU1QXpGRlZ5d2ZKMA?oc=5",
         "date": "08/10 19:23"
-      },
-      {
-        "type": "positive",
-        "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
-        "date": "08/08 17:17"
       }
     ],
     "GOOGL": [
@@ -945,14 +945,7 @@
         "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
         "publisher": "Yahoo! Finance Canada",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
-        "date": "08/10 23:39"
-      },
-      {
-        "type": "neutral",
-        "title": "Sapient Capital LLC Has $17.08 Million Position in Qualcomm Incorporated $QCOM",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRHZrMDUwUUpiWGdsYjB5TFVEblRMWHlmdmNCUnIxbVBkVlp6VnYtbmNFamdLb3p2TTFHeWdnM3hCRDNEelpjYWhEd0E5cmZSYUVHOFJleWY1d2ZFZWRSa1Vwc2dHTTVIT2s4eDg5ckRQMV9iUDg5SW5HY3lwRHF6a2RESGZXV0Q2bTFSeHduY09uNWtWYkJtejBGanBCR2NNcUV5VkdWQ0VBYVBrZ0FlVjZMUDdYRVJNY2JwVE84NGIyZmdRWHF4SWF6SUtkNkh1RUE?oc=5",
-        "date": "08/10 19:43"
+        "date": "08/10 11:39"
       },
       {
         "type": "positive",
@@ -960,6 +953,13 @@
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
         "date": "08/09 00:52"
+      },
+      {
+        "type": "neutral",
+        "title": "Sapient Capital LLC Has $17.08 Million Position in Qualcomm Incorporated $QCOM",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRHZrMDUwUUpiWGdsYjB5TFVEblRMWHlmdmNCUnIxbVBkVlp6VnYtbmNFamdLb3p2TTFHeWdnM3hCRDNEelpjYWhEd0E5cmZSYUVHOFJleWY1d2ZFZWRSa1Vwc2dHTTVIT2s4eDg5ckRQMV9iUDg5SW5HY3lwRHF6a2RESGZXV0Q2bTFSeHduY09uNWtWYkJtejBGanBCR2NNcUV5VkdWQ0VBYVBrZ0FlVjZMUDdYRVJNY2JwVE84NGIyZmdRWHF4SWF6SUtkNkh1RUE?oc=5",
+        "date": "08/10 19:43"
       },
       {
         "type": "neutral",
