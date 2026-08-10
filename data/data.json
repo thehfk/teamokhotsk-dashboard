@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T21:09:16.615778+00:00",
+  "updatedAt": "2026-08-10T22:04:46.792069+00:00",
   "market": {
     "cards": [
       {
@@ -29,7 +29,7 @@
       },
       {
         "name": "원달러환율",
-        "value": 1417.66,
+        "value": 1417.71,
         "change": 0.76
       },
       {
@@ -663,7 +663,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1417.66
+              1417.71
             ]
           }
         ]
@@ -913,17 +913,10 @@
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "Is Alphabet (GOOGL) Still One of the Best AI Stocks to Own?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlZQYnZ1c3IxcjIyNkdlcjNpQUVsM3AxZml2NlBIbGFwN2NqZDlYNXVQaE5FNlJBLUtOczZjYU1YRGNubktoa1dIQ2p0R0Q1SHdKRUdVYVlOYWVsZ2FYX3pvSHdPX2xEdWdjdXRlZTNtQ2hXOGpQUGZZVHMzakdSa05VM3UxdC1URHNnYkRJRnUwdjhjbjBYaw?oc=5",
-        "date": "08/10 21:55"
-      },
-      {
-        "type": "neutral",
         "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
-        "date": "08/11 00:59"
+        "date": "08/11 05:02"
       },
       {
         "type": "neutral",
@@ -931,6 +924,13 @@
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUG9PeDNMTFpUNjVqWkJYTDZoVV8yUHp3Z2xFVTZxUzlmeFZuc3ZMQ3lsei04elhtWHB4UjB1SDJudmwyd2pRVTZmRWRrek1NbTR2Z2JmVVNoXzBrTTVkT0YtUm9DcUlldkk3bXVQXzFkNGhVS0VIZF8yS0hDQUpoYmdfTnVtNFlORk5FWDJTMWdycWxjbWI1RnNNWUtoQVNSZ2k4?oc=5",
         "date": "08/11 02:33"
+      },
+      {
+        "type": "neutral",
+        "title": "Is Alphabet (GOOGL) Still One of the Best AI Stocks to Own?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlZQYnZ1c3IxcjIyNkdlcjNpQUVsM3AxZml2NlBIbGFwN2NqZDlYNXVQaE5FNlJBLUtOczZjYU1YRGNubktoa1dIQ2p0R0Q1SHdKRUdVYVlOYWVsZ2FYX3pvSHdPX2xEdWdjdXRlZTNtQ2hXOGpQUGZZVHMzakdSa05VM3UxdC1URHNnYkRJRnUwdjhjbjBYaw?oc=5",
+        "date": "08/10 21:55"
       },
       {
         "type": "neutral",
@@ -949,25 +949,25 @@
         "date": "08/10 11:39"
       },
       {
-        "type": "neutral",
-        "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
-        "publisher": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSRVJ6dVQzbDhwNWxsOGJpUVFqOERERzk4Ri1RQTRuT2lfLUlBSkVKUENsNFM3cDE4OXZQNWM1Sk1oaWVqNFBGZm93eHNQMHl0ZEg1M2g4UzJlZnpIc2FndGl3?oc=5",
-        "date": "08/10 23:39"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
-        "date": "08/09 00:52"
-      },
-      {
         "type": "positive",
         "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
         "date": "08/11 00:06"
+      },
+      {
+        "type": "negative",
+        "title": "Qualcomm (NASDAQ:QCOM) Shares Down 3.4% - Time to Sell?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPekgxTUtwT3hSVFpzSTdBM0t4Q21hNWdRVi03Sm1vUUFDcGUxSFUtX1dmVDVhVktudEV6bkExZUhfY01aS0lGdktJM3QtSm9Sc3VqUlktcDNZWHR1UVJLS1Q3OVBiQ1BIVDFYbzVQbEJTREFoOUNWbTJrYzFQNTVnQ3hfdEV6SHh4WjRTa2VtRDNwaXZtRmVWZUFJTS1BUFRTMlFn?oc=5",
+        "date": "08/11 06:25"
+      },
+      {
+        "type": "negative",
+        "title": "Qualcomm Inc (QCOM) Shares Fall 3.4% -- What GF Score of 97 Tells Investors",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHVxb0Z5OGh6b2hnQTZDSGNESGVER3FaRFNRQWM0X29TaUFWVExveUlUbklkMDVYdmdMeExwUnR2M1c0UEJyTl9XSnRLbzBabjVRTzVYeWJFbUpuQlFmZGZjVl83cXVaanppN2RWR3FGNTZlajN3Zk8tbHlBcjVBTU1YVFk5SGtqSmdLN0hVTVVhX1RmaDhNXy14ZU9RQ3dQT2pKZmlSWFJFSVE?oc=5",
+        "date": "08/11 06:41"
       }
     ],
     "VRT": [
