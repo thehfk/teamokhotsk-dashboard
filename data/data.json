@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T10:57:42.286114+00:00",
+  "updatedAt": "2026-08-10T11:44:17.110500+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.46,
-        "change": 3.76
+        "value": 15.45,
+        "change": 3.69
       },
       {
         "name": "미국10년금리",
@@ -453,7 +453,7 @@
               15.81,
               15.15,
               14.9,
-              15.46
+              15.45
             ]
           }
         ]
@@ -893,18 +893,18 @@
         "date": "08/07 23:40"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Stock Forecast: Why Did AVGO Drop 17% and Is Wall Street Missing the AI Story?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWJZTlZuWDRhOXNJaGVzTW9ObGhfdEZHTmxHazNoTVpUaEVPSno5NXVWbVZESlhMR2xpWmphMlQzYWcwNWp2WDlxZG9PWl9JZnJIV1h3cEVxaVdrQWhONVZ6RnBfYjVfLU04T01KTTVLRVVkVFhybi11MnJLckVZZjM2ZUppdThxVHRYZGhjUHBIWUpWZ0lqVUhHSUxsemlPRnFwN0xIZjNLck9wMHlSSGc0YzdtSUZWNi04NHVpQ2x0Y3ZKZEphY2Q2MFZXZUpoc3o3QTZ5SQ?oc=5",
-        "date": "08/10 02:22"
-      },
-      {
         "type": "neutral",
         "title": "Broadcom Inc. $AVGO Shares Sold by Sapient Capital LLC",
         "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0ltd2VQakwtVmpqMmJFUGtCSDZDTnNYMS1IWnV4WU9QWTYyV0dTUjdkVnRuRHpfX2hCS2pJSmF6c1c0NVhQOGt0RTBpbHM3YWY3VFNpZ2Znd1RKdndSQVVKZF9jbm1KYW1GSlZNbUhIS0ZVSHBxdFd5OFh4c3FMUjJNckI4RldxT09BVTZNbVZVWUh5a3FJZ2JLcDR3d252Yk9mc0FIWjU1QXpGRlZ5d2ZKMA?oc=5",
         "date": "08/10 19:23"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom Stock Forecast: Why Did AVGO Drop 17% and Is Wall Street Missing the AI Story?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWJZTlZuWDRhOXNJaGVzTW9ObGhfdEZHTmxHazNoTVpUaEVPSno5NXVWbVZESlhMR2xpWmphMlQzYWcwNWp2WDlxZG9PWl9JZnJIV1h3cEVxaVdrQWhONVZ6RnBfYjVfLU04T01KTTVLRVVkVFhybi11MnJLckVZZjM2ZUppdThxVHRYZGhjUHBIWUpWZ0lqVUhHSUxsemlPRnFwN0xIZjNLck9wMHlSSGc0YzdtSUZWNi04NHVpQ2x0Y3ZKZEphY2Q2MFZXZUpoc3o3QTZ5SQ?oc=5",
+        "date": "08/10 02:22"
       },
       {
         "type": "positive",
@@ -964,7 +964,7 @@
         "title": "QUALCOMM Incorporated (QCOM) latest stock news and headlines",
         "publisher": "Yahoo Finance UK",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GWVl0UjJiY0hKYWJaWnV1bzRJeTNOOWQ4OHM0TDVwbWZjemhFZE8tS3kyak8tTWZwZ01tQnZFLWRzbmxCWFlNNXJWcEdOV0ZFQTJIeUcwMlo?oc=5",
-        "date": "08/10 11:28"
+        "date": "08/10 11:31"
       },
       {
         "type": "positive",
