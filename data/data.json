@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T09:27:35.475623+00:00",
+  "updatedAt": "2026-08-11T10:23:57.725076+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1417.01,
-        "change": 0.71
+        "value": 1415.64,
+        "change": 0.61
       },
       {
         "name": "KOSPI",
@@ -665,7 +665,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1417.01
+              1415.64
             ]
           }
         ]
@@ -941,11 +941,11 @@
         "date": "08/11 02:33"
       },
       {
-        "type": "neutral",
-        "title": "Is Alphabet (GOOGL) Still One of the Best AI Stocks to Own?",
+        "type": "positive",
+        "title": "Google stock drops amid DeepMind leadership shake-up",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlZQYnZ1c3IxcjIyNkdlcjNpQUVsM3AxZml2NlBIbGFwN2NqZDlYNXVQaE5FNlJBLUtOczZjYU1YRGNubktoa1dIQ2p0R0Q1SHdKRUdVYVlOYWVsZ2FYX3pvSHdPX2xEdWdjdXRlZTNtQ2hXOGpQUGZZVHMzakdSa05VM3UxdC1URHNnYkRJRnUwdjhjbjBYaw?oc=5",
-        "date": "08/10 21:55"
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
+        "date": "08/06 02:02"
       }
     ],
     "QCOM": [
@@ -957,18 +957,18 @@
         "date": "08/10 11:39"
       },
       {
+        "type": "neutral",
+        "title": "Qualcomm Incorporated $QCOM Shares Sold by KMG Fiduciary Partners LLC",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWFd1OTdmcXJFcTFxVlZGdWkwUFhBVDR4SW01V2ZJMWw3Tnk3WVhTVG55a2JKOEhpMGEyRGlSeFVkemdXT3ZSWE5MUXRWSzBkTHhCNnl2Tjh4SlN6QTR4bHpCb3YwX09aN2IxSkowRE9GaGpVbTh2MUZmWmhtYXpfQlZYV3c0RHRIU0RsRVppUnRjUEpkeUZNeE1GM3RKXzk2bWRZWGdUeWg1ZldZckcxdXZwOHAzbXJxT01qTTRrSG91MjgydHZQcA?oc=5",
+        "date": "08/11 19:16"
+      },
+      {
         "type": "positive",
         "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
         "date": "08/11 00:06"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm Incorporated $QCOM Shares Bought by Assenagon Asset Management S.A.",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcDF0TnVjTzM4ejFXWENaR3IyVk1OYy0tRXN2Y1BJRWtzLUhsN2pUaXpFaTRrRzhUWUw2WEVkdEd5RWJDd2xHM1ByRU9Db1B3QVZiZUhEY2dzTzJScUpGNUQtZHpSa1lSdlZYUWNnTnRETEdua0VJanlaOE4yTFpibV9yR1NERkk2ejd1X3RvYk1KRDJPYWx4eDJ5eVlBcjhQMGpFWUpFeHdMajFDWjBUZnV5YnZ2NFU0MDFFU0MyR0huWmVaYjZOSTR6Z1psQzQ?oc=5",
-        "date": "08/11 16:08"
       },
       {
         "type": "negative",
