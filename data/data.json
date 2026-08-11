@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-08-11T14:50:10.388742+00:00",
+  "updatedAt": "2026-08-11T15:50:16.531968+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7761.78,
-        "change": 0.11
+        "value": 7743.65,
+        "change": -0.12
       },
       {
         "name": "NASDAQ",
-        "value": 26609.86,
-        "change": 0.02
+        "value": 26510.4,
+        "change": -0.36
       },
       {
         "name": "다우존스",
-        "value": 54008.21,
-        "change": 0.06
+        "value": 53932.64,
+        "change": -0.08
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.39,
-        "change": -0.45
+        "value": 15.34,
+        "change": -0.78
       },
       {
         "name": "미국10년금리",
-        "value": 4.68,
-        "change": -0.43
+        "value": 4.69,
+        "change": -0.21
       },
       {
         "name": "원달러환율",
-        "value": 1412.28,
-        "change": 0.38
+        "value": 1412.72,
+        "change": 0.41
       },
       {
         "name": "KOSPI",
-        "value": 6345.53,
-        "change": 0.73
+        "value": 6299.66,
+        "change": 0.65
       },
       {
         "name": "KOSDAQ",
-        "value": 857.84,
-        "change": 0.39
+        "value": 854.47,
+        "change": 6.97
       }
     ],
     "groups": [
@@ -179,7 +179,7 @@
               7709.96,
               7757.64,
               7753.11,
-              7761.78
+              7743.65
             ]
           },
           {
@@ -248,7 +248,7 @@
               26348.35,
               26690.62,
               26605.36,
-              26609.86
+              26510.4
             ]
           },
           {
@@ -317,7 +317,7 @@
               53885.1,
               54036.93,
               53975.98,
-              54008.21
+              53932.64
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.15,
               14.9,
               15.46,
-              15.39
+              15.34
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.67,
               4.66,
               4.7,
-              4.68
+              4.69
             ]
           },
           {
@@ -671,7 +671,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1412.28
+              1412.72
             ]
           }
         ]
@@ -741,8 +741,7 @@
           "08/05",
           "08/06",
           "08/07",
-          "08/10",
-          "08/11"
+          "08/10"
         ],
         "series": [
           {
@@ -810,8 +809,7 @@
               6598.26,
               6296.38,
               6258.77,
-              6299.66,
-              6345.53
+              6299.66
             ]
           },
           {
@@ -879,8 +877,7 @@
               799.59,
               801.67,
               798.81,
-              854.47,
-              857.84
+              854.47
             ]
           }
         ]
@@ -888,10 +885,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 63.8,
-    "GOOGL": 54.2,
-    "QCOM": 42.1,
-    "VRT": 43.2
+    "AVGO": 61.9,
+    "GOOGL": 53.0,
+    "QCOM": 41.1,
+    "VRT": 42.9
   },
   "news": {
     "AVGO": [
@@ -911,20 +908,27 @@
       },
       {
         "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Tuesday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTVoV1VHQTNXakNsSDQxemRkSm5hanpvdzR0MjJVakdCMmlPT3loY2E0d2RCTHBXczNCaFlNdE9VOWJSNFlKb2F3VGxKRDZfdElyMG53Z0hBUEt4b3BadFZFbkNCb1FrVjQxSW1hS0gyWE1GZEZ4T0ZObG8zUDlNMFQxbHUwSTc4NVJCcC1QYVd5d05CTENnMS1PRDRXZw?oc=5",
-        "date": "08/11 22:47"
+        "title": "AMD’s Helios Launch Could Create Winners Beyond AMD Stock",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUNoTTdfb2dnMmNSOVVCWXMzTTFDdExJNkp1SVBpMEpONFlmOVU0TDU2TUZMbk1QNXphYlJzQXVia1JtUFROdm1DNEctNWI0T0hXYzNPOTRFUTJlaHVsVzdEVmpDZ1RFR0VIUWdiY2JZNDViUnMyNWRBY2V5X3RDYkMxUXJCTmw0SmFld2t4OFhjY01UM054bw?oc=5",
+        "date": "08/11 23:33"
       },
       {
         "type": "negative",
-        "title": "Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next?",
+        "title": "Broadcom Stock Forecast: Why Did AVGO Drop 17% and Is Wall Street Missing the AI Story?",
         "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTlMLTNTNDhGakt6NDFKT2dkS1pWOC04UUVnU1pHcFFmSE4xNkVUbUZCMm9rTUFqMmJmOXR1NGp1bFJlUUI0dUl5eUlmV0dVd1JlZWptZEo4dGdGak1YU0YtNFFZRFpJVk81R2VJQjNsZnhMRWM3WmFxNlhOUnMyVEczZVlJRUs0MWd1MnhISmZFdUdCYzVYZ3hBRnN3VXpEYXVQOXFaMlJGU0pSbWNVWTZIT3YwRWhaWlIyMlp0T1hBNXA3RjdydnZ2TXQwU0hX?oc=5",
-        "date": "08/11 09:32"
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWJZTlZuWDRhOXNJaGVzTW9ObGhfdEZHTmxHazNoTVpUaEVPSno5NXVWbVZESlhMR2xpWmphMlQzYWcwNWp2WDlxZG9PWl9JZnJIV1h3cEVxaVdrQWhONVZ6RnBfYjVfLU04T01KTTVLRVVkVFhybi11MnJLckVZZjM2ZUppdThxVHRYZGhjUHBIWUpWZ0lqVUhHSUxsemlPRnFwN0xIZjNLck9wMHlSSGc0YzdtSUZWNi04NHVpQ2x0Y3ZKZEphY2Q2MFZXZUpoc3o3QTZ5SQ?oc=5",
+        "date": "08/11 04:24"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
+        "date": "08/11 05:02"
+      },
       {
         "type": "neutral",
         "title": "Rep. Michael A. Rulli Purchases Alphabet Inc. (NASDAQ:GOOGL) Stock",
@@ -934,24 +938,17 @@
       },
       {
         "type": "neutral",
-        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
-        "date": "08/11 05:02"
-      },
-      {
-        "type": "positive",
-        "title": "Google stock drops amid DeepMind leadership shake-up",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
-        "date": "08/06 02:02"
-      },
-      {
-        "type": "neutral",
         "title": "Alphabet Stock (GOOGL) Opinions on Berkshire Hathaway Investment",
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUG9PeDNMTFpUNjVqWkJYTDZoVV8yUHp3Z2xFVTZxUzlmeFZuc3ZMQ3lsei04elhtWHB4UjB1SDJudmwyd2pRVTZmRWRrek1NbTR2Z2JmVVNoXzBrTTVkT0YtUm9DcUlldkk3bXVQXzFkNGhVS0VIZF8yS0hDQUpoYmdfTnVtNFlORk5FWDJTMWdycWxjbWI1RnNNWUtoQVNSZ2k4?oc=5",
         "date": "08/11 02:33"
+      },
+      {
+        "type": "neutral",
+        "title": "Is Alphabet (GOOGL) Still One of the Best AI Stocks to Own?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlZQYnZ1c3IxcjIyNkdlcjNpQUVsM3AxZml2NlBIbGFwN2NqZDlYNXVQaE5FNlJBLUtOczZjYU1YRGNubktoa1dIQ2p0R0Q1SHdKRUdVYVlOYWVsZ2FYX3pvSHdPX2xEdWdjdXRlZTNtQ2hXOGpQUGZZVHMzakdSa05VM3UxdC1URHNnYkRJRnUwdjhjbjBYaw?oc=5",
+        "date": "08/10 21:55"
       }
     ],
     "QCOM": [
@@ -963,18 +960,18 @@
         "date": "08/10 11:39"
       },
       {
+        "type": "positive",
+        "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
+        "date": "08/11 00:06"
+      },
+      {
         "type": "neutral",
         "title": "Handelsbanken Fonder AB Has $99.77 Million Stock Position in Qualcomm Incorporated $QCOM",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRDhBXzFZbkJGVWgwOEo4TV9LLXFwLS14LUJCY2VtWWZzY3RJNHZnMWZVdURPdHUxNThCWTZNbGFoLU1HcGd3LVBEU01GZjVfejh2NlpLTkJCdnZUaVBfQUpFWkEzUmh1RzlxXzdMNXhHbTl6T1dHQ1B0TDg3WTVndDk1U1A1OU55bU96Z1JlTzNjbXhUbGpjN3Jia3ZlOEJJb2hBQ3l0NmhnNHlyVmJuZFFTNnlCcDBhVGRTNVpySnVLSEpwazl1bktsUFZVSlpqMEZFamRHVTJ6OUZUaUNN?oc=5",
         "date": "08/11 19:48"
-      },
-      {
-        "type": "positive",
-        "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
-        "publisher": "trefis.com",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
-        "date": "08/11 00:06"
       },
       {
         "type": "negative",
@@ -986,6 +983,13 @@
     ],
     "VRT": [
       {
+        "type": "positive",
+        "title": "Vertiv Gains as Investors Reassess Raised Outlook and AI Infrastructure Positioning",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWplUVJvX0R6TXZ1ME41Z0NVeUhmZjZlTEUzbGpzXzdNelNubnNUUG5meG1WdER0bzJNTERzRUlId2MzV1FPRzNPalhLQTR4dkxIdGd1LWdZWjBTcnlqcGJRRXpTa19UNkFlRWlwOU82VzBoLTBfMnpBQW1HUVJQM1pKbjUtaHBCM2t0YVhTZ2FNNEI5NlY4YmQwZVFNZ0d3bmtjUzJWWHFSSnpXQkc0c2lJbzg2RUU?oc=5",
+        "date": "08/11 23:55"
+      },
+      {
         "type": "neutral",
         "title": "Handelsbanken Fonder AB Sells 39,568 Shares of Vertiv Holdings Co. $VRT",
         "publisher": "MarketBeat",
@@ -993,25 +997,18 @@
         "date": "08/11 19:34"
       },
       {
+        "type": "positive",
+        "title": "Vertiv Holdings Co Stock (VRT) Moved Up by 3.26% on Aug 11: Drivers Behind the Movement",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWVNb1hyZkZNVEhkUUVDdDlGRmcwRDJIMDh3R1VvbW1MUXF6OFBzbThVMTZuVzItckxnb1Nwc0R0MGFUN3NRWnVlZXFUOHVxNERlMTl6Qk1BOUZzTk50V0NZemhyaUZfWFprSFJkNG9zc1FCOHVRNFFQOTdmdE5UVjBUa1RWbG41Ync?oc=5",
+        "date": "08/12 00:15"
+      },
+      {
         "type": "negative",
         "title": "Why Vertiv Holdings Plunged in July",
         "publisher": "The Globe and Mail",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVJhQXg1TWt2NVBfWUd1cVZ1WmVoY0JBZFZBMHVTWFFkWGRXNkljYmFYT2JkNk1MX0xoUXdWbldObU5GUFRUazdZVlp6Z1hVVTl5dzdRZmh1UGQ4TEFQVVl6cHQwZmROa29tY3d4TXI1OXpOYVc4MnBJdlVUNEtPbUxiNkJwMDNSZWJDbkU3MjZWWWU1MzBwYlg2dGlpU1NsaFZpVmtoYVNSaGpPSDNCR296NVpldGYwY0VLbjBR?oc=5",
         "date": "08/11 22:30"
-      },
-      {
-        "type": "neutral",
-        "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
-        "date": "08/06 00:15"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv (VRT) Stock Could Be Fairly Valued With Strong Cash Flow But Full Earnings",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUng0YzZyV0pjWHI5aThza1o1NkFtNW9Wc1B1UmE3SmFBcEd4b0QwTTZrNlloaTQyTm14dFJ2dkpOblh2VUtUUW5BRHFoVVI4bU9rRWJCR3I3WFlCTWx2MkJpOW11N1VSMVBlWGN0b0ZRcjNaa2xWbk11YjRwYVhFOHhQelp3S1VzT3AwdmZmZjh1SGd0UmVVZ3p2TkFlNzk1akRsMjkyZjRZc1MtaTlxM25lU3I4RlFZQVNpTTdueldxVUxMNkE1aEJQN0tZN0NMbnY2eHBn0gHbAUFVX3lxTFB5M1NIUnM3c1QtazdlNFRFOHk3MC1FUDVHaEhUWk1KTERpZ2Jic1dlOWh2TEtTaU1SVllqTEg3SERqdmZHNWgtSlNQUFlhSHlaWmxsUktMeXVFelg0eTFlYUtwOVNETGtRQ2VUWDcyV1VuMXFLWTNNazlfcGxBZGd1bFNGVFEtUE5TaUtZZkVfMG43SGN1LXowWXBYQXJ5ZmRzT3IyUnlkT3d6TGtvd0NQbWhpNURta2l5Um93UVUwNmpHbUUtcTNKTkppdFZMZHdRME9maGxYUkFRWQ?oc=5",
-        "date": "08/08 03:50"
       }
     ]
   }
