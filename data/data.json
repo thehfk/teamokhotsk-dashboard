@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T05:47:43.135759+00:00",
+  "updatedAt": "2026-08-11T06:47:57.066872+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1414.48,
-        "change": 0.53
+        "value": 1418.02,
+        "change": 0.78
       },
       {
         "name": "KOSPI",
-        "value": 6361.12,
-        "change": 0.98
+        "value": 6358.35,
+        "change": 0.93
       },
       {
         "name": "KOSDAQ",
-        "value": 852.32,
-        "change": -0.25
+        "value": 858.42,
+        "change": 0.46
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1414.48
+              1418.02
             ]
           }
         ]
@@ -803,7 +803,7 @@
               6296.38,
               6258.77,
               6299.66,
-              6361.12
+              6358.35
             ]
           },
           {
@@ -872,7 +872,7 @@
               801.67,
               798.81,
               854.47,
-              852.32
+              858.42
             ]
           }
         ]
@@ -897,14 +897,14 @@
       {
         "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
         "date": "08/09 06:20"
       },
       {
         "type": "neutral",
         "title": "What's Going On With Broadcom Stock Monday?",
-        "publisher": "benzinga.com",
+        "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDVQSlM3LTRxZUJVZzFlQ0ZlaGhOZVFyblcwNUExamM3bnZrUGV4aTNyT2xPSWU3QmZTRzJ0SldNYVBfNGpnbGRYYnhrMHVrUk80MnJGUHJiTExTcDV3aUVfN0tMRHA0X2hNeVFIc0Y5bl9IUmMwcFdDaFVHUDZPRUZNYUF4aFVhemRMNUw4ODYtdk5MUGtjUHVpSmU?oc=5",
         "date": "08/10 22:33"
       },
@@ -917,6 +917,13 @@
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "Rep. Michael A. Rulli Purchases Alphabet Inc. (NASDAQ:GOOGL) Stock",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWhhMHBQRGdJTGdqNjNLc1dnVjVTVmE0ZXZqQUxjeUl5RU9lTk1LNkNEdWR5WkF0eW4yYVlSSDZVV01XTW1odnlxWFdWVUNxaG81OE5UdE5kNjF2MFVwYmVwU2llRnhvc1dXSHVEakJuNEFPSmNLUGRvUjNrYmRiODFQR3RjYVlyRG9WdnhCNDFibEpyMmE0ZE9vWEsxcGhrRkhIQnlZMEIzbzl2Y1J1VWNEOFM?oc=5",
+        "date": "08/11 15:07"
+      },
       {
         "type": "neutral",
         "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
@@ -937,22 +944,22 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlZQYnZ1c3IxcjIyNkdlcjNpQUVsM3AxZml2NlBIbGFwN2NqZDlYNXVQaE5FNlJBLUtOczZjYU1YRGNubktoa1dIQ2p0R0Q1SHdKRUdVYVlOYWVsZ2FYX3pvSHdPX2xEdWdjdXRlZTNtQ2hXOGpQUGZZVHMzakdSa05VM3UxdC1URHNnYkRJRnUwdjhjbjBYaw?oc=5",
         "date": "08/10 21:55"
-      },
-      {
-        "type": "neutral",
-        "title": "Why Is Alphabet (GOOGL) Still Facing 3,000 Youth Addiction Lawsuits?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEMtdy0zV3BaQjNnN1k4VlA0S3l0bFd2SlI0MmlnQnZNOUhaWjZ1RExBYkpWeWJqZlNxbDhaWFIwckZhM2Q4dlVocm00M1dGSno4czdZR3plMkJNVUwwV1g2SHZRZTBfNXEtblZIVjMtWmp3QmFlYlZ0SktxSWdPeE5CaHJTWjkyb3U3UGU0R2R0SUllWW0wdENNc19YRFVUU20wWUp0Y1N4V0w1bUFrNlAwX2gyOFdHMVF6UmtUVGpoYXfSAcgBQVVfeXFMTkpELUxFa0VhY2p1cTRCczlvVjNFUzZKOUFwZVFvLVdKYkV4dmdDMmJhSmJqdEZDdUtSSllvdFJvc3Y4T0NyOGtPN1owYUN4NXZVdFJEaGtxNm5kbUxESGZab1ZjZ1REV2lQQzRvVGlWU0drb091aE8tVndBR2N6YVRSLWctVXo4S2FxNnhGLW1lNG45TmlMTW41bE1WSDhaZ0RlZFB1RVdnS202SkJOaEdHeU5RcXBuSGwwTndZMHVMNHRIeTI2ajI?oc=5",
-        "date": "08/11 08:53"
       }
     ],
     "QCOM": [
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "ca.finance.yahoo.com",
+        "publisher": "Yahoo! Finance Canada",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
         "date": "08/10 11:39"
+      },
+      {
+        "type": "neutral",
+        "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
+        "publisher": "Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSRVJ6dVQzbDhwNWxsOGJpUVFqOERERzk4Ri1RQTRuT2lfLUlBSkVKUENsNFM3cDE4OXZQNWM1Sk1oaWVqNFBGZm93eHNQMHl0ZEg1M2g4UzJlZnpIc2FndGl3?oc=5",
+        "date": "08/11 09:33"
       },
       {
         "type": "negative",
@@ -967,13 +974,6 @@
         "publisher": "GuruFocus",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHVxb0Z5OGh6b2hnQTZDSGNESGVER3FaRFNRQWM0X29TaUFWVExveUlUbklkMDVYdmdMeExwUnR2M1c0UEJyTl9XSnRLbzBabjVRTzVYeWJFbUpuQlFmZGZjVl83cXVaanppN2RWR3FGNTZlajN3Zk8tbHlBcjVBTU1YVFk5SGtqSmdLN0hVTVVhX1RmaDhNXy14ZU9RQ3dQT2pKZmlSWFJFSVE?oc=5",
         "date": "08/11 06:41"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
-        "publisher": "stocktwits.com",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
-        "date": "08/09 00:52"
       }
     ],
     "VRT": [
@@ -992,18 +992,18 @@
         "date": "07/29 16:00"
       },
       {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "stocktwits.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "07/29 16:00"
+        "type": "positive",
+        "title": "Vertiv (VRT) Stock Could Be Fairly Valued With Strong Cash Flow But Full Earnings",
+        "publisher": "webull.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OUmpkNE5EcVVjTDRQWHVuOG04NFRScThoaUFLWXE1cXEzbmFtNFM4TGlrNC1UakJCcE54TjJobnYxbXR4cVZYTVo3aG9fVVJNenE5RVhSWVk?oc=5",
+        "date": "08/09 01:48"
       },
       {
         "type": "negative",
-        "title": "Finivi Inc. Cuts Position in Vertiv Holdings Co. $VRT",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1BJdlRwTUpJbWlHbmtId1BNRVdzTkdvSG1nbGFYbFdVYnNZT0JNT0lEV21wVGZsTjdBU3EzMXNHQjdiM21TMTVKeGFDc1A4a0s0cFVtTVZvaFpwZjJ2YUZGWmxoZEpoVEFBaUNQejlId0dpU0JlV2EtSk84SnkwZjF6ZzJzWVF1eXRYc2Ryckp6cVhWZDhfd05pdUIwbUhEbHI5NXNZc3IwOHlfUWs4RA?oc=5",
-        "date": "08/10 17:46"
+        "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
+        "publisher": "StockStory",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
+        "date": "07/29 16:00"
       }
     ]
   }
