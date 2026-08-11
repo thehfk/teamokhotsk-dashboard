@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-11T17:48:45.300939+00:00",
+  "updatedAt": "2026-08-11T18:46:53.412210+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7736.29,
-        "change": -0.22
+        "value": 7722.45,
+        "change": -0.4
       },
       {
         "name": "NASDAQ",
-        "value": 26472.92,
-        "change": -0.5
+        "value": 26390.48,
+        "change": -0.81
       },
       {
         "name": "다우존스",
-        "value": 53895.45,
-        "change": -0.15
+        "value": 53828.7,
+        "change": -0.27
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.36,
-        "change": -0.65
+        "value": 15.37,
+        "change": -0.58
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.75,
-        "change": 0.41
+        "value": 1413.24,
+        "change": 0.44
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7709.96,
               7757.64,
               7753.11,
-              7736.29
+              7722.45
             ]
           },
           {
@@ -248,7 +248,7 @@
               26348.35,
               26690.62,
               26605.36,
-              26472.92
+              26390.48
             ]
           },
           {
@@ -317,7 +317,7 @@
               53885.1,
               54036.93,
               53975.98,
-              53895.45
+              53828.7
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.15,
               14.9,
               15.46,
-              15.36
+              15.37
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1412.75
+              1413.24
             ]
           }
         ]
@@ -885,9 +885,9 @@
     ]
   },
   "rsi": {
-    "AVGO": 61.1,
-    "GOOGL": 52.1,
-    "QCOM": 40.4,
+    "AVGO": 58.4,
+    "GOOGL": 51.1,
+    "QCOM": 40.6,
     "VRT": 42.4
   },
   "news": {
@@ -914,20 +914,27 @@
         "date": "08/11 09:32"
       },
       {
-        "type": "neutral",
-        "title": "AMD’s Helios Launch Could Create Winners Beyond AMD Stock",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUNoTTdfb2dnMmNSOVVCWXMzTTFDdExJNkp1SVBpMEpONFlmOVU0TDU2TUZMbk1QNXphYlJzQXVia1JtUFROdm1DNEctNWI0T0hXYzNPOTRFUTJlaHVsVzdEVmpDZ1RFR0VIUWdiY2JZNDViUnMyNWRBY2V5X3RDYkMxUXJCTmw0SmFld2t4OFhjY01UM054bw?oc=5",
-        "date": "08/11 23:33"
+        "type": "negative",
+        "title": "Broadcom AVGO Stock Slips Toward $400 as BoA Cuts Rating on XPV Credit Risks",
+        "publisher": "fxleaders.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlg4a2NKcEUyREZNS3p5VmJxZklkdTJib2ZNWXNlcmpLamhkTWJNRWtWUTVCcHptc0pzVWVFQkpSY1lhV2VBMlE5Z205S09lZWhscUV0b2pqZ2RSSlZiT1pWYWM0N0NoWmliZlVPRm9fRFhLVHRtYldQaUVVNU51Q083cFdxS3E3cktfYkhma3B3Sl9VYUZBS0k3YjM3RzdianNYZVBHakVfeUhQa3lUbUFWdjFGUHpiN0E?oc=5",
+        "date": "08/12 02:55"
       }
     ],
     "GOOGL": [
       {
+        "type": "neutral",
+        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
+        "date": "08/11 05:02"
+      },
+      {
         "type": "negative",
-        "title": "VOO is down 0.1% today, on GOOGL stock price movement",
-        "publisher": "quiverquant.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVkdPRjViMlN4NFprSGJ4OEZkTVFURElDOVRFR2wxbzdBbEoxU18tZG1hZjE2VGlrd29jZ1NxUUN0eFJtQ3FOMDY3S1dqTlV3eWdiQUNtYXBnYk9lTGxSem5LNHAzTE5MQU5obDlrNjF2c3lOVW1pTXIwU2tfUnNiN2dOYjBrZVlNTVM5eXl3c3JPVlc2?oc=5",
-        "date": "08/12 01:15"
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/12 02:10"
       },
       {
         "type": "neutral",
@@ -935,13 +942,6 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
         "date": "08/12 00:45"
-      },
-      {
-        "type": "neutral",
-        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
-        "date": "08/11 05:02"
       },
       {
         "type": "neutral",
@@ -975,13 +975,20 @@
       },
       {
         "type": "neutral",
-        "title": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMnRZb3dPTXp1dFM5Y1NBTWVrMDVuVzFGOVQzYm0zTkpvdmJmY0VRMVh0Y3gxWHVldHkzaGU1V1FfVlFMUTNWQzFJRkh5ZGc3VHdMZ3gyN1ZCVHMzSU5BcUNLajc2WWpWMzViOXZMcmN0QkYwX09xeWF1V2NvbEd3cldIbUc3UQ?oc=5",
-        "date": "07/26 16:00"
+        "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
+        "publisher": "Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSRVJ6dVQzbDhwNWxsOGJpUVFqOERERzk4Ri1RQTRuT2lfLUlBSkVKUENsNFM3cDE4OXZQNWM1Sk1oaWVqNFBGZm93eHNQMHl0ZEg1M2g4UzJlZnpIc2FndGl3?oc=5",
+        "date": "08/11 09:56"
       }
     ],
     "VRT": [
+      {
+        "type": "positive",
+        "title": "3 Reasons Growth Investors Will Love Vertiv (VRT)",
+        "publisher": "sg.finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjlRZDNyM1VzNDk2ZGZiMTFqdlh6TWRRdTVvVkRQOU9PVUY3ZW1iY0J5Ull4UjlDZXhVRmdnWVFzaEJ5bFExMzNBODlEcGdiWW1XejVkTlhXMERnLUVyYml5cGtmVkNXV2tvV19MakExNGRjTlF1MmlFSU1zdnRfR1J4M0FUVWM?oc=5",
+        "date": "08/12 01:45"
+      },
       {
         "type": "positive",
         "title": "Vertiv Gains as Investors Reassess Raised Outlook and AI Infrastructure Positioning",
@@ -999,16 +1006,9 @@
       {
         "type": "positive",
         "title": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead?",
-        "publisher": "tradingview.com",
+        "publisher": "TradingView",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMldUY1hKWGJOMXdxZklEX0pIT25kOFdKSXg1QTRJNEc2YVFiZHBWM2RBblRQaHRiQUs4cjBaWE1JUVZ3M3hGbXRZRS1UZVI1aE4yMm9WQ0pmZmQwMmJoZzBlRExlbkl1eGNGWkdHZnd3WnV1UEw2S1RfTFZqRFQ2SU4yR29QRXJqN3hEZ2s1TFdrd2ozeTIweU5wWmhlZlkzOTNhUU1qMjRlT05LLTB6VHNvVlFiamFQYVlRV3pCYWFrUQ?oc=5",
         "date": "08/12 00:24"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Holdings Co Stock (VRT) Moved Up by 3.26% on Aug 11: Drivers Behind the Movement",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWVNb1hyZkZNVEhkUUVDdDlGRmcwRDJIMDh3R1VvbW1MUXF6OFBzbThVMTZuVzItckxnb1Nwc0R0MGFUN3NRWnVlZXFUOHVxNERlMTl6Qk1BOUZzTk50V0NZemhyaUZfWFprSFJkNG9zc1FCOHVRNFFQOTdmdE5UVjBUa1RWbG41Ync?oc=5",
-        "date": "08/12 00:15"
       }
     ]
   }
