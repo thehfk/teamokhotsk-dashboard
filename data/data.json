@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-11T13:50:23.657438+00:00",
+  "updatedAt": "2026-08-11T14:50:10.388742+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7752.65,
-        "change": -0.01
+        "value": 7761.78,
+        "change": 0.11
       },
       {
         "name": "NASDAQ",
-        "value": 26523.73,
-        "change": -0.31
+        "value": 26609.86,
+        "change": 0.02
       },
       {
         "name": "다우존스",
-        "value": 54193.86,
-        "change": 0.4
+        "value": 54008.21,
+        "change": 0.06
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.49,
-        "change": 0.19
+        "value": 15.39,
+        "change": -0.45
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1410.88,
-        "change": 0.28
+        "value": 1412.28,
+        "change": 0.38
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7709.96,
               7757.64,
               7753.11,
-              7752.65
+              7761.78
             ]
           },
           {
@@ -248,7 +248,7 @@
               26348.35,
               26690.62,
               26605.36,
-              26523.73
+              26609.86
             ]
           },
           {
@@ -317,7 +317,7 @@
               53885.1,
               54036.93,
               53975.98,
-              54193.86
+              54008.21
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.15,
               14.9,
               15.46,
-              15.49
+              15.39
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1410.88
+              1412.28
             ]
           }
         ]
@@ -888,9 +888,9 @@
     ]
   },
   "rsi": {
-    "AVGO": 61.9,
-    "GOOGL": 53.2,
-    "QCOM": 41.5,
+    "AVGO": 63.8,
+    "GOOGL": 54.2,
+    "QCOM": 42.1,
     "VRT": 43.2
   },
   "news": {
@@ -910,18 +910,18 @@
         "date": "08/11 01:05"
       },
       {
+        "type": "neutral",
+        "title": "What's Going On With Broadcom Stock Tuesday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTVoV1VHQTNXakNsSDQxemRkSm5hanpvdzR0MjJVakdCMmlPT3loY2E0d2RCTHBXczNCaFlNdE9VOWJSNFlKb2F3VGxKRDZfdElyMG53Z0hBUEt4b3BadFZFbkNCb1FrVjQxSW1hS0gyWE1GZEZ4T0ZObG8zUDlNMFQxbHUwSTc4NVJCcC1QYVd5d05CTENnMS1PRDRXZw?oc=5",
+        "date": "08/11 22:47"
+      },
+      {
         "type": "negative",
         "title": "Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next?",
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTlMLTNTNDhGakt6NDFKT2dkS1pWOC04UUVnU1pHcFFmSE4xNkVUbUZCMm9rTUFqMmJmOXR1NGp1bFJlUUI0dUl5eUlmV0dVd1JlZWptZEo4dGdGak1YU0YtNFFZRFpJVk81R2VJQjNsZnhMRWM3WmFxNlhOUnMyVEczZVlJRUs0MWd1MnhISmZFdUdCYzVYZ3hBRnN3VXpEYXVQOXFaMlJGU0pSbWNVWTZIT3YwRWhaWlIyMlp0T1hBNXA3RjdydnZ2TXQwU0hX?oc=5",
         "date": "08/11 09:32"
-      },
-      {
-        "type": "positive",
-        "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
-        "date": "08/08 17:17"
       }
     ],
     "GOOGL": [
@@ -940,18 +940,18 @@
         "date": "08/11 05:02"
       },
       {
-        "type": "neutral",
-        "title": "Alphabet Stock (GOOGL) Opinions on Berkshire Hathaway Investment",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUG9PeDNMTFpUNjVqWkJYTDZoVV8yUHp3Z2xFVTZxUzlmeFZuc3ZMQ3lsei04elhtWHB4UjB1SDJudmwyd2pRVTZmRWRrek1NbTR2Z2JmVVNoXzBrTTVkT0YtUm9DcUlldkk3bXVQXzFkNGhVS0VIZF8yS0hDQUpoYmdfTnVtNFlORk5FWDJTMWdycWxjbWI1RnNNWUtoQVNSZ2k4?oc=5",
-        "date": "08/11 02:33"
-      },
-      {
         "type": "positive",
         "title": "Google stock drops amid DeepMind leadership shake-up",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
         "date": "08/06 02:02"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock (GOOGL) Opinions on Berkshire Hathaway Investment",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUG9PeDNMTFpUNjVqWkJYTDZoVV8yUHp3Z2xFVTZxUzlmeFZuc3ZMQ3lsei04elhtWHB4UjB1SDJudmwyd2pRVTZmRWRrek1NbTR2Z2JmVVNoXzBrTTVkT0YtUm9DcUlldkk3bXVQXzFkNGhVS0VIZF8yS0hDQUpoYmdfTnVtNFlORk5FWDJTMWdycWxjbWI1RnNNWUtoQVNSZ2k4?oc=5",
+        "date": "08/11 02:33"
       }
     ],
     "QCOM": [
@@ -972,7 +972,7 @@
       {
         "type": "positive",
         "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
         "date": "08/11 00:06"
       },
@@ -993,6 +993,13 @@
         "date": "08/11 19:34"
       },
       {
+        "type": "negative",
+        "title": "Why Vertiv Holdings Plunged in July",
+        "publisher": "The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVJhQXg1TWt2NVBfWUd1cVZ1WmVoY0JBZFZBMHVTWFFkWGRXNkljYmFYT2JkNk1MX0xoUXdWbldObU5GUFRUazdZVlp6Z1hVVTl5dzdRZmh1UGQ4TEFQVVl6cHQwZmROa29tY3d4TXI1OXpOYVc4MnBJdlVUNEtPbUxiNkJwMDNSZWJDbkU3MjZWWWU1MzBwYlg2dGlpU1NsaFZpVmtoYVNSaGpPSDNCR296NVpldGYwY0VLbjBR?oc=5",
+        "date": "08/11 22:30"
+      },
+      {
         "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
         "publisher": "Yahoo Finance",
@@ -1005,13 +1012,6 @@
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUng0YzZyV0pjWHI5aThza1o1NkFtNW9Wc1B1UmE3SmFBcEd4b0QwTTZrNlloaTQyTm14dFJ2dkpOblh2VUtUUW5BRHFoVVI4bU9rRWJCR3I3WFlCTWx2MkJpOW11N1VSMVBlWGN0b0ZRcjNaa2xWbk11YjRwYVhFOHhQelp3S1VzT3AwdmZmZjh1SGd0UmVVZ3p2TkFlNzk1akRsMjkyZjRZc1MtaTlxM25lU3I4RlFZQVNpTTdueldxVUxMNkE1aEJQN0tZN0NMbnY2eHBn0gHbAUFVX3lxTFB5M1NIUnM3c1QtazdlNFRFOHk3MC1FUDVHaEhUWk1KTERpZ2Jic1dlOWh2TEtTaU1SVllqTEg3SERqdmZHNWgtSlNQUFlhSHlaWmxsUktMeXVFelg0eTFlYUtwOVNETGtRQ2VUWDcyV1VuMXFLWTNNazlfcGxBZGd1bFNGVFEtUE5TaUtZZkVfMG43SGN1LXowWXBYQXJ5ZmRzT3IyUnlkT3d6TGtvd0NQbWhpNURta2l5Um93UVUwNmpHbUUtcTNKTkppdFZMZHdRME9maGxYUkFRWQ?oc=5",
         "date": "08/08 03:50"
-      },
-      {
-        "type": "negative",
-        "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
-        "publisher": "StockStory",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
-        "date": "07/29 16:00"
       }
     ]
   }
