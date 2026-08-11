@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:47:05.705149+00:00",
+  "updatedAt": "2026-08-11T05:47:43.135759+00:00",
   "market": {
     "cards": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "name": "KOSPI",
-        "value": 6390.19,
-        "change": 1.44
+        "value": 6361.12,
+        "change": 0.98
       },
       {
         "name": "KOSDAQ",
-        "value": 849.48,
-        "change": -0.58
+        "value": 852.32,
+        "change": -0.25
       }
     ],
     "groups": [
@@ -803,7 +803,7 @@
               6296.38,
               6258.77,
               6299.66,
-              6390.19
+              6361.12
             ]
           },
           {
@@ -872,7 +872,7 @@
               801.67,
               798.81,
               854.47,
-              849.48
+              852.32
             ]
           }
         ]
@@ -950,16 +950,9 @@
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "Yahoo! Finance Canada",
+        "publisher": "ca.finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
         "date": "08/10 11:39"
-      },
-      {
-        "type": "positive",
-        "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
-        "date": "08/11 00:06"
       },
       {
         "type": "negative",
@@ -974,6 +967,13 @@
         "publisher": "GuruFocus",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHVxb0Z5OGh6b2hnQTZDSGNESGVER3FaRFNRQWM0X29TaUFWVExveUlUbklkMDVYdmdMeExwUnR2M1c0UEJyTl9XSnRLbzBabjVRTzVYeWJFbUpuQlFmZGZjVl83cXVaanppN2RWR3FGNTZlajN3Zk8tbHlBcjVBTU1YVFk5SGtqSmdLN0hVTVVhX1RmaDhNXy14ZU9RQ3dQT2pKZmlSWFJFSVE?oc=5",
         "date": "08/11 06:41"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
+        "publisher": "stocktwits.com",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
+        "date": "08/09 00:52"
       }
     ],
     "VRT": [
@@ -986,10 +986,10 @@
       },
       {
         "type": "positive",
-        "title": "Vertiv (VRT) Stock Could Be Fairly Valued With Strong Cash Flow But Full Earnings",
+        "title": "Vertiv (VRT) Stock Slides After Revenue Miss Despite Earnings Beat And Higher Outlook",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUng0YzZyV0pjWHI5aThza1o1NkFtNW9Wc1B1UmE3SmFBcEd4b0QwTTZrNlloaTQyTm14dFJ2dkpOblh2VUtUUW5BRHFoVVI4bU9rRWJCR3I3WFlCTWx2MkJpOW11N1VSMVBlWGN0b0ZRcjNaa2xWbk11YjRwYVhFOHhQelp3S1VzT3AwdmZmZjh1SGd0UmVVZ3p2TkFlNzk1akRsMjkyZjRZc1MtaTlxM25lU3I4RlFZQVNpTTdueldxVUxMNkE1aEJQN0tZN0NMbnY2eHBn0gHbAUFVX3lxTFB5M1NIUnM3c1QtazdlNFRFOHk3MC1FUDVHaEhUWk1KTERpZ2Jic1dlOWh2TEtTaU1SVllqTEg3SERqdmZHNWgtSlNQUFlhSHlaWmxsUktMeXVFelg0eTFlYUtwOVNETGtRQ2VUWDcyV1VuMXFLWTNNazlfcGxBZGd1bFNGVFEtUE5TaUtZZkVfMG43SGN1LXowWXBYQXJ5ZmRzT3IyUnlkT3d6TGtvd0NQbWhpNURta2l5Um93UVUwNmpHbUUtcTNKTkppdFZMZHdRME9maGxYUkFRWQ?oc=5",
-        "date": "08/08 03:50"
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDhVb3J3NEV5VkpMbWlyS2VrOFR2RmpyOFd2UjJFTzBBR29ac3dZbXNURHFvcGU4VEFiY2ZZZG00UUxSbkZFRmZTTGJlYTZucF90clFJYmZidW15Z0k3OHV1NTNNVHBhTlFKd3pQRkRMZE05Z0JfVUNycm52T3ZKS3JTWDlJT1BqNUNmX0V5NVJ6eVE1aDNOXy1UMU9KdTE1Qk1fQ3BRaXhMZmxwWUx1djlnclFfaktJenNaQkZLSEY5UmFuaFhiLS1KQ3RGYV92a25KedIB2gFBVV95cUxNYUZsSGFhMFBCOHFnSG1XaDJ4clU1Z0w4eXVEYVkxTzdRczczcVRpeXdSNk9KcEt0Nm1VZmlnSU84WlBQRmwxLVBQUVFxajZqRXZaYVR4LWxhR3NkU1ZPUlJQa3dMemhHVVFhdW5MdDhyNzR2Y2VFZm5FRXVSMjlCSEJnZ2NpZjZZTHFDWkhfRmt1U0ZYMjJ4a0RnRFJTbi1oeklmSXhRX3hDZU5jQkcxNDhMUHQ4dzdyQnhyYm5TNC1HcEEwOU1IdFoxYXNPenZDY2ZiREFmYkk3dw?oc=5",
+        "date": "07/29 16:00"
       },
       {
         "type": "negative",
