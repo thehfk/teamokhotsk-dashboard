@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T23:57:28.964293+00:00",
+  "updatedAt": "2026-08-11T01:21:17.417821+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1418.16,
-        "change": 0.79
+        "value": 1413.18,
+        "change": 0.44
       },
       {
         "name": "KOSPI",
-        "value": 6258.77,
-        "change": -0.6
+        "value": 6256.43,
+        "change": -0.04
       },
       {
         "name": "KOSDAQ",
-        "value": 798.81,
-        "change": -0.36
+        "value": 869.82,
+        "change": 8.89
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1418.16
+              1413.18
             ]
           }
         ]
@@ -732,7 +732,8 @@
           "08/04",
           "08/05",
           "08/06",
-          "08/07"
+          "08/07",
+          "08/11"
         ],
         "series": [
           {
@@ -799,7 +800,8 @@
               6358.95,
               6598.26,
               6296.38,
-              6258.77
+              6258.77,
+              6256.43
             ]
           },
           {
@@ -866,7 +868,8 @@
               780.72,
               799.59,
               801.67,
-              798.81
+              798.81,
+              869.82
             ]
           }
         ]
@@ -893,7 +896,7 @@
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
-        "date": "08/07 23:40"
+        "date": "08/09 06:20"
       },
       {
         "type": "neutral",
@@ -951,7 +954,7 @@
       {
         "type": "positive",
         "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
         "date": "08/11 00:06"
       },
@@ -972,18 +975,18 @@
     ],
     "VRT": [
       {
-        "type": "negative",
-        "title": "Finivi Inc. Cuts Position in Vertiv Holdings Co. $VRT",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1BJdlRwTUpJbWlHbmtId1BNRVdzTkdvSG1nbGFYbFdVYnNZT0JNT0lEV21wVGZsTjdBU3EzMXNHQjdiM21TMTVKeGFDc1A4a0s0cFVtTVZvaFpwZjJ2YUZGWmxoZEpoVEFBaUNQejlId0dpU0JlV2EtSk84SnkwZjF6ZzJzWVF1eXRYc2Ryckp6cVhWZDhfd05pdUIwbUhEbHI5NXNZc3IwOHlfUWs4RA?oc=5",
-        "date": "08/10 17:46"
-      },
-      {
         "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/06 00:15"
+      },
+      {
+        "type": "negative",
+        "title": "Finivi Inc. Cuts Position in Vertiv Holdings Co. $VRT",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1BJdlRwTUpJbWlHbmtId1BNRVdzTkdvSG1nbGFYbFdVYnNZT0JNT0lEV21wVGZsTjdBU3EzMXNHQjdiM21TMTVKeGFDc1A4a0s0cFVtTVZvaFpwZjJ2YUZGWmxoZEpoVEFBaUNQejlId0dpU0JlV2EtSk84SnkwZjF6ZzJzWVF1eXRYc2Ryckp6cVhWZDhfd05pdUIwbUhEbHI5NXNZc3IwOHlfUWs4RA?oc=5",
+        "date": "08/10 17:46"
       },
       {
         "type": "positive",
