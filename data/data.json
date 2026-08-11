@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T06:47:57.066872+00:00",
+  "updatedAt": "2026-08-11T08:03:22.260357+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.46,
-        "change": 3.76
+        "value": 15.41,
+        "change": -0.32
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1418.02,
-        "change": 0.78
+        "value": 1417.07,
+        "change": 0.72
       },
       {
         "name": "KOSPI",
-        "value": 6358.35,
-        "change": 0.93
+        "value": 6345.53,
+        "change": 0.73
       },
       {
         "name": "KOSDAQ",
-        "value": 858.42,
-        "change": 0.46
+        "value": 857.84,
+        "change": 0.39
       }
     ],
     "groups": [
@@ -384,7 +384,8 @@
           "08/05",
           "08/06",
           "08/07",
-          "08/10"
+          "08/10",
+          "08/11"
         ],
         "series": [
           {
@@ -453,7 +454,8 @@
               15.81,
               15.15,
               14.9,
-              15.46
+              15.46,
+              15.41
             ]
           }
         ]
@@ -663,7 +665,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1418.02
+              1417.07
             ]
           }
         ]
@@ -803,7 +805,7 @@
               6296.38,
               6258.77,
               6299.66,
-              6358.35
+              6345.53
             ]
           },
           {
@@ -872,7 +874,7 @@
               801.67,
               798.81,
               854.47,
-              858.42
+              857.84
             ]
           }
         ]
@@ -956,17 +958,17 @@
       },
       {
         "type": "neutral",
+        "title": "Qualcomm Incorporated $QCOM Shares Bought by Assenagon Asset Management S.A.",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcDF0TnVjTzM4ejFXWENaR3IyVk1OYy0tRXN2Y1BJRWtzLUhsN2pUaXpFaTRrRzhUWUw2WEVkdEd5RWJDd2xHM1ByRU9Db1B3QVZiZUhEY2dzTzJScUpGNUQtZHpSa1lSdlZYUWNnTnRETEdua0VJanlaOE4yTFpibV9yR1NERkk2ejd1X3RvYk1KRDJPYWx4eDJ5eVlBcjhQMGpFWUpFeHdMajFDWjBUZnV5YnZ2NFU0MDFFU0MyR0huWmVaYjZOSTR6Z1psQzQ?oc=5",
+        "date": "08/11 16:08"
+      },
+      {
+        "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
         "publisher": "Yahoo Finance UK",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSRVJ6dVQzbDhwNWxsOGJpUVFqOERERzk4Ri1RQTRuT2lfLUlBSkVKUENsNFM3cDE4OXZQNWM1Sk1oaWVqNFBGZm93eHNQMHl0ZEg1M2g4UzJlZnpIc2FndGl3?oc=5",
-        "date": "08/11 09:33"
-      },
-      {
-        "type": "negative",
-        "title": "Qualcomm (NASDAQ:QCOM) Shares Down 3.4% - Time to Sell?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPekgxTUtwT3hSVFpzSTdBM0t4Q21hNWdRVi03Sm1vUUFDcGUxSFUtX1dmVDVhVktudEV6bkExZUhfY01aS0lGdktJM3QtSm9Sc3VqUlktcDNZWHR1UVJLS1Q3OVBiQ1BIVDFYbzVQbEJTREFoOUNWbTJrYzFQNTVnQ3hfdEV6SHh4WjRTa2VtRDNwaXZtRmVWZUFJTS1BUFRTMlFn?oc=5",
-        "date": "08/11 06:25"
+        "date": "08/11 08:48"
       },
       {
         "type": "negative",
@@ -979,16 +981,23 @@
     "VRT": [
       {
         "type": "neutral",
+        "title": "Vertiv Stock And 2 Power Grid Picks For AI Data Center Demand",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNHZyTl9obFlEcmlTR1RWdnEtRXpseU9aTF9VaWFCdmNlemY5VEs1b2xNSWhhRkUyUUFieFM2ZDBWdl9Eamgtc0hBOGNzSHhoNU9WdnRLaE10Um9yT3F4QzVxcUpLYlR4VTlNZkpXQjJPakh0OWVseUh6bktQa2FOVkZvTFF2V0VKTjFmZkd4dmluMy1zYjIxOGt6S0dCRmFHZVVLd2tfOThXRUhPQkNvRVVva3NZOFJrQVVHUnlINThJWTNuZmFHUkJlR18za0NwWUhOYnhRZWLSAd4BQVVfeXFMTTFFaXVjb1dXdlMwYWw0TFpzZ2dpYldGMzRmUUQ1d212UUhGNVRtSy1fNVVyQWJwN2NHZ3Mtd1FiVUhmckhELXlweUpYS3ZjQVZTMW84clBvWTBsSXlNblU1dDZLUXlaRlJERXA3WlU5aDBDNUJrRzVHS0pmM0E2MENGVTExVUUxUTFpM2dGUUxITG1EbVVqU2p5bE14LUZLRjdJYUdwcXd1ajR1YW1XZUhWVDlNYzFKTWN4ZlBVNEpTODdydzd0US0wRlY2SVppUzUxcUdxU1J0WXY1N0JR?oc=5",
+        "date": "08/11 15:31"
+      },
+      {
+        "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/06 00:15"
       },
       {
-        "type": "positive",
-        "title": "Vertiv (VRT) Stock Slides After Revenue Miss Despite Earnings Beat And Higher Outlook",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDhVb3J3NEV5VkpMbWlyS2VrOFR2RmpyOFd2UjJFTzBBR29ac3dZbXNURHFvcGU4VEFiY2ZZZG00UUxSbkZFRmZTTGJlYTZucF90clFJYmZidW15Z0k3OHV1NTNNVHBhTlFKd3pQRkRMZE05Z0JfVUNycm52T3ZKS3JTWDlJT1BqNUNmX0V5NVJ6eVE1aDNOXy1UMU9KdTE1Qk1fQ3BRaXhMZmxwWUx1djlnclFfaktJenNaQkZLSEY5UmFuaFhiLS1KQ3RGYV92a25KedIB2gFBVV95cUxNYUZsSGFhMFBCOHFnSG1XaDJ4clU1Z0w4eXVEYVkxTzdRczczcVRpeXdSNk9KcEt0Nm1VZmlnSU84WlBQRmwxLVBQUVFxajZqRXZaYVR4LWxhR3NkU1ZPUlJQa3dMemhHVVFhdW5MdDhyNzR2Y2VFZm5FRXVSMjlCSEJnZ2NpZjZZTHFDWkhfRmt1U0ZYMjJ4a0RnRFJTbi1oeklmSXhRX3hDZU5jQkcxNDhMUHQ4dzdyQnhyYm5TNC1HcEEwOU1IdFoxYXNPenZDY2ZiREFmYkk3dw?oc=5",
+        "type": "negative",
+        "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
+        "publisher": "StockStory",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
         "date": "07/29 16:00"
       },
       {
@@ -997,13 +1006,6 @@
         "publisher": "webull.com",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OUmpkNE5EcVVjTDRQWHVuOG04NFRScThoaUFLWXE1cXEzbmFtNFM4TGlrNC1UakJCcE54TjJobnYxbXR4cVZYTVo3aG9fVVJNenE5RVhSWVk?oc=5",
         "date": "08/09 01:48"
-      },
-      {
-        "type": "negative",
-        "title": "Vertiv (NYSE:VRT) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops 10.4%",
-        "publisher": "StockStory",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlZoWko5N212TGFWdUhUQjRfeEl5MzhoaTJSZDdoeTFudzBkM2gybjlBYllqeF82VU5UM3NILTY4dkZkSDQ1NW8tdkhESmlqN1U2Z21tTjdfTHZyc09KTHotbmZGSmtBWDBSRlZGSlhqTTF3MkFyN3ZIQ1NFd2hpZWc4aDRCNXVpZFd5U0NNamVUaTQ5YjNWTHBCSDJzckloMl9jNGlEN19VNTBDQ3RqRzJCZmMtSjRtTXdjSmFIVTFxa3VNODJMNG9tSnM4cDVpak5kX1ZvSW1IZ3duZ1p3LWo1Uks4LTZr?oc=5",
-        "date": "07/29 16:00"
       }
     ]
   }
