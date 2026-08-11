@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-11T15:50:16.531968+00:00",
+  "updatedAt": "2026-08-11T16:47:06.269957+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7743.65,
-        "change": -0.12
+        "value": 7735.96,
+        "change": -0.22
       },
       {
         "name": "NASDAQ",
-        "value": 26510.4,
-        "change": -0.36
+        "value": 26468.9,
+        "change": -0.51
       },
       {
         "name": "다우존스",
-        "value": 53932.64,
-        "change": -0.08
+        "value": 53887.77,
+        "change": -0.16
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.34,
-        "change": -0.78
+        "value": 15.47,
+        "change": 0.06
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.72,
-        "change": 0.41
+        "value": 1412.14,
+        "change": 0.37
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7709.96,
               7757.64,
               7753.11,
-              7743.65
+              7735.96
             ]
           },
           {
@@ -248,7 +248,7 @@
               26348.35,
               26690.62,
               26605.36,
-              26510.4
+              26468.9
             ]
           },
           {
@@ -317,7 +317,7 @@
               53885.1,
               54036.93,
               53975.98,
-              53932.64
+              53887.77
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.15,
               14.9,
               15.46,
-              15.34
+              15.47
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1412.72
+              1412.14
             ]
           }
         ]
@@ -885,10 +885,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 61.9,
-    "GOOGL": 53.0,
-    "QCOM": 41.1,
-    "VRT": 42.9
+    "AVGO": 61.2,
+    "GOOGL": 52.7,
+    "QCOM": 40.3,
+    "VRT": 43.0
   },
   "news": {
     "AVGO": [
@@ -907,18 +907,18 @@
         "date": "08/11 01:05"
       },
       {
+        "type": "negative",
+        "title": "Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTlMLTNTNDhGakt6NDFKT2dkS1pWOC04UUVnU1pHcFFmSE4xNkVUbUZCMm9rTUFqMmJmOXR1NGp1bFJlUUI0dUl5eUlmV0dVd1JlZWptZEo4dGdGak1YU0YtNFFZRFpJVk81R2VJQjNsZnhMRWM3WmFxNlhOUnMyVEczZVlJRUs0MWd1MnhISmZFdUdCYzVYZ3hBRnN3VXpEYXVQOXFaMlJGU0pSbWNVWTZIT3YwRWhaWlIyMlp0T1hBNXA3RjdydnZ2TXQwU0hX?oc=5",
+        "date": "08/11 09:32"
+      },
+      {
         "type": "neutral",
         "title": "AMD’s Helios Launch Could Create Winners Beyond AMD Stock",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUNoTTdfb2dnMmNSOVVCWXMzTTFDdExJNkp1SVBpMEpONFlmOVU0TDU2TUZMbk1QNXphYlJzQXVia1JtUFROdm1DNEctNWI0T0hXYzNPOTRFUTJlaHVsVzdEVmpDZ1RFR0VIUWdiY2JZNDViUnMyNWRBY2V5X3RDYkMxUXJCTmw0SmFld2t4OFhjY01UM054bw?oc=5",
         "date": "08/11 23:33"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom Stock Forecast: Why Did AVGO Drop 17% and Is Wall Street Missing the AI Story?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWJZTlZuWDRhOXNJaGVzTW9ObGhfdEZHTmxHazNoTVpUaEVPSno5NXVWbVZESlhMR2xpWmphMlQzYWcwNWp2WDlxZG9PWl9JZnJIV1h3cEVxaVdrQWhONVZ6RnBfYjVfLU04T01KTTVLRVVkVFhybi11MnJLckVZZjM2ZUppdThxVHRYZGhjUHBIWUpWZ0lqVUhHSUxsemlPRnFwN0xIZjNLck9wMHlSSGc0YzdtSUZWNi04NHVpQ2x0Y3ZKZEphY2Q2MFZXZUpoc3o3QTZ5SQ?oc=5",
-        "date": "08/11 04:24"
       }
     ],
     "GOOGL": [
@@ -930,25 +930,25 @@
         "date": "08/11 05:02"
       },
       {
+        "type": "negative",
+        "title": "VOO is down 0.1% today, on GOOGL stock price movement",
+        "publisher": "quiverquant.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVkdPRjViMlN4NFprSGJ4OEZkTVFURElDOVRFR2wxbzdBbEoxU18tZG1hZjE2VGlrd29jZ1NxUUN0eFJtQ3FOMDY3S1dqTlV3eWdiQUNtYXBnYk9lTGxSem5LNHAzTE5MQU5obDlrNjF2c3lOVW1pTXIwU2tfUnNiN2dOYjBrZVlNTVM5eXl3c3JPVlc2?oc=5",
+        "date": "08/12 01:15"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
+        "date": "08/12 00:45"
+      },
+      {
         "type": "neutral",
         "title": "Rep. Michael A. Rulli Purchases Alphabet Inc. (NASDAQ:GOOGL) Stock",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWhhMHBQRGdJTGdqNjNLc1dnVjVTVmE0ZXZqQUxjeUl5RU9lTk1LNkNEdWR5WkF0eW4yYVlSSDZVV01XTW1odnlxWFdWVUNxaG81OE5UdE5kNjF2MFVwYmVwU2llRnhvc1dXSHVEakJuNEFPSmNLUGRvUjNrYmRiODFQR3RjYVlyRG9WdnhCNDFibEpyMmE0ZE9vWEsxcGhrRkhIQnlZMEIzbzl2Y1J1VWNEOFM?oc=5",
         "date": "08/11 15:07"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock (GOOGL) Opinions on Berkshire Hathaway Investment",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUG9PeDNMTFpUNjVqWkJYTDZoVV8yUHp3Z2xFVTZxUzlmeFZuc3ZMQ3lsei04elhtWHB4UjB1SDJudmwyd2pRVTZmRWRrek1NbTR2Z2JmVVNoXzBrTTVkT0YtUm9DcUlldkk3bXVQXzFkNGhVS0VIZF8yS0hDQUpoYmdfTnVtNFlORk5FWDJTMWdycWxjbWI1RnNNWUtoQVNSZ2k4?oc=5",
-        "date": "08/11 02:33"
-      },
-      {
-        "type": "neutral",
-        "title": "Is Alphabet (GOOGL) Still One of the Best AI Stocks to Own?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlZQYnZ1c3IxcjIyNkdlcjNpQUVsM3AxZml2NlBIbGFwN2NqZDlYNXVQaE5FNlJBLUtOczZjYU1YRGNubktoa1dIQ2p0R0Q1SHdKRUdVYVlOYWVsZ2FYX3pvSHdPX2xEdWdjdXRlZTNtQ2hXOGpQUGZZVHMzakdSa05VM3UxdC1URHNnYkRJRnUwdjhjbjBYaw?oc=5",
-        "date": "08/10 21:55"
       }
     ],
     "QCOM": [
@@ -985,7 +985,7 @@
       {
         "type": "positive",
         "title": "Vertiv Gains as Investors Reassess Raised Outlook and AI Infrastructure Positioning",
-        "publisher": "Quiver Quantitative",
+        "publisher": "quiverquant.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWplUVJvX0R6TXZ1ME41Z0NVeUhmZjZlTEUzbGpzXzdNelNubnNUUG5meG1WdER0bzJNTERzRUlId2MzV1FPRzNPalhLQTR4dkxIdGd1LWdZWjBTcnlqcGJRRXpTa19UNkFlRWlwOU82VzBoLTBfMnpBQW1HUVJQM1pKbjUtaHBCM2t0YVhTZ2FNNEI5NlY4YmQwZVFNZ0d3bmtjUzJWWHFSSnpXQkc0c2lJbzg2RUU?oc=5",
         "date": "08/11 23:55"
       },
