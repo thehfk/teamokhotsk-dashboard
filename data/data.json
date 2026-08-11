@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T11:11:44.048960+00:00",
+  "updatedAt": "2026-08-11T12:04:41.509428+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.5,
-        "change": 0.26
+        "value": 15.47,
+        "change": 0.06
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.78,
-        "change": 0.41
+        "value": 1412.36,
+        "change": 0.38
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               15.15,
               14.9,
               15.46,
-              15.5
+              15.47
             ]
           }
         ]
@@ -665,7 +665,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1412.78
+              1412.36
             ]
           }
         ]
@@ -958,10 +958,10 @@
       },
       {
         "type": "neutral",
-        "title": "Qualcomm Incorporated $QCOM Shares Sold by KMG Fiduciary Partners LLC",
+        "title": "Handelsbanken Fonder AB Has $99.77 Million Stock Position in Qualcomm Incorporated $QCOM",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWFd1OTdmcXJFcTFxVlZGdWkwUFhBVDR4SW01V2ZJMWw3Tnk3WVhTVG55a2JKOEhpMGEyRGlSeFVkemdXT3ZSWE5MUXRWSzBkTHhCNnl2Tjh4SlN6QTR4bHpCb3YwX09aN2IxSkowRE9GaGpVbTh2MUZmWmhtYXpfQlZYV3c0RHRIU0RsRVppUnRjUEpkeUZNeE1GM3RKXzk2bWRZWGdUeWg1ZldZckcxdXZwOHAzbXJxT01qTTRrSG91MjgydHZQcA?oc=5",
-        "date": "08/11 19:16"
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRDhBXzFZbkJGVWgwOEo4TV9LLXFwLS14LUJCY2VtWWZzY3RJNHZnMWZVdURPdHUxNThCWTZNbGFoLU1HcGd3LVBEU01GZjVfejh2NlpLTkJCdnZUaVBfQUpFWkEzUmh1RzlxXzdMNXhHbTl6T1dHQ1B0TDg3WTVndDk1U1A1OU55bU96Z1JlTzNjbXhUbGpjN3Jia3ZlOEJJb2hBQ3l0NmhnNHlyVmJuZFFTNnlCcDBhVGRTNVpySnVLSEpwazl1bktsUFZVSlpqMEZFamRHVTJ6OUZUaUNN?oc=5",
+        "date": "08/11 19:48"
       },
       {
         "type": "positive",
@@ -988,17 +988,17 @@
       },
       {
         "type": "neutral",
-        "title": "Vertiv Stock And 2 Power Grid Picks For AI Data Center Demand",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNHZyTl9obFlEcmlTR1RWdnEtRXpseU9aTF9VaWFCdmNlemY5VEs1b2xNSWhhRkUyUUFieFM2ZDBWdl9Eamgtc0hBOGNzSHhoNU9WdnRLaE10Um9yT3F4QzVxcUpLYlR4VTlNZkpXQjJPakh0OWVseUh6bktQa2FOVkZvTFF2V0VKTjFmZkd4dmluMy1zYjIxOGt6S0dCRmFHZVVLd2tfOThXRUhPQkNvRVVva3NZOFJrQVVHUnlINThJWTNuZmFHUkJlR18za0NwWUhOYnhRZWLSAd4BQVVfeXFMTTFFaXVjb1dXdlMwYWw0TFpzZ2dpYldGMzRmUUQ1d212UUhGNVRtSy1fNVVyQWJwN2NHZ3Mtd1FiVUhmckhELXlweUpYS3ZjQVZTMW84clBvWTBsSXlNblU1dDZLUXlaRlJERXA3WlU5aDBDNUJrRzVHS0pmM0E2MENGVTExVUUxUTFpM2dGUUxITG1EbVVqU2p5bE14LUZLRjdJYUdwcXd1ajR1YW1XZUhWVDlNYzFKTWN4ZlBVNEpTODdydzd0US0wRlY2SVppUzUxcUdxU1J0WXY1N0JR?oc=5",
-        "date": "08/11 15:31"
-      },
-      {
-        "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/06 00:15"
+      },
+      {
+        "type": "neutral",
+        "title": "Vertiv Stock And 2 Power Grid Picks For AI Data Center Demand",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNHZyTl9obFlEcmlTR1RWdnEtRXpseU9aTF9VaWFCdmNlemY5VEs1b2xNSWhhRkUyUUFieFM2ZDBWdl9Eamgtc0hBOGNzSHhoNU9WdnRLaE10Um9yT3F4QzVxcUpLYlR4VTlNZkpXQjJPakh0OWVseUh6bktQa2FOVkZvTFF2V0VKTjFmZkd4dmluMy1zYjIxOGt6S0dCRmFHZVVLd2tfOThXRUhPQkNvRVVva3NZOFJrQVVHUnlINThJWTNuZmFHUkJlR18za0NwWUhOYnhRZWLSAd4BQVVfeXFMTTFFaXVjb1dXdlMwYWw0TFpzZ2dpYldGMzRmUUQ1d212UUhGNVRtSy1fNVVyQWJwN2NHZ3Mtd1FiVUhmckhELXlweUpYS3ZjQVZTMW84clBvWTBsSXlNblU1dDZLUXlaRlJERXA3WlU5aDBDNUJrRzVHS0pmM0E2MENGVTExVUUxUTFpM2dGUUxITG1EbVVqU2p5bE14LUZLRjdJYUdwcXd1ajR1YW1XZUhWVDlNYzFKTWN4ZlBVNEpTODdydzd0US0wRlY2SVppUzUxcUdxU1J0WXY1N0JR?oc=5",
+        "date": "08/11 15:31"
       },
       {
         "type": "negative",
