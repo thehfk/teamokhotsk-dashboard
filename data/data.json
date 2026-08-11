@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T10:23:57.725076+00:00",
+  "updatedAt": "2026-08-11T11:11:44.048960+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.53,
-        "change": 0.45
+        "value": 15.5,
+        "change": 0.26
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1415.64,
-        "change": 0.61
+        "value": 1412.78,
+        "change": 0.41
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               15.15,
               14.9,
               15.46,
-              15.53
+              15.5
             ]
           }
         ]
@@ -665,7 +665,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1415.64
+              1412.78
             ]
           }
         ]
@@ -911,11 +911,11 @@
         "date": "08/11 04:24"
       },
       {
-        "type": "negative",
-        "title": "Intel Falls 5% on Proposed $15B Share Sale as AMD, NVIDIA, Broadcom Hold Steady",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXowOG11TVRBdl9kX2FLM3BlanVXYWkzejhaRG8yYkRURjNNSi1kb2hYaklNSXE0SmQ5bWN0Y3NXN3c1THc3anQ2WW1kNmJSMmxYWFgtZXlrMWMxaHNNTGloTkQ4ZGt3YmJSRm82aEZFTnV0V2FPWU1KU1FLd2JYMF9LWVFkRHd0THJLcFVhb0JKcmVkTnpKZVJEWldjUUE0bEdMRy14NS1OckJKeTdzbmFrbHYtdWhuRGJF?oc=5",
-        "date": "08/10 22:19"
+        "type": "positive",
+        "title": "Broadcom Stock: 7 Straight Green Days, Up 16%",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNF9YbkZ0QVlqNjJHaTlLb180enNOc0dPUGFmdE5qYklUYXZWY1VpTndLOV9CNHpTcUNpX2toT0xLbEU2WHd5SG91anM4U0NtZHdGREp5UmdaakhHTENrR0JVejFRQnFvSkhqMGM1WEFtRGhWdG1SdTdsaXpKb19nVWhGNDdHbXE2ckZ4N2g4TUE5U19US1VUcnBGekw4T1FRb2pmeHB3?oc=5",
+        "date": "08/08 17:17"
       }
     ],
     "GOOGL": [
@@ -981,10 +981,10 @@
     "VRT": [
       {
         "type": "neutral",
-        "title": "Focus Financial Network Inc. Has $2.12 Million Stake in Vertiv Holdings Co. $VRT",
+        "title": "Handelsbanken Fonder AB Sells 39,568 Shares of Vertiv Holdings Co. $VRT",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWZBTkQ5cEFMZE9YMnFXeExfOFBMRFZIbTdhYTZYa2ltR3NxZDUtV1hyTWN4b2VEOUNGWjdOc04zSEthQlJkTEVOZVR0UnVXYmp2MkdzLV9QYVJXSENGcUNJTnBRRnFhd21Ib0VIZXlqMzNkSHBPMnAta3hZTjJFX1JRVnllc3dOUVJ2SFA4VkJCRVViTlhhSmszazE4dEJNeGlRenlMYWJwcEFPRUh3ODhiN2NfMjF5Y2FocW5VSlpNdzY1dkNxYzZPbnJrZzgyRHc?oc=5",
-        "date": "08/11 18:25"
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSlQ2aUpSbU1sR0RvRzlXNGo0ODUydFpER3k4NGNBS2dVRjE5ZUdWMWI1anBIZlkwN1FSRzdqUUFwRW1yaVpSODlzTmdvMy1YY2VQSGZobVdjNmF1SUZvYk5pbWozeFA4YjVpMHduMkFDa1RSdi1sTUh5a1YwUGYzMlRSNUI5ZGQ3SHlrUkZNR2VOQldsWmZIVmpEaTVSSGFSVF9oZ0s4SnFEQ216ZHFHc2tjZU50SDhoSklzeldGdGlXenlLU2lRZw?oc=5",
+        "date": "08/11 19:34"
       },
       {
         "type": "neutral",
