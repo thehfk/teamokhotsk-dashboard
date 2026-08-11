@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-11T16:47:06.269957+00:00",
+  "updatedAt": "2026-08-11T17:48:45.300939+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7735.96,
+        "value": 7736.29,
         "change": -0.22
       },
       {
         "name": "NASDAQ",
-        "value": 26468.9,
-        "change": -0.51
+        "value": 26472.92,
+        "change": -0.5
       },
       {
         "name": "다우존스",
-        "value": 53887.77,
-        "change": -0.16
+        "value": 53895.45,
+        "change": -0.15
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.47,
-        "change": 0.06
+        "value": 15.36,
+        "change": -0.65
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.14,
-        "change": 0.37
+        "value": 1412.75,
+        "change": 0.41
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7709.96,
               7757.64,
               7753.11,
-              7735.96
+              7736.29
             ]
           },
           {
@@ -248,7 +248,7 @@
               26348.35,
               26690.62,
               26605.36,
-              26468.9
+              26472.92
             ]
           },
           {
@@ -317,7 +317,7 @@
               53885.1,
               54036.93,
               53975.98,
-              53887.77
+              53895.45
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.15,
               14.9,
               15.46,
-              15.47
+              15.36
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1412.14
+              1412.75
             ]
           }
         ]
@@ -885,10 +885,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 61.2,
-    "GOOGL": 52.7,
-    "QCOM": 40.3,
-    "VRT": 43.0
+    "AVGO": 61.1,
+    "GOOGL": 52.1,
+    "QCOM": 40.4,
+    "VRT": 42.4
   },
   "news": {
     "AVGO": [
@@ -923,13 +923,6 @@
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
-        "date": "08/11 05:02"
-      },
-      {
         "type": "negative",
         "title": "VOO is down 0.1% today, on GOOGL stock price movement",
         "publisher": "quiverquant.com",
@@ -942,6 +935,13 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
         "date": "08/12 00:45"
+      },
+      {
+        "type": "neutral",
+        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
+        "date": "08/11 05:02"
       },
       {
         "type": "neutral",
@@ -974,11 +974,11 @@
         "date": "08/11 19:48"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm Inc (QCOM) Shares Fall 3.4% -- What GF Score of 97 Tells Investors",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHVxb0Z5OGh6b2hnQTZDSGNESGVER3FaRFNRQWM0X29TaUFWVExveUlUbklkMDVYdmdMeExwUnR2M1c0UEJyTl9XSnRLbzBabjVRTzVYeWJFbUpuQlFmZGZjVl83cXVaanppN2RWR3FGNTZlajN3Zk8tbHlBcjVBTU1YVFk5SGtqSmdLN0hVTVVhX1RmaDhNXy14ZU9RQ3dQT2pKZmlSWFJFSVE?oc=5",
-        "date": "08/11 06:41"
+        "type": "neutral",
+        "title": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMnRZb3dPTXp1dFM5Y1NBTWVrMDVuVzFGOVQzYm0zTkpvdmJmY0VRMVh0Y3gxWHVldHkzaGU1V1FfVlFMUTNWQzFJRkh5ZGc3VHdMZ3gyN1ZCVHMzSU5BcUNLajc2WWpWMzViOXZMcmN0QkYwX09xeWF1V2NvbEd3cldIbUc3UQ?oc=5",
+        "date": "07/26 16:00"
       }
     ],
     "VRT": [
@@ -998,17 +998,17 @@
       },
       {
         "type": "positive",
+        "title": "Vertiv Capitalizes on Strong AI Data Center Growth: More Upside Ahead?",
+        "publisher": "tradingview.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMldUY1hKWGJOMXdxZklEX0pIT25kOFdKSXg1QTRJNEc2YVFiZHBWM2RBblRQaHRiQUs4cjBaWE1JUVZ3M3hGbXRZRS1UZVI1aE4yMm9WQ0pmZmQwMmJoZzBlRExlbkl1eGNGWkdHZnd3WnV1UEw2S1RfTFZqRFQ2SU4yR29QRXJqN3hEZ2s1TFdrd2ozeTIweU5wWmhlZlkzOTNhUU1qMjRlT05LLTB6VHNvVlFiamFQYVlRV3pCYWFrUQ?oc=5",
+        "date": "08/12 00:24"
+      },
+      {
+        "type": "positive",
         "title": "Vertiv Holdings Co Stock (VRT) Moved Up by 3.26% on Aug 11: Drivers Behind the Movement",
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWVNb1hyZkZNVEhkUUVDdDlGRmcwRDJIMDh3R1VvbW1MUXF6OFBzbThVMTZuVzItckxnb1Nwc0R0MGFUN3NRWnVlZXFUOHVxNERlMTl6Qk1BOUZzTk50V0NZemhyaUZfWFprSFJkNG9zc1FCOHVRNFFQOTdmdE5UVjBUa1RWbG41Ync?oc=5",
         "date": "08/12 00:15"
-      },
-      {
-        "type": "negative",
-        "title": "Why Vertiv Holdings Plunged in July",
-        "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVJhQXg1TWt2NVBfWUd1cVZ1WmVoY0JBZFZBMHVTWFFkWGRXNkljYmFYT2JkNk1MX0xoUXdWbldObU5GUFRUazdZVlp6Z1hVVTl5dzdRZmh1UGQ4TEFQVVl6cHQwZmROa29tY3d4TXI1OXpOYVc4MnBJdlVUNEtPbUxiNkJwMDNSZWJDbkU3MjZWWWU1MzBwYlg2dGlpU1NsaFZpVmtoYVNSaGpPSDNCR296NVpldGYwY0VLbjBR?oc=5",
-        "date": "08/11 22:30"
       }
     ]
   }
