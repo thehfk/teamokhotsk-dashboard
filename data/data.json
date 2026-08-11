@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-11T12:04:41.509428+00:00",
+  "updatedAt": "2026-08-11T13:50:23.657438+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7753.11,
-        "change": -0.06
+        "value": 7752.65,
+        "change": -0.01
       },
       {
         "name": "NASDAQ",
-        "value": 26605.36,
-        "change": -0.32
+        "value": 26523.73,
+        "change": -0.31
       },
       {
         "name": "다우존스",
-        "value": 53975.98,
-        "change": -0.11
+        "value": 54193.86,
+        "change": 0.4
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.47,
-        "change": 0.06
+        "value": 15.49,
+        "change": 0.19
       },
       {
         "name": "미국10년금리",
-        "value": 4.7,
-        "change": 0.86
+        "value": 4.68,
+        "change": -0.43
       },
       {
         "name": "원달러환율",
-        "value": 1412.36,
-        "change": 0.38
+        "value": 1410.88,
+        "change": 0.28
       },
       {
         "name": "KOSPI",
@@ -109,7 +109,8 @@
           "08/05",
           "08/06",
           "08/07",
-          "08/10"
+          "08/10",
+          "08/11"
         ],
         "series": [
           {
@@ -177,7 +178,8 @@
               7723.55,
               7709.96,
               7757.64,
-              7753.11
+              7753.11,
+              7752.65
             ]
           },
           {
@@ -245,7 +247,8 @@
               26363.44,
               26348.35,
               26690.62,
-              26605.36
+              26605.36,
+              26523.73
             ]
           },
           {
@@ -313,7 +316,8 @@
               54349.12,
               53885.1,
               54036.93,
-              53975.98
+              53975.98,
+              54193.86
             ]
           }
         ]
@@ -455,7 +459,7 @@
               15.15,
               14.9,
               15.46,
-              15.47
+              15.49
             ]
           }
         ]
@@ -525,7 +529,8 @@
           "08/05",
           "08/06",
           "08/07",
-          "08/10"
+          "08/10",
+          "08/11"
         ],
         "series": [
           {
@@ -593,7 +598,8 @@
               4.62,
               4.67,
               4.66,
-              4.7
+              4.7,
+              4.68
             ]
           },
           {
@@ -665,7 +671,7 @@
               1421.16,
               1422.3,
               1407.0,
-              1412.36
+              1410.88
             ]
           }
         ]
@@ -882,20 +888,13 @@
     ]
   },
   "rsi": {
-    "AVGO": 67.6,
-    "GOOGL": 54.2,
-    "QCOM": 42.2,
-    "VRT": 38.5
+    "AVGO": 61.9,
+    "GOOGL": 53.2,
+    "QCOM": 41.5,
+    "VRT": 43.2
   },
   "news": {
     "AVGO": [
-      {
-        "type": "neutral",
-        "title": "Broadcom Stock Looks Like a Screaming Deal",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjlxWW50YUZtV3BzeEZrOUFpNTlsZ2JxcGswX1VseGoxOEI2TTFyN3FmQ21zNmRidDdXNzVtdTlCb1JQLVBDd28yM0l3aThCLXo3NnFXYUVOck9uM2RjLW12M0F2NDRUaHlkTzJUZE1DMEZ0Y0JGeHZkZmtPUGRieXg1MFRqZ1JjOVE1NTJLS18zbm8yUnVNLW5YNFlvLVE1VHc?oc=5",
-        "date": "08/11 01:05"
-      },
       {
         "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
@@ -904,11 +903,18 @@
         "date": "08/09 06:20"
       },
       {
+        "type": "neutral",
+        "title": "Broadcom Stock Looks Like a Screaming Deal",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjlxWW50YUZtV3BzeEZrOUFpNTlsZ2JxcGswX1VseGoxOEI2TTFyN3FmQ21zNmRidDdXNzVtdTlCb1JQLVBDd28yM0l3aThCLXo3NnFXYUVOck9uM2RjLW12M0F2NDRUaHlkTzJUZE1DMEZ0Y0JGeHZkZmtPUGRieXg1MFRqZ1JjOVE1NTJLS18zbm8yUnVNLW5YNFlvLVE1VHc?oc=5",
+        "date": "08/11 01:05"
+      },
+      {
         "type": "negative",
-        "title": "Broadcom Stock Forecast: Why Did AVGO Drop 17% and Is Wall Street Missing the AI Story?",
+        "title": "Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next?",
         "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWJZTlZuWDRhOXNJaGVzTW9ObGhfdEZHTmxHazNoTVpUaEVPSno5NXVWbVZESlhMR2xpWmphMlQzYWcwNWp2WDlxZG9PWl9JZnJIV1h3cEVxaVdrQWhONVZ6RnBfYjVfLU04T01KTTVLRVVkVFhybi11MnJLckVZZjM2ZUppdThxVHRYZGhjUHBIWUpWZ0lqVUhHSUxsemlPRnFwN0xIZjNLck9wMHlSSGc0YzdtSUZWNi04NHVpQ2x0Y3ZKZEphY2Q2MFZXZUpoc3o3QTZ5SQ?oc=5",
-        "date": "08/11 04:24"
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTlMLTNTNDhGakt6NDFKT2dkS1pWOC04UUVnU1pHcFFmSE4xNkVUbUZCMm9rTUFqMmJmOXR1NGp1bFJlUUI0dUl5eUlmV0dVd1JlZWptZEo4dGdGak1YU0YtNFFZRFpJVk81R2VJQjNsZnhMRWM3WmFxNlhOUnMyVEczZVlJRUs0MWd1MnhISmZFdUdCYzVYZ3hBRnN3VXpEYXVQOXFaMlJGU0pSbWNVWTZIT3YwRWhaWlIyMlp0T1hBNXA3RjdydnZ2TXQwU0hX?oc=5",
+        "date": "08/11 09:32"
       },
       {
         "type": "positive",
@@ -994,11 +1000,11 @@
         "date": "08/06 00:15"
       },
       {
-        "type": "neutral",
-        "title": "Vertiv Stock And 2 Power Grid Picks For AI Data Center Demand",
+        "type": "positive",
+        "title": "Vertiv (VRT) Stock Could Be Fairly Valued With Strong Cash Flow But Full Earnings",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNHZyTl9obFlEcmlTR1RWdnEtRXpseU9aTF9VaWFCdmNlemY5VEs1b2xNSWhhRkUyUUFieFM2ZDBWdl9Eamgtc0hBOGNzSHhoNU9WdnRLaE10Um9yT3F4QzVxcUpLYlR4VTlNZkpXQjJPakh0OWVseUh6bktQa2FOVkZvTFF2V0VKTjFmZkd4dmluMy1zYjIxOGt6S0dCRmFHZVVLd2tfOThXRUhPQkNvRVVva3NZOFJrQVVHUnlINThJWTNuZmFHUkJlR18za0NwWUhOYnhRZWLSAd4BQVVfeXFMTTFFaXVjb1dXdlMwYWw0TFpzZ2dpYldGMzRmUUQ1d212UUhGNVRtSy1fNVVyQWJwN2NHZ3Mtd1FiVUhmckhELXlweUpYS3ZjQVZTMW84clBvWTBsSXlNblU1dDZLUXlaRlJERXA3WlU5aDBDNUJrRzVHS0pmM0E2MENGVTExVUUxUTFpM2dGUUxITG1EbVVqU2p5bE14LUZLRjdJYUdwcXd1ajR1YW1XZUhWVDlNYzFKTWN4ZlBVNEpTODdydzd0US0wRlY2SVppUzUxcUdxU1J0WXY1N0JR?oc=5",
-        "date": "08/11 15:31"
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUng0YzZyV0pjWHI5aThza1o1NkFtNW9Wc1B1UmE3SmFBcEd4b0QwTTZrNlloaTQyTm14dFJ2dkpOblh2VUtUUW5BRHFoVVI4bU9rRWJCR3I3WFlCTWx2MkJpOW11N1VSMVBlWGN0b0ZRcjNaa2xWbk11YjRwYVhFOHhQelp3S1VzT3AwdmZmZjh1SGd0UmVVZ3p2TkFlNzk1akRsMjkyZjRZc1MtaTlxM25lU3I4RlFZQVNpTTdueldxVUxMNkE1aEJQN0tZN0NMbnY2eHBn0gHbAUFVX3lxTFB5M1NIUnM3c1QtazdlNFRFOHk3MC1FUDVHaEhUWk1KTERpZ2Jic1dlOWh2TEtTaU1SVllqTEg3SERqdmZHNWgtSlNQUFlhSHlaWmxsUktMeXVFelg0eTFlYUtwOVNETGtRQ2VUWDcyV1VuMXFLWTNNazlfcGxBZGd1bFNGVFEtUE5TaUtZZkVfMG43SGN1LXowWXBYQXJ5ZmRzT3IyUnlkT3d6TGtvd0NQbWhpNURta2l5Um93UVUwNmpHbUUtcTNKTkppdFZMZHdRME9maGxYUkFRWQ?oc=5",
+        "date": "08/08 03:50"
       },
       {
         "type": "negative",
