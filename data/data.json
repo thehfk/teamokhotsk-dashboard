@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-12T15:27:18.280149+00:00",
+  "updatedAt": "2026-08-12T16:25:19.166475+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7741.36,
-        "change": 0.17
+        "value": 7748.2,
+        "change": 0.26
       },
       {
         "name": "NASDAQ",
-        "value": 26553.33,
-        "change": 0.41
+        "value": 26585.73,
+        "change": 0.53
       },
       {
         "name": "다우존스",
-        "value": 53758.8,
-        "change": -0.06
+        "value": 53826.16,
+        "change": 0.06
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.82,
-        "change": -3.01
+        "value": 14.8,
+        "change": -3.14
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1416.22,
-        "change": -0.08
+        "value": 1416.71,
+        "change": -0.04
       },
       {
         "name": "KOSPI",
@@ -94,12 +94,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -160,12 +163,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -173,7 +179,7 @@
               7757.64,
               7753.11,
               7728.2,
-              7741.36
+              7748.2
             ]
           },
           {
@@ -226,12 +232,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -239,7 +248,7 @@
               26690.62,
               26605.36,
               26445.45,
-              26553.33
+              26585.73
             ]
           },
           {
@@ -292,12 +301,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -305,7 +317,7 @@
               54036.93,
               53975.98,
               53791.85,
-              53758.8
+              53826.16
             ]
           }
         ]
@@ -361,12 +373,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -428,12 +443,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -441,7 +459,7 @@
               14.9,
               15.46,
               15.28,
-              14.82
+              14.8
             ]
           }
         ]
@@ -449,12 +467,62 @@
       {
         "name": "환율 / 금리",
         "labels": [
+          "05/12",
+          "05/13",
+          "05/14",
+          "05/15",
+          "05/18",
+          "05/19",
+          "05/20",
+          "05/21",
+          "05/22",
+          "05/26",
+          "05/27",
+          "05/28",
+          "05/29",
+          "06/01",
+          "06/02",
+          "06/03",
+          "06/04",
+          "06/05",
+          "06/08",
+          "06/09",
+          "06/10",
+          "06/11",
+          "06/12",
+          "06/15",
+          "06/16",
+          "06/17",
+          "06/18",
+          "06/22",
+          "06/23",
+          "06/24",
+          "06/25",
+          "06/26",
+          "06/29",
+          "06/30",
+          "07/01",
+          "07/02",
+          "07/06",
+          "07/07",
+          "07/08",
+          "07/09",
+          "07/10",
+          "07/13",
+          "07/14",
+          "07/15",
+          "07/16",
+          "07/17",
+          "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -468,12 +536,62 @@
           {
             "name": "미국10년금리",
             "data": [
+              4.46,
+              4.48,
+              4.46,
+              4.59,
+              4.62,
+              4.67,
+              4.57,
+              4.59,
+              4.56,
+              4.49,
+              4.48,
+              4.45,
+              4.45,
+              4.47,
+              4.45,
+              4.49,
+              4.48,
+              4.54,
+              4.55,
+              4.53,
+              4.54,
+              4.46,
+              4.49,
+              4.47,
+              4.43,
+              4.46,
+              4.45,
+              4.51,
+              4.49,
+              4.4,
+              4.39,
+              4.37,
+              4.37,
+              4.42,
+              4.47,
+              4.49,
+              4.48,
+              4.53,
+              4.57,
+              4.54,
+              4.57,
+              4.61,
+              4.59,
+              4.55,
+              4.57,
+              4.54,
+              4.6,
+              4.63,
+              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
+              4.74,
               4.69,
               4.63,
               4.62,
@@ -553,7 +671,7 @@
               1422.3,
               1407.0,
               1417.31,
-              1416.22
+              1416.71
             ]
           }
         ]
@@ -608,12 +726,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -673,12 +794,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -746,6 +870,7 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
@@ -760,10 +885,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 63.6,
-    "GOOGL": 61.3,
+    "AVGO": 63.9,
+    "GOOGL": 61.2,
     "QCOM": 43.5,
-    "VRT": 46.6
+    "VRT": 46.7
   },
   "news": {
     "AVGO": [
@@ -777,21 +902,21 @@
       {
         "type": "neutral",
         "title": "Are Wall Street Analysts Predicting Broadcom Stock Will Climb or Sink?",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHJaRGpwandLdm9DZjBJeEJ5SEVHNE9NWDRwRFhnUThVRDN6VFhpMnR4UGxqcnZQc3RYTE85bmlEeHFBa1hJcVkya3VhNDNma0JrY3RJeUxPYjRIZTl0WFVzY0h0VEFsY1pSYWszbW9kUTYzQ2RUbTNWay0xMEM5bE15LUF3dFloNjNjeUNYckJPQkRvMFNLZW1KVHhwVERhOGdQTU1zWkQ?oc=5",
         "date": "08/12 01:22"
       },
       {
         "type": "neutral",
         "title": "What's Going On With Broadcom Stock Monday?",
-        "publisher": "Benzinga",
+        "publisher": "benzinga.com",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDVQSlM3LTRxZUJVZzFlQ0ZlaGhOZVFyblcwNUExamM3bnZrUGV4aTNyT2xPSWU3QmZTRzJ0SldNYVBfNGpnbGRYYnhrMHVrUk80MnJGUHJiTExTcDV3aUVfN0tMRHA0X2hNeVFIc0Y5bl9IUmMwcFdDaFVHUDZPRUZNYUF4aFVhemRMNUw4ODYtdk5MUGtjUHVpSmU?oc=5",
         "date": "08/10 22:33"
       },
       {
         "type": "neutral",
         "title": "Broadcom Stock Looks Like a Screaming Deal",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjlxWW50YUZtV3BzeEZrOUFpNTlsZ2JxcGswX1VseGoxOEI2TTFyN3FmQ21zNmRidDdXNzVtdTlCb1JQLVBDd28yM0l3aThCLXo3NnFXYUVOck9uM2RjLW12M0F2NDRUaHlkTzJUZE1DMEZ0Y0JGeHZkZmtPUGRieXg1MFRqZ1JjOVE1NTJLS18zbm8yUnVNLW5YNFlvLVE1VHc?oc=5",
         "date": "08/11 01:05"
       }
@@ -807,7 +932,7 @@
       {
         "type": "negative",
         "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
         "date": "08/12 02:10"
       },
@@ -821,12 +946,19 @@
       {
         "type": "neutral",
         "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
-        "publisher": "Benzinga",
+        "publisher": "benzinga.com",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
         "date": "08/12 00:45"
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
+        "publisher": "Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSRVJ6dVQzbDhwNWxsOGJpUVFqOERERzk4Ri1RQTRuT2lfLUlBSkVKUENsNFM3cDE4OXZQNWM1Sk1oaWVqNFBGZm93eHNQMHl0ZEg1M2g4UzJlZnpIc2FndGl3?oc=5",
+        "date": "08/12 23:22"
+      },
       {
         "type": "negative",
         "title": "Qualcomm (NASDAQ: QCOM) Stock Price Slides After Earnings Miss As Management Points To China Recovery",
@@ -847,13 +979,6 @@
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc01CQ1NWek5UN1lPM3dYMVd3M29mSTRpbHYtYmdqb180UXlpT2xWb1k5aVBJNDRpZGJKWVlKX3dteWxtNmZoY2xJb0NhOFNUZVQ1eF9Td1B3bHVWVWJHSFA2bFZYalFGQ2lJaWxnVFR1UXJYVDRTRXg3U0xwZUVCbzlzdF9GY0I0cUpDbGRXTmVHSGtxaXpQRzNtSjZtUU1peEwzSTVHUW9UQVgwYV9sTVV1MFRDUQ?oc=5",
         "date": "08/12 23:30"
-      },
-      {
-        "type": "neutral",
-        "title": "$Qualcomm (QCOM.US)$",
-        "publisher": "Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SUl9ad3J4UEZFVExOcnI3WW45MjlXMlh3UHI4MDV3ekkxMEpjLWVGT2pBVVprelpZdk5aTU9iYW1TSnNCRzhPZllyMTEzbGM3UDZoTm5MbnRvb09FUTlGTlpENTU1amQ2Y0ZJM3NyVUZpOUViRFlmcmVn?oc=5",
-        "date": "08/12 23:39"
       }
     ],
     "VRT": [
