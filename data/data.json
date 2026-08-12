@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:35:17.621087+00:00",
+  "updatedAt": "2026-08-12T22:30:31.481809+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1416.65,
-        "change": 0.32
+        "value": 1416.88,
+        "change": 0.33
       },
       {
         "name": "KOSPI",
@@ -39,8 +39,8 @@
       },
       {
         "name": "KOSDAQ",
-        "value": 854.47,
-        "change": 6.97
+        "value": 857.84,
+        "change": 0.39
       }
     ],
     "groups": [
@@ -93,15 +93,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -161,15 +158,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -668,7 +662,7 @@
               1407.0,
               1417.31,
               1412.18,
-              1416.65
+              1416.88
             ]
           }
         ]
@@ -723,15 +717,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -791,15 +782,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -873,139 +861,14 @@
               799.59,
               801.67,
               798.81,
-              854.47
+              854.47,
+              857.84
             ]
           }
         ]
       }
     ]
   },
-  "rsi": {
-    "AVGO": 62.6,
-    "GOOGL": 62.1,
-    "QCOM": 44.0,
-    "VRT": 45.2
-  },
-  "news": {
-    "AVGO": [
-      {
-        "type": "neutral",
-        "title": "What Is The Market Really Expecting From AVGO Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTRZSzVZd2JfMVVBVTFPcVEyamsyUEE5TGFJcVhaLXVHNTJZQmwxU0c0eVFEc09SVHk2MDBPZnBoZ3gtREVzeENJbDFxcE1fc0MzTUJyZlRKVW9KSDhJb2M2NVlub2FYdTRkWUNkenB0dVV0emo5TktwM0VTUXphdTl2a0UtVDNvS21MczBKOXotQkhudmJQUzhjMUhycHpZYTVlZmFQOUJQOERCVkdLLUpMMXc?oc=5",
-        "date": "08/12 06:07"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
-        "date": "08/13 01:54"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Monday?",
-        "publisher": "benzinga.com",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDVQSlM3LTRxZUJVZzFlQ0ZlaGhOZVFyblcwNUExamM3bnZrUGV4aTNyT2xPSWU3QmZTRzJ0SldNYVBfNGpnbGRYYnhrMHVrUk80MnJGUHJiTExTcDV3aUVfN0tMRHA0X2hNeVFIc0Y5bl9IUmMwcFdDaFVHUDZPRUZNYUF4aFVhemRMNUw4ODYtdk5MUGtjUHVpSmU?oc=5",
-        "date": "08/10 22:33"
-      },
-      {
-        "type": "neutral",
-        "title": "Are Wall Street Analysts Predicting Broadcom Stock Will Climb or Sink?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHJaRGpwandLdm9DZjBJeEJ5SEVHNE9NWDRwRFhnUThVRDN6VFhpMnR4UGxqcnZQc3RYTE85bmlEeHFBa1hJcVkya3VhNDNma0JrY3RJeUxPYjRIZTl0WFVzY0h0VEFsY1pSYWszbW9kUTYzQ2RUbTNWay0xMEM5bE15LUF3dFloNjNjeUNYckJPQkRvMFNLZW1KVHhwVERhOGdQTU1zWkQ?oc=5",
-        "date": "08/12 01:22"
-      }
-    ],
-    "GOOGL": [
-      {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/12 02:10"
-      },
-      {
-        "type": "neutral",
-        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
-        "date": "08/11 05:02"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet's Blowout Q2 Confirmed The AI Stack Thesis, And Shares Are Still Undervalued",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYldEVThveHBPUGYtVkE5OTJ3WktCSEVMbmUyZm5SbWdJNE9zWmxkdElEekVPT0dlNm4tLXlwaVQyc19uRWpOczQwMHZwUEdkbktldU9KZ0EwTnNTR3B4cHBOeEM4TGxpTi1xa3RGdWpLb3FFUU00QzRyc0l0LXRucm8wT1NHZ0hQX1l1dXRFYV93U3UtaTRobmxEUjV3ZXExVENyRlU2LXpKM2VqVTdIWUVaQW51bHVKSm1kaVpUZExaUQ?oc=5",
-        "date": "08/12 21:30"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
-        "publisher": "benzinga.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
-        "date": "08/12 00:45"
-      }
-    ],
-    "QCOM": [
-      {
-        "type": "negative",
-        "title": "Qualcomm (NASDAQ: QCOM) Stock Price Slides After Earnings Miss As Management Points To China Recovery",
-        "publisher": "foreignpolicyjournal.com",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3djQ1lEV1l4dzNUQWJaZUJxS004eGxoamo4SDdiMG02cEtXU1ByX3lCNWVMOHR0T3BvOUMydXpzZk52T0NsRWRYUU54LTBWQzBYdDIwZGFxRlVvVi1RVXJfZVdqclV4Y2dWR3BZN2h1UGdzdkxQYnc0ZGVQN29VeTF0MmRxTjNiZ1F4cEdwS0xFc0JrZ1dtNFdhRm9LZ3Rfem9RY2dJcmVwdExHUUxteDZ0TGxlMVlGNjZpdDZVSTZpcUhaUVFuOW9yTEM5ZS12RE1EQnZFbXVaMHZEbTRvcQ?oc=5",
-        "date": "08/12 22:39"
-      },
-      {
-        "type": "neutral",
-        "title": "Akash Palkhiwala (QCOM) files to sell 2,500 common shares after recent sales",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWJqX2tOMTlRenAtcUFOWnRMemVaZzloNC1oVENuYjB1a1czcTZ4NlE0akhvbG1vU21NakRKa3hVa3pXalExTi1qTDRQWEJYaTdidmxjUEVySmpsRjBRemI5ejRlQjdwUFdNNHVlNXFzd2hySDZKX1lLOHZ1cFU2QUhSQmExbzRrV3FySnJFV0x0RzNzZGFF?oc=5",
-        "date": "08/13 06:06"
-      },
-      {
-        "type": "neutral",
-        "title": "Prediction: This Chipmaker Could Be a Bigger Winner Than Investors Think",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVdiQjJxUm5ERUxqaWR4bjVzUVBiMFFPT0hKYzdCYWV2bUNCQjZkUnpUakVPeTM0NTJLM05zdnpEWjZpTFpSWTVHY2loXzV2YVFqVG9BR3lYdExwNEp1OTdQdTNOTHVZS203Y3VQYlo5dUdKS0lBU2RsVlptZ3F4WGh4LW9Bbm5UcV84OXhiTzVDR2F2R0hfR1VFeVRZNTdrbTk4cE10dHU?oc=5",
-        "date": "08/12 23:30"
-      },
-      {
-        "type": "positive",
-        "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
-        "date": "08/11 00:06"
-      }
-    ],
-    "VRT": [
-      {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Shares Up 2.1% - What's Next?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPenBFM051TncyNkZCd3BtQU1mOUh2U1VtcE4wV25ZQnB1TTg0QVBDTWloUjBKeHNTVTAxS01kUHV1VE9tZEZveklKRnAxd1FtR2hXSXNrdDZjY2ZwZWtSOXZXcHFCTHUwc1dWaGlDN01NYmVsU3kxR3ktbG53Sk9DdGhBN1ViTUREcW55Y1dUcDJrWGNsd2pN?oc=5",
-        "date": "08/13 06:24"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQdIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
-        "date": "08/12 16:45"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Holdings Co Stock (VRT) Moved Up by 3.94% on Aug 12: What Investors Need To Know",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdU02STgwazgtSlVoLURRVU9uZHpod0RWeVcxSVdJQkFkY2FFeHYzTi1sLWhpcUdaZC03SGgwcFVKektaNENtSlVZUUZHWXlfR2FCWnZNamtBdWNKMm5aRVlXYmhLcVlqM2RpUXVNcW15eDJPV3NyZk9SVWlodG42ZUVvWDNOc2JiNVE?oc=5",
-        "date": "08/13 02:15"
-      },
-      {
-        "type": "neutral",
-        "title": "$Vertiv Holdings (VRT.US)$",
-        "publisher": "Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS1JaSUVjSm1mZ0pIU08waU9LRGl1QTdLUTNmNDRfemdVbzVEMWV0dEFxcW84d1JKRm5VTGRhQnB4WmZhSXFZbVgybS10alZrNUIzYkpPWTFYSmF0UG8tNFN5M01YXzFoQXl6UUJFeVdwWHRoOGNfakhldTRXLVp0MElB?oc=5",
-        "date": "08/12 20:33"
-      }
-    ]
-  }
+  "rsi": {},
+  "news": {}
 }
