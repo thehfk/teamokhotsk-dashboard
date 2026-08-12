@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T03:02:45.380140+00:00",
+  "updatedAt": "2026-08-12T05:11:58.579717+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1416.88,
-        "change": -0.03
+        "value": 1415.26,
+        "change": -0.14
       },
       {
         "name": "KOSPI",
-        "value": 6611.85,
-        "change": 4.2
+        "value": 6604.26,
+        "change": 4.08
       },
       {
         "name": "KOSDAQ",
-        "value": 855.68,
-        "change": 0.14
+        "value": 857.93,
+        "change": 0.4
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1422.3,
               1407.0,
               1417.31,
-              1416.88
+              1415.26
             ]
           }
         ]
@@ -807,7 +807,7 @@
               6258.77,
               6299.66,
               6345.53,
-              6611.85
+              6604.26
             ]
           },
           {
@@ -875,7 +875,7 @@
               801.67,
               798.81,
               854.47,
-              855.68
+              857.93
             ]
           }
         ]
@@ -886,10 +886,17 @@
     "AVGO": 59.8,
     "GOOGL": 50.7,
     "QCOM": 40.9,
-    "VRT": 43.9
+    "VRT": 38.5
   },
   "news": {
     "AVGO": [
+      {
+        "type": "neutral",
+        "title": "Is Broadcom’s (AVGO) Next Big Bet Hidden in Plain Sight?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUnZTNWtILXhpZVBjVGt3ZGNUR3dFM204Z29LSWNMVFJ0REJZUFp0TkJJVnBydG50U0NtaE4zbkVMQmdwZmc3LXVyTnJfNF9CaS0tMWsxOXZVSFlEU2IzakFOaURmRC1IdDhuNnI1N1Jfam9CWEdzNzdlNXdRTkN3b1hzM3NybE56QXFQeVNSSVlraTFf?oc=5",
+        "date": "08/12 02:50"
+      },
       {
         "type": "neutral",
         "title": "What Is The Market Really Expecting From AVGO Stock?",
@@ -905,18 +912,11 @@
         "date": "08/11 01:05"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Stock AVGO Slips Toward $400 as BoA Cuts Rating on XPV Credit Risks",
-        "publisher": "fxleaders.com",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0N6cXBHZDA5Z2tId0RwRGRkUmYxRy1rc3RxbE9pTzBobHBrb2xGeDJjOFRNR1l6VTJfaUxmdk5lWl9aMktONkZkMTRsbDE3SGQzTFctT000ZVh0anNJdGc5S0VsTDh3ZzFXZklWSnh1MDBTbXBFREFuYlVyeElVV2VwX2dCc25lNnk4ZnZVdVpySWtvMXJZS3JkWGZJLUJabnRlZm5IUU1XV19ubllnYUZQUE9MWjJsbWc?oc=5",
-        "date": "08/12 05:25"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTlMLTNTNDhGakt6NDFKT2dkS1pWOC04UUVnU1pHcFFmSE4xNkVUbUZCMm9rTUFqMmJmOXR1NGp1bFJlUUI0dUl5eUlmV0dVd1JlZWptZEo4dGdGak1YU0YtNFFZRFpJVk81R2VJQjNsZnhMRWM3WmFxNlhOUnMyVEczZVlJRUs0MWd1MnhISmZFdUdCYzVYZ3hBRnN3VXpEYXVQOXFaMlJGU0pSbWNVWTZIT3YwRWhaWlIyMlp0T1hBNXA3RjdydnZ2TXQwU0hX?oc=5",
-        "date": "08/11 09:32"
+        "type": "neutral",
+        "title": "What's Going On With Broadcom Stock Monday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDVQSlM3LTRxZUJVZzFlQ0ZlaGhOZVFyblcwNUExamM3bnZrUGV4aTNyT2xPSWU3QmZTRzJ0SldNYVBfNGpnbGRYYnhrMHVrUk80MnJGUHJiTExTcDV3aUVfN0tMRHA0X2hNeVFIc0Y5bl9IUmMwcFdDaFVHUDZPRUZNYUF4aFVhemRMNUw4ODYtdk5MUGtjUHVpSmU?oc=5",
+        "date": "08/10 22:33"
       }
     ],
     "GOOGL": [
