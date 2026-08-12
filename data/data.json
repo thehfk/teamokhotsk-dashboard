@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T08:09:16.977459+00:00",
+  "updatedAt": "2026-08-12T09:37:03.218558+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.34,
-        "change": 0.39
+        "value": 15.33,
+        "change": 0.33
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1416.69,
-        "change": -0.04
+        "value": 1414.26,
+        "change": -0.22
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               14.9,
               15.46,
               15.28,
-              15.34
+              15.33
             ]
           }
         ]
@@ -667,7 +667,7 @@
               1422.3,
               1407.0,
               1417.31,
-              1416.69
+              1414.26
             ]
           }
         ]
@@ -943,11 +943,11 @@
         "date": "08/12 00:45"
       },
       {
-        "type": "positive",
-        "title": "Google Stock Price Today: GOOGL Up or Down on August 11 (Live Polymarket Odds)",
-        "publisher": "Action Network",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWlILTBTOUc3WDB1T2o1TWtkMWFVMFFhYk5SYmp0ZjMtZUdCMEpkaGUxenRhYVBJRlhaUGFnWm01cHJXV3JfWDNnVjhUdFJDTkFlbTVNeXktU0VQalBVNkZWX3ExRVFtM2FkZUtEUzdCdGNkMzhfNURBLThqWUpKZHJZWk5nOTY2clBzNTFfM3NsUHNJeGljVlNRZjQzY2dtMzBwVnhqaVByVUM5eG1V?oc=5",
-        "date": "08/11 22:25"
+        "type": "neutral",
+        "title": "Alphabet Inc. $GOOGL Stock Holdings Increased by Central Pacific Bank Trust Division",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbkNjSVpIQWdqRFpFZkkyY05IdDBlYmVHc3NOZllQRHN2Z1JIM29KYjZqSGRYNnpWdkYzcklxR1hHSkdpbmk3TmtncjdkU1pHVW9PVHJ1Z3ppSUNrdFkxQ2NOcUpzODhWQ3Q2bWZ4dEJsZHhDOE9xblg1SFZ0SzhQSm9XUWt4NkpWbDBBZFVBNnprRXBoZ3pPbGRkUVZMNDVPcmN5cWIxRjg5a2dSOW4tU3RZSlF3R1ZkVTg0TkthY29aQWlOU2NzekxzZW15XzMtLW5BT18wOExtQW8?oc=5",
+        "date": "08/12 16:23"
       }
     ],
     "QCOM": [
@@ -989,18 +989,18 @@
         "date": "08/12 16:45"
       },
       {
+        "type": "neutral",
+        "title": "5,788 Shares in Vertiv Holdings Co. $VRT Acquired by Clarus Wealth Advisors",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3JWMG1RZTFNdnFrcDhPaVM3NXVrZEtyakVWNzhxdWtEZmNyRTJheC16X0k2aUVmU05jdzZKTmtSN25rdVJVMGdjSXBQSXJWMno1TXFEWFRZMXZrQm1ZU3pDVk5ZX3ktZjNWQ1RuRDNpVjJaOXVock9iZUV6SGZRcXo1Tldfd2hNTUd3Zi1heHJOYVFKRlFkb3p2aVhLSlRpTUliV1gzbF9Lcll1TmJidGZsM05RMnYzaGtTLXRYNWpMSmMwVEhuT3doQTlnUQ?oc=5",
+        "date": "08/12 17:12"
+      },
+      {
         "type": "positive",
         "title": "3 Reasons Growth Investors Will Love Vertiv (VRT)",
         "publisher": "Yahoo Finance Singapore",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjlRZDNyM1VzNDk2ZGZiMTFqdlh6TWRRdTVvVkRQOU9PVUY3ZW1iY0J5Ull4UjlDZXhVRmdnWVFzaEJ5bFExMzNBODlEcGdiWW1XejVkTlhXMERnLUVyYml5cGtmVkNXV2tvV19MakExNGRjTlF1MmlFSU1zdnRfR1J4M0FUVWM?oc=5",
         "date": "08/12 01:45"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Trading 4.5% Higher - Here's What Happened",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0VVaU43S3VtREZORVp4OGlCM0ExZkZkcWYzOXlUeE04T0IxYmtsYnpXcGxsaC1OSFQxaGRrMTBtMjhCRERUbVNsUzQ5cWNTUjk2LTIzM2pBYW1uYkpWa3hrbWtqMTlVSk1CWDM0NHE3cFoyU1ZBNEJGckpNMmtoa3BfVzAyN0NKeFRaMTNPWV94cWk3bGVsNTRwck1IcFl0aTIwY0k1d1VIdw?oc=5",
-        "date": "08/12 06:29"
       },
       {
         "type": "positive",
