@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T10:51:45.340156+00:00",
+  "updatedAt": "2026-08-12T11:39:43.023451+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.4,
-        "change": 0.79
+        "value": 15.39,
+        "change": 0.72
       },
       {
         "name": "미국10년금리",
@@ -29,7 +29,7 @@
       },
       {
         "name": "원달러환율",
-        "value": 1416.45,
+        "value": 1416.51,
         "change": -0.06
       },
       {
@@ -40,7 +40,7 @@
       {
         "name": "KOSDAQ",
         "value": 858.91,
-        "change": 0.12
+        "change": 0.52
       }
     ],
     "groups": [
@@ -455,7 +455,7 @@
               14.9,
               15.46,
               15.28,
-              15.4
+              15.39
             ]
           }
         ]
@@ -463,12 +463,63 @@
       {
         "name": "환율 / 금리",
         "labels": [
+          "05/11",
+          "05/12",
+          "05/13",
+          "05/14",
+          "05/15",
+          "05/18",
+          "05/19",
+          "05/20",
+          "05/21",
+          "05/22",
+          "05/26",
+          "05/27",
+          "05/28",
+          "05/29",
+          "06/01",
+          "06/02",
+          "06/03",
+          "06/04",
+          "06/05",
+          "06/08",
+          "06/09",
+          "06/10",
+          "06/11",
+          "06/12",
+          "06/15",
+          "06/16",
+          "06/17",
+          "06/18",
+          "06/22",
+          "06/23",
+          "06/24",
+          "06/25",
+          "06/26",
+          "06/29",
+          "06/30",
+          "07/01",
+          "07/02",
+          "07/06",
+          "07/07",
+          "07/08",
+          "07/09",
+          "07/10",
+          "07/13",
+          "07/14",
+          "07/15",
+          "07/16",
+          "07/17",
+          "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -481,12 +532,63 @@
           {
             "name": "미국10년금리",
             "data": [
+              4.41,
+              4.46,
+              4.48,
+              4.46,
+              4.59,
+              4.62,
+              4.67,
+              4.57,
+              4.59,
+              4.56,
+              4.49,
+              4.48,
+              4.45,
+              4.45,
+              4.47,
+              4.45,
+              4.49,
+              4.48,
+              4.54,
+              4.55,
+              4.53,
+              4.54,
+              4.46,
+              4.49,
+              4.47,
+              4.43,
+              4.46,
+              4.45,
+              4.51,
+              4.49,
+              4.4,
+              4.39,
+              4.37,
+              4.37,
+              4.42,
+              4.47,
+              4.49,
+              4.48,
+              4.53,
+              4.57,
+              4.54,
+              4.57,
+              4.61,
+              4.59,
+              4.55,
+              4.57,
+              4.54,
+              4.6,
+              4.63,
+              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
+              4.74,
               4.69,
               4.63,
               4.62,
@@ -565,7 +667,7 @@
               1422.3,
               1407.0,
               1417.31,
-              1416.45
+              1416.51
             ]
           }
         ]
@@ -773,7 +875,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91
             ]
           }
@@ -781,6 +882,132 @@
       }
     ]
   },
-  "rsi": {},
-  "news": {}
+  "rsi": {
+    "AVGO": 59.8,
+    "GOOGL": 50.7,
+    "QCOM": 40.9,
+    "VRT": 38.5
+  },
+  "news": {
+    "AVGO": [
+      {
+        "type": "neutral",
+        "title": "What Is The Market Really Expecting From AVGO Stock?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTRZSzVZd2JfMVVBVTFPcVEyamsyUEE5TGFJcVhaLXVHNTJZQmwxU0c0eVFEc09SVHk2MDBPZnBoZ3gtREVzeENJbDFxcE1fc0MzTUJyZlRKVW9KSDhJb2M2NVlub2FYdTRkWUNkenB0dVV0emo5TktwM0VTUXphdTl2a0UtVDNvS21MczBKOXotQkhudmJQUzhjMUhycHpZYTVlZmFQOUJQOERCVkdLLUpMMXc?oc=5",
+        "date": "08/12 06:07"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Stock Looks Like a Screaming Deal",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjlxWW50YUZtV3BzeEZrOUFpNTlsZ2JxcGswX1VseGoxOEI2TTFyN3FmQ21zNmRidDdXNzVtdTlCb1JQLVBDd28yM0l3aThCLXo3NnFXYUVOck9uM2RjLW12M0F2NDRUaHlkTzJUZE1DMEZ0Y0JGeHZkZmtPUGRieXg1MFRqZ1JjOVE1NTJLS18zbm8yUnVNLW5YNFlvLVE1VHc?oc=5",
+        "date": "08/11 01:05"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Broadcom Stock Monday?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWnpyMkhYVV9STUFWVmhac0RSdFlYYkpwUTlWaDRFZmFnVlZkbk51azE4dHMzV1FKNk5fNlpwLVdwUmN1SG5mTTZpREpISU4yZmx6bWVJX3ViaGpMVGxoVUJUWHkxbmZERWthSzdfSWU1WVQzOVhKbG5IZ1B0Z3FIc0JVazZpdDNZTC04d1R5QTRuNmpNbGpDUkVuN0I5a0Rsc2pr?oc=5",
+        "date": "08/10 22:33"
+      },
+      {
+        "type": "positive",
+        "title": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWFNXcVVzemhpT0tGdExxZi1HRV91cVlIcHVTTHZDUGYtcjQwMzhuWXNpMVk2dVB3Uko0Wk5rRjBrQjd2NU5tdUxrLVdfWk43cEk4c1QzaXpmVmQtalNoY3BsYVFnX2VXM01QTVYtWS1iSm1Edk5rNmdjQnJPUFJMeXhDMHFoV0NVcVdWdEtSeGlSYUoydWpjTA?oc=5",
+        "date": "08/09 23:00"
+      }
+    ],
+    "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
+        "date": "08/11 05:02"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/12 02:10"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
+        "date": "08/12 00:45"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Inc. $GOOGL Stock Holdings Increased by Central Pacific Bank Trust Division",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbkNjSVpIQWdqRFpFZkkyY05IdDBlYmVHc3NOZllQRHN2Z1JIM29KYjZqSGRYNnpWdkYzcklxR1hHSkdpbmk3TmtncjdkU1pHVW9PVHJ1Z3ppSUNrdFkxQ2NOcUpzODhWQ3Q2bWZ4dEJsZHhDOE9xblg1SFZ0SzhQSm9XUWt4NkpWbDBBZFVBNnprRXBoZ3pPbGRkUVZMNDVPcmN5cWIxRjg5a2dSOW4tU3RZSlF3R1ZkVTg0TkthY29aQWlOU2NzekxzZW15XzMtLW5BT18wOExtQW8?oc=5",
+        "date": "08/12 16:23"
+      }
+    ],
+    "QCOM": [
+      {
+        "type": "neutral",
+        "title": "QUALCOMM Incorporated (QCI.DE) Stock Price, News, Quote & History",
+        "publisher": "Yahoo! Finance Canada",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEcVFWeHhMY1hEVThnZ3dqaTlDTmNyLWZkdWU0ZWM3ZUVFY3E5a3FKYS1BU01Rd0F0dmlRdUVaYkU4R0VhUkN6OVhlQ1MzWG56TEoxUg?oc=5",
+        "date": "08/12 18:51"
+      },
+      {
+        "type": "positive",
+        "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
+        "date": "08/11 00:06"
+      },
+      {
+        "type": "negative",
+        "title": "Qualcomm Missed Earnings Estimates But Says the Bottom Is Near. How to Play QCOM Stock Here.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTGYzcU5kMGdiQS1qX1hORmNYN2pQZDlHc1lBdmV3Zzgtb1pBV2ZxSnJtY0VFckVKT29GcjlYdF9md0RyZl96X2JvRWlYYUhwVl9hLUdBM3JXVkxGcnpxV3pacTJmZHhmRW9uMDlUUkNDWlNzRUEteXA4NGoxVjJrMVlickhlNDYyT0NDcW1sRi01V180aTZYaWIwODZSMHlWQWFWQ0p3eVZBMDBweVo3WmNHT0YwWmhEX1VyamZtUkpGc01RbV9IaXJ3VUZYSkU?oc=5",
+        "date": "08/12 03:49"
+      },
+      {
+        "type": "neutral",
+        "title": "QUALCOMM (QCOM) Faces A Fresh Test As Diversification Keeps Valuation In Focus",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORWg1X3hzSXpneFg2WVdtNVRWaU9heTNvZ0FSMUtDdm9IVWZiOFBvNnZZUUJmRUNxUlBxY2lTWVNaa1o2QkV4VkVuRTZ2bml5YnJtSFg3Ni1ldDZ1amp4alVmelFfeEpCZWhUc0licnRBb3Y4NmdGb0NGU3hmUmxVVnA2RWdCbW13Smh4U1pZWUwyd0lBQXhkYV8wMGhJajhtWWY4b0EwSnVob1Z1U0FvbFNfME1Vd3hLTmxuS1M3bHcyTnlpWWt6MFJfMU40d9IB0wFBVV95cUxNd2lsX3FyV19YMmFfb1FhTnptUndpWWF3Z3Rnc0czLTZQRFFmaFNRT3oyaVZTeHZmX1drOEEwSzhHbXB4Z2EzNUM2MHJyV1UtNjRaQlNmTE5zQnk4czNYUzJQd1N6XzFLSmJhdGZLX2VMYzBsMTVQMExGRlN0WG1VSGF1TTJkQXFZbVJiXy1hOEtTdEMySS02YjBCVmJmTFpIOFBhZXpHS1owTUtPRFVlc0lRTTBVU2RqRkVFUWNGVlY3MldIaWY3eEFGS0p1Sjh6UGZV?oc=5",
+        "date": "08/12 16:31"
+      }
+    ],
+    "VRT": [
+      {
+        "type": "positive",
+        "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQdIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
+        "date": "08/12 16:45"
+      },
+      {
+        "type": "neutral",
+        "title": "5,788 Shares in Vertiv Holdings Co. $VRT Acquired by Clarus Wealth Advisors",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3JWMG1RZTFNdnFrcDhPaVM3NXVrZEtyakVWNzhxdWtEZmNyRTJheC16X0k2aUVmU05jdzZKTmtSN25rdVJVMGdjSXBQSXJWMno1TXFEWFRZMXZrQm1ZU3pDVk5ZX3ktZjNWQ1RuRDNpVjJaOXVock9iZUV6SGZRcXo1Tldfd2hNTUd3Zi1heHJOYVFKRlFkb3p2aVhLSlRpTUliV1gzbF9Lcll1TmJidGZsM05RMnYzaGtTLXRYNWpMSmMwVEhuT3doQTlnUQ?oc=5",
+        "date": "08/12 17:12"
+      },
+      {
+        "type": "positive",
+        "title": "3 Reasons Growth Investors Will Love Vertiv (VRT)",
+        "publisher": "Yahoo Finance Singapore",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjlRZDNyM1VzNDk2ZGZiMTFqdlh6TWRRdTVvVkRQOU9PVUY3ZW1iY0J5Ull4UjlDZXhVRmdnWVFzaEJ5bFExMzNBODlEcGdiWW1XejVkTlhXMERnLUVyYml5cGtmVkNXV2tvV19MakExNGRjTlF1MmlFSU1zdnRfR1J4M0FUVWM?oc=5",
+        "date": "08/12 01:45"
+      },
+      {
+        "type": "positive",
+        "title": "A Look at Vertiv Holdings Co (VRT) After 4.3% Gain -- GF Value $166.93 vs Price $281.81",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjNBNExYcTl3SDFVYXUxYjkzbjlTUDJuQ0ZRLW81QktzZkJGX0J0QzQySkJZcDlLZlVsbUZ6TTU5VlFmYVhvdTVPUXlkejk1OEM3LTdaMGtJc1dOektnQURZWVhQblY5bllhWU5qdUQzZ3EtT1lmN1I4Y2xLWGlQRjFueHdWWVo4TzlfdXlLSENrN00wX3NCU2RGTGtFV3R6eEc3ajhzRzRhSlVvWHVZTXRaanNBdw?oc=5",
+        "date": "08/12 07:32"
+      }
+    ]
+  }
 }
