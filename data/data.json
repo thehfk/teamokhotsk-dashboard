@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T00:08:37.885632+00:00",
+  "updatedAt": "2026-08-12T03:02:45.380140+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1413.28,
-        "change": -0.28
+        "value": 1416.88,
+        "change": -0.03
       },
       {
         "name": "KOSPI",
-        "value": 6299.66,
-        "change": 0.65
+        "value": 6611.85,
+        "change": 4.2
       },
       {
         "name": "KOSDAQ",
-        "value": 854.47,
-        "change": 6.97
+        "value": 855.68,
+        "change": 0.14
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1422.3,
               1407.0,
               1417.31,
-              1413.28
+              1416.88
             ]
           }
         ]
@@ -736,7 +736,9 @@
           "08/05",
           "08/06",
           "08/07",
-          "08/10"
+          "08/10",
+          "08/11",
+          "08/12"
         ],
         "series": [
           {
@@ -803,7 +805,9 @@
               6598.26,
               6296.38,
               6258.77,
-              6299.66
+              6299.66,
+              6345.53,
+              6611.85
             ]
           },
           {
@@ -870,13 +874,140 @@
               799.59,
               801.67,
               798.81,
-              854.47
+              854.47,
+              855.68
             ]
           }
         ]
       }
     ]
   },
-  "rsi": {},
-  "news": {}
+  "rsi": {
+    "AVGO": 59.8,
+    "GOOGL": 50.7,
+    "QCOM": 40.9,
+    "VRT": 43.9
+  },
+  "news": {
+    "AVGO": [
+      {
+        "type": "neutral",
+        "title": "What Is The Market Really Expecting From AVGO Stock?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTRZSzVZd2JfMVVBVTFPcVEyamsyUEE5TGFJcVhaLXVHNTJZQmwxU0c0eVFEc09SVHk2MDBPZnBoZ3gtREVzeENJbDFxcE1fc0MzTUJyZlRKVW9KSDhJb2M2NVlub2FYdTRkWUNkenB0dVV0emo5TktwM0VTUXphdTl2a0UtVDNvS21MczBKOXotQkhudmJQUzhjMUhycHpZYTVlZmFQOUJQOERCVkdLLUpMMXc?oc=5",
+        "date": "08/12 06:07"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Stock Looks Like a Screaming Deal",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjlxWW50YUZtV3BzeEZrOUFpNTlsZ2JxcGswX1VseGoxOEI2TTFyN3FmQ21zNmRidDdXNzVtdTlCb1JQLVBDd28yM0l3aThCLXo3NnFXYUVOck9uM2RjLW12M0F2NDRUaHlkTzJUZE1DMEZ0Y0JGeHZkZmtPUGRieXg1MFRqZ1JjOVE1NTJLS18zbm8yUnVNLW5YNFlvLVE1VHc?oc=5",
+        "date": "08/11 01:05"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom Stock AVGO Slips Toward $400 as BoA Cuts Rating on XPV Credit Risks",
+        "publisher": "fxleaders.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0N6cXBHZDA5Z2tId0RwRGRkUmYxRy1rc3RxbE9pTzBobHBrb2xGeDJjOFRNR1l6VTJfaUxmdk5lWl9aMktONkZkMTRsbDE3SGQzTFctT000ZVh0anNJdGc5S0VsTDh3ZzFXZklWSnh1MDBTbXBFREFuYlVyeElVV2VwX2dCc25lNnk4ZnZVdVpySWtvMXJZS3JkWGZJLUJabnRlZm5IUU1XV19ubllnYUZQUE9MWjJsbWc?oc=5",
+        "date": "08/12 05:25"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTlMLTNTNDhGakt6NDFKT2dkS1pWOC04UUVnU1pHcFFmSE4xNkVUbUZCMm9rTUFqMmJmOXR1NGp1bFJlUUI0dUl5eUlmV0dVd1JlZWptZEo4dGdGak1YU0YtNFFZRFpJVk81R2VJQjNsZnhMRWM3WmFxNlhOUnMyVEczZVlJRUs0MWd1MnhISmZFdUdCYzVYZ3hBRnN3VXpEYXVQOXFaMlJGU0pSbWNVWTZIT3YwRWhaWlIyMlp0T1hBNXA3RjdydnZ2TXQwU0hX?oc=5",
+        "date": "08/11 09:32"
+      }
+    ],
+    "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
+        "date": "08/11 05:02"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/12 02:10"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
+        "date": "08/12 00:45"
+      },
+      {
+        "type": "positive",
+        "title": "Google Stock Price Today: GOOGL Up or Down on August 11 (Live Polymarket Odds)",
+        "publisher": "Action Network",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWlILTBTOUc3WDB1T2o1TWtkMWFVMFFhYk5SYmp0ZjMtZUdCMEpkaGUxenRhYVBJRlhaUGFnWm01cHJXV3JfWDNnVjhUdFJDTkFlbTVNeXktU0VQalBVNkZWX3ExRVFtM2FkZUtEUzdCdGNkMzhfNURBLThqWUpKZHJZWk5nOTY2clBzNTFfM3NsUHNJeGljVlNRZjQzY2dtMzBwVnhqaVByVUM5eG1V?oc=5",
+        "date": "08/11 22:25"
+      }
+    ],
+    "QCOM": [
+      {
+        "type": "positive",
+        "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
+        "date": "08/11 00:06"
+      },
+      {
+        "type": "negative",
+        "title": "Qualcomm Missed Earnings Estimates But Says the Bottom Is Near. How to Play QCOM Stock Here.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTGYzcU5kMGdiQS1qX1hORmNYN2pQZDlHc1lBdmV3Zzgtb1pBV2ZxSnJtY0VFckVKT29GcjlYdF9md0RyZl96X2JvRWlYYUhwVl9hLUdBM3JXVkxGcnpxV3pacTJmZHhmRW9uMDlUUkNDWlNzRUEteXA4NGoxVjJrMVlickhlNDYyT0NDcW1sRi01V180aTZYaWIwODZSMHlWQWFWQ0p3eVZBMDBweVo3WmNHT0YwWmhEX1VyamZtUkpGc01RbV9IaXJ3VUZYSkU?oc=5",
+        "date": "08/12 03:49"
+      },
+      {
+        "type": "negative",
+        "title": "Qualcomm (QCOM) Stock Fair Value Moves Lower As Margin Pressure Offsets AI Ambitions",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTdqX2ZxWVl4dXVDV0lLdXJ4YmRMQnBWVkdaandPYWtIbTRjajZBdzk4bFNKOWhpSHZUMHpOY2VCT2tVcTl1bm8tSmQwa2wxODJWS2dtZTVHMG5XSjgyUFlzZDU2TDk5by01bFJNWTVCQkhHZTVDWFhITVpMVWpseElFcVN0SlJmbVpYcG1vNTBXNkcxNVVkclVWOA?oc=5",
+        "date": "08/07 08:17"
+      },
+      {
+        "type": "neutral",
+        "title": "Handelsbanken Fonder AB Has $99.77 Million Stock Position in Qualcomm Incorporated $QCOM",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRDhBXzFZbkJGVWgwOEo4TV9LLXFwLS14LUJCY2VtWWZzY3RJNHZnMWZVdURPdHUxNThCWTZNbGFoLU1HcGd3LVBEU01GZjVfejh2NlpLTkJCdnZUaVBfQUpFWkEzUmh1RzlxXzdMNXhHbTl6T1dHQ1B0TDg3WTVndDk1U1A1OU55bU96Z1JlTzNjbXhUbGpjN3Jia3ZlOEJJb2hBQ3l0NmhnNHlyVmJuZFFTNnlCcDBhVGRTNVpySnVLSEpwazl1bktsUFZVSlpqMEZFamRHVTJ6OUZUaUNN?oc=5",
+        "date": "08/11 19:48"
+      }
+    ],
+    "VRT": [
+      {
+        "type": "positive",
+        "title": "3 Reasons Growth Investors Will Love Vertiv (VRT)",
+        "publisher": "Yahoo Finance Singapore",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjlRZDNyM1VzNDk2ZGZiMTFqdlh6TWRRdTVvVkRQOU9PVUY3ZW1iY0J5Ull4UjlDZXhVRmdnWVFzaEJ5bFExMzNBODlEcGdiWW1XejVkTlhXMERnLUVyYml5cGtmVkNXV2tvV19MakExNGRjTlF1MmlFSU1zdnRfR1J4M0FUVWM?oc=5",
+        "date": "08/12 01:45"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv (NYSE:VRT) Trading 4.5% Higher - Here's What Happened",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0VVaU43S3VtREZORVp4OGlCM0ExZkZkcWYzOXlUeE04T0IxYmtsYnpXcGxsaC1OSFQxaGRrMTBtMjhCRERUbVNsUzQ5cWNTUjk2LTIzM2pBYW1uYkpWa3hrbWtqMTlVSk1CWDM0NHE3cFoyU1ZBNEJGckpNMmtoa3BfVzAyN0NKeFRaMTNPWV94cWk3bGVsNTRwck1IcFl0aTIwY0k1d1VIdw?oc=5",
+        "date": "08/12 06:29"
+      },
+      {
+        "type": "positive",
+        "title": "A Look at Vertiv Holdings Co (VRT) After 4.3% Gain -- GF Value $166.93 vs Price $281.81",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjNBNExYcTl3SDFVYXUxYjkzbjlTUDJuQ0ZRLW81QktzZkJGX0J0QzQySkJZcDlLZlVsbUZ6TTU5VlFmYVhvdTVPUXlkejk1OEM3LTdaMGtJc1dOektnQURZWVhQblY5bllhWU5qdUQzZ3EtT1lmN1I4Y2xLWGlQRjFueHdWWVo4TzlfdXlLSENrN00wX3NCU2RGTGtFV3R6eEc3ajhzRzRhSlVvWHVZTXRaanNBdw?oc=5",
+        "date": "08/12 07:32"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv Gains as Investors Reassess Raised Outlook and AI Infrastructure Positioning",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWplUVJvX0R6TXZ1ME41Z0NVeUhmZjZlTEUzbGpzXzdNelNubnNUUG5meG1WdER0bzJNTERzRUlId2MzV1FPRzNPalhLQTR4dkxIdGd1LWdZWjBTcnlqcGJRRXpTa19UNkFlRWlwOU82VzBoLTBfMnpBQW1HUVJQM1pKbjUtaHBCM2t0YVhTZ2FNNEI5NlY4YmQwZVFNZ0d3bmtjUzJWWHFSSnpXQkc0c2lJbzg2RUU?oc=5",
+        "date": "08/11 23:55"
+      }
+    ]
+  }
 }
