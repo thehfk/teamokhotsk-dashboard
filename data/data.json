@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T06:51:12.810783+00:00",
+  "updatedAt": "2026-08-12T08:09:16.977459+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.28,
-        "change": -1.16
+        "value": 15.34,
+        "change": 0.39
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1417.18,
-        "change": -0.01
+        "value": 1416.69,
+        "change": -0.04
       },
       {
         "name": "KOSPI",
@@ -39,8 +39,8 @@
       },
       {
         "name": "KOSDAQ",
-        "value": 858.92,
-        "change": 0.52
+        "value": 858.91,
+        "change": 0.12
       }
     ],
     "groups": [
@@ -321,7 +321,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "05/11",
           "05/12",
           "05/13",
           "05/14",
@@ -385,13 +384,13 @@
           "08/06",
           "08/07",
           "08/10",
-          "08/11"
+          "08/11",
+          "08/12"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              18.38,
               17.99,
               17.87,
               17.26,
@@ -455,7 +454,8 @@
               15.15,
               14.9,
               15.46,
-              15.28
+              15.28,
+              15.34
             ]
           }
         ]
@@ -667,7 +667,7 @@
               1422.3,
               1407.0,
               1417.31,
-              1417.18
+              1416.69
             ]
           }
         ]
@@ -875,7 +875,8 @@
               801.67,
               798.81,
               854.47,
-              858.92
+              857.84,
+              858.91
             ]
           }
         ]
@@ -886,7 +887,7 @@
     "AVGO": 59.8,
     "GOOGL": 50.7,
     "QCOM": 40.9,
-    "VRT": 38.5
+    "VRT": 43.9
   },
   "news": {
     "AVGO": [
@@ -944,7 +945,7 @@
       {
         "type": "positive",
         "title": "Google Stock Price Today: GOOGL Up or Down on August 11 (Live Polymarket Odds)",
-        "publisher": "actionnetwork.com",
+        "publisher": "Action Network",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWlILTBTOUc3WDB1T2o1TWtkMWFVMFFhYk5SYmp0ZjMtZUdCMEpkaGUxenRhYVBJRlhaUGFnWm01cHJXV3JfWDNnVjhUdFJDTkFlbTVNeXktU0VQalBVNkZWX3ExRVFtM2FkZUtEUzdCdGNkMzhfNURBLThqWUpKZHJZWk5nOTY2clBzNTFfM3NsUHNJeGljVlNRZjQzY2dtMzBwVnhqaVByVUM5eG1V?oc=5",
         "date": "08/11 22:25"
       }
@@ -965,21 +966,28 @@
         "date": "08/12 03:49"
       },
       {
-        "type": "neutral",
-        "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
-        "publisher": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSRVJ6dVQzbDhwNWxsOGJpUVFqOERERzk4Ri1RQTRuT2lfLUlBSkVKUENsNFM3cDE4OXZQNWM1Sk1oaWVqNFBGZm93eHNQMHl0ZEg1M2g4UzJlZnpIc2FndGl3?oc=5",
-        "date": "08/11 14:55"
+        "type": "negative",
+        "title": "Qualcomm (QCOM) Stock Fair Value Moves Lower As Margin Pressure Offsets AI Ambitions",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTdqX2ZxWVl4dXVDV0lLdXJ4YmRMQnBWVkdaandPYWtIbTRjajZBdzk4bFNKOWhpSHZUMHpOY2VCT2tVcTl1bm8tSmQwa2wxODJWS2dtZTVHMG5XSjgyUFlzZDU2TDk5by01bFJNWTVCQkhHZTVDWFhITVpMVWpseElFcVN0SlJmbVpYcG1vNTBXNkcxNVVkclVWOA?oc=5",
+        "date": "08/07 08:17"
       },
       {
         "type": "neutral",
-        "title": "Handelsbanken Fonder AB Has $99.77 Million Stock Position in Qualcomm Incorporated $QCOM",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRDhBXzFZbkJGVWgwOEo4TV9LLXFwLS14LUJCY2VtWWZzY3RJNHZnMWZVdURPdHUxNThCWTZNbGFoLU1HcGd3LVBEU01GZjVfejh2NlpLTkJCdnZUaVBfQUpFWkEzUmh1RzlxXzdMNXhHbTl6T1dHQ1B0TDg3WTVndDk1U1A1OU55bU96Z1JlTzNjbXhUbGpjN3Jia3ZlOEJJb2hBQ3l0NmhnNHlyVmJuZFFTNnlCcDBhVGRTNVpySnVLSEpwazl1bktsUFZVSlpqMEZFamRHVTJ6OUZUaUNN?oc=5",
-        "date": "08/11 19:48"
+        "title": "QUALCOMM (QCOM) Faces A Fresh Test As Diversification Keeps Valuation In Focus",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORWg1X3hzSXpneFg2WVdtNVRWaU9heTNvZ0FSMUtDdm9IVWZiOFBvNnZZUUJmRUNxUlBxY2lTWVNaa1o2QkV4VkVuRTZ2bml5YnJtSFg3Ni1ldDZ1amp4alVmelFfeEpCZWhUc0licnRBb3Y4NmdGb0NGU3hmUmxVVnA2RWdCbW13Smh4U1pZWUwyd0lBQXhkYV8wMGhJajhtWWY4b0EwSnVob1Z1U0FvbFNfME1Vd3hLTmxuS1M3bHcyTnlpWWt6MFJfMU40d9IB0wFBVV95cUxNd2lsX3FyV19YMmFfb1FhTnptUndpWWF3Z3Rnc0czLTZQRFFmaFNRT3oyaVZTeHZmX1drOEEwSzhHbXB4Z2EzNUM2MHJyV1UtNjRaQlNmTE5zQnk4czNYUzJQd1N6XzFLSmJhdGZLX2VMYzBsMTVQMExGRlN0WG1VSGF1TTJkQXFZbVJiXy1hOEtTdEMySS02YjBCVmJmTFpIOFBhZXpHS1owTUtPRFVlc0lRTTBVU2RqRkVFUWNGVlY3MldIaWY3eEFGS0p1Sjh6UGZV?oc=5",
+        "date": "08/12 16:31"
       }
     ],
     "VRT": [
+      {
+        "type": "positive",
+        "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlJmOFZTYTlLWVpLbUlUajA0S3Z5X2h0QXltaFl0R3F4cV9oUDZEclJxOS1rVmRWalNCU3loQVkyc1dDT2NvQXF4OEoyTlFEbUhoTDRhQnQwZi1ISXl1ZEt3bEczbXd2YUNhcnNGZWhlMUl3em1KX3VZRV8xd1VGRzg0ZEZXdlpYbHZqRHMzMl82dDd3endMaW45bGhabi04VHg2TmtjSkcyMWpFXzJ3QVdaY0wwcV9ETnd4SlNsU2k0M041ellQSFl0dU96bFZKenUwQtIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
+        "date": "08/12 16:45"
+      },
       {
         "type": "positive",
         "title": "3 Reasons Growth Investors Will Love Vertiv (VRT)",
@@ -1000,13 +1008,6 @@
         "publisher": "GuruFocus",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjNBNExYcTl3SDFVYXUxYjkzbjlTUDJuQ0ZRLW81QktzZkJGX0J0QzQySkJZcDlLZlVsbUZ6TTU5VlFmYVhvdTVPUXlkejk1OEM3LTdaMGtJc1dOektnQURZWVhQblY5bllhWU5qdUQzZ3EtT1lmN1I4Y2xLWGlQRjFueHdWWVo4TzlfdXlLSENrN00wX3NCU2RGTGtFV3R6eEc3ajhzRzRhSlVvWHVZTXRaanNBdw?oc=5",
         "date": "08/12 07:32"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Gains as Investors Reassess Raised Outlook and AI Infrastructure Positioning",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWplUVJvX0R6TXZ1ME41Z0NVeUhmZjZlTEUzbGpzXzdNelNubnNUUG5meG1WdER0bzJNTERzRUlId2MzV1FPRzNPalhLQTR4dkxIdGd1LWdZWjBTcnlqcGJRRXpTa19UNkFlRWlwOU82VzBoLTBfMnpBQW1HUVJQM1pKbjUtaHBCM2t0YVhTZ2FNNEI5NlY4YmQwZVFNZ0d3bmtjUzJWWHFSSnpXQkc0c2lJbzg2RUU?oc=5",
-        "date": "08/11 23:55"
       }
     ]
   }
