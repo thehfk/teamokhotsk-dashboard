@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-12T12:44:24.974647+00:00",
+  "updatedAt": "2026-08-12T14:13:38.013954+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7728.2,
-        "change": -0.32
+        "value": 7745.93,
+        "change": 0.23
       },
       {
         "name": "NASDAQ",
-        "value": 26445.45,
-        "change": -0.6
+        "value": 26605.03,
+        "change": 0.6
       },
       {
         "name": "다우존스",
-        "value": 53791.85,
-        "change": -0.34
+        "value": 53768.01,
+        "change": -0.04
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.36,
-        "change": 0.52
+        "value": 14.78,
+        "change": -3.27
       },
       {
         "name": "미국10년금리",
-        "value": 4.65,
-        "change": -0.64
+        "value": 4.66,
+        "change": -0.43
       },
       {
         "name": "원달러환율",
-        "value": 1415.58,
-        "change": -0.12
+        "value": 1415.2,
+        "change": -0.15
       },
       {
         "name": "KOSPI",
@@ -109,7 +109,8 @@
           "08/06",
           "08/07",
           "08/10",
-          "08/11"
+          "08/11",
+          "08/12"
         ],
         "series": [
           {
@@ -177,7 +178,8 @@
               7709.96,
               7757.64,
               7753.11,
-              7728.2
+              7728.2,
+              7745.93
             ]
           },
           {
@@ -245,7 +247,8 @@
               26348.35,
               26690.62,
               26605.36,
-              26445.45
+              26445.45,
+              26605.03
             ]
           },
           {
@@ -313,7 +316,8 @@
               53885.1,
               54036.93,
               53975.98,
-              53791.85
+              53791.85,
+              53768.01
             ]
           }
         ]
@@ -455,7 +459,7 @@
               14.9,
               15.46,
               15.28,
-              15.36
+              14.78
             ]
           }
         ]
@@ -595,7 +599,7 @@
               4.66,
               4.7,
               4.68,
-              4.65
+              4.66
             ]
           },
           {
@@ -667,7 +671,7 @@
               1422.3,
               1407.0,
               1417.31,
-              1415.58
+              1415.2
             ]
           }
         ]
@@ -883,17 +887,17 @@
     ]
   },
   "rsi": {
-    "AVGO": 59.8,
-    "GOOGL": 50.7,
-    "QCOM": 40.9,
-    "VRT": 38.5
+    "AVGO": 64.6,
+    "GOOGL": 61.9,
+    "QCOM": 44.4,
+    "VRT": 48.2
   },
   "news": {
     "AVGO": [
       {
         "type": "neutral",
         "title": "What Is The Market Really Expecting From AVGO Stock?",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTRZSzVZd2JfMVVBVTFPcVEyamsyUEE5TGFJcVhaLXVHNTJZQmwxU0c0eVFEc09SVHk2MDBPZnBoZ3gtREVzeENJbDFxcE1fc0MzTUJyZlRKVW9KSDhJb2M2NVlub2FYdTRkWUNkenB0dVV0emo5TktwM0VTUXphdTl2a0UtVDNvS21MczBKOXotQkhudmJQUzhjMUhycHpZYTVlZmFQOUJQOERCVkdLLUpMMXc?oc=5",
         "date": "08/12 06:07"
       },
@@ -912,11 +916,11 @@
         "date": "08/10 22:33"
       },
       {
-        "type": "positive",
-        "title": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWFNXcVVzemhpT0tGdExxZi1HRV91cVlIcHVTTHZDUGYtcjQwMzhuWXNpMVk2dVB3Uko0Wk5rRjBrQjd2NU5tdUxrLVdfWk43cEk4c1QzaXpmVmQtalNoY3BsYVFnX2VXM01QTVYtWS1iSm1Edk5rNmdjQnJPUFJMeXhDMHFoV0NVcVdWdEtSeGlSYUoydWpjTA?oc=5",
-        "date": "08/09 23:00"
+        "type": "neutral",
+        "title": "Broadcom Stock Looks Like a Screaming Deal",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjlxWW50YUZtV3BzeEZrOUFpNTlsZ2JxcGswX1VseGoxOEI2TTFyN3FmQ21zNmRidDdXNzVtdTlCb1JQLVBDd28yM0l3aThCLXo3NnFXYUVOck9uM2RjLW12M0F2NDRUaHlkTzJUZE1DMEZ0Y0JGeHZkZmtPUGRieXg1MFRqZ1JjOVE1NTJLS18zbm8yUnVNLW5YNFlvLVE1VHc?oc=5",
+        "date": "08/11 01:05"
       }
     ],
     "GOOGL": [
@@ -926,6 +930,13 @@
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
         "date": "08/11 05:02"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet's Blowout Q2 Confirmed The AI Stack Thesis And Shares Are Still Undervalued (NASDAQ:GOOGL)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYldEVThveHBPUGYtVkE5OTJ3WktCSEVMbmUyZm5SbWdJNE9zWmxkdElEekVPT0dlNm4tLXlwaVQyc19uRWpOczQwMHZwUEdkbktldU9KZ0EwTnNTR3B4cHBOeEM4TGxpTi1xa3RGdWpLb3FFUU00QzRyc0l0LXRucm8wT1NHZ0hQX1l1dXRFYV93U3UtaTRobmxEUjV3ZXExVENyRlU2LXpKM2VqVTdIWUVaQW51bHVKSm1kaVpUZExaUQ?oc=5",
+        "date": "08/12 21:30"
       },
       {
         "type": "negative",
@@ -940,20 +951,20 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
         "date": "08/12 00:45"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Inc. $GOOGL Stock Holdings Increased by Central Pacific Bank Trust Division",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbkNjSVpIQWdqRFpFZkkyY05IdDBlYmVHc3NOZllQRHN2Z1JIM29KYjZqSGRYNnpWdkYzcklxR1hHSkdpbmk3TmtncjdkU1pHVW9PVHJ1Z3ppSUNrdFkxQ2NOcUpzODhWQ3Q2bWZ4dEJsZHhDOE9xblg1SFZ0SzhQSm9XUWt4NkpWbDBBZFVBNnprRXBoZ3pPbGRkUVZMNDVPcmN5cWIxRjg5a2dSOW4tU3RZSlF3R1ZkVTg0TkthY29aQWlOU2NzekxzZW15XzMtLW5BT18wOExtQW8?oc=5",
-        "date": "08/12 16:23"
       }
     ],
     "QCOM": [
       {
+        "type": "negative",
+        "title": "Qualcomm (NASDAQ: QCOM) Stock Price Slides After Earnings Miss As Management Points To China Recovery",
+        "publisher": "foreignpolicyjournal.com",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3djQ1lEV1l4dzNUQWJaZUJxS004eGxoamo4SDdiMG02cEtXU1ByX3lCNWVMOHR0T3BvOUMydXpzZk52T0NsRWRYUU54LTBWQzBYdDIwZGFxRlVvVi1RVXJfZVdqclV4Y2dWR3BZN2h1UGdzdkxQYnc0ZGVQN29VeTF0MmRxTjNiZ1F4cEdwS0xFc0JrZ1dtNFdhRm9LZ3Rfem9RY2dJcmVwdExHUUxteDZ0TGxlMVlGNjZpdDZVSTZpcUhaUVFuOW9yTEM5ZS12RE1EQnZFbXVaMHZEbTRvcQ?oc=5",
+        "date": "08/12 22:39"
+      },
+      {
         "type": "positive",
         "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
         "date": "08/11 00:06"
       },
@@ -962,7 +973,7 @@
         "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
         "publisher": "Yahoo Finance UK",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSRVJ6dVQzbDhwNWxsOGJpUVFqOERERzk4Ri1RQTRuT2lfLUlBSkVKUENsNFM3cDE4OXZQNWM1Sk1oaWVqNFBGZm93eHNQMHl0ZEg1M2g4UzJlZnpIc2FndGl3?oc=5",
-        "date": "08/11 20:42"
+        "date": "08/11 22:53"
       },
       {
         "type": "negative",
@@ -970,13 +981,6 @@
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTGYzcU5kMGdiQS1qX1hORmNYN2pQZDlHc1lBdmV3Zzgtb1pBV2ZxSnJtY0VFckVKT29GcjlYdF9md0RyZl96X2JvRWlYYUhwVl9hLUdBM3JXVkxGcnpxV3pacTJmZHhmRW9uMDlUUkNDWlNzRUEteXA4NGoxVjJrMVlickhlNDYyT0NDcW1sRi01V180aTZYaWIwODZSMHlWQWFWQ0p3eVZBMDBweVo3WmNHT0YwWmhEX1VyamZtUkpGc01RbV9IaXJ3VUZYSkU?oc=5",
         "date": "08/12 03:49"
-      },
-      {
-        "type": "neutral",
-        "title": "QUALCOMM (QCOM) Faces A Fresh Test As Diversification Keeps Valuation In Focus",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORWg1X3hzSXpneFg2WVdtNVRWaU9heTNvZ0FSMUtDdm9IVWZiOFBvNnZZUUJmRUNxUlBxY2lTWVNaa1o2QkV4VkVuRTZ2bml5YnJtSFg3Ni1ldDZ1amp4alVmelFfeEpCZWhUc0licnRBb3Y4NmdGb0NGU3hmUmxVVnA2RWdCbW13Smh4U1pZWUwyd0lBQXhkYV8wMGhJajhtWWY4b0EwSnVob1Z1U0FvbFNfME1Vd3hLTmxuS1M3bHcyTnlpWWt6MFJfMU40d9IB0wFBVV95cUxNd2lsX3FyV19YMmFfb1FhTnptUndpWWF3Z3Rnc0czLTZQRFFmaFNRT3oyaVZTeHZmX1drOEEwSzhHbXB4Z2EzNUM2MHJyV1UtNjRaQlNmTE5zQnk4czNYUzJQd1N6XzFLSmJhdGZLX2VMYzBsMTVQMExGRlN0WG1VSGF1TTJkQXFZbVJiXy1hOEtTdEMySS02YjBCVmJmTFpIOFBhZXpHS1owTUtPRFVlc0lRTTBVU2RqRkVFUWNGVlY3MldIaWY3eEFGS0p1Sjh6UGZV?oc=5",
-        "date": "08/12 16:31"
       }
     ],
     "VRT": [
