@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-13T15:28:50.436472+00:00",
+  "updatedAt": "2026-08-13T16:24:19.668478+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7783.99,
-        "change": 0.46
+        "value": 7783.07,
+        "change": 0.45
       },
       {
         "name": "NASDAQ",
-        "value": 26761.04,
-        "change": 0.65
+        "value": 26752.22,
+        "change": 0.62
       },
       {
         "name": "다우존스",
-        "value": 53632.8,
-        "change": -0.26
+        "value": 53678.75,
+        "change": -0.17
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.58,
-        "change": 0.21
+        "value": 14.67,
+        "change": 0.82
       },
       {
         "name": "미국10년금리",
-        "value": 4.63,
-        "change": -1.07
+        "value": 4.64,
+        "change": -0.85
       },
       {
         "name": "원달러환율",
-        "value": 1417.58,
-        "change": 0.38
+        "value": 1419.19,
+        "change": 0.5
       },
       {
         "name": "KOSPI",
@@ -93,15 +93,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -162,15 +159,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -179,7 +173,7 @@
               7753.11,
               7728.2,
               7748.5,
-              7783.99
+              7783.07
             ]
           },
           {
@@ -231,15 +225,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -248,7 +239,7 @@
               26605.36,
               26445.45,
               26588.49,
-              26761.04
+              26752.22
             ]
           },
           {
@@ -300,15 +291,12 @@
               52552.97,
               52146.42,
               51839.26,
-              52224.64,
-              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
-              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -317,7 +305,7 @@
               53975.98,
               53791.85,
               53770.27,
-              53632.8
+              53678.75
             ]
           }
         ]
@@ -372,15 +360,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -442,15 +427,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -459,7 +441,7 @@
               15.46,
               15.28,
               14.55,
-              14.58
+              14.67
             ]
           }
         ]
@@ -467,61 +449,12 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "05/13",
-          "05/14",
-          "05/15",
-          "05/18",
-          "05/19",
-          "05/20",
-          "05/21",
-          "05/22",
-          "05/26",
-          "05/27",
-          "05/28",
-          "05/29",
-          "06/01",
-          "06/02",
-          "06/03",
-          "06/04",
-          "06/05",
-          "06/08",
-          "06/09",
-          "06/10",
-          "06/11",
-          "06/12",
-          "06/15",
-          "06/16",
-          "06/17",
-          "06/18",
-          "06/22",
-          "06/23",
-          "06/24",
-          "06/25",
-          "06/26",
-          "06/29",
-          "06/30",
-          "07/01",
-          "07/02",
-          "07/06",
-          "07/07",
-          "07/08",
-          "07/09",
-          "07/10",
-          "07/13",
-          "07/14",
-          "07/15",
-          "07/16",
-          "07/17",
-          "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -536,61 +469,12 @@
           {
             "name": "미국10년금리",
             "data": [
-              4.48,
-              4.46,
-              4.59,
-              4.62,
-              4.67,
-              4.57,
-              4.59,
-              4.56,
-              4.49,
-              4.48,
-              4.45,
-              4.45,
-              4.47,
-              4.45,
-              4.49,
-              4.48,
-              4.54,
-              4.55,
-              4.53,
-              4.54,
-              4.46,
-              4.49,
-              4.47,
-              4.43,
-              4.46,
-              4.45,
-              4.51,
-              4.49,
-              4.4,
-              4.39,
-              4.37,
-              4.37,
-              4.42,
-              4.47,
-              4.49,
-              4.48,
-              4.53,
-              4.57,
-              4.54,
-              4.57,
-              4.61,
-              4.59,
-              4.55,
-              4.57,
-              4.54,
-              4.6,
-              4.63,
-              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
-              4.74,
               4.69,
               4.63,
               4.62,
@@ -599,7 +483,7 @@
               4.7,
               4.68,
               4.68,
-              4.63
+              4.64
             ]
           },
           {
@@ -671,7 +555,7 @@
               1407.0,
               1417.31,
               1412.18,
-              1417.58
+              1419.19
             ]
           }
         ]
@@ -725,15 +609,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -793,15 +674,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -869,7 +747,6 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
@@ -885,9 +762,9 @@
     ]
   },
   "rsi": {
-    "AVGO": 72.7,
-    "GOOGL": 61.6,
-    "QCOM": 48.4,
+    "AVGO": 72.4,
+    "GOOGL": 62.2,
+    "QCOM": 48.6,
     "VRT": 50.4
   },
   "news": {
@@ -976,7 +853,7 @@
       {
         "type": "neutral",
         "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
-        "publisher": "sg.finance.yahoo.com",
+        "publisher": "Yahoo Finance Singapore",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XQXdiemplemRuaVl6WWtkNXJSMi1tVHpWQ25NcnNkaWt6X1RmcEFvMmE3dVBpX2tZdEhrSG9uSG5Vai1vYnF3U2dXYURoS0lGT2E2WHNIbWVhXzIyVElRMzVn?oc=5",
         "date": "08/13 02:58"
       }
@@ -991,6 +868,13 @@
       },
       {
         "type": "positive",
+        "title": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUw2aGpSU2x0WDNvWHk5N3d6eTc1WW10RzF2Rk5PdUNsTzRzUGxtUnZydl8tcFhYaTV4c0NSbGRUWFB3YWp5VzFucWlOaWk1a2pwWXQxanY2ekpad2ZKZmJJZXdxMEpZUVNyU2U5ZTBiMjNPR0RrNDhDR3p5MkJ5bDBwN0g0N3ZDbDh5bjBVNlFlM0FVdGZ0eG5raEJOVlZoNS1aWlgzOHlyOW1qaDdJaVVnWEdpa0E?oc=5",
+        "date": "08/13 23:34"
+      },
+      {
+        "type": "positive",
         "title": "Vertiv (NYSE:VRT) Shares Up 2.1% - What's Next?",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPenBFM051TncyNkZCd3BtQU1mOUh2U1VtcE4wV25ZQnB1TTg0QVBDTWloUjBKeHNTVTAxS01kUHV1VE9tZEZveklKRnAxd1FtR2hXSXNrdDZjY2ZwZWtSOXZXcHFCTHUwc1dWaGlDN01NYmVsU3kxR3ktbG53Sk9DdGhBN1ViTUREcW55Y1dUcDJrWGNsd2pN?oc=5",
@@ -999,16 +883,9 @@
       {
         "type": "positive",
         "title": "3 Reasons Growth Investors Will Love Vertiv (VRT)",
-        "publisher": "sg.finance.yahoo.com",
+        "publisher": "Yahoo Finance Singapore",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjlRZDNyM1VzNDk2ZGZiMTFqdlh6TWRRdTVvVkRQOU9PVUY3ZW1iY0J5Ull4UjlDZXhVRmdnWVFzaEJ5bFExMzNBODlEcGdiWW1XejVkTlhXMERnLUVyYml5cGtmVkNXV2tvV19MakExNGRjTlF1MmlFSU1zdnRfR1J4M0FUVWM?oc=5",
         "date": "08/12 01:45"
-      },
-      {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "07/29 16:00"
       }
     ]
   }
