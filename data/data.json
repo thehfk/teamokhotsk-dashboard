@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T05:15:36.301105+00:00",
+  "updatedAt": "2026-08-13T06:54:05.323475+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1415.19,
-        "change": 0.21
+        "value": 1423.39,
+        "change": 0.79
       },
       {
         "name": "KOSPI",
-        "value": 6846.12,
-        "change": 4.06
+        "value": 6813.34,
+        "change": 3.56
       },
       {
         "name": "KOSDAQ",
-        "value": 864.62,
-        "change": 0.66
+        "value": 861.37,
+        "change": 0.29
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1407.0,
               1417.31,
               1412.18,
-              1415.19
+              1423.39
             ]
           }
         ]
@@ -807,7 +807,7 @@
               6299.66,
               6345.53,
               6579.04,
-              6846.12
+              6813.34
             ]
           },
           {
@@ -875,7 +875,7 @@
               798.81,
               854.47,
               858.91,
-              864.62
+              861.37
             ]
           }
         ]
@@ -892,17 +892,17 @@
     "AVGO": [
       {
         "type": "neutral",
+        "title": "Broadcom Stock (AVGO) Opinions on AI Infrastructure Momentum",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdHZOOGpwVy1fM25pMTB6anY5NkNoc2dOLUlOUEpQZ3NTXzRzZjl3WW92cGFBLTgtSHF6X0hoSDdESXZHUmJlelNRRDdiaWZpNENMREEtMGE5VTlZdVJET21rTFBpZGpfd09VYWNiaEg0WDV5a1RtNjItSXlqc0d3cXFGX0ZaVnlpT0Y5SkVFWnRjV2xKUE93TmlGQ3ZnUQ?oc=5",
+        "date": "08/13 02:38"
+      },
+      {
+        "type": "neutral",
         "title": "Cathie Wood buys $16.2 million of popular semiconductor stock",
         "publisher": "thestreet.com",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlpBZmtxU3VkeXVkOUpKVUNVQW5QSDUxWXpDY0dkNXRfTjYyblVheDlaQkY2QjJOS2xYLUNXXzh3OVB6dmx0YXFndlNKTGwwMWgwelMyVkZyTlotaE1sbWxuUG1JXzVzTlAwanZIVFRNWmZhaU1IUTNZd1AwZHQ4b25nWnhXbzU2N0FzdDJzOEtGVWRsQlBXTWI0MFFNSF81MkNpMjJnWQ?oc=5",
         "date": "08/13 04:07"
-      },
-      {
-        "type": "neutral",
-        "title": "What Is The Market Really Expecting From AVGO Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTRZSzVZd2JfMVVBVTFPcVEyamsyUEE5TGFJcVhaLXVHNTJZQmwxU0c0eVFEc09SVHk2MDBPZnBoZ3gtREVzeENJbDFxcE1fc0MzTUJyZlRKVW9KSDhJb2M2NVlub2FYdTRkWUNkenB0dVV0emo5TktwM0VTUXphdTl2a0UtVDNvS21MczBKOXotQkhudmJQUzhjMUhycHpZYTVlZmFQOUJQOERCVkdLLUpMMXc?oc=5",
-        "date": "08/12 06:07"
       },
       {
         "type": "neutral",
@@ -912,11 +912,11 @@
         "date": "08/13 01:54"
       },
       {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Monday?",
+        "type": "positive",
+        "title": "Broadcom Stock Is Gaining Wednesday: What's Going On?",
         "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDVQSlM3LTRxZUJVZzFlQ0ZlaGhOZVFyblcwNUExamM3bnZrUGV4aTNyT2xPSWU3QmZTRzJ0SldNYVBfNGpnbGRYYnhrMHVrUk80MnJGUHJiTExTcDV3aUVfN0tMRHA0X2hNeVFIc0Y5bl9IUmMwcFdDaFVHUDZPRUZNYUF4aFVhemRMNUw4ODYtdk5MUGtjUHVpSmU?oc=5",
-        "date": "08/10 22:33"
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFF1RUxUZzM2b2VielNBVTM2eExmUkZDTDJDcndUQXp5N0NJWGNSUGpxbURaeEVFamxSb0NCOEo1c2JVT3h5aTRKRTZYUUZ3cnNIa244T2RRWVRsa0ljZkxTOTNJby1xcjJxcUFLZW9jdGh6WWY2RUNrNXRBbjVvRnE5c2h2T1ZVMW1BRjY5Nk1pUWs5QmFsUXhfcDZ1VDVLeHlWTmhn?oc=5",
+        "date": "08/13 00:36"
       }
     ],
     "GOOGL": [
@@ -952,6 +952,13 @@
     "QCOM": [
       {
         "type": "neutral",
+        "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $408,142 of QCOM stock",
+        "publisher": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDI1eTVqZ1JOb1V1MW44OFhVS2NGVTF6eUpTTHN3aE5rZjVOZVlQdmY0Sm9VQWJEb3REUmlRRUpDWU5hTE1WMi1DYTZ6ZWpsT1dNNk5WN3hvOXBPWjlXMEk3V1EwMmNHSElOWng1eHZGbnQydzlKcmZPNHhqQWk5ODRUOWxlNWVOQUVBamp1dGpJeTZ5a0Rha2hJM2VYMWljMFBwWDFoUEZVSk1GLTFKYVpBcFJmYjJNYzRQMjY3TXBJdw?oc=5",
+        "date": "08/13 14:36"
+      },
+      {
+        "type": "neutral",
         "title": "Akash Palkhiwala Sells 2,500 Shares of Qualcomm (NASDAQ:QCOM) Stock",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRERtSTl6NEVMNkM2eDNsTHY2aDdnVlJVUXlLa2V6SFY2NU5QR3pEVFcxZFBIeXdORGZFZURVZnVkRU9kMF9famI3TWdaRWtPaFItekFUUmhyTDFoSjBmVWJRa1VwbWlla092WVRUNlk3UEdyS2d6VGdOV2FPc2J4TFhQQU9mZHBDSktlVmtaQUpYYVZUbG9WMGxhU1QtV2JVczFUUDZtTzhmT19iWGFoTUQtQWh3cFV2?oc=5",
@@ -970,13 +977,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
         "date": "08/11 00:06"
-      },
-      {
-        "type": "neutral",
-        "title": "Akash Palkhiwala (QCOM) files to sell 2,500 common shares after recent sales",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWJqX2tOMTlRenAtcUFOWnRMemVaZzloNC1oVENuYjB1a1czcTZ4NlE0akhvbG1vU21NakRKa3hVa3pXalExTi1qTDRQWEJYaTdidmxjUEVySmpsRjBRemI5ejRlQjdwUFdNNHVlNXFzd2hySDZKX1lLOHZ1cFU2QUhSQmExbzRrV3FySnJFV0x0RzNzZGFF?oc=5",
-        "date": "08/13 06:06"
       }
     ],
     "VRT": [
@@ -989,17 +989,17 @@
       },
       {
         "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQdIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
-        "date": "08/12 16:45"
-      },
-      {
-        "type": "positive",
         "title": "Vertiv Holdings Co Stock (VRT) Moved Up by 3.94% on Aug 12: What Investors Need To Know",
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdU02STgwazgtSlVoLURRVU9uZHpod0RWeVcxSVdJQkFkY2FFeHYzTi1sLWhpcUdaZC03SGgwcFVKektaNENtSlVZUUZHWXlfR2FCWnZNamtBdWNKMm5aRVlXYmhLcVlqM2RpUXVNcW15eDJPV3NyZk9SVWlodG42ZUVvWDNOc2JiNVE?oc=5",
         "date": "08/13 02:15"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQdIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
+        "date": "08/12 16:45"
       },
       {
         "type": "positive",
