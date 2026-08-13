@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-13T18:14:40.779433+00:00",
+  "updatedAt": "2026-08-13T19:32:02.292896+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7793.21,
-        "change": 0.58
+        "value": 7803.71,
+        "change": 0.71
       },
       {
         "name": "NASDAQ",
-        "value": 26784.08,
-        "change": 0.74
+        "value": 26838.04,
+        "change": 0.94
       },
       {
         "name": "다우존스",
-        "value": 53788.37,
-        "change": 0.03
+        "value": 53843.74,
+        "change": 0.14
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.68,
-        "change": 0.89
+        "value": 14.76,
+        "change": 1.44
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1418.45,
-        "change": 0.44
+        "value": 1418.17,
+        "change": 0.42
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7753.11,
               7728.2,
               7748.5,
-              7793.21
+              7803.71
             ]
           },
           {
@@ -248,7 +248,7 @@
               26605.36,
               26445.45,
               26588.49,
-              26784.08
+              26838.04
             ]
           },
           {
@@ -317,7 +317,7 @@
               53975.98,
               53791.85,
               53770.27,
-              53788.37
+              53843.74
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.46,
               15.28,
               14.55,
-              14.68
+              14.76
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1407.0,
               1417.31,
               1412.18,
-              1418.45
+              1418.17
             ]
           }
         ]
@@ -884,10 +884,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 71.7,
+    "AVGO": 71.6,
     "GOOGL": 62.4,
-    "QCOM": 48.7,
-    "VRT": 50.5
+    "QCOM": 48.2,
+    "VRT": 49.8
   },
   "news": {
     "AVGO": [
@@ -967,17 +967,17 @@
       },
       {
         "type": "neutral",
-        "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
-        "publisher": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSRVJ6dVQzbDhwNWxsOGJpUVFqOERERzk4Ri1RQTRuT2lfLUlBSkVKUENsNFM3cDE4OXZQNWM1Sk1oaWVqNFBGZm93eHNQMHl0ZEg1M2g4UzJlZnpIc2FndGl3?oc=5",
-        "date": "08/13 02:48"
-      },
-      {
-        "type": "neutral",
         "title": "Akash Palkhiwala Sells 2,500 Shares of Qualcomm (NASDAQ:QCOM) Stock",
         "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRERtSTl6NEVMNkM2eDNsTHY2aDdnVlJVUXlLa2V6SFY2NU5QR3pEVFcxZFBIeXdORGZFZURVZnVkRU9kMF9famI3TWdaRWtPaFItekFUUmhyTDFoSjBmVWJRa1VwbWlla092WVRUNlk3UEdyS2d6VGdOV2FPc2J4TFhQQU9mZHBDSktlVmtaQUpYYVZUbG9WMGxhU1QtV2JVczFUUDZtTzhmT19iWGFoTUQtQWh3cFV2?oc=5",
         "date": "08/13 08:41"
+      },
+      {
+        "type": "negative",
+        "title": "Qualcomm (NASDAQ: QCOM) Stock Price Slides After Earnings Miss As Management Points To China Recovery",
+        "publisher": "foreignpolicyjournal.com",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3djQ1lEV1l4dzNUQWJaZUJxS004eGxoamo4SDdiMG02cEtXU1ByX3lCNWVMOHR0T3BvOUMydXpzZk52T0NsRWRYUU54LTBWQzBYdDIwZGFxRlVvVi1RVXJfZVdqclV4Y2dWR3BZN2h1UGdzdkxQYnc0ZGVQN29VeTF0MmRxTjNiZ1F4cEdwS0xFc0JrZ1dtNFdhRm9LZ3Rfem9RY2dJcmVwdExHUUxteDZ0TGxlMVlGNjZpdDZVSTZpcUhaUVFuOW9yTEM5ZS12RE1EQnZFbXVaMHZEbTRvcQ?oc=5",
+        "date": "08/12 22:39"
       }
     ],
     "VRT": [
@@ -997,17 +997,17 @@
       },
       {
         "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Shares Up 2.1% - What's Next?",
-        "publisher": "marketbeat.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPenBFM051TncyNkZCd3BtQU1mOUh2U1VtcE4wV25ZQnB1TTg0QVBDTWloUjBKeHNTVTAxS01kUHV1VE9tZEZveklKRnAxd1FtR2hXSXNrdDZjY2ZwZWtSOXZXcHFCTHUwc1dWaGlDN01NYmVsU3kxR3ktbG53Sk9DdGhBN1ViTUREcW55Y1dUcDJrWGNsd2pN?oc=5",
-        "date": "08/13 06:24"
-      },
-      {
-        "type": "positive",
         "title": "3 Reasons Growth Investors Will Love Vertiv (VRT)",
         "publisher": "Yahoo Finance Singapore",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjlRZDNyM1VzNDk2ZGZiMTFqdlh6TWRRdTVvVkRQOU9PVUY3ZW1iY0J5Ull4UjlDZXhVRmdnWVFzaEJ5bFExMzNBODlEcGdiWW1XejVkTlhXMERnLUVyYml5cGtmVkNXV2tvV19MakExNGRjTlF1MmlFSU1zdnRfR1J4M0FUVWM?oc=5",
         "date": "08/12 01:45"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv (NYSE:VRT) Shares Up 2.1% - What's Next?",
+        "publisher": "marketbeat.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPenBFM051TncyNkZCd3BtQU1mOUh2U1VtcE4wV25ZQnB1TTg0QVBDTWloUjBKeHNTVTAxS01kUHV1VE9tZEZveklKRnAxd1FtR2hXSXNrdDZjY2ZwZWtSOXZXcHFCTHUwc1dWaGlDN01NYmVsU3kxR3ktbG53Sk9DdGhBN1ViTUREcW55Y1dUcDJrWGNsd2pN?oc=5",
+        "date": "08/13 06:24"
       }
     ]
   }
