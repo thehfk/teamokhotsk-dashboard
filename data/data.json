@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:30:34.740814+00:00",
+  "updatedAt": "2026-08-13T23:31:33.452069+00:00",
   "market": {
     "cards": [
       {
@@ -29,7 +29,7 @@
       },
       {
         "name": "원달러환율",
-        "value": 1418.13,
+        "value": 1418.11,
         "change": 0.12
       },
       {
@@ -485,7 +485,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1492.99,
               1489.84,
               1493.34,
               1497.15,
@@ -552,7 +551,7 @@
               1417.31,
               1412.18,
               1416.46,
-              1418.13
+              1418.11
             ]
           }
         ]
@@ -768,13 +767,6 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Broadcom (AVGO) Stock Trades Near Fair Value But At A Premium On Earnings",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzRtLVQxZExZN3F0dGdUMkVyeTlNMTdleTBnTlBvZ0JIU0FPbGE2OW53M3ZjaF9wVnh5eUkyTmF1MjNUcVNsMjU3ZlhHSVVaMlVSZlBKMkVKVUhzSlZEWFRzcW8xakZwa1R2YUNNQTdpUEFUeURIam1YM1g5eGdEelRmMV9aLXlwdkxiMUdhbUs2Vy13czVSM2VQWkg?oc=5",
-        "date": "08/13 23:10"
-      },
-      {
-        "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
@@ -786,6 +778,13 @@
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTh0NHhXQnZTR0F4Skw0cERySWl1bF9SeDV3U1pyMkQ5MlI1SUFONzAtZmI4VUx0OFRiZHVqTlYwVkZHTVJCQm9FTGJUMW5yYXpvTVVqY00wV29aaGE3cWMyTVE3bUw2eVQyUlJjN3lzMHo4WkdVRGwwNUxHMjZNZUhnbjdLdC1TZXNnS1hmVEIwWFFiT3pYWlVMb2ZCcnViUGdsN2ZxZVR1N1ZhRUJTcmdmWkQ5MkdXbGdFNGFXVi16YXJReloxdnFR0gHPAUFVX3lxTE96NWZZbmVTS2dmb2V2c1h2TWVxMzdVWTlIVF9hX1FsMEVvVUpYejR0VTZJdjExeURENTU3dU5RdWNERURMTTdNRWFfbGR1NkI1N1pxVkFGUThScjg0NkpPbHFCZUdzbGdmOUN2bnlNbEd3S2UxSDZfUS1QZHhHSkJTRkh3M0NQODFTVUtmUGdrc21pUml4eElyNkFvMm1XVWpIV0dQZmNkOVdFalBwSGR1ejF0azlTQTBYckZOajBiRGktdlZzRGZMdHlZWWhDUQ?oc=5",
         "date": "08/13 23:32"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
+        "date": "08/13 01:54"
       },
       {
         "type": "neutral",
@@ -871,18 +870,18 @@
         "date": "08/12 01:45"
       },
       {
-        "type": "positive",
-        "title": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUw2aGpSU2x0WDNvWHk5N3d6eTc1WW10RzF2Rk5PdUNsTzRzUGxtUnZydl8tcFhYaTV4c0NSbGRUWFB3YWp5VzFucWlOaWk1a2pwWXQxanY2ekpad2ZKZmJJZXdxMEpZUVNyU2U5ZTBiMjNPR0RrNDhDR3p5MkJ5bDBwN0g0N3ZDbDh5bjBVNlFlM0FVdGZ0eG5raEJOVlZoNS1aWlgzOHlyOW1qaDdJaVVnWEdpa0E?oc=5",
-        "date": "08/13 23:34"
-      },
-      {
         "type": "negative",
         "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
         "date": "07/29 16:00"
+      },
+      {
+        "type": "positive",
+        "title": "Can Strong AI Data Center Demand Help NVT Challenge VRT & SMCI?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUw2aGpSU2x0WDNvWHk5N3d6eTc1WW10RzF2Rk5PdUNsTzRzUGxtUnZydl8tcFhYaTV4c0NSbGRUWFB3YWp5VzFucWlOaWk1a2pwWXQxanY2ekpad2ZKZmJJZXdxMEpZUVNyU2U5ZTBiMjNPR0RrNDhDR3p5MkJ5bDBwN0g0N3ZDbDh5bjBVNlFlM0FVdGZ0eG5raEJOVlZoNS1aWlgzOHlyOW1qaDdJaVVnWEdpa0E?oc=5",
+        "date": "08/13 23:34"
       }
     ]
   }
