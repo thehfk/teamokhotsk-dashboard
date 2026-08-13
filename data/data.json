@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-08-13T14:15:39.937151+00:00",
+  "updatedAt": "2026-08-13T15:28:50.436472+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7807.8,
-        "change": 0.77
+        "value": 7783.99,
+        "change": 0.46
       },
       {
         "name": "NASDAQ",
-        "value": 26846.28,
-        "change": 0.97
+        "value": 26761.04,
+        "change": 0.65
       },
       {
         "name": "다우존스",
-        "value": 53973.35,
-        "change": 0.38
+        "value": 53632.8,
+        "change": -0.26
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.64,
-        "change": 0.62
+        "value": 14.58,
+        "change": 0.21
       },
       {
         "name": "미국10년금리",
-        "value": 4.62,
-        "change": -1.28
+        "value": 4.63,
+        "change": -1.07
       },
       {
         "name": "원달러환율",
-        "value": 1417.51,
+        "value": 1417.58,
         "change": 0.38
       },
       {
         "name": "KOSPI",
-        "value": 6813.34,
-        "change": 3.56
+        "value": 6579.04,
+        "change": 3.68
       },
       {
         "name": "KOSDAQ",
-        "value": 861.37,
-        "change": 0.29
+        "value": 858.91,
+        "change": 0.12
       }
     ],
     "groups": [
@@ -93,12 +93,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -159,12 +162,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -173,7 +179,7 @@
               7753.11,
               7728.2,
               7748.5,
-              7807.8
+              7783.99
             ]
           },
           {
@@ -242,7 +248,7 @@
               26605.36,
               26445.45,
               26588.49,
-              26846.28
+              26761.04
             ]
           },
           {
@@ -294,12 +300,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -308,7 +317,7 @@
               53975.98,
               53791.85,
               53770.27,
-              53973.35
+              53632.8
             ]
           }
         ]
@@ -450,7 +459,7 @@
               15.46,
               15.28,
               14.55,
-              14.64
+              14.58
             ]
           }
         ]
@@ -458,12 +467,61 @@
       {
         "name": "환율 / 금리",
         "labels": [
+          "05/13",
+          "05/14",
+          "05/15",
+          "05/18",
+          "05/19",
+          "05/20",
+          "05/21",
+          "05/22",
+          "05/26",
+          "05/27",
+          "05/28",
+          "05/29",
+          "06/01",
+          "06/02",
+          "06/03",
+          "06/04",
+          "06/05",
+          "06/08",
+          "06/09",
+          "06/10",
+          "06/11",
+          "06/12",
+          "06/15",
+          "06/16",
+          "06/17",
+          "06/18",
+          "06/22",
+          "06/23",
+          "06/24",
+          "06/25",
+          "06/26",
+          "06/29",
+          "06/30",
+          "07/01",
+          "07/02",
+          "07/06",
+          "07/07",
+          "07/08",
+          "07/09",
+          "07/10",
+          "07/13",
+          "07/14",
+          "07/15",
+          "07/16",
+          "07/17",
+          "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -478,12 +536,61 @@
           {
             "name": "미국10년금리",
             "data": [
+              4.48,
+              4.46,
+              4.59,
+              4.62,
+              4.67,
+              4.57,
+              4.59,
+              4.56,
+              4.49,
+              4.48,
+              4.45,
+              4.45,
+              4.47,
+              4.45,
+              4.49,
+              4.48,
+              4.54,
+              4.55,
+              4.53,
+              4.54,
+              4.46,
+              4.49,
+              4.47,
+              4.43,
+              4.46,
+              4.45,
+              4.51,
+              4.49,
+              4.4,
+              4.39,
+              4.37,
+              4.37,
+              4.42,
+              4.47,
+              4.49,
+              4.48,
+              4.53,
+              4.57,
+              4.54,
+              4.57,
+              4.61,
+              4.59,
+              4.55,
+              4.57,
+              4.54,
+              4.6,
+              4.63,
+              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
+              4.74,
               4.69,
               4.63,
               4.62,
@@ -492,7 +599,7 @@
               4.7,
               4.68,
               4.68,
-              4.62
+              4.63
             ]
           },
           {
@@ -564,7 +671,7 @@
               1407.0,
               1417.31,
               1412.18,
-              1417.51
+              1417.58
             ]
           }
         ]
@@ -618,12 +725,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -631,8 +741,7 @@
           "08/07",
           "08/10",
           "08/11",
-          "08/12",
-          "08/13"
+          "08/12"
         ],
         "series": [
           {
@@ -684,12 +793,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -697,8 +809,7 @@
               6258.77,
               6299.66,
               6345.53,
-              6579.04,
-              6813.34
+              6579.04
             ]
           },
           {
@@ -758,6 +869,7 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
@@ -765,8 +877,7 @@
               798.81,
               854.47,
               857.84,
-              858.91,
-              861.37
+              858.91
             ]
           }
         ]
@@ -774,13 +885,20 @@
     ]
   },
   "rsi": {
-    "AVGO": 72.8,
-    "GOOGL": 62.3,
-    "QCOM": 49.4,
-    "VRT": 49.6
+    "AVGO": 72.7,
+    "GOOGL": 61.6,
+    "QCOM": 48.4,
+    "VRT": 50.4
   },
   "news": {
     "AVGO": [
+      {
+        "type": "negative",
+        "title": "Is Broadcom (AVGO) Stock Above Fair Value After Its 15% Drop?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTh0NHhXQnZTR0F4Skw0cERySWl1bF9SeDV3U1pyMkQ5MlI1SUFONzAtZmI4VUx0OFRiZHVqTlYwVkZHTVJCQm9FTGJUMW5yYXpvTVVqY00wV29aaGE3cWMyTVE3bUw2eVQyUlJjN3lzMHo4WkdVRGwwNUxHMjZNZUhnbjdLdC1TZXNnS1hmVEIwWFFiT3pYWlVMb2ZCcnViUGdsN2ZxZVR1N1ZhRUJTcmdmWkQ5MkdXbGdFNGFXVi16YXJReloxdnFR0gHPAUFVX3lxTE96NWZZbmVTS2dmb2V2c1h2TWVxMzdVWTlIVF9hX1FsMEVvVUpYejR0VTZJdjExeURENTU3dU5RdWNERURMTTdNRWFfbGR1NkI1N1pxVkFGUThScjg0NkpPbHFCZUdzbGdmOUN2bnlNbEd3S2UxSDZfUS1QZHhHSkJTRkh3M0NQODFTVUtmUGdrc21pUml4eElyNkFvMm1XVWpIV0dQZmNkOVdFalBwSGR1ejF0azlTQTBYckZOajBiRGktdlZzRGZMdHlZWWhDUQ?oc=5",
+        "date": "08/13 23:32"
+      },
       {
         "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
@@ -797,17 +915,10 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom Stock (AVGO) Opinions on AI Infrastructure Momentum",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdHZOOGpwVy1fM25pMTB6anY5NkNoc2dOLUlOUEpQZ3NTXzRzZjl3WW92cGFBLTgtSHF6X0hoSDdESXZHUmJlelNRRDdiaWZpNENMREEtMGE5VTlZdVJET21rTFBpZGpfd09VYWNiaEg0WDV5a1RtNjItSXlqc0d3cXFGX0ZaVnlpT0Y5SkVFWnRjV2xKUE93TmlGQ3ZnUQ?oc=5",
-        "date": "08/13 02:38"
-      },
-      {
-        "type": "neutral",
-        "title": "AVGO Stock Price Prediction 2025-2026 | Broadcom Inc Forecast",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVF9KTmxzUkxtazFCcTRELWM4aE1pSWFIeGdLS2lRb2gxdUgyQUo3MWJuU0M0bHhKWWMwUVNNMnNGSmlvR2FRU2swcVBhS0thTjFHTUEyc2pGSXFOaUZCazZfS25oUU1sOVV2RE1Xdlh1LU9qc001VFRpUGdhWFRWQUY5MWZYaVFERGxVWnZ4OFlmZw?oc=5",
-        "date": "08/13 13:27"
+        "title": "What's Going On With Broadcom Stock Thursday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3dLS2E2MXpEaDhLbWNGaTUwRlpHbW1GX3F1YTQ4M3pSOUVxLVFhQkhkb214a3R3S0xQVVh4UWlWd3lLdWtreWpyMzRPMlFNT04tNUtTMXdmV1VpY0swcG1DVDZDN3BpSFRoWWFreFZEWTZEd1U3ek44U1BYVzJna3NRcjE4OVU2QUh4b0VxR2dhVURPTjQ3SXlmVEVpeVE?oc=5",
+        "date": "08/13 23:09"
       }
     ],
     "GOOGL": [
@@ -826,18 +937,18 @@
         "date": "08/11 05:02"
       },
       {
-        "type": "positive",
-        "title": "GOOGL Stock Tops Retail Pick Over AMZN, META, MSFT For Next 12 Months – But META Leads Wall Street Upside",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUZ4SmtrZUFYMENoLWF3eTZEd1FSR2lkZktWQlJqZDFJNmI0VVVLcE1kUE9vWDdFU05Mdm5Qb25naFJDclVrZ3psRnBLVUlxaU5HcjRzeWJQYnN3bk5CcUlDQ1h0c3hGT0dXN29TX0pfc3pqWXBOT2twR2dGV3JaMWI5THNaQ3pDUGctZnlaUlM0dmFBZUxvdg?oc=5",
-        "date": "08/13 20:03"
-      },
-      {
         "type": "negative",
         "title": "Alphabet's Blowout Q2 Confirmed The AI Stack Thesis, And Shares Are Still Undervalued",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYldEVThveHBPUGYtVkE5OTJ3WktCSEVMbmUyZm5SbWdJNE9zWmxkdElEekVPT0dlNm4tLXlwaVQyc19uRWpOczQwMHZwUEdkbktldU9KZ0EwTnNTR3B4cHBOeEM4TGxpTi1xa3RGdWpLb3FFUU00QzRyc0l0LXRucm8wT1NHZ0hQX1l1dXRFYV93U3UtaTRobmxEUjV3ZXExVENyRlU2LXpKM2VqVTdIWUVaQW51bHVKSm1kaVpUZExaUQ?oc=5",
         "date": "08/12 21:30"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
+        "date": "08/12 00:45"
       }
     ],
     "QCOM": [
@@ -864,10 +975,10 @@
       },
       {
         "type": "neutral",
-        "title": "Akash Palkhiwala (QCOM) files to sell 2,500 common shares after recent sales",
-        "publisher": "stocktitan.net",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWJqX2tOMTlRenAtcUFOWnRMemVaZzloNC1oVENuYjB1a1czcTZ4NlE0akhvbG1vU21NakRKa3hVa3pXalExTi1qTDRQWEJYaTdidmxjUEVySmpsRjBRemI5ejRlQjdwUFdNNHVlNXFzd2hySDZKX1lLOHZ1cFU2QUhSQmExbzRrV3FySnJFV0x0RzNzZGFF?oc=5",
-        "date": "08/13 06:06"
+        "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
+        "publisher": "sg.finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XQXdiemplemRuaVl6WWtkNXJSMi1tVHpWQ25NcnNkaWt6X1RmcEFvMmE3dVBpX2tZdEhrSG9uSG5Vai1vYnF3U2dXYURoS0lGT2E2WHNIbWVhXzIyVElRMzVn?oc=5",
+        "date": "08/13 02:58"
       }
     ],
     "VRT": [
@@ -888,7 +999,7 @@
       {
         "type": "positive",
         "title": "3 Reasons Growth Investors Will Love Vertiv (VRT)",
-        "publisher": "Yahoo Finance Singapore",
+        "publisher": "sg.finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjlRZDNyM1VzNDk2ZGZiMTFqdlh6TWRRdTVvVkRQOU9PVUY3ZW1iY0J5Ull4UjlDZXhVRmdnWVFzaEJ5bFExMzNBODlEcGdiWW1XejVkTlhXMERnLUVyYml5cGtmVkNXV2tvV19MakExNGRjTlF1MmlFSU1zdnRfR1J4M0FUVWM?oc=5",
         "date": "08/12 01:45"
       },
