@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-13T12:45:29.099564+00:00",
+  "updatedAt": "2026-08-13T14:15:39.937151+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7748.5,
-        "change": 0.26
+        "value": 7807.8,
+        "change": 0.77
       },
       {
         "name": "NASDAQ",
-        "value": 26588.49,
-        "change": 0.54
+        "value": 26846.28,
+        "change": 0.97
       },
       {
         "name": "다우존스",
-        "value": 53770.27,
-        "change": -0.04
+        "value": 53973.35,
+        "change": 0.38
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.56,
-        "change": 0.07
+        "value": 14.64,
+        "change": 0.62
       },
       {
         "name": "미국10년금리",
-        "value": 4.66,
-        "change": -0.43
+        "value": 4.62,
+        "change": -1.28
       },
       {
         "name": "원달러환율",
-        "value": 1420.99,
-        "change": 0.62
+        "value": 1417.51,
+        "change": 0.38
       },
       {
         "name": "KOSPI",
@@ -106,7 +106,8 @@
           "08/07",
           "08/10",
           "08/11",
-          "08/12"
+          "08/12",
+          "08/13"
         ],
         "series": [
           {
@@ -171,7 +172,8 @@
               7757.64,
               7753.11,
               7728.2,
-              7748.5
+              7748.5,
+              7807.8
             ]
           },
           {
@@ -223,12 +225,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -236,7 +241,8 @@
               26690.62,
               26605.36,
               26445.45,
-              26588.49
+              26588.49,
+              26846.28
             ]
           },
           {
@@ -301,7 +307,8 @@
               54036.93,
               53975.98,
               53791.85,
-              53770.27
+              53770.27,
+              53973.35
             ]
           }
         ]
@@ -356,12 +363,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -423,12 +433,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -437,7 +450,7 @@
               15.46,
               15.28,
               14.55,
-              14.56
+              14.64
             ]
           }
         ]
@@ -479,7 +492,7 @@
               4.7,
               4.68,
               4.68,
-              4.66
+              4.62
             ]
           },
           {
@@ -551,7 +564,7 @@
               1407.0,
               1417.31,
               1412.18,
-              1420.99
+              1417.51
             ]
           }
         ]
@@ -761,26 +774,26 @@
     ]
   },
   "rsi": {
-    "AVGO": 62.6,
-    "GOOGL": 62.1,
-    "QCOM": 44.0,
-    "VRT": 45.2
+    "AVGO": 72.8,
+    "GOOGL": 62.3,
+    "QCOM": 49.4,
+    "VRT": 49.6
   },
   "news": {
     "AVGO": [
-      {
-        "type": "neutral",
-        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
-        "date": "08/13 01:54"
-      },
       {
         "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
         "date": "08/11 11:20"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
+        "date": "08/13 01:54"
       },
       {
         "type": "neutral",
@@ -850,11 +863,11 @@
         "date": "08/11 00:06"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm (NASDAQ: QCOM) Stock Price Slides After Earnings Miss As Management Points To China Recovery",
-        "publisher": "foreignpolicyjournal.com",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3djQ1lEV1l4dzNUQWJaZUJxS004eGxoamo4SDdiMG02cEtXU1ByX3lCNWVMOHR0T3BvOUMydXpzZk52T0NsRWRYUU54LTBWQzBYdDIwZGFxRlVvVi1RVXJfZVdqclV4Y2dWR3BZN2h1UGdzdkxQYnc0ZGVQN29VeTF0MmRxTjNiZ1F4cEdwS0xFc0JrZ1dtNFdhRm9LZ3Rfem9RY2dJcmVwdExHUUxteDZ0TGxlMVlGNjZpdDZVSTZpcUhaUVFuOW9yTEM5ZS12RE1EQnZFbXVaMHZEbTRvcQ?oc=5",
-        "date": "08/12 22:39"
+        "type": "neutral",
+        "title": "Akash Palkhiwala (QCOM) files to sell 2,500 common shares after recent sales",
+        "publisher": "stocktitan.net",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWJqX2tOMTlRenAtcUFOWnRMemVaZzloNC1oVENuYjB1a1czcTZ4NlE0akhvbG1vU21NakRKa3hVa3pXalExTi1qTDRQWEJYaTdidmxjUEVySmpsRjBRemI5ejRlQjdwUFdNNHVlNXFzd2hySDZKX1lLOHZ1cFU2QUhSQmExbzRrV3FySnJFV0x0RzNzZGFF?oc=5",
+        "date": "08/13 06:06"
       }
     ],
     "VRT": [
@@ -880,11 +893,11 @@
         "date": "08/12 01:45"
       },
       {
-        "type": "positive",
-        "title": "Vertiv Holdings Co Stock (VRT) Moved Up by 3.94% on Aug 12: What Investors Need To Know",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdU02STgwazgtSlVoLURRVU9uZHpod0RWeVcxSVdJQkFkY2FFeHYzTi1sLWhpcUdaZC03SGgwcFVKektaNENtSlVZUUZHWXlfR2FCWnZNamtBdWNKMm5aRVlXYmhLcVlqM2RpUXVNcW15eDJPV3NyZk9SVWlodG42ZUVvWDNOc2JiNVE?oc=5",
-        "date": "08/13 02:15"
+        "type": "negative",
+        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
+        "date": "07/29 16:00"
       }
     ]
   }
