@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-14T19:25:25.546109+00:00",
+  "updatedAt": "2026-08-14T20:01:43.532641+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7783.11,
-        "change": -0.2
+        "value": 7785.73,
+        "change": -0.17
       },
       {
         "name": "NASDAQ",
-        "value": 26692.61,
-        "change": -0.41
+        "value": 26729.16,
+        "change": -0.28
       },
       {
         "name": "다우존스",
-        "value": 53773.22,
-        "change": -0.12
+        "value": 53732.53,
+        "change": -0.2
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.41,
-        "change": -1.5
+        "value": 14.29,
+        "change": -2.32
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1415.81,
-        "change": -0.05
+        "value": 1416.71,
+        "change": -0.01
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "05/14",
           "05/15",
           "05/18",
           "05/19",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7501.24,
               7408.5,
               7403.05,
               7353.61,
@@ -179,13 +177,12 @@
               7728.2,
               7748.5,
               7798.99,
-              7783.11
+              7785.73
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              26635.22,
               26225.14,
               26090.73,
               25870.71,
@@ -248,13 +245,12 @@
               26445.45,
               26588.49,
               26803.03,
-              26692.61
+              26729.16
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              50063.46,
               49526.17,
               49686.12,
               49363.88,
@@ -317,7 +313,7 @@
               53791.85,
               53770.27,
               53839.99,
-              53773.22
+              53732.53
             ]
           }
         ]
@@ -459,7 +455,7 @@
               15.28,
               14.55,
               14.63,
-              14.41
+              14.29
             ]
           }
         ]
@@ -671,7 +667,8 @@
               1417.31,
               1412.18,
               1416.46,
-              1415.81
+              1416.85,
+              1416.71
             ]
           }
         ]
@@ -884,27 +881,13 @@
     ]
   },
   "rsi": {
-    "AVGO": 54.1,
-    "GOOGL": 59.4,
-    "QCOM": 46.3,
-    "VRT": 51.9
+    "AVGO": 54.5,
+    "GOOGL": 59.6,
+    "QCOM": 46.6,
+    "VRT": 52.0
   },
   "news": {
     "AVGO": [
-      {
-        "type": "neutral",
-        "title": "Cathie Wood buys $16.2 million of popular semiconductor stock",
-        "publisher": "thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlpBZmtxU3VkeXVkOUpKVUNVQW5QSDUxWXpDY0dkNXRfTjYyblVheDlaQkY2QjJOS2xYLUNXXzh3OVB6dmx0YXFndlNKTGwwMWgwelMyVkZyTlotaE1sbWxuUG1JXzVzTlAwanZIVFRNWmZhaU1IUTNZd1AwZHQ4b25nWnhXbzU2N0FzdDJzOEtGVWRsQlBXTWI0MFFNSF81MkNpMjJnWQ?oc=5",
-        "date": "08/13 04:07"
-      },
-      {
-        "type": "neutral",
-        "title": "Why Broadcom (AVGO) Stock Is Sinking Today – August 14, 2026",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTFWNXlaZ2xIdXVwVzJ3U2tEWmR2eE5EVGFJZzFPbjc0YTY1NmtxTDZReFBmR1ZlZGFIZXBLMVkxUHZEMFBVSkhMNWhlOURjMDJtSkdySTVjOXU2T2dDMFRxUDBKR1hCYW02TjJmSGw4WlVhQkZOQVVqYlc5d2Y2U0ZNNlpqb1lPNjBwV0N3?oc=5",
-        "date": "08/15 03:28"
-      },
       {
         "type": "neutral",
         "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
@@ -913,11 +896,25 @@
         "date": "08/13 01:54"
       },
       {
+        "type": "neutral",
+        "title": "Cathie Wood buys $16.2 million of popular semiconductor stock",
+        "publisher": "thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlpBZmtxU3VkeXVkOUpKVUNVQW5QSDUxWXpDY0dkNXRfTjYyblVheDlaQkY2QjJOS2xYLUNXXzh3OVB6dmx0YXFndlNKTGwwMWgwelMyVkZyTlotaE1sbWxuUG1JXzVzTlAwanZIVFRNWmZhaU1IUTNZd1AwZHQ4b25nWnhXbzU2N0FzdDJzOEtGVWRsQlBXTWI0MFFNSF81MkNpMjJnWQ?oc=5",
+        "date": "08/13 04:07"
+      },
+      {
         "type": "positive",
         "title": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0hyZnY3TkdSZGV2VFByUXZGbHdZRTQ1UmVhaVdHcEJrR1VrblZtbGdJY0xHSTFhQ2tFT3E0cTZSaWdHb2l3dXl6N1c2Z3hlRUZSOXliT2JVY01rY0M4djFzdHhRMEkzTDBudklpVVYzc2JQREFGZko3NXZ1eE8zNDZ4eG9KbmNVejZBOXc3SkpzdWItMEVNXzRtaDBHYWMtcHJsMw?oc=5",
         "date": "08/14 18:35"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom Shares Plunge on Major VMware Security Threat",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXRvbDk4VjdMY1FlV2lWeFRCR1FXSGJrNDhyaXVNdl9Qd1F2N3pPSVJjU3lnc0RISGZmZFBaVnBkdzFJRmVzQjVQbkE3WnlfdHpUTTVuTHg2ZjhMRHZIOXlkRGdpbnhpSHc3ZElyOUd0SWFuVDR4UjM2aHNqZ2N4eHVIRUZRMTJhSU1LZWRheURGZHVudEE2M1pkakctT0thWUdoZU92OHR3eUtQVXV0dG93U0k?oc=5",
+        "date": "08/15 03:24"
       }
     ],
     "GOOGL": [
