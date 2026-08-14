@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:04:51.179002+00:00",
+  "updatedAt": "2026-08-14T03:33:31.789614+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1415.88,
-        "change": -0.04
+        "value": 1412.33,
+        "change": -0.29
       },
       {
         "name": "KOSPI",
-        "value": 6962.8,
-        "change": 5.83
+        "value": 6883.67,
+        "change": 4.63
       },
       {
         "name": "KOSDAQ",
-        "value": 866.57,
-        "change": 0.89
+        "value": 851.81,
+        "change": -0.83
       }
     ],
     "groups": [
@@ -551,7 +551,7 @@
               1417.31,
               1412.18,
               1416.46,
-              1415.88
+              1412.33
             ]
           }
         ]
@@ -683,7 +683,7 @@
               6299.66,
               6345.53,
               6579.04,
-              6962.8
+              6883.67
             ]
           },
           {
@@ -750,7 +750,7 @@
               854.47,
               857.84,
               858.91,
-              866.57
+              851.81
             ]
           }
         ]
@@ -788,10 +788,10 @@
       },
       {
         "type": "neutral",
-        "title": "What Is The Market Really Expecting From AVGO Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTRZSzVZd2JfMVVBVTFPcVEyamsyUEE5TGFJcVhaLXVHNTJZQmwxU0c0eVFEc09SVHk2MDBPZnBoZ3gtREVzeENJbDFxcE1fc0MzTUJyZlRKVW9KSDhJb2M2NVlub2FYdTRkWUNkenB0dVV0emo5TktwM0VTUXphdTl2a0UtVDNvS21MczBKOXotQkhudmJQUzhjMUhycHpZYTVlZmFQOUJQOERCVkdLLUpMMXc?oc=5",
-        "date": "08/12 06:07"
+        "title": "What's Going On With Broadcom Stock Thursday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3dLS2E2MXpEaDhLbWNGaTUwRlpHbW1GX3F1YTQ4M3pSOUVxLVFhQkhkb214a3R3S0xQVVh4UWlWd3lLdWtreWpyMzRPMlFNT04tNUtTMXdmV1VpY0swcG1DVDZDN3BpSFRoWWFreFZEWTZEd1U3ek44U1BYVzJna3NRcjE4OVU2QUh4b0VxR2dhVURPTjQ3SXlmVEVpeVE?oc=5",
+        "date": "08/13 23:09"
       }
     ],
     "GOOGL": [
@@ -840,18 +840,18 @@
         "date": "08/14 07:12"
       },
       {
-        "type": "neutral",
-        "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $408,142 of QCOM stock",
-        "publisher": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVWI0UkMzbzB3LW5kajV6MXBXSlhwUVI5ak9wOFF1Vjl3TVdCb2JrYzZZSk1rMTVDdXF0UnM4YV8yWTZyc3FCMDJ0S0E1S0JGbnE0NkQ1b2xVR1dOQlZIbGNCX1hrZGRXZERmTGdYU0pCNk94V2psa3pSNjNIWVV2MTVoYzdMWGNyWFV3VWdvT0hlLVJDVVh2bGJ3alQ1bU1saGZmTGUxQXNtWUZKS3ZnZTJBUHZMZE5hbTdzWk15eERFaU03VjFJRTRvMXA?oc=5",
-        "date": "08/13 14:31"
-      },
-      {
         "type": "negative",
         "title": "Qualcomm (NASDAQ: QCOM) Stock Price Slides After Earnings Miss As Management Points To China Recovery",
         "publisher": "foreignpolicyjournal.com",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3djQ1lEV1l4dzNUQWJaZUJxS004eGxoamo4SDdiMG02cEtXU1ByX3lCNWVMOHR0T3BvOUMydXpzZk52T0NsRWRYUU54LTBWQzBYdDIwZGFxRlVvVi1RVXJfZVdqclV4Y2dWR3BZN2h1UGdzdkxQYnc0ZGVQN29VeTF0MmRxTjNiZ1F4cEdwS0xFc0JrZ1dtNFdhRm9LZ3Rfem9RY2dJcmVwdExHUUxteDZ0TGxlMVlGNjZpdDZVSTZpcUhaUVFuOW9yTEM5ZS12RE1EQnZFbXVaMHZEbTRvcQ?oc=5",
         "date": "08/12 22:39"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $408,142 of QCOM stock",
+        "publisher": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVWI0UkMzbzB3LW5kajV6MXBXSlhwUVI5ak9wOFF1Vjl3TVdCb2JrYzZZSk1rMTVDdXF0UnM4YV8yWTZyc3FCMDJ0S0E1S0JGbnE0NkQ1b2xVR1dOQlZIbGNCX1hrZGRXZERmTGdYU0pCNk94V2psa3pSNjNIWVV2MTVoYzdMWGNyWFV3VWdvT0hlLVJDVVh2bGJ3alQ1bU1saGZmTGUxQXNtWUZKS3ZnZTJBUHZMZE5hbTdzWk15eERFaU03VjFJRTRvMXA?oc=5",
+        "date": "08/13 14:31"
       }
     ],
     "VRT": [
