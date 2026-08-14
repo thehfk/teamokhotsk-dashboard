@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-14T16:12:03.957617+00:00",
+  "updatedAt": "2026-08-14T17:23:57.902623+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7784.45,
-        "change": -0.19
+        "value": 7781.15,
+        "change": -0.23
       },
       {
         "name": "NASDAQ",
-        "value": 26697.57,
-        "change": -0.39
+        "value": 26687.1,
+        "change": -0.43
       },
       {
         "name": "다우존스",
-        "value": 53695.03,
-        "change": -0.27
+        "value": 53734.74,
+        "change": -0.2
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.6,
-        "change": -0.21
+        "value": 14.46,
+        "change": -1.16
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1414.5,
-        "change": -0.14
+        "value": 1415.53,
+        "change": -0.07
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7728.2,
               7748.5,
               7798.99,
-              7784.45
+              7781.15
             ]
           },
           {
@@ -248,7 +248,7 @@
               26445.45,
               26588.49,
               26803.03,
-              26697.57
+              26687.1
             ]
           },
           {
@@ -317,7 +317,7 @@
               53791.85,
               53770.27,
               53839.99,
-              53695.03
+              53734.74
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.28,
               14.55,
               14.63,
-              14.6
+              14.46
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1417.31,
               1412.18,
               1416.46,
-              1414.5
+              1415.53
             ]
           }
         ]
@@ -884,10 +884,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 55.6,
-    "GOOGL": 58.9,
-    "QCOM": 45.2,
-    "VRT": 51.3
+    "AVGO": 53.7,
+    "GOOGL": 59.0,
+    "QCOM": 45.3,
+    "VRT": 51.7
   },
   "news": {
     "AVGO": [
@@ -899,13 +899,6 @@
         "date": "08/13 04:07"
       },
       {
-        "type": "neutral",
-        "title": "NVDA, MRVL, AVGO — 3 Semiconductor Stocks to Buy Ahead of Earnings, According to Analysts",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3p6TUFwNzZZejluREYyRG9panNQSlVPc1g0TFQ0T19KVkVkMmhiOVFYNzk0VnRqWU9WbWZlbnBMSm5tS3hnSnFFNDZKQkFJaDZYUG9oTzRMcE1LWHJrdndmMTlpV3BzMlI5dGlrS1lYNVdONUY4X29kQ00ydmtud0RRV2VZV0I5STJUSFF5YnZ6ZlBFU2VrTGVxRjBzZDlFRnJkUG1IemtSXzhHVTB0MjhDRE8?oc=5",
-        "date": "08/14 22:24"
-      },
-      {
         "type": "positive",
         "title": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
@@ -914,19 +907,33 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
+        "title": "Broadcom (AVGO) Stock Trades Near Fair Value But At A Premium On Earnings",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
-        "date": "08/13 01:54"
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzRtLVQxZExZN3F0dGdUMkVyeTlNMTdleTBnTlBvZ0JIU0FPbGE2OW53M3ZjaF9wVnh5eUkyTmF1MjNUcVNsMjU3ZlhHSVVaMlVSZlBKMkVKVUhzSlZEWFRzcW8xakZwa1R2YUNNQTdpUEFUeURIam1YM1g5eGdEelRmMV9aLXlwdkxiMUdhbUs2Vy13czVSM2VQWkg?oc=5",
+        "date": "08/13 23:10"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Broadcom Stock Thursday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3dLS2E2MXpEaDhLbWNGaTUwRlpHbW1GX3F1YTQ4M3pSOUVxLVFhQkhkb214a3R3S0xQVVh4UWlWd3lLdWtreWpyMzRPMlFNT04tNUtTMXdmV1VpY0swcG1DVDZDN3BpSFRoWWFreFZEWTZEd1U3ek44U1BYVzJna3NRcjE4OVU2QUh4b0VxR2dhVURPTjQ3SXlmVEVpeVE?oc=5",
+        "date": "08/13 23:09"
       }
     ],
     "GOOGL": [
       {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "type": "positive",
+        "title": "GOOGL Stock Tops Retail Pick Over AMZN, META, MSFT For Next 12 Months – But META Leads Wall Street Upside",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/12 02:10"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUZ4SmtrZUFYMENoLWF3eTZEd1FSR2lkZktWQlJqZDFJNmI0VVVLcE1kUE9vWDdFU05Mdm5Qb25naFJDclVrZ3psRnBLVUlxaU5HcjRzeWJQYnN3bk5CcUlDQ1h0c3hGT0dXN29TX0pfc3pqWXBOT2twR2dGV3JaMWI5THNaQ3pDUGctZnlaUlM0dmFBZUxvdg?oc=5",
+        "date": "08/13 20:03"
+      },
+      {
+        "type": "positive",
+        "title": "The Sign Before Alphabet Stock’s Surge Was Google Cloud’s Margin, Not Its Growth",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT2V0VGJBdF94Y25sUDFla1NBM0tzSjhqUmh2YzUwTDdHQ1l2LWFEMlZkSG9BTEtUaGFYZDRkNGZ0TktlM3NYRzR4ckxrQnZENEtHcThNOFllRjFjdkZmTk5xUk1zVUl0ZHRGNkVTM2loMjJWd0dqRHc0OVFsSmRaSFNTd1JoeGVxUXFEMFhBUnNfblFKbk4xQTVpSWZsUWM3TzBrdjAwQlh1eGFiRGFRLTU3SnFEVlQyM3BtazY5eERWU1VzaUxZU2t1T0VzVnpmeVNCWTZB?oc=5",
+        "date": "08/13 01:55"
       },
       {
         "type": "neutral",
@@ -937,24 +944,17 @@
       },
       {
         "type": "neutral",
-        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
-        "date": "08/12 00:45"
-      },
-      {
-        "type": "neutral",
-        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
-        "date": "08/11 05:02"
+        "title": "If Anthropic Stock Trades Like SpaceX, Investors May Wish They Owned Alphabet Instead",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDE4Q004T1dDaU50eFZ3ZGFKamltenZTZ1NVcUxrUkpfR2Z2clZRSjI1Vi1pRlZwY0xIOHJRQ3I1YXNKZWhCQ3I4NGM2b1I1eWxjZXRfRHZaNnFHd0pKR1I3Rkp6N09ic3hBcEpwcWtrY0JCejV1Z0M1dm1PSUJWSEdaSHY1LWg2Rnl4OFgzVGwzUQ?oc=5",
+        "date": "08/13 22:45"
       }
     ],
     "QCOM": [
       {
         "type": "positive",
         "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
         "date": "08/11 00:06"
       },
@@ -974,13 +974,20 @@
       },
       {
         "type": "neutral",
-        "title": "Westhampton Capital LLC Sells 4,160 Shares of Qualcomm Incorporated $QCOM",
+        "title": "Akash Palkhiwala Sells 2,500 Shares of Qualcomm (NASDAQ:QCOM) Stock",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3NoNzFKSllKUDNnbzZtQkloUFd2eFVOT2FYNkp3ZUlmSjNxeVBMRE5aVllBbEpzUTZidTA0OEYxUDBkcFYtc1VRendycjJmcXVVdEtvYkNURGRQLVo3M2lRVTl2aV9tRThDV2UzR0hOVklGSmJEMkw4bGZsS21GcllNNUlmZWlWUmUxdHpPN01iZjVQUFp3XzJkaHNMeEhkSTlWT1RHOUVFOEtTdEh0endTN1Z2UC1LemVEZFVoQkxqLUg0UlItaFRUZDI?oc=5",
-        "date": "08/14 20:16"
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRERtSTl6NEVMNkM2eDNsTHY2aDdnVlJVUXlLa2V6SFY2NU5QR3pEVFcxZFBIeXdORGZFZURVZnVkRU9kMF9famI3TWdaRWtPaFItekFUUmhyTDFoSjBmVWJRa1VwbWlla092WVRUNlk3UEdyS2d6VGdOV2FPc2J4TFhQQU9mZHBDSktlVmtaQUpYYVZUbG9WMGxhU1QtV2JVczFUUDZtTzhmT19iWGFoTUQtQWh3cFV2?oc=5",
+        "date": "08/13 08:41"
       }
     ],
     "VRT": [
+      {
+        "type": "neutral",
+        "title": "G vs. VRT: Which Stock Should Value Investors Buy Now?",
+        "publisher": "uk.finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOMDJWcTUxRFFTemFsTmFWM2U0Vm9kaVd5bDViZmktNWR1YlRWNS0yNjJybnpEeDVJczA3Z3Rsa0piV19tTFBVUDh2Y0VELVJTeUU5b2RnNVJEd2hhWnBWU1RoektvZ3lkcVNoNFhaM2ZBZzRlQ05RTw?oc=5",
+        "date": "08/15 00:40"
+      },
       {
         "type": "positive",
         "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
@@ -1001,13 +1008,6 @@
         "publisher": "Moomoo",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDMUtHYWRDbVhpQUFyTHVLb1pGQUhfUEcxREpWRGE2N1ZJcHliVjhxbE02SjNHN1NZb1hic18ydG1YTGlNVXF0VzlzdVl4aUp0THMwaThPaW1QWlI2cDBn?oc=5",
         "date": "08/11 12:56"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv raises 2026 sales outlook to $14B after $3.27B Q2",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdlZwS1dwSmJLSnRaREJmLTFRLU9CZ0FWS2I4ekJ2T2VCbWtXMnZRTlJWTW5rRUp1WGhlVGFGMkM3RW5PTkdBZGRtdElpai12dlRISGRqM3djSVVXVzU3Z3BnckJZNE9YNjU5SFVfVE00S2p0Y2dBdEp2LWxFRGFMdUM4LXRDQ1NBSmFNeVVpdWh5bGVPUHZRaEpzMjlPVFppLXd2cmhKamZYYUNZcG02WDJpcG1uTzh2MWVqSXcySQ?oc=5",
-        "date": "07/29 16:00"
       }
     ]
   }
