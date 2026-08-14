@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:12:15.730186+00:00",
+  "updatedAt": "2026-08-14T22:46:21.600445+00:00",
   "market": {
     "cards": [
       {
@@ -227,15 +227,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -913,7 +910,7 @@
       {
         "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
         "date": "08/13 23:55"
       }
@@ -952,16 +949,23 @@
       {
         "type": "negative",
         "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
-        "date": "08/15 05:24"
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRlNKVTdLZl9HbGhhdDc3dlBaek0tRVVrSTk5dGU1RUJva256MWwyRE9ZWEJWdUpKSUMtRWM3VUZTWXVTTkVEZkJTQ2lEbEJWZUhaVlR1UnFzUjJRczAyakViUlRzeFZvQVRRUnBwaXpETUc2MVdsS0RRYVR4Zm00RHlsN3cya1Q5YmduNkRvb0kzc3BqbzRxSw?oc=5",
+        "date": "08/15 05:25"
       },
       {
         "type": "positive",
         "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
         "date": "08/14 03:37"
+      },
+      {
+        "type": "positive",
+        "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
+        "date": "08/11 00:06"
       },
       {
         "type": "negative",
@@ -969,13 +973,6 @@
         "publisher": "foreignpolicyjournal.com",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3djQ1lEV1l4dzNUQWJaZUJxS004eGxoamo4SDdiMG02cEtXU1ByX3lCNWVMOHR0T3BvOUMydXpzZk52T0NsRWRYUU54LTBWQzBYdDIwZGFxRlVvVi1RVXJfZVdqclV4Y2dWR3BZN2h1UGdzdkxQYnc0ZGVQN29VeTF0MmRxTjNiZ1F4cEdwS0xFc0JrZ1dtNFdhRm9LZ3Rfem9RY2dJcmVwdExHUUxteDZ0TGxlMVlGNjZpdDZVSTZpcUhaUVFuOW9yTEM5ZS12RE1EQnZFbXVaMHZEbTRvcQ?oc=5",
         "date": "08/12 22:39"
-      },
-      {
-        "type": "positive",
-        "title": "Qualcomm (QCOM) Stock Sinks As Market Gains: Here's Why",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHRqdGFjSWZCYkFYR1M4dFhhTnhZVHI2WEVCc1ZkSWNQc25yNXhOMW9qU1RsR0E3SDdaMTN6ZTdfWDVFQTR0R3lfZERITnhVb28xXzVOdlNsYVFjbzdoV3ZtLWpJS3JVMTlrY3FtNFpyLXdOM1VvTEpoZFBjaUF6d0ZXLXVGcWZSeE1Mb1hKNEFqRno0Nk5VbGdCS2F2UQ?oc=5",
-        "date": "06/30 16:00"
       }
     ],
     "VRT": [
@@ -1003,7 +1000,7 @@
       {
         "type": "negative",
         "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
         "date": "07/29 16:00"
       }
