@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T23:12:21.451099+00:00",
+  "updatedAt": "2026-08-14T23:44:19.960616+00:00",
   "market": {
     "cards": [
       {
@@ -30,7 +30,7 @@
       {
         "name": "원달러환율",
         "value": 1416.48,
-        "change": -0.03
+        "change": 0.0
       },
       {
         "name": "KOSPI",
@@ -91,15 +91,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -159,15 +156,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -292,15 +286,12 @@
               52552.97,
               52146.42,
               51839.26,
-              52224.64,
-              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
-              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -364,15 +355,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -434,15 +422,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -568,7 +553,6 @@
               1417.31,
               1412.18,
               1416.46,
-              1416.85,
               1416.48
             ]
           }
@@ -760,7 +744,6 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
@@ -806,11 +789,11 @@
         "date": "08/14 23:52"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Shares Plunge on Major VMware Security Threat",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXRvbDk4VjdMY1FlV2lWeFRCR1FXSGJrNDhyaXVNdl9Qd1F2N3pPSVJjU3lnc0RISGZmZFBaVnBkdzFJRmVzQjVQbkE3WnlfdHpUTTVuTHg2ZjhMRHZIOXlkRGdpbnhpSHc3ZElyOUd0SWFuVDR4UjM2aHNqZ2N4eHVIRUZRMTJhSU1LZWRheURGZHVudEE2M1pkakctT0thWUdoZU92OHR3eUtQVXV0dG93U0k?oc=5",
-        "date": "08/15 03:24"
+        "type": "neutral",
+        "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
+        "date": "08/13 23:55"
       }
     ],
     "GOOGL": [
