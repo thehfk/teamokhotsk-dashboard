@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-14T20:01:43.532641+00:00",
+  "updatedAt": "2026-08-14T20:52:41.410777+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7785.73,
+        "value": 7785.76,
         "change": -0.17
       },
       {
@@ -14,13 +14,13 @@
       },
       {
         "name": "다우존스",
-        "value": 53732.53,
+        "value": 53732.41,
         "change": -0.2
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.29,
-        "change": -2.32
+        "value": 14.25,
+        "change": -2.6
       },
       {
         "name": "미국10년금리",
@@ -29,7 +29,7 @@
       },
       {
         "name": "원달러환율",
-        "value": 1416.71,
+        "value": 1416.7,
         "change": -0.01
       },
       {
@@ -91,15 +91,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -159,15 +156,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -177,7 +171,7 @@
               7728.2,
               7748.5,
               7798.99,
-              7785.73
+              7785.76
             ]
           },
           {
@@ -227,15 +221,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -295,15 +286,12 @@
               52552.97,
               52146.42,
               51839.26,
-              52224.64,
-              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
-              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -313,7 +301,7 @@
               53791.85,
               53770.27,
               53839.99,
-              53732.53
+              53732.41
             ]
           }
         ]
@@ -455,7 +443,7 @@
               15.28,
               14.55,
               14.63,
-              14.29
+              14.25
             ]
           }
         ]
@@ -668,7 +656,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1416.71
+              1416.7
             ]
           }
         ]
@@ -872,6 +860,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37
             ]
@@ -904,33 +893,33 @@
       },
       {
         "type": "positive",
-        "title": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0hyZnY3TkdSZGV2VFByUXZGbHdZRTQ1UmVhaVdHcEJrR1VrblZtbGdJY0xHSTFhQ2tFT3E0cTZSaWdHb2l3dXl6N1c2Z3hlRUZSOXliT2JVY01rY0M4djFzdHhRMEkzTDBudklpVVYzc2JQREFGZko3NXZ1eE8zNDZ4eG9KbmNVejZBOXc3SkpzdWItMEVNXzRtaDBHYWMtcHJsMw?oc=5",
-        "date": "08/14 18:35"
+        "title": "Broadcom Falls as Investors Appear to Take Profits Ahead of Earnings",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaUtFRUJVaFZKZzVQQ0cycmlaUUFmd1J5VUZ1X0N4U2xCenpCbHViZGdFZUEtVmJNUlY5MmNzY3B6dFFvOWNoOEgzTDhRZktDZm9EU1lpTjZWWVFGTWRTQUtCMDZpbll3akdpOGpNdHlHSlppZlN1clh4b09YWkhLNi03WEJfdlMwM0JTbmhJd3dmMk9ZZGlCVnB1OGVEZlZJa09z?oc=5",
+        "date": "08/14 23:52"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Shares Plunge on Major VMware Security Threat",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXRvbDk4VjdMY1FlV2lWeFRCR1FXSGJrNDhyaXVNdl9Qd1F2N3pPSVJjU3lnc0RISGZmZFBaVnBkdzFJRmVzQjVQbkE3WnlfdHpUTTVuTHg2ZjhMRHZIOXlkRGdpbnhpSHc3ZElyOUd0SWFuVDR4UjM2aHNqZ2N4eHVIRUZRMTJhSU1LZWRheURGZHVudEE2M1pkakctT0thWUdoZU92OHR3eUtQVXV0dG93U0k?oc=5",
-        "date": "08/15 03:24"
+        "type": "neutral",
+        "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
+        "date": "08/13 23:55"
       }
     ],
     "GOOGL": [
-      {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/12 02:10"
-      },
       {
         "type": "positive",
         "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
         "date": "08/15 03:20"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/12 02:10"
       },
       {
         "type": "neutral",
@@ -949,18 +938,18 @@
     ],
     "QCOM": [
       {
+        "type": "negative",
+        "title": "QCOM: A Cash Gusher At A Marked-Down Price",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
+        "date": "08/15 05:24"
+      },
+      {
         "type": "positive",
         "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
         "date": "08/14 03:37"
-      },
-      {
-        "type": "positive",
-        "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
-        "date": "08/11 00:06"
       },
       {
         "type": "negative",
