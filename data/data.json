@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:16:22.181676+00:00",
+  "updatedAt": "2026-08-14T21:46:26.367585+00:00",
   "market": {
     "cards": [
       {
@@ -769,10 +769,10 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
+        "title": "Broadcom (AVGO) Stock Trades Near Fair Value But At A Premium On Earnings",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
-        "date": "08/13 01:54"
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzRtLVQxZExZN3F0dGdUMkVyeTlNMTdleTBnTlBvZ0JIU0FPbGE2OW53M3ZjaF9wVnh5eUkyTmF1MjNUcVNsMjU3ZlhHSVVaMlVSZlBKMkVKVUhzSlZEWFRzcW8xakZwa1R2YUNNQTdpUEFUeURIam1YM1g5eGdEelRmMV9aLXlwdkxiMUdhbUs2Vy13czVSM2VQWkg?oc=5",
+        "date": "08/13 23:10"
       },
       {
         "type": "neutral",
@@ -798,13 +798,6 @@
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
-        "date": "08/15 03:20"
-      },
-      {
         "type": "negative",
         "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
         "publisher": "Yahoo Finance",
@@ -812,18 +805,25 @@
         "date": "08/12 02:10"
       },
       {
-        "type": "neutral",
-        "title": "Alphabet Inc. $GOOGL Stock Holdings Decreased by Westmount Partners LLC",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMjJORjdYa0IwOU1FcGVzMTJBNFFaNTY1Qks4QmJPZy1BSndONEVDaFhnLWV5bWpZX0lxTVFFSDU0dzVZT0tZem41SUtNS0R6UFNZNDVUZEpUd3hwTUgzWHI0X0d0eUEtcVJnaFA1c0hvald5REpPajVqenduT3lUZDNCVmNfUk93Z0Nwcm81X3gyNzNWZEdvZjE1ZGFaWTJMWEVqbzUzTlJSZkFxeER3RlVPdG9DbXQxZWJ2T0dCOGdzV2FwSDE5YjBn?oc=5",
-        "date": "08/14 20:14"
+        "type": "positive",
+        "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV30gHDAUFVX3lxTE9FRjlqYUhhTFRVMk9NUHIyMDdxVF9YRVBIU0lXVTdac25za08zSlE0ZUhfOHlPS1VjM25jTGFxM3FOR0dLZlZIU1paRGhKdkJCYjZvYkVHRGUzSHQ2WXRkaldMU0FISThRZ2VRckNLWHhwS0J4VUQzYVVyeEN0RllPMkxTeDNWT040Vm1NWElCZzN1RTRpU2RaejhaRjRKa1pPQ0l5eE9WQlo5REpwNkp3bGxfdzRNQ2hFclZ6ak1Xdm9zYw?oc=5",
+        "date": "08/15 05:31"
       },
       {
-        "type": "neutral",
-        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
-        "date": "08/12 00:45"
+        "type": "positive",
+        "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
+        "date": "08/15 03:20"
+      },
+      {
+        "type": "positive",
+        "title": "The Sign Before Alphabet Stock’s Surge Was Google Cloud’s Margin, Not Its Growth",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT2V0VGJBdF94Y25sUDFla1NBM0tzSjhqUmh2YzUwTDdHQ1l2LWFEMlZkSG9BTEtUaGFYZDRkNGZ0TktlM3NYRzR4ckxrQnZENEtHcThNOFllRjFjdkZmTk5xUk1zVUl0ZHRGNkVTM2loMjJWd0dqRHc0OVFsSmRaSFNTd1JoeGVxUXFEMFhBUnNfblFKbk4xQTVpSWZsUWM3TzBrdjAwQlh1eGFiRGFRLTU3SnFEVlQyM3BtazY5eERWU1VzaUxZU2t1T0VzVnpmeVNCWTZB?oc=5",
+        "date": "08/13 01:55"
       }
     ],
     "QCOM": [
@@ -866,6 +866,13 @@
       },
       {
         "type": "positive",
+        "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
+        "date": "08/15 06:26"
+      },
+      {
+        "type": "positive",
         "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEJRbW5JQk1rNFlySC1iRHUxNUtDUGRJOEFleVoteHV5SFh6U2stWFFUN05SWU5WNzVyMHpId3hwWmVHcWJuOEpYX3ZLSkl1blBfMGp4Y1FFVlpLUU95eXVkbnUxRkpqREplS3UwUDJZTE1jZzJFMmd5QXBEb0ZmdHUwRTdZejNpNXBfeXBzQWZEcmdHRE1HZGlNNNIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
@@ -877,13 +884,6 @@
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
         "date": "07/29 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "VRT 260814 210.00C (VRT260814C210000) Stock Options Chain | Quotes & News",
-        "publisher": "Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDMUtHYWRDbVhpQUFyTHVLb1pGQUhfUEcxREpWRGE2N1ZJcHliVjhxbE02SjNHN1NZb1hic18ydG1YTGlNVXF0VzlzdVl4aUp0THMwaThPaW1QWlI2cDBn?oc=5",
-        "date": "08/11 12:56"
       }
     ]
   }
