@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-14T12:41:30.331363+00:00",
+  "updatedAt": "2026-08-14T14:08:43.246566+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7798.99,
-        "change": 0.65
-      },
-      {
-        "name": "NASDAQ",
-        "value": 26803.03,
-        "change": 0.81
-      },
-      {
-        "name": "다우존스",
-        "value": 53839.99,
+        "value": 7809.46,
         "change": 0.13
       },
       {
+        "name": "NASDAQ",
+        "value": 26831.68,
+        "change": 0.11
+      },
+      {
+        "name": "다우존스",
+        "value": 53826.26,
+        "change": -0.03
+      },
+      {
         "name": "공포지수 VIX",
-        "value": 14.53,
-        "change": -0.68
+        "value": 14.58,
+        "change": -0.34
       },
       {
         "name": "미국10년금리",
-        "value": 4.64,
-        "change": 0.0
+        "value": 4.66,
+        "change": 0.43
       },
       {
         "name": "원달러환율",
-        "value": 1410.88,
-        "change": -0.39
+        "value": 1411.23,
+        "change": -0.37
       },
       {
         "name": "KOSPI",
@@ -109,7 +109,8 @@
           "08/10",
           "08/11",
           "08/12",
-          "08/13"
+          "08/13",
+          "08/14"
         ],
         "series": [
           {
@@ -177,7 +178,8 @@
               7753.11,
               7728.2,
               7748.5,
-              7798.99
+              7798.99,
+              7809.46
             ]
           },
           {
@@ -245,7 +247,8 @@
               26605.36,
               26445.45,
               26588.49,
-              26803.03
+              26803.03,
+              26831.68
             ]
           },
           {
@@ -313,7 +316,8 @@
               53975.98,
               53791.85,
               53770.27,
-              53839.99
+              53839.99,
+              53826.26
             ]
           }
         ]
@@ -455,7 +459,7 @@
               15.28,
               14.55,
               14.63,
-              14.53
+              14.58
             ]
           }
         ]
@@ -595,7 +599,7 @@
               4.68,
               4.68,
               4.64,
-              4.64
+              4.66
             ]
           },
           {
@@ -667,7 +671,7 @@
               1417.31,
               1412.18,
               1416.46,
-              1410.88
+              1411.23
             ]
           }
         ]
@@ -883,10 +887,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 71.1,
-    "GOOGL": 62.4,
-    "QCOM": 48.3,
-    "VRT": 48.9
+    "AVGO": 58.5,
+    "GOOGL": 60.4,
+    "QCOM": 46.5,
+    "VRT": 52.0
   },
   "news": {
     "AVGO": [
@@ -921,11 +925,18 @@
     ],
     "GOOGL": [
       {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "type": "positive",
+        "title": "GOOGL Stock Tops Retail Pick Over AMZN, META, MSFT For Next 12 Months – But META Leads Wall Street Upside",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/12 02:10"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUZ4SmtrZUFYMENoLWF3eTZEd1FSR2lkZktWQlJqZDFJNmI0VVVLcE1kUE9vWDdFU05Mdm5Qb25naFJDclVrZ3psRnBLVUlxaU5HcjRzeWJQYnN3bk5CcUlDQ1h0c3hGT0dXN29TX0pfc3pqWXBOT2twR2dGV3JaMWI5THNaQ3pDUGctZnlaUlM0dmFBZUxvdg?oc=5",
+        "date": "08/13 20:03"
+      },
+      {
+        "type": "positive",
+        "title": "The Sign Before Alphabet Stock’s Surge Was Google Cloud’s Margin, Not Its Growth",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT2V0VGJBdF94Y25sUDFla1NBM0tzSjhqUmh2YzUwTDdHQ1l2LWFEMlZkSG9BTEtUaGFYZDRkNGZ0TktlM3NYRzR4ckxrQnZENEtHcThNOFllRjFjdkZmTk5xUk1zVUl0ZHRGNkVTM2loMjJWd0dqRHc0OVFsSmRaSFNTd1JoeGVxUXFEMFhBUnNfblFKbk4xQTVpSWZsUWM3TzBrdjAwQlh1eGFiRGFRLTU3SnFEVlQyM3BtazY5eERWU1VzaUxZU2t1T0VzVnpmeVNCWTZB?oc=5",
+        "date": "08/13 01:55"
       },
       {
         "type": "neutral",
@@ -936,17 +947,10 @@
       },
       {
         "type": "neutral",
-        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
+        "title": "Berkshire Hathaway 13F Preview: What Stock Moves Did Buffett Successor Greg Abel Make?",
         "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
-        "date": "08/12 00:45"
-      },
-      {
-        "type": "neutral",
-        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
-        "date": "08/11 05:02"
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmM1Q3hYMkc2N0hEMWtTQmg3ZkRvaF9CUkZjTVcxN2JZTHJrRzlKM3hpN193R01VYzdqRGRteURuSEpELTkzYVlIck1PWUNfZVRFRGhhcU9GOFFQZzlLaXFTenFrbmJvOFNuUDhyQXZ4T0xMN09VdVhWajMxdFNFcVpLaU1BVnVkNFhIQ09pR2dVZUF1bXIyNDVBblVtNS1LN3FUYS1idEVKMkpXUkNXbGZ3emJ4TWVQYjVZSDJaMElILVk3UWRfSnlwXy1tVlZTYXpOTGViR2hEdTlQM0lQdFBPMA?oc=5",
+        "date": "08/14 02:46"
       }
     ],
     "QCOM": [
@@ -988,13 +992,6 @@
         "date": "08/13 14:03"
       },
       {
-        "type": "positive",
-        "title": "3 Reasons Growth Investors Will Love Vertiv (VRT)",
-        "publisher": "Yahoo Finance Singapore",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjlRZDNyM1VzNDk2ZGZiMTFqdlh6TWRRdTVvVkRQOU9PVUY3ZW1iY0J5Ull4UjlDZXhVRmdnWVFzaEJ5bFExMzNBODlEcGdiWW1XejVkTlhXMERnLUVyYml5cGtmVkNXV2tvV19MakExNGRjTlF1MmlFSU1zdnRfR1J4M0FUVWM?oc=5",
-        "date": "08/12 01:45"
-      },
-      {
         "type": "negative",
         "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
         "publisher": "Stocktwits",
@@ -1004,9 +1001,16 @@
       {
         "type": "neutral",
         "title": "VRT 260814 210.00C (VRT260814C210000) Stock Options Chain | Quotes & News",
-        "publisher": "Moomoo",
+        "publisher": "moomoo.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDMUtHYWRDbVhpQUFyTHVLb1pGQUhfUEcxREpWRGE2N1ZJcHliVjhxbE02SjNHN1NZb1hic18ydG1YTGlNVXF0VzlzdVl4aUp0THMwaThPaW1QWlI2cDBn?oc=5",
         "date": "08/11 12:56"
+      },
+      {
+        "type": "neutral",
+        "title": "Vertiv raises 2026 sales outlook to $14B after $3.27B Q2",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdlZwS1dwSmJLSnRaREJmLTFRLU9CZ0FWS2I4ekJ2T2VCbWtXMnZRTlJWTW5rRUp1WGhlVGFGMkM3RW5PTkdBZGRtdElpai12dlRISGRqM3djSVVXVzU3Z3BnckJZNE9YNjU5SFVfVE00S2p0Y2dBdEp2LWxFRGFMdUM4LXRDQ1NBSmFNeVVpdWh5bGVPUHZRaEpzMjlPVFppLXd2cmhKamZYYUNZcG02WDJpcG1uTzh2MWVqSXcySQ?oc=5",
+        "date": "07/29 16:00"
       }
     ]
   }
