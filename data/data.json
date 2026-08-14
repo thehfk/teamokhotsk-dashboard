@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-08-14T17:23:57.902623+00:00",
+  "updatedAt": "2026-08-14T18:12:47.585724+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7781.15,
-        "change": -0.23
+        "value": 7782.99,
+        "change": -0.21
       },
       {
         "name": "NASDAQ",
-        "value": 26687.1,
-        "change": -0.43
+        "value": 26696.18,
+        "change": -0.4
       },
       {
         "name": "다우존스",
-        "value": 53734.74,
-        "change": -0.2
+        "value": 53762.22,
+        "change": -0.14
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.46,
-        "change": -1.16
+        "value": 14.31,
+        "change": -2.19
       },
       {
         "name": "미국10년금리",
-        "value": 4.69,
-        "change": 1.08
+        "value": 4.7,
+        "change": 1.29
       },
       {
         "name": "원달러환율",
-        "value": 1415.53,
+        "value": 1415.48,
         "change": -0.07
       },
       {
@@ -179,7 +179,7 @@
               7728.2,
               7748.5,
               7798.99,
-              7781.15
+              7782.99
             ]
           },
           {
@@ -248,7 +248,7 @@
               26445.45,
               26588.49,
               26803.03,
-              26687.1
+              26696.18
             ]
           },
           {
@@ -317,7 +317,7 @@
               53791.85,
               53770.27,
               53839.99,
-              53734.74
+              53762.22
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.28,
               14.55,
               14.63,
-              14.46
+              14.31
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.68,
               4.68,
               4.64,
-              4.69
+              4.7
             ]
           },
           {
@@ -671,7 +671,7 @@
               1417.31,
               1412.18,
               1416.46,
-              1415.53
+              1415.48
             ]
           }
         ]
@@ -884,10 +884,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 53.7,
-    "GOOGL": 59.0,
-    "QCOM": 45.3,
-    "VRT": 51.7
+    "AVGO": 52.6,
+    "GOOGL": 59.1,
+    "QCOM": 45.4,
+    "VRT": 52.2
   },
   "news": {
     "AVGO": [
@@ -899,25 +899,25 @@
         "date": "08/13 04:07"
       },
       {
+        "type": "neutral",
+        "title": "‘The Time Has Come,’ Says Investor About Broadcom Stock",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVm1jTFdUSW1nWkZFVEdvM1NjUWE2bjVwc09wcGdrRUt5QWphMWNnSGswRm81N3YyM1NES3dabEhZandUVXMxVGdzZlg1cWtDVlVTU3V0Ukx5LWxqamlXUmYtanZkVWRPdnJkbHJtd2k4LV9fY1lVVUVkU3d6U3JfNnYtSnlGVGNWTHc?oc=5",
+        "date": "08/14 23:57"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom Plunges 5% as Its AI Boom Faces a $370 Billion Financing Question",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2o5bFY5TTZ5b3dsN2QyMmxPZnFIbXFTZ2psclk3S0dYN0FVOWNMZ0FMVTk2UlYxVGZCM0Q5bU83dlZBTEZERXVMQTZiTHlLOGkwbVAzcGlhUm9Mdm1uRS1DMUJYbmYtWURyNElSa0hfRG1TZFZtTmstaVNYV1FITUo3MG14RlN6LTlPbkhPeVR3bFo3?oc=5",
+        "date": "08/15 02:08"
+      },
+      {
         "type": "positive",
         "title": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0hyZnY3TkdSZGV2VFByUXZGbHdZRTQ1UmVhaVdHcEJrR1VrblZtbGdJY0xHSTFhQ2tFT3E0cTZSaWdHb2l3dXl6N1c2Z3hlRUZSOXliT2JVY01rY0M4djFzdHhRMEkzTDBudklpVVYzc2JQREFGZko3NXZ1eE8zNDZ4eG9KbmNVejZBOXc3SkpzdWItMEVNXzRtaDBHYWMtcHJsMw?oc=5",
         "date": "08/14 18:35"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom (AVGO) Stock Trades Near Fair Value But At A Premium On Earnings",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzRtLVQxZExZN3F0dGdUMkVyeTlNMTdleTBnTlBvZ0JIU0FPbGE2OW53M3ZjaF9wVnh5eUkyTmF1MjNUcVNsMjU3ZlhHSVVaMlVSZlBKMkVKVUhzSlZEWFRzcW8xakZwa1R2YUNNQTdpUEFUeURIam1YM1g5eGdEelRmMV9aLXlwdkxiMUdhbUs2Vy13czVSM2VQWkg?oc=5",
-        "date": "08/13 23:10"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Thursday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3dLS2E2MXpEaDhLbWNGaTUwRlpHbW1GX3F1YTQ4M3pSOUVxLVFhQkhkb214a3R3S0xQVVh4UWlWd3lLdWtreWpyMzRPMlFNT04tNUtTMXdmV1VpY0swcG1DVDZDN3BpSFRoWWFreFZEWTZEd1U3ek44U1BYVzJna3NRcjE4OVU2QUh4b0VxR2dhVURPTjQ3SXlmVEVpeVE?oc=5",
-        "date": "08/13 23:09"
       }
     ],
     "GOOGL": [
@@ -953,6 +953,13 @@
     "QCOM": [
       {
         "type": "positive",
+        "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
+        "date": "08/14 03:37"
+      },
+      {
+        "type": "positive",
         "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
@@ -971,20 +978,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHRqdGFjSWZCYkFYR1M4dFhhTnhZVHI2WEVCc1ZkSWNQc25yNXhOMW9qU1RsR0E3SDdaMTN6ZTdfWDVFQTR0R3lfZERITnhVb28xXzVOdlNsYVFjbzdoV3ZtLWpJS3JVMTlrY3FtNFpyLXdOM1VvTEpoZFBjaUF6d0ZXLXVGcWZSeE1Mb1hKNEFqRno0Nk5VbGdCS2F2UQ?oc=5",
         "date": "06/30 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Akash Palkhiwala Sells 2,500 Shares of Qualcomm (NASDAQ:QCOM) Stock",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRERtSTl6NEVMNkM2eDNsTHY2aDdnVlJVUXlLa2V6SFY2NU5QR3pEVFcxZFBIeXdORGZFZURVZnVkRU9kMF9famI3TWdaRWtPaFItekFUUmhyTDFoSjBmVWJRa1VwbWlla092WVRUNlk3UEdyS2d6VGdOV2FPc2J4TFhQQU9mZHBDSktlVmtaQUpYYVZUbG9WMGxhU1QtV2JVczFUUDZtTzhmT19iWGFoTUQtQWh3cFV2?oc=5",
-        "date": "08/13 08:41"
       }
     ],
     "VRT": [
       {
         "type": "neutral",
         "title": "G vs. VRT: Which Stock Should Value Investors Buy Now?",
-        "publisher": "uk.finance.yahoo.com",
+        "publisher": "Yahoo Finance UK",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOMDJWcTUxRFFTemFsTmFWM2U0Vm9kaVd5bDViZmktNWR1YlRWNS0yNjJybnpEeDVJczA3Z3Rsa0piV19tTFBVUDh2Y0VELVJTeUU5b2RnNVJEd2hhWnBWU1RoektvZ3lkcVNoNFhaM2ZBZzRlQ05RTw?oc=5",
         "date": "08/15 00:40"
       },
