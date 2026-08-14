@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T10:49:25.254333+00:00",
+  "updatedAt": "2026-08-14T11:36:44.069396+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.56,
-        "change": -0.48
+        "value": 14.53,
+        "change": -0.68
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.28,
-        "change": -0.3
+        "value": 1410.92,
+        "change": -0.39
       },
       {
         "name": "KOSPI",
@@ -228,15 +228,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -455,7 +452,7 @@
               15.28,
               14.55,
               14.63,
-              14.56
+              14.53
             ]
           }
         ]
@@ -667,7 +664,7 @@
               1417.31,
               1412.18,
               1416.46,
-              1412.28
+              1410.92
             ]
           }
         ]
@@ -720,15 +717,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -789,15 +783,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -873,6 +864,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -929,10 +921,10 @@
       },
       {
         "type": "neutral",
-        "title": "Chapin Davis Inc. Reduces Stock Position in Alphabet Inc. $GOOGL",
+        "title": "Alphabet Inc. $GOOGL Stock Holdings Decreased by Westmount Partners LLC",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXpDcWE5NV9BVHoxSFpzVnRoM0NmaWlIQnp6LTdJbWJyRWlMT01JQmZxVlB0OWFCSGdyNEFpTUIwcHFNR3lxeTFablRWdW9WVVRIZlBJM3Y5cDFrOGsya1hqTzA3RGQ2SW1MMzd1eWRwcGZYTEhoUjlyRW16X25mWHRNS19jb3B5Q0lsVDlUanU1cU8zQ3JibUlwVnBzSndSWHhXUFVrbGlCVkpXSGkwRF9uQnZWZUI4cllKNThBRQ?oc=5",
-        "date": "08/14 16:46"
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMjJORjdYa0IwOU1FcGVzMTJBNFFaNTY1Qks4QmJPZy1BSndONEVDaFhnLWV5bWpZX0lxTVFFSDU0dzVZT0tZem41SUtNS0R6UFNZNDVUZEpUd3hwTUgzWHI0X0d0eUEtcVJnaFA1c0hvald5REpPajVqenduT3lUZDNCVmNfUk93Z0Nwcm81X3gyNzNWZEdvZjE1ZGFaWTJMWEVqbzUzTlJSZkFxeER3RlVPdG9DbXQxZWJ2T0dCOGdzV2FwSDE5YjBn?oc=5",
+        "date": "08/14 20:14"
       },
       {
         "type": "neutral",
@@ -958,11 +950,11 @@
         "date": "08/11 00:06"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm (NASDAQ:QCOM) Stock Price Up 1.1% - Here's Why",
+        "type": "neutral",
+        "title": "Westhampton Capital LLC Sells 4,160 Shares of Qualcomm Incorporated $QCOM",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUVmeXFMTE1pQlA2MUl0RFY2b1lLSXIybTNCV1JUQkFnamNNUVJ0Vi1sQml3UE50QXl2V3VmZUtDQlgzQy1SLUotR1NDRHF6YnlKTHAzQU1lbDBMM3FVZExkeHV2Z3FaYklIR1VMV1Z5UTY4cjZLX05qRHlrSENVZXhYd2VJNGpIQkdNNEU4eG9mc2tCbms0NHVDajRIWk50bzV3?oc=5",
-        "date": "08/14 07:12"
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3NoNzFKSllKUDNnbzZtQkloUFd2eFVOT2FYNkp3ZUlmSjNxeVBMRE5aVllBbEpzUTZidTA0OEYxUDBkcFYtc1VRendycjJmcXVVdEtvYkNURGRQLVo3M2lRVTl2aV9tRThDV2UzR0hOVklGSmJEMkw4bGZsS21GcllNNUlmZWlWUmUxdHpPN01iZjVQUFp3XzJkaHNMeEhkSTlWT1RHOUVFOEtTdEh0endTN1Z2UC1LemVEZFVoQkxqLUg0UlItaFRUZDI?oc=5",
+        "date": "08/14 20:16"
       },
       {
         "type": "negative",
