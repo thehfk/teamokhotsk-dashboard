@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T03:33:31.789614+00:00",
+  "updatedAt": "2026-08-14T05:29:57.408462+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.33,
-        "change": -0.29
+        "value": 1413.27,
+        "change": -0.23
       },
       {
         "name": "KOSPI",
-        "value": 6883.67,
-        "change": 4.63
+        "value": 6908.48,
+        "change": 1.4
       },
       {
         "name": "KOSDAQ",
-        "value": 851.81,
-        "change": -0.83
+        "value": 858.12,
+        "change": -0.38
       }
     ],
     "groups": [
@@ -92,12 +92,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -157,12 +160,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -356,12 +362,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -423,12 +432,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -551,7 +563,7 @@
               1417.31,
               1412.18,
               1416.46,
-              1412.33
+              1413.27
             ]
           }
         ]
@@ -618,6 +630,7 @@
           "08/10",
           "08/11",
           "08/12",
+          "08/13",
           "08/14"
         ],
         "series": [
@@ -683,7 +696,8 @@
               6299.66,
               6345.53,
               6579.04,
-              6883.67
+              6813.34,
+              6908.48
             ]
           },
           {
@@ -750,7 +764,8 @@
               854.47,
               857.84,
               858.91,
-              851.81
+              861.37,
+              858.12
             ]
           }
         ]
@@ -788,10 +803,10 @@
       },
       {
         "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Thursday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3dLS2E2MXpEaDhLbWNGaTUwRlpHbW1GX3F1YTQ4M3pSOUVxLVFhQkhkb214a3R3S0xQVVh4UWlWd3lLdWtreWpyMzRPMlFNT04tNUtTMXdmV1VpY0swcG1DVDZDN3BpSFRoWWFreFZEWTZEd1U3ek44U1BYVzJna3NRcjE4OVU2QUh4b0VxR2dhVURPTjQ3SXlmVEVpeVE?oc=5",
-        "date": "08/13 23:09"
+        "title": "What Is The Market Really Expecting From AVGO Stock?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTRZSzVZd2JfMVVBVTFPcVEyamsyUEE5TGFJcVhaLXVHNTJZQmwxU0c0eVFEc09SVHk2MDBPZnBoZ3gtREVzeENJbDFxcE1fc0MzTUJyZlRKVW9KSDhJb2M2NVlub2FYdTRkWUNkenB0dVV0emo5TktwM0VTUXphdTl2a0UtVDNvS21MczBKOXotQkhudmJQUzhjMUhycHpZYTVlZmFQOUJQOERCVkdLLUpMMXc?oc=5",
+        "date": "08/12 06:07"
       }
     ],
     "GOOGL": [
@@ -803,6 +818,13 @@
         "date": "08/12 02:10"
       },
       {
+        "type": "positive",
+        "title": "GOOGL Down 19% From 52-Week High: Buy, Sell or Hold the Stock?",
+        "publisher": "Zacks Investment Research",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHBDNERmenM4RGhqeGMtUzQ2Mmd2M29hVEVpeDdfM2ViMllkd1c0VVhpZEFQQXhRZ21HeEl6azdMNUxGY3NEOHRvNDVCZThMZGF5OTdhWXpLcTFGX1oyY1AyS2ZIa0ZzTzVQb0RMYW10RV81Z1hZa3Zsem91TWtRNHJqOV9mVkI3WVdlWWt3eXdfTExQQUpDeVl3MGwxSVpU?oc=5",
+        "date": "08/14 02:23"
+      },
+      {
         "type": "neutral",
         "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
         "publisher": "Investor's Business Daily",
@@ -811,17 +833,10 @@
       },
       {
         "type": "positive",
-        "title": "The Sign Before Alphabet Stock’s Surge Was Google Cloud’s Margin, Not Its Growth",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT2V0VGJBdF94Y25sUDFla1NBM0tzSjhqUmh2YzUwTDdHQ1l2LWFEMlZkSG9BTEtUaGFYZDRkNGZ0TktlM3NYRzR4ckxrQnZENEtHcThNOFllRjFjdkZmTk5xUk1zVUl0ZHRGNkVTM2loMjJWd0dqRHc0OVFsSmRaSFNTd1JoeGVxUXFEMFhBUnNfblFKbk4xQTVpSWZsUWM3TzBrdjAwQlh1eGFiRGFRLTU3SnFEVlQyM3BtazY5eERWU1VzaUxZU2t1T0VzVnpmeVNCWTZB?oc=5",
-        "date": "08/13 01:55"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet's Blowout Q2 Confirmed The AI Stack Thesis, And Shares Are Still Undervalued",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYldEVThveHBPUGYtVkE5OTJ3WktCSEVMbmUyZm5SbWdJNE9zWmxkdElEekVPT0dlNm4tLXlwaVQyc19uRWpOczQwMHZwUEdkbktldU9KZ0EwTnNTR3B4cHBOeEM4TGxpTi1xa3RGdWpLb3FFUU00QzRyc0l0LXRucm8wT1NHZ0hQX1l1dXRFYV93U3UtaTRobmxEUjV3ZXExVENyRlU2LXpKM2VqVTdIWUVaQW51bHVKSm1kaVpUZExaUQ?oc=5",
-        "date": "08/12 21:30"
+        "title": "GOOGL Stock Tops Retail Pick Over AMZN, META, MSFT For Next 12 Months – But META Leads Wall Street Upside",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc0VBd0M3T1ZXTGNfNjlFQjYtbEdiaUJlY2FTVVVCVjdkZmdVR3FjUHI0SUo0cml1ZW5ZTHVScFZxVzloNnVxbnZNcFR5UWVDWGc4dEJFRWFIOEM3UlIzS283RVVUX0ZXeGt4UW5kb3NqTUFCeVZjTGZnRVdCRWM2LWN2VTBhY0FqQUlMMUxfWnFsN3Y5UnV2bXE3QzJrQlNxVHdTWHhpd0twWHg1Y2dEVzR5UloxZldQcTRSdm1MNmFrckRtR09pXzZWYy1ZSTJRUHAtQ0NQRVI0Sm9HdVJveGREWTBLUnJPTUNjRzgwSmd1a2Ns?oc=5",
+        "date": "08/13 20:03"
       }
     ],
     "QCOM": [
@@ -847,11 +862,11 @@
         "date": "08/12 22:39"
       },
       {
-        "type": "neutral",
-        "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $408,142 of QCOM stock",
-        "publisher": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVWI0UkMzbzB3LW5kajV6MXBXSlhwUVI5ak9wOFF1Vjl3TVdCb2JrYzZZSk1rMTVDdXF0UnM4YV8yWTZyc3FCMDJ0S0E1S0JGbnE0NkQ1b2xVR1dOQlZIbGNCX1hrZGRXZERmTGdYU0pCNk94V2psa3pSNjNIWVV2MTVoYzdMWGNyWFV3VWdvT0hlLVJDVVh2bGJ3alQ1bU1saGZmTGUxQXNtWUZKS3ZnZTJBUHZMZE5hbTdzWk15eERFaU03VjFJRTRvMXA?oc=5",
-        "date": "08/13 14:31"
+        "type": "positive",
+        "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
+        "date": "08/11 19:24"
       }
     ],
     "VRT": [
