@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T06:51:00.338291+00:00",
+  "updatedAt": "2026-08-14T08:07:04.721910+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.63,
-        "change": 0.55
+        "value": 14.64,
+        "change": 0.07
       },
       {
         "name": "미국10년금리",
@@ -29,17 +29,17 @@
       },
       {
         "name": "원달러환율",
-        "value": 1417.68,
-        "change": 0.09
+        "value": 1413.78,
+        "change": -0.19
       },
       {
         "name": "KOSPI",
-        "value": 6977.34,
-        "change": 2.41
+        "value": 6977.94,
+        "change": 2.42
       },
       {
         "name": "KOSDAQ",
-        "value": 864.64,
+        "value": 864.65,
         "change": 0.38
       }
     ],
@@ -321,7 +321,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "05/13",
           "05/14",
           "05/15",
           "05/18",
@@ -368,12 +367,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -382,13 +384,13 @@
           "08/10",
           "08/11",
           "08/12",
-          "08/13"
+          "08/13",
+          "08/14"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              17.87,
               17.26,
               18.43,
               17.82,
@@ -435,12 +437,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -449,7 +454,8 @@
               15.46,
               15.28,
               14.55,
-              14.63
+              14.63,
+              14.64
             ]
           }
         ]
@@ -661,7 +667,7 @@
               1417.31,
               1412.18,
               1416.46,
-              1417.68
+              1413.78
             ]
           }
         ]
@@ -801,7 +807,7 @@
               6345.53,
               6579.04,
               6813.34,
-              6977.34
+              6977.94
             ]
           },
           {
@@ -860,16 +866,16 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
-              864.64
+              864.65
             ]
           }
         ]
@@ -923,17 +929,10 @@
       },
       {
         "type": "neutral",
-        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
-        "date": "08/11 05:02"
-      },
-      {
-        "type": "positive",
-        "title": "GOOGL Down 19% From 52-Week High: Buy, Sell or Hold the Stock?",
-        "publisher": "Zacks Investment Research",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHBDNERmenM4RGhqeGMtUzQ2Mmd2M29hVEVpeDdfM2ViMllkd1c0VVhpZEFQQXhRZ21HeEl6azdMNUxGY3NEOHRvNDVCZThMZGF5OTdhWXpLcTFGX1oyY1AyS2ZIa0ZzTzVQb0RMYW10RV81Z1hZa3Zsem91TWtRNHJqOV9mVkI3WVdlWWt3eXdfTExQQUpDeVl3MGwxSVpU?oc=5",
-        "date": "08/14 02:23"
+        "title": "Alphabet Inc. $GOOGL Shares Purchased by 55 North Private Wealth LLC",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYlNjZ3ZWdlhrb1N0ZElHUzJ2WWF1dkhjaGgtVm1WWDZTTl8wZnhkQV91VWNYVUVUZW5BSVlRb2otNHhZZk01Y1EyVnVSQUR0bjBFU1BDSEhXZzBNZU1sWmtFWVlfakhKNjdMTVlNak5kZ2RrYVRFdnpZVU1TU0tIQjRWR0FvREdsSkZ1YkFFQ0ltNlo0S3YzdW92LUo4NlhsWUdrbV9wRTBxcmFkNlpmV1MwMk9NVURObUNQQk93YllVeU5wQUE?oc=5",
+        "date": "08/14 16:18"
       },
       {
         "type": "neutral",
@@ -941,6 +940,13 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
         "date": "08/12 00:45"
+      },
+      {
+        "type": "neutral",
+        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
+        "date": "08/11 05:02"
       }
     ],
     "QCOM": [
@@ -967,10 +973,10 @@
       },
       {
         "type": "positive",
-        "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
-        "date": "08/11 19:24"
+        "title": "Qualcomm (QCOM) Stock Sinks As Market Gains: Here's Why",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHRqdGFjSWZCYkFYR1M4dFhhTnhZVHI2WEVCc1ZkSWNQc25yNXhOMW9qU1RsR0E3SDdaMTN6ZTdfWDVFQTR0R3lfZERITnhVb28xXzVOdlNsYVFjbzdoV3ZtLWpJS3JVMTlrY3FtNFpyLXdOM1VvTEpoZFBjaUF6d0ZXLXVGcWZSeE1Mb1hKNEFqRno0Nk5VbGdCS2F2UQ?oc=5",
+        "date": "06/30 16:00"
       }
     ],
     "VRT": [
