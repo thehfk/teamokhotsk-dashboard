@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-14T18:12:47.585724+00:00",
+  "updatedAt": "2026-08-14T19:25:25.546109+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7782.99,
-        "change": -0.21
+        "value": 7783.11,
+        "change": -0.2
       },
       {
         "name": "NASDAQ",
-        "value": 26696.18,
-        "change": -0.4
+        "value": 26692.61,
+        "change": -0.41
       },
       {
         "name": "다우존스",
-        "value": 53762.22,
-        "change": -0.14
+        "value": 53773.22,
+        "change": -0.12
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.31,
-        "change": -2.19
+        "value": 14.41,
+        "change": -1.5
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1415.48,
-        "change": -0.07
+        "value": 1415.81,
+        "change": -0.05
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7728.2,
               7748.5,
               7798.99,
-              7782.99
+              7783.11
             ]
           },
           {
@@ -248,7 +248,7 @@
               26445.45,
               26588.49,
               26803.03,
-              26696.18
+              26692.61
             ]
           },
           {
@@ -317,7 +317,7 @@
               53791.85,
               53770.27,
               53839.99,
-              53762.22
+              53773.22
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.28,
               14.55,
               14.63,
-              14.31
+              14.41
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1417.31,
               1412.18,
               1416.46,
-              1415.48
+              1415.81
             ]
           }
         ]
@@ -884,10 +884,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 52.6,
-    "GOOGL": 59.1,
-    "QCOM": 45.4,
-    "VRT": 52.2
+    "AVGO": 54.1,
+    "GOOGL": 59.4,
+    "QCOM": 46.3,
+    "VRT": 51.9
   },
   "news": {
     "AVGO": [
@@ -900,17 +900,17 @@
       },
       {
         "type": "neutral",
-        "title": "‘The Time Has Come,’ Says Investor About Broadcom Stock",
+        "title": "Why Broadcom (AVGO) Stock Is Sinking Today – August 14, 2026",
         "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVm1jTFdUSW1nWkZFVEdvM1NjUWE2bjVwc09wcGdrRUt5QWphMWNnSGswRm81N3YyM1NES3dabEhZandUVXMxVGdzZlg1cWtDVlVTU3V0Ukx5LWxqamlXUmYtanZkVWRPdnJkbHJtd2k4LV9fY1lVVUVkU3d6U3JfNnYtSnlGVGNWTHc?oc=5",
-        "date": "08/14 23:57"
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTFWNXlaZ2xIdXVwVzJ3U2tEWmR2eE5EVGFJZzFPbjc0YTY1NmtxTDZReFBmR1ZlZGFIZXBLMVkxUHZEMFBVSkhMNWhlOURjMDJtSkdySTVjOXU2T2dDMFRxUDBKR1hCYW02TjJmSGw4WlVhQkZOQVVqYlc5d2Y2U0ZNNlpqb1lPNjBwV0N3?oc=5",
+        "date": "08/15 03:28"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Plunges 5% as Its AI Boom Faces a $370 Billion Financing Question",
+        "type": "neutral",
+        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2o5bFY5TTZ5b3dsN2QyMmxPZnFIbXFTZ2psclk3S0dYN0FVOWNMZ0FMVTk2UlYxVGZCM0Q5bU83dlZBTEZERXVMQTZiTHlLOGkwbVAzcGlhUm9Mdm1uRS1DMUJYbmYtWURyNElSa0hfRG1TZFZtTmstaVNYV1FITUo3MG14RlN6LTlPbkhPeVR3bFo3?oc=5",
-        "date": "08/15 02:08"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
+        "date": "08/13 01:54"
       },
       {
         "type": "positive",
@@ -922,18 +922,18 @@
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "GOOGL Stock Tops Retail Pick Over AMZN, META, MSFT For Next 12 Months – But META Leads Wall Street Upside",
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUZ4SmtrZUFYMENoLWF3eTZEd1FSR2lkZktWQlJqZDFJNmI0VVVLcE1kUE9vWDdFU05Mdm5Qb25naFJDclVrZ3psRnBLVUlxaU5HcjRzeWJQYnN3bk5CcUlDQ1h0c3hGT0dXN29TX0pfc3pqWXBOT2twR2dGV3JaMWI5THNaQ3pDUGctZnlaUlM0dmFBZUxvdg?oc=5",
-        "date": "08/13 20:03"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/12 02:10"
       },
       {
         "type": "positive",
-        "title": "The Sign Before Alphabet Stock’s Surge Was Google Cloud’s Margin, Not Its Growth",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT2V0VGJBdF94Y25sUDFla1NBM0tzSjhqUmh2YzUwTDdHQ1l2LWFEMlZkSG9BTEtUaGFYZDRkNGZ0TktlM3NYRzR4ckxrQnZENEtHcThNOFllRjFjdkZmTk5xUk1zVUl0ZHRGNkVTM2loMjJWd0dqRHc0OVFsSmRaSFNTd1JoeGVxUXFEMFhBUnNfblFKbk4xQTVpSWZsUWM3TzBrdjAwQlh1eGFiRGFRLTU3SnFEVlQyM3BtazY5eERWU1VzaUxZU2t1T0VzVnpmeVNCWTZB?oc=5",
-        "date": "08/13 01:55"
+        "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
+        "date": "08/15 03:20"
       },
       {
         "type": "neutral",
@@ -944,10 +944,10 @@
       },
       {
         "type": "neutral",
-        "title": "If Anthropic Stock Trades Like SpaceX, Investors May Wish They Owned Alphabet Instead",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDE4Q004T1dDaU50eFZ3ZGFKamltenZTZ1NVcUxrUkpfR2Z2clZRSjI1Vi1pRlZwY0xIOHJRQ3I1YXNKZWhCQ3I4NGM2b1I1eWxjZXRfRHZaNnFHd0pKR1I3Rkp6N09ic3hBcEpwcWtrY0JCejV1Z0M1dm1PSUJWSEdaSHY1LWg2Rnl4OFgzVGwzUQ?oc=5",
-        "date": "08/13 22:45"
+        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
+        "date": "08/12 00:45"
       }
     ],
     "QCOM": [
