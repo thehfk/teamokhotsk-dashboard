@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T22:10:17.508185+00:00",
+  "updatedAt": "2026-08-15T22:44:57.105753+00:00",
   "market": {
     "cards": [
       {
@@ -91,15 +91,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -159,15 +156,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -794,126 +788,5 @@
     "QCOM": 46.6,
     "VRT": 52.0
   },
-  "news": {
-    "AVGO": [
-      {
-        "type": "neutral",
-        "title": "What Separates AVGO From Its Peers Right Now",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
-        "date": "08/15 04:13"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom Shares Plunge on Major VMware Security Threat",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXRvbDk4VjdMY1FlV2lWeFRCR1FXSGJrNDhyaXVNdl9Qd1F2N3pPSVJjU3lnc0RISGZmZFBaVnBkdzFJRmVzQjVQbkE3WnlfdHpUTTVuTHg2ZjhMRHZIOXlkRGdpbnhpSHc3ZElyOUd0SWFuVDR4UjM2aHNqZ2N4eHVIRUZRMTJhSU1LZWRheURGZHVudEE2M1pkakctT0thWUdoZU92OHR3eUtQVXV0dG93U0k?oc=5",
-        "date": "08/15 03:24"
-      },
-      {
-        "type": "neutral",
-        "title": "$AVGO stock fell 9% this week. Here's what we see in our data.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlRROVQ5NGktOHpKUlhjMnhZenFxWTEtVG9JZktLZlRWUDBaMmpadjhQdUE2ejA4SWNHR0ZQdFAxWGYtQUMxUHd6T1B0emJjSy1wekxjWFdidF9UZWtqeDk3TklUYnJ3bV9KMmpaZnZGQ2NRYmxvV1REcHhabVJtR09oZE11Zm1KM21JUnprc2dBTWM3RFk0b1VmbkZjNzVUXzZF?oc=5",
-        "date": "08/16 01:39"
-      },
-      {
-        "type": "neutral",
-        "title": "What Is The Market Really Expecting From AVGO Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTRZSzVZd2JfMVVBVTFPcVEyamsyUEE5TGFJcVhaLXVHNTJZQmwxU0c0eVFEc09SVHk2MDBPZnBoZ3gtREVzeENJbDFxcE1fc0MzTUJyZlRKVW9KSDhJb2M2NVlub2FYdTRkWUNkenB0dVV0emo5TktwM0VTUXphdTl2a0UtVDNvS21MczBKOXotQkhudmJQUzhjMUhycHpZYTVlZmFQOUJQOERCVkdLLUpMMXc?oc=5",
-        "date": "08/12 06:07"
-      }
-    ],
-    "GOOGL": [
-      {
-        "type": "neutral",
-        "title": "$GOOGL stock fell 3% this week. Here's what we see in our data.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmFMcDl6RFdHVm5fV21SUVV0UDJTdjBWeE1jMVMzRzh2R2hPRWVWZWNNM0tUTFo2bDBrVDZpNXFudVV4VkxORnN4THNaT1diSkhGN2NlQkVycXdGai14c0tFOTVqQTJ4cU00MFNLa3RrXzRQenJ3S2FFZURHR3d6dTRZY3M5cGwyTkJjdXZ3b3RWYXo2MVBoNm1uMTgtZ293ZVJHMA?oc=5",
-        "date": "08/16 01:39"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/12 02:10"
-      },
-      {
-        "type": "negative",
-        "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
-        "publisher": "barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVpBaW1UaTNtd1g0djBoNURXR0pyeXIyN3o3ZlpYS2Q0Um54UkZXMXZsQXFiWUh0MFRnbUNzTHNMZHJNOWdiWGZDcXVDMmRQZ2U0ZmU1OEk0MXFaaHZmeTNNT1hRU1Q0cE9sWXlpWXE4aTl6bDhUVk9lTWZNTUlVTEFUQnEteUtFNFlMWE9oTVFETnhIQXh4TWxqMFpJZW1vR0dueUdpZ1h6LThuMndNV0tlc1R4N1JpbUt3Uno2dzd2WVk?oc=5",
-        "date": "08/16 02:00"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
-        "date": "08/12 00:45"
-      }
-    ],
-    "QCOM": [
-      {
-        "type": "neutral",
-        "title": "Qualcomm (QCOM) Stock Looks Fairly Valued On Its 61% Three Year Run",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWVTR1hSTEVVdFVNekxfc2JHbHFIbUJVengydGwtaXNuRmM4eTJGQnc5MGQxSEJPWUlscVBVNjQ5T3hlazM0VEM1ek43ZmpZMHZwYllCWUpxOGdMRERfUWFQQkw0TE8wS3llb0RQWkxmeXI5czl4dEIwWXVHaFp4THc0R1dteUpJdVVCMU5KRUV2OGdSa2MyNEFVQmtONlRFa3d2MEVHYzNua3FFX3NUTkk1OVotUGFBdzlrN0pHLU82Zy1pMkhYZTR0cTV2UdIB0wFBVV95cUxNZHhzcjE0OW9sVExtOHU5SmJPaFQ3TlBYaU0yOTVmcWt4Q0ctbXM3di15R3c4V3B6VnkydFU4TzVBaTNTTWRUVHZoNlNmWW56Nk44NVJvaXRtZEdBWDlzRi1FZ2J0MXM1azlWcXZ3ZWNhZ0t4SGRvaS16UlhkeHZHSEdqSURUYTc3M2lIMzhLc1JlSXZsbkZiZnVrREV1S3VacXJod1RjUUItbEJYd29abWc1ZEFoLVBIdGVpR2xJdGdzR2tybTd3ZG5pMXAwcVZWaDZr?oc=5",
-        "date": "08/15 16:29"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm (NASDAQ: QCOM) Stock Price Trades At A 22% Discount While Delivering A 6% Free Cash Yield",
-        "publisher": "foreignpolicyjournal.com",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWJxam93ZmkzWFU3d1JIc2owR0puTEdfd2NFSDBwU1EtN2s0LTZVUG83aWk3aU1tOWNGUVYwQ1VYY1lhRDRfR2cwRjNlQ2JjQzFDMVd6ZU5UeC1sUUpBS3pEblB0RmhvN1pFNkNZcTBBMXBfdXkwV2FjVzNpTEw2MG1nZTN4SlQ2clgtVzlmVC1TNFJPYjdGblA0aURmXzNTeU1FQkl5U004VzRGZXA5UVRDNFREOHZXQmttVnZQMFdJb09HY2p1ZllkMXYzcHBMcDJreUZ3RjZJQQ?oc=5",
-        "date": "08/15 23:58"
-      },
-      {
-        "type": "negative",
-        "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
-        "date": "08/15 05:24"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
-        "date": "08/13 17:52"
-      }
-    ],
-    "VRT": [
-      {
-        "type": "neutral",
-        "title": "G vs. VRT: Which Stock Should Value Investors Buy Now?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1FEOE9GTThvbHhRZXRBNVh2Mi05c1JzZnZzZkdBckotNnhqRHNGQVozYW8tQUExbWpKeUd6dEpzNEQ4NkRFMklYNXo0UzZyaVBjOUdpUUg0WTN2ZlNYZVBTTXBUaVhHUFNIYWVDUm12dWdlZGt4Yk4xR2NVWXQ3UEFyQWMwNG83TkV3VUZn?oc=5",
-        "date": "08/15 00:40"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
-        "date": "08/15 06:26"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlJmOFZTYTlLWVpLbUlUajA0S3Z5X2h0QXltaFl0R3F4cV9oUDZEclJxOS1rVmRWalNCU3loQVkyc1dDT2NvQXF4OEoyTlFEbUhoTDRhQnQwZi1ISXl1ZEt3bEczbXd2YUNhcnNGZWhlMUl3em1KX3VZRV8xd1VGRzg0ZEZXdlpYbHZqRHMzMl82dDd3endMaW45bGhabi04VHg2TmtjSkcyMWpFXzJ3QVdaY0wwcV9ETnd4SlNsU2k0M041ellQSFl0dU96bFZKenUwQtIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
-        "date": "08/12 16:45"
-      },
-      {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "07/29 16:00"
-      }
-    ]
-  }
+  "news": {}
 }
