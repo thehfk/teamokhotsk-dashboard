@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T07:04:45.160326+00:00",
+  "updatedAt": "2026-08-15T07:49:24.275391+00:00",
   "market": {
     "cards": [
       {
@@ -91,12 +91,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -156,12 +159,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -221,12 +227,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -286,12 +295,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -855,13 +867,13 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65
@@ -896,7 +908,7 @@
       {
         "type": "positive",
         "title": "Broadcom Falls as Investors Appear to Take Profits Ahead of Earnings",
-        "publisher": "Quiver Quantitative",
+        "publisher": "quiverquant.com",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaUtFRUJVaFZKZzVQQ0cycmlaUUFmd1J5VUZ1X0N4U2xCenpCbHViZGdFZUEtVmJNUlY5MmNzY3B6dFFvOWNoOEgzTDhRZktDZm9EU1lpTjZWWVFGTWRTQUtCMDZpbll3akdpOGpNdHlHSlppZlN1clh4b09YWkhLNi03WEJfdlMwM0JTbmhJd3dmMk9ZZGlCVnB1OGVEZlZJa09z?oc=5",
         "date": "08/14 23:52"
       },
@@ -919,30 +931,37 @@
       {
         "type": "positive",
         "title": "Fund Update: 850,000 GOOGLE (GOOGL) shares added to Third Point LLC portfolio",
-        "publisher": "Quiver Quantitative",
+        "publisher": "quiverquant.com",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZks5ZTJPdVBydUZUcWlOSlVEWk5tQ0ZVRXU4U3I1c2RFVzc4Z0lGcFJGd1huLUEzd25xb2dYaFREUXgwVUFXS0Z3OFZOQzhFRE11TG9VZlZpTlRtUk0zYVB4WXhaYlM1cFJjSGQ4OGhMYkJBS19lNmRJTjFPVFltRV96d3g2dll4ME1EaWd1aTY0UDItbGhwdEJWM1dubnVscEZOdGU5Z0tsckNPUFpGM19YZ1VfVW0xRmc?oc=5",
         "date": "08/15 06:35"
       },
       {
         "type": "neutral",
         "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
-        "publisher": "benzinga.com",
+        "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
         "date": "08/12 00:45"
       },
       {
         "type": "neutral",
-        "title": "Alphabet Inc. $GOOGL Stock Holdings Decreased by Westmount Partners LLC",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMjJORjdYa0IwOU1FcGVzMTJBNFFaNTY1Qks4QmJPZy1BSndONEVDaFhnLWV5bWpZX0lxTVFFSDU0dzVZT0tZem41SUtNS0R6UFNZNDVUZEpUd3hwTUgzWHI0X0d0eUEtcVJnaFA1c0hvald5REpPajVqenduT3lUZDNCVmNfUk93Z0Nwcm81X3gyNzNWZEdvZjE1ZGFaWTJMWEVqbzUzTlJSZkFxeER3RlVPdG9DbXQxZWJ2T0dCOGdzV2FwSDE5YjBn?oc=5",
-        "date": "08/14 20:14"
+        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
+        "date": "08/11 05:02"
       }
     ],
     "QCOM": [
       {
+        "type": "neutral",
+        "title": "Qualcomm (QCOM) Stock Looks Fairly Valued On Its 61% Three Year Run",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWVTR1hSTEVVdFVNekxfc2JHbHFIbUJVengydGwtaXNuRmM4eTJGQnc5MGQxSEJPWUlscVBVNjQ5T3hlazM0VEM1ek43ZmpZMHZwYllCWUpxOGdMRERfUWFQQkw0TE8wS3llb0RQWkxmeXI5czl4dEIwWXVHaFp4THc0R1dteUpJdVVCMU5KRUV2OGdSa2MyNEFVQmtONlRFa3d2MEVHYzNua3FFX3NUTkk1OVotUGFBdzlrN0pHLU82Zy1pMkhYZTR0cTV2UdIB0wFBVV95cUxNZHhzcjE0OW9sVExtOHU5SmJPaFQ3TlBYaU0yOTVmcWt4Q0ctbXM3di15R3c4V3B6VnkydFU4TzVBaTNTTWRUVHZoNlNmWW56Nk44NVJvaXRtZEdBWDlzRi1FZ2J0MXM1azlWcXZ3ZWNhZ0t4SGRvaS16UlhkeHZHSEdqSURUYTc3M2lIMzhLc1JlSXZsbkZiZnVrREV1S3VacXJod1RjUUItbEJYd29abWc1ZEFoLVBIdGVpR2xJdGdzR2tybTd3ZG5pMXAwcVZWaDZr?oc=5",
+        "date": "08/15 16:29"
+      },
+      {
         "type": "negative",
         "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
         "date": "08/15 05:24"
       },
@@ -959,13 +978,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHRqdGFjSWZCYkFYR1M4dFhhTnhZVHI2WEVCc1ZkSWNQc25yNXhOMW9qU1RsR0E3SDdaMTN6ZTdfWDVFQTR0R3lfZERITnhVb28xXzVOdlNsYVFjbzdoV3ZtLWpJS3JVMTlrY3FtNFpyLXdOM1VvTEpoZFBjaUF6d0ZXLXVGcWZSeE1Mb1hKNEFqRno0Nk5VbGdCS2F2UQ?oc=5",
         "date": "06/30 16:00"
-      },
-      {
-        "type": "negative",
-        "title": "Qualcomm (NASDAQ: QCOM) Stock Price Slides After Earnings Miss As Management Points To China Recovery",
-        "publisher": "foreignpolicyjournal.com",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3djQ1lEV1l4dzNUQWJaZUJxS004eGxoamo4SDdiMG02cEtXU1ByX3lCNWVMOHR0T3BvOUMydXpzZk52T0NsRWRYUU54LTBWQzBYdDIwZGFxRlVvVi1RVXJfZVdqclV4Y2dWR3BZN2h1UGdzdkxQYnc0ZGVQN29VeTF0MmRxTjNiZ1F4cEdwS0xFc0JrZ1dtNFdhRm9LZ3Rfem9RY2dJcmVwdExHUUxteDZ0TGxlMVlGNjZpdDZVSTZpcUhaUVFuOW9yTEM5ZS12RE1EQnZFbXVaMHZEbTRvcQ?oc=5",
-        "date": "08/12 22:39"
       }
     ],
     "VRT": [
