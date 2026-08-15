@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T17:12:04.294032+00:00",
+  "updatedAt": "2026-08-15T17:42:29.650208+00:00",
   "market": {
     "cards": [
       {
@@ -367,15 +367,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -437,15 +434,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -874,6 +868,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -893,10 +888,10 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
-        "date": "08/13 01:54"
+        "title": "What Separates AVGO From Its Peers Right Now",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
+        "date": "08/15 04:13"
       },
       {
         "type": "neutral",
@@ -907,33 +902,33 @@
       },
       {
         "type": "neutral",
-        "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
-        "date": "08/13 15:09"
-      },
-      {
-        "type": "neutral",
         "title": "$AVGO stock fell 9% this week. Here's what we see in our data.",
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlRROVQ5NGktOHpKUlhjMnhZenFxWTEtVG9JZktLZlRWUDBaMmpadjhQdUE2ejA4SWNHR0ZQdFAxWGYtQUMxUHd6T1B0emJjSy1wekxjWFdidF9UZWtqeDk3TklUYnJ3bV9KMmpaZnZGQ2NRYmxvV1REcHhabVJtR09oZE11Zm1KM21JUnprc2dBTWM3RFk0b1VmbkZjNzVUXzZF?oc=5",
         "date": "08/16 01:39"
+      },
+      {
+        "type": "negative",
+        "title": "Is Broadcom (AVGO) Stock Above Fair Value After Its 15% Drop?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTh0NHhXQnZTR0F4Skw0cERySWl1bF9SeDV3U1pyMkQ5MlI1SUFONzAtZmI4VUx0OFRiZHVqTlYwVkZHTVJCQm9FTGJUMW5yYXpvTVVqY00wV29aaGE3cWMyTVE3bUw2eVQyUlJjN3lzMHo4WkdVRGwwNUxHMjZNZUhnbjdLdC1TZXNnS1hmVEIwWFFiT3pYWlVMb2ZCcnViUGdsN2ZxZVR1N1ZhRUJTcmdmWkQ5MkdXbGdFNGFXVi16YXJReloxdnFR0gHPAUFVX3lxTE96NWZZbmVTS2dmb2V2c1h2TWVxMzdVWTlIVF9hX1FsMEVvVUpYejR0VTZJdjExeURENTU3dU5RdWNERURMTTdNRWFfbGR1NkI1N1pxVkFGUThScjg0NkpPbHFCZUdzbGdmOUN2bnlNbEd3S2UxSDZfUS1QZHhHSkJTRkh3M0NQODFTVUtmUGdrc21pUml4eElyNkFvMm1XVWpIV0dQZmNkOVdFalBwSGR1ejF0azlTQTBYckZOajBiRGktdlZzRGZMdHlZWWhDUQ?oc=5",
+        "date": "08/13 23:32"
       }
     ],
     "GOOGL": [
-      {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/12 02:10"
-      },
       {
         "type": "neutral",
         "title": "$GOOGL stock fell 3% this week. Here's what we see in our data.",
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmFMcDl6RFdHVm5fV21SUVV0UDJTdjBWeE1jMVMzRzh2R2hPRWVWZWNNM0tUTFo2bDBrVDZpNXFudVV4VkxORnN4THNaT1diSkhGN2NlQkVycXdGai14c0tFOTVqQTJ4cU00MFNLa3RrXzRQenJ3S2FFZURHR3d6dTRZY3M5cGwyTkJjdXZ3b3RWYXo2MVBoNm1uMTgtZ293ZVJHMA?oc=5",
         "date": "08/16 01:39"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/12 02:10"
       },
       {
         "type": "negative",
