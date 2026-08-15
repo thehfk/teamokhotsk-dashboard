@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T23:44:19.960616+00:00",
+  "updatedAt": "2026-08-15T00:39:37.977710+00:00",
   "market": {
     "cards": [
       {
@@ -30,7 +30,7 @@
       {
         "name": "원달러환율",
         "value": 1416.48,
-        "change": 0.0
+        "change": -0.03
       },
       {
         "name": "KOSPI",
@@ -553,6 +553,7 @@
               1417.31,
               1412.18,
               1416.46,
+              1416.85,
               1416.48
             ]
           }
@@ -769,10 +770,10 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "What Separates AVGO From Its Peers Right Now",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
-        "date": "08/15 04:13"
+        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
+        "date": "08/13 01:54"
       },
       {
         "type": "neutral",
@@ -808,7 +809,7 @@
         "type": "positive",
         "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
         "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV3?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV30gHDAUFVX3lxTE9FRjlqYUhhTFRVMk9NUHIyMDdxVF9YRVBIU0lXVTdac25za08zSlE0ZUhfOHlPS1VjM25jTGFxM3FOR0dLZlZIU1paRGhKdkJCYjZvYkVHRGUzSHQ2WXRkaldMU0FISThRZ2VRckNLWHhwS0J4VUQzYVVyeEN0RllPMkxTeDNWT040Vm1NWElCZzN1RTRpU2RaejhaRjRKa1pPQ0l5eE9WQlo5REpwNkp3bGxfdzRNQ2hFclZ6ak1Xdm9zYw?oc=5",
         "date": "08/15 05:31"
       },
       {
