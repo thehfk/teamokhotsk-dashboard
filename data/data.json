@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:10:52.945196+00:00",
+  "updatedAt": "2026-08-15T23:41:09.217085+00:00",
   "market": {
     "cards": [
       {
@@ -893,10 +893,24 @@
     "AVGO": [
       {
         "type": "neutral",
+        "title": "Why Broadcom (AVGO) Stock Is Sinking Today – August 14, 2026",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTFWNXlaZ2xIdXVwVzJ3U2tEWmR2eE5EVGFJZzFPbjc0YTY1NmtxTDZReFBmR1ZlZGFIZXBLMVkxUHZEMFBVSkhMNWhlOURjMDJtSkdySTVjOXU2T2dDMFRxUDBKR1hCYW02TjJmSGw4WlVhQkZOQVVqYlc5d2Y2U0ZNNlpqb1lPNjBwV0N3?oc=5",
+        "date": "08/15 03:28"
+      },
+      {
+        "type": "neutral",
         "title": "What Separates AVGO From Its Peers Right Now",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
         "date": "08/15 04:13"
+      },
+      {
+        "type": "neutral",
+        "title": "Cathie Wood buys $16.2 million of popular semiconductor stock",
+        "publisher": "thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlpBZmtxU3VkeXVkOUpKVUNVQW5QSDUxWXpDY0dkNXRfTjYyblVheDlaQkY2QjJOS2xYLUNXXzh3OVB6dmx0YXFndlNKTGwwMWgwelMyVkZyTlotaE1sbWxuUG1JXzVzTlAwanZIVFRNWmZhaU1IUTNZd1AwZHQ4b25nWnhXbzU2N0FzdDJzOEtGVWRsQlBXTWI0MFFNSF81MkNpMjJnWQ?oc=5",
+        "date": "08/13 04:07"
       },
       {
         "type": "negative",
@@ -904,20 +918,6 @@
         "publisher": "TradingView",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXRvbDk4VjdMY1FlV2lWeFRCR1FXSGJrNDhyaXVNdl9Qd1F2N3pPSVJjU3lnc0RISGZmZFBaVnBkdzFJRmVzQjVQbkE3WnlfdHpUTTVuTHg2ZjhMRHZIOXlkRGdpbnhpSHc3ZElyOUd0SWFuVDR4UjM2aHNqZ2N4eHVIRUZRMTJhSU1LZWRheURGZHVudEE2M1pkakctT0thWUdoZU92OHR3eUtQVXV0dG93U0k?oc=5",
         "date": "08/15 03:24"
-      },
-      {
-        "type": "neutral",
-        "title": "$AVGO stock fell 9% this week. Here's what we see in our data.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlRROVQ5NGktOHpKUlhjMnhZenFxWTEtVG9JZktLZlRWUDBaMmpadjhQdUE2ejA4SWNHR0ZQdFAxWGYtQUMxUHd6T1B0emJjSy1wekxjWFdidF9UZWtqeDk3TklUYnJ3bV9KMmpaZnZGQ2NRYmxvV1REcHhabVJtR09oZE11Zm1KM21JUnprc2dBTWM3RFk0b1VmbkZjNzVUXzZF?oc=5",
-        "date": "08/16 01:39"
-      },
-      {
-        "type": "neutral",
-        "title": "What Is The Market Really Expecting From AVGO Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTRZSzVZd2JfMVVBVTFPcVEyamsyUEE5TGFJcVhaLXVHNTJZQmwxU0c0eVFEc09SVHk2MDBPZnBoZ3gtREVzeENJbDFxcE1fc0MzTUJyZlRKVW9KSDhJb2M2NVlub2FYdTRkWUNkenB0dVV0emo5TktwM0VTUXphdTl2a0UtVDNvS21MczBKOXotQkhudmJQUzhjMUhycHpZYTVlZmFQOUJQOERCVkdLLUpMMXc?oc=5",
-        "date": "08/12 06:07"
       }
     ],
     "GOOGL": [
@@ -936,18 +936,18 @@
         "date": "08/12 02:10"
       },
       {
-        "type": "negative",
-        "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVpBaW1UaTNtd1g0djBoNURXR0pyeXIyN3o3ZlpYS2Q0Um54UkZXMXZsQXFiWUh0MFRnbUNzTHNMZHJNOWdiWGZDcXVDMmRQZ2U0ZmU1OEk0MXFaaHZmeTNNT1hRU1Q0cE9sWXlpWXE4aTl6bDhUVk9lTWZNTUlVTEFUQnEteUtFNFlMWE9oTVFETnhIQXh4TWxqMFpJZW1vR0dueUdpZ1h6LThuMndNV0tlc1R4N1JpbUt3Uno2dzd2WVk?oc=5",
-        "date": "08/16 02:00"
-      },
-      {
         "type": "neutral",
         "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
         "date": "08/12 00:45"
+      },
+      {
+        "type": "neutral",
+        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW5vMUtQUDV4eUJHOUV2Q1FicFd4OGpJYkg0YkUxclhZRVJtM2s1Q0VLTUpxR0h3QXFRNVRWQnY3ZE14aU9zb0syd3VUTjFSOXJPTDdONDNSYTNHdURpMHk3a3dYa1hBT0xQLVdLNE1UWXAySkhRbENScXZWckkzV0RqVVBsZ29ZcjgyQWplMmNLaVc4OUZWbWYwQTY2NE50UkVtYXVmblpkWDBhRkNQem0xNEI1YmFZMU5Ta1NVdHB0MG5nUUdzZ2wtNHZwRmpBVTlWdjBVUQ?oc=5",
+        "date": "08/11 05:02"
       }
     ],
     "QCOM": [
@@ -999,15 +999,15 @@
         "type": "positive",
         "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlJmOFZTYTlLWVpLbUlUajA0S3Z5X2h0QXltaFl0R3F4cV9oUDZEclJxOS1rVmRWalNCU3loQVkyc1dDT2NvQXF4OEoyTlFEbUhoTDRhQnQwZi1ISXl1ZEt3bEczbXd2YUNhcnNGZWhlMUl3em1KX3VZRV8xd1VGRzg0ZEZXdlpYbHZqRHMzMl82dDd3endMaW45bGhabi04VHg2TmtjSkcyMWpFXzJ3QVdaY0wwcV9ETnd4SlNsU2k0M041ellQSFl0dU96bFZKenUwQtIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
-        "date": "08/12 16:45"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEJRbW5JQk1rNFlySC1iRHUxNUtDUGRJOEFleVoteHV5SFh6U2stWFFUN05SWU5WNzVyMHpId3hwWmVHcWJuOEpYX3ZLSkl1blBfMGp4Y1FFVlpLUU95eXVkbnUxRkpqREplS3UwUDJZTE1jZzJFMmd5QXBEb0ZmdHUwRTdZejNpNXBfeXBzQWZEcmdHRE1HZGlNNNIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
+        "date": "08/13 14:03"
       },
       {
-        "type": "neutral",
-        "title": "VRT Stock After the Q2 Selloff: What Vertiv's Balance Sheet Says That Its Press Release Didn't",
-        "publisher": "top1markets.com",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNcXRXRGEwb3BJR05xRnVWSjhfbTAtemxTbG1vckg5S0o4bnRsdF9QNTNCZUpzRFY2bXZySDc2bDQtUTB1WkNvOHBxbkctX2dRZjFsXzlWYWpHbUNnUUxfZDJERXZJcFdDdW9oSV8yUFN1djhHRm01U0pUdVRhOVk?oc=5",
-        "date": "08/14 22:26"
+        "type": "negative",
+        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
+        "date": "07/29 16:00"
       }
     ]
   }
