@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T20:11:18.472902+00:00",
+  "updatedAt": "2026-08-15T20:45:41.675080+00:00",
   "market": {
     "cards": [
       {
@@ -367,12 +367,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -434,12 +437,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -868,7 +874,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65
@@ -888,6 +893,13 @@
     "AVGO": [
       {
         "type": "neutral",
+        "title": "Why Broadcom (AVGO) Stock Is Sinking Today – August 14, 2026",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTFWNXlaZ2xIdXVwVzJ3U2tEWmR2eE5EVGFJZzFPbjc0YTY1NmtxTDZReFBmR1ZlZGFIZXBLMVkxUHZEMFBVSkhMNWhlOURjMDJtSkdySTVjOXU2T2dDMFRxUDBKR1hCYW02TjJmSGw4WlVhQkZOQVVqYlc5d2Y2U0ZNNlpqb1lPNjBwV0N3?oc=5",
+        "date": "08/15 03:28"
+      },
+      {
+        "type": "neutral",
         "title": "What Separates AVGO From Its Peers Right Now",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
@@ -902,17 +914,10 @@
       },
       {
         "type": "neutral",
-        "title": "$AVGO stock fell 9% this week. Here's what we see in our data.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlRROVQ5NGktOHpKUlhjMnhZenFxWTEtVG9JZktLZlRWUDBaMmpadjhQdUE2ejA4SWNHR0ZQdFAxWGYtQUMxUHd6T1B0emJjSy1wekxjWFdidF9UZWtqeDk3TklUYnJ3bV9KMmpaZnZGQ2NRYmxvV1REcHhabVJtR09oZE11Zm1KM21JUnprc2dBTWM3RFk0b1VmbkZjNzVUXzZF?oc=5",
-        "date": "08/16 01:39"
-      },
-      {
-        "type": "neutral",
-        "title": "What Is The Market Really Expecting From AVGO Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTRZSzVZd2JfMVVBVTFPcVEyamsyUEE5TGFJcVhaLXVHNTJZQmwxU0c0eVFEc09SVHk2MDBPZnBoZ3gtREVzeENJbDFxcE1fc0MzTUJyZlRKVW9KSDhJb2M2NVlub2FYdTRkWUNkenB0dVV0emo5TktwM0VTUXphdTl2a0UtVDNvS21MczBKOXotQkhudmJQUzhjMUhycHpZYTVlZmFQOUJQOERCVkdLLUpMMXc?oc=5",
-        "date": "08/12 06:07"
+        "title": "Cathie Wood buys $16.2 million of popular semiconductor stock",
+        "publisher": "thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlpBZmtxU3VkeXVkOUpKVUNVQW5QSDUxWXpDY0dkNXRfTjYyblVheDlaQkY2QjJOS2xYLUNXXzh3OVB6dmx0YXFndlNKTGwwMWgwelMyVkZyTlotaE1sbWxuUG1JXzVzTlAwanZIVFRNWmZhaU1IUTNZd1AwZHQ4b25nWnhXbzU2N0FzdDJzOEtGVWRsQlBXTWI0MFFNSF81MkNpMjJnWQ?oc=5",
+        "date": "08/13 04:07"
       }
     ],
     "GOOGL": [
@@ -924,25 +929,25 @@
         "date": "08/16 01:39"
       },
       {
-        "type": "positive",
-        "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV30gHDAUFVX3lxTE9FRjlqYUhhTFRVMk9NUHIyMDdxVF9YRVBIU0lXVTdac25za08zSlE0ZUhfOHlPS1VjM25jTGFxM3FOR0dLZlZIU1paRGhKdkJCYjZvYkVHRGUzSHQ2WXRkaldMU0FISThRZ2VRckNLWHhwS0J4VUQzYVVyeEN0RllPMkxTeDNWT040Vm1NWElCZzN1RTRpU2RaejhaRjRKa1pPQ0l5eE9WQlo5REpwNkp3bGxfdzRNQ2hFclZ6ak1Xdm9zYw?oc=5",
-        "date": "08/15 05:31"
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/12 02:10"
       },
       {
-        "type": "positive",
-        "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUktuQkZSYnV1Q0FNbktNR01oQ1liaEdEbUxHTVlmVWtuQzlDZ184SFF1Slczbmg4UXA3bVRaVEFKOHFPSjRORExlZjk3OHVhZ3gtZzQ4eFRZM3JObmJTOXFxSFVYcllwRHYzdVJWVnZaVldvcHFSNzhKTXlodUstd2FNWUtURGVzdXNGRmpQMmsxSzBBcXU3aU1PMmJhaTh6?oc=5",
-        "date": "08/15 03:20"
+        "type": "negative",
+        "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVpBaW1UaTNtd1g0djBoNURXR0pyeXIyN3o3ZlpYS2Q0Um54UkZXMXZsQXFiWUh0MFRnbUNzTHNMZHJNOWdiWGZDcXVDMmRQZ2U0ZmU1OEk0MXFaaHZmeTNNT1hRU1Q0cE9sWXlpWXE4aTl6bDhUVk9lTWZNTUlVTEFUQnEteUtFNFlMWE9oTVFETnhIQXh4TWxqMFpJZW1vR0dueUdpZ1h6LThuMndNV0tlc1R4N1JpbUt3Uno2dzd2WVk?oc=5",
+        "date": "08/16 02:00"
       },
       {
         "type": "neutral",
-        "title": "Chesley Taft & Associates LLC Decreases Stock Holdings in Alphabet Inc. $GOOGL",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYUdrUkJ2Q1dqRjlSMy02cHJMZVd4YS0teEpQQkdrSnEzdk1jVEsxRWJTZVRRQUJ0TFFDNmx1VDBqV2JvaTZ6Z0lxZy1PSmQtSFBiV29KS2JLY1BMbDZqclNLbm0xeWJyYjVJZEpyVzFGLTJSRUMzSkxXcnJIZE52eG1sbVZIRGFJMzFWcXJwNV90c0hRSDU4dWdvaWFDWE9LenBfN25sWUI5S0VFWVhLcG91bFpFNjZLVFhxZlViUk1mdFJfcVJucXlzVlprUTU2?oc=5",
-        "date": "08/15 16:46"
+        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
+        "date": "08/12 00:45"
       }
     ],
     "QCOM": [
