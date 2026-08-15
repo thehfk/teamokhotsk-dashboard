@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:47:06.310058+00:00",
+  "updatedAt": "2026-08-15T10:13:04.387132+00:00",
   "market": {
     "cards": [
       {
@@ -91,15 +91,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -159,15 +156,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -874,6 +868,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -889,126 +884,5 @@
     "QCOM": 46.6,
     "VRT": 52.0
   },
-  "news": {
-    "AVGO": [
-      {
-        "type": "neutral",
-        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
-        "date": "08/13 01:54"
-      },
-      {
-        "type": "neutral",
-        "title": "Cathie Wood buys $16.2 million of popular semiconductor stock",
-        "publisher": "thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlpBZmtxU3VkeXVkOUpKVUNVQW5QSDUxWXpDY0dkNXRfTjYyblVheDlaQkY2QjJOS2xYLUNXXzh3OVB6dmx0YXFndlNKTGwwMWgwelMyVkZyTlotaE1sbWxuUG1JXzVzTlAwanZIVFRNWmZhaU1IUTNZd1AwZHQ4b25nWnhXbzU2N0FzdDJzOEtGVWRsQlBXTWI0MFFNSF81MkNpMjJnWQ?oc=5",
-        "date": "08/13 04:07"
-      },
-      {
-        "type": "positive",
-        "title": "Broadcom Falls as Investors Appear to Take Profits Ahead of Earnings",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaUtFRUJVaFZKZzVQQ0cycmlaUUFmd1J5VUZ1X0N4U2xCenpCbHViZGdFZUEtVmJNUlY5MmNzY3B6dFFvOWNoOEgzTDhRZktDZm9EU1lpTjZWWVFGTWRTQUtCMDZpbll3akdpOGpNdHlHSlppZlN1clh4b09YWkhLNi03WEJfdlMwM0JTbmhJd3dmMk9ZZGlCVnB1OGVEZlZJa09z?oc=5",
-        "date": "08/14 23:52"
-      },
-      {
-        "type": "neutral",
-        "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
-        "date": "08/13 15:09"
-      }
-    ],
-    "GOOGL": [
-      {
-        "type": "positive",
-        "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUktuQkZSYnV1Q0FNbktNR01oQ1liaEdEbUxHTVlmVWtuQzlDZ184SFF1Slczbmg4UXA3bVRaVEFKOHFPSjRORExlZjk3OHVhZ3gtZzQ4eFRZM3JObmJTOXFxSFVYcllwRHYzdVJWVnZaVldvcHFSNzhKTXlodUstd2FNWUtURGVzdXNGRmpQMmsxSzBBcXU3aU1PMmJhaTh6?oc=5",
-        "date": "08/15 03:20"
-      },
-      {
-        "type": "positive",
-        "title": "Fund Update: 850,000 GOOGLE (GOOGL) shares added to Third Point LLC portfolio",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZks5ZTJPdVBydUZUcWlOSlVEWk5tQ0ZVRXU4U3I1c2RFVzc4Z0lGcFJGd1huLUEzd25xb2dYaFREUXgwVUFXS0Z3OFZOQzhFRE11TG9VZlZpTlRtUk0zYVB4WXhaYlM1cFJjSGQ4OGhMYkJBS19lNmRJTjFPVFltRV96d3g2dll4ME1EaWd1aTY0UDItbGhwdEJWM1dubnVscEZOdGU5Z0tsckNPUFpGM19YZ1VfVW0xRmc?oc=5",
-        "date": "08/15 06:35"
-      },
-      {
-        "type": "neutral",
-        "title": "Chesley Taft & Associates LLC Decreases Stock Holdings in Alphabet Inc. $GOOGL",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYUdrUkJ2Q1dqRjlSMy02cHJMZVd4YS0teEpQQkdrSnEzdk1jVEsxRWJTZVRRQUJ0TFFDNmx1VDBqV2JvaTZ6Z0lxZy1PSmQtSFBiV29KS2JLY1BMbDZqclNLbm0xeWJyYjVJZEpyVzFGLTJSRUMzSkxXcnJIZE52eG1sbVZIRGFJMzFWcXJwNV90c0hRSDU4dWdvaWFDWE9LenBfN25sWUI5S0VFWVhLcG91bFpFNjZLVFhxZlViUk1mdFJfcVJucXlzVlprUTU2?oc=5",
-        "date": "08/15 16:46"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlaUVJIZ2FMWVdtNzY3RDM4MUdyU2FubVdTRjl1R3hwWGlEQTJRU1h4c2ZqRjlNQzc5RjY3NXFyYVV6NHZVZFNmMnRMc0dmOUNSVlFiMHh6Z01JWkdjRjVic1dXYVVLOGNCdzRtLUJySy1mTnZTT0Z3LVpSazVneG56cFZVd09TU0NReTk5aFhkZGZyNXctUVlHUVFXdXFmM2JtOHNWdTJCcjhDdHZfWEdDMGJLTWlTQWdHZzJHa3MzeW5B?oc=5",
-        "date": "08/12 00:45"
-      }
-    ],
-    "QCOM": [
-      {
-        "type": "neutral",
-        "title": "Qualcomm (QCOM) Stock Looks Fairly Valued On Its 61% Three Year Run",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWVTR1hSTEVVdFVNekxfc2JHbHFIbUJVengydGwtaXNuRmM4eTJGQnc5MGQxSEJPWUlscVBVNjQ5T3hlazM0VEM1ek43ZmpZMHZwYllCWUpxOGdMRERfUWFQQkw0TE8wS3llb0RQWkxmeXI5czl4dEIwWXVHaFp4THc0R1dteUpJdVVCMU5KRUV2OGdSa2MyNEFVQmtONlRFa3d2MEVHYzNua3FFX3NUTkk1OVotUGFBdzlrN0pHLU82Zy1pMkhYZTR0cTV2UdIB0wFBVV95cUxNZHhzcjE0OW9sVExtOHU5SmJPaFQ3TlBYaU0yOTVmcWt4Q0ctbXM3di15R3c4V3B6VnkydFU4TzVBaTNTTWRUVHZoNlNmWW56Nk44NVJvaXRtZEdBWDlzRi1FZ2J0MXM1azlWcXZ3ZWNhZ0t4SGRvaS16UlhkeHZHSEdqSURUYTc3M2lIMzhLc1JlSXZsbkZiZnVrREV1S3VacXJod1RjUUItbEJYd29abWc1ZEFoLVBIdGVpR2xJdGdzR2tybTd3ZG5pMXAwcVZWaDZr?oc=5",
-        "date": "08/15 16:29"
-      },
-      {
-        "type": "negative",
-        "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
-        "date": "08/15 05:24"
-      },
-      {
-        "type": "neutral",
-        "title": "Milestone Asset Management LLC Decreases Stock Position in Qualcomm Incorporated $QCOM",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbUpndDhvUVNQVnEwTVBIVXFyTjBfREZwQU5HNThXc1M4OEJMWTRMS0EwLV9oYjFoejB2d09nb0xDc3ZLeG42aGIyWi0yU2F0X2x3dDNZVjFIemloMzd4SGtYdWhBUGxLZ3FsYnFPclVaMi12Z0tBWTROU3BvS21aS19YQlc0MV80MW9EeC1HQTR1bDhNOXRma3FQUnQwSmFRR3VkdTBURlFsMGxvdTV6TnhJOWZWdVNGbW1tZU5aVlF6eHRLM3U0VVpqQTROcHB4U3oyWUstRnNMSVBKN1gw?oc=5",
-        "date": "08/15 18:34"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
-        "date": "08/14 03:37"
-      }
-    ],
-    "VRT": [
-      {
-        "type": "neutral",
-        "title": "G vs. VRT: Which Stock Should Value Investors Buy Now?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1FEOE9GTThvbHhRZXRBNVh2Mi05c1JzZnZzZkdBckotNnhqRHNGQVozYW8tQUExbWpKeUd6dEpzNEQ4NkRFMklYNXo0UzZyaVBjOUdpUUg0WTN2ZlNYZVBTTXBUaVhHUFNIYWVDUm12dWdlZGt4Yk4xR2NVWXQ3UEFyQWMwNG83TkV3VUZn?oc=5",
-        "date": "08/15 00:40"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
-        "date": "08/15 06:26"
-      },
-      {
-        "type": "neutral",
-        "title": "VRT Stock After the Q2 Selloff: What Vertiv's Balance Sheet Says That Its Press Release Didn't",
-        "publisher": "top1markets.com",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNcXRXRGEwb3BJR05xRnVWSjhfbTAtemxTbG1vckg5S0o4bnRsdF9QNTNCZUpzRFY2bXZySDc2bDQtUTB1WkNvOHBxbkctX2dRZjFsXzlWYWpHbUNnUUxfZDJERXZJcFdDdW9oSV8yUFN1djhHRm01U0pUdVRhOVk?oc=5",
-        "date": "08/14 22:26"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEJRbW5JQk1rNFlySC1iRHUxNUtDUGRJOEFleVoteHV5SFh6U2stWFFUN05SWU5WNzVyMHpId3hwWmVHcWJuOEpYX3ZLSkl1blBfMGp4Y1FFVlpLUU95eXVkbnUxRkpqREplS3UwUDJZTE1jZzJFMmd5QXBEb0ZmdHUwRTdZejNpNXBfeXBzQWZEcmdHRE1HZGlNNNIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
-        "date": "08/13 14:03"
-      }
-    ]
-  }
+  "news": {}
 }
