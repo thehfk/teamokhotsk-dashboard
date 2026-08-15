@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T17:42:29.650208+00:00",
+  "updatedAt": "2026-08-15T18:14:21.375945+00:00",
   "market": {
     "cards": [
       {
@@ -367,12 +367,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -434,12 +437,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -868,7 +874,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65
@@ -888,10 +893,10 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "What Separates AVGO From Its Peers Right Now",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
-        "date": "08/15 04:13"
+        "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmlXdDc1MHVYQmRkdk1VSTFzcWg3MHRYUnp6R0NWSzRTcHVwSE05RmU4ZkkxZzMtZ1RnSkdVM1RUYTF1Z1JRRE9fZXVuMGhBLWpCNl9CNlk2bGRRRldWNjB3Q1Y3UV9raThIbmxGZzlBWVl1cWxjU1BBOTk0TEJIOG1sQnJSRk9VWnVWVnFPQzFjSUJWSlk0?oc=5",
+        "date": "08/13 01:54"
       },
       {
         "type": "neutral",
@@ -902,17 +907,17 @@
       },
       {
         "type": "neutral",
+        "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
+        "date": "08/13 15:09"
+      },
+      {
+        "type": "neutral",
         "title": "$AVGO stock fell 9% this week. Here's what we see in our data.",
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlRROVQ5NGktOHpKUlhjMnhZenFxWTEtVG9JZktLZlRWUDBaMmpadjhQdUE2ejA4SWNHR0ZQdFAxWGYtQUMxUHd6T1B0emJjSy1wekxjWFdidF9UZWtqeDk3TklUYnJ3bV9KMmpaZnZGQ2NRYmxvV1REcHhabVJtR09oZE11Zm1KM21JUnprc2dBTWM3RFk0b1VmbkZjNzVUXzZF?oc=5",
         "date": "08/16 01:39"
-      },
-      {
-        "type": "negative",
-        "title": "Is Broadcom (AVGO) Stock Above Fair Value After Its 15% Drop?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTh0NHhXQnZTR0F4Skw0cERySWl1bF9SeDV3U1pyMkQ5MlI1SUFONzAtZmI4VUx0OFRiZHVqTlYwVkZHTVJCQm9FTGJUMW5yYXpvTVVqY00wV29aaGE3cWMyTVE3bUw2eVQyUlJjN3lzMHo4WkdVRGwwNUxHMjZNZUhnbjdLdC1TZXNnS1hmVEIwWFFiT3pYWlVMb2ZCcnViUGdsN2ZxZVR1N1ZhRUJTcmdmWkQ5MkdXbGdFNGFXVi16YXJReloxdnFR0gHPAUFVX3lxTE96NWZZbmVTS2dmb2V2c1h2TWVxMzdVWTlIVF9hX1FsMEVvVUpYejR0VTZJdjExeURENTU3dU5RdWNERURMTTdNRWFfbGR1NkI1N1pxVkFGUThScjg0NkpPbHFCZUdzbGdmOUN2bnlNbEd3S2UxSDZfUS1QZHhHSkJTRkh3M0NQODFTVUtmUGdrc21pUml4eElyNkFvMm1XVWpIV0dQZmNkOVdFalBwSGR1ejF0azlTQTBYckZOajBiRGktdlZzRGZMdHlZWWhDUQ?oc=5",
-        "date": "08/13 23:32"
       }
     ],
     "GOOGL": [
@@ -994,8 +999,8 @@
         "type": "positive",
         "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlJmOFZTYTlLWVpLbUlUajA0S3Z5X2h0QXltaFl0R3F4cV9oUDZEclJxOS1rVmRWalNCU3loQVkyc1dDT2NvQXF4OEoyTlFEbUhoTDRhQnQwZi1ISXl1ZEt3bEczbXd2YUNhcnNGZWhlMUl3em1KX3VZRV8xd1VGRzg0ZEZXdlpYbHZqRHMzMl82dDd3endMaW45bGhabi04VHg2TmtjSkcyMWpFXzJ3QVdaY0wwcV9ETnd4SlNsU2k0M041ellQSFl0dU96bFZKenUwQtIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
-        "date": "08/12 16:45"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEJRbW5JQk1rNFlySC1iRHUxNUtDUGRJOEFleVoteHV5SFh6U2stWFFUN05SWU5WNzVyMHpId3hwWmVHcWJuOEpYX3ZLSkl1blBfMGp4Y1FFVlpLUU95eXVkbnUxRkpqREplS3UwUDJZTE1jZzJFMmd5QXBEb0ZmdHUwRTdZejNpNXBfeXBzQWZEcmdHRE1HZGlNNNIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
+        "date": "08/13 14:03"
       },
       {
         "type": "negative",
