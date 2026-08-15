@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T00:39:37.977710+00:00",
+  "updatedAt": "2026-08-15T02:07:52.620132+00:00",
   "market": {
     "cards": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "name": "KOSPI",
-        "value": 6813.34,
-        "change": 3.56
+        "value": 6977.94,
+        "change": 2.42
       },
       {
         "name": "KOSDAQ",
-        "value": 861.37,
-        "change": 0.29
+        "value": 864.65,
+        "change": 0.38
       }
     ],
     "groups": [
@@ -91,12 +91,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -156,12 +159,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -621,7 +627,8 @@
           "08/10",
           "08/11",
           "08/12",
-          "08/13"
+          "08/13",
+          "08/14"
         ],
         "series": [
           {
@@ -686,7 +693,8 @@
               6299.66,
               6345.53,
               6579.04,
-              6813.34
+              6813.34,
+              6977.94
             ]
           },
           {
@@ -745,6 +753,7 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
@@ -753,7 +762,8 @@
               854.47,
               857.84,
               858.91,
-              861.37
+              861.37,
+              864.65
             ]
           }
         ]
@@ -808,7 +818,7 @@
       {
         "type": "positive",
         "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
-        "publisher": "CNBC",
+        "publisher": "cnbc.com",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV30gHDAUFVX3lxTE9FRjlqYUhhTFRVMk9NUHIyMDdxVF9YRVBIU0lXVTdac25za08zSlE0ZUhfOHlPS1VjM25jTGFxM3FOR0dLZlZIU1paRGhKdkJCYjZvYkVHRGUzSHQ2WXRkaldMU0FISThRZ2VRckNLWHhwS0J4VUQzYVVyeEN0RllPMkxTeDNWT040Vm1NWElCZzN1RTRpU2RaejhaRjRKa1pPQ0l5eE9WQlo5REpwNkp3bGxfdzRNQ2hFclZ6ak1Xdm9zYw?oc=5",
         "date": "08/15 05:31"
       },
@@ -845,7 +855,7 @@
       {
         "type": "positive",
         "title": "Qualcomm’s Android Growth Number Has Left The Front Of The Story",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFRYc0tzNmNoX21OMVdiUkdqX0ItaU9YelpDVjZGSmxiMHl2OF8yMnU1OVE0U2Z5b2dZSDVsWGY4NGVEcmpBYzQyR1ZJZDFvX3J3bXR2cHQyZFVoaVdNbGpfcmVpNjhseFQ2dmpINC1WTlJMbk9MNWFXM19TbmhJZGZCRW1CaGNwSkhLSnhYODYwVzF0RWprWlM0d1ZtU0RGb0NLSmpOWEhENU5PWUxXUzRtQ2dLYVhhZDBFSnpibVlfUQ?oc=5",
         "date": "08/11 00:06"
       },
