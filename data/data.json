@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:10:14.579056+00:00",
+  "updatedAt": "2026-08-15T04:00:06.589302+00:00",
   "market": {
     "cards": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "name": "다우존스",
-        "value": 53732.4,
+        "value": 53732.41,
         "change": -0.2
       },
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1416.48,
-        "change": -0.03
+        "value": 1412.0,
+        "change": -0.34
       },
       {
         "name": "KOSPI",
@@ -91,12 +91,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -156,12 +159,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -221,12 +227,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -304,7 +313,7 @@
               53791.85,
               53770.27,
               53839.99,
-              53732.4
+              53732.41
             ]
           }
         ]
@@ -358,12 +367,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -425,12 +437,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -653,7 +668,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1416.48
+              1412.0
             ]
           }
         ]
@@ -982,18 +997,18 @@
         "date": "08/15 06:26"
       },
       {
+        "type": "neutral",
+        "title": "VRT Stock After the Q2 Selloff: What Vertiv's Balance Sheet Says That Its Press Release Didn't",
+        "publisher": "top1markets.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNcXRXRGEwb3BJR05xRnVWSjhfbTAtemxTbG1vckg5S0o4bnRsdF9QNTNCZUpzRFY2bXZySDc2bDQtUTB1WkNvOHBxbkctX2dRZjFsXzlWYWpHbUNnUUxfZDJERXZJcFdDdW9oSV8yUFN1djhHRm01U0pUdVRhOVk?oc=5",
+        "date": "08/14 22:26"
+      },
+      {
         "type": "positive",
         "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEJRbW5JQk1rNFlySC1iRHUxNUtDUGRJOEFleVoteHV5SFh6U2stWFFUN05SWU5WNzVyMHpId3hwWmVHcWJuOEpYX3ZLSkl1blBfMGp4Y1FFVlpLUU95eXVkbnUxRkpqREplS3UwUDJZTE1jZzJFMmd5QXBEb0ZmdHUwRTdZejNpNXBfeXBzQWZEcmdHRE1HZGlNNNIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
         "date": "08/13 14:03"
-      },
-      {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "07/29 16:00"
       }
     ]
   }
