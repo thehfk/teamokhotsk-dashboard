@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T14:12:59.804397+00:00",
+  "updatedAt": "2026-08-16T14:45:30.672091+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.0,
-        "change": -0.34
+        "value": 1416.48,
+        "change": -0.03
       },
       {
         "name": "KOSPI",
@@ -367,12 +367,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -434,12 +437,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -662,7 +668,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1412.0
+              1416.48
             ]
           }
         ]
@@ -715,12 +721,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -781,12 +790,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -862,7 +874,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65
@@ -911,9 +922,16 @@
     ],
     "GOOGL": [
       {
+        "type": "neutral",
+        "title": "Alphabet Stock (GOOGL) Opinions on Recent AI Developments and Earnings",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVo4ZFRjRVJQN1pFbVZXT05rcXhBSllaM2ZJTExWdmhLZWxWRTQ2b1ZmU3ZWWjF3aGNEV2lQeDJudU1yWWhza2JBOFRCU0pYYnpIVmxuN01Qb0JWUm9rNW04czRCOHhrOTBCeDA0UHhoLXVwNXdaN2g0U1UyTDB5WlhqMGU3akZ6cHNISl9sVHBtekk4TlVPaURuZUFKVWRseXd6UURCRWJhcXc?oc=5",
+        "date": "08/16 23:03"
+      },
+      {
         "type": "negative",
         "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
-        "publisher": "barchart.com",
+        "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVpBaW1UaTNtd1g0djBoNURXR0pyeXIyN3o3ZlpYS2Q0Um54UkZXMXZsQXFiWUh0MFRnbUNzTHNMZHJNOWdiWGZDcXVDMmRQZ2U0ZmU1OEk0MXFaaHZmeTNNT1hRU1Q0cE9sWXlpWXE4aTl6bDhUVk9lTWZNTUlVTEFUQnEteUtFNFlMWE9oTVFETnhIQXh4TWxqMFpJZW1vR0dueUdpZ1h6LThuMndNV0tlc1R4N1JpbUt3Uno2dzd2WVk?oc=5",
         "date": "08/16 02:00"
       },
@@ -930,13 +948,6 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzF3YVFYR0t5Q3JsMlhFazBkN2pHZHI4Nm5HMDd2MmZmbHVGVGZrMzFHa3lEdEhmMi1yakw4cWduZDV1TURkZTJpV0NTU0F3cm84c0w0SjVHcjVBaDhYVmFmdFNIRVRNb2I0M09GNTlUSHdQWXE1MERrTGRmbFBSeEdNY2FQX0xZSUdMTWplVVU2QmptdTBwY3JMTnA3cDZZelEwSldQQW1qUGRpdG5Va09sUmRQUXFudXpUTGQxN2FkQQ?oc=5",
         "date": "08/16 18:24"
-      },
-      {
-        "type": "positive",
-        "title": "Warren Buffett Loads Up on Google Stock (GOOGL), Making It His Third Biggest Position",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQldqMlJVVzN4d2NOVmw5NjJWQXd4bmFtZnJxSUNKeFZ1NV9GSmNRVnlPN2JhMGpZbUtPUTZSYVM5UW5NQVhvUTZNZjhEQngzcFEydEhia0N1YXNMNFI2SngtVnZPaFlsWTQ1QUxnWl8zVWlKMVVUalRvVGNhSFFDcjlFLWloczd2WGs0WnZLYTluNldybTJKOWVFWlZqNnhIRzBBQktPMEUxTkZrZUp6OXJR?oc=5",
-        "date": "08/15 06:06"
       }
     ],
     "QCOM": [
@@ -986,10 +997,10 @@
       },
       {
         "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Raised Guidance, Is The Stock Still A Bargain?",
+        "title": "Vertiv (VRT) Stock Slides After Revenue Miss Despite Earnings Beat And Higher Outlook",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlJmOFZTYTlLWVpLbUlUajA0S3Z5X2h0QXltaFl0R3F4cV9oUDZEclJxOS1rVmRWalNCU3loQVkyc1dDT2NvQXF4OEoyTlFEbUhoTDRhQnQwZi1ISXl1ZEt3bEczbXd2YUNhcnNGZWhlMUl3em1KX3VZRV8xd1VGRzg0ZEZXdlpYbHZqRHMzMl82dDd3endMaW45bGhabi04VHg2TmtjSkcyMWpFXzJ3QVdaY0wwcV9ETnd4SlNsU2k0M041ellQSFl0dU96bFZKenUwQtIB2gFBVV95cUxQVUxmZlBOQjQ0WHRwZHh0Wkw3bl9jM0Z3eU5FWGV4TG5RWENDMUZ4Z2dIQnk1dThfYVN0SU0yM0czZVVFLUNXSmVldkU5UkFMV0hKZkhFbDlQZWNjdkl3czFDRl9XX0dzZ25wNTVBanV5ZDhZNnktWFVORngwV3RidWlVM3ZKQ09qb2ZBNURiUnZfajhBRHR0WHBCYTFUNjBFbUxRTkwwUmxzUHVGdUJtZGY0U3NKVENSdTNkbVZMSmo4NFJFVEc1dllZNS1ib3B3Qlh6enhaZTVxQQ?oc=5",
-        "date": "08/12 16:45"
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDhVb3J3NEV5VkpMbWlyS2VrOFR2RmpyOFd2UjJFTzBBR29ac3dZbXNURHFvcGU4VEFiY2ZZZG00UUxSbkZFRmZTTGJlYTZucF90clFJYmZidW15Z0k3OHV1NTNNVHBhTlFKd3pQRkRMZE05Z0JfVUNycm52T3ZKS3JTWDlJT1BqNUNmX0V5NVJ6eVE1aDNOXy1UMU9KdTE1Qk1fQ3BRaXhMZmxwWUx1djlnclFfaktJenNaQkZLSEY5UmFuaFhiLS1KQ3RGYV92a25KedIB2gFBVV95cUxNYUZsSGFhMFBCOHFnSG1XaDJ4clU1Z0w4eXVEYVkxTzdRczczcVRpeXdSNk9KcEt0Nm1VZmlnSU84WlBQRmwxLVBQUVFxajZqRXZaYVR4LWxhR3NkU1ZPUlJQa3dMemhHVVFhdW5MdDhyNzR2Y2VFZm5FRXVSMjlCSEJnZ2NpZjZZTHFDWkhfRmt1U0ZYMjJ4a0RnRFJTbi1oeklmSXhRX3hDZU5jQkcxNDhMUHQ4dzdyQnhyYm5TNC1HcEEwOU1IdFoxYXNPenZDY2ZiREFmYkk3dw?oc=5",
+        "date": "07/29 16:00"
       },
       {
         "type": "negative",
