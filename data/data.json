@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T19:41:09.238480+00:00",
+  "updatedAt": "2026-08-16T20:10:32.925530+00:00",
   "market": {
     "cards": [
       {
@@ -91,12 +91,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -156,12 +159,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -221,12 +227,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -789,7 +798,7 @@
       {
         "type": "neutral",
         "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
         "date": "08/15 06:45"
       },
@@ -803,7 +812,7 @@
       {
         "type": "neutral",
         "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
         "date": "08/16 00:11"
       },
@@ -826,7 +835,7 @@
       {
         "type": "positive",
         "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUktuQkZSYnV1Q0FNbktNR01oQ1liaEdEbUxHTVlmVWtuQzlDZ184SFF1Slczbmg4UXA3bVRaVEFKOHFPSjRORExlZjk3OHVhZ3gtZzQ4eFRZM3JObmJTOXFxSFVYcllwRHYzdVJWVnZaVldvcHFSNzhKTXlodUstd2FNWUtURGVzdXNGRmpQMmsxSzBBcXU3aU1PMmJhaTh6?oc=5",
         "date": "08/15 03:20"
       },
@@ -840,7 +849,7 @@
       {
         "type": "positive",
         "title": "Meta vs. Alphabet (GOOGL): Which Growth Stock Are U.S. Politicians Buying?",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbzg3SjZNc19URVA2YTBKbktiUUx2TkJQZGhFU0c3aGdTcjFOekUzOUJMWWNmRHl0X1JiWWRDdGtsWmtDaEVQMHNOdlJGR1dVeHhZWm9Ud1JZNUxtQzlCVkM3ZC1qTjgtZ0xaNFkxNS1MQnhfUUpqdUh6dXNOcXRMTEkyWmlfYWdPRGExN21Sc1JGR0RKNHc?oc=5",
         "date": "08/17 01:30"
       }
@@ -863,7 +872,7 @@
       {
         "type": "positive",
         "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
         "date": "08/13 17:52"
       },
@@ -879,7 +888,7 @@
       {
         "type": "neutral",
         "title": "G vs. VRT: Which Stock Should Value Investors Buy Now?",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1FEOE9GTThvbHhRZXRBNVh2Mi05c1JzZnZzZkdBckotNnhqRHNGQVozYW8tQUExbWpKeUd6dEpzNEQ4NkRFMklYNXo0UzZyaVBjOUdpUUg0WTN2ZlNYZVBTTXBUaVhHUFNIYWVDUm12dWdlZGt4Yk4xR2NVWXQ3UEFyQWMwNG83TkV3VUZn?oc=5",
         "date": "08/15 00:40"
       },
@@ -900,7 +909,7 @@
       {
         "type": "negative",
         "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
         "date": "07/29 16:00"
       }
