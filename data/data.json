@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T13:07:03.647763+00:00",
+  "updatedAt": "2026-08-16T13:50:08.382728+00:00",
   "market": {
     "cards": [
       {
@@ -289,12 +289,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -358,15 +361,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -428,15 +428,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -813,31 +810,31 @@
     "GOOGL": [
       {
         "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVpBaW1UaTNtd1g0djBoNURXR0pyeXIyN3o3ZlpYS2Q0Um54UkZXMXZsQXFiWUh0MFRnbUNzTHNMZHJNOWdiWGZDcXVDMmRQZ2U0ZmU1OEk0MXFaaHZmeTNNT1hRU1Q0cE9sWXlpWXE4aTl6bDhUVk9lTWZNTUlVTEFUQnEteUtFNFlMWE9oTVFETnhIQXh4TWxqMFpJZW1vR0dueUdpZ1h6LThuMndNV0tlc1R4N1JpbUt3Uno2dzd2WVk?oc=5",
+        "date": "08/16 02:00"
+      },
+      {
+        "type": "positive",
+        "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/12 02:10"
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUktuQkZSYnV1Q0FNbktNR01oQ1liaEdEbUxHTVlmVWtuQzlDZ184SFF1Slczbmg4UXA3bVRaVEFKOHFPSjRORExlZjk3OHVhZ3gtZzQ4eFRZM3JObmJTOXFxSFVYcllwRHYzdVJWVnZaVldvcHFSNzhKTXlodUstd2FNWUtURGVzdXNGRmpQMmsxSzBBcXU3aU1PMmJhaTh6?oc=5",
+        "date": "08/15 03:20"
       },
       {
         "type": "negative",
         "title": "Alphabet Inc. $GOOGL Stock Position Cut by Maj Invest Holding A S",
-        "publisher": "marketbeat.com",
+        "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzF3YVFYR0t5Q3JsMlhFazBkN2pHZHI4Nm5HMDd2MmZmbHVGVGZrMzFHa3lEdEhmMi1yakw4cWduZDV1TURkZTJpV0NTU0F3cm84c0w0SjVHcjVBaDhYVmFmdFNIRVRNb2I0M09GNTlUSHdQWXE1MERrTGRmbFBSeEdNY2FQX0xZSUdMTWplVVU2QmptdTBwY3JMTnA3cDZZelEwSldQQW1qUGRpdG5Va09sUmRQUXFudXpUTGQxN2FkQQ?oc=5",
         "date": "08/16 18:24"
       },
       {
         "type": "positive",
-        "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
-        "date": "08/15 03:20"
-      },
-      {
-        "type": "neutral",
-        "title": "$GOOGL stock fell 3% this week. Here's what we see in our data.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmFMcDl6RFdHVm5fV21SUVV0UDJTdjBWeE1jMVMzRzh2R2hPRWVWZWNNM0tUTFo2bDBrVDZpNXFudVV4VkxORnN4THNaT1diSkhGN2NlQkVycXdGai14c0tFOTVqQTJ4cU00MFNLa3RrXzRQenJ3S2FFZURHR3d6dTRZY3M5cGwyTkJjdXZ3b3RWYXo2MVBoNm1uMTgtZ293ZVJHMA?oc=5",
-        "date": "08/16 01:39"
+        "title": "Warren Buffett Loads Up on Google Stock (GOOGL), Making It His Third Biggest Position",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQldqMlJVVzN4d2NOVmw5NjJWQXd4bmFtZnJxSUNKeFZ1NV9GSmNRVnlPN2JhMGpZbUtPUTZSYVM5UW5NQVhvUTZNZjhEQngzcFEydEhia0N1YXNMNFI2SngtVnZPaFlsWTQ1QUxnWl8zVWlKMVVUalRvVGNhSFFDcjlFLWloczd2WGs0WnZLYTluNldybTJKOWVFWlZqNnhIRzBBQktPMEUxTkZrZUp6OXJR?oc=5",
+        "date": "08/15 06:06"
       }
     ],
     "QCOM": [
@@ -851,7 +848,7 @@
       {
         "type": "neutral",
         "title": "Qualcomm Incorporated $QCOM Shares Sold by Cannon Advisors Inc.",
-        "publisher": "marketbeat.com",
+        "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm9PQ0xnN0tUbEFzbFZ6U3BJU3dRZUZRWEsxZVAyNFphQmRsdF80dHRkRVVSNmZhNmJmdzRPZEtYSlRBa0Z0eVQxTndQWkdHSk4yZm9UQ1lXcnQ3eThVbi1DbWNJVTlCdmZ4STFFQ0Q4eXpkM19pQ1BJOXJhS0dzU2E2OVZjWnFpaXdRTTJicG5lVTB4cHFzemxJdS1MVHhJbllqY1huVjk1WHRmNVl4LXY3OTA4b1ZpM01Fd09aZw?oc=5",
         "date": "08/16 17:03"
       },
@@ -881,7 +878,7 @@
       {
         "type": "positive",
         "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
-        "publisher": "marketbeat.com",
+        "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
         "date": "08/15 06:26"
       },
