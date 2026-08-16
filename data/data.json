@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T07:51:41.336436+00:00",
+  "updatedAt": "2026-08-16T08:17:18.130242+00:00",
   "market": {
     "cards": [
       {
@@ -874,6 +874,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -924,7 +925,7 @@
       {
         "type": "positive",
         "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
-        "publisher": "cnbc.com",
+        "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV30gHDAUFVX3lxTE9FRjlqYUhhTFRVMk9NUHIyMDdxVF9YRVBIU0lXVTdac25za08zSlE0ZUhfOHlPS1VjM25jTGFxM3FOR0dLZlZIU1paRGhKdkJCYjZvYkVHRGUzSHQ2WXRkaldMU0FISThRZ2VRckNLWHhwS0J4VUQzYVVyeEN0RllPMkxTeDNWT040Vm1NWElCZzN1RTRpU2RaejhaRjRKa1pPQ0l5eE9WQlo5REpwNkp3bGxfdzRNQ2hFclZ6ak1Xdm9zYw?oc=5",
         "date": "08/15 05:31"
       },
@@ -938,7 +939,7 @@
       {
         "type": "negative",
         "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
-        "publisher": "barchart.com",
+        "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVpBaW1UaTNtd1g0djBoNURXR0pyeXIyN3o3ZlpYS2Q0Um54UkZXMXZsQXFiWUh0MFRnbUNzTHNMZHJNOWdiWGZDcXVDMmRQZ2U0ZmU1OEk0MXFaaHZmeTNNT1hRU1Q0cE9sWXlpWXE4aTl6bDhUVk9lTWZNTUlVTEFUQnEteUtFNFlMWE9oTVFETnhIQXh4TWxqMFpJZW1vR0dueUdpZ1h6LThuMndNV0tlc1R4N1JpbUt3Uno2dzd2WVk?oc=5",
         "date": "08/16 02:00"
       },
@@ -951,6 +952,13 @@
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "Qualcomm Incorporated $QCOM Shares Sold by Cannon Advisors Inc.",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm9PQ0xnN0tUbEFzbFZ6U3BJU3dRZUZRWEsxZVAyNFphQmRsdF80dHRkRVVSNmZhNmJmdzRPZEtYSlRBa0Z0eVQxTndQWkdHSk4yZm9UQ1lXcnQ3eThVbi1DbWNJVTlCdmZ4STFFQ0Q4eXpkM19pQ1BJOXJhS0dzU2E2OVZjWnFpaXdRTTJicG5lVTB4cHFzemxJdS1MVHhJbllqY1huVjk1WHRmNVl4LXY3OTA4b1ZpM01Fd09aZw?oc=5",
+        "date": "08/16 17:03"
+      },
       {
         "type": "neutral",
         "title": "Qualcomm (QCOM) Stock Looks Fairly Valued On Its 61% Three Year Run",
@@ -971,13 +979,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
         "date": "08/15 05:24"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
-        "date": "08/13 17:52"
       }
     ],
     "VRT": [
