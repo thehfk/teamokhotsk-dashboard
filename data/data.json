@@ -1,7 +1,12 @@
 {
-  "updatedAt": "2026-08-16T21:11:14.011395+00:00",
+  "updatedAt": "2026-08-16T21:40:57.217258+00:00",
   "market": {
     "cards": [
+      {
+        "name": "S&P500",
+        "value": 7785.76,
+        "change": -0.17
+      },
       {
         "name": "NASDAQ",
         "value": 26729.16,
@@ -107,6 +112,74 @@
           "08/14"
         ],
         "series": [
+          {
+            "name": "S&P500",
+            "data": [
+              7408.5,
+              7403.05,
+              7353.61,
+              7432.97,
+              7445.72,
+              7473.47,
+              7519.12,
+              7520.36,
+              7563.63,
+              7580.06,
+              7599.96,
+              7609.78,
+              7553.68,
+              7584.31,
+              7383.74,
+              7405.73,
+              7386.65,
+              7266.99,
+              7394.3,
+              7431.46,
+              7554.29,
+              7511.35,
+              7420.1,
+              7500.58,
+              7472.79,
+              7365.46,
+              7358.22,
+              7357.49,
+              7354.02,
+              7440.43,
+              7499.36,
+              7483.23,
+              7483.24,
+              7537.43,
+              7503.85,
+              7482.71,
+              7543.64,
+              7575.39,
+              7515.34,
+              7543.59,
+              7572.4,
+              7533.77,
+              7457.69,
+              7443.28,
+              7509.2,
+              7498.96,
+              7408.3,
+              7411.98,
+              7413.18,
+              7428.78,
+              7316.15,
+              7437.63,
+              7489.72,
+              7600.5,
+              7736.52,
+              7723.55,
+              7709.96,
+              7757.64,
+              7753.11,
+              7728.2,
+              7748.5,
+              7798.99,
+              7785.76
+            ]
+          },
           {
             "name": "NASDAQ",
             "data": [
@@ -794,6 +867,7 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
@@ -932,7 +1006,7 @@
       {
         "type": "negative",
         "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
         "date": "07/29 16:00"
       }
