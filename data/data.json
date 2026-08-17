@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:47:05.302750+00:00",
+  "updatedAt": "2026-08-17T23:13:47.763403+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1416.59,
-        "change": 0.09
+        "value": 1415.16,
+        "change": -0.01
       },
       {
         "name": "KOSPI",
@@ -663,7 +663,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1416.59
+              1415.16
             ]
           }
         ]
@@ -888,6 +888,13 @@
   "news": {
     "AVGO": [
       {
+        "type": "neutral",
+        "title": "Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds.",
+        "publisher": "The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTGY4ak1kb3VZWi1vYnRTVll3S1JtUVBuOThEbmRndkptd05tNmZldndjT0Z6RTRZbzg1TVBmbXhwbTJCaDYtcU1uSkVCM29JZlRGVUIxY2NUQ1J5eENaSjgycXZibl9JMDNBWkRyX3pNSmthLVdEQ1ZFUlI2Wl9kZFFxWVZWWHZndmJKOGlKTy05NmlQSG1ZUTgtSHVta2UzUDQtWjk0ckVDbE5ySERPeXUzc1BMekFRS1JIU3pBNUszN0cyeWlWMUh3ZDFSUzdlWUFhMl96TEhnLWFOaXk4SXQ0eDdaaHU1LWNwRFRzckN6TG1hc0tpNGhWaw?oc=5",
+        "date": "08/18 05:40"
+      },
+      {
         "type": "negative",
         "title": "AVGO Stock Rebounds After Worst Drop In Two Months: Retail Traders Look Past VMware Worry, Bet On Rebound",
         "publisher": "Yahoo Finance",
@@ -902,16 +909,9 @@
         "date": "08/18 02:21"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Stock Drops 6% As $370B AI Debt Question Looms - Apollo Global Management (NYSE:APO), Broadcom",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamNGRmM3Z1JvMWpsbTFfVGZwR2dQcF82YVRuaFhhbUJGTUpERHhqNm5UZmJQaGRscXJZRXZUTk8tZ1Jkbm1SVVU0aVY5VmViSmNscmFsNXAyYm10dG43MFlYT193NW5lOGR3OHozRlN0ZjhmX0pfTUtJSmxiVnFmTGhjeGhEVVhUXzg4b1pVVnNlcnpMUWFPeG1MR2tBSTVBdlE?oc=5",
-        "date": "08/15 02:08"
-      },
-      {
         "type": "neutral",
         "title": "MRVL and AVGO: Who Owns These 2 Semiconductor Stocks Ahead of Earnings?",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2NTaVY0dS1KeHIybWFYUXd1R3N0cHJFSi1XempqQWhtMUpEaTdJeWt2Y0Z5OWZ4UWJXMTltVnFwczM5VXZoNmFmR3dJXzRQM0toTlhDdzRsakdJTkl3SXBqcFVCRG95NmVQdnpQSjZrZVlNdEhoS3dRZ0l5R2ZnS1ZiQk9JTkV4cVRrancyZEI1VENtZXdhOTBIRUZONXZG?oc=5",
         "date": "08/17 23:05"
       }
@@ -927,7 +927,7 @@
       {
         "type": "positive",
         "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
         "date": "08/17 18:10"
       },
