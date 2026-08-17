@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-17T16:52:22.748241+00:00",
+  "updatedAt": "2026-08-17T17:17:15.416728+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7769.9,
-        "change": -0.2
+        "value": 7762.75,
+        "change": -0.3
       },
       {
         "name": "NASDAQ",
-        "value": 26713.83,
-        "change": -0.06
+        "value": 26673.84,
+        "change": -0.21
       },
       {
         "name": "다우존스",
-        "value": 53531.59,
-        "change": -0.37
+        "value": 53536.36,
+        "change": -0.36
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.06,
-        "change": 5.68
+        "value": 15.21,
+        "change": 6.74
       },
       {
         "name": "미국10년금리",
-        "value": 4.7,
-        "change": 0.0
+        "value": 4.71,
+        "change": 0.21
       },
       {
         "name": "원달러환율",
-        "value": 1412.8,
-        "change": -0.29
+        "value": 1413.71,
+        "change": -0.22
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7748.5,
               7798.99,
               7785.76,
-              7769.9
+              7762.75
             ]
           },
           {
@@ -245,7 +245,7 @@
               26588.49,
               26803.03,
               26729.16,
-              26713.83
+              26673.84
             ]
           },
           {
@@ -313,7 +313,7 @@
               53770.27,
               53839.99,
               53732.41,
-              53531.59
+              53536.36
             ]
           }
         ]
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              15.06
+              15.21
             ]
           }
         ]
@@ -591,7 +591,7 @@
               4.68,
               4.64,
               4.7,
-              4.7
+              4.71
             ]
           },
           {
@@ -662,7 +662,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1412.8
+              1413.71
             ]
           }
         ]
@@ -868,7 +868,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65
@@ -879,10 +878,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 57.6,
+    "AVGO": 57.3,
     "GOOGL": 54.9,
-    "QCOM": 49.7,
-    "VRT": 60.3
+    "QCOM": 49.4,
+    "VRT": 60.1
   },
   "news": {
     "AVGO": [
@@ -926,7 +925,7 @@
       {
         "type": "neutral",
         "title": "Berkshire adds $17 billion to Alphabet stake",
-        "publisher": "cnbc.com",
+        "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVlXUGlQSUZVdnRDRXFHVU0wMlBfY0kzVFFFNS1FY2NSNG9QblVxV2dXdTZRUjFmWVdUck04RnpIU0xkRThWOWNpRnJCTVByX0hhWGI3SGVWQXpjU1dXV180NjBqUEx4UElCbFNJRGdMWkFZMHMtUm01TjlMbm81VDUzREFWMXPSAYwBQVVfeXFMTllSR3VuVXdXV1p0Y2JUZ1FoaG56RFQybURDY1hzWlFpdHNXZFhzcmJscXZpVVZUX1VGRl9yYWJ3MklCbExSUDRocWxsSFhBeFlJZmhCU1FpVDJMdFNSdkY0UWpqM2J4SGVOZFVieFUyRTNtbTdzUWo4TjFjZ181NWZZM0hDTnItVWdRZFM?oc=5",
         "date": "08/15 21:50"
       },
