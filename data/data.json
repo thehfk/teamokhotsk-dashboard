@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-17T13:13:25.862805+00:00",
+  "updatedAt": "2026-08-17T13:59:01.334052+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7785.76,
-        "change": -0.17
+        "value": 7773.75,
+        "change": -0.15
       },
       {
         "name": "NASDAQ",
-        "value": 26729.16,
-        "change": -0.28
+        "value": 26750.57,
+        "change": 0.08
       },
       {
         "name": "다우존스",
-        "value": 53732.41,
-        "change": -0.2
+        "value": 53564.8,
+        "change": -0.31
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.08,
-        "change": 5.82
+        "value": 15.0,
+        "change": 5.26
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1411.69,
-        "change": -0.36
+        "value": 1411.52,
+        "change": -0.38
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "05/15",
           "05/18",
           "05/19",
           "05/20",
@@ -109,13 +108,13 @@
           "08/11",
           "08/12",
           "08/13",
-          "08/14"
+          "08/14",
+          "08/17"
         ],
         "series": [
           {
             "name": "S&P500",
             "data": [
-              7408.5,
               7403.05,
               7353.61,
               7432.97,
@@ -177,13 +176,13 @@
               7728.2,
               7748.5,
               7798.99,
-              7785.76
+              7785.76,
+              7773.75
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              26225.14,
               26090.73,
               25870.71,
               26270.36,
@@ -245,13 +244,13 @@
               26445.45,
               26588.49,
               26803.03,
-              26729.16
+              26729.16,
+              26750.57
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              49526.17,
               49686.12,
               49363.88,
               50009.35,
@@ -313,7 +312,8 @@
               53791.85,
               53770.27,
               53839.99,
-              53732.41
+              53732.41,
+              53564.8
             ]
           }
         ]
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              15.08
+              15.0
             ]
           }
         ]
@@ -662,7 +662,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1411.69
+              1411.52
             ]
           }
         ]
@@ -868,6 +868,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -878,10 +879,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 54.5,
-    "GOOGL": 59.6,
-    "QCOM": 46.6,
-    "VRT": 52.0
+    "AVGO": 55.9,
+    "GOOGL": 55.4,
+    "QCOM": 49.7,
+    "VRT": 60.2
   },
   "news": {
     "AVGO": [
@@ -900,25 +901,25 @@
         "date": "08/16 20:00"
       },
       {
-        "type": "negative",
-        "title": "Wall Street's Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the 'Smart Money?'",
-        "publisher": "247wallst.com",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMEtfOFBhUXM3MXlFd243QVFtSmRUdHdhd2twRVpSSUxLSi1EQVNXWm4zV3RKOVZ2OGhwYTVUbUQxOUMtMTd0LXVheWMxU1VNX09hQXIwaEZwZnQtUVVEM0RPMTg4Q18ycllSWV83ZENRZFdjenVTWGEwV2hxU3RzQ3drZkhRM2RBdU5SUDl5TUlnX3lsY1VZTTV0RVp0Q2piU05vRjhaWmplaGU5M24xREpMQ0RrR2NsU1o4dFVkREl3WThGRlM0U0pwRTFzUlNOZm5KN3JHcVFRV2tIR0d1bGFZSHR1ZUEyQkE?oc=5",
-        "date": "08/17 07:13"
-      },
-      {
         "type": "neutral",
         "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
         "date": "08/15 06:45"
+      },
+      {
+        "type": "neutral",
+        "title": "What Separates AVGO From Its Peers Right Now",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
+        "date": "08/15 04:13"
       }
     ],
     "GOOGL": [
       {
         "type": "positive",
         "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "barchart.com",
+        "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
         "date": "08/15 03:20"
       },
