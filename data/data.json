@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T12:22:11.323710+00:00",
+  "updatedAt": "2026-08-17T13:13:25.862805+00:00",
   "market": {
     "cards": [
       {
@@ -19,18 +19,18 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.94,
-        "change": 4.84
+        "value": 15.08,
+        "change": 5.82
       },
       {
         "name": "미국10년금리",
-        "value": 4.7,
-        "change": 1.29
+        "value": 4.71,
+        "change": 0.21
       },
       {
         "name": "원달러환율",
-        "value": 1411.08,
-        "change": -0.41
+        "value": 1411.69,
+        "change": -0.36
       },
       {
         "name": "KOSPI",
@@ -227,12 +227,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -292,12 +295,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -447,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              14.94
+              15.08
             ]
           }
         ]
@@ -516,7 +522,8 @@
           "08/11",
           "08/12",
           "08/13",
-          "08/14"
+          "08/14",
+          "08/17"
         ],
         "series": [
           {
@@ -583,7 +590,8 @@
               4.68,
               4.68,
               4.64,
-              4.7
+              4.7,
+              4.71
             ]
           },
           {
@@ -654,7 +662,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1411.08
+              1411.69
             ]
           }
         ]
@@ -707,12 +715,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -773,12 +784,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -847,13 +861,13 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65
@@ -872,6 +886,13 @@
   "news": {
     "AVGO": [
       {
+        "type": "negative",
+        "title": "AVGO Stock Rebounds After Worst Drop In Two Months: Retail Traders Look Past VMware Worry, Bet On Rebound",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOU5UVE1fd2J6Y19LY1Excm1nb1YwdnUwUEZOWExkUXgwVUVoMVZtMmN5d3FoN2pGaFVtTnV6ejJ5WERqZUpjSTZaSEpZbUxGOGNDTi1DbGFTVmRmSzJlcHJNeVFOeHNyQW8yWThIVl9jNldDd0RJWGV3djE0NXMtNjdWcW1yb2pIWHZ6V1BmMXVZRnpYUjg1X1FSVQ?oc=5",
+        "date": "08/17 13:29"
+      },
+      {
         "type": "neutral",
         "title": "Broadcom: VMware-Driven Sell-Off Is A Buying Opportunity (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
@@ -881,7 +902,7 @@
       {
         "type": "negative",
         "title": "Wall Street's Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the 'Smart Money?'",
-        "publisher": "24/7 Wall St.",
+        "publisher": "247wallst.com",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMEtfOFBhUXM3MXlFd243QVFtSmRUdHdhd2twRVpSSUxLSi1EQVNXWm4zV3RKOVZ2OGhwYTVUbUQxOUMtMTd0LXVheWMxU1VNX09hQXIwaEZwZnQtUVVEM0RPMTg4Q18ycllSWV83ZENRZFdjenVTWGEwV2hxU3RzQ3drZkhRM2RBdU5SUDl5TUlnX3lsY1VZTTV0RVp0Q2piU05vRjhaWmplaGU5M24xREpMQ0RrR2NsU1o4dFVkREl3WThGRlM0U0pwRTFzUlNOZm5KN3JHcVFRV2tIR0d1bGFZSHR1ZUEyQkE?oc=5",
         "date": "08/17 07:13"
       },
@@ -891,20 +912,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
         "date": "08/15 06:45"
-      },
-      {
-        "type": "neutral",
-        "title": "What Separates AVGO From Its Peers Right Now",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
-        "date": "08/15 04:13"
       }
     ],
     "GOOGL": [
       {
         "type": "positive",
         "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "Barchart.com",
+        "publisher": "barchart.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
         "date": "08/15 03:20"
       },
@@ -933,10 +947,10 @@
     "QCOM": [
       {
         "type": "neutral",
-        "title": "CHICAGO TRUST Co NA Has $847,000 Stock Holdings in Qualcomm Incorporated $QCOM",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT21MOXhqYTBYclRxbnRHNEMxTXRzSy1PU01ZaEtrS2NhVlNqNkJRR3JWWDVOWHBTX0tZc3pqRGVhNkVvZUFfZkFNMWhLQzZqX3JKN0tidlpURmltWEZpekN2OVowbEFqVlVuSmJqWWQzS3hyRzhzM2tKLVVpVUJqZW9qZVFOUC10RFNfVUN0Qk1QTkxpNV9mTWxpc2RnMXduUE5iYVBkWVFMMFYxQTFOZ3pnRHNlYzZUQlFjb25IWnVOSXNXcUhFZ192bFR0UVdwUHc?oc=5",
-        "date": "08/17 17:08"
+        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
+        "date": "08/17 05:19"
       },
       {
         "type": "neutral",
@@ -946,11 +960,11 @@
         "date": "08/15 16:35"
       },
       {
-        "type": "negative",
-        "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
-        "date": "08/15 05:24"
+        "type": "neutral",
+        "title": "CHICAGO TRUST Co NA Has $847,000 Stock Holdings in Qualcomm Incorporated $QCOM",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT21MOXhqYTBYclRxbnRHNEMxTXRzSy1PU01ZaEtrS2NhVlNqNkJRR3JWWDVOWHBTX0tZc3pqRGVhNkVvZUFfZkFNMWhLQzZqX3JKN0tidlpURmltWEZpekN2OVowbEFqVlVuSmJqWWQzS3hyRzhzM2tKLVVpVUJqZW9qZVFOUC10RFNfVUN0Qk1QTkxpNV9mTWxpc2RnMXduUE5iYVBkWVFMMFYxQTFOZ3pnRHNlYzZUQlFjb25IWnVOSXNXcUhFZ192bFR0UVdwUHc?oc=5",
+        "date": "08/17 17:08"
       },
       {
         "type": "positive",
