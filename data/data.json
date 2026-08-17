@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T10:54:06.662678+00:00",
+  "updatedAt": "2026-08-17T11:16:50.593620+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.95,
-        "change": 4.91
+        "value": 14.91,
+        "change": 4.63
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1410.67,
-        "change": -0.44
+        "value": 1411.53,
+        "change": -0.38
       },
       {
         "name": "KOSPI",
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              14.95
+              14.91
             ]
           }
         ]
@@ -664,7 +664,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1410.67
+              1411.53
             ]
           }
         ]
@@ -920,7 +920,7 @@
       {
         "type": "positive",
         "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "Barchart.com",
+        "publisher": "barchart.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
         "date": "08/15 03:20"
       },
