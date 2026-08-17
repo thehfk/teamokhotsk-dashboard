@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-17T19:48:44.782271+00:00",
+  "updatedAt": "2026-08-17T20:15:09.089090+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7752.49,
-        "change": -0.43
+        "value": 7745.06,
+        "change": -0.52
       },
       {
         "name": "NASDAQ",
-        "value": 26659.45,
-        "change": -0.26
+        "value": 26644.91,
+        "change": -0.32
       },
       {
         "name": "다우존스",
-        "value": 53467.69,
-        "change": -0.49
+        "value": 53459.78,
+        "change": -0.51
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.29,
-        "change": 7.3
+        "value": 15.18,
+        "change": 6.53
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1415.35,
-        "change": -0.11
+        "value": 1415.24,
+        "change": -0.01
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7748.5,
               7798.99,
               7785.76,
-              7752.49
+              7745.06
             ]
           },
           {
@@ -245,7 +245,7 @@
               26588.49,
               26803.03,
               26729.16,
-              26659.45
+              26644.91
             ]
           },
           {
@@ -313,7 +313,7 @@
               53770.27,
               53839.99,
               53732.41,
-              53467.69
+              53459.78
             ]
           }
         ]
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              15.29
+              15.18
             ]
           }
         ]
@@ -662,7 +662,8 @@
               1412.18,
               1416.46,
               1416.85,
-              1415.35
+              1415.37,
+              1415.24
             ]
           }
         ]
@@ -878,10 +879,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 55.6,
-    "GOOGL": 55.3,
-    "QCOM": 49.8,
-    "VRT": 58.6
+    "AVGO": 55.4,
+    "GOOGL": 55.4,
+    "QCOM": 49.4,
+    "VRT": 58.3
   },
   "news": {
     "AVGO": [
@@ -930,27 +931,27 @@
         "date": "08/17 18:10"
       },
       {
+        "type": "neutral",
+        "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
+        "publisher": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUkNyenBWRzJNZ0hjR2p3MG9rVHl1a3VQZVBxZXlweGg0X1BFWHdMR3lqamtZcFRTSDFVQTNFOExyUXlxWjN2bHc3aTRaY0w3YmxMem1wRHZDNVk0eXk4ek9qbjJnQkdWRUllT3dvMTA5MHllazNsM2pocVBka1VKQVEzX3JPSmVJaDFPZk83cGtXRVdvM25RRFRQTmFJOTQ3ZUFtaE51cXE2M3BLZEtF?oc=5",
+        "date": "08/18 03:58"
+      },
+      {
         "type": "negative",
         "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXcyQ1cybFhrMlZWeFBFdTNCbUFJR3lLRjRSVHBkb20wM1NocjU2U2VkNDd2Zk42QWZWLVJRbWs2U3pfZU9DbVQ1S29QYkttT2NkaU5GN3RDLWlJc3JpT3lfQjJNeUhYcFZmNHQwRkZRTXhCZXA5VERYQTBaamhKM2NLVVFTX2IweDVBS1BBd1UwTzlvOEJoNTFjNm4?oc=5",
         "date": "08/16 02:00"
-      },
-      {
-        "type": "negative",
-        "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
-        "date": "08/17 07:06"
       }
     ],
     "QCOM": [
       {
         "type": "neutral",
-        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
-        "date": "08/18 00:15"
+        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
+        "date": "08/17 05:19"
       },
       {
         "type": "neutral",
@@ -967,11 +968,11 @@
         "date": "08/17 17:08"
       },
       {
-        "type": "negative",
-        "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
-        "date": "08/15 05:24"
+        "type": "neutral",
+        "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $408,142 of QCOM stock",
+        "publisher": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDI1eTVqZ1JOb1V1MW44OFhVS2NGVTF6eUpTTHN3aE5rZjVOZVlQdmY0Sm9VQWJEb3REUmlRRUpDWU5hTE1WMi1DYTZ6ZWpsT1dNNk5WN3hvOXBPWjlXMEk3V1EwMmNHSElOWng1eHZGbnQydzlKcmZPNHhqQWk5ODRUOWxlNWVOQUVBamp1dGpJeTZ5a0Rha2hJM2VYMWljMFBwWDFoUEZVSk1GLTFKYVpBcFJmYjJNYzRQMjY3TXBJdw?oc=5",
+        "date": "08/13 14:36"
       }
     ],
     "VRT": [
