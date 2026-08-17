@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T05:57:27.196867+00:00",
+  "updatedAt": "2026-08-17T06:46:04.474494+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1413.03,
-        "change": -0.27
+        "value": 1413.2,
+        "change": -0.26
       },
       {
         "name": "KOSPI",
@@ -666,7 +666,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1413.03
+              1413.2
             ]
           }
         ]
@@ -891,6 +891,13 @@
   "news": {
     "AVGO": [
       {
+        "type": "neutral",
+        "title": "S&P 500 Movers | Winners: CPRT, SNDK, AMD | Losers: AVGO, GDDY, AMAT",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnRZaUN5cEdHeXdidUx1MFd1RFM5cEN6MmV6SnUyTERUeVM5M09yNFliSDNRaTJKMzI4S3B4cXBuVTlvMW5CNVNweGYxSVg2M0hWSllsNUNJYnFDYi1jQ2hHLTRHOVBzX0ZhLWwyR0loQlRjUEVFbTl6RUJWckhtNTJkXzc4ZzcxcnhaeVVySjlrVWwteEl3a3hHVXNSMVNPbWdyUjZRUGZGZnJ4TldaQmdZMmZVeEhw?oc=5",
+        "date": "08/17 15:12"
+      },
+      {
         "type": "negative",
         "title": "Wall Street's Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the 'Smart Money?'",
         "publisher": "24/7 Wall St.",
@@ -910,13 +917,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
         "date": "08/15 06:45"
-      },
-      {
-        "type": "neutral",
-        "title": "What Separates AVGO From Its Peers Right Now",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
-        "date": "08/15 04:13"
       }
     ],
     "GOOGL": [
@@ -928,41 +928,41 @@
         "date": "08/15 03:20"
       },
       {
+        "type": "neutral",
+        "title": "Berkshire adds $17 billion to Alphabet stake",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVlXUGlQSUZVdnRDRXFHVU0wMlBfY0kzVFFFNS1FY2NSNG9QblVxV2dXdTZRUjFmWVdUck04RnpIU0xkRThWOWNpRnJCTVByX0hhWGI3SGVWQXpjU1dXV180NjBqUEx4UElCbFNJRGdMWkFZMHMtUm01TjlMbm81VDUzREFWMXPSAYwBQVVfeXFMTllSR3VuVXdXV1p0Y2JUZ1FoaG56RFQybURDY1hzWlFpdHNXZFhzcmJscXZpVVZUX1VGRl9yYWJ3MklCbExSUDRocWxsSFhBeFlJZmhCU1FpVDJMdFNSdkY0UWpqM2J4SGVOZFVieFUyRTNtbTdzUWo4TjFjZ181NWZZM0hDTnItVWdRZFM?oc=5",
+        "date": "08/15 21:50"
+      },
+      {
         "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "title": "Alphabet Inc. $GOOGL Stock Position Cut by Agate Pass Investment Management LLC",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
+        "date": "08/16 16:16"
+      },
+      {
+        "type": "neutral",
+        "title": "Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/12 02:10"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "08/16 21:40"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock (GOOGL) Opinions on Recent AI Developments and Earnings",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVo4ZFRjRVJQN1pFbVZXT05rcXhBSllaM2ZJTExWdmhLZWxWRTQ2b1ZmU3ZWWjF3aGNEV2lQeDJudU1yWWhza2JBOFRCU0pYYnpIVmxuN01Qb0JWUm9rNW04czRCOHhrOTBCeDA0UHhoLXVwNXdaN2g0U1UyTDB5WlhqMGU3akZ6cHNISl9sVHBtekk4TlVPaURuZUFKVWRseXd6UURCRWJhcXc?oc=5",
-        "date": "08/16 23:03"
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0otdndvX1d0N3ZXODZsQ3NWUUlRMTJWVEt6R2FrcFVTZXdtSVNtUHZNRWotREN1OWo5UHpBeHJLVzdkX0tnNGRuTnZjaWJLc3lTWmxWWTRSWHJvbW1SSkNyTWFSUnMtY3V5cE0wZ1hsU2FPaWItTEdtS2dDUkV3aHV6VHp2SXJBZ0p5Z1VWMU1iQXc1Sk8tcGdpd01PRGhxRlpv?oc=5",
+        "date": "08/15 08:28"
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
+        "date": "08/17 05:19"
+      },
       {
         "type": "neutral",
         "title": "Qualcomm (QCOM) Stock Looks Fairly Valued On Its 61% Three Year Run",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWVTR1hSTEVVdFVNekxfc2JHbHFIbUJVengydGwtaXNuRmM4eTJGQnc5MGQxSEJPWUlscVBVNjQ5T3hlazM0VEM1ek43ZmpZMHZwYllCWUpxOGdMRERfUWFQQkw0TE8wS3llb0RQWkxmeXI5czl4dEIwWXVHaFp4THc0R1dteUpJdVVCMU5KRUV2OGdSa2MyNEFVQmtONlRFa3d2MEVHYzNua3FFX3NUTkk1OVotUGFBdzlrN0pHLU82Zy1pMkhYZTR0cTV2UdIB0wFBVV95cUxNZHhzcjE0OW9sVExtOHU5SmJPaFQ3TlBYaU0yOTVmcWt4Q0ctbXM3di15R3c4V3B6VnkydFU4TzVBaTNTTWRUVHZoNlNmWW56Nk44NVJvaXRtZEdBWDlzRi1FZ2J0MXM1azlWcXZ3ZWNhZ0t4SGRvaS16UlhkeHZHSEdqSURUYTc3M2lIMzhLc1JlSXZsbkZiZnVrREV1S3VacXJod1RjUUItbEJYd29abWc1ZEFoLVBIdGVpR2xJdGdzR2tybTd3ZG5pMXAwcVZWaDZr?oc=5",
         "date": "08/15 16:35"
-      },
-      {
-        "type": "negative",
-        "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
-        "date": "08/15 05:24"
       },
       {
         "type": "positive",
