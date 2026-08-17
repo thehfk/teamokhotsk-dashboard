@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-17T18:22:36.559157+00:00",
+  "updatedAt": "2026-08-17T19:05:58.461108+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7756.24,
-        "change": -0.38
+        "value": 7754.75,
+        "change": -0.4
       },
       {
         "name": "NASDAQ",
-        "value": 26646.37,
-        "change": -0.31
+        "value": 26662.64,
+        "change": -0.25
       },
       {
         "name": "다우존스",
-        "value": 53472.74,
-        "change": -0.48
+        "value": 53491.59,
+        "change": -0.45
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.14,
-        "change": 6.25
+        "value": 15.16,
+        "change": 6.39
       },
       {
         "name": "미국10년금리",
-        "value": 4.72,
-        "change": 0.43
+        "value": 4.73,
+        "change": 0.64
       },
       {
         "name": "원달러환율",
-        "value": 1415.31,
-        "change": -0.11
+        "value": 1415.48,
+        "change": -0.1
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7748.5,
               7798.99,
               7785.76,
-              7756.24
+              7754.75
             ]
           },
           {
@@ -245,7 +245,7 @@
               26588.49,
               26803.03,
               26729.16,
-              26646.37
+              26662.64
             ]
           },
           {
@@ -313,7 +313,7 @@
               53770.27,
               53839.99,
               53732.41,
-              53472.74
+              53491.59
             ]
           }
         ]
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              15.14
+              15.16
             ]
           }
         ]
@@ -591,7 +591,7 @@
               4.68,
               4.64,
               4.7,
-              4.72
+              4.73
             ]
           },
           {
@@ -662,7 +662,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1415.31
+              1415.48
             ]
           }
         ]
@@ -868,6 +868,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -878,10 +879,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 56.1,
+    "AVGO": 55.8,
     "GOOGL": 55.3,
-    "QCOM": 49.1,
-    "VRT": 59.0
+    "QCOM": 49.3,
+    "VRT": 58.9
   },
   "news": {
     "AVGO": [
@@ -923,6 +924,13 @@
         "date": "08/15 03:20"
       },
       {
+        "type": "positive",
+        "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
+        "date": "08/17 18:10"
+      },
+      {
         "type": "negative",
         "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
         "publisher": "Yahoo Finance",
@@ -935,16 +943,16 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
         "date": "08/17 07:06"
-      },
-      {
-        "type": "positive",
-        "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
-        "date": "08/17 18:10"
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "publisher": "trefis.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
+        "date": "08/17 05:19"
+      },
       {
         "type": "neutral",
         "title": "Qualcomm (QCOM) Stock Looks Fairly Valued On Its 61% Three Year Run",
@@ -960,32 +968,25 @@
         "date": "08/17 17:08"
       },
       {
-        "type": "negative",
-        "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
-        "date": "08/15 05:24"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "stocktwits.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
-        "date": "08/13 17:52"
+        "type": "neutral",
+        "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $408,142 of QCOM stock",
+        "publisher": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDI1eTVqZ1JOb1V1MW44OFhVS2NGVTF6eUpTTHN3aE5rZjVOZVlQdmY0Sm9VQWJEb3REUmlRRUpDWU5hTE1WMi1DYTZ6ZWpsT1dNNk5WN3hvOXBPWjlXMEk3V1EwMmNHSElOWng1eHZGbnQydzlKcmZPNHhqQWk5ODRUOWxlNWVOQUVBamp1dGpJeTZ5a0Rha2hJM2VYMWljMFBwWDFoUEZVSk1GLTFKYVpBcFJmYjJNYzRQMjY3TXBJdw?oc=5",
+        "date": "08/13 14:36"
       }
     ],
     "VRT": [
       {
         "type": "neutral",
-        "title": "G vs. VRT: Which Stock Should Value Investors Buy Now?",
+        "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1FEOE9GTThvbHhRZXRBNVh2Mi05c1JzZnZzZkdBckotNnhqRHNGQVozYW8tQUExbWpKeUd6dEpzNEQ4NkRFMklYNXo0UzZyaVBjOUdpUUg0WTN2ZlNYZVBTTXBUaVhHUFNIYWVDUm12dWdlZGt4Yk4xR2NVWXQ3UEFyQWMwNG83TkV3VUZn?oc=5",
-        "date": "08/15 00:40"
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
+        "date": "08/17 21:09"
       },
       {
         "type": "neutral",
         "title": "Plato Investment Management Ltd Takes $4.91 Million Position in Vertiv Holdings Co. $VRT",
-        "publisher": "MarketBeat",
+        "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUTI2bDd0ckU1bW42SzJlbm5iYzdsQnNfSlRnUFdJV0dCMjA0R1NfQ3FVcXNKVXc1QmVwcE9kNjNISWNjTWEzeGhvN2Z0Z0dGX1NidWhWSS1rUkQzSnZ6bHk3dEwyU3Z3Y1E0VmRhMTZQOHJuNUpXeTFKQUNMVnNraF9sNGxaVjE0ckZSUVhMZVhHVWdsbHk0cHNnVHRZQzBJN0M2cXZhelNzVXVEYm15QV83UmwtellHc0N6aWhqQ3FzT1FjNlN3THUyQkk1OEFJcEI4cjlBbVBkdkJqQ2c?oc=5",
         "date": "08/17 19:30"
       },
@@ -999,7 +1000,7 @@
       {
         "type": "negative",
         "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
         "date": "07/29 16:00"
       }
