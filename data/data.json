@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T20:15:09.089090+00:00",
+  "updatedAt": "2026-08-17T20:50:19.565942+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.18,
-        "change": 6.53
+        "value": 15.19,
+        "change": 6.6
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1415.24,
-        "change": -0.01
+        "value": 1416.48,
+        "change": 0.08
       },
       {
         "name": "KOSPI",
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              15.18
+              15.19
             ]
           }
         ]
@@ -663,7 +663,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1415.24
+              1416.48
             ]
           }
         ]
@@ -931,18 +931,18 @@
         "date": "08/17 18:10"
       },
       {
-        "type": "neutral",
-        "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
-        "publisher": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUkNyenBWRzJNZ0hjR2p3MG9rVHl1a3VQZVBxZXlweGg0X1BFWHdMR3lqamtZcFRTSDFVQTNFOExyUXlxWjN2bHc3aTRaY0w3YmxMem1wRHZDNVk0eXk4ek9qbjJnQkdWRUllT3dvMTA5MHllazNsM2pocVBka1VKQVEzX3JPSmVJaDFPZk83cGtXRVdvM25RRFRQTmFJOTQ3ZUFtaE51cXE2M3BLZEtF?oc=5",
-        "date": "08/18 03:58"
-      },
-      {
         "type": "negative",
         "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXcyQ1cybFhrMlZWeFBFdTNCbUFJR3lLRjRSVHBkb20wM1NocjU2U2VkNDd2Zk42QWZWLVJRbWs2U3pfZU9DbVQ1S29QYkttT2NkaU5GN3RDLWlJc3JpT3lfQjJNeUhYcFZmNHQwRkZRTXhCZXA5VERYQTBaamhKM2NLVVFTX2IweDVBS1BBd1UwTzlvOEJoNTFjNm4?oc=5",
         "date": "08/16 02:00"
+      },
+      {
+        "type": "negative",
+        "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
+        "date": "08/17 07:06"
       }
     ],
     "QCOM": [
