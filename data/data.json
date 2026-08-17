@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-17T17:17:15.416728+00:00",
+  "updatedAt": "2026-08-17T17:51:43.750074+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7762.75,
-        "change": -0.3
+        "value": 7754.94,
+        "change": -0.4
       },
       {
         "name": "NASDAQ",
-        "value": 26673.84,
-        "change": -0.21
+        "value": 26653.76,
+        "change": -0.28
       },
       {
         "name": "다우존스",
-        "value": 53536.36,
-        "change": -0.36
+        "value": 53433.7,
+        "change": -0.56
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.21,
-        "change": 6.74
+        "value": 15.39,
+        "change": 8.0
       },
       {
         "name": "미국10년금리",
-        "value": 4.71,
-        "change": 0.21
+        "value": 4.72,
+        "change": 0.43
       },
       {
         "name": "원달러환율",
-        "value": 1413.71,
-        "change": -0.22
+        "value": 1414.92,
+        "change": -0.14
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7748.5,
               7798.99,
               7785.76,
-              7762.75
+              7754.94
             ]
           },
           {
@@ -245,7 +245,7 @@
               26588.49,
               26803.03,
               26729.16,
-              26673.84
+              26653.76
             ]
           },
           {
@@ -313,7 +313,7 @@
               53770.27,
               53839.99,
               53732.41,
-              53536.36
+              53433.7
             ]
           }
         ]
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              15.21
+              15.39
             ]
           }
         ]
@@ -591,7 +591,7 @@
               4.68,
               4.64,
               4.7,
-              4.71
+              4.72
             ]
           },
           {
@@ -662,7 +662,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1413.71
+              1414.92
             ]
           }
         ]
@@ -878,19 +878,19 @@
     ]
   },
   "rsi": {
-    "AVGO": 57.3,
+    "AVGO": 56.9,
     "GOOGL": 54.9,
     "QCOM": 49.4,
-    "VRT": 60.1
+    "VRT": 60.0
   },
   "news": {
     "AVGO": [
       {
-        "type": "neutral",
-        "title": "Billionaire Stanley Druckenmiller and Brad Gerstner Both Dumped Broadcom (AVGO) and Bought This AI Stock Instead",
+        "type": "negative",
+        "title": "AVGO Stock Rebounds After Worst Drop In Two Months: Retail Traders Look Past VMware Worry, Bet On Rebound",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkd5cUZvX0FlSW1GV281ZUd6Y2hJUjRFVU5yRWdKb0V1aVotdUllMjRiNlB4NmlDaUlheWlxWmJrZkRsdVgzaW5MeVByT0pWRkJPYVZ2LVBpUVdXUXh4dFE4TS1HZlpnMFQ4Y1FzMGozWmJrdFExaGUwazAtODFyeVdKeThULUlhZmRNek1QNE9VcXRNbHU3WU1DdFRIRWxCUDJuTEcyUXB1ZENqaXRPcjln?oc=5",
-        "date": "08/17 23:49"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOU5UVE1fd2J6Y19LY1Excm1nb1YwdnUwUEZOWExkUXgwVUVoMVZtMmN5d3FoN2pGaFVtTnV6ejJ5WERqZUpjSTZaSEpZbUxGOGNDTi1DbGFTVmRmSzJlcHJNeVFOeHNyQW8yWThIVl9jNldDd0RJWGV3djE0NXMtNjdWcW1yb2pIWHZ6V1BmMXVZRnpYUjg1X1FSVQ?oc=5",
+        "date": "08/17 13:29"
       },
       {
         "type": "neutral",
@@ -908,10 +908,10 @@
       },
       {
         "type": "neutral",
-        "title": "What Separates AVGO From Its Peers Right Now",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
-        "date": "08/15 04:13"
+        "title": "Broadcom Is Set To Rewrite The AI Narrative (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTlTNUVCSFAwMDRmOHY3TC1rU0x4aG9yeTBZQlZzeWlDck00N2VSS2JubHBjV1phTzNJaUhDbGI5Rnp1T1J2elV2Sk9MSTlGa3hRbzI1N3hqaXVka3dHME9tZmxKaXkxbTk5ZkpiWFdNQ3JjV1k5cmFJNlRsRGdWNUdHSkJyRTBlVTZhcg?oc=5",
+        "date": "08/18 02:21"
       }
     ],
     "GOOGL": [
@@ -923,18 +923,18 @@
         "date": "08/15 03:20"
       },
       {
-        "type": "neutral",
-        "title": "Berkshire adds $17 billion to Alphabet stake",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVlXUGlQSUZVdnRDRXFHVU0wMlBfY0kzVFFFNS1FY2NSNG9QblVxV2dXdTZRUjFmWVdUck04RnpIU0xkRThWOWNpRnJCTVByX0hhWGI3SGVWQXpjU1dXV180NjBqUEx4UElCbFNJRGdMWkFZMHMtUm01TjlMbm81VDUzREFWMXPSAYwBQVVfeXFMTllSR3VuVXdXV1p0Y2JUZ1FoaG56RFQybURDY1hzWlFpdHNXZFhzcmJscXZpVVZUX1VGRl9yYWJ3MklCbExSUDRocWxsSFhBeFlJZmhCU1FpVDJMdFNSdkY0UWpqM2J4SGVOZFVieFUyRTNtbTdzUWo4TjFjZ181NWZZM0hDTnItVWdRZFM?oc=5",
-        "date": "08/15 21:50"
-      },
-      {
         "type": "negative",
         "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXcyQ1cybFhrMlZWeFBFdTNCbUFJR3lLRjRSVHBkb20wM1NocjU2U2VkNDd2Zk42QWZWLVJRbWs2U3pfZU9DbVQ1S29QYkttT2NkaU5GN3RDLWlJc3JpT3lfQjJNeUhYcFZmNHQwRkZRTXhCZXA5VERYQTBaamhKM2NLVVFTX2IweDVBS1BBd1UwTzlvOEJoNTFjNm4?oc=5",
         "date": "08/16 02:00"
+      },
+      {
+        "type": "negative",
+        "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
+        "date": "08/17 07:06"
       },
       {
         "type": "positive",
