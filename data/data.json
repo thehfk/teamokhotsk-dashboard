@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T09:30:22.376914+00:00",
+  "updatedAt": "2026-08-17T10:22:03.542733+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.93,
-        "change": 4.77
+        "value": 14.97,
+        "change": 5.05
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1410.6,
-        "change": -0.44
+        "value": 1412.35,
+        "change": -0.32
       },
       {
         "name": "KOSPI",
@@ -91,12 +91,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -156,12 +159,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -359,12 +365,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -425,12 +434,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -441,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              14.93
+              14.97
             ]
           }
         ]
@@ -652,7 +664,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1410.6
+              1412.35
             ]
           }
         ]
@@ -858,7 +870,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65
@@ -876,13 +887,6 @@
   },
   "news": {
     "AVGO": [
-      {
-        "type": "neutral",
-        "title": "S&P 500 Movers | Winners: CPRT, SNDK, AMD | Losers: AVGO, GDDY, AMAT",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnRZaUN5cEdHeXdidUx1MFd1RFM5cEN6MmV6SnUyTERUeVM5M09yNFliSDNRaTJKMzI4S3B4cXBuVTlvMW5CNVNweGYxSVg2M0hWSllsNUNJYnFDYi1jQ2hHLTRHOVBzX0ZhLWwyR0loQlRjUEVFbTl6RUJWckhtNTJkXzc4ZzcxcnhaeVVySjlrVWwteEl3a3hHVXNSMVNPbWdyUjZRUGZGZnJ4TldaQmdZMmZVeEhw?oc=5",
-        "date": "08/17 15:12"
-      },
       {
         "type": "neutral",
         "title": "Cisco vs. Broadcom: One Stock Looks Like the Better AI Play",
@@ -903,6 +907,13 @@
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMEtfOFBhUXM3MXlFd243QVFtSmRUdHdhd2twRVpSSUxLSi1EQVNXWm4zV3RKOVZ2OGhwYTVUbUQxOUMtMTd0LXVheWMxU1VNX09hQXIwaEZwZnQtUVVEM0RPMTg4Q18ycllSWV83ZENRZFdjenVTWGEwV2hxU3RzQ3drZkhRM2RBdU5SUDl5TUlnX3lsY1VZTTV0RVp0Q2piU05vRjhaWmplaGU5M24xREpMQ0RrR2NsU1o4dFVkREl3WThGRlM0U0pwRTFzUlNOZm5KN3JHcVFRV2tIR0d1bGFZSHR1ZUEyQkE?oc=5",
         "date": "08/17 07:13"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
+        "date": "08/15 06:45"
       }
     ],
     "GOOGL": [
@@ -914,25 +925,25 @@
         "date": "08/15 03:20"
       },
       {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/12 02:10"
+        "type": "neutral",
+        "title": "Berkshire adds $17 billion to Alphabet stake",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVlXUGlQSUZVdnRDRXFHVU0wMlBfY0kzVFFFNS1FY2NSNG9QblVxV2dXdTZRUjFmWVdUck04RnpIU0xkRThWOWNpRnJCTVByX0hhWGI3SGVWQXpjU1dXV180NjBqUEx4UElCbFNJRGdMWkFZMHMtUm01TjlMbm81VDUzREFWMXPSAYwBQVVfeXFMTllSR3VuVXdXV1p0Y2JUZ1FoaG56RFQybURDY1hzWlFpdHNXZFhzcmJscXZpVVZUX1VGRl9yYWJ3MklCbExSUDRocWxsSFhBeFlJZmhCU1FpVDJMdFNSdkY0UWpqM2J4SGVOZFVieFUyRTNtbTdzUWo4TjFjZ181NWZZM0hDTnItVWdRZFM?oc=5",
+        "date": "08/15 21:50"
+      },
+      {
+        "type": "positive",
+        "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
+        "publisher": "tipranks.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
+        "date": "08/17 18:10"
       },
       {
         "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "08/16 21:40"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock (GOOGL) Opinions on Recent AI Developments and Earnings",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVo4ZFRjRVJQN1pFbVZXT05rcXhBSllaM2ZJTExWdmhLZWxWRTQ2b1ZmU3ZWWjF3aGNEV2lQeDJudU1yWWhza2JBOFRCU0pYYnpIVmxuN01Qb0JWUm9rNW04czRCOHhrOTBCeDA0UHhoLXVwNXdaN2g0U1UyTDB5WlhqMGU3akZ6cHNISl9sVHBtekk4TlVPaURuZUFKVWRseXd6UURCRWJhcXc?oc=5",
-        "date": "08/16 23:03"
+        "title": "Seilern Investment Management Ltd Has $43.39 Million Stock Position in Alphabet Inc. $GOOGL",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObHc5cE01UmhkTnNzX3k5VTg3V21aN0VmaVNmRGFPVktFXzFBYS1XNGd6TmFlSTFjRFhrN1Naa01LblNLWHgtTThaSDdiYXlOdFZUVFNYQ1l0U2g3U0lNMWpxRk1VVGlZTU5MZks0TFpoVWphb0lTZDJKc255TU1HY2JVVXd4bXFUTElQMmtnSHZ2dHNhX3NORzA2UkE5T0ZJODgxeERHZ0FKNWp4OHNRWlluVFlXTFY2MWNVWFVWSGdJNlZVYnlmWUR3ZDB2azRkWnNJSm50UHdSZ3JwbU1ZSlNn?oc=5",
+        "date": "08/16 18:24"
       }
     ],
     "QCOM": [
