@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-17T14:27:52.166909+00:00",
+  "updatedAt": "2026-08-17T14:53:42.659322+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7772.05,
-        "change": -0.18
+        "value": 7770.5,
+        "change": -0.2
       },
       {
         "name": "NASDAQ",
-        "value": 26716.55,
-        "change": -0.05
+        "value": 26723.67,
+        "change": -0.02
       },
       {
         "name": "다우존스",
-        "value": 53554.81,
-        "change": -0.33
+        "value": 53514.54,
+        "change": -0.41
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.96,
-        "change": 4.98
+        "value": 14.98,
+        "change": 5.12
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1411.91,
-        "change": -0.35
+        "value": 1413.67,
+        "change": -0.22
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7748.5,
               7798.99,
               7785.76,
-              7772.05
+              7770.5
             ]
           },
           {
@@ -245,7 +245,7 @@
               26588.49,
               26803.03,
               26729.16,
-              26716.55
+              26723.67
             ]
           },
           {
@@ -313,7 +313,7 @@
               53770.27,
               53839.99,
               53732.41,
-              53554.81
+              53514.54
             ]
           }
         ]
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              14.96
+              14.98
             ]
           }
         ]
@@ -662,7 +662,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1411.91
+              1413.67
             ]
           }
         ]
@@ -879,10 +879,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 56.6,
-    "GOOGL": 55.1,
-    "QCOM": 50.8,
-    "VRT": 60.0
+    "AVGO": 57.3,
+    "GOOGL": 54.3,
+    "QCOM": 50.7,
+    "VRT": 59.8
   },
   "news": {
     "AVGO": [
@@ -948,13 +948,6 @@
     "QCOM": [
       {
         "type": "neutral",
-        "title": "The Diverging Paths Priced Into Qualcomm Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
-        "date": "08/17 05:19"
-      },
-      {
-        "type": "neutral",
         "title": "Qualcomm (QCOM) Stock Looks Fairly Valued On Its 61% Three Year Run",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWVTR1hSTEVVdFVNekxfc2JHbHFIbUJVengydGwtaXNuRmM4eTJGQnc5MGQxSEJPWUlscVBVNjQ5T3hlazM0VEM1ek43ZmpZMHZwYllCWUpxOGdMRERfUWFQQkw0TE8wS3llb0RQWkxmeXI5czl4dEIwWXVHaFp4THc0R1dteUpJdVVCMU5KRUV2OGdSa2MyNEFVQmtONlRFa3d2MEVHYzNua3FFX3NUTkk1OVotUGFBdzlrN0pHLU82Zy1pMkhYZTR0cTV2UdIB0wFBVV95cUxNZHhzcjE0OW9sVExtOHU5SmJPaFQ3TlBYaU0yOTVmcWt4Q0ctbXM3di15R3c4V3B6VnkydFU4TzVBaTNTTWRUVHZoNlNmWW56Nk44NVJvaXRtZEdBWDlzRi1FZ2J0MXM1azlWcXZ3ZWNhZ0t4SGRvaS16UlhkeHZHSEdqSURUYTc3M2lIMzhLc1JlSXZsbkZiZnVrREV1S3VacXJod1RjUUItbEJYd29abWc1ZEFoLVBIdGVpR2xJdGdzR2tybTd3ZG5pMXAwcVZWaDZr?oc=5",
@@ -966,6 +959,13 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT21MOXhqYTBYclRxbnRHNEMxTXRzSy1PU01ZaEtrS2NhVlNqNkJRR3JWWDVOWHBTX0tZc3pqRGVhNkVvZUFfZkFNMWhLQzZqX3JKN0tidlpURmltWEZpekN2OVowbEFqVlVuSmJqWWQzS3hyRzhzM2tKLVVpVUJqZW9qZVFOUC10RFNfVUN0Qk1QTkxpNV9mTWxpc2RnMXduUE5iYVBkWVFMMFYxQTFOZ3pnRHNlYzZUQlFjb25IWnVOSXNXcUhFZ192bFR0UVdwUHc?oc=5",
         "date": "08/17 17:08"
+      },
+      {
+        "type": "negative",
+        "title": "QCOM: A Cash Gusher At A Marked-Down Price",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
+        "date": "08/15 05:24"
       },
       {
         "type": "positive",
@@ -986,7 +986,7 @@
       {
         "type": "neutral",
         "title": "Plato Investment Management Ltd Takes $4.91 Million Position in Vertiv Holdings Co. $VRT",
-        "publisher": "MarketBeat",
+        "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUTI2bDd0ckU1bW42SzJlbm5iYzdsQnNfSlRnUFdJV0dCMjA0R1NfQ3FVcXNKVXc1QmVwcE9kNjNISWNjTWEzeGhvN2Z0Z0dGX1NidWhWSS1rUkQzSnZ6bHk3dEwyU3Z3Y1E0VmRhMTZQOHJuNUpXeTFKQUNMVnNraF9sNGxaVjE0ckZSUVhMZVhHVWdsbHk0cHNnVHRZQzBJN0M2cXZhelNzVXVEYm15QV83UmwtellHc0N6aWhqQ3FzT1FjNlN3THUyQkk1OEFJcEI4cjlBbVBkdkJqQ2c?oc=5",
         "date": "08/17 19:30"
       },
