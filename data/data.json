@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T20:50:19.565942+00:00",
+  "updatedAt": "2026-08-17T21:17:00.187711+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1416.48,
-        "change": 0.08
+        "value": 1415.04,
+        "change": -0.02
       },
       {
         "name": "KOSPI",
@@ -663,7 +663,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1416.48
+              1415.04
             ]
           }
         ]
@@ -895,17 +895,17 @@
       },
       {
         "type": "neutral",
-        "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
-        "date": "08/15 06:45"
-      },
-      {
-        "type": "neutral",
         "title": "Broadcom Is Set To Rewrite The AI Narrative (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTlTNUVCSFAwMDRmOHY3TC1rU0x4aG9yeTBZQlZzeWlDck00N2VSS2JubHBjV1phTzNJaUhDbGI5Rnp1T1J2elV2Sk9MSTlGa3hRbzI1N3hqaXVka3dHME9tZmxKaXkxbTk5ZkpiWFdNQ3JjV1k5cmFJNlRsRGdWNUdHSkJyRTBlVTZhcg?oc=5",
         "date": "08/18 02:21"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
+        "date": "08/15 06:45"
       },
       {
         "type": "neutral",
