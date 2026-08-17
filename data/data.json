@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-17T16:15:53.422140+00:00",
+  "updatedAt": "2026-08-17T16:52:22.748241+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7775.3,
-        "change": -0.13
+        "value": 7769.9,
+        "change": -0.2
       },
       {
         "name": "NASDAQ",
-        "value": 26743.36,
-        "change": 0.05
+        "value": 26713.83,
+        "change": -0.06
       },
       {
         "name": "다우존스",
-        "value": 53598.43,
-        "change": -0.25
+        "value": 53531.59,
+        "change": -0.37
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.03,
-        "change": 5.47
+        "value": 15.06,
+        "change": 5.68
       },
       {
         "name": "미국10년금리",
-        "value": 4.71,
-        "change": 0.21
+        "value": 4.7,
+        "change": 0.0
       },
       {
         "name": "원달러환율",
-        "value": 1412.67,
-        "change": -0.3
+        "value": 1412.8,
+        "change": -0.29
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7748.5,
               7798.99,
               7785.76,
-              7775.3
+              7769.9
             ]
           },
           {
@@ -245,7 +245,7 @@
               26588.49,
               26803.03,
               26729.16,
-              26743.36
+              26713.83
             ]
           },
           {
@@ -313,7 +313,7 @@
               53770.27,
               53839.99,
               53732.41,
-              53598.43
+              53531.59
             ]
           }
         ]
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              15.03
+              15.06
             ]
           }
         ]
@@ -591,7 +591,7 @@
               4.68,
               4.64,
               4.7,
-              4.71
+              4.7
             ]
           },
           {
@@ -662,7 +662,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1412.67
+              1412.8
             ]
           }
         ]
@@ -868,6 +868,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -878,10 +879,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 57.2,
-    "GOOGL": 55.4,
-    "QCOM": 50.0,
-    "VRT": 60.0
+    "AVGO": 57.6,
+    "GOOGL": 54.9,
+    "QCOM": 49.7,
+    "VRT": 60.3
   },
   "news": {
     "AVGO": [
@@ -907,11 +908,11 @@
         "date": "08/15 06:45"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Stock Drops 6% As $370B AI Debt Question Looms - Apollo Global Management (NYSE:APO), Broadcom",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamNGRmM3Z1JvMWpsbTFfVGZwR2dQcF82YVRuaFhhbUJGTUpERHhqNm5UZmJQaGRscXJZRXZUTk8tZ1Jkbm1SVVU0aVY5VmViSmNscmFsNXAyYm10dG43MFlYT193NW5lOGR3OHozRlN0ZjhmX0pfTUtJSmxiVnFmTGhjeGhEVVhUXzg4b1pVVnNlcnpMUWFPeG1MR2tBSTVBdlE?oc=5",
-        "date": "08/15 02:08"
+        "type": "neutral",
+        "title": "What Separates AVGO From Its Peers Right Now",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
+        "date": "08/15 04:13"
       }
     ],
     "GOOGL": [
@@ -930,18 +931,18 @@
         "date": "08/15 21:50"
       },
       {
+        "type": "negative",
+        "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXcyQ1cybFhrMlZWeFBFdTNCbUFJR3lLRjRSVHBkb20wM1NocjU2U2VkNDd2Zk42QWZWLVJRbWs2U3pfZU9DbVQ1S29QYkttT2NkaU5GN3RDLWlJc3JpT3lfQjJNeUhYcFZmNHQwRkZRTXhCZXA5VERYQTBaamhKM2NLVVFTX2IweDVBS1BBd1UwTzlvOEJoNTFjNm4?oc=5",
+        "date": "08/16 02:00"
+      },
+      {
         "type": "positive",
         "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
         "date": "08/17 18:10"
-      },
-      {
-        "type": "negative",
-        "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
-        "publisher": "fool.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
-        "date": "08/17 07:06"
       }
     ],
     "QCOM": [
@@ -997,11 +998,11 @@
         "date": "07/29 16:00"
       },
       {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "07/29 16:00"
+        "type": "neutral",
+        "title": "VRT Stock After the Q2 Selloff: What Vertiv's Balance Sheet Says That Its Press Release Didn't",
+        "publisher": "Top1 Markets",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNcXRXRGEwb3BJR05xRnVWSjhfbTAtemxTbG1vckg5S0o4bnRsdF9QNTNCZUpzRFY2bXZySDc2bDQtUTB1WkNvOHBxbkctX2dRZjFsXzlWYWpHbUNnUUxfZDJERXZJcFdDdW9oSV8yUFN1djhHRm01U0pUdVRhOVk?oc=5",
+        "date": "08/14 22:26"
       }
     ]
   }
