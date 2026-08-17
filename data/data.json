@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:17:00.187711+00:00",
+  "updatedAt": "2026-08-17T21:47:02.319637+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1415.04,
-        "change": -0.02
+        "value": 1415.23,
+        "change": -0.01
       },
       {
         "name": "KOSPI",
@@ -663,7 +663,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1415.04
+              1415.23
             ]
           }
         ]
@@ -869,6 +869,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -901,18 +902,18 @@
         "date": "08/18 02:21"
       },
       {
-        "type": "neutral",
-        "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
-        "date": "08/15 06:45"
+        "type": "negative",
+        "title": "Broadcom Stock Drops 6% As $370B AI Debt Question Looms - Apollo Global Management (NYSE:APO), Broadcom",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamNGRmM3Z1JvMWpsbTFfVGZwR2dQcF82YVRuaFhhbUJGTUpERHhqNm5UZmJQaGRscXJZRXZUTk8tZ1Jkbm1SVVU0aVY5VmViSmNscmFsNXAyYm10dG43MFlYT193NW5lOGR3OHozRlN0ZjhmX0pfTUtJSmxiVnFmTGhjeGhEVVhUXzg4b1pVVnNlcnpMUWFPeG1MR2tBSTVBdlE?oc=5",
+        "date": "08/15 02:08"
       },
       {
         "type": "neutral",
-        "title": "What Separates AVGO From Its Peers Right Now",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
-        "date": "08/15 04:13"
+        "title": "MRVL and AVGO: Who Owns These 2 Semiconductor Stocks Ahead of Earnings?",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2NTaVY0dS1KeHIybWFYUXd1R3N0cHJFSi1XempqQWhtMUpEaTdJeWt2Y0Z5OWZ4UWJXMTltVnFwczM5VXZoNmFmR3dJXzRQM0toTlhDdzRsakdJTkl3SXBqcFVCRG95NmVQdnpQSjZrZVlNdEhoS3dRZ0l5R2ZnS1ZiQk9JTkV4cVRrancyZEI1VENtZXdhOTBIRUZONXZG?oc=5",
+        "date": "08/17 23:05"
       }
     ],
     "GOOGL": [
@@ -948,6 +949,13 @@
     "QCOM": [
       {
         "type": "neutral",
+        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
+        "date": "08/18 00:15"
+      },
+      {
+        "type": "neutral",
         "title": "The Diverging Paths Priced Into Qualcomm Stock",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
@@ -961,18 +969,11 @@
         "date": "08/15 16:35"
       },
       {
-        "type": "neutral",
-        "title": "CHICAGO TRUST Co NA Has $847,000 Stock Holdings in Qualcomm Incorporated $QCOM",
+        "type": "negative",
+        "title": "Qualcomm (NASDAQ:QCOM) Trading Down 2.2% - Here's Why",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT21MOXhqYTBYclRxbnRHNEMxTXRzSy1PU01ZaEtrS2NhVlNqNkJRR3JWWDVOWHBTX0tZc3pqRGVhNkVvZUFfZkFNMWhLQzZqX3JKN0tidlpURmltWEZpekN2OVowbEFqVlVuSmJqWWQzS3hyRzhzM2tKLVVpVUJqZW9qZVFOUC10RFNfVUN0Qk1QTkxpNV9mTWxpc2RnMXduUE5iYVBkWVFMMFYxQTFOZ3pnRHNlYzZUQlFjb25IWnVOSXNXcUhFZ192bFR0UVdwUHc?oc=5",
-        "date": "08/17 17:08"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $408,142 of QCOM stock",
-        "publisher": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDI1eTVqZ1JOb1V1MW44OFhVS2NGVTF6eUpTTHN3aE5rZjVOZVlQdmY0Sm9VQWJEb3REUmlRRUpDWU5hTE1WMi1DYTZ6ZWpsT1dNNk5WN3hvOXBPWjlXMEk3V1EwMmNHSElOWng1eHZGbnQydzlKcmZPNHhqQWk5ODRUOWxlNWVOQUVBamp1dGpJeTZ5a0Rha2hJM2VYMWljMFBwWDFoUEZVSk1GLTFKYVpBcFJmYjJNYzRQMjY3TXBJdw?oc=5",
-        "date": "08/13 14:36"
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDQ0TW5XWnRlUXhwUE8zWWRsQ1pQZjVCSGUtUUhhdUJuQUdBeUZwOEpYOTJybExZU2wxRlF6MUdYR2ZIb0J5c3N5bE1xcDFjN1NwYjBzdXM2bkhNLWZSeFY1VGJRZnlUUnMwSE1YeldhT2V2T1JHdG5qRjBXc1B6ZTJ5QzNSeU9wWV9GWF8yWkVKWnotZEpWMkEzX25qS3Fr?oc=5",
+        "date": "08/18 06:31"
       }
     ],
     "VRT": [
