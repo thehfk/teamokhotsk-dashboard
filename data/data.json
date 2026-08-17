@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T07:43:12.236674+00:00",
+  "updatedAt": "2026-08-17T08:31:44.233496+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.99,
-        "change": 5.19
+        "value": 14.95,
+        "change": 4.91
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1411.42,
-        "change": -0.38
+        "value": 1410.22,
+        "change": -0.47
       },
       {
         "name": "KOSPI",
@@ -353,15 +353,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -422,15 +419,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -441,7 +435,7 @@
               14.55,
               14.63,
               14.25,
-              14.99
+              14.95
             ]
           }
         ]
@@ -556,7 +550,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1411.42
+              1410.22
             ]
           }
         ]
@@ -749,7 +743,6 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
@@ -819,27 +812,27 @@
         "date": "08/15 21:50"
       },
       {
-        "type": "negative",
-        "title": "Alphabet Inc. $GOOGL Stock Position Cut by Agate Pass Investment Management LLC",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
-        "date": "08/16 16:16"
-      },
-      {
         "type": "neutral",
         "title": "Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0otdndvX1d0N3ZXODZsQ3NWUUlRMTJWVEt6R2FrcFVTZXdtSVNtUHZNRWotREN1OWo5UHpBeHJLVzdkX0tnNGRuTnZjaWJLc3lTWmxWWTRSWHJvbW1SSkNyTWFSUnMtY3V5cE0wZ1hsU2FPaWItTEdtS2dDUkV3aHV6VHp2SXJBZ0p5Z1VWMU1iQXc1Sk8tcGdpd01PRGhxRlpv?oc=5",
         "date": "08/15 08:28"
+      },
+      {
+        "type": "neutral",
+        "title": "Seilern Investment Management Ltd Has $43.39 Million Stock Position in Alphabet Inc. $GOOGL",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObHc5cE01UmhkTnNzX3k5VTg3V21aN0VmaVNmRGFPVktFXzFBYS1XNGd6TmFlSTFjRFhrN1Naa01LblNLWHgtTThaSDdiYXlOdFZUVFNYQ1l0U2g3U0lNMWpxRk1VVGlZTU5MZks0TFpoVWphb0lTZDJKc255TU1HY2JVVXd4bXFUTElQMmtnSHZ2dHNhX3NORzA2UkE5T0ZJODgxeERHZ0FKNWp4OHNRWlluVFlXTFY2MWNVWFVWSGdJNlZVYnlmWUR3ZDB2azRkWnNJSm50UHdSZ3JwbU1ZSlNn?oc=5",
+        "date": "08/16 18:24"
       }
     ],
     "QCOM": [
       {
         "type": "neutral",
-        "title": "The Diverging Paths Priced Into Qualcomm Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
-        "date": "08/17 05:19"
+        "title": "CHICAGO TRUST Co NA Has $847,000 Stock Holdings in Qualcomm Incorporated $QCOM",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT21MOXhqYTBYclRxbnRHNEMxTXRzSy1PU01ZaEtrS2NhVlNqNkJRR3JWWDVOWHBTX0tZc3pqRGVhNkVvZUFfZkFNMWhLQzZqX3JKN0tidlpURmltWEZpekN2OVowbEFqVlVuSmJqWWQzS3hyRzhzM2tKLVVpVUJqZW9qZVFOUC10RFNfVUN0Qk1QTkxpNV9mTWxpc2RnMXduUE5iYVBkWVFMMFYxQTFOZ3pnRHNlYzZUQlFjb25IWnVOSXNXcUhFZ192bFR0UVdwUHc?oc=5",
+        "date": "08/17 17:08"
       },
       {
         "type": "neutral",
@@ -849,18 +842,18 @@
         "date": "08/15 16:35"
       },
       {
+        "type": "negative",
+        "title": "QCOM: A Cash Gusher At A Marked-Down Price",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2tPZVFXNGh5TkJvTF8tVXBoRHpLQVhLd1JTWWVKNTZKUjdxVFM3WTc5NlZtZUJLUlV3dElYc0l3T2p0UEUzUmtNMnZSYm0xZUxWaWdjdVRKWHhoMTF2X3JDSDJFcS1hM1dvbFdZSkxBdmRiejBMX3lGRGcyOGZvaEFtQ3NORDgzRjNwM0l0SUpUM3ZNclV1TV9pTEkxWVVVY2YzRTZTMA?oc=5",
+        "date": "08/15 05:24"
+      },
+      {
         "type": "positive",
         "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
         "date": "08/13 17:52"
-      },
-      {
-        "type": "positive",
-        "title": "Qualcomm (QCOM) Stock Sinks As Market Gains: Here's Why",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHRqdGFjSWZCYkFYR1M4dFhhTnhZVHI2WEVCc1ZkSWNQc25yNXhOMW9qU1RsR0E3SDdaMTN6ZTdfWDVFQTR0R3lfZERITnhVb28xXzVOdlNsYVFjbzdoV3ZtLWpJS3JVMTlrY3FtNFpyLXdOM1VvTEpoZFBjaUF6d0ZXLXVGcWZSeE1Mb1hKNEFqRno0Nk5VbGdCS2F2UQ?oc=5",
-        "date": "06/30 16:00"
       }
     ],
     "VRT": [
