@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T10:22:03.542733+00:00",
+  "updatedAt": "2026-08-17T10:54:06.662678+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.97,
-        "change": 5.05
+        "value": 14.95,
+        "change": 4.91
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.35,
-        "change": -0.32
+        "value": 1410.67,
+        "change": -0.44
       },
       {
         "name": "KOSPI",
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              14.97
+              14.95
             ]
           }
         ]
@@ -664,7 +664,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1412.35
+              1410.67
             ]
           }
         ]
@@ -889,13 +889,6 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Cisco vs. Broadcom: One Stock Looks Like the Better AI Play",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbW05NUdzTm85VkpRd2lyV1lLZHZqZmhDN3BjWmJ4MkhyM0JjX0lQandYSEZUZW84WDFBazhMX05EYV9YNl9pYmlzbkljM3lkOVZjVEpCcENLZDVCekpWQ0VsU19XMXltY1RTX3BtRVJYLVFJSzBkMXhZSkdGRm9YbWlqTTFjZDVSTVBpTDdvUGowYXRIVFE?oc=5",
-        "date": "08/16 00:30"
-      },
-      {
-        "type": "neutral",
         "title": "Broadcom: VMware-Driven Sell-Off Is A Buying Opportunity (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDBXVENZeW1DWEZIYkJfVnY2cmx4LV9nM0FSU0VZWkE5WGh0TXhTd2dGS0RGZy1lYURXeDM4d0RqTnJQYVFlLXBQODhxQ1VPNkNKa0N1MVZfNFVNWEFrQkZrRDI5YUNTUVIxWFI4WWUzb1g4Uk9xMU9jWG5EdVkxcDlucWd3OXJJX2VSZE93VFRrcDdRYVE?oc=5",
@@ -914,6 +907,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
         "date": "08/15 06:45"
+      },
+      {
+        "type": "neutral",
+        "title": "What Separates AVGO From Its Peers Right Now",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEtUX0RXRUlVMUtRMFRhRWw2R2RBVU1BdFRIR2piQ2ZGVmdvNEw3VnhaX25uWnpydlZWUU5HOVB0QVYyODh0V1IzV3FYNVJuTXpFTXlJbFJ4YVVOTW5ReVdqTXdJeFAtaXl2SmhHX09XMG9OZWdENEg0d1BHLXNBS1VtQWFlYlJxeU9KNkM5bktUNFFWa2VFMy1jcElXMjd3Y3hhMDVCZHQ?oc=5",
+        "date": "08/15 04:13"
       }
     ],
     "GOOGL": [
@@ -934,7 +934,7 @@
       {
         "type": "positive",
         "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
-        "publisher": "tipranks.com",
+        "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
         "date": "08/17 18:10"
       },
@@ -985,11 +985,11 @@
         "date": "08/15 00:40"
       },
       {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
+        "type": "neutral",
+        "title": "Plato Investment Management Ltd Takes $4.91 Million Position in Vertiv Holdings Co. $VRT",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
-        "date": "08/15 06:26"
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUTI2bDd0ckU1bW42SzJlbm5iYzdsQnNfSlRnUFdJV0dCMjA0R1NfQ3FVcXNKVXc1QmVwcE9kNjNISWNjTWEzeGhvN2Z0Z0dGX1NidWhWSS1rUkQzSnZ6bHk3dEwyU3Z3Y1E0VmRhMTZQOHJuNUpXeTFKQUNMVnNraF9sNGxaVjE0ckZSUVhMZVhHVWdsbHk0cHNnVHRZQzBJN0M2cXZhelNzVXVEYm15QV83UmwtellHc0N6aWhqQ3FzT1FjNlN3THUyQkk1OEFJcEI4cjlBbVBkdkJqQ2c?oc=5",
+        "date": "08/17 19:30"
       },
       {
         "type": "positive",
