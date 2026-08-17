@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T11:47:10.864740+00:00",
+  "updatedAt": "2026-08-17T12:22:11.323710+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.91,
-        "change": 4.63
+        "value": 14.94,
+        "change": 4.84
       },
       {
         "name": "미국10년금리",
@@ -29,7 +29,7 @@
       },
       {
         "name": "원달러환율",
-        "value": 1411.06,
+        "value": 1411.08,
         "change": -0.41
       },
       {
@@ -227,15 +227,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -450,7 +447,7 @@
               14.55,
               14.63,
               14.25,
-              14.91
+              14.94
             ]
           }
         ]
@@ -458,12 +455,58 @@
       {
         "name": "환율 / 금리",
         "labels": [
+          "05/18",
+          "05/19",
+          "05/20",
+          "05/21",
+          "05/22",
+          "05/26",
+          "05/27",
+          "05/28",
+          "05/29",
+          "06/01",
+          "06/02",
+          "06/03",
+          "06/04",
+          "06/05",
+          "06/08",
+          "06/09",
+          "06/10",
+          "06/11",
+          "06/12",
+          "06/15",
+          "06/16",
+          "06/17",
+          "06/18",
+          "06/22",
+          "06/23",
+          "06/24",
+          "06/25",
+          "06/26",
+          "06/29",
+          "06/30",
+          "07/01",
+          "07/02",
+          "07/06",
+          "07/07",
+          "07/08",
+          "07/09",
+          "07/10",
+          "07/13",
+          "07/14",
+          "07/15",
+          "07/16",
+          "07/17",
+          "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -479,12 +522,58 @@
           {
             "name": "미국10년금리",
             "data": [
+              4.62,
+              4.67,
+              4.57,
+              4.59,
+              4.56,
+              4.49,
+              4.48,
+              4.45,
+              4.45,
+              4.47,
+              4.45,
+              4.49,
+              4.48,
+              4.54,
+              4.55,
+              4.53,
+              4.54,
+              4.46,
+              4.49,
+              4.47,
+              4.43,
+              4.46,
+              4.45,
+              4.51,
+              4.49,
+              4.4,
+              4.39,
+              4.37,
+              4.37,
+              4.42,
+              4.47,
+              4.49,
+              4.48,
+              4.53,
+              4.57,
+              4.54,
+              4.57,
+              4.61,
+              4.59,
+              4.55,
+              4.57,
+              4.54,
+              4.6,
+              4.63,
+              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
+              4.74,
               4.69,
               4.63,
               4.62,
@@ -565,7 +654,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1411.06
+              1411.08
             ]
           }
         ]
@@ -618,15 +707,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -687,15 +773,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -764,7 +847,6 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
@@ -799,7 +881,7 @@
       {
         "type": "negative",
         "title": "Wall Street's Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the 'Smart Money?'",
-        "publisher": "247wallst.com",
+        "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMEtfOFBhUXM3MXlFd243QVFtSmRUdHdhd2twRVpSSUxLSi1EQVNXWm4zV3RKOVZ2OGhwYTVUbUQxOUMtMTd0LXVheWMxU1VNX09hQXIwaEZwZnQtUVVEM0RPMTg4Q18ycllSWV83ZENRZFdjenVTWGEwV2hxU3RzQ3drZkhRM2RBdU5SUDl5TUlnX3lsY1VZTTV0RVp0Q2piU05vRjhaWmplaGU5M24xREpMQ0RrR2NsU1o4dFVkREl3WThGRlM0U0pwRTFzUlNOZm5KN3JHcVFRV2tIR0d1bGFZSHR1ZUEyQkE?oc=5",
         "date": "08/17 07:13"
       },
@@ -821,31 +903,31 @@
     "GOOGL": [
       {
         "type": "positive",
-        "title": "GOOGL Down 19% From 52-Week High: Buy, Sell or Hold the Stock?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSG1YYUZuMVc5TkJQeW1EV1dvaTVfWVdVWGF6bG5YUDh6Q0JUb19ZM25RLWtZRVB6ekVHRzdEUXlTQnBtN2c2UUFFNENoWVhTaHVlY0J2a3ctOUZJNTBxaUZDeVpiQS02eUoxT0I2RjB5ekJZbWJRU2luaEItdi1LWUxia0ZlYkhrS0lyZ3JTaw?oc=5",
-        "date": "08/14 02:38"
-      },
-      {
-        "type": "positive",
         "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
         "date": "08/15 03:20"
       },
       {
-        "type": "positive",
-        "title": "GOOGL Stock Rises Overnight: Cathie Wood's ARK Buys $96M While Trimming AMD, BIDU Stakes",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa3lUWENYUXhLcE5FTVJpYWp3QVpRVDZQcGVrQ2RQX2JuLUdES0IxV0NQYjdrTkJpaFZRd2xUU1Qtb1RVZTlSVU1xQmVrWjdZSlVFSTZyZlliZmZzREhYSmRObmdRd2stenlLWERlckl1SHFzbE5fVWZjRjZhb2gzYzlHYXhmM01FeE1XVGI2aFk5cnpIWkZNMGI1bTVWcHRGbFlOMmRydzhNYlZpVkVkdGRKQjFheWlSX0NPRE9oUkhzS3h6X2NJOWQ1V19RaXBmZC04X254WVlUcXlKb3dULUhmbm8?oc=5",
-        "date": "08/16 06:03"
+        "type": "neutral",
+        "title": "Berkshire adds $17 billion to Alphabet stake",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVlXUGlQSUZVdnRDRXFHVU0wMlBfY0kzVFFFNS1FY2NSNG9QblVxV2dXdTZRUjFmWVdUck04RnpIU0xkRThWOWNpRnJCTVByX0hhWGI3SGVWQXpjU1dXV180NjBqUEx4UElCbFNJRGdMWkFZMHMtUm01TjlMbm81VDUzREFWMXPSAYwBQVVfeXFMTllSR3VuVXdXV1p0Y2JUZ1FoaG56RFQybURDY1hzWlFpdHNXZFhzcmJscXZpVVZUX1VGRl9yYWJ3MklCbExSUDRocWxsSFhBeFlJZmhCU1FpVDJMdFNSdkY0UWpqM2J4SGVOZFVieFUyRTNtbTdzUWo4TjFjZ181NWZZM0hDTnItVWdRZFM?oc=5",
+        "date": "08/15 21:50"
       },
       {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "tradingkey.com",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "08/16 21:40"
+        "type": "positive",
+        "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
+        "date": "08/17 18:10"
+      },
+      {
+        "type": "negative",
+        "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
+        "date": "08/17 07:06"
       }
     ],
     "QCOM": [
