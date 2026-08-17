@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-17T15:16:07.776952+00:00",
+  "updatedAt": "2026-08-17T15:46:50.744765+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7776.85,
-        "change": -0.11
+        "value": 7772.13,
+        "change": -0.18
       },
       {
         "name": "NASDAQ",
-        "value": 26774.53,
-        "change": 0.17
+        "value": 26752.46,
+        "change": 0.09
       },
       {
         "name": "다우존스",
-        "value": 53540.02,
-        "change": -0.36
+        "value": 53518.46,
+        "change": -0.4
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.97,
-        "change": 5.05
+        "value": 14.95,
+        "change": 4.91
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.71,
-        "change": -0.29
+        "value": 1413.25,
+        "change": -0.25
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7748.5,
               7798.99,
               7785.76,
-              7776.85
+              7772.13
             ]
           },
           {
@@ -245,7 +245,7 @@
               26588.49,
               26803.03,
               26729.16,
-              26774.53
+              26752.46
             ]
           },
           {
@@ -313,7 +313,7 @@
               53770.27,
               53839.99,
               53732.41,
-              53540.02
+              53518.46
             ]
           }
         ]
@@ -453,7 +453,7 @@
               14.55,
               14.63,
               14.25,
-              14.97
+              14.95
             ]
           }
         ]
@@ -662,7 +662,7 @@
               1412.18,
               1416.46,
               1416.85,
-              1412.71
+              1413.25
             ]
           }
         ]
@@ -868,6 +868,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -878,17 +879,17 @@
     ]
   },
   "rsi": {
-    "AVGO": 56.3,
-    "GOOGL": 55.3,
-    "QCOM": 50.4,
-    "VRT": 59.6
+    "AVGO": 56.6,
+    "GOOGL": 55.2,
+    "QCOM": 50.2,
+    "VRT": 59.8
   },
   "news": {
     "AVGO": [
       {
         "type": "neutral",
         "title": "Billionaire Stanley Druckenmiller and Brad Gerstner Both Dumped Broadcom (AVGO) and Bought This AI Stock Instead",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkd5cUZvX0FlSW1GV281ZUd6Y2hJUjRFVU5yRWdKb0V1aVotdUllMjRiNlB4NmlDaUlheWlxWmJrZkRsdVgzaW5MeVByT0pWRkJPYVZ2LVBpUVdXUXh4dFE4TS1HZlpnMFQ4Y1FzMGozWmJrdFExaGUwazAtODFyeVdKeThULUlhZmRNek1QNE9VcXRNbHU3WU1DdFRIRWxCUDJuTEcyUXB1ZENqaXRPcjln?oc=5",
         "date": "08/17 23:49"
       },
@@ -902,7 +903,7 @@
       {
         "type": "neutral",
         "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
         "date": "08/15 06:45"
       },
@@ -918,7 +919,7 @@
       {
         "type": "positive",
         "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "Barchart.com",
+        "publisher": "barchart.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
         "date": "08/15 03:20"
       },
@@ -962,7 +963,7 @@
       {
         "type": "neutral",
         "title": "CHICAGO TRUST Co NA Has $847,000 Stock Holdings in Qualcomm Incorporated $QCOM",
-        "publisher": "MarketBeat",
+        "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT21MOXhqYTBYclRxbnRHNEMxTXRzSy1PU01ZaEtrS2NhVlNqNkJRR3JWWDVOWHBTX0tZc3pqRGVhNkVvZUFfZkFNMWhLQzZqX3JKN0tidlpURmltWEZpekN2OVowbEFqVlVuSmJqWWQzS3hyRzhzM2tKLVVpVUJqZW9qZVFOUC10RFNfVUN0Qk1QTkxpNV9mTWxpc2RnMXduUE5iYVBkWVFMMFYxQTFOZ3pnRHNlYzZUQlFjb25IWnVOSXNXcUhFZ192bFR0UVdwUHc?oc=5",
         "date": "08/17 17:08"
       },
@@ -977,15 +978,15 @@
     "VRT": [
       {
         "type": "neutral",
-        "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
-        "publisher": "finance.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
-        "date": "08/17 21:09"
+        "title": "G vs. VRT: Which Stock Should Value Investors Buy Now?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1FEOE9GTThvbHhRZXRBNVh2Mi05c1JzZnZzZkdBckotNnhqRHNGQVozYW8tQUExbWpKeUd6dEpzNEQ4NkRFMklYNXo0UzZyaVBjOUdpUUg0WTN2ZlNYZVBTTXBUaVhHUFNIYWVDUm12dWdlZGt4Yk4xR2NVWXQ3UEFyQWMwNG83TkV3VUZn?oc=5",
+        "date": "08/15 00:40"
       },
       {
         "type": "neutral",
         "title": "Plato Investment Management Ltd Takes $4.91 Million Position in Vertiv Holdings Co. $VRT",
-        "publisher": "MarketBeat",
+        "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUTI2bDd0ckU1bW42SzJlbm5iYzdsQnNfSlRnUFdJV0dCMjA0R1NfQ3FVcXNKVXc1QmVwcE9kNjNISWNjTWEzeGhvN2Z0Z0dGX1NidWhWSS1rUkQzSnZ6bHk3dEwyU3Z3Y1E0VmRhMTZQOHJuNUpXeTFKQUNMVnNraF9sNGxaVjE0ckZSUVhMZVhHVWdsbHk0cHNnVHRZQzBJN0M2cXZhelNzVXVEYm15QV83UmwtellHc0N6aWhqQ3FzT1FjNlN3THUyQkk1OEFJcEI4cjlBbVBkdkJqQ2c?oc=5",
         "date": "08/17 19:30"
       },
