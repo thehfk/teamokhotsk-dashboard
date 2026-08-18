@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T06:25:20.709938+00:00",
+  "updatedAt": "2026-08-18T07:12:41.965534+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1411.55,
-        "change": -0.27
+        "value": 1411.38,
+        "change": -0.28
       },
       {
         "name": "KOSPI",
-        "value": 6801.39,
-        "change": -2.53
+        "value": 6869.83,
+        "change": -1.55
       },
       {
         "name": "KOSDAQ",
-        "value": 829.65,
-        "change": -4.05
+        "value": 834.2,
+        "change": -3.52
       }
     ],
     "groups": [
@@ -291,12 +291,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -358,12 +361,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -423,12 +429,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -646,7 +655,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1411.55
+              1411.38
             ]
           }
         ]
@@ -784,7 +793,7 @@
               6579.04,
               6813.34,
               6977.94,
-              6801.39
+              6869.83
             ]
           },
           {
@@ -841,17 +850,17 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65,
-              829.65
+              834.2
             ]
           }
         ]
@@ -869,7 +878,7 @@
       {
         "type": "neutral",
         "title": "MRVL and AVGO: Who Owns These 2 Semiconductor Stocks Ahead of Earnings?",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2NTaVY0dS1KeHIybWFYUXd1R3N0cHJFSi1XempqQWhtMUpEaTdJeWt2Y0Z5OWZ4UWJXMTltVnFwczM5VXZoNmFmR3dJXzRQM0toTlhDdzRsakdJTkl3SXBqcFVCRG95NmVQdnpQSjZrZVlNdEhoS3dRZ0l5R2ZnS1ZiQk9JTkV4cVRrancyZEI1VENtZXdhOTBIRUZONXZG?oc=5",
         "date": "08/17 23:05"
       },
@@ -906,7 +915,7 @@
       {
         "type": "positive",
         "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
         "date": "08/17 18:10"
       },
