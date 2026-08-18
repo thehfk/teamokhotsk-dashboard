@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-18T14:03:36.442276+00:00",
+  "updatedAt": "2026-08-18T14:59:34.810412+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7711.72,
-        "change": -0.95
+        "value": 7697.77,
+        "change": -1.13
       },
       {
         "name": "NASDAQ",
-        "value": 26366.5,
-        "change": -1.36
+        "value": 26277.84,
+        "change": -1.69
       },
       {
         "name": "다우존스",
-        "value": 53417.89,
-        "change": -0.59
+        "value": 53427.3,
+        "change": -0.57
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.75,
-        "change": 10.53
+        "value": 15.66,
+        "change": 9.89
       },
       {
         "name": "미국10년금리",
-        "value": 4.72,
-        "change": 0.43
+        "value": 4.71,
+        "change": 0.21
       },
       {
         "name": "원달러환율",
-        "value": 1410.92,
-        "change": -0.31
+        "value": 1411.99,
+        "change": -0.24
       },
       {
         "name": "KOSPI",
@@ -171,7 +171,7 @@
               7748.5,
               7798.99,
               7785.76,
-              7711.72
+              7697.77
             ]
           },
           {
@@ -220,12 +220,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -236,7 +239,7 @@
               26588.49,
               26803.03,
               26729.16,
-              26366.5
+              26277.84
             ]
           },
           {
@@ -301,7 +304,7 @@
               53770.27,
               53839.99,
               53732.41,
-              53417.89
+              53427.3
             ]
           }
         ]
@@ -353,12 +356,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -419,12 +425,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -435,7 +444,7 @@
               14.55,
               14.63,
               14.25,
-              15.75
+              15.66
             ]
           }
         ]
@@ -443,12 +452,58 @@
       {
         "name": "환율 / 금리",
         "labels": [
+          "05/18",
+          "05/19",
+          "05/20",
+          "05/21",
+          "05/22",
+          "05/26",
+          "05/27",
+          "05/28",
+          "05/29",
+          "06/01",
+          "06/02",
+          "06/03",
+          "06/04",
+          "06/05",
+          "06/08",
+          "06/09",
+          "06/10",
+          "06/11",
+          "06/12",
+          "06/15",
+          "06/16",
+          "06/17",
+          "06/18",
+          "06/22",
+          "06/23",
+          "06/24",
+          "06/25",
+          "06/26",
+          "06/29",
+          "06/30",
+          "07/01",
+          "07/02",
+          "07/06",
+          "07/07",
+          "07/08",
+          "07/09",
+          "07/10",
+          "07/13",
+          "07/14",
+          "07/15",
+          "07/16",
+          "07/17",
+          "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -465,12 +520,58 @@
           {
             "name": "미국10년금리",
             "data": [
+              4.62,
+              4.67,
+              4.57,
+              4.59,
+              4.56,
+              4.49,
+              4.48,
+              4.45,
+              4.45,
+              4.47,
+              4.45,
+              4.49,
+              4.48,
+              4.54,
+              4.55,
+              4.53,
+              4.54,
+              4.46,
+              4.49,
+              4.47,
+              4.43,
+              4.46,
+              4.45,
+              4.51,
+              4.49,
+              4.4,
+              4.39,
+              4.37,
+              4.37,
+              4.42,
+              4.47,
+              4.49,
+              4.48,
+              4.53,
+              4.57,
+              4.54,
+              4.57,
+              4.61,
+              4.59,
+              4.55,
+              4.57,
+              4.54,
+              4.6,
+              4.63,
+              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
+              4.74,
               4.69,
               4.63,
               4.62,
@@ -481,7 +582,7 @@
               4.68,
               4.64,
               4.7,
-              4.72
+              4.71
             ]
           },
           {
@@ -553,7 +654,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1410.92
+              1411.99
             ]
           }
         ]
@@ -760,10 +861,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 49.7,
-    "GOOGL": 54.5,
-    "QCOM": 47.4,
-    "VRT": 52.9
+    "AVGO": 48.9,
+    "GOOGL": 54.7,
+    "QCOM": 45.7,
+    "VRT": 51.3
   },
   "news": {
     "AVGO": [
@@ -777,7 +878,7 @@
       {
         "type": "neutral",
         "title": "MRVL and AVGO: Who Owns These 2 Semiconductor Stocks Ahead of Earnings?",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2NTaVY0dS1KeHIybWFYUXd1R3N0cHJFSi1XempqQWhtMUpEaTdJeWt2Y0Z5OWZ4UWJXMTltVnFwczM5VXZoNmFmR3dJXzRQM0toTlhDdzRsakdJTkl3SXBqcFVCRG95NmVQdnpQSjZrZVlNdEhoS3dRZ0l5R2ZnS1ZiQk9JTkV4cVRrancyZEI1VENtZXdhOTBIRUZONXZG?oc=5",
         "date": "08/17 23:05"
       },
@@ -814,7 +915,7 @@
       {
         "type": "neutral",
         "title": "Google Plans to Move All Pixel Production Out of China by 2027. What It Means for GOOGL Stock",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU5odnVQSkU1SjRyN3U5R3RIdk9zNk5XYkJwV3NLQzN6VjlSTWtBQjhzVzd4Njl1OUU5U0tfbktJZlluTjg2bnUzSS1wMEVKOGtHc0JDYnNya2xOQzU2cXpXSHp4Smg0VGVIZGRUdG1TM1hnTUJlalJQNi1mWTJXYlI0NUl2SjV0THBEZEdDdm9BZkxNN3FOQmI3ZkFuZW1ybFZ5WEZnOEpjdWJXY1JYckV1SDhqN2hHNVFGMzIzWQ?oc=5",
         "date": "08/18 14:15"
       },
@@ -872,18 +973,18 @@
         "date": "08/18 02:41"
       },
       {
-        "type": "positive",
-        "title": "Vertiv (VRT) Stock Slides After Revenue Miss Despite Earnings Beat And Higher Outlook",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDhVb3J3NEV5VkpMbWlyS2VrOFR2RmpyOFd2UjJFTzBBR29ac3dZbXNURHFvcGU4VEFiY2ZZZG00UUxSbkZFRmZTTGJlYTZucF90clFJYmZidW15Z0k3OHV1NTNNVHBhTlFKd3pQRkRMZE05Z0JfVUNycm52T3ZKS3JTWDlJT1BqNUNmX0V5NVJ6eVE1aDNOXy1UMU9KdTE1Qk1fQ3BRaXhMZmxwWUx1djlnclFfaktJenNaQkZLSEY5UmFuaFhiLS1KQ3RGYV92a25KedIB2gFBVV95cUxNYUZsSGFhMFBCOHFnSG1XaDJ4clU1Z0w4eXVEYVkxTzdRczczcVRpeXdSNk9KcEt0Nm1VZmlnSU84WlBQRmwxLVBQUVFxajZqRXZaYVR4LWxhR3NkU1ZPUlJQa3dMemhHVVFhdW5MdDhyNzR2Y2VFZm5FRXVSMjlCSEJnZ2NpZjZZTHFDWkhfRmt1U0ZYMjJ4a0RnRFJTbi1oeklmSXhRX3hDZU5jQkcxNDhMUHQ4dzdyQnhyYm5TNC1HcEEwOU1IdFoxYXNPenZDY2ZiREFmYkk3dw?oc=5",
-        "date": "07/29 16:00"
+        "type": "neutral",
+        "title": "Vertiv Holdings (VRT) Well Positioned for Key Tech Transitions",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUM2OHFfTGRIVnJ3ZVdIc2RkM19jWGlYY2tTT29fV3RNd1dFY1NybW1WNmdNMm95b2tzQnpZd216RmtmVHhUdVhWc0Frbjk2SW5LZHJYemVxLUxHYWJRYXNMX1lEUVhBWXY2Y0VQeUw5SXgtcWp4TWhnYjd6cmptU28tU3pkSGNHVmY4UXd3eE1ScThTXzR0RUhJWGN6VnFUUnc?oc=5",
+        "date": "08/18 23:02"
       },
       {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "07/29 16:00"
+        "type": "positive",
+        "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
+        "date": "08/15 06:26"
       }
     ]
   }
