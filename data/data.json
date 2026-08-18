@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T05:31:22.838911+00:00",
+  "updatedAt": "2026-08-18T06:25:20.709938+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1409.79,
-        "change": -0.39
+        "value": 1411.55,
+        "change": -0.27
       },
       {
         "name": "KOSPI",
-        "value": 6917.18,
-        "change": -0.87
+        "value": 6801.39,
+        "change": -2.53
       },
       {
         "name": "KOSDAQ",
-        "value": 847.53,
-        "change": -1.98
+        "value": 829.65,
+        "change": -4.05
       }
     ],
     "groups": [
@@ -90,12 +90,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -154,12 +157,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -218,12 +224,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -637,7 +646,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1409.79
+              1411.55
             ]
           }
         ]
@@ -688,12 +697,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -753,12 +765,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -769,7 +784,7 @@
               6579.04,
               6813.34,
               6977.94,
-              6917.18
+              6801.39
             ]
           },
           {
@@ -826,7 +841,6 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
@@ -837,7 +851,7 @@
               858.91,
               861.37,
               864.65,
-              847.53
+              829.65
             ]
           }
         ]
@@ -906,7 +920,7 @@
       {
         "type": "negative",
         "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
-        "publisher": "fool.com",
+        "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
         "date": "08/17 07:06"
       }
@@ -952,7 +966,7 @@
       {
         "type": "neutral",
         "title": "Vertiv vs. Teradyne: Which AI Infrastructure Stock Is the Better Buy?",
-        "publisher": "tradingview.com",
+        "publisher": "TradingView",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkl1MFI5ODVWUVhNa2lSczZReFR5RWZlS3YxWkJHX2l1R3M0bGNxcVlRSG9IYVBnanpYTklud2QySlFXS2FscmlhcDNuV2xuRkIyLTJvMzBZa2IzemZOSDkyOEl3VXZHMnkyUkV3ZlYzLTUtTm1UQjBRQ1ZVRXZSLTFpU3cwYTEydlZBM3h3Vm9VSjJDSXVpMWtVU3o0LXdWdGxlZUplWHFvU1UzbWlUWWVSOTRQQTJIMWY3Nm9kVQ?oc=5",
         "date": "08/18 02:41"
       },
