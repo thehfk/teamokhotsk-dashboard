@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T09:22:01.036474+00:00",
+  "updatedAt": "2026-08-18T09:55:18.144714+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.87,
-        "change": 11.37
+        "value": 15.97,
+        "change": 12.07
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.52,
-        "change": -0.2
+        "value": 1409.43,
+        "change": -0.42
       },
       {
         "name": "KOSPI",
@@ -449,7 +449,7 @@
               14.55,
               14.63,
               14.25,
-              15.87
+              15.97
             ]
           }
         ]
@@ -657,7 +657,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1412.52
+              1409.43
             ]
           }
         ]
@@ -885,6 +885,13 @@
         "date": "08/17 23:05"
       },
       {
+        "type": "negative",
+        "title": "AVGO Stock Rebounds After Worst Drop In Two Months: Retail Traders Look Past VMware Worry, Bet On Rebound",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOU5UVE1fd2J6Y19LY1Excm1nb1YwdnUwUEZOWExkUXgwVUVoMVZtMmN5d3FoN2pGaFVtTnV6ejJ5WERqZUpjSTZaSEpZbUxGOGNDTi1DbGFTVmRmSzJlcHJNeVFOeHNyQW8yWThIVl9jNldDd0RJWGV3djE0NXMtNjdWcW1yb2pIWHZ6V1BmMXVZRnpYUjg1X1FSVQ?oc=5",
+        "date": "08/17 13:29"
+      },
+      {
         "type": "positive",
         "title": "Broadcom Inc. (AVGO) Upgraded to Buy: What Does It Mean for the Stock?",
         "publisher": "Yahoo Finance",
@@ -897,13 +904,6 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajd1azdBem5ncFB6V3V3MnI0NklqWktSdWlnc1dCMElaSnFmTTh3U1RmX3VxZFpUVzNvc05OdVVqbWlrOUFBelJOakptOHRVNGVxb2tJcmpBZ09jTDdDa3hNR2lzUUN4cjdmUFhjMURyaVlQajgxTTVnLXJqalh6ckxDSEZmRXM1T3Nib0FCS0o2X3Zl?oc=5",
         "date": "08/18 07:57"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Monday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVZbkVyTUVTbmpIUlNkZnJJVVMzM1g4VnlNRFo1WnViQjNrQkZoeFJHenllVlY1VTJXSkM4NkJkRU93X0JsTlFieFRfdVhMeUNwWHJBcHBOd1B3VEl3Vmw2bGszeXd2blBrY09hbExfQmNCWVJqUW9rS2JJejVLSFdaWFVDSThPQnkxYWpqT0EtQmozOE5xN2hzWWQ?oc=5",
-        "date": "08/17 20:03"
       }
     ],
     "GOOGL": [
@@ -922,18 +922,18 @@
         "date": "08/17 18:10"
       },
       {
-        "type": "negative",
-        "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
-        "date": "08/17 07:06"
+        "type": "positive",
+        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnBhc0RBRzlIakZLUDlBZXZObUg4X0RsazJvYmxYd0hrM01wVFZoQzZRaFdoYUtNamNPU29BOU5RVnZwMi1EaUxFWEgwWF9UVWVicDQ3SURZX1NocFpGT29YR1RHMko1ZVM4bDJLQmNqbDNaUzBPTjV3Qk01Q2M2VUVla1diS1FLTFhrYzNmVmh5bzY0Q3JYY3FHRGdpa2hIN045LVJhUmwydw?oc=5",
+        "date": "08/18 15:47"
       },
       {
-        "type": "positive",
-        "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUktuQkZSYnV1Q0FNbktNR01oQ1liaEdEbUxHTVlmVWtuQzlDZ184SFF1Slczbmg4UXA3bVRaVEFKOHFPSjRORExlZjk3OHVhZ3gtZzQ4eFRZM3JObmJTOXFxSFVYcllwRHYzdVJWVnZaVldvcHFSNzhKTXlodUstd2FNWUtURGVzdXNGRmpQMmsxSzBBcXU3aU1PMmJhaTh6?oc=5",
-        "date": "08/15 03:20"
+        "type": "negative",
+        "title": "Alphabet Inc. $GOOGL Stock Position Cut by Agate Pass Investment Management LLC",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
+        "date": "08/16 16:16"
       }
     ],
     "QCOM": [
@@ -983,17 +983,17 @@
       },
       {
         "type": "positive",
-        "title": "Vertiv (VRT) Stock Slides After Revenue Miss Despite Earnings Beat And Higher Outlook",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDhVb3J3NEV5VkpMbWlyS2VrOFR2RmpyOFd2UjJFTzBBR29ac3dZbXNURHFvcGU4VEFiY2ZZZG00UUxSbkZFRmZTTGJlYTZucF90clFJYmZidW15Z0k3OHV1NTNNVHBhTlFKd3pQRkRMZE05Z0JfVUNycm52T3ZKS3JTWDlJT1BqNUNmX0V5NVJ6eVE1aDNOXy1UMU9KdTE1Qk1fQ3BRaXhMZmxwWUx1djlnclFfaktJenNaQkZLSEY5UmFuaFhiLS1KQ3RGYV92a25KedIB2gFBVV95cUxNYUZsSGFhMFBCOHFnSG1XaDJ4clU1Z0w4eXVEYVkxTzdRczczcVRpeXdSNk9KcEt0Nm1VZmlnSU84WlBQRmwxLVBQUVFxajZqRXZaYVR4LWxhR3NkU1ZPUlJQa3dMemhHVVFhdW5MdDhyNzR2Y2VFZm5FRXVSMjlCSEJnZ2NpZjZZTHFDWkhfRmt1U0ZYMjJ4a0RnRFJTbi1oeklmSXhRX3hDZU5jQkcxNDhMUHQ4dzdyQnhyYm5TNC1HcEEwOU1IdFoxYXNPenZDY2ZiREFmYkk3dw?oc=5",
-        "date": "07/29 16:00"
-      },
-      {
-        "type": "positive",
         "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
         "date": "08/15 06:26"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv (VRT) Stock Slides After Revenue Miss Despite Earnings Beat And Higher Outlook",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDhVb3J3NEV5VkpMbWlyS2VrOFR2RmpyOFd2UjJFTzBBR29ac3dZbXNURHFvcGU4VEFiY2ZZZG00UUxSbkZFRmZTTGJlYTZucF90clFJYmZidW15Z0k3OHV1NTNNVHBhTlFKd3pQRkRMZE05Z0JfVUNycm52T3ZKS3JTWDlJT1BqNUNmX0V5NVJ6eVE1aDNOXy1UMU9KdTE1Qk1fQ3BRaXhMZmxwWUx1djlnclFfaktJenNaQkZLSEY5UmFuaFhiLS1KQ3RGYV92a25KedIB2gFBVV95cUxNYUZsSGFhMFBCOHFnSG1XaDJ4clU1Z0w4eXVEYVkxTzdRczczcVRpeXdSNk9KcEt0Nm1VZmlnSU84WlBQRmwxLVBQUVFxajZqRXZaYVR4LWxhR3NkU1ZPUlJQa3dMemhHVVFhdW5MdDhyNzR2Y2VFZm5FRXVSMjlCSEJnZ2NpZjZZTHFDWkhfRmt1U0ZYMjJ4a0RnRFJTbi1oeklmSXhRX3hDZU5jQkcxNDhMUHQ4dzdyQnhyYm5TNC1HcEEwOU1IdFoxYXNPenZDY2ZiREFmYkk3dw?oc=5",
+        "date": "07/29 16:00"
       }
     ]
   }
