@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:45:52.680496+00:00",
+  "updatedAt": "2026-08-18T21:13:48.615476+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.41,
-        "change": -0.16
+        "value": 1412.6,
+        "change": -0.15
       },
       {
         "name": "KOSPI",
@@ -89,15 +89,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -157,15 +154,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -225,12 +219,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -362,12 +359,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -429,12 +429,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -659,7 +662,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1412.41
+              1412.6
             ]
           }
         ]
@@ -846,6 +849,7 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
@@ -879,13 +883,6 @@
       },
       {
         "type": "neutral",
-        "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjg5U2VhT1FCa0FQclZRbXh0bG9JWVlZbVN2SHVBQXpkaVhXVmhXd1ZfYW5HdHJaSVpnUHgwVGhFb3EzZkRfQXF4MjNDNDd2ZTJKb3d3enR3RmNVUlVWVXlGUVZfN3JrdHlFd3JyYjd1c2twRHN5NmxBWDBhbTVaMVlDWHBxWkJHVHd3RmVENzkyZ0Z6OXpodEZn?oc=5",
-        "date": "08/19 02:30"
-      },
-      {
-        "type": "neutral",
         "title": "Broadcom Is Set To Rewrite The AI Narrative (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTlTNUVCSFAwMDRmOHY3TC1rU0x4aG9yeTBZQlZzeWlDck00N2VSS2JubHBjV1phTzNJaUhDbGI5Rnp1T1J2elV2Sk9MSTlGa3hRbzI1N3hqaXVka3dHME9tZmxKaXkxbTk5ZkpiWFdNQ3JjV1k5cmFJNlRsRGdWNUdHSkJyRTBlVTZhcg?oc=5",
@@ -897,6 +894,13 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVZbkVyTUVTbmpIUlNkZnJJVVMzM1g4VnlNRFo1WnViQjNrQkZoeFJHenllVlY1VTJXSkM4NkJkRU93X0JsTlFieFRfdVhMeUNwWHJBcHBOd1B3VEl3Vmw2bGszeXd2blBrY09hbExfQmNCWVJqUW9rS2JJejVLSFdaWFVDSThPQnkxYWpqT0EtQmozOE5xN2hzWWQ?oc=5",
         "date": "08/17 20:03"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom Stock: The Catalysts and Risks to Watch for After Its 6% Pullback",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjR3WUtMNGpYeUc1UE1PclIzeFFKLTdxLWFMc2RmRU1GVldGakQzaVkxdWkyd2IwQm45TVhqcFJVeGJLMGtTM0VqZGl0TzN1UUFfSXdZNEVZbWRvMDBQX2pWQmNNREp3ei13QmU4NXozMmo3T3VhbldueDVFNS1pMmg5akhYWkxhdmRvWjNydGl1eG9hNHB4UWYycDJuNWR4YWVuUg?oc=5",
+        "date": "08/18 00:20"
       }
     ],
     "GOOGL": [
@@ -924,7 +928,7 @@
       {
         "type": "negative",
         "title": "Alphabet Inc. $GOOGL Stock Position Cut by Agate Pass Investment Management LLC",
-        "publisher": "MarketBeat",
+        "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
         "date": "08/16 16:16"
       }
