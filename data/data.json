@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-18T15:33:44.326172+00:00",
+  "updatedAt": "2026-08-18T16:19:29.243678+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7697.97,
-        "change": -1.13
+        "value": 7703.21,
+        "change": -0.54
       },
       {
         "name": "NASDAQ",
-        "value": 26308.17,
-        "change": -1.58
+        "value": 26344.64,
+        "change": -1.13
       },
       {
         "name": "다우존스",
-        "value": 53338.85,
-        "change": -0.73
+        "value": 53388.93,
+        "change": -0.13
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.87,
-        "change": 11.37
+        "value": 15.68,
+        "change": 3.23
       },
       {
         "name": "미국10년금리",
-        "value": 4.72,
-        "change": 0.43
+        "value": 4.71,
+        "change": -0.21
       },
       {
         "name": "원달러환율",
-        "value": 1412.04,
-        "change": -0.24
+        "value": 1411.24,
+        "change": -0.29
       },
       {
         "name": "KOSPI",
@@ -106,6 +106,7 @@
           "08/12",
           "08/13",
           "08/14",
+          "08/17",
           "08/18"
         ],
         "series": [
@@ -171,7 +172,8 @@
               7748.5,
               7798.99,
               7785.76,
-              7697.97
+              7745.06,
+              7703.21
             ]
           },
           {
@@ -236,7 +238,8 @@
               26588.49,
               26803.03,
               26729.16,
-              26308.17
+              26644.91,
+              26344.64
             ]
           },
           {
@@ -301,7 +304,8 @@
               53770.27,
               53839.99,
               53732.41,
-              53338.85
+              53459.78,
+              53388.93
             ]
           }
         ]
@@ -369,6 +373,7 @@
           "08/12",
           "08/13",
           "08/14",
+          "08/17",
           "08/18"
         ],
         "series": [
@@ -435,7 +440,8 @@
               14.55,
               14.63,
               14.25,
-              15.87
+              15.19,
+              15.68
             ]
           }
         ]
@@ -459,6 +465,7 @@
           "08/12",
           "08/13",
           "08/14",
+          "08/17",
           "08/18"
         ],
         "series": [
@@ -481,7 +488,8 @@
               4.68,
               4.64,
               4.7,
-              4.72
+              4.72,
+              4.71
             ]
           },
           {
@@ -553,7 +561,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1412.04
+              1411.24
             ]
           }
         ]
@@ -757,10 +765,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 49.7,
-    "GOOGL": 54.6,
-    "QCOM": 46.0,
-    "VRT": 51.1
+    "AVGO": 54.7,
+    "GOOGL": 53.7,
+    "QCOM": 53.0,
+    "VRT": 71.2
   },
   "news": {
     "AVGO": [
@@ -779,18 +787,18 @@
         "date": "08/18 02:21"
       },
       {
+        "type": "positive",
+        "title": "Broadcom Inc. (AVGO) Upgraded to Buy: What Does It Mean for the Stock?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVplYjlJVjREVWtNVC1tdVltaUJEQTdhblBzWUliT1dJRGdoc2M2Ulp3Snkxb1Q0YmpoUk02U1hRdHdtWm9uS1BWZzJMWU92RXVrek1WQVF5MHhIOWdzNng4OTcycXkyUU1HdTVCbl9FR1BUMTFwSThodzV1UktkRFctQmpnMkh1R0VtTXR1VUxHTTA1ZllSUHAxcw?oc=5",
+        "date": "08/18 01:00"
+      },
+      {
         "type": "neutral",
         "title": "What's Going On With Broadcom Stock Monday?",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVZbkVyTUVTbmpIUlNkZnJJVVMzM1g4VnlNRFo1WnViQjNrQkZoeFJHenllVlY1VTJXSkM4NkJkRU93X0JsTlFieFRfdVhMeUNwWHJBcHBOd1B3VEl3Vmw2bGszeXd2blBrY09hbExfQmNCWVJqUW9rS2JJejVLSFdaWFVDSThPQnkxYWpqT0EtQmozOE5xN2hzWWQ?oc=5",
         "date": "08/17 20:03"
-      },
-      {
-        "type": "positive",
-        "title": "Stock Market Today: Dow Jumps 875 Points, Broadcom Plunges; Ciena Slammed Yet Holds Its 50-Day",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVR4OEIzekJWLXE1b1E4ZkxiRVpveXN2TjJTR0RJNXR0ZWU5eWZhLVM2ZElzQ1dfZHl0RmEwZUdTaDNYTGVaSXhyR1BpallrQWdZMXcyZWRwZjBvLUJjR2dnc3lka3RkcUJTN2t3Tl96YmxkVEFDRENXazEwN3RzVkh6UlFDZEV1eWhtODhKd2U4VGFlRkdCZl9ENXRQcWdVTUdCaWIxVUNJVXQ4cTBGWnd3?oc=5",
-        "date": "06/04 16:00"
       }
     ],
     "GOOGL": [
@@ -826,6 +834,13 @@
     "QCOM": [
       {
         "type": "neutral",
+        "title": "Where Will Qualcomm Stock Be in 5 Years?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
+        "date": "08/19 00:31"
+      },
+      {
+        "type": "neutral",
         "title": "The Diverging Paths Priced Into Qualcomm Stock",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
@@ -839,13 +854,6 @@
         "date": "08/18 00:15"
       },
       {
-        "type": "neutral",
-        "title": "Where Will Qualcomm Stock Be in 5 Years?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
-        "date": "08/19 00:05"
-      },
-      {
         "type": "positive",
         "title": "Qualcomm Incorporated $QCOM Shares Sold by Merit Financial Group LLC",
         "publisher": "MarketBeat",
@@ -854,6 +862,13 @@
       }
     ],
     "VRT": [
+      {
+        "type": "negative",
+        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
+        "date": "08/19 00:36"
+      },
       {
         "type": "neutral",
         "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
@@ -864,7 +879,7 @@
       {
         "type": "neutral",
         "title": "Vertiv vs. Teradyne: Which AI Infrastructure Stock Is the Better Buy?",
-        "publisher": "tradingview.com",
+        "publisher": "TradingView",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkl1MFI5ODVWUVhNa2lSczZReFR5RWZlS3YxWkJHX2l1R3M0bGNxcVlRSG9IYVBnanpYTklud2QySlFXS2FscmlhcDNuV2xuRkIyLTJvMzBZa2IzemZOSDkyOEl3VXZHMnkyUkV3ZlYzLTUtTm1UQjBRQ1ZVRXZSLTFpU3cwYTEydlZBM3h3Vm9VSjJDSXVpMWtVU3o0LXdWdGxlZUplWHFvU1UzbWlUWWVSOTRQQTJIMWY3Nm9kVQ?oc=5",
         "date": "08/18 02:41"
       },
@@ -874,13 +889,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUM2OHFfTGRIVnJ3ZVdIc2RkM19jWGlYY2tTT29fV3RNd1dFY1NybW1WNmdNMm95b2tzQnpZd216RmtmVHhUdVhWc0Frbjk2SW5LZHJYemVxLUxHYWJRYXNMX1lEUVhBWXY2Y0VQeUw5SXgtcWp4TWhnYjd6cmptU28tU3pkSGNHVmY4UXd3eE1ScThTXzR0RUhJWGN6VnFUUnc?oc=5",
         "date": "08/18 23:02"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
-        "date": "08/15 06:26"
       }
     ]
   }
