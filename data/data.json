@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-18T19:05:09.346263+00:00",
+  "updatedAt": "2026-08-18T19:46:33.190743+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7696.8,
-        "change": -0.62
+        "value": 7699.43,
+        "change": -0.59
       },
       {
         "name": "NASDAQ",
-        "value": 26290.95,
-        "change": -1.33
+        "value": 26314.14,
+        "change": -1.24
       },
       {
         "name": "다우존스",
-        "value": 53376.56,
-        "change": -0.16
+        "value": 53401.34,
+        "change": -0.11
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.66,
-        "change": 3.09
+        "value": 15.62,
+        "change": 2.83
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1413.03,
-        "change": -0.17
+        "value": 1411.92,
+        "change": -0.24
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7798.99,
               7785.76,
               7745.06,
-              7696.8
+              7699.43
             ]
           },
           {
@@ -228,12 +228,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -245,7 +248,7 @@
               26803.03,
               26729.16,
               26644.91,
-              26290.95
+              26314.14
             ]
           },
           {
@@ -294,12 +297,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -311,7 +317,7 @@
               53839.99,
               53732.41,
               53459.78,
-              53376.56
+              53401.34
             ]
           }
         ]
@@ -453,7 +459,7 @@
               14.63,
               14.25,
               15.19,
-              15.66
+              15.62
             ]
           }
         ]
@@ -461,12 +467,58 @@
       {
         "name": "환율 / 금리",
         "labels": [
+          "05/18",
+          "05/19",
+          "05/20",
+          "05/21",
+          "05/22",
+          "05/26",
+          "05/27",
+          "05/28",
+          "05/29",
+          "06/01",
+          "06/02",
+          "06/03",
+          "06/04",
+          "06/05",
+          "06/08",
+          "06/09",
+          "06/10",
+          "06/11",
+          "06/12",
+          "06/15",
+          "06/16",
+          "06/17",
+          "06/18",
+          "06/22",
+          "06/23",
+          "06/24",
+          "06/25",
+          "06/26",
+          "06/29",
+          "06/30",
+          "07/01",
+          "07/02",
+          "07/06",
+          "07/07",
+          "07/08",
+          "07/09",
+          "07/10",
+          "07/13",
+          "07/14",
+          "07/15",
+          "07/16",
+          "07/17",
+          "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -484,12 +536,58 @@
           {
             "name": "미국10년금리",
             "data": [
+              4.62,
+              4.67,
+              4.57,
+              4.59,
+              4.56,
+              4.49,
+              4.48,
+              4.45,
+              4.45,
+              4.47,
+              4.45,
+              4.49,
+              4.48,
+              4.54,
+              4.55,
+              4.53,
+              4.54,
+              4.46,
+              4.49,
+              4.47,
+              4.43,
+              4.46,
+              4.45,
+              4.51,
+              4.49,
+              4.4,
+              4.39,
+              4.37,
+              4.37,
+              4.42,
+              4.47,
+              4.49,
+              4.48,
+              4.53,
+              4.57,
+              4.54,
+              4.57,
+              4.61,
+              4.59,
+              4.55,
+              4.57,
+              4.54,
+              4.6,
+              4.63,
+              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
+              4.74,
               4.69,
               4.63,
               4.62,
@@ -573,7 +671,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1413.03
+              1411.92
             ]
           }
         ]
@@ -773,7 +871,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65
@@ -784,10 +881,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 53.9,
-    "GOOGL": 53.3,
-    "QCOM": 54.1,
-    "VRT": 71.8
+    "AVGO": 54.1,
+    "GOOGL": 54.1,
+    "QCOM": 54.5,
+    "VRT": 72.1
   },
   "news": {
     "AVGO": [
@@ -800,6 +897,13 @@
       },
       {
         "type": "neutral",
+        "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
+        "publisher": "finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjg5U2VhT1FCa0FQclZRbXh0bG9JWVlZbVN2SHVBQXpkaVhXVmhXd1ZfYW5HdHJaSVpnUHgwVGhFb3EzZkRfQXF4MjNDNDd2ZTJKb3d3enR3RmNVUlVWVXlGUVZfN3JrdHlFd3JyYjd1c2twRHN5NmxBWDBhbTVaMVlDWHBxWkJHVHd3RmVENzkyZ0Z6OXpodEZn?oc=5",
+        "date": "08/19 02:30"
+      },
+      {
+        "type": "neutral",
         "title": "Broadcom Is Set To Rewrite The AI Narrative (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTlTNUVCSFAwMDRmOHY3TC1rU0x4aG9yeTBZQlZzeWlDck00N2VSS2JubHBjV1phTzNJaUhDbGI5Rnp1T1J2elV2Sk9MSTlGa3hRbzI1N3hqaXVka3dHME9tZmxKaXkxbTk5ZkpiWFdNQ3JjV1k5cmFJNlRsRGdWNUdHSkJyRTBlVTZhcg?oc=5",
@@ -808,23 +912,16 @@
       {
         "type": "neutral",
         "title": "What's Going On With Broadcom Stock Monday?",
-        "publisher": "benzinga.com",
+        "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVZbkVyTUVTbmpIUlNkZnJJVVMzM1g4VnlNRFo1WnViQjNrQkZoeFJHenllVlY1VTJXSkM4NkJkRU93X0JsTlFieFRfdVhMeUNwWHJBcHBOd1B3VEl3Vmw2bGszeXd2blBrY09hbExfQmNCWVJqUW9rS2JJejVLSFdaWFVDSThPQnkxYWpqT0EtQmozOE5xN2hzWWQ?oc=5",
         "date": "08/17 20:03"
-      },
-      {
-        "type": "neutral",
-        "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
-        "publisher": "Zacks Investment Research",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3pqTXJXUW9Oa3RCc0liZkM2bERmV3ZyWGdRbmJSVGFRdjZ6UkduNWpEcDVBdnYwRmxCZ2dhelhGQnhmUE9JRFdyXy0tRDdxZFM5Qmh5ZUVXcUNVbnhCY0NpbTNJZ1NfZWhOVHlKM3dXc25yRkh3OUZFQ25ublpfLVhtQ0xBejAzZldhZlE3TXp4bmRzY21SM0w3cFBDMDNERjRLenZFc0o?oc=5",
-        "date": "08/19 02:01"
       }
     ],
     "GOOGL": [
       {
         "type": "negative",
         "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
-        "publisher": "Barchart.com",
+        "publisher": "barchart.com",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVpBaW1UaTNtd1g0djBoNURXR0pyeXIyN3o3ZlpYS2Q0Um54UkZXMXZsQXFiWUh0MFRnbUNzTHNMZHJNOWdiWGZDcXVDMmRQZ2U0ZmU1OEk0MXFaaHZmeTNNT1hRU1Q0cE9sWXlpWXE4aTl6bDhUVk9lTWZNTUlVTEFUQnEteUtFNFlMWE9oTVFETnhIQXh4TWxqMFpJZW1vR0dueUdpZ1h6LThuMndNV0tlc1R4N1JpbUt3Uno2dzd2WVk?oc=5",
         "date": "08/16 02:00"
       },
@@ -838,16 +935,16 @@
       {
         "type": "negative",
         "title": "Top Investors Warn Google Is Now “A Very Different Company” Than It Was 2 Years Ago",
-        "publisher": "24/7 Wall St.",
+        "publisher": "247wallst.com",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU5nZ3A2RlczT2tEQzZSLVotcnNETFR2QnR3TkJJOGZ1bF81VmZEQnotb3VCUkYzYUJVM21Xc3JnV2sxTXdMT1Y4VldaUDhUQ09zZGxPSFJoeUNacENiTW5hUDB4QXlnc25WeHpTVU9iY0wyeGk4WXU3LThLSXZqZm1HcFdEdlFMQXJPMUowUVlXSGwxNS12b1F3OTlNZVBpWklxb1prcnBqNE15aHNIX2xfTWxNbEdsUVBkblBlYlZ4R2M?oc=5",
         "date": "08/18 04:50"
       },
       {
-        "type": "neutral",
-        "title": "Google Plans to Move All Pixel Production Out of China by 2027. What It Means for GOOGL Stock",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU5odnVQSkU1SjRyN3U5R3RIdk9zNk5XYkJwV3NLQzN6VjlSTWtBQjhzVzd4Njl1OUU5U0tfbktJZlluTjg2bnUzSS1wMEVKOGtHc0JDYnNya2xOQzU2cXpXSHp4Smg0VGVIZGRUdG1TM1hnTUJlalJQNi1mWTJXYlI0NUl2SjV0THBEZEdDdm9BZkxNN3FOQmI3ZkFuZW1ybFZ5WEZnOEpjdWJXY1JYckV1SDhqN2hHNVFGMzIzWQ?oc=5",
-        "date": "08/18 14:15"
+        "type": "negative",
+        "title": "Alphabet Inc. $GOOGL Stock Position Cut by Agate Pass Investment Management LLC",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
+        "date": "08/16 16:16"
       }
     ],
     "QCOM": [
