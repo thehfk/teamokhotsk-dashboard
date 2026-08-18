@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:12:23.408231+00:00",
+  "updatedAt": "2026-08-18T20:45:52.680496+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.81,
-        "change": 4.08
+        "value": 15.84,
+        "change": 4.28
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.25,
-        "change": -0.18
+        "value": 1412.41,
+        "change": -0.16
       },
       {
         "name": "KOSPI",
@@ -225,15 +225,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -365,15 +362,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -435,15 +429,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -455,7 +446,7 @@
               14.63,
               14.25,
               15.19,
-              15.81
+              15.84
             ]
           }
         ]
@@ -668,7 +659,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1412.25
+              1412.41
             ]
           }
         ]
@@ -719,15 +710,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -786,15 +774,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -861,7 +846,6 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
@@ -879,7 +863,7 @@
     ]
   },
   "rsi": {
-    "AVGO": 54.4,
+    "AVGO": 54.5,
     "GOOGL": 54.0,
     "QCOM": 54.2,
     "VRT": 72.4
@@ -931,16 +915,16 @@
         "date": "08/18 22:14"
       },
       {
-        "type": "negative",
-        "title": "Top Investors Warn Google Is Now “A Very Different Company” Than It Was 2 Years Ago",
+        "type": "neutral",
+        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
         "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU5nZ3A2RlczT2tEQzZSLVotcnNETFR2QnR3TkJJOGZ1bF81VmZEQnotb3VCUkYzYUJVM21Xc3JnV2sxTXdMT1Y4VldaUDhUQ09zZGxPSFJoeUNacENiTW5hUDB4QXlnc25WeHpTVU9iY0wyeGk4WXU3LThLSXZqZm1HcFdEdlFMQXJPMUowUVlXSGwxNS12b1F3OTlNZVBpWklxb1prcnBqNE15aHNIX2xfTWxNbEdsUVBkblBlYlZ4R2M?oc=5",
-        "date": "08/18 04:50"
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
+        "date": "08/18 21:10"
       },
       {
         "type": "negative",
         "title": "Alphabet Inc. $GOOGL Stock Position Cut by Agate Pass Investment Management LLC",
-        "publisher": "marketbeat.com",
+        "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
         "date": "08/16 16:16"
       }
@@ -955,17 +939,17 @@
       },
       {
         "type": "neutral",
+        "title": "Where Will Qualcomm Stock Be in 5 Years?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGZ6T1VydTdqZEdUNFVyZjMweVdjNFJuS0dudzU5cW9pZUd5Q0tieS1ZZ2dRSGFlaGV6QS1SeEFCQUhRUm0zZjM5VzBNTWpUS3VCaW1yU1dwM3M1TFlUMG1rem4xdC1PeUVDMEYzYWVuX2pHRWZ1WXZZbWlPeEVPY1JRRlBqVlo4TTJUUlBJSDlPeDc4Umk1NA?oc=5",
+        "date": "08/19 00:20"
+      },
+      {
+        "type": "neutral",
         "title": "The Diverging Paths Priced Into Qualcomm Stock",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
         "date": "08/17 05:19"
-      },
-      {
-        "type": "neutral",
-        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
-        "date": "08/18 00:15"
       },
       {
         "type": "neutral",
@@ -992,17 +976,17 @@
       },
       {
         "type": "negative",
-        "title": "Powell, Sterling, Vertiv, Nextpower, and Hubbell Shares Are Falling, What You Need To Know",
-        "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYk96dlVzblU4V1dNWjZwLUVOOVRMQV83ZzZ3SnRyN2NiUG9vb2VpbWlBdHQtR2E0THI5aDkyb1kxMVRCdWdkeUNfYmJyeTRNd1NHVUM2Tlo5ZGYzTktFdGlMdkRRMHhremlIMTNRemlNNXg3YTZudWVzcWFnSWM4ay1XbDhDLTZRRm5wTzZKMzk3bkNjTmJ1RkdPSnNySFYxZVBVMmUydGctUWh5a0VGbXpqY25sbFRVWm1nc3J4eUIyMjhyZjE4RWsyQmRseEFmX3hzQUJCNFkyVXExcmcybFRwSFhsTVFyZzE1bUxUX1llR1BqYUJZMzdoNVoydw?oc=5",
-        "date": "08/19 01:21"
+        "title": "Vertiv Holdings Co Stock (VRT) Closed Down by 6.92% on Aug 18: Facts Behind the Movement",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMkZ5S29mMEU0dzNtM3BpZzFDQWozUG9SWUcxXzhhTXAtLWdXSEhOaFdHd1phSkhDdjhTb3YzNUZGbW5ic21uMXFCcW02bFg4cllfa1kwVFUtWDRLZXFXV2RlZ010YjBOOG5wOG1pcS1jV1U0dTRhRllJMjRyOTJKZVkxd0NrQVR5SHc?oc=5",
+        "date": "08/19 05:15"
       },
       {
         "type": "neutral",
-        "title": "Vertiv Holdings (VRT) Well Positioned for Key Tech Transitions",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUM2OHFfTGRIVnJ3ZVdIc2RkM19jWGlYY2tTT29fV3RNd1dFY1NybW1WNmdNMm95b2tzQnpZd216RmtmVHhUdVhWc0Frbjk2SW5LZHJYemVxLUxHYWJRYXNMX1lEUVhBWXY2Y0VQeUw5SXgtcWp4TWhnYjd6cmptU28tU3pkSGNHVmY4UXd3eE1ScThTXzR0RUhJWGN6VnFUUnc?oc=5",
-        "date": "08/18 23:02"
+        "title": "Vertiv vs. Teradyne: Which AI Infrastructure Stock Is the Better Buy?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkl1MFI5ODVWUVhNa2lSczZReFR5RWZlS3YxWkJHX2l1R3M0bGNxcVlRSG9IYVBnanpYTklud2QySlFXS2FscmlhcDNuV2xuRkIyLTJvMzBZa2IzemZOSDkyOEl3VXZHMnkyUkV3ZlYzLTUtTm1UQjBRQ1ZVRXZSLTFpU3cwYTEydlZBM3h3Vm9VSjJDSXVpMWtVU3o0LXdWdGxlZUplWHFvU1UzbWlUWWVSOTRQQTJIMWY3Nm9kVQ?oc=5",
+        "date": "08/18 02:41"
       }
     ]
   }
