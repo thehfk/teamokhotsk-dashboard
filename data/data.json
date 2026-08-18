@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T11:16:02.323683+00:00",
+  "updatedAt": "2026-08-18T11:47:57.352908+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.77,
-        "change": 10.67
+        "value": 15.72,
+        "change": 10.32
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1409.59,
-        "change": -0.41
+        "value": 1410.29,
+        "change": -0.36
       },
       {
         "name": "KOSPI",
@@ -449,7 +449,7 @@
               14.55,
               14.63,
               14.25,
-              15.77
+              15.72
             ]
           }
         ]
@@ -657,7 +657,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1409.59
+              1410.29
             ]
           }
         ]
@@ -880,21 +880,21 @@
       {
         "type": "neutral",
         "title": "MRVL and AVGO: Who Owns These 2 Semiconductor Stocks Ahead of Earnings?",
-        "publisher": "tipranks.com",
+        "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2NTaVY0dS1KeHIybWFYUXd1R3N0cHJFSi1XempqQWhtMUpEaTdJeWt2Y0Z5OWZ4UWJXMTltVnFwczM5VXZoNmFmR3dJXzRQM0toTlhDdzRsakdJTkl3SXBqcFVCRG95NmVQdnpQSjZrZVlNdEhoS3dRZ0l5R2ZnS1ZiQk9JTkV4cVRrancyZEI1VENtZXdhOTBIRUZONXZG?oc=5",
         "date": "08/17 23:05"
       },
       {
         "type": "negative",
         "title": "AVGO Stock Rebounds After Worst Drop In Two Months: Retail Traders Look Past VMware Worry, Bet On Rebound",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOU5UVE1fd2J6Y19LY1Excm1nb1YwdnUwUEZOWExkUXgwVUVoMVZtMmN5d3FoN2pGaFVtTnV6ejJ5WERqZUpjSTZaSEpZbUxGOGNDTi1DbGFTVmRmSzJlcHJNeVFOeHNyQW8yWThIVl9jNldDd0RJWGV3djE0NXMtNjdWcW1yb2pIWHZ6V1BmMXVZRnpYUjg1X1FSVQ?oc=5",
         "date": "08/17 13:29"
       },
       {
         "type": "positive",
         "title": "Broadcom Inc. (AVGO) Upgraded to Buy: What Does It Mean for the Stock?",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVplYjlJVjREVWtNVC1tdVltaUJEQTdhblBzWUliT1dJRGdoc2M2Ulp3Snkxb1Q0YmpoUk02U1hRdHdtWm9uS1BWZzJMWU92RXVrek1WQVF5MHhIOWdzNng4OTcycXkyUU1HdTVCbl9FR1BUMTFwSThodzV1UktkRFctQmpnMkh1R0VtTXR1VUxHTTA1ZllSUHAxcw?oc=5",
         "date": "08/18 01:00"
       },
@@ -931,7 +931,7 @@
       {
         "type": "neutral",
         "title": "Google Plans to Move All Pixel Production Out of China by 2027. What It Means for GOOGL Stock",
-        "publisher": "tipranks.com",
+        "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU5odnVQSkU1SjRyN3U5R3RIdk9zNk5XYkJwV3NLQzN6VjlSTWtBQjhzVzd4Njl1OUU5U0tfbktJZlluTjg2bnUzSS1wMEVKOGtHc0JDYnNya2xOQzU2cXpXSHp4Smg0VGVIZGRUdG1TM1hnTUJlalJQNi1mWTJXYlI0NUl2SjV0THBEZEdDdm9BZkxNN3FOQmI3ZkFuZW1ybFZ5WEZnOEpjdWJXY1JYckV1SDhqN2hHNVFGMzIzWQ?oc=5",
         "date": "08/18 14:15"
       }
@@ -940,7 +940,7 @@
       {
         "type": "neutral",
         "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
         "date": "08/18 00:15"
       },
