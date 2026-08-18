@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:12:41.965534+00:00",
+  "updatedAt": "2026-08-18T08:00:06.329218+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.25,
-        "change": -2.6
+        "value": 15.9,
+        "change": 11.58
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1411.38,
-        "change": -0.28
+        "value": 1411.08,
+        "change": -0.3
       },
       {
         "name": "KOSPI",
@@ -379,7 +379,8 @@
           "08/11",
           "08/12",
           "08/13",
-          "08/14"
+          "08/14",
+          "08/18"
         ],
         "series": [
           {
@@ -447,7 +448,8 @@
               15.28,
               14.55,
               14.63,
-              14.25
+              14.25,
+              15.9
             ]
           }
         ]
@@ -655,7 +657,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1411.38
+              1411.08
             ]
           }
         ]
@@ -878,7 +880,7 @@
       {
         "type": "neutral",
         "title": "MRVL and AVGO: Who Owns These 2 Semiconductor Stocks Ahead of Earnings?",
-        "publisher": "tipranks.com",
+        "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2NTaVY0dS1KeHIybWFYUXd1R3N0cHJFSi1XempqQWhtMUpEaTdJeWt2Y0Z5OWZ4UWJXMTltVnFwczM5VXZoNmFmR3dJXzRQM0toTlhDdzRsakdJTkl3SXBqcFVCRG95NmVQdnpQSjZrZVlNdEhoS3dRZ0l5R2ZnS1ZiQk9JTkV4cVRrancyZEI1VENtZXdhOTBIRUZONXZG?oc=5",
         "date": "08/17 23:05"
       },
@@ -915,16 +917,9 @@
       {
         "type": "positive",
         "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
-        "publisher": "tipranks.com",
+        "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
         "date": "08/17 18:10"
-      },
-      {
-        "type": "positive",
-        "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUktuQkZSYnV1Q0FNbktNR01oQ1liaEdEbUxHTVlmVWtuQzlDZ184SFF1Slczbmg4UXA3bVRaVEFKOHFPSjRORExlZjk3OHVhZ3gtZzQ4eFRZM3JObmJTOXFxSFVYcllwRHYzdVJWVnZaVldvcHFSNzhKTXlodUstd2FNWUtURGVzdXNGRmpQMmsxSzBBcXU3aU1PMmJhaTh6?oc=5",
-        "date": "08/15 03:20"
       },
       {
         "type": "negative",
@@ -932,6 +927,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
         "date": "08/17 07:06"
+      },
+      {
+        "type": "positive",
+        "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUktuQkZSYnV1Q0FNbktNR01oQ1liaEdEbUxHTVlmVWtuQzlDZ184SFF1Slczbmg4UXA3bVRaVEFKOHFPSjRORExlZjk3OHVhZ3gtZzQ4eFRZM3JObmJTOXFxSFVYcllwRHYzdVJWVnZaVldvcHFSNzhKTXlodUstd2FNWUtURGVzdXNGRmpQMmsxSzBBcXU3aU1PMmJhaTh6?oc=5",
+        "date": "08/15 03:20"
       }
     ],
     "QCOM": [
@@ -951,17 +953,17 @@
       },
       {
         "type": "neutral",
+        "title": "Qualcomm Incorporated $QCOM Shares Sold by Cary Street Partners Financial LLC",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeHVrYUZWelhqbFpKRVUwQ1ZzbWNtYUxIWElYX0NMLVV3UEF2amtOcXpqSlFyUW5LM0ZVYUJ5T0lGU0I3NndPTm1wUElkaTFPWHBYZjFuUnFOTGVrT2hfYkNkclk0bFMwWGFlQkxzZEgybm1SRGZaMS1hOUZ5NnE5eTRZbjRDNXF3dV9FeWkxTTg0anFnRnNIRGljWXMtVUpTTHBIN0dLSXJlT3drdDhzSlB2VTBET2ktOFNNUHVHd1Y0UTB6YW80QUQ1UW1EbFh5WTFr?oc=5",
+        "date": "08/18 16:54"
+      },
+      {
+        "type": "neutral",
         "title": "Qualcomm (QCOM) Stock Looks Fairly Valued On Its 61% Three Year Run",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWVTR1hSTEVVdFVNekxfc2JHbHFIbUJVengydGwtaXNuRmM4eTJGQnc5MGQxSEJPWUlscVBVNjQ5T3hlazM0VEM1ek43ZmpZMHZwYllCWUpxOGdMRERfUWFQQkw0TE8wS3llb0RQWkxmeXI5czl4dEIwWXVHaFp4THc0R1dteUpJdVVCMU5KRUV2OGdSa2MyNEFVQmtONlRFa3d2MEVHYzNua3FFX3NUTkk1OVotUGFBdzlrN0pHLU82Zy1pMkhYZTR0cTV2UdIB0wFBVV95cUxNZHhzcjE0OW9sVExtOHU5SmJPaFQ3TlBYaU0yOTVmcWt4Q0ctbXM3di15R3c4V3B6VnkydFU4TzVBaTNTTWRUVHZoNlNmWW56Nk44NVJvaXRtZEdBWDlzRi1FZ2J0MXM1azlWcXZ3ZWNhZ0t4SGRvaS16UlhkeHZHSEdqSURUYTc3M2lIMzhLc1JlSXZsbkZiZnVrREV1S3VacXJod1RjUUItbEJYd29abWc1ZEFoLVBIdGVpR2xJdGdzR2tybTd3ZG5pMXAwcVZWaDZr?oc=5",
         "date": "08/15 16:35"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "08/15 12:17"
       }
     ],
     "VRT": [
