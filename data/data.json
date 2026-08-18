@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T10:17:49.067993+00:00",
+  "updatedAt": "2026-08-18T10:53:18.143429+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.94,
-        "change": 11.86
+        "value": 15.85,
+        "change": 11.23
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1409.32,
-        "change": -0.43
+        "value": 1409.9,
+        "change": -0.39
       },
       {
         "name": "KOSPI",
@@ -449,7 +449,7 @@
               14.55,
               14.63,
               14.25,
-              15.94
+              15.85
             ]
           }
         ]
@@ -657,7 +657,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1409.32
+              1409.9
             ]
           }
         ]
@@ -880,7 +880,7 @@
       {
         "type": "neutral",
         "title": "MRVL and AVGO: Who Owns These 2 Semiconductor Stocks Ahead of Earnings?",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2NTaVY0dS1KeHIybWFYUXd1R3N0cHJFSi1XempqQWhtMUpEaTdJeWt2Y0Z5OWZ4UWJXMTltVnFwczM5VXZoNmFmR3dJXzRQM0toTlhDdzRsakdJTkl3SXBqcFVCRG95NmVQdnpQSjZrZVlNdEhoS3dRZ0l5R2ZnS1ZiQk9JTkV4cVRrancyZEI1VENtZXdhOTBIRUZONXZG?oc=5",
         "date": "08/17 23:05"
       },
@@ -917,7 +917,7 @@
       {
         "type": "positive",
         "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
         "date": "08/17 18:10"
       },
@@ -982,18 +982,18 @@
         "date": "08/18 02:41"
       },
       {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
-        "date": "08/15 06:26"
-      },
-      {
         "type": "negative",
         "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
         "date": "07/29 16:00"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
+        "date": "08/15 06:26"
       }
     ]
   }
