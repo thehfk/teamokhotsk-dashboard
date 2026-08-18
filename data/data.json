@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:13:48.615476+00:00",
+  "updatedAt": "2026-08-18T21:44:33.693985+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.6,
-        "change": -0.15
+        "value": 1412.27,
+        "change": -0.17
       },
       {
         "name": "KOSPI",
@@ -89,12 +89,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -154,12 +157,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -662,7 +668,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1412.6
+              1412.27
             ]
           }
         ]
@@ -713,12 +719,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -777,12 +786,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -856,7 +868,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65
@@ -921,14 +932,14 @@
       {
         "type": "neutral",
         "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
-        "publisher": "24/7 Wall St.",
+        "publisher": "247wallst.com",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
         "date": "08/18 21:10"
       },
       {
         "type": "negative",
         "title": "Alphabet Inc. $GOOGL Stock Position Cut by Agate Pass Investment Management LLC",
-        "publisher": "marketbeat.com",
+        "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
         "date": "08/16 16:16"
       }
@@ -943,17 +954,17 @@
       },
       {
         "type": "neutral",
-        "title": "Where Will Qualcomm Stock Be in 5 Years?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGZ6T1VydTdqZEdUNFVyZjMweVdjNFJuS0dudzU5cW9pZUd5Q0tieS1ZZ2dRSGFlaGV6QS1SeEFCQUhRUm0zZjM5VzBNTWpUS3VCaW1yU1dwM3M1TFlUMG1rem4xdC1PeUVDMEYzYWVuX2pHRWZ1WXZZbWlPeEVPY1JRRlBqVlo4TTJUUlBJSDlPeDc4Umk1NA?oc=5",
-        "date": "08/19 00:20"
-      },
-      {
-        "type": "neutral",
         "title": "The Diverging Paths Priced Into Qualcomm Stock",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
         "date": "08/17 05:19"
+      },
+      {
+        "type": "neutral",
+        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
+        "date": "08/18 00:15"
       },
       {
         "type": "neutral",
@@ -980,17 +991,17 @@
       },
       {
         "type": "negative",
+        "title": "Vertiv Holdings Co (VRT) Stock Down 6.8% but Still Overvalued -- GF Score: 86/100",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVJjdm9uSkxydi1HWUpraVdNM0NHWkU5VHN4ZXc5M1ZJT29kZFRkYmxMLTNYblM1YjFwdmRfZS1tRzlVS183VlQ2YWlmUHI4ZnNrVFl5MjNpQXl2S1RrNklLMnIxbWE3TnBDU2tWZmpYNThxay03QzZVcnRZdHBaRUlvWUNfejA2Q1ZpSGRjQlhTbHZiNUphM3Z1S2VIYjRQZ3FKS0xuVzhnN1R3SWoweQ?oc=5",
+        "date": "08/19 06:32"
+      },
+      {
+        "type": "negative",
         "title": "Vertiv Holdings Co Stock (VRT) Closed Down by 6.92% on Aug 18: Facts Behind the Movement",
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMkZ5S29mMEU0dzNtM3BpZzFDQWozUG9SWUcxXzhhTXAtLWdXSEhOaFdHd1phSkhDdjhTb3YzNUZGbW5ic21uMXFCcW02bFg4cllfa1kwVFUtWDRLZXFXV2RlZ010YjBOOG5wOG1pcS1jV1U0dTRhRllJMjRyOTJKZVkxd0NrQVR5SHc?oc=5",
         "date": "08/19 05:15"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv vs. Teradyne: Which AI Infrastructure Stock Is the Better Buy?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkl1MFI5ODVWUVhNa2lSczZReFR5RWZlS3YxWkJHX2l1R3M0bGNxcVlRSG9IYVBnanpYTklud2QySlFXS2FscmlhcDNuV2xuRkIyLTJvMzBZa2IzemZOSDkyOEl3VXZHMnkyUkV3ZlYzLTUtTm1UQjBRQ1ZVRXZSLTFpU3cwYTEydlZBM3h3Vm9VSjJDSXVpMWtVU3o0LXdWdGxlZUplWHFvU1UzbWlUWWVSOTRQQTJIMWY3Nm9kVQ?oc=5",
-        "date": "08/18 02:41"
       }
     ]
   }
