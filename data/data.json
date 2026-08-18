@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T00:39:06.022210+00:00",
+  "updatedAt": "2026-08-18T02:09:52.924947+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1411.9,
-        "change": -0.25
+        "value": 1410.74,
+        "change": -0.33
       },
       {
         "name": "KOSPI",
-        "value": 7146.36,
-        "change": 2.41
+        "value": 7070.94,
+        "change": 1.33
       },
       {
         "name": "KOSDAQ",
-        "value": 860.86,
-        "change": -0.44
+        "value": 859.87,
+        "change": -0.55
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1411.9
+              1410.74
             ]
           }
         ]
@@ -801,7 +801,7 @@
               6579.04,
               6813.34,
               6977.94,
-              7146.36
+              7070.94
             ]
           },
           {
@@ -869,7 +869,7 @@
               858.91,
               861.37,
               864.65,
-              860.86
+              859.87
             ]
           }
         ]
@@ -885,18 +885,18 @@
   "news": {
     "AVGO": [
       {
-        "type": "positive",
-        "title": "Broadcom Inc. (AVGO) Upgraded to Buy: What Does It Mean for the Stock?",
+        "type": "negative",
+        "title": "AVGO Stock Rebounds After Worst Drop In Two Months: Retail Traders Look Past VMware Worry, Bet On Rebound",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVplYjlJVjREVWtNVC1tdVltaUJEQTdhblBzWUliT1dJRGdoc2M2Ulp3Snkxb1Q0YmpoUk02U1hRdHdtWm9uS1BWZzJMWU92RXVrek1WQVF5MHhIOWdzNng4OTcycXkyUU1HdTVCbl9FR1BUMTFwSThodzV1UktkRFctQmpnMkh1R0VtTXR1VUxHTTA1ZllSUHAxcw?oc=5",
-        "date": "08/18 01:00"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOU5UVE1fd2J6Y19LY1Excm1nb1YwdnUwUEZOWExkUXgwVUVoMVZtMmN5d3FoN2pGaFVtTnV6ejJ5WERqZUpjSTZaSEpZbUxGOGNDTi1DbGFTVmRmSzJlcHJNeVFOeHNyQW8yWThIVl9jNldDd0RJWGV3djE0NXMtNjdWcW1yb2pIWHZ6V1BmMXVZRnpYUjg1X1FSVQ?oc=5",
+        "date": "08/17 13:29"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom: VMware-Driven Sell-Off Is A Buying Opportunity (NASDAQ:AVGO)",
-        "publisher": "seekingalpha.com",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDBXVENZeW1DWEZIYkJfVnY2cmx4LV9nM0FSU0VZWkE5WGh0TXhTd2dGS0RGZy1lYURXeDM4d0RqTnJQYVFlLXBQODhxQ1VPNkNKa0N1MVZfNFVNWEFrQkZrRDI5YUNTUVIxWFI4WWUzb1g4Uk9xMU9jWG5EdVkxcDlucWd3OXJJX2VSZE93VFRrcDdRYVE?oc=5",
-        "date": "08/16 20:00"
+        "type": "positive",
+        "title": "Broadcom Looks Undervalued With 50% Upside (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajd1azdBem5ncFB6V3V3MnI0NklqWktSdWlnc1dCMElaSnFmTTh3U1RmX3VxZFpUVzNvc05OdVVqbWlrOUFBelJOakptOHRVNGVxb2tJcmpBZ09jTDdDa3hNR2lzUUN4cjdmUFhjMURyaVlQajgxTTVnLXJqalh6ckxDSEZmRXM1T3Nib0FCS0o2X3Zl?oc=5",
+        "date": "08/18 07:57"
       },
       {
         "type": "negative",
@@ -917,7 +917,7 @@
       {
         "type": "positive",
         "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-        "publisher": "barchart.com",
+        "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEhJczh2aVFwMmhQYlZoTkVCWi1JRGNudU1GQ3lBVkxreXF6RVhRcWJ5YmV6OEhCSlhncnc5Zjl0UmcwSkoycmZuRGt5ZWdULVlzQUpNMkN1TVY0aE1xSWFWSUs5dGRZQkxwZjJrOHE3UDNna3pKWGpvMzUxQlk3OHF5TldmYWtiWk43ZEgwVnB6YndpT19WOVRxUmdaMTl6RVdIMmNqa1Q2SVpaUUpLWA?oc=5",
         "date": "08/15 03:20"
       },
@@ -966,11 +966,11 @@
         "date": "08/15 16:35"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm (NASDAQ:QCOM) Trading Down 2.2% - Here's Why",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDQ0TW5XWnRlUXhwUE8zWWRsQ1pQZjVCSGUtUUhhdUJuQUdBeUZwOEpYOTJybExZU2wxRlF6MUdYR2ZIb0J5c3N5bE1xcDFjN1NwYjBzdXM2bkhNLWZSeFY1VGJRZnlUUnMwSE1YeldhT2V2T1JHdG5qRjBXc1B6ZTJ5QzNSeU9wWV9GWF8yWkVKWnotZEpWMkEzX25qS3Fr?oc=5",
-        "date": "08/18 06:31"
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/15 12:17"
       }
     ],
     "VRT": [
