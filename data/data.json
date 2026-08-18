@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-18T18:22:16.515166+00:00",
+  "updatedAt": "2026-08-18T19:05:09.346263+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7704.78,
-        "change": -0.52
+        "value": 7696.8,
+        "change": -0.62
       },
       {
         "name": "NASDAQ",
-        "value": 26333.95,
-        "change": -1.17
+        "value": 26290.95,
+        "change": -1.33
       },
       {
         "name": "다우존스",
-        "value": 53398.03,
-        "change": -0.12
+        "value": 53376.56,
+        "change": -0.16
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.76,
-        "change": 3.75
+        "value": 15.66,
+        "change": 3.09
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.35,
-        "change": -0.21
+        "value": 1413.03,
+        "change": -0.17
       },
       {
         "name": "KOSPI",
@@ -90,12 +90,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -156,12 +159,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -173,7 +179,7 @@
               7798.99,
               7785.76,
               7745.06,
-              7704.78
+              7696.8
             ]
           },
           {
@@ -239,7 +245,7 @@
               26803.03,
               26729.16,
               26644.91,
-              26333.95
+              26290.95
             ]
           },
           {
@@ -305,7 +311,7 @@
               53839.99,
               53732.41,
               53459.78,
-              53398.03
+              53376.56
             ]
           }
         ]
@@ -357,12 +363,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -424,12 +433,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -441,7 +453,7 @@
               14.63,
               14.25,
               15.19,
-              15.76
+              15.66
             ]
           }
         ]
@@ -561,7 +573,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1412.35
+              1413.03
             ]
           }
         ]
@@ -754,6 +766,7 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
@@ -771,26 +784,19 @@
     ]
   },
   "rsi": {
-    "AVGO": 54.9,
-    "GOOGL": 53.8,
-    "QCOM": 54.0,
-    "VRT": 71.7
+    "AVGO": 53.9,
+    "GOOGL": 53.3,
+    "QCOM": 54.1,
+    "VRT": 71.8
   },
   "news": {
     "AVGO": [
       {
         "type": "negative",
         "title": "AVGO Stock Rebounds After Worst Drop In Two Months: Retail Traders Look Past VMware Worry, Bet On Rebound",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOU5UVE1fd2J6Y19LY1Excm1nb1YwdnUwUEZOWExkUXgwVUVoMVZtMmN5d3FoN2pGaFVtTnV6ejJ5WERqZUpjSTZaSEpZbUxGOGNDTi1DbGFTVmRmSzJlcHJNeVFOeHNyQW8yWThIVl9jNldDd0RJWGV3djE0NXMtNjdWcW1yb2pIWHZ6V1BmMXVZRnpYUjg1X1FSVQ?oc=5",
         "date": "08/17 13:29"
-      },
-      {
-        "type": "negative",
-        "title": "Is Broadcom (AVGO) Undervalued As A 6% Drop Reopens The Valuation Debate?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWFydldRdmVXcEFlX0VKdUg4bXlwaEs0Vllwb1pSWGQyQ00yZEtGbThhYlU5VWNfMlR4cUpfN2daYmpHUWxTNVhLRHoyOXlqQV9OZ1BjZ0psNlpXUU5MQlpISmk0cmtMNy13ZENyazB3Zm5sSXhGR1JNUTdyUVg0b05saUhuc2c1YmRZODl1UXlDcDlEaFFpcmRaa29Edw?oc=5",
-        "date": "08/19 00:12"
       },
       {
         "type": "neutral",
@@ -802,9 +808,16 @@
       {
         "type": "neutral",
         "title": "What's Going On With Broadcom Stock Monday?",
-        "publisher": "Benzinga",
+        "publisher": "benzinga.com",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVZbkVyTUVTbmpIUlNkZnJJVVMzM1g4VnlNRFo1WnViQjNrQkZoeFJHenllVlY1VTJXSkM4NkJkRU93X0JsTlFieFRfdVhMeUNwWHJBcHBOd1B3VEl3Vmw2bGszeXd2blBrY09hbExfQmNCWVJqUW9rS2JJejVLSFdaWFVDSThPQnkxYWpqT0EtQmozOE5xN2hzWWQ?oc=5",
         "date": "08/17 20:03"
+      },
+      {
+        "type": "neutral",
+        "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
+        "publisher": "Zacks Investment Research",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3pqTXJXUW9Oa3RCc0liZkM2bERmV3ZyWGdRbmJSVGFRdjZ6UkduNWpEcDVBdnYwRmxCZ2dhelhGQnhmUE9JRFdyXy0tRDdxZFM5Qmh5ZUVXcUNVbnhCY0NpbTNJZ1NfZWhOVHlKM3dXc25yRkh3OUZFQ25ublpfLVhtQ0xBejAzZldhZlE3TXp4bmRzY21SM0w3cFBDMDNERjRLenZFc0o?oc=5",
+        "date": "08/19 02:01"
       }
     ],
     "GOOGL": [
@@ -818,7 +831,7 @@
       {
         "type": "neutral",
         "title": "Wall Street clearly loves Google stock, 13F filings reveal",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHN2MGZqTW1VUURKeDQ5UUJ1cXVUNmpNQWhSTkVGaGE4ejdjRDBtemRsMlhyYUtiUkJvWG1WS28tQzNzVnJyV25halNWX3NKeE1INnVrWERwYmF4SExLTENBY2RHcTJObXgxSmVXRV9mVy1zNTIybzloYTJ4cXlhYlFCTWpuczZjUEZCelR4NW5paHhoSnJ3UXlyYTN3ZjdRc1RYU2hRUXYwb2lndjliOVhUUkVaZkRqMXE3Q3F3?oc=5",
         "date": "08/18 22:14"
       },
@@ -854,17 +867,17 @@
       },
       {
         "type": "neutral",
-        "title": "Where Will Qualcomm Stock Be in 5 Years?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
-        "date": "08/19 00:31"
+        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
+        "publisher": "finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
+        "date": "08/18 00:15"
       },
       {
         "type": "neutral",
-        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
-        "date": "08/18 00:15"
+        "title": "Where Will Qualcomm Stock Be in 5 Years?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
+        "date": "08/19 01:00"
       }
     ],
     "VRT": [
@@ -878,7 +891,7 @@
       {
         "type": "neutral",
         "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
         "date": "08/17 21:09"
       },
@@ -892,7 +905,7 @@
       {
         "type": "neutral",
         "title": "Vertiv Holdings (VRT) Well Positioned for Key Tech Transitions",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUM2OHFfTGRIVnJ3ZVdIc2RkM19jWGlYY2tTT29fV3RNd1dFY1NybW1WNmdNMm95b2tzQnpZd216RmtmVHhUdVhWc0Frbjk2SW5LZHJYemVxLUxHYWJRYXNMX1lEUVhBWXY2Y0VQeUw5SXgtcWp4TWhnYjd6cmptU28tU3pkSGNHVmY4UXd3eE1ScThTXzR0RUhJWGN6VnFUUnc?oc=5",
         "date": "08/18 23:02"
       }
