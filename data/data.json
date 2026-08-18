@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T10:53:18.143429+00:00",
+  "updatedAt": "2026-08-18T11:16:02.323683+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.85,
-        "change": 11.23
+        "value": 15.77,
+        "change": 10.67
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1409.9,
-        "change": -0.39
+        "value": 1409.59,
+        "change": -0.41
       },
       {
         "name": "KOSPI",
@@ -449,7 +449,7 @@
               14.55,
               14.63,
               14.25,
-              15.85
+              15.77
             ]
           }
         ]
@@ -657,7 +657,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1409.9
+              1409.59
             ]
           }
         ]
@@ -916,13 +916,6 @@
       },
       {
         "type": "positive",
-        "title": "‘Historic Moment’ as Alphabet Eyes First Australian Dollar Bond Sale; GOOGL Stock Rises",
-        "publisher": "tipranks.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdNQUlQaFVuU1J1T2g2aC02Rm9QNF84TXZTd2szQlFKVWNhekVNcDNMQ184SWNCSzFXTl8xYklBcVpVU3o5b0dDVy1xeVQ4djBpV2ZacGdIU2QwZlRiNm1KSUdfdWo0R1ZReVF4STgtNXAtNlZTSkRKdFhlNzB6M2hQaHV4WFhyZGd4X0UwTDNOT3EwTmdGbG9KaHdvcm9nQjNYZlZuQzcxMV8zZFRNT1lhSFA?oc=5",
-        "date": "08/17 18:10"
-      },
-      {
-        "type": "positive",
         "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnBhc0RBRzlIakZLUDlBZXZObUg4X0RsazJvYmxYd0hrM01wVFZoQzZRaFdoYUtNamNPU29BOU5RVnZwMi1EaUxFWEgwWF9UVWVicDQ3SURZX1NocFpGT29YR1RHMko1ZVM4bDJLQmNqbDNaUzBPTjV3Qk01Q2M2VUVla1diS1FLTFhrYzNmVmh5bzY0Q3JYY3FHRGdpa2hIN045LVJhUmwydw?oc=5",
@@ -934,6 +927,13 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
         "date": "08/16 16:16"
+      },
+      {
+        "type": "neutral",
+        "title": "Google Plans to Move All Pixel Production Out of China by 2027. What It Means for GOOGL Stock",
+        "publisher": "tipranks.com",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU5odnVQSkU1SjRyN3U5R3RIdk9zNk5XYkJwV3NLQzN6VjlSTWtBQjhzVzd4Njl1OUU5U0tfbktJZlluTjg2bnUzSS1wMEVKOGtHc0JDYnNya2xOQzU2cXpXSHp4Smg0VGVIZGRUdG1TM1hnTUJlalJQNi1mWTJXYlI0NUl2SjV0THBEZEdDdm9BZkxNN3FOQmI3ZkFuZW1ybFZ5WEZnOEpjdWJXY1JYckV1SDhqN2hHNVFGMzIzWQ?oc=5",
+        "date": "08/18 14:15"
       }
     ],
     "QCOM": [
@@ -982,18 +982,18 @@
         "date": "08/18 02:41"
       },
       {
+        "type": "positive",
+        "title": "Vertiv (VRT) Stock Slides After Revenue Miss Despite Earnings Beat And Higher Outlook",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDhVb3J3NEV5VkpMbWlyS2VrOFR2RmpyOFd2UjJFTzBBR29ac3dZbXNURHFvcGU4VEFiY2ZZZG00UUxSbkZFRmZTTGJlYTZucF90clFJYmZidW15Z0k3OHV1NTNNVHBhTlFKd3pQRkRMZE05Z0JfVUNycm52T3ZKS3JTWDlJT1BqNUNmX0V5NVJ6eVE1aDNOXy1UMU9KdTE1Qk1fQ3BRaXhMZmxwWUx1djlnclFfaktJenNaQkZLSEY5UmFuaFhiLS1KQ3RGYV92a25KedIB2gFBVV95cUxNYUZsSGFhMFBCOHFnSG1XaDJ4clU1Z0w4eXVEYVkxTzdRczczcVRpeXdSNk9KcEt0Nm1VZmlnSU84WlBQRmwxLVBQUVFxajZqRXZaYVR4LWxhR3NkU1ZPUlJQa3dMemhHVVFhdW5MdDhyNzR2Y2VFZm5FRXVSMjlCSEJnZ2NpZjZZTHFDWkhfRmt1U0ZYMjJ4a0RnRFJTbi1oeklmSXhRX3hDZU5jQkcxNDhMUHQ4dzdyQnhyYm5TNC1HcEEwOU1IdFoxYXNPenZDY2ZiREFmYkk3dw?oc=5",
+        "date": "07/29 16:00"
+      },
+      {
         "type": "negative",
         "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
         "date": "07/29 16:00"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Shares Up 2.6% - Should You Buy?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDNXT1h0Ml9QcXNuZU05Q2tyLVNqM2RNamtyTk53SnlyVjZyY1Zia1RnaVNMbDRxbm4xQ0FPdE1WbHdVMUVwT1ZObWsxZ2dNRWxNUExvb3J6SVowYktDYllvemVfV1VtQjQzTUdKUjJFeTF1dzJFLVpkWmRKVGo4SlQtdzNIYjBZV2o2aU90ZVZnVXBNbHUwYnNTUGI?oc=5",
-        "date": "08/15 06:26"
       }
     ]
   }
