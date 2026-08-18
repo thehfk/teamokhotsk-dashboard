@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-18T17:50:38.197169+00:00",
+  "updatedAt": "2026-08-18T18:22:16.515166+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7700.29,
-        "change": -0.58
+        "value": 7704.78,
+        "change": -0.52
       },
       {
         "name": "NASDAQ",
-        "value": 26324.95,
-        "change": -1.2
+        "value": 26333.95,
+        "change": -1.17
       },
       {
         "name": "다우존스",
-        "value": 53365.1,
-        "change": -0.18
+        "value": 53398.03,
+        "change": -0.12
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.71,
-        "change": 3.42
+        "value": 15.76,
+        "change": 3.75
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.23,
-        "change": -0.22
+        "value": 1412.35,
+        "change": -0.21
       },
       {
         "name": "KOSPI",
@@ -90,15 +90,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -159,15 +156,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -179,7 +173,7 @@
               7798.99,
               7785.76,
               7745.06,
-              7700.29
+              7704.78
             ]
           },
           {
@@ -228,15 +222,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -248,7 +239,7 @@
               26803.03,
               26729.16,
               26644.91,
-              26324.95
+              26333.95
             ]
           },
           {
@@ -297,15 +288,12 @@
               52552.97,
               52146.42,
               51839.26,
-              52224.64,
-              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
-              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -317,7 +305,7 @@
               53839.99,
               53732.41,
               53459.78,
-              53365.1
+              53398.03
             ]
           }
         ]
@@ -369,15 +357,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -439,15 +424,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -459,7 +441,7 @@
               14.63,
               14.25,
               15.19,
-              15.71
+              15.76
             ]
           }
         ]
@@ -467,58 +449,12 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "05/18",
-          "05/19",
-          "05/20",
-          "05/21",
-          "05/22",
-          "05/26",
-          "05/27",
-          "05/28",
-          "05/29",
-          "06/01",
-          "06/02",
-          "06/03",
-          "06/04",
-          "06/05",
-          "06/08",
-          "06/09",
-          "06/10",
-          "06/11",
-          "06/12",
-          "06/15",
-          "06/16",
-          "06/17",
-          "06/18",
-          "06/22",
-          "06/23",
-          "06/24",
-          "06/25",
-          "06/26",
-          "06/29",
-          "06/30",
-          "07/01",
-          "07/02",
-          "07/06",
-          "07/07",
-          "07/08",
-          "07/09",
-          "07/10",
-          "07/13",
-          "07/14",
-          "07/15",
-          "07/16",
-          "07/17",
-          "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -536,58 +472,12 @@
           {
             "name": "미국10년금리",
             "data": [
-              4.62,
-              4.67,
-              4.57,
-              4.59,
-              4.56,
-              4.49,
-              4.48,
-              4.45,
-              4.45,
-              4.47,
-              4.45,
-              4.49,
-              4.48,
-              4.54,
-              4.55,
-              4.53,
-              4.54,
-              4.46,
-              4.49,
-              4.47,
-              4.43,
-              4.46,
-              4.45,
-              4.51,
-              4.49,
-              4.4,
-              4.39,
-              4.37,
-              4.37,
-              4.42,
-              4.47,
-              4.49,
-              4.48,
-              4.53,
-              4.57,
-              4.54,
-              4.57,
-              4.61,
-              4.59,
-              4.55,
-              4.57,
-              4.54,
-              4.6,
-              4.63,
-              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
-              4.74,
               4.69,
               4.63,
               4.62,
@@ -671,7 +561,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1412.23
+              1412.35
             ]
           }
         ]
@@ -864,13 +754,13 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -882,9 +772,9 @@
   },
   "rsi": {
     "AVGO": 54.9,
-    "GOOGL": 53.6,
-    "QCOM": 53.2,
-    "VRT": 72.0
+    "GOOGL": 53.8,
+    "QCOM": 54.0,
+    "VRT": 71.7
   },
   "news": {
     "AVGO": [
@@ -926,11 +816,11 @@
         "date": "08/16 02:00"
       },
       {
-        "type": "positive",
-        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others",
+        "type": "neutral",
+        "title": "Wall Street clearly loves Google stock, 13F filings reveal",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnBhc0RBRzlIakZLUDlBZXZObUg4X0RsazJvYmxYd0hrM01wVFZoQzZRaFdoYUtNamNPU29BOU5RVnZwMi1EaUxFWEgwWF9UVWVicDQ3SURZX1NocFpGT29YR1RHMko1ZVM4bDJLQmNqbDNaUzBPTjV3Qk01Q2M2VUVla1diS1FLTFhrYzNmVmh5bzY0Q3JYY3FHRGdpa2hIN045LVJhUmwydw?oc=5",
-        "date": "08/18 15:47"
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHN2MGZqTW1VUURKeDQ5UUJ1cXVUNmpNQWhSTkVGaGE4ejdjRDBtemRsMlhyYUtiUkJvWG1WS28tQzNzVnJyV25halNWX3NKeE1INnVrWERwYmF4SExLTENBY2RHcTJObXgxSmVXRV9mVy1zNTIybzloYTJ4cXlhYlFCTWpuczZjUEZCelR4NW5paHhoSnJ3UXlyYTN3ZjdRc1RYU2hRUXYwb2lndjliOVhUUkVaZkRqMXE3Q3F3?oc=5",
+        "date": "08/18 22:14"
       },
       {
         "type": "negative",
@@ -942,12 +832,19 @@
       {
         "type": "neutral",
         "title": "Google Plans to Move All Pixel Production Out of China by 2027. What It Means for GOOGL Stock",
-        "publisher": "tipranks.com",
+        "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU5odnVQSkU1SjRyN3U5R3RIdk9zNk5XYkJwV3NLQzN6VjlSTWtBQjhzVzd4Njl1OUU5U0tfbktJZlluTjg2bnUzSS1wMEVKOGtHc0JDYnNya2xOQzU2cXpXSHp4Smg0VGVIZGRUdG1TM1hnTUJlalJQNi1mWTJXYlI0NUl2SjV0THBEZEdDdm9BZkxNN3FOQmI3ZkFuZW1ybFZ5WEZnOEpjdWJXY1JYckV1SDhqN2hHNVFGMzIzWQ?oc=5",
         "date": "08/18 14:15"
       }
     ],
     "QCOM": [
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/18 23:39"
+      },
       {
         "type": "neutral",
         "title": "The Diverging Paths Priced Into Qualcomm Stock",
@@ -968,13 +865,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
         "date": "08/18 00:15"
-      },
-      {
-        "type": "neutral",
-        "title": "Where Will Qualcomm Stock Be in 5 Years?",
-        "publisher": "aol.com",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HQzFjRUo4azVYOWNKZk43T2ZSQ2pHaEk2QXlxZlNUdGZrNWFoUXQtQURBbjJaOWRSa0EwbC1XSXR2a0N3dGNUSTZIc2xxYjdRRWZmU2JrNVotWnZBTHUzOEhQNjhOZmV6Mmh0LVVqLXpldmtINUhpTTllZWQ?oc=5",
-        "date": "08/19 00:20"
       }
     ],
     "VRT": [
