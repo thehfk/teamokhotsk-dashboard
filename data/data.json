@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-18T19:46:33.190743+00:00",
+  "updatedAt": "2026-08-18T20:12:23.408231+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7699.43,
-        "change": -0.59
+        "value": 7691.76,
+        "change": -0.69
       },
       {
         "name": "NASDAQ",
-        "value": 26314.14,
-        "change": -1.24
+        "value": 26289.71,
+        "change": -1.33
       },
       {
         "name": "다우존스",
-        "value": 53401.34,
-        "change": -0.11
+        "value": 53343.4,
+        "change": -0.22
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.62,
-        "change": 2.83
+        "value": 15.81,
+        "change": 4.08
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1411.92,
-        "change": -0.24
+        "value": 1412.25,
+        "change": -0.18
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "05/18",
           "05/19",
           "05/20",
           "05/21",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7403.05,
               7353.61,
               7432.97,
               7445.72,
@@ -179,13 +177,12 @@
               7798.99,
               7785.76,
               7745.06,
-              7699.43
+              7691.76
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              26090.73,
               25870.71,
               26270.36,
               26293.1,
@@ -248,13 +245,12 @@
               26803.03,
               26729.16,
               26644.91,
-              26314.14
+              26289.71
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              49686.12,
               49363.88,
               50009.35,
               50285.66,
@@ -317,7 +313,7 @@
               53839.99,
               53732.41,
               53459.78,
-              53401.34
+              53343.4
             ]
           }
         ]
@@ -459,7 +455,7 @@
               14.63,
               14.25,
               15.19,
-              15.62
+              15.81
             ]
           }
         ]
@@ -671,7 +667,8 @@
               1416.46,
               1416.85,
               1415.37,
-              1411.92
+              1414.73,
+              1412.25
             ]
           }
         ]
@@ -871,6 +868,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -881,24 +879,24 @@
     ]
   },
   "rsi": {
-    "AVGO": 54.1,
-    "GOOGL": 54.1,
-    "QCOM": 54.5,
-    "VRT": 72.1
+    "AVGO": 54.4,
+    "GOOGL": 54.0,
+    "QCOM": 54.2,
+    "VRT": 72.4
   },
   "news": {
     "AVGO": [
       {
         "type": "negative",
         "title": "AVGO Stock Rebounds After Worst Drop In Two Months: Retail Traders Look Past VMware Worry, Bet On Rebound",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOU5UVE1fd2J6Y19LY1Excm1nb1YwdnUwUEZOWExkUXgwVUVoMVZtMmN5d3FoN2pGaFVtTnV6ejJ5WERqZUpjSTZaSEpZbUxGOGNDTi1DbGFTVmRmSzJlcHJNeVFOeHNyQW8yWThIVl9jNldDd0RJWGV3djE0NXMtNjdWcW1yb2pIWHZ6V1BmMXVZRnpYUjg1X1FSVQ?oc=5",
         "date": "08/17 13:29"
       },
       {
         "type": "neutral",
         "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjg5U2VhT1FCa0FQclZRbXh0bG9JWVlZbVN2SHVBQXpkaVhXVmhXd1ZfYW5HdHJaSVpnUHgwVGhFb3EzZkRfQXF4MjNDNDd2ZTJKb3d3enR3RmNVUlVWVXlGUVZfN3JrdHlFd3JyYjd1c2twRHN5NmxBWDBhbTVaMVlDWHBxWkJHVHd3RmVENzkyZ0Z6OXpodEZn?oc=5",
         "date": "08/19 02:30"
       },
@@ -921,28 +919,28 @@
       {
         "type": "negative",
         "title": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
-        "publisher": "barchart.com",
+        "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVpBaW1UaTNtd1g0djBoNURXR0pyeXIyN3o3ZlpYS2Q0Um54UkZXMXZsQXFiWUh0MFRnbUNzTHNMZHJNOWdiWGZDcXVDMmRQZ2U0ZmU1OEk0MXFaaHZmeTNNT1hRU1Q0cE9sWXlpWXE4aTl6bDhUVk9lTWZNTUlVTEFUQnEteUtFNFlMWE9oTVFETnhIQXh4TWxqMFpJZW1vR0dueUdpZ1h6LThuMndNV0tlc1R4N1JpbUt3Uno2dzd2WVk?oc=5",
         "date": "08/16 02:00"
       },
       {
         "type": "neutral",
         "title": "Wall Street clearly loves Google stock, 13F filings reveal",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHN2MGZqTW1VUURKeDQ5UUJ1cXVUNmpNQWhSTkVGaGE4ejdjRDBtemRsMlhyYUtiUkJvWG1WS28tQzNzVnJyV25halNWX3NKeE1INnVrWERwYmF4SExLTENBY2RHcTJObXgxSmVXRV9mVy1zNTIybzloYTJ4cXlhYlFCTWpuczZjUEZCelR4NW5paHhoSnJ3UXlyYTN3ZjdRc1RYU2hRUXYwb2lndjliOVhUUkVaZkRqMXE3Q3F3?oc=5",
         "date": "08/18 22:14"
       },
       {
         "type": "negative",
         "title": "Top Investors Warn Google Is Now “A Very Different Company” Than It Was 2 Years Ago",
-        "publisher": "247wallst.com",
+        "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU5nZ3A2RlczT2tEQzZSLVotcnNETFR2QnR3TkJJOGZ1bF81VmZEQnotb3VCUkYzYUJVM21Xc3JnV2sxTXdMT1Y4VldaUDhUQ09zZGxPSFJoeUNacENiTW5hUDB4QXlnc25WeHpTVU9iY0wyeGk4WXU3LThLSXZqZm1HcFdEdlFMQXJPMUowUVlXSGwxNS12b1F3OTlNZVBpWklxb1prcnBqNE15aHNIX2xfTWxNbEdsUVBkblBlYlZ4R2M?oc=5",
         "date": "08/18 04:50"
       },
       {
         "type": "negative",
         "title": "Alphabet Inc. $GOOGL Stock Position Cut by Agate Pass Investment Management LLC",
-        "publisher": "MarketBeat",
+        "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
         "date": "08/16 16:16"
       }
@@ -965,7 +963,7 @@
       {
         "type": "neutral",
         "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
         "date": "08/18 00:15"
       },
@@ -988,21 +986,21 @@
       {
         "type": "neutral",
         "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
         "date": "08/17 21:09"
       },
       {
-        "type": "neutral",
-        "title": "Vertiv vs. Teradyne: Which AI Infrastructure Stock Is the Better Buy?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkl1MFI5ODVWUVhNa2lSczZReFR5RWZlS3YxWkJHX2l1R3M0bGNxcVlRSG9IYVBnanpYTklud2QySlFXS2FscmlhcDNuV2xuRkIyLTJvMzBZa2IzemZOSDkyOEl3VXZHMnkyUkV3ZlYzLTUtTm1UQjBRQ1ZVRXZSLTFpU3cwYTEydlZBM3h3Vm9VSjJDSXVpMWtVU3o0LXdWdGxlZUplWHFvU1UzbWlUWWVSOTRQQTJIMWY3Nm9kVQ?oc=5",
-        "date": "08/18 02:41"
+        "type": "negative",
+        "title": "Powell, Sterling, Vertiv, Nextpower, and Hubbell Shares Are Falling, What You Need To Know",
+        "publisher": "The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYk96dlVzblU4V1dNWjZwLUVOOVRMQV83ZzZ3SnRyN2NiUG9vb2VpbWlBdHQtR2E0THI5aDkyb1kxMVRCdWdkeUNfYmJyeTRNd1NHVUM2Tlo5ZGYzTktFdGlMdkRRMHhremlIMTNRemlNNXg3YTZudWVzcWFnSWM4ay1XbDhDLTZRRm5wTzZKMzk3bkNjTmJ1RkdPSnNySFYxZVBVMmUydGctUWh5a0VGbXpqY25sbFRVWm1nc3J4eUIyMjhyZjE4RWsyQmRseEFmX3hzQUJCNFkyVXExcmcybFRwSFhsTVFyZzE1bUxUX1llR1BqYUJZMzdoNVoydw?oc=5",
+        "date": "08/19 01:21"
       },
       {
         "type": "neutral",
         "title": "Vertiv Holdings (VRT) Well Positioned for Key Tech Transitions",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUM2OHFfTGRIVnJ3ZVdIc2RkM19jWGlYY2tTT29fV3RNd1dFY1NybW1WNmdNMm95b2tzQnpZd216RmtmVHhUdVhWc0Frbjk2SW5LZHJYemVxLUxHYWJRYXNMX1lEUVhBWXY2Y0VQeUw5SXgtcWp4TWhnYjd6cmptU28tU3pkSGNHVmY4UXd3eE1ScThTXzR0RUhJWGN6VnFUUnc?oc=5",
         "date": "08/18 23:02"
       }
