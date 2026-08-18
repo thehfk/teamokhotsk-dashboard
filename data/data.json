@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T23:12:49.647820+00:00",
+  "updatedAt": "2026-08-18T23:43:09.221290+00:00",
   "market": {
     "cards": [
       {
@@ -29,7 +29,7 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.29,
+        "value": 1412.35,
         "change": -0.17
       },
       {
@@ -293,15 +293,12 @@
               52552.97,
               52146.42,
               51839.26,
-              52224.64,
-              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
-              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -667,7 +664,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1412.29
+              1412.35
             ]
           }
         ]
@@ -860,7 +857,6 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
@@ -908,10 +904,10 @@
       },
       {
         "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Monday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVZbkVyTUVTbmpIUlNkZnJJVVMzM1g4VnlNRFo1WnViQjNrQkZoeFJHenllVlY1VTJXSkM4NkJkRU93X0JsTlFieFRfdVhMeUNwWHJBcHBOd1B3VEl3Vmw2bGszeXd2blBrY09hbExfQmNCWVJqUW9rS2JJejVLSFdaWFVDSThPQnkxYWpqT0EtQmozOE5xN2hzWWQ?oc=5",
-        "date": "08/17 20:03"
+        "title": "Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds.",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjR0T3U0cnd1REF1XzlqT29qV1J2OXNHeVNoUFBlc3NMaEk0Und2NlRtU1FZUkg1dHFhSmNVNTNFQzRQczl4Q0pqSEIwZ1hjdV9heTVjZGhnM3l0NUNZeldDUXJrUGlRQVZfS3h2RzJobVVxZWhTajV3R3hPSWphaXE3azFYcG1mNFI5ZlhXMVgyU0cxaFFSODdGeWFTd3c?oc=5",
+        "date": "08/18 05:37"
       }
     ],
     "GOOGL": [
@@ -961,10 +957,10 @@
       },
       {
         "type": "neutral",
-        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
+        "title": "Where Will Qualcomm Stock Be in 5 Years?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
-        "date": "08/18 00:15"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGZ6T1VydTdqZEdUNFVyZjMweVdjNFJuS0dudzU5cW9pZUd5Q0tieS1ZZ2dRSGFlaGV6QS1SeEFCQUhRUm0zZjM5VzBNTWpUS3VCaW1yU1dwM3M1TFlUMG1rem4xdC1PeUVDMEYzYWVuX2pHRWZ1WXZZbWlPeEVPY1JRRlBqVlo4TTJUUlBJSDlPeDc4Umk1NA?oc=5",
+        "date": "08/19 00:20"
       },
       {
         "type": "neutral",
@@ -978,7 +974,7 @@
       {
         "type": "negative",
         "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "quiverquant.com",
+        "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
         "date": "08/19 00:36"
       },
