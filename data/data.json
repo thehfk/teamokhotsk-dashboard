@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T22:47:25.104656+00:00",
+  "updatedAt": "2026-08-18T23:12:49.647820+00:00",
   "market": {
     "cards": [
       {
@@ -29,7 +29,7 @@
       },
       {
         "name": "원달러환율",
-        "value": 1412.27,
+        "value": 1412.29,
         "change": -0.17
       },
       {
@@ -601,7 +601,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1497.15,
               1492.32,
               1507.85,
               1499.77,
@@ -668,7 +667,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1412.27
+              1412.29
             ]
           }
         ]
@@ -868,6 +867,7 @@
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65
@@ -978,7 +978,7 @@
       {
         "type": "negative",
         "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Quiver Quantitative",
+        "publisher": "quiverquant.com",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
         "date": "08/19 00:36"
       },
