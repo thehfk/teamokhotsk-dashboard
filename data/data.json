@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-18T16:55:40.464500+00:00",
+  "updatedAt": "2026-08-18T17:19:26.203963+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7708.17,
-        "change": -0.48
+        "value": 7703.76,
+        "change": -0.53
       },
       {
         "name": "NASDAQ",
-        "value": 26382.71,
-        "change": -0.98
+        "value": 26343.13,
+        "change": -1.13
       },
       {
         "name": "다우존스",
-        "value": 53392.11,
-        "change": -0.13
+        "value": 53383.4,
+        "change": -0.14
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.67,
-        "change": 3.16
+        "value": 15.65,
+        "change": 3.03
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1411.44,
-        "change": -0.28
+        "value": 1411.95,
+        "change": -0.24
       },
       {
         "name": "KOSPI",
@@ -90,12 +90,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -156,12 +159,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -173,7 +179,7 @@
               7798.99,
               7785.76,
               7745.06,
-              7708.17
+              7703.76
             ]
           },
           {
@@ -242,7 +248,7 @@
               26803.03,
               26729.16,
               26644.91,
-              26382.71
+              26343.13
             ]
           },
           {
@@ -311,7 +317,7 @@
               53839.99,
               53732.41,
               53459.78,
-              53392.11
+              53383.4
             ]
           }
         ]
@@ -453,7 +459,7 @@
               14.63,
               14.25,
               15.19,
-              15.67
+              15.65
             ]
           }
         ]
@@ -665,7 +671,7 @@
               1416.46,
               1416.85,
               1415.37,
-              1411.44
+              1411.95
             ]
           }
         ]
@@ -716,12 +722,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -780,12 +789,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -859,7 +871,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65
@@ -870,10 +881,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 55.0,
-    "GOOGL": 53.9,
-    "QCOM": 53.6,
-    "VRT": 71.9
+    "AVGO": 54.9,
+    "GOOGL": 53.5,
+    "QCOM": 53.0,
+    "VRT": 72.3
   },
   "news": {
     "AVGO": [
@@ -922,21 +933,28 @@
         "date": "08/18 15:47"
       },
       {
-        "type": "neutral",
-        "title": "Google Plans to Move All Pixel Production Out of China by 2027. What It Means for GOOGL Stock",
-        "publisher": "tipranks.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU5odnVQSkU1SjRyN3U5R3RIdk9zNk5XYkJwV3NLQzN6VjlSTWtBQjhzVzd4Njl1OUU5U0tfbktJZlluTjg2bnUzSS1wMEVKOGtHc0JDYnNya2xOQzU2cXpXSHp4Smg0VGVIZGRUdG1TM1hnTUJlalJQNi1mWTJXYlI0NUl2SjV0THBEZEdDdm9BZkxNN3FOQmI3ZkFuZW1ybFZ5WEZnOEpjdWJXY1JYckV1SDhqN2hHNVFGMzIzWQ?oc=5",
-        "date": "08/18 14:15"
+        "type": "negative",
+        "title": "Top Investors Warn Google Is Now “A Very Different Company” Than It Was 2 Years Ago",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU5nZ3A2RlczT2tEQzZSLVotcnNETFR2QnR3TkJJOGZ1bF81VmZEQnotb3VCUkYzYUJVM21Xc3JnV2sxTXdMT1Y4VldaUDhUQ09zZGxPSFJoeUNacENiTW5hUDB4QXlnc25WeHpTVU9iY0wyeGk4WXU3LThLSXZqZm1HcFdEdlFMQXJPMUowUVlXSGwxNS12b1F3OTlNZVBpWklxb1prcnBqNE15aHNIX2xfTWxNbEdsUVBkblBlYlZ4R2M?oc=5",
+        "date": "08/18 04:50"
       },
       {
-        "type": "negative",
-        "title": "Alphabet Inc. $GOOGL Stock Position Cut by Agate Pass Investment Management LLC",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
-        "date": "08/16 16:16"
+        "type": "neutral",
+        "title": "Google Plans to Move All Pixel Production Out of China by 2027. What It Means for GOOGL Stock",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU5odnVQSkU1SjRyN3U5R3RIdk9zNk5XYkJwV3NLQzN6VjlSTWtBQjhzVzd4Njl1OUU5U0tfbktJZlluTjg2bnUzSS1wMEVKOGtHc0JDYnNya2xOQzU2cXpXSHp4Smg0VGVIZGRUdG1TM1hnTUJlalJQNi1mWTJXYlI0NUl2SjV0THBEZEdDdm9BZkxNN3FOQmI3ZkFuZW1ybFZ5WEZnOEpjdWJXY1JYckV1SDhqN2hHNVFGMzIzWQ?oc=5",
+        "date": "08/18 14:15"
       }
     ],
     "QCOM": [
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/18 23:39"
+      },
       {
         "type": "neutral",
         "title": "Where Will Qualcomm Stock Be in 5 Years?",
@@ -946,24 +964,17 @@
       },
       {
         "type": "neutral",
-        "title": "The Diverging Paths Priced Into Qualcomm Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
-        "date": "08/17 05:19"
-      },
-      {
-        "type": "neutral",
         "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
         "date": "08/18 00:15"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm Incorporated $QCOM Shares Sold by Merit Financial Group LLC",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUFqTjZBTXVSSU1FOWZIOW5WSXZKeERlV3BtWjlLZ3VBUUVOWkxkUnpCWnBUS1ZOeW1nZ3lkcU5FenBzN3lZdlE1Z19FUzhWQVZncVQycDhNOUg3TFFXM0Nra1c1LWExUDhYQzRIUnlCdWlpamZlLUtuYVNhT3NDX2ZpbUpDVF8tcTkwdjVwR0k5aE4zT1pXQzhsTm1zdmtSbTVncm8ycmh4MFh4ZW9VUXlybEZSV3ljTHYzdGpWMlY1VENVMHZ3?oc=5",
-        "date": "08/18 18:17"
+        "type": "neutral",
+        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
+        "date": "08/17 05:19"
       }
     ],
     "VRT": [
