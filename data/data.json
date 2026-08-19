@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T23:13:50.880548+00:00",
+  "updatedAt": "2026-08-19T23:43:43.275586+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1388.51,
-        "change": -1.77
+        "value": 1389.24,
+        "change": -1.72
       },
       {
         "name": "KOSPI",
@@ -218,15 +218,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -562,7 +559,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1388.51
+              1389.24
             ]
           }
         ]
@@ -795,11 +792,11 @@
         "date": "08/20 01:19"
       },
       {
-        "type": "positive",
-        "title": "Broadcom (AVGO) Is Down More Than 20%—Why TD Cowen Still Sees 27% Upside",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUF4S0xKNjg3VWZKbzd0a0tEYmQ1MHNXVVNfdmhoMmlMR2tybXZsWlNaTUFpeGdzZEt0d0FQaWFUb3RXVFp1dmwxMnM3SkpMZS1xdm5VQUJLQ1l6WmhGekpkVHFOamRKMTZWb2p1MzZWS09ScnVYcnJyUkl4eXhaY2otYkJfNkgxQnV2SWpERFQtZ2RpVlE?oc=5",
-        "date": "08/20 06:49"
+        "type": "negative",
+        "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
+        "publisher": "marketwatch.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZjUnVYcG1EbFpjV1c5b3FPajJtZ0hCLUJmdTdubnJ0VVRQR0VNYi1Mek9kdXhVS3ZsdHA0Y3NWbkhWcmRHRXBVZ2FYVTJCZlFmMVdsLWl2VXoxRGs2Zi1WblZFSC1Ga3FIV1M4Z0pTT29JaHRoQVdiQks4TXE4TG96VFh0ZEJZU2V3Qy1oYXlIaGM3bnRRNF9hRHlCREdDOGxNcGRRcjlhN2lteFNrZA?oc=5",
+        "date": "08/20 06:26"
       }
     ],
     "GOOGL": [
@@ -813,16 +810,9 @@
       {
         "type": "neutral",
         "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
-        "publisher": "24/7 Wall St.",
+        "publisher": "247wallst.com",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
         "date": "08/18 21:10"
-      },
-      {
-        "type": "neutral",
-        "title": "Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWhBUUh5SEE3RUYxSlBjbjYwU1hJaVQtRnpBZGI0M0lPblgyUDdhM2lQWjRnMWs1Sk43eGRSRERZTGxrWW5ZZEJSTXFLM2UxYXViMmFaV1NWZWlqeE04YmRxN29xXzJiM20xTXQzbjRpMDFLM2NhRUhTN0RKN1M4c29MdjB1dmtEdkFuT0d2LTVsS2NKWlVDOGpsdzVhWmJjQ1RCMDlMclQ2ek5ZVC15N1ROTnVjUnc?oc=5",
-        "date": "08/20 01:10"
       },
       {
         "type": "negative",
@@ -830,6 +820,13 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNjl0N2VQa2NyaUk1UjY3MVN4THByOTBHRkZNQy1UVUJHTEgtaEV1cjNUNGxUVjJTZ25rOXA4VUktX1lyVW1QeUNhSTBuSm9qTFoyY0c4S0VGS0c4clRBUUU1QWQxbGg0cFQ3QXVWT2wwX0Q0UUZEQ2tidFAyUUhpcWl4TVo3VHJCbmllbThOOTlORklEeXZrNA?oc=5",
         "date": "08/19 11:21"
+      },
+      {
+        "type": "neutral",
+        "title": "Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWhBUUh5SEE3RUYxSlBjbjYwU1hJaVQtRnpBZGI0M0lPblgyUDdhM2lQWjRnMWs1Sk43eGRSRERZTGxrWW5ZZEJSTXFLM2UxYXViMmFaV1NWZWlqeE04YmRxN29xXzJiM20xTXQzbjRpMDFLM2NhRUhTN0RKN1M4c29MdjB1dmtEdkFuT0d2LTVsS2NKWlVDOGpsdzVhWmJjQ1RCMDlMclQ2ek5ZVC15N1ROTnVjUnc?oc=5",
+        "date": "08/20 01:10"
       }
     ],
     "QCOM": [
