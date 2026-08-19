@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T09:23:17.416033+00:00",
+  "updatedAt": "2026-08-19T09:55:52.224318+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.84,
-        "change": 0.0
+        "value": 15.85,
+        "change": 0.06
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1394.7,
-        "change": -1.42
+        "value": 1389.76,
+        "change": -1.77
       },
       {
         "name": "KOSPI",
@@ -225,12 +225,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -449,7 +452,7 @@
               14.25,
               15.19,
               15.84,
-              15.84
+              15.85
             ]
           }
         ]
@@ -569,7 +572,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1394.7
+              1389.76
             ]
           }
         ]
@@ -619,15 +622,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -687,15 +687,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -763,6 +760,7 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
@@ -781,132 +779,6 @@
       }
     ]
   },
-  "rsi": {
-    "AVGO": 54.5,
-    "GOOGL": 54.0,
-    "QCOM": 54.2,
-    "VRT": 72.4
-  },
-  "news": {
-    "AVGO": [
-      {
-        "type": "negative",
-        "title": "AVGO Stock Rebounds After Worst Drop In Two Months: Retail Traders Look Past VMware Worry, Bet On Rebound",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOU5UVE1fd2J6Y19LY1Excm1nb1YwdnUwUEZOWExkUXgwVUVoMVZtMmN5d3FoN2pGaFVtTnV6ejJ5WERqZUpjSTZaSEpZbUxGOGNDTi1DbGFTVmRmSzJlcHJNeVFOeHNyQW8yWThIVl9jNldDd0RJWGV3djE0NXMtNjdWcW1yb2pIWHZ6V1BmMXVZRnpYUjg1X1FSVQ?oc=5",
-        "date": "08/17 13:29"
-      },
-      {
-        "type": "positive",
-        "title": "Broadcom Looks Undervalued With 50% Upside (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajd1azdBem5ncFB6V3V3MnI0NklqWktSdWlnc1dCMElaSnFmTTh3U1RmX3VxZFpUVzNvc05OdVVqbWlrOUFBelJOakptOHRVNGVxb2tJcmpBZ09jTDdDa3hNR2lzUUN4cjdmUFhjMURyaVlQajgxTTVnLXJqalh6ckxDSEZmRXM1T3Nib0FCS0o2X3Zl?oc=5",
-        "date": "08/18 07:57"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Monday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVZbkVyTUVTbmpIUlNkZnJJVVMzM1g4VnlNRFo1WnViQjNrQkZoeFJHenllVlY1VTJXSkM4NkJkRU93X0JsTlFieFRfdVhMeUNwWHJBcHBOd1B3VEl3Vmw2bGszeXd2blBrY09hbExfQmNCWVJqUW9rS2JJejVLSFdaWFVDSThPQnkxYWpqT0EtQmozOE5xN2hzWWQ?oc=5",
-        "date": "08/17 20:03"
-      },
-      {
-        "type": "positive",
-        "title": "Wall Street Analysts Predict a 32.15% Upside in Broadcom Inc. (AVGO): Here's What You Should Know",
-        "publisher": "Zacks Investment Research",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb3g4eUN1dmNOQnFka1hfMU81UVo2VFFxSFp0NGMzV0lud0VqT2xwcUJhazZOeTdlWWZRd2h2c3BSOV9aVkRqWGt0aC0xRnRoMzZ3cnlxLXZhTmcxaTBEaEFiQnNRMWQxc2tRcEpid05HWEV3bVJRblhYU0N0d0RGdldLVWpLNThlcnVoYjY3NWQ2LWptd2VVLUlORWpYSHAyajZEY2tsMFZNZXhWYXRDcHlleElmVTJ1cmdEVmI3cWRndGI4dGdIVFJzdw?oc=5",
-        "date": "08/17 22:01"
-      }
-    ],
-    "GOOGL": [
-      {
-        "type": "neutral",
-        "title": "Wall Street clearly loves Google stock, 13F filings reveal",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHN2MGZqTW1VUURKeDQ5UUJ1cXVUNmpNQWhSTkVGaGE4ejdjRDBtemRsMlhyYUtiUkJvWG1WS28tQzNzVnJyV25halNWX3NKeE1INnVrWERwYmF4SExLTENBY2RHcTJObXgxSmVXRV9mVy1zNTIybzloYTJ4cXlhYlFCTWpuczZjUEZCelR4NW5paHhoSnJ3UXlyYTN3ZjdRc1RYU2hRUXYwb2lndjliOVhUUkVaZkRqMXE3Q3F3?oc=5",
-        "date": "08/18 22:14"
-      },
-      {
-        "type": "neutral",
-        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
-        "date": "08/18 21:10"
-      },
-      {
-        "type": "neutral",
-        "title": "Hedge Funds Are Divided on MSFT and GOOGL. AVGO Stock Stands Out for the Wrong Reason",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVlDdThpTzhqWmdsb3RqZUVXWGRmZDRIcC1GNWU2UkRwUWtITEJZOXdERlJWblkzY3U2OU5wMm9xOW5uTnpmZWNfU28ta3NBYVV3OVE3M0hfZEt3b0ttaktuWUtFTzBQZUxja0djblJIaWczN18tNjh4WjZMYXpoN3YzV1RjTWZfRzVRM0ZrZS1hM3pkNmFyTF9uSzNfRVExSmJUNlJHeHZseklmOW5jaDR4Q0E?oc=5",
-        "date": "08/18 22:46"
-      },
-      {
-        "type": "negative",
-        "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
-        "date": "08/17 07:06"
-      }
-    ],
-    "QCOM": [
-      {
-        "type": "neutral",
-        "title": "The Diverging Paths Priced Into Qualcomm Stock",
-        "publisher": "trefis.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
-        "date": "08/17 05:19"
-      },
-      {
-        "type": "neutral",
-        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
-        "date": "08/18 00:15"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "08/18 23:39"
-      },
-      {
-        "type": "positive",
-        "title": "Qualcomm (NASDAQ: QCOM) Stock Price Trades Near Fair Value As Cheap Earnings Multiple Signals Potential Upside",
-        "publisher": "foreignpolicyjournal.com",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWVlFZHFLS0FUTGVfMzJsYTJxdk9CRERreFNRZkVyaDBQYmZBZDFQWTFCZFRjWXZLazZObGY0WGhUelVrYnNvN3B3WUN2OGVGc1Bvak5aMWM5VDZaZl9jR1UxeFktbWd4N2QwM2VOdFM1Uk9uTS02ajZXbjFuQ0NJUnZSdzZBWDFfMFZmLXBrd1NvdEo4Tm84bTlnNkd1VXIyUzNKSzk3eUhpb3AwYW1nNWx1MVFIQm43MFdMaVVXckh1ZTVDMnNtakxFYUlCcHVnVFk0dzRiVXlwdkhKRFJpdHo3dElIUWdQbHl1eQ?oc=5",
-        "date": "08/19 04:56"
-      }
-    ],
-    "VRT": [
-      {
-        "type": "negative",
-        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
-        "date": "08/19 00:36"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
-        "date": "08/17 21:09"
-      },
-      {
-        "type": "negative",
-        "title": "VRT Stock: Earn 11% Annualized, Or Buy In 50% Lower",
-        "publisher": "trefis.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeW84SXUzZUgxeVlWU1g1M1VSTFh3V0U0QUo1WFhhcXJqQkRGdTBVRm1fLWRQZkFTRWp5cVV3NXc0bDRoUGlPaEtNa3p5UGhfT1FXRHAwclRSZmVTMWJ1dWpYUldFclNIN2M2NzNlNDJpbzI5a2ZBZ1RZX0JfYXB0YUFUcWlSWEVVNWpnZGJMQmhaNXBOTTVvYm1zUDAzV1RSNTFWTFBrcjJQMG8wNGJHMzBpVVl6STA?oc=5",
-        "date": "08/19 12:39"
-      },
-      {
-        "type": "negative",
-        "title": "Vertiv Holdings Co (VRT) Stock Down 6.8% but Still Overvalued -- GF Score: 86/100",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVJjdm9uSkxydi1HWUpraVdNM0NHWkU5VHN4ZXc5M1ZJT29kZFRkYmxMLTNYblM1YjFwdmRfZS1tRzlVS183VlQ2YWlmUHI4ZnNrVFl5MjNpQXl2S1RrNklLMnIxbWE3TnBDU2tWZmpYNThxay03QzZVcnRZdHBaRUlvWUNfejA2Q1ZpSGRjQlhTbHZiNUphM3Z1S2VIYjRQZ3FKS0xuVzhnN1R3SWoweQ?oc=5",
-        "date": "08/19 06:32"
-      }
-    ]
-  }
+  "rsi": {},
+  "news": {}
 }
