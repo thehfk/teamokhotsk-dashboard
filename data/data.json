@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:15:50.431782+00:00",
+  "updatedAt": "2026-08-19T20:51:22.583877+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.84,
-        "change": -6.31
+        "value": 14.89,
+        "change": -6.0
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1388.08,
-        "change": -1.8
+        "value": 1388.32,
+        "change": -1.79
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               14.25,
               15.19,
               15.84,
-              14.84
+              14.89
             ]
           }
         ]
@@ -668,7 +668,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1388.08
+              1388.32
             ]
           }
         ]
@@ -895,7 +895,7 @@
       {
         "type": "neutral",
         "title": "Marvell (MRVL) or Broadcom (AVGO): TD Cowen Says Buy One Chip Stock, Hold the Other",
-        "publisher": "tipranks.com",
+        "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWxRdlhpMnVWcGNveUQxeTFpeGlyYng1a2d2ZzNJTHN5SXhSQ0Uybm1qMmdLOHF2TkR3bm5McC1qREJCeVhVT0NIcTlMU2RreGtuY3dhdmszbG9ObjZ1cUxVdTZfMW45a3d0VzRkSURSZHBMdHAwcndocU1zWklsOEoxMF90WVVpYXFkSzRCNVUwYmZZaTAtcGVKTVZNR0ZVeXRsbnRmTTRjZmc?oc=5",
         "date": "08/19 18:40"
       },
@@ -908,10 +908,10 @@
       },
       {
         "type": "neutral",
-        "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTBLN1pxTEV6Qk92RC1udXZRT0JkVG5uV0w2VTVNODRxM01DSS1pTVEwLVFQRjNSWmlqZzFROWVobHBmMVdHaGxSYzlITlhlYTV3V0VNc2dKOWsyU1Zxcm5wczM3X1Vjc1huMmJwUjVkRkpDZVRxbWh1clpSXzc5UWptY2NQXzZkaG5aZ3pRc0U4NDBrai1QTHJZbjZ6Z1otdDU0Y1M2eHBJamVoZ0ZaOEVnQndkYWNha2lZeQ?oc=5",
-        "date": "08/19 02:30"
+        "title": "Why Broadcom Stock Crashed Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1BhN2plcEJ5MENBNUlJZk9Md1NyVzJSa0FHdHFETjdoelE2VFdBZ0EzVTlvNVNMZ3E5QnczTjNmSTVZQTZkeTRWOEhXb0dmR3k0Z3BiYmhURWpKblBLXzQwS1RLekU0QUtIMnZiT3dDa2t5S2hYb1hLVktRS09yYlJkbE1oNGlTRHAyeG5tSHduWkQyUmJwX3MyOUlIZw?oc=5",
+        "date": "08/20 01:19"
       }
     ],
     "GOOGL": [
@@ -960,18 +960,18 @@
         "date": "08/18 00:15"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm (NASDAQ:QCOM): Growth at a Reasonable Price",
-        "publisher": "ChartMill",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3dVSFBXdnVBNTlUU0pLMkZJbnJraFZ4R1FqT0k1M0lKRzlnTVlJX3ZTa2N5Yi1QcTBHM05VX0NVUzBvRnIwajhuSzZTUVQ3RUs5ZHFPZl8wSnk0RWI1S1lhSnQ2VndKQUZzLW1SQmhwTks2bEpuOXlLTnhzREZ4Ui0zYUd4SWU0YTJLTWZkM1Bya1ZfQUk2NDlSalVLLWdfeUE?oc=5",
-        "date": "08/19 21:11"
-      },
-      {
         "type": "neutral",
         "title": "Where Will Qualcomm Stock Be in 5 Years?",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
         "date": "08/19 01:00"
+      },
+      {
+        "type": "positive",
+        "title": "Qualcomm (NASDAQ:QCOM): Growth at a Reasonable Price",
+        "publisher": "ChartMill",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3dVSFBXdnVBNTlUU0pLMkZJbnJraFZ4R1FqT0k1M0lKRzlnTVlJX3ZTa2N5Yi1QcTBHM05VX0NVUzBvRnIwajhuSzZTUVQ3RUs5ZHFPZl8wSnk0RWI1S1lhSnQ2VndKQUZzLW1SQmhwTks2bEpuOXlLTnhzREZ4Ui0zYUd4SWU0YTJLTWZkM1Bya1ZfQUk2NDlSalVLLWdfeUE?oc=5",
+        "date": "08/19 21:11"
       }
     ],
     "VRT": [
@@ -997,11 +997,11 @@
         "date": "08/19 12:39"
       },
       {
-        "type": "negative",
-        "title": "Vertiv Holdings Co (VRT) Stock Down 6.8% but Still Overvalued -- GF Score: 86/100",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVJjdm9uSkxydi1HWUpraVdNM0NHWkU5VHN4ZXc5M1ZJT29kZFRkYmxMLTNYblM1YjFwdmRfZS1tRzlVS183VlQ2YWlmUHI4ZnNrVFl5MjNpQXl2S1RrNklLMnIxbWE3TnBDU2tWZmpYNThxay03QzZVcnRZdHBaRUlvWUNfejA2Q1ZpSGRjQlhTbHZiNUphM3Z1S2VIYjRQZ3FKS0xuVzhnN1R3SWoweQ?oc=5",
-        "date": "08/19 06:32"
+        "type": "neutral",
+        "title": "Diversify Advisory Services LLC Purchases New Shares in Vertiv Holdings Co. $VRT",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkhubEZFWHZNSHMxbUJnN1NRRDFzTHJGMk0xaXBNd0NGZFFkNjlNRjBDV1ktMUJsQ3dpbDBjTXU5NVRIN1ZWX0VwdkZxU2lLbzRfOWEwVnprdVpUbVNrU2pHN1F3UHNfWEUyZ0xKbk1CZlVBRmhtMGU5MHlXTGRrVDRkNkFjRjBydHZudXRta0g5WW9RWUEtS3NPd080SEoxSEZBYjhSR01qeHk2UHJBV0JXRks4WkF0UVAxSEJfd3h0T0E2MEVCb20wUURGM2EtZjNZOXZ3?oc=5",
+        "date": "08/19 17:35"
       }
     ]
   }
