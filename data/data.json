@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T07:59:55.118476+00:00",
+  "updatedAt": "2026-08-19T08:40:21.934172+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.84,
-        "change": 0.0
+        "value": 15.8,
+        "change": -0.25
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1393.78,
-        "change": -1.48
+        "value": 1394.51,
+        "change": -1.43
       },
       {
         "name": "KOSPI",
@@ -440,7 +440,7 @@
               14.25,
               15.19,
               15.84,
-              15.84
+              15.8
             ]
           }
         ]
@@ -448,12 +448,58 @@
       {
         "name": "환율 / 금리",
         "labels": [
+          "05/18",
+          "05/19",
+          "05/20",
+          "05/21",
+          "05/22",
+          "05/26",
+          "05/27",
+          "05/28",
+          "05/29",
+          "06/01",
+          "06/02",
+          "06/03",
+          "06/04",
+          "06/05",
+          "06/08",
+          "06/09",
+          "06/10",
+          "06/11",
+          "06/12",
+          "06/15",
+          "06/16",
+          "06/17",
+          "06/18",
+          "06/22",
+          "06/23",
+          "06/24",
+          "06/25",
+          "06/26",
+          "06/29",
+          "06/30",
+          "07/01",
+          "07/02",
+          "07/06",
+          "07/07",
+          "07/08",
+          "07/09",
+          "07/10",
+          "07/13",
+          "07/14",
+          "07/15",
+          "07/16",
+          "07/17",
+          "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -471,12 +517,58 @@
           {
             "name": "미국10년금리",
             "data": [
+              4.62,
+              4.67,
+              4.57,
+              4.59,
+              4.56,
+              4.49,
+              4.48,
+              4.45,
+              4.45,
+              4.47,
+              4.45,
+              4.49,
+              4.48,
+              4.54,
+              4.55,
+              4.53,
+              4.54,
+              4.46,
+              4.49,
+              4.47,
+              4.43,
+              4.46,
+              4.45,
+              4.51,
+              4.49,
+              4.4,
+              4.39,
+              4.37,
+              4.37,
+              4.42,
+              4.47,
+              4.49,
+              4.48,
+              4.53,
+              4.57,
+              4.54,
+              4.57,
+              4.61,
+              4.59,
+              4.55,
+              4.57,
+              4.54,
+              4.6,
+              4.63,
+              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
+              4.74,
               4.69,
               4.63,
               4.62,
@@ -560,7 +652,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1393.78
+              1394.51
             ]
           }
         ]
@@ -748,6 +840,7 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
@@ -790,17 +883,17 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds.",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjR0T3U0cnd1REF1XzlqT29qV1J2OXNHeVNoUFBlc3NMaEk0Und2NlRtU1FZUkg1dHFhSmNVNTNFQzRQczl4Q0pqSEIwZ1hjdV9heTVjZGhnM3l0NUNZeldDUXJrUGlRQVZfS3h2RzJobVVxZWhTajV3R3hPSWphaXE3azFYcG1mNFI5ZlhXMVgyU0cxaFFSODdGeWFTd3c?oc=5",
-        "date": "08/18 05:37"
-      },
-      {
-        "type": "neutral",
         "title": "What's Going On With Broadcom Stock Monday?",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVZbkVyTUVTbmpIUlNkZnJJVVMzM1g4VnlNRFo1WnViQjNrQkZoeFJHenllVlY1VTJXSkM4NkJkRU93X0JsTlFieFRfdVhMeUNwWHJBcHBOd1B3VEl3Vmw2bGszeXd2blBrY09hbExfQmNCWVJqUW9rS2JJejVLSFdaWFVDSThPQnkxYWpqT0EtQmozOE5xN2hzWWQ?oc=5",
         "date": "08/17 20:03"
+      },
+      {
+        "type": "positive",
+        "title": "Wall Street Analysts Predict a 32.15% Upside in Broadcom Inc. (AVGO): Here's What You Should Know",
+        "publisher": "Zacks Investment Research",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb3g4eUN1dmNOQnFka1hfMU81UVo2VFFxSFp0NGMzV0lud0VqT2xwcUJhazZOeTdlWWZRd2h2c3BSOV9aVkRqWGt0aC0xRnRoMzZ3cnlxLXZhTmcxaTBEaEFiQnNRMWQxc2tRcEpid05HWEV3bVJRblhYU0N0d0RGdldLVWpLNThlcnVoYjY3NWQ2LWptd2VVLUlORWpYSHAyajZEY2tsMFZNZXhWYXRDcHlleElmVTJ1cmdEVmI3cWRndGI4dGdIVFJzdw?oc=5",
+        "date": "08/17 22:01"
       }
     ],
     "GOOGL": [
@@ -810,13 +903,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHN2MGZqTW1VUURKeDQ5UUJ1cXVUNmpNQWhSTkVGaGE4ejdjRDBtemRsMlhyYUtiUkJvWG1WS28tQzNzVnJyV25halNWX3NKeE1INnVrWERwYmF4SExLTENBY2RHcTJObXgxSmVXRV9mVy1zNTIybzloYTJ4cXlhYlFCTWpuczZjUEZCelR4NW5paHhoSnJ3UXlyYTN3ZjdRc1RYU2hRUXYwb2lndjliOVhUUkVaZkRqMXE3Q3F3?oc=5",
         "date": "08/18 22:14"
-      },
-      {
-        "type": "neutral",
-        "title": "Berkshire Is Chasing GOOG Stock Big Time, But It Might Not Help Reverse Warren Buffett’s Historical Mistake",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYlV5ZE5rc1ZHNndmWlA2UGd0cUhPSlJpVUU3NWw2VjVMblVyMDlTZXd1X0s4VTNYaUVfTGZQbXFMcDFHN3FuNHBlbFhUd3RhdWdVSDBwdUEwOGJfVm5xQ1Q3Q1RhMFpPSFZzZm5PcUs2N01rdExhM3pGU1p5a2VnZUR0UjNJX2g2eHRPb1lSd0c2aWVxTUxySzZ3SWhTMVZoQjFJNHRIOXVpVTRqRmV3bHctMVVReTlIcXlqUHdjTVZ3YktEZFY2OGVfaElnaHR5bEJfRndla1l5OW1ibHBKOF9JVQ?oc=5",
-        "date": "08/18 02:37"
       },
       {
         "type": "neutral",
@@ -831,22 +917,29 @@
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVlDdThpTzhqWmdsb3RqZUVXWGRmZDRIcC1GNWU2UkRwUWtITEJZOXdERlJWblkzY3U2OU5wMm9xOW5uTnpmZWNfU28ta3NBYVV3OVE3M0hfZEt3b0ttaktuWUtFTzBQZUxja0djblJIaWczN18tNjh4WjZMYXpoN3YzV1RjTWZfRzVRM0ZrZS1hM3pkNmFyTF9uSzNfRVExSmJUNlJHeHZseklmOW5jaDR4Q0E?oc=5",
         "date": "08/18 22:46"
+      },
+      {
+        "type": "negative",
+        "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVXBrT0RMVEh2Xy1FT2wzNHNtVE91NnBTSU1adGhpTHo1UnNVMExsc0dHQlFHNUNFWjhLMWtvVUxfSDBaNVc2TFpISU1JaHpib1lIWHFKSzh3NkRyTlprVXJCMXM3SHBvd0lFRjA3a2lmQmNzNU4ydE9tX3ZHUmdUWEdmOXNZMGpIV3ZNRUZxNjlpNmNxczNn?oc=5",
+        "date": "08/17 07:06"
       }
     ],
     "QCOM": [
       {
-        "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
-        "publisher": "stocktwits.com",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "08/18 23:39"
-      },
-      {
         "type": "neutral",
         "title": "The Diverging Paths Priced Into Qualcomm Stock",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
         "date": "08/17 05:19"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/18 23:39"
       },
       {
         "type": "neutral",
@@ -881,7 +974,7 @@
       {
         "type": "negative",
         "title": "VRT Stock: Earn 11% Annualized, Or Buy In 50% Lower",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeW84SXUzZUgxeVlWU1g1M1VSTFh3V0U0QUo1WFhhcXJqQkRGdTBVRm1fLWRQZkFTRWp5cVV3NXc0bDRoUGlPaEtNa3p5UGhfT1FXRHAwclRSZmVTMWJ1dWpYUldFclNIN2M2NzNlNDJpbzI5a2ZBZ1RZX0JfYXB0YUFUcWlSWEVVNWpnZGJMQmhaNXBOTTVvYm1zUDAzV1RSNTFWTFBrcjJQMG8wNGJHMzBpVVl6STA?oc=5",
         "date": "08/19 12:39"
       },
