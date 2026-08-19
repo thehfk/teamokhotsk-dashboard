@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-19T16:19:32.410374+00:00",
+  "updatedAt": "2026-08-19T16:53:28.959890+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7739.06,
-        "change": 0.61
+        "value": 7718.81,
+        "change": 0.35
       },
       {
         "name": "NASDAQ",
-        "value": 26455.18,
-        "change": 0.63
+        "value": 26361.9,
+        "change": 0.27
       },
       {
         "name": "다우존스",
-        "value": 53557.16,
-        "change": 0.4
+        "value": 53443.88,
+        "change": 0.19
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.11,
-        "change": -4.61
+        "value": 15.16,
+        "change": -4.29
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1388.97,
-        "change": -1.82
+        "value": 1388.24,
+        "change": -1.87
       },
       {
         "name": "KOSPI",
@@ -89,12 +89,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -155,12 +158,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -173,7 +179,7 @@
               7785.76,
               7745.06,
               7691.76,
-              7739.06
+              7718.81
             ]
           },
           {
@@ -221,12 +227,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -239,7 +248,7 @@
               26729.16,
               26644.91,
               26289.71,
-              26455.18
+              26361.9
             ]
           },
           {
@@ -287,12 +296,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -305,7 +317,7 @@
               53732.41,
               53459.78,
               53343.4,
-              53557.16
+              53443.88
             ]
           }
         ]
@@ -356,12 +368,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -423,12 +438,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -441,7 +459,7 @@
               14.25,
               15.19,
               15.84,
-              15.11
+              15.16
             ]
           }
         ]
@@ -449,12 +467,57 @@
       {
         "name": "환율 / 금리",
         "labels": [
+          "05/19",
+          "05/20",
+          "05/21",
+          "05/22",
+          "05/26",
+          "05/27",
+          "05/28",
+          "05/29",
+          "06/01",
+          "06/02",
+          "06/03",
+          "06/04",
+          "06/05",
+          "06/08",
+          "06/09",
+          "06/10",
+          "06/11",
+          "06/12",
+          "06/15",
+          "06/16",
+          "06/17",
+          "06/18",
+          "06/22",
+          "06/23",
+          "06/24",
+          "06/25",
+          "06/26",
+          "06/29",
+          "06/30",
+          "07/01",
+          "07/02",
+          "07/06",
+          "07/07",
+          "07/08",
+          "07/09",
+          "07/10",
+          "07/13",
+          "07/14",
+          "07/15",
+          "07/16",
+          "07/17",
+          "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -473,12 +536,57 @@
           {
             "name": "미국10년금리",
             "data": [
+              4.67,
+              4.57,
+              4.59,
+              4.56,
+              4.49,
+              4.48,
+              4.45,
+              4.45,
+              4.47,
+              4.45,
+              4.49,
+              4.48,
+              4.54,
+              4.55,
+              4.53,
+              4.54,
+              4.46,
+              4.49,
+              4.47,
+              4.43,
+              4.46,
+              4.45,
+              4.51,
+              4.49,
+              4.4,
+              4.39,
+              4.37,
+              4.37,
+              4.42,
+              4.47,
+              4.49,
+              4.48,
+              4.53,
+              4.57,
+              4.54,
+              4.57,
+              4.61,
+              4.59,
+              4.55,
+              4.57,
+              4.54,
+              4.6,
+              4.63,
+              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
+              4.74,
               4.69,
               4.63,
               4.62,
@@ -563,7 +671,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1388.97
+              1388.24
             ]
           }
         ]
@@ -613,12 +721,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -677,12 +788,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -756,7 +870,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65,
@@ -768,10 +881,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 39.1,
-    "GOOGL": 56.9,
+    "AVGO": 38.8,
+    "GOOGL": 56.0,
     "QCOM": 60.8,
-    "VRT": 66.7
+    "VRT": 65.9
   },
   "news": {
     "AVGO": [
@@ -815,7 +928,7 @@
       {
         "type": "negative",
         "title": "Top Investors Warn Google Is Now “A Very Different Company” Than It Was 2 Years Ago",
-        "publisher": "24/7 Wall St.",
+        "publisher": "247wallst.com",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU5nZ3A2RlczT2tEQzZSLVotcnNETFR2QnR3TkJJOGZ1bF81VmZEQnotb3VCUkYzYUJVM21Xc3JnV2sxTXdMT1Y4VldaUDhUQ09zZGxPSFJoeUNacENiTW5hUDB4QXlnc25WeHpTVU9iY0wyeGk4WXU3LThLSXZqZm1HcFdEdlFMQXJPMUowUVlXSGwxNS12b1F3OTlNZVBpWklxb1prcnBqNE15aHNIX2xfTWxNbEdsUVBkblBlYlZ4R2M?oc=5",
         "date": "08/18 04:50"
       },
@@ -838,7 +951,7 @@
       {
         "type": "positive",
         "title": "Qualcomm Stock Is Down While Its Car Silicon Target Went Up",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjdCSmNrUXRad2ZHd3dnSUVaMlBnZnZwb0Rid2k4TU9kWjhHclBiUWJTMmF0R1Bka00wZDBfTnFGb08zZnBoOTBoNnNob1c0cTVKZnNnTzlEdmxSb19lM0VwRndWU3lsX19mLVFHVXNGeGlYdnB4QnRlYXphNVdQSHk5Zy1UMVZLd1FDeWkybWhtWnBQeExMVGV1QkZwaGFUYmZhTlBIc0lsM2JabjU0QmtUbTNkSnotYmJXTQ?oc=5",
         "date": "08/19 22:23"
       },
@@ -874,17 +987,17 @@
       },
       {
         "type": "negative",
-        "title": "VRT Stock: Earn 11% Annualized, Or Buy In 50% Lower",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeW84SXUzZUgxeVlWU1g1M1VSTFh3V0U0QUo1WFhhcXJqQkRGdTBVRm1fLWRQZkFTRWp5cVV3NXc0bDRoUGlPaEtNa3p5UGhfT1FXRHAwclRSZmVTMWJ1dWpYUldFclNIN2M2NzNlNDJpbzI5a2ZBZ1RZX0JfYXB0YUFUcWlSWEVVNWpnZGJMQmhaNXBOTTVvYm1zUDAzV1RSNTFWTFBrcjJQMG8wNGJHMzBpVVl6STA?oc=5",
-        "date": "08/19 12:39"
+        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
+        "publisher": "quiverquant.com",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
+        "date": "08/19 00:36"
       },
       {
         "type": "negative",
-        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
-        "date": "08/19 00:36"
+        "title": "VRT Stock: Earn 11% Annualized, Or Buy In 50% Lower",
+        "publisher": "trefis.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeW84SXUzZUgxeVlWU1g1M1VSTFh3V0U0QUo1WFhhcXJqQkRGdTBVRm1fLWRQZkFTRWp5cVV3NXc0bDRoUGlPaEtNa3p5UGhfT1FXRHAwclRSZmVTMWJ1dWpYUldFclNIN2M2NzNlNDJpbzI5a2ZBZ1RZX0JfYXB0YUFUcWlSWEVVNWpnZGJMQmhaNXBOTTVvYm1zUDAzV1RSNTFWTFBrcjJQMG8wNGJHMzBpVVl6STA?oc=5",
+        "date": "08/19 12:39"
       },
       {
         "type": "negative",
