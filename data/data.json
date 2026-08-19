@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T11:47:03.067784+00:00",
+  "updatedAt": "2026-08-19T12:23:55.484190+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.76,
-        "change": -0.51
+        "value": 15.71,
+        "change": -0.82
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1391.08,
-        "change": -1.67
+        "value": 1390.03,
+        "change": -1.75
       },
       {
         "name": "KOSPI",
@@ -293,12 +293,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -452,7 +455,7 @@
               14.25,
               15.19,
               15.84,
-              15.76
+              15.71
             ]
           }
         ]
@@ -460,12 +463,57 @@
       {
         "name": "환율 / 금리",
         "labels": [
+          "05/19",
+          "05/20",
+          "05/21",
+          "05/22",
+          "05/26",
+          "05/27",
+          "05/28",
+          "05/29",
+          "06/01",
+          "06/02",
+          "06/03",
+          "06/04",
+          "06/05",
+          "06/08",
+          "06/09",
+          "06/10",
+          "06/11",
+          "06/12",
+          "06/15",
+          "06/16",
+          "06/17",
+          "06/18",
+          "06/22",
+          "06/23",
+          "06/24",
+          "06/25",
+          "06/26",
+          "06/29",
+          "06/30",
+          "07/01",
+          "07/02",
+          "07/06",
+          "07/07",
+          "07/08",
+          "07/09",
+          "07/10",
+          "07/13",
+          "07/14",
+          "07/15",
+          "07/16",
+          "07/17",
+          "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -483,12 +531,57 @@
           {
             "name": "미국10년금리",
             "data": [
+              4.67,
+              4.57,
+              4.59,
+              4.56,
+              4.49,
+              4.48,
+              4.45,
+              4.45,
+              4.47,
+              4.45,
+              4.49,
+              4.48,
+              4.54,
+              4.55,
+              4.53,
+              4.54,
+              4.46,
+              4.49,
+              4.47,
+              4.43,
+              4.46,
+              4.45,
+              4.51,
+              4.49,
+              4.4,
+              4.39,
+              4.37,
+              4.37,
+              4.42,
+              4.47,
+              4.49,
+              4.48,
+              4.53,
+              4.57,
+              4.54,
+              4.57,
+              4.61,
+              4.59,
+              4.55,
+              4.57,
+              4.54,
+              4.6,
+              4.63,
+              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
+              4.74,
               4.69,
               4.63,
               4.62,
@@ -572,7 +665,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1391.08
+              1390.03
             ]
           }
         ]
@@ -622,12 +715,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -687,12 +783,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -760,13 +859,13 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65,
@@ -832,10 +931,10 @@
       },
       {
         "type": "neutral",
-        "title": "Hedge Funds Are Divided on MSFT and GOOGL. AVGO Stock Stands Out for the Wrong Reason",
+        "title": "Google Plans to Move All Pixel Production Out of China by 2027. What It Means for GOOGL Stock",
         "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVlDdThpTzhqWmdsb3RqZUVXWGRmZDRIcC1GNWU2UkRwUWtITEJZOXdERlJWblkzY3U2OU5wMm9xOW5uTnpmZWNfU28ta3NBYVV3OVE3M0hfZEt3b0ttaktuWUtFTzBQZUxja0djblJIaWczN18tNjh4WjZMYXpoN3YzV1RjTWZfRzVRM0ZrZS1hM3pkNmFyTF9uSzNfRVExSmJUNlJHeHZseklmOW5jaDR4Q0E?oc=5",
-        "date": "08/18 22:46"
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU5odnVQSkU1SjRyN3U5R3RIdk9zNk5XYkJwV3NLQzN6VjlSTWtBQjhzVzd4Njl1OUU5U0tfbktJZlluTjg2bnUzSS1wMEVKOGtHc0JDYnNya2xOQzU2cXpXSHp4Smg0VGVIZGRUdG1TM1hnTUJlalJQNi1mWTJXYlI0NUl2SjV0THBEZEdDdm9BZkxNN3FOQmI3ZkFuZW1ybFZ5WEZnOEpjdWJXY1JYckV1SDhqN2hHNVFGMzIzWQ?oc=5",
+        "date": "08/18 14:15"
       },
       {
         "type": "negative",
@@ -848,17 +947,24 @@
     "QCOM": [
       {
         "type": "neutral",
+        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "publisher": "trefis.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
+        "date": "08/17 05:19"
+      },
+      {
+        "type": "neutral",
         "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
         "date": "08/18 00:15"
       },
       {
-        "type": "neutral",
-        "title": "The Diverging Paths Priced Into Qualcomm Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
-        "date": "08/17 05:19"
+        "type": "positive",
+        "title": "Qualcomm (NASDAQ:QCOM): Growth at a Reasonable Price",
+        "publisher": "ChartMill",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3dVSFBXdnVBNTlUU0pLMkZJbnJraFZ4R1FqT0k1M0lKRzlnTVlJX3ZTa2N5Yi1QcTBHM05VX0NVUzBvRnIwajhuSzZTUVQ3RUs5ZHFPZl8wSnk0RWI1S1lhSnQ2VndKQUZzLW1SQmhwTks2bEpuOXlLTnhzREZ4Ui0zYUd4SWU0YTJLTWZkM1Bya1ZfQUk2NDlSalVLLWdfeUE?oc=5",
+        "date": "08/19 21:11"
       },
       {
         "type": "positive",
@@ -866,23 +972,9 @@
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
         "date": "08/18 23:39"
-      },
-      {
-        "type": "positive",
-        "title": "Qualcomm (NASDAQ: QCOM) Stock Price Trades Near Fair Value As Cheap Earnings Multiple Signals Potential Upside",
-        "publisher": "foreignpolicyjournal.com",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWVlFZHFLS0FUTGVfMzJsYTJxdk9CRERreFNRZkVyaDBQYmZBZDFQWTFCZFRjWXZLazZObGY0WGhUelVrYnNvN3B3WUN2OGVGc1Bvak5aMWM5VDZaZl9jR1UxeFktbWd4N2QwM2VOdFM1Uk9uTS02ajZXbjFuQ0NJUnZSdzZBWDFfMFZmLXBrd1NvdEo4Tm84bTlnNkd1VXIyUzNKSzk3eUhpb3AwYW1nNWx1MVFIQm43MFdMaVVXckh1ZTVDMnNtakxFYUlCcHVnVFk0dzRiVXlwdkhKRFJpdHo3dElIUWdQbHl1eQ?oc=5",
-        "date": "08/19 04:56"
       }
     ],
     "VRT": [
-      {
-        "type": "negative",
-        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
-        "date": "08/19 00:36"
-      },
       {
         "type": "neutral",
         "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
@@ -892,8 +984,15 @@
       },
       {
         "type": "negative",
+        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
+        "date": "08/19 00:36"
+      },
+      {
+        "type": "negative",
         "title": "VRT Stock: Earn 11% Annualized, Or Buy In 50% Lower",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeW84SXUzZUgxeVlWU1g1M1VSTFh3V0U0QUo1WFhhcXJqQkRGdTBVRm1fLWRQZkFTRWp5cVV3NXc0bDRoUGlPaEtNa3p5UGhfT1FXRHAwclRSZmVTMWJ1dWpYUldFclNIN2M2NzNlNDJpbzI5a2ZBZ1RZX0JfYXB0YUFUcWlSWEVVNWpnZGJMQmhaNXBOTTVvYm1zUDAzV1RSNTFWTFBrcjJQMG8wNGJHMzBpVVl6STA?oc=5",
         "date": "08/19 12:39"
       },
