@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-19T17:18:14.981935+00:00",
+  "updatedAt": "2026-08-19T17:47:30.269833+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7718.54,
-        "change": 0.35
+        "value": 7716.24,
+        "change": 0.32
       },
       {
         "name": "NASDAQ",
-        "value": 26345.64,
-        "change": 0.21
+        "value": 26340.56,
+        "change": 0.19
       },
       {
         "name": "다우존스",
-        "value": 53455.22,
-        "change": 0.21
+        "value": 53465.95,
+        "change": 0.23
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.18,
-        "change": -4.17
+        "value": 15.25,
+        "change": -3.72
       },
       {
         "name": "미국10년금리",
-        "value": 4.66,
-        "change": -1.06
+        "value": 4.67,
+        "change": -0.85
       },
       {
         "name": "원달러환율",
-        "value": 1387.93,
-        "change": -1.89
+        "value": 1388.53,
+        "change": -1.85
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7785.76,
               7745.06,
               7691.76,
-              7718.54
+              7716.24
             ]
           },
           {
@@ -248,7 +248,7 @@
               26729.16,
               26644.91,
               26289.71,
-              26345.64
+              26340.56
             ]
           },
           {
@@ -317,7 +317,7 @@
               53732.41,
               53459.78,
               53343.4,
-              53455.22
+              53465.95
             ]
           }
         ]
@@ -459,7 +459,7 @@
               14.25,
               15.19,
               15.84,
-              15.18
+              15.25
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.7,
               4.72,
               4.71,
-              4.66
+              4.67
             ]
           },
           {
@@ -671,7 +671,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1387.93
+              1388.53
             ]
           }
         ]
@@ -882,9 +882,9 @@
   },
   "rsi": {
     "AVGO": 39.2,
-    "GOOGL": 55.9,
-    "QCOM": 60.8,
-    "VRT": 65.5
+    "GOOGL": 55.6,
+    "QCOM": 60.2,
+    "VRT": 65.2
   },
   "news": {
     "AVGO": [
@@ -910,11 +910,11 @@
         "date": "08/19 02:30"
       },
       {
-        "type": "positive",
-        "title": "Broadcom Looks Undervalued With 50% Upside (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajd1azdBem5ncFB6V3V3MnI0NklqWktSdWlnc1dCMElaSnFmTTh3U1RmX3VxZFpUVzNvc05OdVVqbWlrOUFBelJOakptOHRVNGVxb2tJcmpBZ09jTDdDa3hNR2lzUUN4cjdmUFhjMURyaVlQajgxTTVnLXJqalh6ckxDSEZmRXM1T3Nib0FCS0o2X3Zl?oc=5",
-        "date": "08/18 07:57"
+        "type": "neutral",
+        "title": "Unfortunate News for Broadcom Stock Investors",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUlWeWlaQU5SSFJMcEFEVG11X1BMZHk0ZmxxdUVZUDAzSUw3TWxiSXNuTWpjYkl2U0pIb2xMd0s1TjJUNzVfel92WmpNSmNlTG9DYmQxd3VVMTViN2VRSGlVQnZ2MUtJWFY1T3Q4ZmpiSXBGc2RNelNYYnBNejBOVjktbURJM3ZrWVBvcDZHRTQzdw?oc=5",
+        "date": "08/19 13:40"
       }
     ],
     "GOOGL": [
