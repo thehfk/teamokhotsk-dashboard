@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-19T13:23:25.565609+00:00",
+  "updatedAt": "2026-08-19T14:04:02.980345+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7691.76,
-        "change": -0.69
+        "value": 7715.21,
+        "change": 0.3
       },
       {
         "name": "NASDAQ",
-        "value": 26289.71,
-        "change": -1.33
+        "value": 26249.19,
+        "change": -0.15
       },
       {
         "name": "다우존스",
-        "value": 53343.4,
-        "change": -0.22
+        "value": 53582.75,
+        "change": 0.45
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.47,
-        "change": -2.34
+        "value": 15.39,
+        "change": -2.84
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.94,
-        "change": -2.04
+        "value": 1387.44,
+        "change": -1.93
       },
       {
         "name": "KOSPI",
@@ -106,7 +106,8 @@
           "08/13",
           "08/14",
           "08/17",
-          "08/18"
+          "08/18",
+          "08/19"
         ],
         "series": [
           {
@@ -171,7 +172,8 @@
               7798.99,
               7785.76,
               7745.06,
-              7691.76
+              7691.76,
+              7715.21
             ]
           },
           {
@@ -219,15 +221,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -239,7 +238,8 @@
               26803.03,
               26729.16,
               26644.91,
-              26289.71
+              26289.71,
+              26249.19
             ]
           },
           {
@@ -287,12 +287,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -304,7 +307,8 @@
               53839.99,
               53732.41,
               53459.78,
-              53343.4
+              53343.4,
+              53582.75
             ]
           }
         ]
@@ -440,7 +444,7 @@
               14.25,
               15.19,
               15.84,
-              15.47
+              15.39
             ]
           }
         ]
@@ -562,7 +566,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1385.94
+              1387.44
             ]
           }
         ]
@@ -769,10 +773,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 54.5,
-    "GOOGL": 54.0,
-    "QCOM": 54.2,
-    "VRT": 72.4
+    "AVGO": 37.9,
+    "GOOGL": 54.6,
+    "QCOM": 59.9,
+    "VRT": 63.4
   },
   "news": {
     "AVGO": [
@@ -785,17 +789,17 @@
       },
       {
         "type": "positive",
+        "title": "Marvell’s stock surges on news of Google chip deal — and Broadcom’s falls",
+        "publisher": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZjUnVYcG1EbFpjV1c5b3FPajJtZ0hCLUJmdTdubnJ0VVRQR0VNYi1Mek9kdXhVS3ZsdHA0Y3NWbkhWcmRHRXBVZ2FYVTJCZlFmMVdsLWl2VXoxRGs2Zi1WblZFSC1Ga3FIV1M4Z0pTT29JaHRoQVdiQks4TXE4TG96VFh0ZEJZU2V3Qy1oYXlIaGM3bnRRNF9hRHlCREdDOGxNcGRRcjlhN2lteFNrZA?oc=5",
+        "date": "08/19 22:05"
+      },
+      {
+        "type": "positive",
         "title": "Broadcom Looks Undervalued With 50% Upside (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajd1azdBem5ncFB6V3V3MnI0NklqWktSdWlnc1dCMElaSnFmTTh3U1RmX3VxZFpUVzNvc05OdVVqbWlrOUFBelJOakptOHRVNGVxb2tJcmpBZ09jTDdDa3hNR2lzUUN4cjdmUFhjMURyaVlQajgxTTVnLXJqalh6ckxDSEZmRXM1T3Nib0FCS0o2X3Zl?oc=5",
         "date": "08/18 07:57"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Monday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVZbkVyTUVTbmpIUlNkZnJJVVMzM1g4VnlNRFo1WnViQjNrQkZoeFJHenllVlY1VTJXSkM4NkJkRU93X0JsTlFieFRfdVhMeUNwWHJBcHBOd1B3VEl3Vmw2bGszeXd2blBrY09hbExfQmNCWVJqUW9rS2JJejVLSFdaWFVDSThPQnkxYWpqT0EtQmozOE5xN2hzWWQ?oc=5",
-        "date": "08/17 20:03"
       },
       {
         "type": "positive",
@@ -814,25 +818,25 @@
         "date": "08/18 22:14"
       },
       {
-        "type": "negative",
-        "title": "Top Investors Warn Google Is Now “A Very Different Company” Than It Was 2 Years Ago",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU5nZ3A2RlczT2tEQzZSLVotcnNETFR2QnR3TkJJOGZ1bF81VmZEQnotb3VCUkYzYUJVM21Xc3JnV2sxTXdMT1Y4VldaUDhUQ09zZGxPSFJoeUNacENiTW5hUDB4QXlnc25WeHpTVU9iY0wyeGk4WXU3LThLSXZqZm1HcFdEdlFMQXJPMUowUVlXSGwxNS12b1F3OTlNZVBpWklxb1prcnBqNE15aHNIX2xfTWxNbEdsUVBkblBlYlZ4R2M?oc=5",
-        "date": "08/18 04:50"
+        "type": "neutral",
+        "title": "Alphabet Inc. $GOOGL Shares Acquired by Generali Investments Management Co LLC",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTU5UQmdPQlJibldVNHd5MTlNaDI1Wnh6dFJTd0ZiaXJZYm9oLXBfNVZIZmVOUDJZY1VLTUNWZ2lvV2c3aDFhNEVlMEZ1UE8tWnVrZ2p6QTJUSFlOTkN1WEljemxwZHlrZkFVSHNtd0pIT1NDWXZtcnRLMXpSNTBEd2psc2xkTml2anFqRGFfbmpHYUFoNDg2MHpkRzNRNndSeXlhalJMRzZIcGRQSm5wTFFVSXRDT3R6LWRWR0tHNU1aQ1Awc0ZVYUREOVFTUkQyUGdZ?oc=5",
+        "date": "08/19 16:41"
       },
       {
         "type": "neutral",
-        "title": "Google Plans to Move All Pixel Production Out of China by 2027. What It Means for GOOGL Stock",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU5odnVQSkU1SjRyN3U5R3RIdk9zNk5XYkJwV3NLQzN6VjlSTWtBQjhzVzd4Njl1OUU5U0tfbktJZlluTjg2bnUzSS1wMEVKOGtHc0JDYnNya2xOQzU2cXpXSHp4Smg0VGVIZGRUdG1TM1hnTUJlalJQNi1mWTJXYlI0NUl2SjV0THBEZEdDdm9BZkxNN3FOQmI3ZkFuZW1ybFZ5WEZnOEpjdWJXY1JYckV1SDhqN2hHNVFGMzIzWQ?oc=5",
-        "date": "08/18 14:15"
+        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
+        "date": "08/18 21:10"
       },
       {
-        "type": "negative",
-        "title": "Alphabet Inc. $GOOGL Stock Position Cut by Agate Pass Investment Management LLC",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDVaUXNUMEJzUXFOMWt5Z0ZpYTU0T1N3dEY0RnpZR2NnUlJ4a2ZDcjdhV291M0x2bTJKNzVTSi1aOVMwbGdjWkVMRlhCYktIVmd2OTc2QThiUHZmRXNWSlNGN1dwZGFOT3h3WkQzZU45QVM4Z2dKRmFSeWZkZUhMOU5tOVQ5R0pVZ3YzTHNkUFZJTFFKYnFWckdfRWt5ci1mZGxfY3lxNEwyY2xzeVFVYk16T0ZHNndNN1d4bUhPOExpeUJZdmNPTlV6TnBnWkR1SmVzVQ?oc=5",
-        "date": "08/16 16:16"
+        "type": "neutral",
+        "title": "Hedge Funds Are Divided on MSFT and GOOGL. AVGO Stock Stands Out for the Wrong Reason",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVlDdThpTzhqWmdsb3RqZUVXWGRmZDRIcC1GNWU2UkRwUWtITEJZOXdERlJWblkzY3U2OU5wMm9xOW5uTnpmZWNfU28ta3NBYVV3OVE3M0hfZEt3b0ttaktuWUtFTzBQZUxja0djblJIaWczN18tNjh4WjZMYXpoN3YzV1RjTWZfRzVRM0ZrZS1hM3pkNmFyTF9uSzNfRVExSmJUNlJHeHZseklmOW5jaDR4Q0E?oc=5",
+        "date": "08/18 22:46"
       }
     ],
     "QCOM": [
@@ -844,18 +848,18 @@
         "date": "08/17 05:19"
       },
       {
-        "type": "neutral",
-        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
-        "date": "08/18 00:15"
-      },
-      {
         "type": "positive",
         "title": "Qualcomm (NASDAQ:QCOM): Growth at a Reasonable Price",
         "publisher": "ChartMill",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3dVSFBXdnVBNTlUU0pLMkZJbnJraFZ4R1FqT0k1M0lKRzlnTVlJX3ZTa2N5Yi1QcTBHM05VX0NVUzBvRnIwajhuSzZTUVQ3RUs5ZHFPZl8wSnk0RWI1S1lhSnQ2VndKQUZzLW1SQmhwTks2bEpuOXlLTnhzREZ4Ui0zYUd4SWU0YTJLTWZkM1Bya1ZfQUk2NDlSalVLLWdfeUE?oc=5",
         "date": "08/19 21:11"
+      },
+      {
+        "type": "neutral",
+        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
+        "date": "08/18 00:15"
       },
       {
         "type": "positive",
