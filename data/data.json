@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:16:22.136889+00:00",
+  "updatedAt": "2026-08-19T21:47:25.717128+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1386.29,
-        "change": -1.93
+        "value": 1386.89,
+        "change": -1.89
       },
       {
         "name": "KOSPI",
@@ -560,7 +560,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1386.29
+              1386.89
             ]
           }
         ]
@@ -853,11 +853,11 @@
         "date": "08/18 00:15"
       },
       {
-        "type": "neutral",
-        "title": "Where Will Qualcomm Stock Be in 5 Years?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
-        "date": "08/19 01:00"
+        "type": "positive",
+        "title": "Qualcomm (NASDAQ:QCOM) Shares Up 1.1% - What's Next?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbk01ZTRWZ053TnZYR0REOXRScUlpS1ZucGJJbTduVlJmYmZtTjBaTkxBUlhpdUE3VE1ReWZZeTIyV2tjNmQ3RVJ3UW5KUTZUdVd1aVNPdkE2ZHNvTXRWbnhoVFZ6a2pVMDQxZGJ6bk4zeDhjU2d2RjkwTGc4c2VRTFhMRzE2YjdlUG9JUVVoLXJXWTFBT2t4enVWUGp3dw?oc=5",
+        "date": "08/20 06:44"
       }
     ],
     "VRT": [
@@ -883,11 +883,11 @@
         "date": "08/19 12:39"
       },
       {
-        "type": "neutral",
-        "title": "Diversify Advisory Services LLC Purchases New Shares in Vertiv Holdings Co. $VRT",
+        "type": "negative",
+        "title": "Vertiv (NYSE:VRT) Trading Down 4.1% - Should You Sell?",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkhubEZFWHZNSHMxbUJnN1NRRDFzTHJGMk0xaXBNd0NGZFFkNjlNRjBDV1ktMUJsQ3dpbDBjTXU5NVRIN1ZWX0VwdkZxU2lLbzRfOWEwVnprdVpUbVNrU2pHN1F3UHNfWEUyZ0xKbk1CZlVBRmhtMGU5MHlXTGRrVDRkNkFjRjBydHZudXRta0g5WW9RWUEtS3NPd080SEoxSEZBYjhSR01qeHk2UHJBV0JXRks4WkF0UVAxSEJfd3h0T0E2MEVCb20wUURGM2EtZjNZOXZ3?oc=5",
-        "date": "08/19 17:35"
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFlzOGtjNW1VS1FERnI2WEtscExPNm1aUld5eHV0eTRjZXU1MlV1MXVub2V4aHlSR0RvZG5xekliR05sbHNUQ0NNYTUzTmdNUW9WN1BLdU90eGk1b2FMdUI4SnBFOG5YLU1XckJlVTk5M2x4Q25MdjN3MmdxbUNraXNPaWdhdmxxWWZXWU9vRzZDOVlreWNBOGdVQ0RQY3FwY1E?oc=5",
+        "date": "08/20 06:44"
       }
     ]
   }
