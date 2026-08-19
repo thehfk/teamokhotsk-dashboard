@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-19T19:49:45.246383+00:00",
+  "updatedAt": "2026-08-19T20:15:50.431782+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7706.9,
-        "change": 0.2
+        "value": 7707.98,
+        "change": 0.21
       },
       {
         "name": "NASDAQ",
-        "value": 26317.09,
-        "change": 0.1
+        "value": 26331.09,
+        "change": 0.16
       },
       {
         "name": "다우존스",
-        "value": 53445.86,
-        "change": 0.19
+        "value": 53463.05,
+        "change": 0.22
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.94,
-        "change": -5.68
+        "value": 14.84,
+        "change": -6.31
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1388.0,
-        "change": -1.89
+        "value": 1388.08,
+        "change": -1.8
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "05/19",
           "05/20",
           "05/21",
           "05/22",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7353.61,
               7432.97,
               7445.72,
               7473.47,
@@ -179,13 +177,12 @@
               7785.76,
               7745.06,
               7691.76,
-              7706.9
+              7707.98
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              25870.71,
               26270.36,
               26293.1,
               26343.97,
@@ -248,13 +245,12 @@
               26729.16,
               26644.91,
               26289.71,
-              26317.09
+              26331.09
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              49363.88,
               50009.35,
               50285.66,
               50579.7,
@@ -317,7 +313,7 @@
               53732.41,
               53459.78,
               53343.4,
-              53445.86
+              53463.05
             ]
           }
         ]
@@ -459,7 +455,7 @@
               14.25,
               15.19,
               15.84,
-              14.94
+              14.84
             ]
           }
         ]
@@ -671,7 +667,8 @@
               1416.85,
               1415.37,
               1414.73,
-              1388.0
+              1413.58,
+              1388.08
             ]
           }
         ]
@@ -881,10 +878,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.6,
+    "AVGO": 38.3,
     "GOOGL": 56.1,
     "QCOM": 60.1,
-    "VRT": 64.7
+    "VRT": 64.3
   },
   "news": {
     "AVGO": [
@@ -898,7 +895,7 @@
       {
         "type": "neutral",
         "title": "Marvell (MRVL) or Broadcom (AVGO): TD Cowen Says Buy One Chip Stock, Hold the Other",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWxRdlhpMnVWcGNveUQxeTFpeGlyYng1a2d2ZzNJTHN5SXhSQ0Uybm1qMmdLOHF2TkR3bm5McC1qREJCeVhVT0NIcTlMU2RreGtuY3dhdmszbG9ObjZ1cUxVdTZfMW45a3d0VzRkSURSZHBMdHAwcndocU1zWklsOEoxMF90WVVpYXFkSzRCNVUwYmZZaTAtcGVKTVZNR0ZVeXRsbnRmTTRjZmc?oc=5",
         "date": "08/19 18:40"
       },
