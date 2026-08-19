@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-19T16:53:28.959890+00:00",
+  "updatedAt": "2026-08-19T17:18:14.981935+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7718.81,
+        "value": 7718.54,
         "change": 0.35
       },
       {
         "name": "NASDAQ",
-        "value": 26361.9,
-        "change": 0.27
+        "value": 26345.64,
+        "change": 0.21
       },
       {
         "name": "다우존스",
-        "value": 53443.88,
-        "change": 0.19
+        "value": 53455.22,
+        "change": 0.21
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.16,
-        "change": -4.29
+        "value": 15.18,
+        "change": -4.17
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1388.24,
-        "change": -1.87
+        "value": 1387.93,
+        "change": -1.89
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7785.76,
               7745.06,
               7691.76,
-              7718.81
+              7718.54
             ]
           },
           {
@@ -248,7 +248,7 @@
               26729.16,
               26644.91,
               26289.71,
-              26361.9
+              26345.64
             ]
           },
           {
@@ -317,7 +317,7 @@
               53732.41,
               53459.78,
               53343.4,
-              53443.88
+              53455.22
             ]
           }
         ]
@@ -459,7 +459,7 @@
               14.25,
               15.19,
               15.84,
-              15.16
+              15.18
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1388.24
+              1387.93
             ]
           }
         ]
@@ -881,10 +881,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.8,
-    "GOOGL": 56.0,
+    "AVGO": 39.2,
+    "GOOGL": 55.9,
     "QCOM": 60.8,
-    "VRT": 65.9
+    "VRT": 65.5
   },
   "news": {
     "AVGO": [
@@ -897,10 +897,10 @@
       },
       {
         "type": "neutral",
-        "title": "AVGO Stock Price Forecast: What Technical Analysis Says Right Now",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVc2SmZCTTI2aU5mTnFwZVZMQkRDNWl6S3FLeTdkczI4VWFhY3NBbDE4RVV3eGZiUFdENVRlSkJsUGswdEFIR3BIRlB0ZEswUVRHTUN2T0VTU0dMa0JiWFUwRXI1bnFBdksxZGlLTUgwQWs3SW9EbGJ3bjhvVXBOQ0JUdFhheTRWbWg1b0c5T2h5TDJlYnFweWJR?oc=5",
-        "date": "08/19 19:49"
+        "title": "Marvell (MRVL) or Broadcom (AVGO): TD Cowen Says Buy One Chip Stock, Hold the Other",
+        "publisher": "tipranks.com",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWxRdlhpMnVWcGNveUQxeTFpeGlyYng1a2d2ZzNJTHN5SXhSQ0Uybm1qMmdLOHF2TkR3bm5McC1qREJCeVhVT0NIcTlMU2RreGtuY3dhdmszbG9ObjZ1cUxVdTZfMW45a3d0VzRkSURSZHBMdHAwcndocU1zWklsOEoxMF90WVVpYXFkSzRCNVUwYmZZaTAtcGVKTVZNR0ZVeXRsbnRmTTRjZmc?oc=5",
+        "date": "08/19 18:40"
       },
       {
         "type": "neutral",
@@ -928,7 +928,7 @@
       {
         "type": "negative",
         "title": "Top Investors Warn Google Is Now “A Very Different Company” Than It Was 2 Years Ago",
-        "publisher": "247wallst.com",
+        "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU5nZ3A2RlczT2tEQzZSLVotcnNETFR2QnR3TkJJOGZ1bF81VmZEQnotb3VCUkYzYUJVM21Xc3JnV2sxTXdMT1Y4VldaUDhUQ09zZGxPSFJoeUNacENiTW5hUDB4QXlnc25WeHpTVU9iY0wyeGk4WXU3LThLSXZqZm1HcFdEdlFMQXJPMUowUVlXSGwxNS12b1F3OTlNZVBpWklxb1prcnBqNE15aHNIX2xfTWxNbEdsUVBkblBlYlZ4R2M?oc=5",
         "date": "08/18 04:50"
       },
@@ -942,7 +942,7 @@
       {
         "type": "neutral",
         "title": "Hedge Funds Are Divided on MSFT and GOOGL. AVGO Stock Stands Out for the Wrong Reason",
-        "publisher": "TipRanks",
+        "publisher": "tipranks.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVlDdThpTzhqWmdsb3RqZUVXWGRmZDRIcC1GNWU2UkRwUWtITEJZOXdERlJWblkzY3U2OU5wMm9xOW5uTnpmZWNfU28ta3NBYVV3OVE3M0hfZEt3b0ttaktuWUtFTzBQZUxja0djblJIaWczN18tNjh4WjZMYXpoN3YzV1RjTWZfRzVRM0ZrZS1hM3pkNmFyTF9uSzNfRVExSmJUNlJHeHZseklmOW5jaDR4Q0E?oc=5",
         "date": "08/18 22:46"
       }
@@ -951,7 +951,7 @@
       {
         "type": "positive",
         "title": "Qualcomm Stock Is Down While Its Car Silicon Target Went Up",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjdCSmNrUXRad2ZHd3dnSUVaMlBnZnZwb0Rid2k4TU9kWjhHclBiUWJTMmF0R1Bka00wZDBfTnFGb08zZnBoOTBoNnNob1c0cTVKZnNnTzlEdmxSb19lM0VwRndWU3lsX19mLVFHVXNGeGlYdnB4QnRlYXphNVdQSHk5Zy1UMVZLd1FDeWkybWhtWnBQeExMVGV1QkZwaGFUYmZhTlBIc0lsM2JabjU0QmtUbTNkSnotYmJXTQ?oc=5",
         "date": "08/19 22:23"
       },
@@ -988,14 +988,14 @@
       {
         "type": "negative",
         "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "quiverquant.com",
+        "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
         "date": "08/19 00:36"
       },
       {
         "type": "negative",
         "title": "VRT Stock: Earn 11% Annualized, Or Buy In 50% Lower",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeW84SXUzZUgxeVlWU1g1M1VSTFh3V0U0QUo1WFhhcXJqQkRGdTBVRm1fLWRQZkFTRWp5cVV3NXc0bDRoUGlPaEtNa3p5UGhfT1FXRHAwclRSZmVTMWJ1dWpYUldFclNIN2M2NzNlNDJpbzI5a2ZBZ1RZX0JfYXB0YUFUcWlSWEVVNWpnZGJMQmhaNXBOTTVvYm1zUDAzV1RSNTFWTFBrcjJQMG8wNGJHMzBpVVl6STA?oc=5",
         "date": "08/19 12:39"
       },
