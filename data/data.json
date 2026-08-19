@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-19T18:19:01.160203+00:00",
+  "updatedAt": "2026-08-19T19:00:04.637025+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7713.14,
-        "change": 0.28
+        "value": 7714.57,
+        "change": 0.3
       },
       {
         "name": "NASDAQ",
-        "value": 26318.91,
-        "change": 0.11
+        "value": 26334.92,
+        "change": 0.17
       },
       {
         "name": "다우존스",
-        "value": 53466.28,
-        "change": 0.23
+        "value": 53436.69,
+        "change": 0.17
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.08,
-        "change": -4.8
+        "value": 15.05,
+        "change": -4.99
       },
       {
         "name": "미국10년금리",
@@ -29,7 +29,7 @@
       },
       {
         "name": "원달러환율",
-        "value": 1387.8,
+        "value": 1387.83,
         "change": -1.9
       },
       {
@@ -89,15 +89,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -158,15 +155,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -179,7 +173,7 @@
               7785.76,
               7745.06,
               7691.76,
-              7713.14
+              7714.57
             ]
           },
           {
@@ -227,15 +221,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -248,7 +239,7 @@
               26729.16,
               26644.91,
               26289.71,
-              26318.91
+              26334.92
             ]
           },
           {
@@ -296,15 +287,12 @@
               52552.97,
               52146.42,
               51839.26,
-              52224.64,
-              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
-              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -317,7 +305,7 @@
               53732.41,
               53459.78,
               53343.4,
-              53466.28
+              53436.69
             ]
           }
         ]
@@ -368,15 +356,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -438,15 +423,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -459,7 +441,7 @@
               14.25,
               15.19,
               15.84,
-              15.08
+              15.05
             ]
           }
         ]
@@ -467,57 +449,12 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "05/19",
-          "05/20",
-          "05/21",
-          "05/22",
-          "05/26",
-          "05/27",
-          "05/28",
-          "05/29",
-          "06/01",
-          "06/02",
-          "06/03",
-          "06/04",
-          "06/05",
-          "06/08",
-          "06/09",
-          "06/10",
-          "06/11",
-          "06/12",
-          "06/15",
-          "06/16",
-          "06/17",
-          "06/18",
-          "06/22",
-          "06/23",
-          "06/24",
-          "06/25",
-          "06/26",
-          "06/29",
-          "06/30",
-          "07/01",
-          "07/02",
-          "07/06",
-          "07/07",
-          "07/08",
-          "07/09",
-          "07/10",
-          "07/13",
-          "07/14",
-          "07/15",
-          "07/16",
-          "07/17",
-          "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -536,57 +473,12 @@
           {
             "name": "미국10년금리",
             "data": [
-              4.67,
-              4.57,
-              4.59,
-              4.56,
-              4.49,
-              4.48,
-              4.45,
-              4.45,
-              4.47,
-              4.45,
-              4.49,
-              4.48,
-              4.54,
-              4.55,
-              4.53,
-              4.54,
-              4.46,
-              4.49,
-              4.47,
-              4.43,
-              4.46,
-              4.45,
-              4.51,
-              4.49,
-              4.4,
-              4.39,
-              4.37,
-              4.37,
-              4.42,
-              4.47,
-              4.49,
-              4.48,
-              4.53,
-              4.57,
-              4.54,
-              4.57,
-              4.61,
-              4.59,
-              4.55,
-              4.57,
-              4.54,
-              4.6,
-              4.63,
-              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
-              4.74,
               4.69,
               4.63,
               4.62,
@@ -671,7 +563,7 @@
               1416.85,
               1415.37,
               1414.73,
-              1387.8
+              1387.83
             ]
           }
         ]
@@ -721,15 +613,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -788,15 +677,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -863,13 +749,13 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65,
@@ -881,10 +767,10 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.4,
-    "GOOGL": 55.6,
-    "QCOM": 60.1,
-    "VRT": 65.0
+    "AVGO": 38.9,
+    "GOOGL": 56.0,
+    "QCOM": 60.7,
+    "VRT": 64.4
   },
   "news": {
     "AVGO": [
@@ -897,10 +783,10 @@
       },
       {
         "type": "neutral",
-        "title": "AVGO Stock Price Forecast: What Technical Analysis Says Right Now",
+        "title": "Marvell (MRVL) or Broadcom (AVGO): TD Cowen Says Buy One Chip Stock, Hold the Other",
         "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVc2SmZCTTI2aU5mTnFwZVZMQkRDNWl6S3FLeTdkczI4VWFhY3NBbDE4RVV3eGZiUFdENVRlSkJsUGswdEFIR3BIRlB0ZEswUVRHTUN2T0VTU0dMa0JiWFUwRXI1bnFBdksxZGlLTUgwQWs3SW9EbGJ3bjhvVXBOQ0JUdFhheTRWbWg1b0c5T2h5TDJlYnFweWJR?oc=5",
-        "date": "08/19 19:49"
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWxRdlhpMnVWcGNveUQxeTFpeGlyYng1a2d2ZzNJTHN5SXhSQ0Uybm1qMmdLOHF2TkR3bm5McC1qREJCeVhVT0NIcTlMU2RreGtuY3dhdmszbG9ObjZ1cUxVdTZfMW45a3d0VzRkSURSZHBMdHAwcndocU1zWklsOEoxMF90WVVpYXFkSzRCNVUwYmZZaTAtcGVKTVZNR0ZVeXRsbnRmTTRjZmc?oc=5",
+        "date": "08/19 18:40"
       },
       {
         "type": "negative",
@@ -911,10 +797,10 @@
       },
       {
         "type": "neutral",
-        "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTBLN1pxTEV6Qk92RC1udXZRT0JkVG5uV0w2VTVNODRxM01DSS1pTVEwLVFQRjNSWmlqZzFROWVobHBmMVdHaGxSYzlITlhlYTV3V0VNc2dKOWsyU1Zxcm5wczM3X1Vjc1huMmJwUjVkRkpDZVRxbWh1clpSXzc5UWptY2NQXzZkaG5aZ3pRc0U4NDBrai1QTHJZbjZ6Z1otdDU0Y1M2eHBJamVoZ0ZaOEVnQndkYWNha2lZeQ?oc=5",
-        "date": "08/19 02:30"
+        "title": "Unfortunate News for Broadcom Stock Investors",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUlWeWlaQU5SSFJMcEFEVG11X1BMZHk0ZmxxdUVZUDAzSUw3TWxiSXNuTWpjYkl2U0pIb2xMd0s1TjJUNzVfel92WmpNSmNlTG9DYmQxd3VVMTViN2VRSGlVQnZ2MUtJWFY1T3Q4ZmpiSXBGc2RNelNYYnBNejBOVjktbURJM3ZrWVBvcDZHRTQzdw?oc=5",
+        "date": "08/19 13:40"
       }
     ],
     "GOOGL": [
@@ -972,7 +858,7 @@
       {
         "type": "neutral",
         "title": "Where Will Qualcomm Stock Be in 5 Years?",
-        "publisher": "fool.com",
+        "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
         "date": "08/19 01:00"
       }
