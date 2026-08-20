@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T00:38:43.968576+00:00",
+  "updatedAt": "2026-08-20T02:11:04.464052+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1387.58,
-        "change": -1.84
+        "value": 1393.99,
+        "change": -1.39
       },
       {
         "name": "KOSPI",
-        "value": 6707.68,
-        "change": -2.36
+        "value": 6868.93,
+        "change": 6.15
       },
       {
         "name": "KOSDAQ",
-        "value": 838.71,
-        "change": 0.54
+        "value": 842.61,
+        "change": 2.2
       }
     ],
     "groups": [
@@ -559,7 +559,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1387.58
+              1393.99
             ]
           }
         ]
@@ -608,12 +608,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -625,6 +628,7 @@
           "08/13",
           "08/14",
           "08/18",
+          "08/19",
           "08/20"
         ],
         "series": [
@@ -672,12 +676,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -689,7 +696,8 @@
               6813.34,
               6977.94,
               6869.83,
-              6707.68
+              6471.17,
+              6868.93
             ]
           },
           {
@@ -755,7 +763,8 @@
               861.37,
               864.65,
               834.2,
-              838.71
+              824.46,
+              842.61
             ]
           }
         ]
@@ -772,10 +781,10 @@
     "AVGO": [
       {
         "type": "negative",
-        "title": "AVGO Stock Rebounds After Worst Drop In Two Months: Retail Traders Look Past VMware Worry, Bet On Rebound",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOU5UVE1fd2J6Y19LY1Excm1nb1YwdnUwUEZOWExkUXgwVUVoMVZtMmN5d3FoN2pGaFVtTnV6ejJ5WERqZUpjSTZaSEpZbUxGOGNDTi1DbGFTVmRmSzJlcHJNeVFOeHNyQW8yWThIVl9jNldDd0RJWGV3djE0NXMtNjdWcW1yb2pIWHZ6V1BmMXVZRnpYUjg1X1FSVQ?oc=5",
-        "date": "08/17 13:29"
+        "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
+        "publisher": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZjUnVYcG1EbFpjV1c5b3FPajJtZ0hCLUJmdTdubnJ0VVRQR0VNYi1Mek9kdXhVS3ZsdHA0Y3NWbkhWcmRHRXBVZ2FYVTJCZlFmMVdsLWl2VXoxRGs2Zi1WblZFSC1Ga3FIV1M4Z0pTT29JaHRoQVdiQks4TXE4TG96VFh0ZEJZU2V3Qy1oYXlIaGM3bnRRNF9hRHlCREdDOGxNcGRRcjlhN2lteFNrZA?oc=5",
+        "date": "08/20 06:26"
       },
       {
         "type": "neutral",
@@ -785,18 +794,18 @@
         "date": "08/19 18:40"
       },
       {
-        "type": "neutral",
-        "title": "Why Broadcom Stock Crashed Today",
+        "type": "negative",
+        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1BhN2plcEJ5MENBNUlJZk9Md1NyVzJSa0FHdHFETjdoelE2VFdBZ0EzVTlvNVNMZ3E5QnczTjNmSTVZQTZkeTRWOEhXb0dmR3k0Z3BiYmhURWpKblBLXzQwS1RLekU0QUtIMnZiT3dDa2t5S2hYb1hLVktRS09yYlJkbE1oNGlTRHAyeG5tSHduWkQyUmJwX3MyOUlIZw?oc=5",
-        "date": "08/20 01:19"
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
+        "date": "08/20 07:06"
       },
       {
-        "type": "negative",
-        "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
-        "publisher": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZjUnVYcG1EbFpjV1c5b3FPajJtZ0hCLUJmdTdubnJ0VVRQR0VNYi1Mek9kdXhVS3ZsdHA0Y3NWbkhWcmRHRXBVZ2FYVTJCZlFmMVdsLWl2VXoxRGs2Zi1WblZFSC1Ga3FIV1M4Z0pTT29JaHRoQVdiQks4TXE4TG96VFh0ZEJZU2V3Qy1oYXlIaGM3bnRRNF9hRHlCREdDOGxNcGRRcjlhN2lteFNrZA?oc=5",
-        "date": "08/20 06:26"
+        "type": "neutral",
+        "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTBLN1pxTEV6Qk92RC1udXZRT0JkVG5uV0w2VTVNODRxM01DSS1pTVEwLVFQRjNSWmlqZzFROWVobHBmMVdHaGxSYzlITlhlYTV3V0VNc2dKOWsyU1Zxcm5wczM3X1Vjc1huMmJwUjVkRkpDZVRxbWh1clpSXzc5UWptY2NQXzZkaG5aZ3pRc0U4NDBrai1QTHJZbjZ6Z1otdDU0Y1M2eHBJamVoZ0ZaOEVnQndkYWNha2lZeQ?oc=5",
+        "date": "08/19 02:30"
       }
     ],
     "GOOGL": [
@@ -808,11 +817,11 @@
         "date": "08/18 15:47"
       },
       {
-        "type": "negative",
-        "title": "Top Investors Warn Google Is Now “A Very Different Company” Than It Was 2 Years Ago",
-        "publisher": "247wallst.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU5nZ3A2RlczT2tEQzZSLVotcnNETFR2QnR3TkJJOGZ1bF81VmZEQnotb3VCUkYzYUJVM21Xc3JnV2sxTXdMT1Y4VldaUDhUQ09zZGxPSFJoeUNacENiTW5hUDB4QXlnc25WeHpTVU9iY0wyeGk4WXU3LThLSXZqZm1HcFdEdlFMQXJPMUowUVlXSGwxNS12b1F3OTlNZVBpWklxb1prcnBqNE15aHNIX2xfTWxNbEdsUVBkblBlYlZ4R2M?oc=5",
-        "date": "08/18 04:50"
+        "type": "neutral",
+        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
+        "date": "08/18 21:10"
       },
       {
         "type": "negative",
