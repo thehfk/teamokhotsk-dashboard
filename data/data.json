@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-20T16:24:32.890736+00:00",
+  "updatedAt": "2026-08-20T16:59:05.066182+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7677.88,
-        "change": -0.39
+        "value": 7681.06,
+        "change": -0.35
       },
       {
         "name": "NASDAQ",
-        "value": 26117.7,
-        "change": -0.81
+        "value": 26149.16,
+        "change": -0.69
       },
       {
         "name": "다우존스",
-        "value": 53008.32,
-        "change": -0.85
+        "value": 53045.3,
+        "change": -0.78
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.89,
-        "change": 6.72
+        "value": 15.67,
+        "change": 5.24
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1394.91,
-        "change": -1.32
+        "value": 1394.8,
+        "change": -1.33
       },
       {
         "name": "KOSPI",
@@ -173,7 +173,7 @@
               7745.06,
               7691.76,
               7707.98,
-              7677.88
+              7681.06
             ]
           },
           {
@@ -239,7 +239,7 @@
               26644.91,
               26289.71,
               26331.09,
-              26117.7
+              26149.16
             ]
           },
           {
@@ -305,7 +305,7 @@
               53459.78,
               53343.4,
               53463.05,
-              53008.32
+              53045.3
             ]
           }
         ]
@@ -441,7 +441,7 @@
               15.19,
               15.84,
               14.89,
-              15.89
+              15.67
             ]
           }
         ]
@@ -449,56 +449,12 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "05/20",
-          "05/21",
-          "05/22",
-          "05/26",
-          "05/27",
-          "05/28",
-          "05/29",
-          "06/01",
-          "06/02",
-          "06/03",
-          "06/04",
-          "06/05",
-          "06/08",
-          "06/09",
-          "06/10",
-          "06/11",
-          "06/12",
-          "06/15",
-          "06/16",
-          "06/17",
-          "06/18",
-          "06/22",
-          "06/23",
-          "06/24",
-          "06/25",
-          "06/26",
-          "06/29",
-          "06/30",
-          "07/01",
-          "07/02",
-          "07/06",
-          "07/07",
-          "07/08",
-          "07/09",
-          "07/10",
-          "07/13",
-          "07/14",
-          "07/15",
-          "07/16",
-          "07/17",
-          "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -518,56 +474,12 @@
           {
             "name": "미국10년금리",
             "data": [
-              4.57,
-              4.59,
-              4.56,
-              4.49,
-              4.48,
-              4.45,
-              4.45,
-              4.47,
-              4.45,
-              4.49,
-              4.48,
-              4.54,
-              4.55,
-              4.53,
-              4.54,
-              4.46,
-              4.49,
-              4.47,
-              4.43,
-              4.46,
-              4.45,
-              4.51,
-              4.49,
-              4.4,
-              4.39,
-              4.37,
-              4.37,
-              4.42,
-              4.47,
-              4.49,
-              4.48,
-              4.53,
-              4.57,
-              4.54,
-              4.57,
-              4.61,
-              4.59,
-              4.55,
-              4.57,
-              4.54,
-              4.6,
-              4.63,
-              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
-              4.74,
               4.69,
               4.63,
               4.62,
@@ -653,7 +565,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1394.91
+              1394.8
             ]
           }
         ]
@@ -857,11 +769,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.6,
-    "BE": 47.6,
-    "GOOGL": 39.2,
+    "AVGO": 38.3,
+    "BE": 47.5,
+    "GOOGL": 39.7,
     "QCOM": 66.4,
-    "VRT": 57.6
+    "VRT": 58.1
   },
   "news": {
     "AVGO": [
@@ -941,33 +853,33 @@
       },
       {
         "type": "neutral",
-        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
-        "date": "08/18 21:10"
-      },
-      {
-        "type": "neutral",
         "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
         "date": "08/21 01:18"
+      },
+      {
+        "type": "neutral",
+        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
+        "date": "08/18 21:10"
       }
     ],
     "QCOM": [
+      {
+        "type": "positive",
+        "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
+        "publisher": "Yahoo Finance Singapore",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40aVE2dHdSaTdfYkVNSzFvcThFeDhYRnhzSkRsWTFuOW1VSUVoNEpNSlZWc3ZaRllfd0JMczN5VFUyVHBQQmFpckpaZjZvZ1FtRV9pVEVoNkVqWWh2YUFVRlU2VVByeEVrWG9vQVRVcmVkN25nT2NNYUIySQ?oc=5",
+        "date": "08/21 00:09"
+      },
       {
         "type": "positive",
         "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
         "date": "08/20 18:08"
-      },
-      {
-        "type": "neutral",
-        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
-        "date": "08/18 00:15"
       },
       {
         "type": "neutral",
