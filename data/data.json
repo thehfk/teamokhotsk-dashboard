@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T21:51:12.083935+00:00",
+  "updatedAt": "2026-08-20T22:16:23.058245+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1393.81,
-        "change": 0.32
+        "value": 1394.02,
+        "change": 0.33
       },
       {
         "name": "KOSPI",
@@ -87,12 +87,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -152,12 +155,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -217,12 +223,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -282,12 +291,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -351,12 +363,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -418,12 +433,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -650,7 +668,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1393.81
+              1394.02
             ]
           }
         ]
@@ -699,12 +717,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -763,12 +784,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -835,13 +859,13 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65,
@@ -954,24 +978,17 @@
     "QCOM": [
       {
         "type": "positive",
-        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
+        "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUlBVzQzNTc3MGc5MVVMcDZsa2xIQzJHZ2RTWjZ5MHFQX19ieFZKYTJ3eFUzYTdKRWlKWnVGdHN2OGdyYldaYkxVZnI0RFZoQmVOWWdiUGpvTU9VS1RlWFBmQ0gwRDAxOW5yM0oxeUVfQmVITXFSeGM0b1pBdnUyZmQ3V19KUE9BS1NVeGFmQk1wS0VRNU5BUlRFRQ?oc=5",
-        "date": "08/20 22:49"
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
+        "date": "08/21 00:09"
       },
       {
         "type": "positive",
-        "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
-        "publisher": "Zacks Investment Research",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2hGYjhNRFQ5TFZxYkpVZUNGdnZhbVh2aEZMeFZDUUdiMXpPd3NHTXNyd0JBWFZJN1lLdnFKc3ZXS0RMTU9heTFfLXFLMnRLRndVSXRyVW9leHZrVUp0bmNhUV9kb1RkQ0xtY2FzYlJSeUJSNU1RNGdHYkZzYlVhcjJBakpwYmNVMUlRRUpWdDdjMzNTd29lNEt3bzlvQlJaRjAyTzVUMFRkQQ?oc=5",
-        "date": "08/21 00:00"
-      },
-      {
-        "type": "neutral",
-        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
-        "date": "08/17 05:19"
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
+        "date": "08/20 18:08"
       },
       {
         "type": "neutral",
@@ -979,6 +996,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
         "date": "08/19 01:00"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/18 23:39"
       }
     ],
     "VRT": [
@@ -988,6 +1012,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
         "date": "08/17 21:09"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv (NYSE:VRT) Shares Up 1.2% - Here's Why",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU1l6bzk2UlN0Z2ZNV0cwcHVWWXFValY4NWpBZ1BrNHFPcDdPbV9zdjZZTnFSaTdzV1lNZHRqcEpjRlk4X2JuRVNuUmJNanVaZ0FTeG1ZbTBTNndGcnZqalA5Q3RkaTFGYXFaVVFYMWROb193RDRqNTh2aXBuazIwZkt6SU9CWmtGOXBMcXhfM3NIVzhBM0E?oc=5",
+        "date": "08/21 06:51"
       },
       {
         "type": "neutral",
@@ -1002,13 +1033,6 @@
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
         "date": "08/19 00:36"
-      },
-      {
-        "type": "negative",
-        "title": "Vertiv Holdings Co (VRT) Stock Down 4.2% but Still Overvalued -- GF Score: 86/100",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzR0VE1CSHRCUGF0YzhjQURxZDdOdF9pWjFHSXo4YTZxdnltZUZOaGw4bWNCRWNvaS01b29tNmxsLW02Ujl0UjZpc1JDbzNuT3YyeUZENzB1UVJmM2taR25MMkoxYU8tT2JmMl9Eak1JdUdpZnFPTGNiWGVvT3NjX1R5akU4ZUNvWGtsZk4tVnJBQm5qZllnYmVHbmNXN1BZUlZZQWU0Z052WG1DLWJQbA?oc=5",
-        "date": "08/20 07:01"
       }
     ]
   }
