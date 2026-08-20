@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T20:53:11.531849+00:00",
+  "updatedAt": "2026-08-20T21:18:19.138059+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1393.7,
-        "change": 0.31
+        "value": 1394.05,
+        "change": 0.33
       },
       {
         "name": "KOSPI",
@@ -668,7 +668,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1393.7
+              1394.05
             ]
           }
         ]
@@ -887,13 +887,6 @@
   "news": {
     "AVGO": [
       {
-        "type": "neutral",
-        "title": "The Line In The Sand For AVGO Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLVEwZ3JoNEVTZl84T0NqcmJzS1N5YzFKcm5NNmNkc2RDbTJxWF81b1RhRnNsdnZ4eG5YRVFSaW0yY2VIdmd0UUgyUGViYlJmSTBXdEN2bnk0M2RPQ0Z5dlA3QjlzWEduLUhHbGJZeVJyVjNNT2dQLUpfM1JoSzlxRmlZOHJuNkY3SVpvMDhSNU4?oc=5",
-        "date": "08/21 04:56"
-      },
-      {
         "type": "positive",
         "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
         "publisher": "Yahoo Finance",
@@ -909,10 +902,17 @@
       },
       {
         "type": "neutral",
-        "title": "NVIDIA vs. Broadcom: The AI Stock You Should Buy Right Now",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWtEOW42WUpTT3QwSFg5VnkwVUJqMDJWTmNVZWxqZGZSMnhweVZuMEQ5X0U2NmtUWTNzQ2thSEF4S0g4VlJza3VwMEVxaEZMMHpubGpsRXdLUGN2NzRiZTJySE94MUhDeVNIM1kwVTN0WEN0UDB5OGZWRjc0RGJEM2R3NUlFNDRmWkxzQ3dubE1PTjNpUE0wVWhGUXc2RkttWFJ3elZPdE95RFZidlNnOG93?oc=5",
-        "date": "08/20 04:00"
+        "title": "The Line In The Sand For AVGO Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
+        "date": "08/21 04:56"
+      },
+      {
+        "type": "positive",
+        "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMi1GeFJHdzdUbmhncEozNGRqSDZGQldHT19Penp3RGhSYkJvV3JLc3Y4NWE4clIwU21CSG5sSjhhSTVjSURJV0NxdzNEVFVnSzNqUEdGdjN3WkpDcG8zMDNCZFJEWDFzX05VX2tjaWhqUDF4TWdUVmxuR1hLNXpIRkpUaTJWOGltNDlFVURvMm9yN21RS0VMZDJvVkNtSDhudnkwX3h5MVNibWlSeF84TUdiT09qQl9pTFNuOUZmUGhHNWlnR2NxSHg1NnlPNEdEcXQwcmhGV0x3SjR6NHNObE92WEwtRHdraGc?oc=5",
+        "date": "08/20 18:05"
       }
     ],
     "BE": [
@@ -1014,18 +1014,18 @@
         "date": "08/17 21:09"
       },
       {
-        "type": "negative",
-        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
-        "date": "08/19 00:36"
-      },
-      {
         "type": "neutral",
         "title": "Here’s How Much You Would Have Made Owning Vertiv Holdings Stock In The Last 5 Years",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSl9IWEJESGNVVXljQUJVcm5aZTZjUlpCUzVYem5yVENGRUtUOGRrUHZCY1M5SjRFNWxvR0txaTFkenlVQmhwa1hYSGd0dnQ2VmtiVDNXNTl2Z3FlbE5QMmJNa2xUQkY4WU5nMU5kbnRLQVpUb3B3ZEU1MkM3TkYyMGZXUDVsNDU1M2d3bWhZS2t3SUNucGY0c1owZkJEaEgxeEsyOThhcnVoVFRLSTRyNEtmbmpXZXFLR0NfeFQtbw?oc=5",
         "date": "08/21 05:15"
+      },
+      {
+        "type": "negative",
+        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
+        "date": "08/19 00:36"
       },
       {
         "type": "negative",
