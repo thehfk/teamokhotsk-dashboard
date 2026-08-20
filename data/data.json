@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T23:43:43.275586+00:00",
+  "updatedAt": "2026-08-20T00:38:43.968576+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1389.24,
-        "change": -1.72
+        "value": 1387.58,
+        "change": -1.84
       },
       {
         "name": "KOSPI",
-        "value": 6869.83,
-        "change": -1.55
+        "value": 6707.68,
+        "change": -2.36
       },
       {
         "name": "KOSDAQ",
-        "value": 834.2,
-        "change": -3.52
+        "value": 838.71,
+        "change": 0.54
       }
     ],
     "groups": [
@@ -559,7 +559,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1389.24
+              1387.58
             ]
           }
         ]
@@ -567,7 +567,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "05/19",
           "05/20",
           "05/21",
           "05/22",
@@ -625,13 +624,13 @@
           "08/12",
           "08/13",
           "08/14",
-          "08/18"
+          "08/18",
+          "08/20"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              7271.66,
               7208.95,
               7815.59,
               7847.71,
@@ -689,13 +688,13 @@
               6579.04,
               6813.34,
               6977.94,
-              6869.83
+              6869.83,
+              6707.68
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              1084.36,
               1056.07,
               1105.97,
               1161.13,
@@ -755,7 +754,8 @@
               858.91,
               861.37,
               864.65,
-              834.2
+              834.2,
+              838.71
             ]
           }
         ]
@@ -794,25 +794,25 @@
       {
         "type": "negative",
         "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
-        "publisher": "marketwatch.com",
+        "publisher": "MarketWatch",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZjUnVYcG1EbFpjV1c5b3FPajJtZ0hCLUJmdTdubnJ0VVRQR0VNYi1Mek9kdXhVS3ZsdHA0Y3NWbkhWcmRHRXBVZ2FYVTJCZlFmMVdsLWl2VXoxRGs2Zi1WblZFSC1Ga3FIV1M4Z0pTT29JaHRoQVdiQks4TXE4TG96VFh0ZEJZU2V3Qy1oYXlIaGM3bnRRNF9hRHlCREdDOGxNcGRRcjlhN2lteFNrZA?oc=5",
         "date": "08/20 06:26"
       }
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "Wall Street clearly loves Google stock, 13F filings reveal",
+        "type": "positive",
+        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHN2MGZqTW1VUURKeDQ5UUJ1cXVUNmpNQWhSTkVGaGE4ejdjRDBtemRsMlhyYUtiUkJvWG1WS28tQzNzVnJyV25halNWX3NKeE1INnVrWERwYmF4SExLTENBY2RHcTJObXgxSmVXRV9mVy1zNTIybzloYTJ4cXlhYlFCTWpuczZjUEZCelR4NW5paHhoSnJ3UXlyYTN3ZjdRc1RYU2hRUXYwb2lndjliOVhUUkVaZkRqMXE3Q3F3?oc=5",
-        "date": "08/18 22:14"
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnBhc0RBRzlIakZLUDlBZXZObUg4X0RsazJvYmxYd0hrM01wVFZoQzZRaFdoYUtNamNPU29BOU5RVnZwMi1EaUxFWEgwWF9UVWVicDQ3SURZX1NocFpGT29YR1RHMko1ZVM4bDJLQmNqbDNaUzBPTjV3Qk01Q2M2VUVla1diS1FLTFhrYzNmVmh5bzY0Q3JYY3FHRGdpa2hIN045LVJhUmwydw?oc=5",
+        "date": "08/18 15:47"
       },
       {
-        "type": "neutral",
-        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
+        "type": "negative",
+        "title": "Top Investors Warn Google Is Now “A Very Different Company” Than It Was 2 Years Ago",
         "publisher": "247wallst.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
-        "date": "08/18 21:10"
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU5nZ3A2RlczT2tEQzZSLVotcnNETFR2QnR3TkJJOGZ1bF81VmZEQnotb3VCUkYzYUJVM21Xc3JnV2sxTXdMT1Y4VldaUDhUQ09zZGxPSFJoeUNacENiTW5hUDB4QXlnc25WeHpTVU9iY0wyeGk4WXU3LThLSXZqZm1HcFdEdlFMQXJPMUowUVlXSGwxNS12b1F3OTlNZVBpWklxb1prcnBqNE15aHNIX2xfTWxNbEdsUVBkblBlYlZ4R2M?oc=5",
+        "date": "08/18 04:50"
       },
       {
         "type": "negative",
