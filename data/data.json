@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-20T15:02:04.021489+00:00",
+  "updatedAt": "2026-08-20T15:56:00.726969+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7697.91,
-        "change": -0.13
+        "value": 7678.51,
+        "change": -0.38
       },
       {
         "name": "NASDAQ",
-        "value": 26199.77,
-        "change": -0.5
+        "value": 26103.04,
+        "change": -0.87
       },
       {
         "name": "다우존스",
-        "value": 53171.0,
-        "change": -0.55
+        "value": 53030.21,
+        "change": -0.81
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.69,
-        "change": 5.37
+        "value": 15.9,
+        "change": 6.78
       },
       {
         "name": "미국10년금리",
-        "value": 4.69,
-        "change": 0.86
+        "value": 4.71,
+        "change": 1.29
       },
       {
         "name": "원달러환율",
-        "value": 1392.59,
-        "change": -1.48
+        "value": 1393.28,
+        "change": -1.44
       },
       {
         "name": "KOSPI",
@@ -88,12 +88,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -154,12 +157,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -173,7 +179,7 @@
               7745.06,
               7691.76,
               7707.98,
-              7697.91
+              7678.51
             ]
           },
           {
@@ -242,7 +248,7 @@
               26644.91,
               26289.71,
               26331.09,
-              26199.77
+              26103.04
             ]
           },
           {
@@ -311,7 +317,7 @@
               53459.78,
               53343.4,
               53463.05,
-              53171.0
+              53030.21
             ]
           }
         ]
@@ -361,12 +367,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -428,12 +437,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -447,7 +459,7 @@
               15.19,
               15.84,
               14.89,
-              15.69
+              15.9
             ]
           }
         ]
@@ -587,7 +599,7 @@
               4.72,
               4.71,
               4.65,
-              4.69
+              4.71
             ]
           },
           {
@@ -659,7 +671,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1392.59
+              1393.28
             ]
           }
         ]
@@ -857,7 +869,6 @@
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65,
@@ -870,11 +881,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 39.6,
-    "BE": 49.0,
-    "GOOGL": 39.9,
-    "QCOM": 67.2,
-    "VRT": 58.9
+    "AVGO": 38.4,
+    "BE": 47.4,
+    "GOOGL": 38.7,
+    "QCOM": 66.4,
+    "VRT": 57.6
   },
   "news": {
     "AVGO": [
@@ -897,7 +908,7 @@
         "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMi1GeFJHdzdUbmhncEozNGRqSDZGQldHT19Penp3RGhSYkJvV3JLc3Y4NWE4clIwU21CSG5sSjhhSTVjSURJV0NxdzNEVFVnSzNqUEdGdjN3WkpDcG8zMDNCZFJEWDFzX05VX2tjaWhqUDF4TWdUVmxuR1hLNXpIRkpUaTJWOGltNDlFVURvMm9yN21RS0VMZDJvVkNtSDhudnkwX3h5MVNibWlSeF84TUdiT09qQl9pTFNuOUZmUGhHNWlnR2NxSHg1NnlPNEdEcXQwcmhGV0x3SjR6NHNObE92WEwtRHdraGc?oc=5",
-        "date": "08/20 10:28"
+        "date": "08/20 23:02"
       },
       {
         "type": "neutral",
@@ -939,18 +950,18 @@
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnp1aWNFWG44aVVkazJPR1JJY2lBcTJrTmFENWxFSWxCNWRULTRteFdfcDhOM1YySjdQVGhMMExobHVVa21yRUo3enFBLVJMUVRiVXV0TFVJM3o3S00yNDFhNXp0eXRzRmJDb1I2YW1LdFpOWXNuQzN3c2lvYXlTSWZidVlCNmR0QjBkT1lnV0xXdjdiRjdObzRXNGFhWnNHMzRKbWVuTnlKVlVJb0N3VV82MHVwZlltc1pONg?oc=5",
-        "date": "08/20 00:24"
-      },
-      {
         "type": "neutral",
         "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU53Q3pkcGotTVlBbUpHZGgtbmhzY0JZLWozYjhyTWRMd0RMRFd1NlBkOXBrXzl4Q01PWXV6cXZCWS1hSGVUM0VXYUh2TmZlSncyR1RCQU1yVjh3Y2tXeU9QRW8yT0xZNmxzWHhFSGxjYU94X3NyeXlFRmpITnNROVNYMXgyV2FkajdaTkJmVVkzaFgwWWQwMQ?oc=5",
         "date": "08/20 11:23"
+      },
+      {
+        "type": "positive",
+        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnp1aWNFWG44aVVkazJPR1JJY2lBcTJrTmFENWxFSWxCNWRULTRteFdfcDhOM1YySjdQVGhMMExobHVVa21yRUo3enFBLVJMUVRiVXV0TFVJM3o3S00yNDFhNXp0eXRzRmJDb1I2YW1LdFpOWXNuQzN3c2lvYXlTSWZidVlCNmR0QjBkT1lnV0xXdjdiRjdObzRXNGFhWnNHMzRKbWVuTnlKVlVJb0N3VV82MHVwZlltc1pONg?oc=5",
+        "date": "08/20 00:24"
       },
       {
         "type": "neutral",
@@ -971,9 +982,16 @@
       {
         "type": "positive",
         "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
+        "date": "08/20 18:08"
+      },
+      {
+        "type": "neutral",
+        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUlBVzQzNTc3MGc5MVVMcDZsa2xIQzJHZ2RTWjZ5MHFQX19ieFZKYTJ3eFUzYTdKRWlKWnVGdHN2OGdyYldaYkxVZnI0RFZoQmVOWWdiUGpvTU9VS1RlWFBmQ0gwRDAxOW5yM0oxeUVfQmVITXFSeGM0b1pBdnUyZmQ3V19KUE9BS1NVeGFmQk1wS0VRNU5BUlRFRQ?oc=5",
-        "date": "08/20 22:49"
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
+        "date": "08/18 00:15"
       },
       {
         "type": "neutral",
@@ -981,13 +999,6 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
         "date": "08/19 01:00"
-      },
-      {
-        "type": "neutral",
-        "title": "The Diverging Paths Priced Into Qualcomm Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
-        "date": "08/17 05:19"
       },
       {
         "type": "positive",
