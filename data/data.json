@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-20T13:25:47.882363+00:00",
+  "updatedAt": "2026-08-20T14:06:41.009854+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7707.98,
-        "change": 0.21
+        "value": 7681.22,
+        "change": -0.35
       },
       {
         "name": "NASDAQ",
-        "value": 26331.09,
-        "change": 0.16
+        "value": 26155.39,
+        "change": -0.67
       },
       {
         "name": "다우존스",
-        "value": 53463.05,
-        "change": 0.22
+        "value": 53076.6,
+        "change": -0.72
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.78,
-        "change": 5.98
+        "value": 15.67,
+        "change": 5.24
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1393.08,
-        "change": -1.45
+        "value": 1394.38,
+        "change": -1.36
       },
       {
         "name": "KOSPI",
@@ -106,7 +106,8 @@
           "08/14",
           "08/17",
           "08/18",
-          "08/19"
+          "08/19",
+          "08/20"
         ],
         "series": [
           {
@@ -171,7 +172,8 @@
               7785.76,
               7745.06,
               7691.76,
-              7707.98
+              7707.98,
+              7681.22
             ]
           },
           {
@@ -236,7 +238,8 @@
               26729.16,
               26644.91,
               26289.71,
-              26331.09
+              26331.09,
+              26155.39
             ]
           },
           {
@@ -301,7 +304,8 @@
               53732.41,
               53459.78,
               53343.4,
-              53463.05
+              53463.05,
+              53076.6
             ]
           }
         ]
@@ -351,15 +355,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -421,15 +422,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -443,7 +441,7 @@
               15.19,
               15.84,
               14.89,
-              15.78
+              15.67
             ]
           }
         ]
@@ -451,56 +449,12 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "05/20",
-          "05/21",
-          "05/22",
-          "05/26",
-          "05/27",
-          "05/28",
-          "05/29",
-          "06/01",
-          "06/02",
-          "06/03",
-          "06/04",
-          "06/05",
-          "06/08",
-          "06/09",
-          "06/10",
-          "06/11",
-          "06/12",
-          "06/15",
-          "06/16",
-          "06/17",
-          "06/18",
-          "06/22",
-          "06/23",
-          "06/24",
-          "06/25",
-          "06/26",
-          "06/29",
-          "06/30",
-          "07/01",
-          "07/02",
-          "07/06",
-          "07/07",
-          "07/08",
-          "07/09",
-          "07/10",
-          "07/13",
-          "07/14",
-          "07/15",
-          "07/16",
-          "07/17",
-          "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -520,56 +474,12 @@
           {
             "name": "미국10년금리",
             "data": [
-              4.57,
-              4.59,
-              4.56,
-              4.49,
-              4.48,
-              4.45,
-              4.45,
-              4.47,
-              4.45,
-              4.49,
-              4.48,
-              4.54,
-              4.55,
-              4.53,
-              4.54,
-              4.46,
-              4.49,
-              4.47,
-              4.43,
-              4.46,
-              4.45,
-              4.51,
-              4.49,
-              4.4,
-              4.39,
-              4.37,
-              4.37,
-              4.42,
-              4.47,
-              4.49,
-              4.48,
-              4.53,
-              4.57,
-              4.54,
-              4.57,
-              4.61,
-              4.59,
-              4.55,
-              4.57,
-              4.54,
-              4.6,
-              4.63,
-              4.66,
               4.7,
               4.68,
               4.64,
               4.6,
               4.62,
               4.66,
-              4.74,
               4.69,
               4.63,
               4.62,
@@ -655,7 +565,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1393.08
+              1394.38
             ]
           }
         ]
@@ -704,12 +614,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -769,12 +682,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -842,6 +758,7 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
@@ -862,10 +779,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.3,
-    "GOOGL": 56.1,
-    "QCOM": 60.1,
-    "VRT": 64.3
+    "AVGO": 38.0,
+    "BE": 49.1,
+    "GOOGL": 40.1,
+    "QCOM": 65.2,
+    "VRT": 56.2
   },
   "news": {
     "AVGO": [
@@ -896,6 +814,36 @@
         "publisher": "MarketWatch",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZjUnVYcG1EbFpjV1c5b3FPajJtZ0hCLUJmdTdubnJ0VVRQR0VNYi1Mek9kdXhVS3ZsdHA0Y3NWbkhWcmRHRXBVZ2FYVTJCZlFmMVdsLWl2VXoxRGs2Zi1WblZFSC1Ga3FIV1M4Z0pTT29JaHRoQVdiQks4TXE4TG96VFh0ZEJZU2V3Qy1oYXlIaGM3bnRRNF9hRHlCREdDOGxNcGRRcjlhN2lteFNrZA?oc=5",
         "date": "08/20 06:26"
+      }
+    ],
+    "BE": [
+      {
+        "type": "neutral",
+        "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
+        "date": "08/20 15:35"
+      },
+      {
+        "type": "neutral",
+        "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
+        "date": "08/20 04:36"
+      },
+      {
+        "type": "neutral",
+        "title": "BE stock analysis: Is Bloom Energy a buy or a trap?",
+        "publisher": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanBWakpiSHdrUUFCQXVMSW9fa2VYbWNoMFlLdlVlRXZBRmE5dlAyTWlBelh1OEYyUmdwNnowZnNqUlhjdGNPTG1kOVBBVEkwRGRSUmZOWURVNVZIdFprMWtVaE5falRNOERWZXFOZFVNY3FwekQzeGFfakNkT2d1VERxVEtEYWZMd1hhSDFtVm9GU19fUUVPVFJsaXJfTEd4X2gteTNYN1FGTUZGS3RDbw?oc=5",
+        "date": "08/18 23:18"
+      },
+      {
+        "type": "neutral",
+        "title": "Earn 19% A Year On BE Stock Now, Or Own It 60% Cheaper Later",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRS1pWDJkVi0taEQ1c2VISUd3T0FlRnRKRHZwV28yVWNNSHBtWEhfVjJKMzN3NUVOd2xhejZyU3hJMjN5dDU0eUtHVnpsU3pLb3hBTkpPaDEtaXpsYm9SRm0xcHpBd0dMejI4dy1KS2FBV0h4ZWhvZ05hd2VfdTFGLS1FenJMQlY2WEdtcnNBZ3hyVjF2bWZiVldNUWlqdGRnc0pTTG9aa3BEb3RjR1JkQzhDYmFkMkMtUWRVeGNzOW9rdkE?oc=5",
+        "date": "08/19 02:17"
       }
     ],
     "GOOGL": [
