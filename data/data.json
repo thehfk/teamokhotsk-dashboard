@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T02:11:04.464052+00:00",
+  "updatedAt": "2026-08-20T03:21:51.213173+00:00",
   "market": {
     "cards": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "name": "다우존스",
-        "value": 53463.05,
+        "value": 53463.1,
         "change": 0.22
       },
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1393.99,
-        "change": -1.39
+        "value": 1393.78,
+        "change": -1.4
       },
       {
         "name": "KOSPI",
-        "value": 6868.93,
-        "change": 6.15
+        "value": 6847.91,
+        "change": 5.82
       },
       {
         "name": "KOSDAQ",
-        "value": 842.61,
-        "change": 2.2
+        "value": 838.19,
+        "change": 1.67
       }
     ],
     "groups": [
@@ -218,12 +218,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -301,7 +304,7 @@
               53732.41,
               53459.78,
               53343.4,
-              53463.05
+              53463.1
             ]
           }
         ]
@@ -559,7 +562,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1393.99
+              1393.78
             ]
           }
         ]
@@ -608,15 +611,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -676,15 +676,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -697,7 +694,7 @@
               6977.94,
               6869.83,
               6471.17,
-              6868.93
+              6847.91
             ]
           },
           {
@@ -764,7 +761,7 @@
               864.65,
               834.2,
               824.46,
-              842.61
+              838.19
             ]
           }
         ]
@@ -791,7 +788,7 @@
         "title": "Marvell (MRVL) or Broadcom (AVGO): TD Cowen Says Buy One Chip Stock, Hold the Other",
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWxRdlhpMnVWcGNveUQxeTFpeGlyYng1a2d2ZzNJTHN5SXhSQ0Uybm1qMmdLOHF2TkR3bm5McC1qREJCeVhVT0NIcTlMU2RreGtuY3dhdmszbG9ObjZ1cUxVdTZfMW45a3d0VzRkSURSZHBMdHAwcndocU1zWklsOEoxMF90WVVpYXFkSzRCNVUwYmZZaTAtcGVKTVZNR0ZVeXRsbnRmTTRjZmc?oc=5",
-        "date": "08/19 18:40"
+        "date": "08/19 22:40"
       },
       {
         "type": "negative",
@@ -810,32 +807,32 @@
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnBhc0RBRzlIakZLUDlBZXZObUg4X0RsazJvYmxYd0hrM01wVFZoQzZRaFdoYUtNamNPU29BOU5RVnZwMi1EaUxFWEgwWF9UVWVicDQ3SURZX1NocFpGT29YR1RHMko1ZVM4bDJLQmNqbDNaUzBPTjV3Qk01Q2M2VUVla1diS1FLTFhrYzNmVmh5bzY0Q3JYY3FHRGdpa2hIN045LVJhUmwydw?oc=5",
-        "date": "08/18 15:47"
-      },
-      {
         "type": "neutral",
-        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
-        "date": "08/18 21:10"
+        "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSUxIOE01VFloYzVGaHo3NHpmTjA3T3RfeGE5aG5DaHdzVldtNkJ2LVVlVlREVkV6RXY5T216UzhTZGoyajNWdnExUV9mSlB2aGNoSDctMG9qVzdLT0YwUGZFOTBQdVFYdkFZVDFMTldGQmw1MnhZdVRyQ2JIWGllUkNXTjFSOTVrZEZHeEpyN2RibjFkWW1fdVVPaUFlRGdDeFd2RGduN1lsdzdnaEp1LVdfUldscTdxRmN1bmtEQkxVUFhGLW01cjJsOHNqb1h4UnFtbmcxZi05WEFKN3lyQWtxaFI3YnBhbFZtX19BTzJhYUJ6d1Rzbmp3?oc=5",
+        "date": "08/20 11:23"
       },
       {
         "type": "negative",
-        "title": "Berkshire Just Made a Huge Alphabet Bet—Should You Follow?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNjl0N2VQa2NyaUk1UjY3MVN4THByOTBHRkZNQy1UVUJHTEgtaEV1cjNUNGxUVjJTZ25rOXA4VUktX1lyVW1QeUNhSTBuSm9qTFoyY0c4S0VGS0c4clRBUUU1QWQxbGg0cFQ3QXVWT2wwX0Q0UUZEQ2tidFAyUUhpcWl4TVo3VHJCbmllbThOOTlORklEeXZrNA?oc=5",
-        "date": "08/19 11:21"
+        "title": "Alphabet (GOOGL) Stock May Be 23% Undervalued Following $25b AI Bond Raise",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmZxbmpqT3JfS2s2MGxJWDZ1elhMdzNTU3hZUWpxSzJ5cFgtYnQzUUJSMGNYRjBVSnlHb3NKanF6dFlLdDhZUXdERXVjU0g2VUxsYUFUWHlxMWYtNzByTzVxUkxQY2RheFhiNUE1NkVKYi1fcEY0U2s2NHNiQlRpc0FXazNwWU1fYzlobDA4MFNudEZjbDlpVmlQVkJiZlpsMVdJQnhYeGVld3BMZFVibUhiM2JhVmZWM01yem9Ga1RMZ9IBxwFBVV95cUxQWWs1d0lfTUNuTk9UR01WWkl3ZFlwM1FEbWNJaWpwbXlMeUYzc0EtckVwLWRrNWptNmNRUklZV3MxcDM5U3pXdVVKcC1vLTZHUzFISXhoYnVpMEtBSnlZYW1meERleHFIY2xfSmlwM01RZzdhYkNEQ0ZyZTExWXhRSkZabXNIdHJqM0pvRUFlcGYxWTB5U2ppMnlvSjVKWFgySTR6N0k0enRwTWxmQjJoQTBfRjc5Mjk2SXB2dFJ5bkQweng0OU5V?oc=5",
+        "date": "08/20 00:33"
       },
       {
         "type": "neutral",
-        "title": "Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWhBUUh5SEE3RUYxSlBjbjYwU1hJaVQtRnpBZGI0M0lPblgyUDdhM2lQWjRnMWs1Sk43eGRSRERZTGxrWW5ZZEJSTXFLM2UxYXViMmFaV1NWZWlqeE04YmRxN29xXzJiM20xTXQzbjRpMDFLM2NhRUhTN0RKN1M4c29MdjB1dmtEdkFuT0d2LTVsS2NKWlVDOGpsdzVhWmJjQ1RCMDlMclQ2ek5ZVC15N1ROTnVjUnc?oc=5",
-        "date": "08/20 01:10"
+        "title": "Is Google Stock Still The Cash Machine You Bought?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNDVJNnhPU0dQbmtuNWl1S3l4NWRYRHZzVkxZNTZZYUl2M25aZTFiamdOWE5UZHB0VUg3NHFxMnI4WUk3RXlwX3U2NXRJMElBcjdfT05STHZiSkhjdnBha1hCQXYwVjBxRnp0VVl2T0F3S29nd21fNTcydEk1UWRxeTk3aHlBaHdrVFNDcU5OS2VhV1lZWVFSSTFTRE1Fb2QtWmRZSWtnSWJwZ3prSl9PVw?oc=5",
+        "date": "08/19 22:42"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock: A Berkshire Hathaway-Style Compounder Hiding In Plain Sight (NASDAQ:GOOG)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2NpRFZ4V251OHEwT1ZKNHljSG56VzhRa3N5UEt5bS01ZHhKUXZ0WlZ4bW1uMU5teUpQNFpPdktuZDdQOHBHVGVDaVBUb0dWME9BUXlFc3dLcy03NEVhbDZMUHlBcHNyNjBxOXZMdFo1NUJkS2ltODMxSmlicmJLbVdHbFZtZVpoSmRvaHpuZVU2Mi02cC1yUWd5NHZlSUt1WVBxd0lrcW5QNHFqRWNMQ043QkFNQQ?oc=5",
+        "date": "08/20 05:58"
       }
     ],
     "QCOM": [
@@ -892,10 +889,10 @@
       },
       {
         "type": "negative",
-        "title": "VRT Stock: Earn 11% Annualized, Or Buy In 50% Lower",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeW84SXUzZUgxeVlWU1g1M1VSTFh3V0U0QUo1WFhhcXJqQkRGdTBVRm1fLWRQZkFTRWp5cVV3NXc0bDRoUGlPaEtNa3p5UGhfT1FXRHAwclRSZmVTMWJ1dWpYUldFclNIN2M2NzNlNDJpbzI5a2ZBZ1RZX0JfYXB0YUFUcWlSWEVVNWpnZGJMQmhaNXBOTTVvYm1zUDAzV1RSNTFWTFBrcjJQMG8wNGJHMzBpVVl6STA?oc=5",
-        "date": "08/19 12:39"
+        "title": "Vertiv (NYSE:VRT) Trading Down 4.1% - Should You Sell?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFlzOGtjNW1VS1FERnI2WEtscExPNm1aUld5eHV0eTRjZXU1MlV1MXVub2V4aHlSR0RvZG5xekliR05sbHNUQ0NNYTUzTmdNUW9WN1BLdU90eGk1b2FMdUI4SnBFOG5YLU1XckJlVTk5M2x4Q25MdjN3MmdxbUNraXNPaWdhdmxxWWZXWU9vRzZDOVlreWNBOGdVQ0RQY3FwY1E?oc=5",
+        "date": "08/20 06:44"
       }
     ]
   }
