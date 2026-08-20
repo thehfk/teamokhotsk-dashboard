@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T10:25:45.014096+00:00",
+  "updatedAt": "2026-08-20T10:55:23.375092+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.18,
-        "change": 1.95
+        "value": 15.16,
+        "change": 1.81
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1393.61,
-        "change": -1.41
+        "value": 1394.88,
+        "change": -1.32
       },
       {
         "name": "KOSPI",
@@ -437,7 +437,7 @@
               15.19,
               15.84,
               14.89,
-              15.18
+              15.16
             ]
           }
         ]
@@ -559,7 +559,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1393.61
+              1394.88
             ]
           }
         ]
@@ -774,13 +774,6 @@
   "news": {
     "AVGO": [
       {
-        "type": "negative",
-        "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
-        "publisher": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZjUnVYcG1EbFpjV1c5b3FPajJtZ0hCLUJmdTdubnJ0VVRQR0VNYi1Mek9kdXhVS3ZsdHA0Y3NWbkhWcmRHRXBVZ2FYVTJCZlFmMVdsLWl2VXoxRGs2Zi1WblZFSC1Ga3FIV1M4Z0pTT29JaHRoQVdiQks4TXE4TG96VFh0ZEJZU2V3Qy1oYXlIaGM3bnRRNF9hRHlCREdDOGxNcGRRcjlhN2lteFNrZA?oc=5",
-        "date": "08/20 06:26"
-      },
-      {
         "type": "neutral",
         "title": "Marvell (MRVL) or Broadcom (AVGO): TD Cowen Says Buy One Chip Stock, Hold the Other",
         "publisher": "TipRanks",
@@ -788,11 +781,18 @@
         "date": "08/19 18:40"
       },
       {
-        "type": "negative",
-        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
+        "type": "neutral",
+        "title": "Why Broadcom Stock Crashed Today",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
-        "date": "08/20 07:06"
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1BhN2plcEJ5MENBNUlJZk9Md1NyVzJSa0FHdHFETjdoelE2VFdBZ0EzVTlvNVNMZ3E5QnczTjNmSTVZQTZkeTRWOEhXb0dmR3k0Z3BiYmhURWpKblBLXzQwS1RLekU0QUtIMnZiT3dDa2t5S2hYb1hLVktRS09yYlJkbE1oNGlTRHAyeG5tSHduWkQyUmJwX3MyOUlIZw?oc=5",
+        "date": "08/20 01:19"
+      },
+      {
+        "type": "negative",
+        "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
+        "publisher": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZjUnVYcG1EbFpjV1c5b3FPajJtZ0hCLUJmdTdubnJ0VVRQR0VNYi1Mek9kdXhVS3ZsdHA0Y3NWbkhWcmRHRXBVZ2FYVTJCZlFmMVdsLWl2VXoxRGs2Zi1WblZFSC1Ga3FIV1M4Z0pTT29JaHRoQVdiQks4TXE4TG96VFh0ZEJZU2V3Qy1oYXlIaGM3bnRRNF9hRHlCREdDOGxNcGRRcjlhN2lteFNrZA?oc=5",
+        "date": "08/20 06:26"
       },
       {
         "type": "neutral",
