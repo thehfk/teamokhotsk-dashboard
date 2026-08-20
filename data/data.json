@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-08-20T17:56:35.055309+00:00",
+  "updatedAt": "2026-08-20T18:29:19.948307+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7665.91,
-        "change": -0.55
+        "value": 7654.12,
+        "change": -0.7
       },
       {
         "name": "NASDAQ",
-        "value": 26100.82,
-        "change": -0.87
+        "value": 26050.22,
+        "change": -1.07
       },
       {
         "name": "다우존스",
-        "value": 52909.2,
-        "change": -1.04
+        "value": 52844.3,
+        "change": -1.16
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.89,
-        "change": 6.72
+        "value": 15.99,
+        "change": 7.39
       },
       {
         "name": "미국10년금리",
-        "value": 4.71,
-        "change": 1.29
+        "value": 4.7,
+        "change": 1.08
       },
       {
         "name": "원달러환율",
-        "value": 1395.05,
+        "value": 1395.03,
         "change": -1.31
       },
       {
@@ -173,7 +173,7 @@
               7745.06,
               7691.76,
               7707.98,
-              7665.91
+              7654.12
             ]
           },
           {
@@ -239,7 +239,7 @@
               26644.91,
               26289.71,
               26331.09,
-              26100.82
+              26050.22
             ]
           },
           {
@@ -305,7 +305,7 @@
               53459.78,
               53343.4,
               53463.05,
-              52909.2
+              52844.3
             ]
           }
         ]
@@ -441,7 +441,7 @@
               15.19,
               15.84,
               14.89,
-              15.89
+              15.99
             ]
           }
         ]
@@ -493,7 +493,7 @@
               4.72,
               4.71,
               4.65,
-              4.71
+              4.7
             ]
           },
           {
@@ -565,7 +565,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1395.05
+              1395.03
             ]
           }
         ]
@@ -769,11 +769,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 39.0,
-    "BE": 47.5,
-    "GOOGL": 39.3,
-    "QCOM": 65.3,
-    "VRT": 58.1
+    "AVGO": 39.1,
+    "BE": 47.6,
+    "GOOGL": 38.8,
+    "QCOM": 65.0,
+    "VRT": 58.7
   },
   "news": {
     "AVGO": [
@@ -838,13 +838,6 @@
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnp1aWNFWG44aVVkazJPR1JJY2lBcTJrTmFENWxFSWxCNWRULTRteFdfcDhOM1YySjdQVGhMMExobHVVa21yRUo3enFBLVJMUVRiVXV0TFVJM3o3S00yNDFhNXp0eXRzRmJDb1I2YW1LdFpOWXNuQzN3c2lvYXlTSWZidVlCNmR0QjBkT1lnV0xXdjdiRjdObzRXNGFhWnNHMzRKbWVuTnlKVlVJb0N3VV82MHVwZlltc1pONg?oc=5",
-        "date": "08/20 00:24"
-      },
-      {
         "type": "neutral",
         "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
         "publisher": "Yahoo Finance",
@@ -864,29 +857,29 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
         "date": "08/21 01:18"
+      },
+      {
+        "type": "neutral",
+        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
+        "date": "08/18 21:10"
       }
     ],
     "QCOM": [
       {
         "type": "positive",
-        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
-        "date": "08/20 18:08"
-      },
-      {
-        "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHlTa3Vhdm9hZjdwRDNpTFRqbExlNFNrNFZ2d1Q0eDk2cjNrVlF3Z1Vhc2ZYcWhDeUZUSFZlQjg3a2xZSWpXWGJPdWlSTmplbklTMjBvTEFtZjI3cGx2V3pIQmdzV181MUUyZXJLSWpYWEdvbkZMYjNQeTdHLVhhZ3RCdndaU0dXVG1lVEtRTjJDcDkzeE5KTGY1ZG92TUN6Z2RncXhiZmNvd2VFNmxBdTFqNWFOOG5ERUNkTFVR?oc=5",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
         "date": "08/21 00:09"
       },
       {
         "type": "neutral",
-        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
-        "date": "08/18 00:15"
+        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
+        "date": "08/17 05:19"
       },
       {
         "type": "neutral",
@@ -894,6 +887,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
         "date": "08/19 01:00"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/18 23:39"
       }
     ],
     "VRT": [
