@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:01:57.945853+00:00",
+  "updatedAt": "2026-08-20T05:53:01.329167+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1394.07,
-        "change": -1.38
+        "value": 1394.96,
+        "change": -1.32
       },
       {
         "name": "KOSPI",
-        "value": 6864.91,
-        "change": 6.08
+        "value": 6848.54,
+        "change": 5.83
       },
       {
         "name": "KOSDAQ",
-        "value": 840.02,
-        "change": 1.89
+        "value": 840.11,
+        "change": 1.9
       }
     ],
     "groups": [
@@ -283,15 +283,12 @@
               52552.97,
               52146.42,
               51839.26,
-              52224.64,
-              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
-              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -562,7 +559,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1394.07
+              1394.96
             ]
           }
         ]
@@ -694,7 +691,7 @@
               6977.94,
               6869.83,
               6471.17,
-              6864.91
+              6848.54
             ]
           },
           {
@@ -749,7 +746,6 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
@@ -762,7 +758,7 @@
               864.65,
               834.2,
               824.46,
-              840.02
+              840.11
             ]
           }
         ]
@@ -775,5 +771,126 @@
     "QCOM": 60.1,
     "VRT": 64.3
   },
-  "news": {}
+  "news": {
+    "AVGO": [
+      {
+        "type": "neutral",
+        "title": "Marvell (MRVL) or Broadcom (AVGO): TD Cowen Says Buy One Chip Stock, Hold the Other",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWxRdlhpMnVWcGNveUQxeTFpeGlyYng1a2d2ZzNJTHN5SXhSQ0Uybm1qMmdLOHF2TkR3bm5McC1qREJCeVhVT0NIcTlMU2RreGtuY3dhdmszbG9ObjZ1cUxVdTZfMW45a3d0VzRkSURSZHBMdHAwcndocU1zWklsOEoxMF90WVVpYXFkSzRCNVUwYmZZaTAtcGVKTVZNR0ZVeXRsbnRmTTRjZmc?oc=5",
+        "date": "08/19 18:40"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Broadcom Stock Crashed Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1BhN2plcEJ5MENBNUlJZk9Md1NyVzJSa0FHdHFETjdoelE2VFdBZ0EzVTlvNVNMZ3E5QnczTjNmSTVZQTZkeTRWOEhXb0dmR3k0Z3BiYmhURWpKblBLXzQwS1RLekU0QUtIMnZiT3dDa2t5S2hYb1hLVktRS09yYlJkbE1oNGlTRHAyeG5tSHduWkQyUmJwX3MyOUlIZw?oc=5",
+        "date": "08/20 01:19"
+      },
+      {
+        "type": "negative",
+        "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
+        "publisher": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZjUnVYcG1EbFpjV1c5b3FPajJtZ0hCLUJmdTdubnJ0VVRQR0VNYi1Mek9kdXhVS3ZsdHA0Y3NWbkhWcmRHRXBVZ2FYVTJCZlFmMVdsLWl2VXoxRGs2Zi1WblZFSC1Ga3FIV1M4Z0pTT29JaHRoQVdiQks4TXE4TG96VFh0ZEJZU2V3Qy1oYXlIaGM3bnRRNF9hRHlCREdDOGxNcGRRcjlhN2lteFNrZA?oc=5",
+        "date": "08/20 06:26"
+      },
+      {
+        "type": "neutral",
+        "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTBLN1pxTEV6Qk92RC1udXZRT0JkVG5uV0w2VTVNODRxM01DSS1pTVEwLVFQRjNSWmlqZzFROWVobHBmMVdHaGxSYzlITlhlYTV3V0VNc2dKOWsyU1Zxcm5wczM3X1Vjc1huMmJwUjVkRkpDZVRxbWh1clpSXzc5UWptY2NQXzZkaG5aZ3pRc0U4NDBrai1QTHJZbjZ6Z1otdDU0Y1M2eHBJamVoZ0ZaOEVnQndkYWNha2lZeQ?oc=5",
+        "date": "08/19 02:30"
+      }
+    ],
+    "GOOGL": [
+      {
+        "type": "positive",
+        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnp1aWNFWG44aVVkazJPR1JJY2lBcTJrTmFENWxFSWxCNWRULTRteFdfcDhOM1YySjdQVGhMMExobHVVa21yRUo3enFBLVJMUVRiVXV0TFVJM3o3S00yNDFhNXp0eXRzRmJDb1I2YW1LdFpOWXNuQzN3c2lvYXlTSWZidVlCNmR0QjBkT1lnV0xXdjdiRjdObzRXNGFhWnNHMzRKbWVuTnlKVlVJb0N3VV82MHVwZlltc1pONg?oc=5",
+        "date": "08/20 00:24"
+      },
+      {
+        "type": "positive",
+        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnBhc0RBRzlIakZLUDlBZXZObUg4X0RsazJvYmxYd0hrM01wVFZoQzZRaFdoYUtNamNPU29BOU5RVnZwMi1EaUxFWEgwWF9UVWVicDQ3SURZX1NocFpGT29YR1RHMko1ZVM4bDJLQmNqbDNaUzBPTjV3Qk01Q2M2VUVla1diS1FLTFhrYzNmVmh5bzY0Q3JYY3FHRGdpa2hIN045LVJhUmwydw?oc=5",
+        "date": "08/18 15:47"
+      },
+      {
+        "type": "neutral",
+        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
+        "publisher": "247wallst.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
+        "date": "08/18 21:10"
+      },
+      {
+        "type": "positive",
+        "title": "Google (GOOGL) to buy up to $12.2 billion shares in US chip firm Marvell (MRVL)",
+        "publisher": "Shacknews",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzJVZjVqSFFneFZucjEwN3IxbmZYQlRpeW9BckRkUV8tVWhBTnVsdS00T05nOXJtQWw3VmRVem0yejZaUzJyZDJJeEJhWHgxQUdHSW1INzV4N1gwZzRCcGhoNWJua1BFRXc0aVhZSGhSS1FsY3F6R0ViRTczME1QdFEwZWdSdERNeEHSAZcBQVVfeXFMTW92YWZRcHhyeXlUTmVqU2dHUzV0dHpBbFhlN3BJX2pSUV8zNmJnRElTOUNCay1JREZxVjVabU1EOUxfMnk5VURkVnI1dktmQlpaaTl2U0NHN2htYV81SmhISUlyU1hadFFQVnE1a2xBaGlkd1FNZkc2TXRqS2doSEloZmNXSFZwandfU0JCOFJqaWx2RFZrQQ?oc=5",
+        "date": "08/20 02:08"
+      }
+    ],
+    "QCOM": [
+      {
+        "type": "positive",
+        "title": "Qualcomm Stock Is Down While Its Car Silicon Target Went Up",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjdCSmNrUXRad2ZHd3dnSUVaMlBnZnZwb0Rid2k4TU9kWjhHclBiUWJTMmF0R1Bka00wZDBfTnFGb08zZnBoOTBoNnNob1c0cTVKZnNnTzlEdmxSb19lM0VwRndWU3lsX19mLVFHVXNGeGlYdnB4QnRlYXphNVdQSHk5Zy1UMVZLd1FDeWkybWhtWnBQeExMVGV1QkZwaGFUYmZhTlBIc0lsM2JabjU0QmtUbTNkSnotYmJXTQ?oc=5",
+        "date": "08/19 22:23"
+      },
+      {
+        "type": "neutral",
+        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
+        "date": "08/18 00:15"
+      },
+      {
+        "type": "neutral",
+        "title": "Where Will Qualcomm Stock Be in 5 Years?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
+        "date": "08/19 01:00"
+      },
+      {
+        "type": "positive",
+        "title": "Qualcomm (NASDAQ:QCOM) Shares Up 1.1% - What's Next?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbk01ZTRWZ053TnZYR0REOXRScUlpS1ZucGJJbTduVlJmYmZtTjBaTkxBUlhpdUE3VE1ReWZZeTIyV2tjNmQ3RVJ3UW5KUTZUdVd1aVNPdkE2ZHNvTXRWbnhoVFZ6a2pVMDQxZGJ6bk4zeDhjU2d2RjkwTGc4c2VRTFhMRzE2YjdlUG9JUVVoLXJXWTFBT2t4enVWUGp3dw?oc=5",
+        "date": "08/20 06:44"
+      }
+    ],
+    "VRT": [
+      {
+        "type": "neutral",
+        "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
+        "date": "08/17 21:09"
+      },
+      {
+        "type": "negative",
+        "title": "Vertiv Holdings Co (VRT) Stock Down 4.2% but Still Overvalued -- GF Score: 86/100",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzR0VE1CSHRCUGF0YzhjQURxZDdOdF9pWjFHSXo4YTZxdnltZUZOaGw4bWNCRWNvaS01b29tNmxsLW02Ujl0UjZpc1JDbzNuT3YyeUZENzB1UVJmM2taR25MMkoxYU8tT2JmMl9Eak1JdUdpZnFPTGNiWGVvT3NjX1R5akU4ZUNvWGtsZk4tVnJBQm5qZllnYmVHbmNXN1BZUlZZQWU0Z052WG1DLWJQbA?oc=5",
+        "date": "08/20 07:01"
+      },
+      {
+        "type": "negative",
+        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
+        "date": "08/19 00:36"
+      },
+      {
+        "type": "negative",
+        "title": "Vertiv (NYSE:VRT) Trading Down 4.1% - Should You Sell?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFlzOGtjNW1VS1FERnI2WEtscExPNm1aUld5eHV0eTRjZXU1MlV1MXVub2V4aHlSR0RvZG5xekliR05sbHNUQ0NNYTUzTmdNUW9WN1BLdU90eGk1b2FMdUI4SnBFOG5YLU1XckJlVTk5M2x4Q25MdjN3MmdxbUNraXNPaWdhdmxxWWZXWU9vRzZDOVlreWNBOGdVQ0RQY3FwY1E?oc=5",
+        "date": "08/20 06:44"
+      }
+    ]
+  }
 }
