@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-20T15:56:00.726969+00:00",
+  "updatedAt": "2026-08-20T16:24:32.890736+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7678.51,
-        "change": -0.38
+        "value": 7677.88,
+        "change": -0.39
       },
       {
         "name": "NASDAQ",
-        "value": 26103.04,
-        "change": -0.87
-      },
-      {
-        "name": "다우존스",
-        "value": 53030.21,
+        "value": 26117.7,
         "change": -0.81
       },
       {
+        "name": "다우존스",
+        "value": 53008.32,
+        "change": -0.85
+      },
+      {
         "name": "공포지수 VIX",
-        "value": 15.9,
-        "change": 6.78
+        "value": 15.89,
+        "change": 6.72
       },
       {
         "name": "미국10년금리",
-        "value": 4.71,
-        "change": 1.29
+        "value": 4.7,
+        "change": 1.08
       },
       {
         "name": "원달러환율",
-        "value": 1393.28,
-        "change": -1.44
+        "value": 1394.91,
+        "change": -1.32
       },
       {
         "name": "KOSPI",
@@ -88,15 +88,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -157,15 +154,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -179,7 +173,7 @@
               7745.06,
               7691.76,
               7707.98,
-              7678.51
+              7677.88
             ]
           },
           {
@@ -226,15 +220,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -248,7 +239,7 @@
               26644.91,
               26289.71,
               26331.09,
-              26103.04
+              26117.7
             ]
           },
           {
@@ -295,15 +286,12 @@
               52552.97,
               52146.42,
               51839.26,
-              52224.64,
-              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
-              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -317,7 +305,7 @@
               53459.78,
               53343.4,
               53463.05,
-              53030.21
+              53008.32
             ]
           }
         ]
@@ -367,15 +355,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -437,15 +422,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -459,7 +441,7 @@
               15.19,
               15.84,
               14.89,
-              15.9
+              15.89
             ]
           }
         ]
@@ -599,7 +581,7 @@
               4.72,
               4.71,
               4.65,
-              4.71
+              4.7
             ]
           },
           {
@@ -671,7 +653,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1393.28
+              1394.91
             ]
           }
         ]
@@ -720,15 +702,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -787,15 +766,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -862,13 +838,13 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65,
@@ -881,9 +857,9 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.4,
-    "BE": 47.4,
-    "GOOGL": 38.7,
+    "AVGO": 38.6,
+    "BE": 47.6,
+    "GOOGL": 39.2,
     "QCOM": 66.4,
     "VRT": 57.6
   },
@@ -898,17 +874,17 @@
       },
       {
         "type": "neutral",
-        "title": "Unfortunate News for Broadcom Stock Investors",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUlWeWlaQU5SSFJMcEFEVG11X1BMZHk0ZmxxdUVZUDAzSUw3TWxiSXNuTWpjYkl2U0pIb2xMd0s1TjJUNzVfel92WmpNSmNlTG9DYmQxd3VVMTViN2VRSGlVQnZ2MUtJWFY1T3Q4ZmpiSXBGc2RNelNYYnBNejBOVjktbURJM3ZrWVBvcDZHRTQzdw?oc=5",
-        "date": "08/19 13:40"
+        "title": "NVIDIA vs. Broadcom: The AI Stock You Should Buy Right Now",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWtEOW42WUpTT3QwSFg5VnkwVUJqMDJWTmNVZWxqZGZSMnhweVZuMEQ5X0U2NmtUWTNzQ2thSEF4S0g4VlJza3VwMEVxaEZMMHpubGpsRXdLUGN2NzRiZTJySE94MUhDeVNIM1kwVTN0WEN0UDB5OGZWRjc0RGJEM2R3NUlFNDRmWkxzQ3dubE1PTjNpUE0wVWhGUXc2RkttWFJ3elZPdE95RFZidlNnOG93?oc=5",
+        "date": "08/20 04:00"
       },
       {
         "type": "positive",
         "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMi1GeFJHdzdUbmhncEozNGRqSDZGQldHT19Penp3RGhSYkJvV3JLc3Y4NWE4clIwU21CSG5sSjhhSTVjSURJV0NxdzNEVFVnSzNqUEdGdjN3WkpDcG8zMDNCZFJEWDFzX05VX2tjaWhqUDF4TWdUVmxuR1hLNXpIRkpUaTJWOGltNDlFVURvMm9yN21RS0VMZDJvVkNtSDhudnkwX3h5MVNibWlSeF84TUdiT09qQl9pTFNuOUZmUGhHNWlnR2NxSHg1NnlPNEdEcXQwcmhGV0x3SjR6NHNObE92WEwtRHdraGc?oc=5",
-        "date": "08/20 23:02"
+        "date": "08/20 10:28"
       },
       {
         "type": "neutral",
@@ -935,17 +911,17 @@
       },
       {
         "type": "neutral",
-        "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
-        "date": "08/20 04:36"
-      },
-      {
-        "type": "neutral",
         "title": "Earn 19% A Year On BE Stock Now, Or Own It 60% Cheaper Later",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRS1pWDJkVi0taEQ1c2VISUd3T0FlRnRKRHZwV28yVWNNSHBtWEhfVjJKMzN3NUVOd2xhejZyU3hJMjN5dDU0eUtHVnpsU3pLb3hBTkpPaDEtaXpsYm9SRm0xcHpBd0dMejI4dy1KS2FBV0h4ZWhvZ05hd2VfdTFGLS1FenJMQlY2WEdtcnNBZ3hyVjF2bWZiVldNUWlqdGRnc0pTTG9aa3BEb3RjR1JkQzhDYmFkMkMtUWRVeGNzOW9rdkE?oc=5",
         "date": "08/19 02:17"
+      },
+      {
+        "type": "neutral",
+        "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
+        "date": "08/20 04:36"
       }
     ],
     "GOOGL": [
@@ -971,11 +947,11 @@
         "date": "08/18 21:10"
       },
       {
-        "type": "positive",
-        "title": "Google (GOOGL) to buy up to $12.2 billion shares in US chip firm Marvell (MRVL)",
-        "publisher": "Shacknews",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzJVZjVqSFFneFZucjEwN3IxbmZYQlRpeW9BckRkUV8tVWhBTnVsdS00T05nOXJtQWw3VmRVem0yejZaUzJyZDJJeEJhWHgxQUdHSW1INzV4N1gwZzRCcGhoNWJua1BFRXc0aVhZSGhSS1FsY3F6R0ViRTczME1QdFEwZWdSdERNeEHSAZcBQVVfeXFMTW92YWZRcHhyeXlUTmVqU2dHUzV0dHpBbFhlN3BJX2pSUV8zNmJnRElTOUNCay1JREZxVjVabU1EOUxfMnk5VURkVnI1dktmQlpaaTl2U0NHN2htYV81SmhISUlyU1hadFFQVnE1a2xBaGlkd1FNZkc2TXRqS2doSEloZmNXSFZwandfU0JCOFJqaWx2RFZrQQ?oc=5",
-        "date": "08/20 02:08"
+        "type": "neutral",
+        "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
+        "date": "08/21 01:18"
       }
     ],
     "QCOM": [
