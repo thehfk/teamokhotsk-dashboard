@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T06:27:13.072669+00:00",
+  "updatedAt": "2026-08-20T07:22:19.815484+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1393.68,
-        "change": -1.41
+        "value": 1395.0,
+        "change": -1.31
       },
       {
         "name": "KOSPI",
-        "value": 6839.24,
-        "change": 5.69
+        "value": 6852.58,
+        "change": 5.89
       },
       {
         "name": "KOSDAQ",
-        "value": 839.96,
-        "change": 1.88
+        "value": 840.89,
+        "change": 1.99
       }
     ],
     "groups": [
@@ -321,7 +321,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "05/19",
           "05/20",
           "05/21",
           "05/22",
@@ -391,7 +390,6 @@
           {
             "name": "공포지수 VIX",
             "data": [
-              18.06,
               17.44,
               16.76,
               16.7,
@@ -667,7 +665,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1393.68
+              1395.0
             ]
           }
         ]
@@ -805,7 +803,7 @@
               6977.94,
               6869.83,
               6471.17,
-              6839.24
+              6852.58
             ]
           },
           {
@@ -872,7 +870,7 @@
               864.65,
               834.2,
               824.46,
-              839.96
+              840.89
             ]
           }
         ]
@@ -897,7 +895,7 @@
       {
         "type": "neutral",
         "title": "Marvell (MRVL) or Broadcom (AVGO): TD Cowen Says Buy One Chip Stock, Hold the Other",
-        "publisher": "tipranks.com",
+        "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWxRdlhpMnVWcGNveUQxeTFpeGlyYng1a2d2ZzNJTHN5SXhSQ0Uybm1qMmdLOHF2TkR3bm5McC1qREJCeVhVT0NIcTlMU2RreGtuY3dhdmszbG9ObjZ1cUxVdTZfMW45a3d0VzRkSURSZHBMdHAwcndocU1zWklsOEoxMF90WVVpYXFkSzRCNVUwYmZZaTAtcGVKTVZNR0ZVeXRsbnRmTTRjZmc?oc=5",
         "date": "08/19 18:40"
       },
@@ -999,11 +997,11 @@
         "date": "08/19 00:36"
       },
       {
-        "type": "negative",
-        "title": "VRT Stock: Earn 11% Annualized, Or Buy In 50% Lower",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeW84SXUzZUgxeVlWU1g1M1VSTFh3V0U0QUo1WFhhcXJqQkRGdTBVRm1fLWRQZkFTRWp5cVV3NXc0bDRoUGlPaEtNa3p5UGhfT1FXRHAwclRSZmVTMWJ1dWpYUldFclNIN2M2NzNlNDJpbzI5a2ZBZ1RZX0JfYXB0YUFUcWlSWEVVNWpnZGJMQmhaNXBOTTVvYm1zUDAzV1RSNTFWTFBrcjJQMG8wNGJHMzBpVVl6STA?oc=5",
-        "date": "08/19 12:39"
+        "type": "neutral",
+        "title": "Abacus FCF Advisors LLC Sells 14,271 Shares of Vertiv Holdings Co. $VRT",
+        "publisher": "marketbeat.com",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNem1kLTN1MGRtTkREbGd4TlV3OC03THRQRWpDejJxTXo0bDJCa3VkZlMyU08waGVmSGN1cG8tQ2lza1gtY0t1aVV6eEh3cEhPUUFuMGhpRlRhVG1aR1NDSkVOSWFHRVhJTHFUQ3dzMXkzVG90MGhSYllGWXdsbkFlYUNXZ3pCVW9kOVFJNzJyY3pZUGhGWnM4SFUxdl9FcjIyQ2U4b0J1TVZmYWxjaHYwM0kzWXhROGdzajc5TUk1b3FFVGY2M2RYWQ?oc=5",
+        "date": "08/20 16:08"
       }
     ]
   }
