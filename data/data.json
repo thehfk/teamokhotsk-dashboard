@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T09:03:27.523709+00:00",
+  "updatedAt": "2026-08-20T09:57:37.678150+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.27,
-        "change": 2.55
+        "value": 15.21,
+        "change": 2.15
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1394.68,
-        "change": -1.34
+        "value": 1393.94,
+        "change": -1.39
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               15.19,
               15.84,
               14.89,
-              15.27
+              15.21
             ]
           }
         ]
@@ -667,7 +667,7 @@
               1415.37,
               1414.73,
               1413.58,
-              1394.68
+              1393.94
             ]
           }
         ]
@@ -948,11 +948,11 @@
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "type": "positive",
+        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
-        "date": "08/17 05:19"
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
+        "date": "08/20 18:08"
       },
       {
         "type": "neutral",
@@ -970,10 +970,10 @@
       },
       {
         "type": "neutral",
-        "title": "Compass Capital Management Inc. Purchases Shares of 268,321 Qualcomm Incorporated $QCOM",
+        "title": "Principle Wealth Partners LLC Buys New Shares in Qualcomm Incorporated $QCOM",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVlRnb3NLQlpOZTNBM1BiNTlPOWMySDhURkRpRk9nRmFFZkplUTRDOVFnUWlScTVlVkZVR09Va1dpaXczRE4xYWpaNzUteXZkSFlhbUgtSFZ2VnhOSmNGQmlKVjdGZEdLRHZBRld5UGVFQzcxM2tlNWFudUhuU3o5UEdLTEtLQXJERlA1aGdsemx5Tlo2QUZST0FKNFktaTRfc0k3S2F5QmRYeHNUWURRWFpPSS13SVVHMTFqR0JCbmZycF9feWpGM1g1QUFrak45Z0thZGtCeExtVWtobGc?oc=5",
-        "date": "08/20 17:12"
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTGhqQ1dKY0lvYmNsYU5ORkFEd3l3QVFpMVJKU2toQ3VHakMtNVUzOFE3REl0NFhIcnpHNE5zS0V4SC13c1MzSXY0OWJzZWJiNDM0R2FrSkFWTmJVT0lUQ2lpMUUtLUxidW43M3dDZUo1Mk1zLUR6d05fRFlUbk9PMGk0RHM0SVBMa0Y1MFZVZjEzQVR1ODhJc1Q2cEN5UDBKem80RmIxczZqclJ3U1J6S00tUDh5d0ZlVVczNVJPX1dSWTM2ejlSY3BGSVQ2SkYyT1E?oc=5",
+        "date": "08/20 18:32"
       }
     ],
     "VRT": [
