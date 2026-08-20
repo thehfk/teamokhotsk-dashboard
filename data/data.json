@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:16:23.058245+00:00",
+  "updatedAt": "2026-08-20T22:51:42.724865+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1394.02,
-        "change": 0.33
+        "value": 1393.22,
+        "change": 0.27
       },
       {
         "name": "KOSPI",
@@ -87,15 +87,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -155,15 +152,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -223,15 +217,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -291,15 +282,12 @@
               52552.97,
               52146.42,
               51839.26,
-              52224.64,
-              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
-              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -363,15 +351,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -433,15 +418,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -668,7 +650,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1394.02
+              1393.22
             ]
           }
         ]
@@ -717,15 +699,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -784,15 +763,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -859,13 +835,13 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65,
@@ -887,11 +863,11 @@
   "news": {
     "AVGO": [
       {
-        "type": "positive",
-        "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMVM4RzJGWlYtWFBYREhKWTNUcWU5Q2d1X2pSdFAwUUgyN3FiWlNBUmN0NWo4VWRPaXV2Z3E3M2hrTkxEU2h3MTdSQjR1d3ZKc2tlNW5Vdk5sZVpUc1Q0TnFUbzZ2Y2dMWF9wb0dFSFV3ZGFXRm5rdzB1WVVmeG5VRVVIQmtSdW00TEQ0M2xobW9ZcUtDcmRGcGs1X056R2p3aTVnag?oc=5",
-        "date": "08/20 18:05"
+        "type": "neutral",
+        "title": "The Line In The Sand For AVGO Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
+        "date": "08/21 04:56"
       },
       {
         "type": "negative",
@@ -901,18 +877,18 @@
         "date": "08/20 06:26"
       },
       {
-        "type": "neutral",
-        "title": "The Line In The Sand For AVGO Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
-        "date": "08/21 04:56"
-      },
-      {
         "type": "positive",
         "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMi1GeFJHdzdUbmhncEozNGRqSDZGQldHT19Penp3RGhSYkJvV3JLc3Y4NWE4clIwU21CSG5sSjhhSTVjSURJV0NxdzNEVFVnSzNqUEdGdjN3WkpDcG8zMDNCZFJEWDFzX05VX2tjaWhqUDF4TWdUVmxuR1hLNXpIRkpUaTJWOGltNDlFVURvMm9yN21RS0VMZDJvVkNtSDhudnkwX3h5MVNibWlSeF84TUdiT09qQl9pTFNuOUZmUGhHNWlnR2NxSHg1NnlPNEdEcXQwcmhGV0x3SjR6NHNObE92WEwtRHdraGc?oc=5",
         "date": "08/20 23:02"
+      },
+      {
+        "type": "positive",
+        "title": "AVGO Stock Inches Higher — Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY2J3dFdmNGpwX2ZmTS1xbFhYTUZvWU5yWGpudDI1SUgyeG5BclBFbWtja3NhRWdaeHUxSkVGSkpzSlh5UG12VVdRcE5vSVZ4dkhESzBkd0xMZExNSFMwcDRIZXFaY25fUWJrN3I2RHpMcnVfX1RUUThySEZyUE43MWpONVlIQVRjdkUyN2Q5X2R1RV82Sk5BdGFfOGlxR1c5R1Q0TWRPMUwzVWdCUXJKZktaTmlPQnFaUnh1Y3hMejJDQTRJWWpqVFFtZmNYVU9BYXlmaU5NR0E3a2tuVVpqWlNFb0ZlbFhSckxuVjZQS25Bd0ZXR0tPNVRaUE1oLTBx?oc=5",
+        "date": "08/21 07:25"
       }
     ],
     "BE": [
@@ -941,8 +917,8 @@
         "type": "neutral",
         "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
-        "date": "08/20 04:36"
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV0Y5UTBkY2RVU0F2dUMzSkwybS1McTl1dDNnMW5BZkRsWldiT0xZejJvXzhVdWs4MkFhSVJzMUpmUHN5QlZWZi00ZndRSkp6OTJSQURlM2FQcFRGVVdrLW4tYUQ3NVMzckhKQnRJS1ZFTUtpSXotVV9ORzdRWG5rbm1td196TkxvelYzUUZVN19YbXBPZWt6X2pxUlJpZkw4RDJMWUJnQldGcjE4ZEVieGswVjY0ZV9mRExwZGs5SUNpV3g1SVdqZ3pZejFDTUROUVHSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
+        "date": "08/20 04:27"
       }
     ],
     "GOOGL": [
@@ -952,6 +928,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU53Q3pkcGotTVlBbUpHZGgtbmhzY0JZLWozYjhyTWRMd0RMRFd1NlBkOXBrXzl4Q01PWXV6cXZCWS1hSGVUM0VXYUh2TmZlSncyR1RCQU1yVjh3Y2tXeU9QRW8yT0xZNmxzWHhFSGxjYU94X3NyeXlFRmpITnNROVNYMXgyV2FkajdaTkJmVVkzaFgwWWQwMQ?oc=5",
         "date": "08/20 11:23"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
       },
       {
         "type": "neutral",
@@ -966,13 +949,6 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
         "date": "08/21 01:18"
-      },
-      {
-        "type": "neutral",
-        "title": "Greg Abel Just Bet $17 Billion on This 1 Stock",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtvMk1vNmloQjVyN0FCVmVGUWh5ZVdhNldHVHl0dHN3QWlaenVFZ2szM05fOUdLU1U5N3d3d3Y0S2ZNNGtncExaUjBBLWFNazVPOG84STZ3YXN0QWJaUTJENGN4RmdqY1hSTjBQWVI3SXVJRm9Yc0VUSGhGMEhxMENWdkJsVkY4allscER4ZGx5eHc?oc=5",
-        "date": "08/18 21:10"
       }
     ],
     "QCOM": [
