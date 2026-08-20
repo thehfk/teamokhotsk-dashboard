@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-20T19:52:33.828221+00:00",
+  "updatedAt": "2026-08-20T20:17:35.460263+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7650.32,
-        "change": -0.75
+        "value": 7641.16,
+        "change": -0.87
       },
       {
         "name": "NASDAQ",
-        "value": 26081.93,
-        "change": -0.95
+        "value": 26067.17,
+        "change": -1.0
       },
       {
         "name": "다우존스",
-        "value": 52827.47,
-        "change": -1.19
+        "value": 52759.21,
+        "change": -1.32
       },
       {
         "name": "공포지수 VIX",
-        "value": 16.02,
-        "change": 7.59
+        "value": 15.97,
+        "change": 7.25
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1394.22,
-        "change": -1.37
+        "value": 1393.46,
+        "change": 0.29
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "05/20",
           "05/21",
           "05/22",
           "05/26",
@@ -113,7 +112,6 @@
           {
             "name": "S&P500",
             "data": [
-              7432.97,
               7445.72,
               7473.47,
               7519.12,
@@ -173,13 +171,12 @@
               7745.06,
               7691.76,
               7707.98,
-              7650.32
+              7641.16
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              26270.36,
               26293.1,
               26343.97,
               26656.18,
@@ -239,13 +236,12 @@
               26644.91,
               26289.71,
               26331.09,
-              26081.93
+              26067.17
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              50009.35,
               50285.66,
               50579.7,
               50461.68,
@@ -305,7 +301,7 @@
               53459.78,
               53343.4,
               53463.05,
-              52827.47
+              52759.21
             ]
           }
         ]
@@ -441,7 +437,7 @@
               15.19,
               15.84,
               14.89,
-              16.02
+              15.97
             ]
           }
         ]
@@ -565,7 +561,8 @@
               1415.37,
               1414.73,
               1413.58,
-              1394.22
+              1389.4,
+              1393.46
             ]
           }
         ]
@@ -769,11 +766,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.0,
-    "BE": 48.3,
-    "GOOGL": 39.4,
-    "QCOM": 63.5,
-    "VRT": 60.2
+    "AVGO": 38.4,
+    "BE": 48.6,
+    "GOOGL": 39.3,
+    "QCOM": 63.6,
+    "VRT": 60.8
   },
   "news": {
     "AVGO": [
@@ -792,18 +789,18 @@
         "date": "08/20 06:26"
       },
       {
+        "type": "neutral",
+        "title": "The Line In The Sand For AVGO Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
+        "date": "08/21 04:56"
+      },
+      {
         "type": "positive",
         "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMi1GeFJHdzdUbmhncEozNGRqSDZGQldHT19Penp3RGhSYkJvV3JLc3Y4NWE4clIwU21CSG5sSjhhSTVjSURJV0NxdzNEVFVnSzNqUEdGdjN3WkpDcG8zMDNCZFJEWDFzX05VX2tjaWhqUDF4TWdUVmxuR1hLNXpIRkpUaTJWOGltNDlFVURvMm9yN21RS0VMZDJvVkNtSDhudnkwX3h5MVNibWlSeF84TUdiT09qQl9pTFNuOUZmUGhHNWlnR2NxSHg1NnlPNEdEcXQwcmhGV0x3SjR6NHNObE92WEwtRHdraGc?oc=5",
         "date": "08/20 18:05"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Thursday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1c0Y2x1TjJBc0lKTW9zSGZhWG00X0NUcTBNdkNUYXAzUXJsbDR0ZlUwdDZTOElIaW56T28wbmJMazdqSWdsTURHeFRoY19QaDE0QVpoNzZNSWlaQjUzTk4zM28wbUVsMGpxY19YN1NnbkRrUnpyOHRadEJuOWllNzluMk9zWS1hN3pfTEZDcS1MTFhJSko5UlVvVHdLTFE?oc=5",
-        "date": "08/20 22:30"
       }
     ],
     "BE": [
@@ -832,8 +829,8 @@
         "type": "neutral",
         "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
-        "date": "08/20 04:36"
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV0Y5UTBkY2RVU0F2dUMzSkwybS1McTl1dDNnMW5BZkRsWldiT0xZejJvXzhVdWs4MkFhSVJzMUpmUHN5QlZWZi00ZndRSkp6OTJSQURlM2FQcFRGVVdrLW4tYUQ3NVMzckhKQnRJS1ZFTUtpSXotVV9ORzdRWG5rbm1td196TkxvelYzUUZVN19YbXBPZWt6X2pxUlJpZkw4RDJMWUJnQldGcjE4ZEVieGswVjY0ZV9mRExwZGs5SUNpV3g1SVdqZ3pZejFDTUROUVHSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
+        "date": "08/20 04:27"
       }
     ],
     "GOOGL": [
@@ -870,9 +867,9 @@
       {
         "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
-        "date": "08/21 00:09"
+        "publisher": "Zacks Investment Research",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2hGYjhNRFQ5TFZxYkpVZUNGdnZhbVh2aEZMeFZDUUdiMXpPd3NHTXNyd0JBWFZJN1lLdnFKc3ZXS0RMTU9heTFfLXFLMnRLRndVSXRyVW9leHZrVUp0bmNhUV9kb1RkQ0xtY2FzYlJSeUJSNU1RNGdHYkZzYlVhcjJBakpwYmNVMUlRRUpWdDdjMzNTd29lNEt3bzlvQlJaRjAyTzVUMFRkQQ?oc=5",
+        "date": "08/21 00:00"
       },
       {
         "type": "neutral",
@@ -882,18 +879,18 @@
         "date": "08/17 05:19"
       },
       {
+        "type": "positive",
+        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUlBVzQzNTc3MGc5MVVMcDZsa2xIQzJHZ2RTWjZ5MHFQX19ieFZKYTJ3eFUzYTdKRWlKWnVGdHN2OGdyYldaYkxVZnI0RFZoQmVOWWdiUGpvTU9VS1RlWFBmQ0gwRDAxOW5yM0oxeUVfQmVITXFSeGM0b1pBdnUyZmQ3V19KUE9BS1NVeGFmQk1wS0VRNU5BUlRFRQ?oc=5",
+        "date": "08/20 22:49"
+      },
+      {
         "type": "neutral",
         "title": "Where Will Qualcomm Stock Be in 5 Years?",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
         "date": "08/19 01:00"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "08/18 23:39"
       }
     ],
     "VRT": [
