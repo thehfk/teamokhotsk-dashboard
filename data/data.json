@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-21T13:25:16.517533+00:00",
+  "updatedAt": "2026-08-21T14:04:39.941525+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7641.16,
-        "change": -0.87
+        "value": 7667.7,
+        "change": 0.35
       },
       {
         "name": "NASDAQ",
-        "value": 26067.17,
-        "change": -1.0
+        "value": 26093.45,
+        "change": 0.1
       },
       {
         "name": "다우존스",
-        "value": 52759.21,
-        "change": -1.32
+        "value": 53128.09,
+        "change": 0.7
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.46,
-        "change": -3.44
+        "value": 15.45,
+        "change": -3.5
       },
       {
         "name": "미국10년금리",
-        "value": 4.71,
-        "change": 0.21
+        "value": 4.72,
+        "change": 0.43
       },
       {
         "name": "원달러환율",
-        "value": 1385.87,
-        "change": -0.25
+        "value": 1385.58,
+        "change": -0.27
       },
       {
         "name": "KOSPI",
@@ -109,7 +109,8 @@
           "08/17",
           "08/18",
           "08/19",
-          "08/20"
+          "08/20",
+          "08/21"
         ],
         "series": [
           {
@@ -177,7 +178,8 @@
               7745.06,
               7691.76,
               7707.98,
-              7641.16
+              7641.16,
+              7667.7
             ]
           },
           {
@@ -245,7 +247,8 @@
               26644.91,
               26289.71,
               26331.09,
-              26067.17
+              26067.17,
+              26093.45
             ]
           },
           {
@@ -313,7 +316,8 @@
               53459.78,
               53343.4,
               53463.05,
-              52759.21
+              52759.21,
+              53128.09
             ]
           }
         ]
@@ -455,7 +459,7 @@
               15.84,
               14.89,
               16.01,
-              15.46
+              15.45
             ]
           }
         ]
@@ -595,7 +599,7 @@
               4.71,
               4.65,
               4.7,
-              4.71
+              4.72
             ]
           },
           {
@@ -667,7 +671,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1385.87
+              1385.58
             ]
           }
         ]
@@ -881,14 +885,21 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.4,
-    "BE": 48.6,
-    "GOOGL": 39.3,
-    "QCOM": 63.6,
-    "VRT": 60.8
+    "AVGO": 38.0,
+    "BE": 42.6,
+    "GOOGL": 22.2,
+    "QCOM": 59.8,
+    "VRT": 48.6
   },
   "news": {
     "AVGO": [
+      {
+        "type": "positive",
+        "title": "Broadcom Stock (AVGO) Gains on Reported $100 Billion AI Financing Deal",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUt4SzBHYnQ4UWZHem5kc0ZYLVJSQ2NtOC1XeGphT0wwV1dvNkRWTE1vWVZJT0s5Sko3ZDgzMTFDa1laeFhqdWRtR0hvaVVGNG0zNUV6RzV0d1NkNFFIRWhtamZyS3ZuQklEZVZmUjVUY1UtMkJBaWV1WU5SVmlJRXVnaThPRzBhNlVTbjVQay1IeWtnaEV6YkxYWEtLdw?oc=5",
+        "date": "08/21 06:38"
+      },
       {
         "type": "neutral",
         "title": "4 stocks to watch on Friday: JBLU, MDB, SKHY, and AVGO (SP500:)",
@@ -909,13 +920,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
         "date": "08/20 07:06"
-      },
-      {
-        "type": "positive",
-        "title": "2 AI Stocks, 1 Winner: Which Has More Upside?",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnRDTXA0RzRkZWZoTENiSk9WdUdTUXhrakZwRUxmTDNNbVVrcXRwNHVTeTlUcTNnN19laDhheFBVM0NtZGtzcGRpVDJlQTMxc1F1OTRrMlIzZ3ZXOVVJQTFFX19FQlZoV3NnbEVoZTQ4ZzlwTlNjMEotUUNNU1VrR1JjM2stc1BsYk10Tmdxcw?oc=5",
-        "date": "08/21 03:00"
       }
     ],
     "BE": [
@@ -988,13 +992,6 @@
       },
       {
         "type": "neutral",
-        "title": "Qualcomm: A Compelling Turnaround Opportunity (NASDAQ:QCOM)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2JoaFNOaWJaLVFzV1VVT1YyTHNzRS1jRVpPaXR3U0I2TlgyeGlGVG5pVi1TdmlTanQ3MS14VF9oS1FYaUVxdTlvR2VHcEpWb3RuY3B1bkp5Qy1WNWFsdlNHdnJiOE5zYjd3NjFqX2NvVmZkdF9feTBEb242VkJJTXBLSW9BWTVDck0w?oc=5",
-        "date": "08/21 20:34"
-      },
-      {
-        "type": "neutral",
         "title": "The Diverging Paths Priced Into Qualcomm Stock",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
@@ -1002,10 +999,17 @@
       },
       {
         "type": "neutral",
-        "title": "Where Will Qualcomm Stock Be in 5 Years?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
-        "date": "08/19 01:00"
+        "title": "Qualcomm: A Compelling Turnaround Opportunity (NASDAQ:QCOM)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2JoaFNOaWJaLVFzV1VVT1YyTHNzRS1jRVpPaXR3U0I2TlgyeGlGVG5pVi1TdmlTanQ3MS14VF9oS1FYaUVxdTlvR2VHcEpWb3RuY3B1bkp5Qy1WNWFsdlNHdnJiOE5zYjd3NjFqX2NvVmZkdF9feTBEb242VkJJTXBLSW9BWTVDck0w?oc=5",
+        "date": "08/21 20:34"
+      },
+      {
+        "type": "neutral",
+        "title": "Wealthfront Advisers LLC Invests $23.30 Million in Qualcomm Incorporated $QCOM",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2VOYUQxYjFEMXFuWjhsQTA4RUhVdUR2VEFaelo4QmZXTzlzY3JiNGYzTExjZV9MNGxrVFlfTkZTbTVqckpEZjc1UDQ5SFhSeWZ2MGREM3R2V2xsbkg3MmRMdUZESzllakpJb1VQcGhXS2hENWJ6TzlNdG5fQnhkelBESWdwcGkzZDhTRnNseWZYWDJ5NWM2SHo4RVVjOUFIQzV3N0NuS2R1b3VRMFk0OWlpT19NNjMyd0VLMl8zRW5VQTBVUUxwRG1vMGVEVER2NkE?oc=5",
+        "date": "08/21 19:06"
       }
     ],
     "VRT": [
