@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-21T19:05:06.440233+00:00",
+  "updatedAt": "2026-08-21T19:44:41.359361+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7678.72,
-        "change": 0.49
+        "value": 7682.7,
+        "change": 0.54
       },
       {
         "name": "NASDAQ",
-        "value": 26178.3,
-        "change": 0.43
+        "value": 26204.58,
+        "change": 0.53
       },
       {
         "name": "다우존스",
-        "value": 53322.13,
+        "value": 53324.01,
         "change": 1.07
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.27,
-        "change": -4.62
+        "value": 15.18,
+        "change": -5.18
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.06,
-        "change": -0.31
+        "value": 1385.28,
+        "change": -0.3
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7691.76,
               7707.98,
               7641.16,
-              7678.72
+              7682.7
             ]
           },
           {
@@ -248,7 +248,7 @@
               26289.71,
               26331.09,
               26067.17,
-              26178.3
+              26204.58
             ]
           },
           {
@@ -317,7 +317,7 @@
               53343.4,
               53463.05,
               52759.21,
-              53322.13
+              53324.01
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.84,
               14.89,
               16.01,
-              15.27
+              15.18
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1385.06
+              1385.28
             ]
           }
         ]
@@ -882,11 +882,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.5,
-    "BE": 41.9,
-    "GOOGL": 26.1,
-    "QCOM": 60.3,
-    "VRT": 50.0
+    "AVGO": 39.1,
+    "BE": 41.8,
+    "GOOGL": 26.9,
+    "QCOM": 61.1,
+    "VRT": 49.5
   },
   "news": {
     "AVGO": [
@@ -913,19 +913,26 @@
       },
       {
         "type": "positive",
-        "title": "2 AI Stocks, 1 Winner: Which Has More Upside?",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnRDTXA0RzRkZWZoTENiSk9WdUdTUXhrakZwRUxmTDNNbVVrcXRwNHVTeTlUcTNnN19laDhheFBVM0NtZGtzcGRpVDJlQTMxc1F1OTRrMlIzZ3ZXOVVJQTFFX19FQlZoV3NnbEVoZTQ4ZzlwTlNjMEotUUNNU1VrR1JjM2stc1BsYk10Tmdxcw?oc=5",
-        "date": "08/21 03:00"
+        "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
+        "publisher": "TheStreet Pro",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLS1iR0dRWktTeGdrQTF5WkNSNnNFQ3dOQVJDRnBqTFItVmZvRGtPZF9PcTkybWxNS1RoRG9hRmsyYmN2R2dNLWhYeDVpOGF0ZGxwc2lPandkUEFZN0c5X3BqbHJhNEcwaF9QcXdFZFNWd3FnQjY4VUdMLU8ySE5Ra0RmN1drSmZNYlFDOUttWFl1Wkx1dTRUYTlYS241dXQ0Y3pZcGFmTFN4NGNo?oc=5",
+        "date": "08/21 21:28"
       }
     ],
     "BE": [
       {
         "type": "neutral",
-        "title": "symbol__ Stock Quote Price and Forecast",
-        "publisher": "CNN",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04ejU2SUQyV194ZFNDaHY4RFJ3R3E1Sm53bzRndWdCeGRNZ3BxU0dGVjJGQmpIRW9QVlphdmw1WndWS1RzT2xKbFREejNPUQ?oc=5",
-        "date": "08/21 19:33"
+        "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
+        "date": "08/20 15:35"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Bloom Energy Stock Crashed This Week",
+        "publisher": "The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2RuSnpVZ2VOdS01OVpPY2o1dVFTcXFvd0J0czlXLWt3Nnc3ck5jNDMxY3dNYXhvTzJ2elk3aG9kZUZqT2ViRXVqVUtXYjRqdlo1eENyTkJxWWJzOWh2OFluUkk0TGdOWWRUY3pDdnJLbmRLVEhlUkpsNWptbDEyUzVDd2g0YXFabWQ0LUpiRDQ3RHZ5Y3Rhbnp4STh5aURKZ1VZVl9idWI4anc1RW1kM09ST0Joa0xVcnhnTXdvVXVBdUU?oc=5",
+        "date": "08/22 00:31"
       },
       {
         "type": "neutral",
@@ -940,13 +947,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRS1pWDJkVi0taEQ1c2VISUd3T0FlRnRKRHZwV28yVWNNSHBtWEhfVjJKMzN3NUVOd2xhejZyU3hJMjN5dDU0eUtHVnpsU3pLb3hBTkpPaDEtaXpsYm9SRm0xcHpBd0dMejI4dy1KS2FBV0h4ZWhvZ05hd2VfdTFGLS1FenJMQlY2WEdtcnNBZ3hyVjF2bWZiVldNUWlqdGRnc0pTTG9aa3BEb3RjR1JkQzhDYmFkMkMtUWRVeGNzOW9rdkE?oc=5",
         "date": "08/19 02:17"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Stock Looks Fully Priced After A Very Large Run",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ28zNWFTaGhJaVgxVy1hOXJTenZJQ3R6ZlJISHRaVzdCZllacDZEVFZyeEJneWhjNThNUUp3U3g0YWJsSW5ydGZZMWEwR0dJNVIwNWh6UFNTcXJGX3NORC1oTHRDQm1VQUpvbzgxRHN2algxbDYtejZqZmUyUVlNUUtWSTRnQVU5Mkt3OGFVMVB4bGdIbjVoQ0tlUQ?oc=5",
-        "date": "07/28 16:00"
       }
     ],
     "GOOGL": [
