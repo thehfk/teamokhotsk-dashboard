@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-21T19:44:41.359361+00:00",
+  "updatedAt": "2026-08-21T20:14:33.861407+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7682.7,
-        "change": 0.54
+        "value": 7674.37,
+        "change": 0.43
       },
       {
         "name": "NASDAQ",
-        "value": 26204.58,
-        "change": 0.53
+        "value": 26180.46,
+        "change": 0.43
       },
       {
         "name": "다우존스",
-        "value": 53324.01,
-        "change": 1.07
+        "value": 53277.01,
+        "change": 0.98
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.18,
-        "change": -5.18
+        "value": 15.15,
+        "change": -5.37
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.28,
-        "change": -0.3
+        "value": 1385.4,
+        "change": -0.39
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "05/21",
           "05/22",
           "05/26",
           "05/27",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7445.72,
               7473.47,
               7519.12,
               7520.36,
@@ -179,13 +177,12 @@
               7691.76,
               7707.98,
               7641.16,
-              7682.7
+              7674.37
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              26293.1,
               26343.97,
               26656.18,
               26674.73,
@@ -248,13 +245,12 @@
               26289.71,
               26331.09,
               26067.17,
-              26204.58
+              26180.46
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              50285.66,
               50579.7,
               50461.68,
               50644.28,
@@ -317,7 +313,7 @@
               53343.4,
               53463.05,
               52759.21,
-              53324.01
+              53277.01
             ]
           }
         ]
@@ -459,7 +455,7 @@
               15.84,
               14.89,
               16.01,
-              15.18
+              15.15
             ]
           }
         ]
@@ -671,7 +667,8 @@
               1414.73,
               1413.58,
               1389.4,
-              1385.28
+              1390.79,
+              1385.4
             ]
           }
         ]
@@ -882,11 +879,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 39.1,
-    "BE": 41.8,
-    "GOOGL": 26.9,
-    "QCOM": 61.1,
-    "VRT": 49.5
+    "AVGO": 39.2,
+    "BE": 42.0,
+    "GOOGL": 25.6,
+    "QCOM": 60.3,
+    "VRT": 49.4
   },
   "news": {
     "AVGO": [
@@ -925,7 +922,7 @@
         "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
-        "date": "08/20 15:35"
+        "date": "08/21 16:36"
       },
       {
         "type": "neutral",
