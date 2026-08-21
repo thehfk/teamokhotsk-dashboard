@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:56:49.774499+00:00",
+  "updatedAt": "2026-08-21T11:20:11.407152+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1384.27,
-        "change": -0.37
+        "value": 1384.08,
+        "change": -0.38
       },
       {
         "name": "KOSPI",
@@ -667,7 +667,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1384.27
+              1384.08
             ]
           }
         ]
@@ -890,11 +890,11 @@
   "news": {
     "AVGO": [
       {
-        "type": "neutral",
-        "title": "The Line In The Sand For AVGO Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLVEwZ3JoNEVTZl84T0NqcmJzS1N5YzFKcm5NNmNkc2RDbTJxWF81b1RhRnNsdnZ4eG5YRVFSaW0yY2VIdmd0UUgyUGViYlJmSTBXdEN2bnk0M2RPQ0Z5dlA3QjlzWEduLUhHbGJZeVJyVjNNT2dQLUpfM1JoSzlxRmlZOHJuNkY3SVpvMDhSNU4?oc=5",
-        "date": "08/21 04:56"
+        "type": "negative",
+        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
+        "date": "08/20 07:06"
       },
       {
         "type": "neutral",
@@ -912,10 +912,10 @@
       },
       {
         "type": "neutral",
-        "title": "The Line In The Sand For AVGO Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
-        "date": "08/21 04:56"
+        "title": "What's Going On With Broadcom Stock Friday? - Broadcom (NASDAQ:AVGO)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZG9sNW13WGdmeDhmN0tlVWw4M1hGRTlMYW5JSGktbUFvZ0lPaDJWcS1NbXJiOE5BMDZER3pOWnlvYVJGTDdxZGUxWmtuTXFXODd5XzNKYzUtVFJSeEFCRHpOdEdZdVFYWDNoWmVLbTNwRURQaWZKbXdzV0x4M0ltYkY1UmhfMS1Ia05xTS1FNENtS0JJdi1vby0yWnEtRE9aS0pQQl9vN0F6WThLN09aQklPNW5oMkRpb29wdlotY2hEdVFkQXE3VVdYWWw?oc=5",
+        "date": "08/21 18:48"
       }
     ],
     "BE": [
@@ -950,18 +950,18 @@
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnp1aWNFWG44aVVkazJPR1JJY2lBcTJrTmFENWxFSWxCNWRULTRteFdfcDhOM1YySjdQVGhMMExobHVVa21yRUo3enFBLVJMUVRiVXV0TFVJM3o3S00yNDFhNXp0eXRzRmJDb1I2YW1LdFpOWXNuQzN3c2lvYXlTSWZidVlCNmR0QjBkT1lnV0xXdjdiRjdObzRXNGFhWnNHMzRKbWVuTnlKVlVJb0N3VV82MHVwZlltc1pONg?oc=5",
-        "date": "08/20 00:24"
-      },
-      {
         "type": "neutral",
         "title": "Wall Street analyst sets Google (GOOGL) stock price target for 12 months",
         "publisher": "Finbold",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEhXXzVwZ0VTQTl4VnpkekMzSk9ub2JxZjZoWjZHM05JMndTZmR0bEdUbnVzamgwaU1uQmd2RnJMZ0lyX1VMZEgzQU9NbmZvaGFKSzhmRmxtX2QzZVJnQS1ac1dtYkkxNmM4T3Z5aG82NUZ6Qm54U042UDRwcl9MSnlzcFBsa0VJTnBPTVN6a0dsTWw3d1E?oc=5",
         "date": "08/21 02:13"
+      },
+      {
+        "type": "neutral",
+        "title": "AMZN vs. GOOGL: Rosenblatt Sees One Tech Stock as the ‘Most Resilient Leader’",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFFhZFBaZ2J5RXVGb2U5bFo5LWtJbWhzdk50Nmw2bVRjWTV3bEY0UGhMYjd2UTVyVnpHaDhGTTIyRXNRdDA0X1NfWWJ0VlIwbmZhSlZ4eVRldXpXTjIxTnFJQi1XZElUT2M4dUpJZmFyQUl6Y2pjZXhaa0Nja2cyVHNlQWluYVFteFowSnFnVmxYeFBlU2IyRXlfU1ZMdkJkZFR2MkRB?oc=5",
+        "date": "08/21 00:51"
       },
       {
         "type": "neutral",
@@ -972,10 +972,10 @@
       },
       {
         "type": "neutral",
-        "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
-        "date": "08/21 01:18"
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
       }
     ],
     "QCOM": [
@@ -987,18 +987,18 @@
         "date": "08/21 00:09"
       },
       {
-        "type": "positive",
-        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
+        "type": "neutral",
+        "title": "The Diverging Paths Priced Into Qualcomm Stock",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
-        "date": "08/20 18:08"
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
+        "date": "08/17 05:19"
       },
       {
         "type": "neutral",
-        "title": "37,258 Shares in Qualcomm Incorporated $QCOM Purchased by Foster & Motley Inc.",
+        "title": "Wealthfront Advisers LLC Invests $23.30 Million in Qualcomm Incorporated $QCOM",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWIzNWxtSTFOeWF5c2I0WnZORTdFZUY5RURYb0ZmNDU1MndORDd3SXcxZmlCN0VlZk1zZjlPVVBYZ01aUjBTcHhHcUhOSGFqdndQc211NDAzZGk5RjFLVXVQTU5wVlItT1FMZEN2ZlcydlhWYmh2eFFjNnh0dHFOZjA5MEwyMUhxYW5DTnpkNjVJNUJCSDhDbW5mdFBWa01rYmpkUkk2VVVEUXNQRTNjM2Y1Y2dBUmhVRkJ5N0g3aHBuY3lEdGc4UmN4d05scG8?oc=5",
-        "date": "08/21 17:10"
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2VOYUQxYjFEMXFuWjhsQTA4RUhVdUR2VEFaelo4QmZXTzlzY3JiNGYzTExjZV9MNGxrVFlfTkZTbTVqckpEZjc1UDQ5SFhSeWZ2MGREM3R2V2xsbkg3MmRMdUZESzllakpJb1VQcGhXS2hENWJ6TzlNdG5fQnhkelBESWdwcGkzZDhTRnNseWZYWDJ5NWM2SHo4RVVjOUFIQzV3N0NuS2R1b3VRMFk0OWlpT19NNjMyd0VLMl8zRW5VQTBVUUxwRG1vMGVEVER2NkE?oc=5",
+        "date": "08/21 19:06"
       },
       {
         "type": "neutral",
@@ -1026,8 +1026,8 @@
       {
         "type": "negative",
         "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
+        "publisher": "Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFRPY2xpV0tUd2dOZEFrMVBBczYtVmpwRzNRTy1mZ2hPeXc5N0puTldfd1o0b2tnNFJpU25zdnFVbXBVeE5IZFcwUjg4YzcxMVREMUFMQkEtYmREOXlELUVqcjlBTFFqZllFRG9vMlVkRDNEZzJzZTVWMk53Vkc5Wjl5N1dJN203QlhCNnhn?oc=5",
         "date": "08/19 00:36"
       },
       {
