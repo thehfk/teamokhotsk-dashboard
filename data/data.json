@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:27:39.921852+00:00",
+  "updatedAt": "2026-08-21T04:08:49.655200+00:00",
   "market": {
     "cards": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "name": "다우존스",
-        "value": 52759.2,
+        "value": 52759.21,
         "change": -1.32
       },
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1381.23,
-        "change": -0.59
+        "value": 1382.3,
+        "change": -0.51
       },
       {
         "name": "KOSPI",
-        "value": 6912.35,
-        "change": 0.87
+        "value": 6906.44,
+        "change": 0.79
       },
       {
         "name": "KOSDAQ",
-        "value": 799.1,
-        "change": -4.97
+        "value": 802.47,
+        "change": -4.57
       }
     ],
     "groups": [
@@ -87,12 +87,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -152,12 +155,15 @@
               7533.77,
               7457.69,
               7443.28,
+              7509.2,
+              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
+              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -217,12 +223,15 @@
               25881.95,
               25520.24,
               25508.07,
+              25837.21,
+              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
+              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -282,12 +291,15 @@
               52552.97,
               52146.42,
               51839.26,
+              52224.64,
+              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
+              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -301,7 +313,7 @@
               53459.78,
               53343.4,
               53463.05,
-              52759.2
+              52759.21
             ]
           }
         ]
@@ -351,12 +363,15 @@
           "07/16",
           "07/17",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -418,12 +433,15 @@
               16.73,
               18.77,
               18.65,
+              17.05,
+              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
+              15.99,
               15.86,
               16.5,
               15.81,
@@ -649,7 +667,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1381.23
+              1382.3
             ]
           }
         ]
@@ -697,12 +715,15 @@
           "07/15",
           "07/16",
           "07/20",
+          "07/21",
+          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
+          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -762,12 +783,15 @@
               7284.41,
               6820.6,
               6516.27,
+              6747.95,
+              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
+              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -781,7 +805,7 @@
               6869.83,
               6471.17,
               6852.58,
-              6912.35
+              6906.44
             ]
           },
           {
@@ -835,20 +859,20 @@
               705.85,
               662.68,
               644.78,
+              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
-              857.84,
               858.91,
               861.37,
               864.65,
               834.2,
               824.46,
               840.89,
-              799.1
+              802.47
             ]
           }
         ]
@@ -872,13 +896,6 @@
         "date": "08/21 04:56"
       },
       {
-        "type": "neutral",
-        "title": "Unfortunate News for Broadcom Stock Investors",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUlWeWlaQU5SSFJMcEFEVG11X1BMZHk0ZmxxdUVZUDAzSUw3TWxiSXNuTWpjYkl2U0pIb2xMd0s1TjJUNzVfel92WmpNSmNlTG9DYmQxd3VVMTViN2VRSGlVQnZ2MUtJWFY1T3Q4ZmpiSXBGc2RNelNYYnBNejBOVjktbURJM3ZrWVBvcDZHRTQzdw?oc=5",
-        "date": "08/19 13:40"
-      },
-      {
         "type": "positive",
         "title": "AVGO Stock Inches Higher — Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion",
         "publisher": "Yahoo Finance",
@@ -887,10 +904,17 @@
       },
       {
         "type": "neutral",
-        "title": "The Line In The Sand For AVGO Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
-        "date": "08/21 04:56"
+        "title": "Unfortunate News for Broadcom Stock Investors",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUlWeWlaQU5SSFJMcEFEVG11X1BMZHk0ZmxxdUVZUDAzSUw3TWxiSXNuTWpjYkl2U0pIb2xMd0s1TjJUNzVfel92WmpNSmNlTG9DYmQxd3VVMTViN2VRSGlVQnZ2MUtJWFY1T3Q4ZmpiSXBGc2RNelNYYnBNejBOVjktbURJM3ZrWVBvcDZHRTQzdw?oc=5",
+        "date": "08/19 13:40"
+      },
+      {
+        "type": "neutral",
+        "title": "NVIDIA vs. Broadcom: The AI Stock You Should Buy Right Now",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWtEOW42WUpTT3QwSFg5VnkwVUJqMDJWTmNVZWxqZGZSMnhweVZuMEQ5X0U2NmtUWTNzQ2thSEF4S0g4VlJza3VwMEVxaEZMMHpubGpsRXdLUGN2NzRiZTJySE94MUhDeVNIM1kwVTN0WEN0UDB5OGZWRjc0RGJEM2R3NUlFNDRmWkxzQ3dubE1PTjNpUE0wVWhGUXc2RkttWFJ3elZPdE95RFZidlNnOG93?oc=5",
+        "date": "08/20 04:00"
       }
     ],
     "BE": [
