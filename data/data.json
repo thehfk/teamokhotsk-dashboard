@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:46:59.741884+00:00",
+  "updatedAt": "2026-08-21T00:41:45.053493+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1392.45,
-        "change": 0.22
+        "value": 1384.61,
+        "change": -0.34
       },
       {
         "name": "KOSPI",
-        "value": 6471.17,
-        "change": -5.8
+        "value": 6793.21,
+        "change": -0.87
       },
       {
         "name": "KOSDAQ",
-        "value": 824.46,
-        "change": -1.17
+        "value": 810.89,
+        "change": -1.65
       }
     ],
     "groups": [
@@ -87,15 +87,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -155,15 +152,12 @@
               7533.77,
               7457.69,
               7443.28,
-              7509.2,
-              7498.96,
               7408.3,
               7411.98,
               7413.18,
               7428.78,
               7316.15,
               7437.63,
-              7489.72,
               7600.5,
               7736.52,
               7723.55,
@@ -223,15 +217,12 @@
               25881.95,
               25520.24,
               25508.07,
-              25837.21,
-              25690.9,
               25137.69,
               24975.82,
               24932.08,
               24876.91,
               24442.94,
               25122.18,
-              25373.85,
               25913.9,
               26584.99,
               26363.44,
@@ -291,15 +282,12 @@
               52552.97,
               52146.42,
               51839.26,
-              52224.64,
-              52218.58,
               51711.65,
               51947.25,
               52210.08,
               52747.32,
               51594.14,
               52208.06,
-              52485.03,
               53178.41,
               54085.88,
               54349.12,
@@ -363,15 +351,12 @@
           "07/16",
           "07/17",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -433,15 +418,12 @@
               16.73,
               18.77,
               18.65,
-              17.05,
-              16.64,
               18.7,
               18.58,
               18.67,
               18.21,
               20.66,
               17.09,
-              15.99,
               15.86,
               16.5,
               15.81,
@@ -667,7 +649,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1392.45
+              1384.61
             ]
           }
         ]
@@ -675,7 +657,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "05/20",
           "05/21",
           "05/22",
           "05/26",
@@ -716,15 +697,12 @@
           "07/15",
           "07/16",
           "07/20",
-          "07/21",
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
           "07/28",
           "07/29",
           "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -736,13 +714,14 @@
           "08/13",
           "08/14",
           "08/18",
-          "08/19"
+          "08/19",
+          "08/20",
+          "08/21"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              7208.95,
               7815.59,
               7847.71,
               8047.51,
@@ -783,15 +762,12 @@
               7284.41,
               6820.6,
               6516.27,
-              6747.95,
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
               6023.66,
               5663.24,
               5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -803,13 +779,14 @@
               6813.34,
               6977.94,
               6869.83,
-              6471.17
+              6471.17,
+              6852.58,
+              6793.21
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              1056.07,
               1105.97,
               1161.13,
               1172.52,
@@ -858,18 +835,19 @@
               705.85,
               662.68,
               644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
               801.67,
               798.81,
               854.47,
+              857.84,
               858.91,
               861.37,
               864.65,
               834.2,
-              824.46
+              824.46,
+              810.89
             ]
           }
         ]
@@ -900,18 +878,18 @@
         "date": "08/20 06:26"
       },
       {
+        "type": "neutral",
+        "title": "The Line In The Sand For AVGO Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLVEwZ3JoNEVTZl84T0NqcmJzS1N5YzFKcm5NNmNkc2RDbTJxWF81b1RhRnNsdnZ4eG5YRVFSaW0yY2VIdmd0UUgyUGViYlJmSTBXdEN2bnk0M2RPQ0Z5dlA3QjlzWEduLUhHbGJZeVJyVjNNT2dQLUpfM1JoSzlxRmlZOHJuNkY3SVpvMDhSNU4?oc=5",
+        "date": "08/21 04:56"
+      },
+      {
         "type": "positive",
         "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMi1GeFJHdzdUbmhncEozNGRqSDZGQldHT19Penp3RGhSYkJvV3JLc3Y4NWE4clIwU21CSG5sSjhhSTVjSURJV0NxdzNEVFVnSzNqUEdGdjN3WkpDcG8zMDNCZFJEWDFzX05VX2tjaWhqUDF4TWdUVmxuR1hLNXpIRkpUaTJWOGltNDlFVURvMm9yN21RS0VMZDJvVkNtSDhudnkwX3h5MVNibWlSeF84TUdiT09qQl9pTFNuOUZmUGhHNWlnR2NxSHg1NnlPNEdEcXQwcmhGV0x3SjR6NHNObE92WEwtRHdraGc?oc=5",
-        "date": "08/20 23:02"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom Inc Stock (AVGO) Moved Down by 4.65% on Aug 19: What Investors Need To Know",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTzRmeEgtci1oMnBKNDBYb3NveTBUQlJnZEl0blltNk04RmI0NkJ5QmJuVDduU3VjcnlxUVg0VHNEblliX0R5RnZ6WFQ0X242ZEVEVktjR2w4Y0dKQ05mWmV4S29yRE9fdWdhdDVDS1VJZ281c0d3LVg5QUg2LU1Kakc5Qk9qc2E4WFkw?oc=5",
-        "date": "08/19 23:15"
+        "date": "08/20 18:08"
       }
     ],
     "BE": [
@@ -953,11 +931,11 @@
         "date": "08/20 11:23"
       },
       {
-        "type": "positive",
-        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
+        "type": "neutral",
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnp1aWNFWG44aVVkazJPR1JJY2lBcTJrTmFENWxFSWxCNWRULTRteFdfcDhOM1YySjdQVGhMMExobHVVa21yRUo3enFBLVJMUVRiVXV0TFVJM3o3S00yNDFhNXp0eXRzRmJDb1I2YW1LdFpOWXNuQzN3c2lvYXlTSWZidVlCNmR0QjBkT1lnV0xXdjdiRjdObzRXNGFhWnNHMzRKbWVuTnlKVlVJb0N3VV82MHVwZlltc1pONg?oc=5",
-        "date": "08/20 00:24"
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
       },
       {
         "type": "neutral",
