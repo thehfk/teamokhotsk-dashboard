@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T11:49:35.420640+00:00",
+  "updatedAt": "2026-08-21T12:25:52.677366+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.52,
-        "change": -3.06
+        "value": 15.47,
+        "change": -3.37
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1383.39,
-        "change": -0.43
+        "value": 1386.48,
+        "change": -0.21
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               15.84,
               14.89,
               16.01,
-              15.52
+              15.47
             ]
           }
         ]
@@ -463,7 +463,6 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "05/20",
           "05/21",
           "05/22",
           "05/26",
@@ -532,7 +531,6 @@
           {
             "name": "미국10년금리",
             "data": [
-              4.57,
               4.59,
               4.56,
               4.49,
@@ -667,7 +665,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1383.39
+              1386.48
             ]
           }
         ]
@@ -912,10 +910,10 @@
       },
       {
         "type": "neutral",
-        "title": "The Line In The Sand For AVGO Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
-        "date": "08/21 04:56"
+        "title": "What's Going On With Broadcom Stock Friday? - Broadcom (NASDAQ:AVGO)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZG9sNW13WGdmeDhmN0tlVWw4M1hGRTlMYW5JSGktbUFvZ0lPaDJWcS1NbXJiOE5BMDZER3pOWnlvYVJGTDdxZGUxWmtuTXFXODd5XzNKYzUtVFJSeEFCRHpOdEdZdVFYWDNoWmVLbTNwRURQaWZKbXdzV0x4M0ltYkY1UmhfMS1Ia05xTS1FNENtS0JJdi1vby0yWnEtRE9aS0pQQl9vN0F6WThLN09aQklPNW5oMkRpb29wdlotY2hEdVFkQXE3VVdYWWw?oc=5",
+        "date": "08/21 18:48"
       }
     ],
     "BE": [
