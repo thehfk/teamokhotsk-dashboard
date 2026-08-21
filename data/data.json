@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T11:20:11.407152+00:00",
+  "updatedAt": "2026-08-21T11:49:35.420640+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.69,
-        "change": -2.0
+        "value": 15.52,
+        "change": -3.06
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1384.08,
-        "change": -0.38
+        "value": 1383.39,
+        "change": -0.43
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               15.84,
               14.89,
               16.01,
-              15.69
+              15.52
             ]
           }
         ]
@@ -667,7 +667,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1384.08
+              1383.39
             ]
           }
         ]
@@ -912,10 +912,10 @@
       },
       {
         "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Friday? - Broadcom (NASDAQ:AVGO)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZG9sNW13WGdmeDhmN0tlVWw4M1hGRTlMYW5JSGktbUFvZ0lPaDJWcS1NbXJiOE5BMDZER3pOWnlvYVJGTDdxZGUxWmtuTXFXODd5XzNKYzUtVFJSeEFCRHpOdEdZdVFYWDNoWmVLbTNwRURQaWZKbXdzV0x4M0ltYkY1UmhfMS1Ia05xTS1FNENtS0JJdi1vby0yWnEtRE9aS0pQQl9vN0F6WThLN09aQklPNW5oMkRpb29wdlotY2hEdVFkQXE3VVdYWWw?oc=5",
-        "date": "08/21 18:48"
+        "title": "The Line In The Sand For AVGO Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
+        "date": "08/21 04:56"
       }
     ],
     "BE": [
@@ -958,13 +958,6 @@
       },
       {
         "type": "neutral",
-        "title": "AMZN vs. GOOGL: Rosenblatt Sees One Tech Stock as the ‘Most Resilient Leader’",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFFhZFBaZ2J5RXVGb2U5bFo5LWtJbWhzdk50Nmw2bVRjWTV3bEY0UGhMYjd2UTVyVnpHaDhGTTIyRXNRdDA0X1NfWWJ0VlIwbmZhSlZ4eVRldXpXTjIxTnFJQi1XZElUT2M4dUpJZmFyQUl6Y2pjZXhaa0Nja2cyVHNlQWluYVFteFowSnFnVmxYeFBlU2IyRXlfU1ZMdkJkZFR2MkRB?oc=5",
-        "date": "08/21 00:51"
-      },
-      {
-        "type": "neutral",
         "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU53Q3pkcGotTVlBbUpHZGgtbmhzY0JZLWozYjhyTWRMd0RMRFd1NlBkOXBrXzl4Q01PWXV6cXZCWS1hSGVUM0VXYUh2TmZlSncyR1RCQU1yVjh3Y2tXeU9QRW8yT0xZNmxzWHhFSGxjYU94X3NyeXlFRmpITnNROVNYMXgyV2FkajdaTkJmVVkzaFgwWWQwMQ?oc=5",
@@ -976,6 +969,13 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
         "date": "08/21 02:47"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
+        "date": "08/21 01:18"
       }
     ],
     "QCOM": [
@@ -995,17 +995,17 @@
       },
       {
         "type": "neutral",
+        "title": "Qualcomm: A Compelling Turnaround Opportunity (NASDAQ:QCOM)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2JoaFNOaWJaLVFzV1VVT1YyTHNzRS1jRVpPaXR3U0I2TlgyeGlGVG5pVi1TdmlTanQ3MS14VF9oS1FYaUVxdTlvR2VHcEpWb3RuY3B1bkp5Qy1WNWFsdlNHdnJiOE5zYjd3NjFqX2NvVmZkdF9feTBEb242VkJJTXBLSW9BWTVDck0w?oc=5",
+        "date": "08/21 20:34"
+      },
+      {
+        "type": "neutral",
         "title": "Wealthfront Advisers LLC Invests $23.30 Million in Qualcomm Incorporated $QCOM",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2VOYUQxYjFEMXFuWjhsQTA4RUhVdUR2VEFaelo4QmZXTzlzY3JiNGYzTExjZV9MNGxrVFlfTkZTbTVqckpEZjc1UDQ5SFhSeWZ2MGREM3R2V2xsbkg3MmRMdUZESzllakpJb1VQcGhXS2hENWJ6TzlNdG5fQnhkelBESWdwcGkzZDhTRnNseWZYWDJ5NWM2SHo4RVVjOUFIQzV3N0NuS2R1b3VRMFk0OWlpT19NNjMyd0VLMl8zRW5VQTBVUUxwRG1vMGVEVER2NkE?oc=5",
         "date": "08/21 19:06"
-      },
-      {
-        "type": "neutral",
-        "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTA3aUFqUllTRGFsRGhGT0Qya3Itd25vbWtHNS1rOUVJTC1RdXh6czR3bEJaamo2RXZFeEhlT1RMTUtkMlJMeE82YWlXeEVvTFFBZHdoZ01scFBwamR1S2RTSTZCeENfS0U2TGtOY3lfWGpzbmhaRkRaS0F3cGY0UjFIWlNNYlpvTXk4bXdSQmpCMDNhQkloRUpSMXI5ZVJYSWdZ?oc=5",
-        "date": "08/18 00:15"
       }
     ],
     "VRT": [
@@ -1026,8 +1026,8 @@
       {
         "type": "negative",
         "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFRPY2xpV0tUd2dOZEFrMVBBczYtVmpwRzNRTy1mZ2hPeXc5N0puTldfd1o0b2tnNFJpU25zdnFVbXBVeE5IZFcwUjg4YzcxMVREMUFMQkEtYmREOXlELUVqcjlBTFFqZllFRG9vMlVkRDNEZzJzZTVWMk53Vkc5Wjl5N1dJN203QlhCNnhn?oc=5",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
         "date": "08/19 00:36"
       },
       {
