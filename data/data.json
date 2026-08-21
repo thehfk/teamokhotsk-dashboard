@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-21T16:58:57.886755+00:00",
+  "updatedAt": "2026-08-21T17:28:04.844972+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7682.78,
-        "change": 0.54
+        "value": 7676.77,
+        "change": 0.47
       },
       {
         "name": "NASDAQ",
-        "value": 26208.99,
-        "change": 0.54
+        "value": 26188.48,
+        "change": 0.47
       },
       {
         "name": "다우존스",
-        "value": 53189.41,
-        "change": 0.82
+        "value": 53166.11,
+        "change": 0.77
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.29,
-        "change": -4.5
+        "value": 15.31,
+        "change": -4.37
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.14,
-        "change": -0.31
+        "value": 1385.24,
+        "change": -0.3
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7691.76,
               7707.98,
               7641.16,
-              7682.78
+              7676.77
             ]
           },
           {
@@ -248,7 +248,7 @@
               26289.71,
               26331.09,
               26067.17,
-              26208.99
+              26188.48
             ]
           },
           {
@@ -317,7 +317,7 @@
               53343.4,
               53463.05,
               52759.21,
-              53189.41
+              53166.11
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.84,
               14.89,
               16.01,
-              15.29
+              15.31
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1385.14
+              1385.24
             ]
           }
         ]
@@ -882,11 +882,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.1,
-    "BE": 41.2,
-    "GOOGL": 26.8,
-    "QCOM": 60.1,
-    "VRT": 48.0
+    "AVGO": 37.4,
+    "BE": 41.4,
+    "GOOGL": 26.2,
+    "QCOM": 59.8,
+    "VRT": 48.7
   },
   "news": {
     "AVGO": [
@@ -905,18 +905,18 @@
         "date": "08/20 07:06"
       },
       {
-        "type": "neutral",
-        "title": "4 stocks to watch on Friday: JBLU, MDB, SKHY, and AVGO (SP500:)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaENjb0NyZHAyd2VmQ0c1c3JSTVNvdF9RQzVhQ2daZGN4a0YzLXphYjJrLTItR1Fyc05VNXU2RTdZNUdaR0xfZFA5UG9kdUNESVkwQl9Ud2QyQUlPLTdUVC1tRzItNEtoOXhIT0xuc2ZKM2V2XzBJZmRWSlIteDYtR3lFOUpPTVREWTRKWHlJZW9mQQ?oc=5",
-        "date": "08/21 21:48"
-      },
-      {
         "type": "positive",
         "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
         "publisher": "TheStreet Pro",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLS1iR0dRWktTeGdrQTF5WkNSNnNFQ3dOQVJDRnBqTFItVmZvRGtPZF9PcTkybWxNS1RoRG9hRmsyYmN2R2dNLWhYeDVpOGF0ZGxwc2lPandkUEFZN0c5X3BqbHJhNEcwaF9QcXdFZFNWd3FnQjY4VUdMLU8ySE5Ra0RmN1drSmZNYlFDOUttWFl1Wkx1dTRUYTlYS241dXQ0Y3pZcGFmTFN4NGNo?oc=5",
         "date": "08/21 21:28"
+      },
+      {
+        "type": "positive",
+        "title": "2 AI Stocks, 1 Winner: Which Has More Upside?",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnRDTXA0RzRkZWZoTENiSk9WdUdTUXhrakZwRUxmTDNNbVVrcXRwNHVTeTlUcTNnN19laDhheFBVM0NtZGtzcGRpVDJlQTMxc1F1OTRrMlIzZ3ZXOVVJQTFFX19FQlZoV3NnbEVoZTQ4ZzlwTlNjMEotUUNNU1VrR1JjM2stc1BsYk10Tmdxcw?oc=5",
+        "date": "08/21 03:00"
       }
     ],
     "BE": [
@@ -959,17 +959,10 @@
       },
       {
         "type": "neutral",
-        "title": "AMZN vs. GOOGL: Rosenblatt Sees One Tech Stock as the ‘Most Resilient Leader’",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFFhZFBaZ2J5RXVGb2U5bFo5LWtJbWhzdk50Nmw2bVRjWTV3bEY0UGhMYjd2UTVyVnpHaDhGTTIyRXNRdDA0X1NfWWJ0VlIwbmZhSlZ4eVRldXpXTjIxTnFJQi1XZElUT2M4dUpJZmFyQUl6Y2pjZXhaa0Nja2cyVHNlQWluYVFteFowSnFnVmxYeFBlU2IyRXlfU1ZMdkJkZFR2MkRB?oc=5",
-        "date": "08/21 00:51"
-      },
-      {
-        "type": "neutral",
-        "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
+        "title": "Cathie Wood and Stanley Druckenmiller Agree On Amazon (AMZN) and Alphabet (GOOGL)",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU53Q3pkcGotTVlBbUpHZGgtbmhzY0JZLWozYjhyTWRMd0RMRFd1NlBkOXBrXzl4Q01PWXV6cXZCWS1hSGVUM0VXYUh2TmZlSncyR1RCQU1yVjh3Y2tXeU9QRW8yT0xZNmxzWHhFSGxjYU94X3NyeXlFRmpITnNROVNYMXgyV2FkajdaTkJmVVkzaFgwWWQwMQ?oc=5",
-        "date": "08/20 11:23"
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW5OMmIwWUg3ZDdTalVJTWtXZjFDeUpvbEJUUUtQdjlXQzFMeHpjZ1ZxU2F3WG5zeFktdnpCTC1NVlcxc3lzeVV5MkRxR1NZM3dWWGNOeGZrQm16UlR2MS1FME1nTWo3ZkZ5NW9qNk50Y0xHNTc1NlBiOVBIRS1DMnhUUVJjMWxNTWJ2cGFpMXhrdDhBQ2NmT0p2QzJReWN5M3VGYXhicw?oc=5",
+        "date": "08/21 03:55"
       },
       {
         "type": "neutral",
@@ -977,16 +970,16 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
         "date": "08/21 02:47"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
+        "date": "08/21 01:18"
       }
     ],
     "QCOM": [
-      {
-        "type": "neutral",
-        "title": "Qualcomm: A Compelling Turnaround Opportunity (NASDAQ:QCOM)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2JoaFNOaWJaLVFzV1VVT1YyTHNzRS1jRVpPaXR3U0I2TlgyeGlGVG5pVi1TdmlTanQ3MS14VF9oS1FYaUVxdTlvR2VHcEpWb3RuY3B1bkp5Qy1WNWFsdlNHdnJiOE5zYjd3NjFqX2NvVmZkdF9feTBEb242VkJJTXBLSW9BWTVDck0w?oc=5",
-        "date": "08/21 20:34"
-      },
       {
         "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
@@ -996,17 +989,24 @@
       },
       {
         "type": "neutral",
+        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
+        "date": "08/17 05:19"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm: A Compelling Turnaround Opportunity (NASDAQ:QCOM)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2JoaFNOaWJaLVFzV1VVT1YyTHNzRS1jRVpPaXR3U0I2TlgyeGlGVG5pVi1TdmlTanQ3MS14VF9oS1FYaUVxdTlvR2VHcEpWb3RuY3B1bkp5Qy1WNWFsdlNHdnJiOE5zYjd3NjFqX2NvVmZkdF9feTBEb242VkJJTXBLSW9BWTVDck0w?oc=5",
+        "date": "08/21 20:34"
+      },
+      {
+        "type": "neutral",
         "title": "Where Will Qualcomm Stock Be in 5 Years?",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
         "date": "08/19 01:00"
-      },
-      {
-        "type": "positive",
-        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
-        "date": "08/20 18:08"
       }
     ],
     "VRT": [
@@ -1032,11 +1032,11 @@
         "date": "08/19 00:36"
       },
       {
-        "type": "neutral",
-        "title": "Here’s How Much You Would Have Made Owning Vertiv Holdings Stock In The Last 5 Years",
-        "publisher": "Sahm",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWZpTTNMWVVmWG5JamVMUHBMM3A0NG9mSER5RTNaMlJFYWJkQTNzUXl5bFc3UzZLR1pqZVpNblAtb250MHJEdWVEeHlZSmpOU1Vmd3d1Vy1nVThncWtHTkNPUFNLdHhqT3JLbm1iNmlsYzFVVm9vMDM1OVF0N2N5dVNfVGRmemEtOVJMbjdxUkVPZDJ5WHZGNzliMGZ1aVR1WkpfNVRnNWFheGtzMWgtRzRtcE9YUFhtc0JkUDNKUVVpeWRDellkYU0zWmNSYWxF?oc=5",
-        "date": "08/21 18:07"
+        "type": "positive",
+        "title": "Vertiv Benefits From Margin Gains: Can It Outpace APH and SMCI?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGdGSEJqd0hCM2duRDRLekVvbS0tc1JHejdnUlAxVEVRN3BpN2hEVjZyYm13NkVIdWZCWXIzSmR4QzlBNGM1SFRyenRUd00zY2V3ZGoyYmsxTlJmRkQ3ektrVVZOSHlvcWxtTWowUi1YVUFIY0xaUHdTSlBkZGdfLVFlMUg1TnpTbEtXS2FzcW1tRXpoWXpTbV90Q3BUSDVncXRNS3g2ZnltVEdzR1JBWWZ6eHpXa0Vv?oc=5",
+        "date": "08/22 00:19"
       }
     ]
   }
