@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-21T15:00:41.125329+00:00",
+  "updatedAt": "2026-08-21T15:55:54.223198+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7677.1,
-        "change": 0.47
+        "value": 7693.66,
+        "change": 0.69
       },
       {
         "name": "NASDAQ",
-        "value": 26152.51,
-        "change": 0.33
+        "value": 26253.7,
+        "change": 0.72
       },
       {
         "name": "다우존스",
-        "value": 53174.0,
-        "change": 0.79
+        "value": 53233.27,
+        "change": 0.9
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.4,
-        "change": -3.81
+        "value": 15.26,
+        "change": -4.68
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.68,
-        "change": -0.27
+        "value": 1384.43,
+        "change": -0.36
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7691.76,
               7707.98,
               7641.16,
-              7677.1
+              7693.66
             ]
           },
           {
@@ -248,7 +248,7 @@
               26289.71,
               26331.09,
               26067.17,
-              26152.51
+              26253.7
             ]
           },
           {
@@ -317,7 +317,7 @@
               53343.4,
               53463.05,
               52759.21,
-              53174.0
+              53233.27
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.84,
               14.89,
               16.01,
-              15.4
+              15.26
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1385.68
+              1384.43
             ]
           }
         ]
@@ -882,11 +882,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.5,
-    "BE": 40.6,
-    "GOOGL": 25.6,
-    "QCOM": 60.4,
-    "VRT": 47.5
+    "AVGO": 39.1,
+    "BE": 41.5,
+    "GOOGL": 26.1,
+    "QCOM": 61.0,
+    "VRT": 48.8
   },
   "news": {
     "AVGO": [
@@ -898,11 +898,11 @@
         "date": "08/21 06:38"
       },
       {
-        "type": "positive",
-        "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
-        "publisher": "TheStreet Pro",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLS1iR0dRWktTeGdrQTF5WkNSNnNFQ3dOQVJDRnBqTFItVmZvRGtPZF9PcTkybWxNS1RoRG9hRmsyYmN2R2dNLWhYeDVpOGF0ZGxwc2lPandkUEFZN0c5X3BqbHJhNEcwaF9QcXdFZFNWd3FnQjY4VUdMLU8ySE5Ra0RmN1drSmZNYlFDOUttWFl1Wkx1dTRUYTlYS241dXQ0Y3pZcGFmTFN4NGNo?oc=5",
-        "date": "08/21 21:28"
+        "type": "negative",
+        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
+        "date": "08/20 07:06"
       },
       {
         "type": "neutral",
@@ -912,11 +912,11 @@
         "date": "08/21 21:36"
       },
       {
-        "type": "negative",
-        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
-        "date": "08/20 07:06"
+        "type": "positive",
+        "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
+        "publisher": "TheStreet Pro",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLS1iR0dRWktTeGdrQTF5WkNSNnNFQ3dOQVJDRnBqTFItVmZvRGtPZF9PcTkybWxNS1RoRG9hRmsyYmN2R2dNLWhYeDVpOGF0ZGxwc2lPandkUEFZN0c5X3BqbHJhNEcwaF9QcXdFZFNWd3FnQjY4VUdMLU8ySE5Ra0RmN1drSmZNYlFDOUttWFl1Wkx1dTRUYTlYS241dXQ0Y3pZcGFmTFN4NGNo?oc=5",
+        "date": "08/21 21:28"
       }
     ],
     "BE": [
