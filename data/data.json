@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T12:25:52.677366+00:00",
+  "updatedAt": "2026-08-21T13:25:16.517533+00:00",
   "market": {
     "cards": [
       {
@@ -19,18 +19,18 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.47,
-        "change": -3.37
+        "value": 15.46,
+        "change": -3.44
       },
       {
         "name": "미국10년금리",
-        "value": 4.7,
-        "change": 1.08
+        "value": 4.71,
+        "change": 0.21
       },
       {
         "name": "원달러환율",
-        "value": 1386.48,
-        "change": -0.21
+        "value": 1385.87,
+        "change": -0.25
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               15.84,
               14.89,
               16.01,
-              15.47
+              15.46
             ]
           }
         ]
@@ -525,7 +525,8 @@
           "08/17",
           "08/18",
           "08/19",
-          "08/20"
+          "08/20",
+          "08/21"
         ],
         "series": [
           {
@@ -593,7 +594,8 @@
               4.72,
               4.71,
               4.65,
-              4.7
+              4.7,
+              4.71
             ]
           },
           {
@@ -665,7 +667,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1386.48
+              1385.87
             ]
           }
         ]
@@ -888,6 +890,20 @@
   "news": {
     "AVGO": [
       {
+        "type": "neutral",
+        "title": "4 stocks to watch on Friday: JBLU, MDB, SKHY, and AVGO (SP500:)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaENjb0NyZHAyd2VmQ0c1c3JSTVNvdF9RQzVhQ2daZGN4a0YzLXphYjJrLTItR1Fyc05VNXU2RTdZNUdaR0xfZFA5UG9kdUNESVkwQl9Ud2QyQUlPLTdUVC1tRzItNEtoOXhIT0xuc2ZKM2V2XzBJZmRWSlIteDYtR3lFOUpPTVREWTRKWHlJZW9mQQ?oc=5",
+        "date": "08/21 21:48"
+      },
+      {
+        "type": "positive",
+        "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
+        "publisher": "TheStreet Pro",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLS1iR0dRWktTeGdrQTF5WkNSNnNFQ3dOQVJDRnBqTFItVmZvRGtPZF9PcTkybWxNS1RoRG9hRmsyYmN2R2dNLWhYeDVpOGF0ZGxwc2lPandkUEFZN0c5X3BqbHJhNEcwaF9QcXdFZFNWd3FnQjY4VUdMLU8ySE5Ra0RmN1drSmZNYlFDOUttWFl1Wkx1dTRUYTlYS241dXQ0Y3pZcGFmTFN4NGNo?oc=5",
+        "date": "08/21 21:28"
+      },
+      {
         "type": "negative",
         "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
         "publisher": "Yahoo Finance",
@@ -895,25 +911,11 @@
         "date": "08/20 07:06"
       },
       {
-        "type": "neutral",
-        "title": "Unfortunate News for Broadcom Stock Investors",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUlWeWlaQU5SSFJMcEFEVG11X1BMZHk0ZmxxdUVZUDAzSUw3TWxiSXNuTWpjYkl2U0pIb2xMd0s1TjJUNzVfel92WmpNSmNlTG9DYmQxd3VVMTViN2VRSGlVQnZ2MUtJWFY1T3Q4ZmpiSXBGc2RNelNYYnBNejBOVjktbURJM3ZrWVBvcDZHRTQzdw?oc=5",
-        "date": "08/19 13:40"
-      },
-      {
         "type": "positive",
-        "title": "AVGO Stock Inches Higher — Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzRqX2luMmlqdjFUMUo4OFRrYVdwU0NpcmlWaVpkMFJlV1U0eUN2UEpReHNPTmwtV2U4LTNpQ0UxS3Y4SFJHR3h5bTlmVkx3a2FoRGVVemFWZzg4NlRZQWZZUklJd0pNTWs3ZDJSV3ZsN1FLVlNzZFBpeDE2cEtoN2lpZ2hXWHRKckN6emVBcXpSWGRiRzZWaFp2eEppUQ?oc=5",
-        "date": "08/21 07:25"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Friday? - Broadcom (NASDAQ:AVGO)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZG9sNW13WGdmeDhmN0tlVWw4M1hGRTlMYW5JSGktbUFvZ0lPaDJWcS1NbXJiOE5BMDZER3pOWnlvYVJGTDdxZGUxWmtuTXFXODd5XzNKYzUtVFJSeEFCRHpOdEdZdVFYWDNoWmVLbTNwRURQaWZKbXdzV0x4M0ltYkY1UmhfMS1Ia05xTS1FNENtS0JJdi1vby0yWnEtRE9aS0pQQl9vN0F6WThLN09aQklPNW5oMkRpb29wdlotY2hEdVFkQXE3VVdYWWw?oc=5",
-        "date": "08/21 18:48"
+        "title": "2 AI Stocks, 1 Winner: Which Has More Upside?",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnRDTXA0RzRkZWZoTENiSk9WdUdTUXhrakZwRUxmTDNNbVVrcXRwNHVTeTlUcTNnN19laDhheFBVM0NtZGtzcGRpVDJlQTMxc1F1OTRrMlIzZ3ZXOVVJQTFFX19FQlZoV3NnbEVoZTQ4ZzlwTlNjMEotUUNNU1VrR1JjM2stc1BsYk10Tmdxcw?oc=5",
+        "date": "08/21 03:00"
       }
     ],
     "BE": [
@@ -956,6 +958,13 @@
       },
       {
         "type": "neutral",
+        "title": "AMZN vs. GOOGL: Rosenblatt Sees One Tech Stock as the ‘Most Resilient Leader’",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFFhZFBaZ2J5RXVGb2U5bFo5LWtJbWhzdk50Nmw2bVRjWTV3bEY0UGhMYjd2UTVyVnpHaDhGTTIyRXNRdDA0X1NfWWJ0VlIwbmZhSlZ4eVRldXpXTjIxTnFJQi1XZElUT2M4dUpJZmFyQUl6Y2pjZXhaa0Nja2cyVHNlQWluYVFteFowSnFnVmxYeFBlU2IyRXlfU1ZMdkJkZFR2MkRB?oc=5",
+        "date": "08/21 00:51"
+      },
+      {
+        "type": "neutral",
         "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU53Q3pkcGotTVlBbUpHZGgtbmhzY0JZLWozYjhyTWRMd0RMRFd1NlBkOXBrXzl4Q01PWXV6cXZCWS1hSGVUM0VXYUh2TmZlSncyR1RCQU1yVjh3Y2tXeU9QRW8yT0xZNmxzWHhFSGxjYU94X3NyeXlFRmpITnNROVNYMXgyV2FkajdaTkJmVVkzaFgwWWQwMQ?oc=5",
@@ -967,13 +976,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
         "date": "08/21 02:47"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
-        "date": "08/21 01:18"
       }
     ],
     "QCOM": [
@@ -986,13 +988,6 @@
       },
       {
         "type": "neutral",
-        "title": "The Diverging Paths Priced Into Qualcomm Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
-        "date": "08/17 05:19"
-      },
-      {
-        "type": "neutral",
         "title": "Qualcomm: A Compelling Turnaround Opportunity (NASDAQ:QCOM)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2JoaFNOaWJaLVFzV1VVT1YyTHNzRS1jRVpPaXR3U0I2TlgyeGlGVG5pVi1TdmlTanQ3MS14VF9oS1FYaUVxdTlvR2VHcEpWb3RuY3B1bkp5Qy1WNWFsdlNHdnJiOE5zYjd3NjFqX2NvVmZkdF9feTBEb242VkJJTXBLSW9BWTVDck0w?oc=5",
@@ -1000,10 +995,17 @@
       },
       {
         "type": "neutral",
-        "title": "Wealthfront Advisers LLC Invests $23.30 Million in Qualcomm Incorporated $QCOM",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2VOYUQxYjFEMXFuWjhsQTA4RUhVdUR2VEFaelo4QmZXTzlzY3JiNGYzTExjZV9MNGxrVFlfTkZTbTVqckpEZjc1UDQ5SFhSeWZ2MGREM3R2V2xsbkg3MmRMdUZESzllakpJb1VQcGhXS2hENWJ6TzlNdG5fQnhkelBESWdwcGkzZDhTRnNseWZYWDJ5NWM2SHo4RVVjOUFIQzV3N0NuS2R1b3VRMFk0OWlpT19NNjMyd0VLMl8zRW5VQTBVUUxwRG1vMGVEVER2NkE?oc=5",
-        "date": "08/21 19:06"
+        "title": "The Diverging Paths Priced Into Qualcomm Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
+        "date": "08/17 05:19"
+      },
+      {
+        "type": "neutral",
+        "title": "Where Will Qualcomm Stock Be in 5 Years?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
+        "date": "08/19 01:00"
       }
     ],
     "VRT": [
