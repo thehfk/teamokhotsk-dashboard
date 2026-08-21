@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T04:08:49.655200+00:00",
+  "updatedAt": "2026-08-21T05:01:44.747888+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1382.3,
-        "change": -0.51
+        "value": 1381.28,
+        "change": -0.58
       },
       {
         "name": "KOSPI",
-        "value": 6906.44,
-        "change": 0.79
+        "value": 6892.9,
+        "change": 0.59
       },
       {
         "name": "KOSDAQ",
-        "value": 802.47,
-        "change": -4.57
+        "value": 802.07,
+        "change": -4.62
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1382.3
+              1381.28
             ]
           }
         ]
@@ -805,7 +805,7 @@
               6869.83,
               6471.17,
               6852.58,
-              6906.44
+              6892.9
             ]
           },
           {
@@ -872,7 +872,7 @@
               834.2,
               824.46,
               840.89,
-              802.47
+              802.07
             ]
           }
         ]
@@ -950,6 +950,13 @@
     "GOOGL": [
       {
         "type": "neutral",
+        "title": "Wall Street analyst sets Google (GOOGL) stock price target for 12 months",
+        "publisher": "Finbold",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEhXXzVwZ0VTQTl4VnpkekMzSk9ub2JxZjZoWjZHM05JMndTZmR0bEdUbnVzamgwaU1uQmd2RnJMZ0lyX1VMZEgzQU9NbmZvaGFKSzhmRmxtX2QzZVJnQS1ac1dtYkkxNmM4T3Z5aG82NUZ6Qm54U042UDRwcl9MSnlzcFBsa0VJTnBPTVN6a0dsTWw3d1E?oc=5",
+        "date": "08/21 02:13"
+      },
+      {
+        "type": "neutral",
         "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU53Q3pkcGotTVlBbUpHZGgtbmhzY0JZLWozYjhyTWRMd0RMRFd1NlBkOXBrXzl4Q01PWXV6cXZCWS1hSGVUM0VXYUh2TmZlSncyR1RCQU1yVjh3Y2tXeU9QRW8yT0xZNmxzWHhFSGxjYU94X3NyeXlFRmpITnNROVNYMXgyV2FkajdaTkJmVVkzaFgwWWQwMQ?oc=5",
@@ -961,13 +968,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
         "date": "08/21 02:47"
-      },
-      {
-        "type": "neutral",
-        "title": "Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWhBUUh5SEE3RUYxSlBjbjYwU1hJaVQtRnpBZGI0M0lPblgyUDdhM2lQWjRnMWs1Sk43eGRSRERZTGxrWW5ZZEJSTXFLM2UxYXViMmFaV1NWZWlqeE04YmRxN29xXzJiM20xTXQzbjRpMDFLM2NhRUhTN0RKN1M4c29MdjB1dmtEdkFuT0d2LTVsS2NKWlVDOGpsdzVhWmJjQ1RCMDlMclQ2ek5ZVC15N1ROTnVjUnc?oc=5",
-        "date": "08/20 01:10"
       },
       {
         "type": "neutral",
