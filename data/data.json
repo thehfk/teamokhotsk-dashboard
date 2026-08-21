@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:58:03.887287+00:00",
+  "updatedAt": "2026-08-21T10:27:45.814910+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.7,
-        "change": -1.94
+        "value": 15.73,
+        "change": -1.75
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1384.08,
-        "change": -0.38
+        "value": 1383.85,
+        "change": -0.4
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               15.84,
               14.89,
               16.01,
-              15.7
+              15.73
             ]
           }
         ]
@@ -667,7 +667,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1384.08
+              1383.85
             ]
           }
         ]
@@ -890,18 +890,11 @@
   "news": {
     "AVGO": [
       {
-        "type": "positive",
-        "title": "AVGO Stock Inches Higher — Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion",
+        "type": "negative",
+        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzRqX2luMmlqdjFUMUo4OFRrYVdwU0NpcmlWaVpkMFJlV1U0eUN2UEpReHNPTmwtV2U4LTNpQ0UxS3Y4SFJHR3h5bTlmVkx3a2FoRGVVemFWZzg4NlRZQWZZUklJd0pNTWs3ZDJSV3ZsN1FLVlNzZFBpeDE2cEtoN2lpZ2hXWHRKckN6emVBcXpSWGRiRzZWaFp2eEppUQ?oc=5",
-        "date": "08/21 07:25"
-      },
-      {
-        "type": "neutral",
-        "title": "The Line In The Sand For AVGO Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLVEwZ3JoNEVTZl84T0NqcmJzS1N5YzFKcm5NNmNkc2RDbTJxWF81b1RhRnNsdnZ4eG5YRVFSaW0yY2VIdmd0UUgyUGViYlJmSTBXdEN2bnk0M2RPQ0Z5dlA3QjlzWEduLUhHbGJZeVJyVjNNT2dQLUpfM1JoSzlxRmlZOHJuNkY3SVpvMDhSNU4?oc=5",
-        "date": "08/21 04:56"
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
+        "date": "08/20 07:06"
       },
       {
         "type": "neutral",
@@ -909,6 +902,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUlWeWlaQU5SSFJMcEFEVG11X1BMZHk0ZmxxdUVZUDAzSUw3TWxiSXNuTWpjYkl2U0pIb2xMd0s1TjJUNzVfel92WmpNSmNlTG9DYmQxd3VVMTViN2VRSGlVQnZ2MUtJWFY1T3Q4ZmpiSXBGc2RNelNYYnBNejBOVjktbURJM3ZrWVBvcDZHRTQzdw?oc=5",
         "date": "08/19 13:40"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Broadcom Stock Friday? - Broadcom (NASDAQ:AVGO)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZG9sNW13WGdmeDhmN0tlVWw4M1hGRTlMYW5JSGktbUFvZ0lPaDJWcS1NbXJiOE5BMDZER3pOWnlvYVJGTDdxZGUxWmtuTXFXODd5XzNKYzUtVFJSeEFCRHpOdEdZdVFYWDNoWmVLbTNwRURQaWZKbXdzV0x4M0ltYkY1UmhfMS1Ia05xTS1FNENtS0JJdi1vby0yWnEtRE9aS0pQQl9vN0F6WThLN09aQklPNW5oMkRpb29wdlotY2hEdVFkQXE3VVdYWWw?oc=5",
+        "date": "08/21 18:48"
       },
       {
         "type": "negative",
@@ -950,13 +950,6 @@
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnp1aWNFWG44aVVkazJPR1JJY2lBcTJrTmFENWxFSWxCNWRULTRteFdfcDhOM1YySjdQVGhMMExobHVVa21yRUo3enFBLVJMUVRiVXV0TFVJM3o3S00yNDFhNXp0eXRzRmJDb1I2YW1LdFpOWXNuQzN3c2lvYXlTSWZidVlCNmR0QjBkT1lnV0xXdjdiRjdObzRXNGFhWnNHMzRKbWVuTnlKVlVJb0N3VV82MHVwZlltc1pONg?oc=5",
-        "date": "08/20 00:24"
-      },
-      {
         "type": "neutral",
         "title": "Wall Street analyst sets Google (GOOGL) stock price target for 12 months",
         "publisher": "Finbold",
@@ -969,6 +962,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU53Q3pkcGotTVlBbUpHZGgtbmhzY0JZLWozYjhyTWRMd0RMRFd1NlBkOXBrXzl4Q01PWXV6cXZCWS1hSGVUM0VXYUh2TmZlSncyR1RCQU1yVjh3Y2tXeU9QRW8yT0xZNmxzWHhFSGxjYU94X3NyeXlFRmpITnNROVNYMXgyV2FkajdaTkJmVVkzaFgwWWQwMQ?oc=5",
         "date": "08/20 11:23"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
       },
       {
         "type": "neutral",
@@ -1025,10 +1025,10 @@
       },
       {
         "type": "neutral",
-        "title": "Ceredex Value Advisors LLC Sells 4,673 Shares of Vertiv Holdings Co. $VRT",
+        "title": "Vertiv Holdings Co. $VRT Stake Boosted by Vise Technologies Inc.",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnMtT3hTYlhqbnd3RkZGaEhrX285c3FKaTFTTlppTWJqZzdRUUJ2Q2ZpNmwtbGxCY20wZTlud2owVHV0VzF5U3pVQWh0OEItVGpQSkJXbzNpcTNhLTI2UGVTMGQ5ZzFzbEFzVldWd1d0MFhiUmhLa0lBZGY5dEdxZDhYeW5ScHNsbkVudXIteUVzOGcxbGZydDBJOVdSVXc5VHdWa1dVNVQzSjR0Ny1UQU5RZ1M5Q0FDdWktdWdZVzVOSy1SbGc3T3U0bw?oc=5",
-        "date": "08/21 18:08"
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYURtVXJIOUZfblZ2WGZrU3JqcU81a1F5TEFkVHR5MWt3NkRwY3JIT1hCeVhUUXUwZXppbV9jMEJIY2M1WHpQREpKLTlaV2dnNUFpTUVzMVc2OVpMUGFqLWRhX2JHVElUOEhqalhhU1RkR1Y3U2dJVVlJLWQ3b0hVRXFORzJfZ0Q4TVpEVFo0S0NuQVdJdTJ6cmcwM1NuY0dmVGVfejh0cmRoSWMzZURnQkZ2Y1Ywb014WHNTZ2Fmbw?oc=5",
+        "date": "08/21 19:06"
       },
       {
         "type": "neutral",
