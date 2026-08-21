@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-08-21T14:04:39.941525+00:00",
+  "updatedAt": "2026-08-21T15:00:41.125329+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7667.7,
-        "change": 0.35
+        "value": 7677.1,
+        "change": 0.47
       },
       {
         "name": "NASDAQ",
-        "value": 26093.45,
-        "change": 0.1
+        "value": 26152.51,
+        "change": 0.33
       },
       {
         "name": "다우존스",
-        "value": 53128.09,
-        "change": 0.7
+        "value": 53174.0,
+        "change": 0.79
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.45,
-        "change": -3.5
+        "value": 15.4,
+        "change": -3.81
       },
       {
         "name": "미국10년금리",
-        "value": 4.72,
-        "change": 0.43
+        "value": 4.73,
+        "change": 0.64
       },
       {
         "name": "원달러환율",
-        "value": 1385.58,
+        "value": 1385.68,
         "change": -0.27
       },
       {
         "name": "KOSPI",
-        "value": 6912.95,
-        "change": 0.88
+        "value": 6852.58,
+        "change": 5.89
       },
       {
         "name": "KOSDAQ",
-        "value": 801.94,
-        "change": -4.63
+        "value": 840.89,
+        "change": 1.99
       }
     ],
     "groups": [
@@ -179,7 +179,7 @@
               7691.76,
               7707.98,
               7641.16,
-              7667.7
+              7677.1
             ]
           },
           {
@@ -248,7 +248,7 @@
               26289.71,
               26331.09,
               26067.17,
-              26093.45
+              26152.51
             ]
           },
           {
@@ -317,7 +317,7 @@
               53343.4,
               53463.05,
               52759.21,
-              53128.09
+              53174.0
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.84,
               14.89,
               16.01,
-              15.45
+              15.4
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.71,
               4.65,
               4.7,
-              4.72
+              4.73
             ]
           },
           {
@@ -671,7 +671,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1385.58
+              1385.68
             ]
           }
         ]
@@ -740,8 +740,7 @@
           "08/14",
           "08/18",
           "08/19",
-          "08/20",
-          "08/21"
+          "08/20"
         ],
         "series": [
           {
@@ -808,8 +807,7 @@
               6977.94,
               6869.83,
               6471.17,
-              6852.58,
-              6912.95
+              6852.58
             ]
           },
           {
@@ -876,8 +874,7 @@
               864.65,
               834.2,
               824.46,
-              840.89,
-              801.94
+              840.89
             ]
           }
         ]
@@ -885,11 +882,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.0,
-    "BE": 42.6,
-    "GOOGL": 22.2,
-    "QCOM": 59.8,
-    "VRT": 48.6
+    "AVGO": 38.5,
+    "BE": 40.6,
+    "GOOGL": 25.6,
+    "QCOM": 60.4,
+    "VRT": 47.5
   },
   "news": {
     "AVGO": [
@@ -901,18 +898,18 @@
         "date": "08/21 06:38"
       },
       {
-        "type": "neutral",
-        "title": "4 stocks to watch on Friday: JBLU, MDB, SKHY, and AVGO (SP500:)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaENjb0NyZHAyd2VmQ0c1c3JSTVNvdF9RQzVhQ2daZGN4a0YzLXphYjJrLTItR1Fyc05VNXU2RTdZNUdaR0xfZFA5UG9kdUNESVkwQl9Ud2QyQUlPLTdUVC1tRzItNEtoOXhIT0xuc2ZKM2V2XzBJZmRWSlIteDYtR3lFOUpPTVREWTRKWHlJZW9mQQ?oc=5",
-        "date": "08/21 21:48"
-      },
-      {
         "type": "positive",
         "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
         "publisher": "TheStreet Pro",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLS1iR0dRWktTeGdrQTF5WkNSNnNFQ3dOQVJDRnBqTFItVmZvRGtPZF9PcTkybWxNS1RoRG9hRmsyYmN2R2dNLWhYeDVpOGF0ZGxwc2lPandkUEFZN0c5X3BqbHJhNEcwaF9QcXdFZFNWd3FnQjY4VUdMLU8ySE5Ra0RmN1drSmZNYlFDOUttWFl1Wkx1dTRUYTlYS241dXQ0Y3pZcGFmTFN4NGNo?oc=5",
         "date": "08/21 21:28"
+      },
+      {
+        "type": "neutral",
+        "title": "Buying Marvell Before Broadcom Is A Big Mistake (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWktnM0tBRG0zZzFRS3R6enFkTENFMHJyaVVRbnFUT3ljMF9mdnVUMEhfMXROQnlGYm52ZnR6aEVFQlRWbjgxc01YQkhvMzc4Qmw1UmFjZS16b3I0SUFFZ1B1UjAwM1QyNFZoM3JBMEs1WjNWb0gyQzNEcnNzTHBRclRiQWtqSjNJRE5OUEEzdVVHUQ?oc=5",
+        "date": "08/21 21:36"
       },
       {
         "type": "negative",
@@ -992,24 +989,24 @@
       },
       {
         "type": "neutral",
-        "title": "The Diverging Paths Priced Into Qualcomm Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVrWU8xazJ6eTI1ZnUxLUg1VXV5V2NlUFk0SHVScmRUZ0dGSmNCNXVsOFZmMng1SGhkalhTRDlkM21SbDAyTmdMbEFCTWdqM1hfTi1oeHJWZFdhTkZkcEdvbFN0dmdnNEFCNmRVMXBhRVh6akVlTnVGOWtXMURfYXZESEdjUkY2ZEF3UjhtZC1YcnNGTUMyU0c5OEs4SU1nU29OaTNXVGRfRkhJWV9kSmwtbmtIS00?oc=5",
-        "date": "08/17 05:19"
-      },
-      {
-        "type": "neutral",
         "title": "Qualcomm: A Compelling Turnaround Opportunity (NASDAQ:QCOM)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2JoaFNOaWJaLVFzV1VVT1YyTHNzRS1jRVpPaXR3U0I2TlgyeGlGVG5pVi1TdmlTanQ3MS14VF9oS1FYaUVxdTlvR2VHcEpWb3RuY3B1bkp5Qy1WNWFsdlNHdnJiOE5zYjd3NjFqX2NvVmZkdF9feTBEb242VkJJTXBLSW9BWTVDck0w?oc=5",
         "date": "08/21 20:34"
       },
       {
+        "type": "positive",
+        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
+        "date": "08/20 18:08"
+      },
+      {
         "type": "neutral",
-        "title": "Wealthfront Advisers LLC Invests $23.30 Million in Qualcomm Incorporated $QCOM",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2VOYUQxYjFEMXFuWjhsQTA4RUhVdUR2VEFaelo4QmZXTzlzY3JiNGYzTExjZV9MNGxrVFlfTkZTbTVqckpEZjc1UDQ5SFhSeWZ2MGREM3R2V2xsbkg3MmRMdUZESzllakpJb1VQcGhXS2hENWJ6TzlNdG5fQnhkelBESWdwcGkzZDhTRnNseWZYWDJ5NWM2SHo4RVVjOUFIQzV3N0NuS2R1b3VRMFk0OWlpT19NNjMyd0VLMl8zRW5VQTBVUUxwRG1vMGVEVER2NkE?oc=5",
-        "date": "08/21 19:06"
+        "title": "Where Will Qualcomm Stock Be in 5 Years?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
+        "date": "08/19 01:00"
       }
     ],
     "VRT": [
