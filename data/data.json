@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:13:19.358125+00:00",
+  "updatedAt": "2026-08-21T22:47:30.282140+00:00",
   "market": {
     "cards": [
       {
@@ -928,8 +928,8 @@
         "type": "neutral",
         "title": "Why Bloom Energy Stock Crashed This Week",
         "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDB0WEg1clpUV3VKLVVCOVhCaC1vamFOWjZSOVcyRlNMd01BYjJfLVhxU3RyYXVQbWgtUXpCeFI4UTBEakQzUXB1YWdFRldLV1YwT3JlU1ltS0NkZ3YtWVo1Tm5BRFdKLUhaRHBBclp6YkwxbnBtejZaby1lT3FMMUwzaUlKVDRzRzJfeXFOMmtGbmFxVUluR3N5c005dTNaUV90UXB2V18wV0VKSFV6el91ZHRoSndvNEQtSVVPS2M?oc=5",
-        "date": "08/22 01:00"
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2RuSnpVZ2VOdS01OVpPY2o1dVFTcXFvd0J0czlXLWt3Nnc3ck5jNDMxY3dNYXhvTzJ2elk3aG9kZUZqT2ViRXVqVUtXYjRqdlo1eENyTkJxWWJzOWh2OFluUkk0TGdOWWRUY3pDdnJLbmRLVEhlUkpsNWptbDEyUzVDd2g0YXFabWQ0LUpiRDQ3RHZ5Y3Rhbnp4STh5aURKZ1VZVl9idWI4anc1RW1kM09ST0Joa0xVcnhnTXdvVXVBdUU?oc=5",
+        "date": "08/22 00:31"
       },
       {
         "type": "neutral",
@@ -978,18 +978,18 @@
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "Grech Family Trust to sell 625 Qualcomm (QCOM) shares",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFp4S1NlVXI1bEJjWmx0NEdxcUpXOVgyRHo3UHVnUVVGNGVhbGYtTEFZOHNjaFNZYnAzdl82RmNCWjNaNUN0dmZnLTktOG9GaVAwUWY4clBfLXRqYlNaNkpYWTlfeE5uYVFieU5IXzY1emhnUTV3M3RBTzc3d0tnT0J4MEdWbFdfWDNOUzBWdlVMOHladkE4?oc=5",
-        "date": "08/22 05:41"
-      },
-      {
         "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
         "date": "08/21 00:09"
+      },
+      {
+        "type": "neutral",
+        "title": "Grech Family Trust to sell 625 Qualcomm (QCOM) shares",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFp4S1NlVXI1bEJjWmx0NEdxcUpXOVgyRHo3UHVnUVVGNGVhbGYtTEFZOHNjaFNZYnAzdl82RmNCWjNaNUN0dmZnLTktOG9GaVAwUWY4clBfLXRqYlNaNkpYWTlfeE5uYVFieU5IXzY1emhnUTV3M3RBTzc3d0tnT0J4MEdWbFdfWDNOUzBWdlVMOHladkE4?oc=5",
+        "date": "08/22 05:41"
       },
       {
         "type": "positive",
