@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T07:23:38.387241+00:00",
+  "updatedAt": "2026-08-21T08:03:01.194783+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 16.01,
-        "change": 7.52
+        "value": 15.84,
+        "change": -1.06
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1384.91,
-        "change": -0.32
+        "value": 1384.07,
+        "change": -0.38
       },
       {
         "name": "KOSPI",
@@ -384,7 +384,8 @@
           "08/17",
           "08/18",
           "08/19",
-          "08/20"
+          "08/20",
+          "08/21"
         ],
         "series": [
           {
@@ -453,7 +454,8 @@
               15.19,
               15.84,
               14.89,
-              16.01
+              16.01,
+              15.84
             ]
           }
         ]
@@ -665,7 +667,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1384.91
+              1384.07
             ]
           }
         ]
@@ -888,6 +890,13 @@
   "news": {
     "AVGO": [
       {
+        "type": "positive",
+        "title": "AVGO Stock Inches Higher — Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzRqX2luMmlqdjFUMUo4OFRrYVdwU0NpcmlWaVpkMFJlV1U0eUN2UEpReHNPTmwtV2U4LTNpQ0UxS3Y4SFJHR3h5bTlmVkx3a2FoRGVVemFWZzg4NlRZQWZZUklJd0pNTWs3ZDJSV3ZsN1FLVlNzZFBpeDE2cEtoN2lpZ2hXWHRKckN6emVBcXpSWGRiRzZWaFp2eEppUQ?oc=5",
+        "date": "08/21 07:25"
+      },
+      {
         "type": "neutral",
         "title": "The Line In The Sand For AVGO Stock",
         "publisher": "Trefis",
@@ -907,13 +916,6 @@
         "publisher": "MarketWatch",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFZjUnVYcG1EbFpjV1c5b3FPajJtZ0hCLUJmdTdubnJ0VVRQR0VNYi1Mek9kdXhVS3ZsdHA0Y3NWbkhWcmRHRXBVZ2FYVTJCZlFmMVdsLWl2VXoxRGs2Zi1WblZFSC1Ga3FIV1M4Z0pTT29JaHRoQVdiQks4TXE4TG96VFh0ZEJZU2V3Qy1oYXlIaGM3bnRRNF9hRHlCREdDOGxNcGRRcjlhN2lteFNrZA?oc=5",
         "date": "08/20 06:26"
-      },
-      {
-        "type": "neutral",
-        "title": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTBLN1pxTEV6Qk92RC1udXZRT0JkVG5uV0w2VTVNODRxM01DSS1pTVEwLVFQRjNSWmlqZzFROWVobHBmMVdHaGxSYzlITlhlYTV3V0VNc2dKOWsyU1Zxcm5wczM3X1Vjc1huMmJwUjVkRkpDZVRxbWh1clpSXzc5UWptY2NQXzZkaG5aZ3pRc0U4NDBrai1QTHJZbjZ6Z1otdDU0Y1M2eHBJamVoZ0ZaOEVnQndkYWNha2lZeQ?oc=5",
-        "date": "08/19 02:30"
       }
     ],
     "BE": [
@@ -942,18 +944,11 @@
         "type": "neutral",
         "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
-        "date": "08/20 04:36"
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV0Y5UTBkY2RVU0F2dUMzSkwybS1McTl1dDNnMW5BZkRsWldiT0xZejJvXzhVdWs4MkFhSVJzMUpmUHN5QlZWZi00ZndRSkp6OTJSQURlM2FQcFRGVVdrLW4tYUQ3NVMzckhKQnRJS1ZFTUtpSXotVV9ORzdRWG5rbm1td196TkxvelYzUUZVN19YbXBPZWt6X2pxUlJpZkw4RDJMWUJnQldGcjE4ZEVieGswVjY0ZV9mRExwZGs5SUNpV3g1SVdqZ3pZejFDTUROUVHSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
+        "date": "08/20 04:27"
       }
     ],
     "GOOGL": [
-      {
-        "type": "positive",
-        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnp1aWNFWG44aVVkazJPR1JJY2lBcTJrTmFENWxFSWxCNWRULTRteFdfcDhOM1YySjdQVGhMMExobHVVa21yRUo3enFBLVJMUVRiVXV0TFVJM3o3S00yNDFhNXp0eXRzRmJDb1I2YW1LdFpOWXNuQzN3c2lvYXlTSWZidVlCNmR0QjBkT1lnV0xXdjdiRjdObzRXNGFhWnNHMzRKbWVuTnlKVlVJb0N3VV82MHVwZlltc1pONg?oc=5",
-        "date": "08/20 00:24"
-      },
       {
         "type": "neutral",
         "title": "Wall Street analyst sets Google (GOOGL) stock price target for 12 months",
@@ -967,6 +962,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZU53Q3pkcGotTVlBbUpHZGgtbmhzY0JZLWozYjhyTWRMd0RMRFd1NlBkOXBrXzl4Q01PWXV6cXZCWS1hSGVUM0VXYUh2TmZlSncyR1RCQU1yVjh3Y2tXeU9QRW8yT0xZNmxzWHhFSGxjYU94X3NyeXlFRmpITnNROVNYMXgyV2FkajdaTkJmVVkzaFgwWWQwMQ?oc=5",
         "date": "08/20 11:23"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
       },
       {
         "type": "neutral",
@@ -993,17 +995,17 @@
       },
       {
         "type": "neutral",
-        "title": "Where Will Qualcomm Stock Be in 5 Years?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
-        "date": "08/19 01:00"
-      },
-      {
-        "type": "neutral",
         "title": "Argyle Capital Partners LLC Purchases New Stake in Qualcomm Incorporated $QCOM",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVVVPcXY5dTNwaXNXYkp2c1Jxd2dEeFhvWmhjWHFvUmxfYUFoNmRRbDdoUXdtUzJKdjBjXzVXNlJqUXJuYVlhZzhfaVpmaElfbTZKeVdSQTh0Vjk3N2FsaFlzR3B5ZjFLMVFfZmRRVlU2WUZFd1JUVUp4bFJncEk0dDRDWHdObW5KY1VUTFZGZXNtMndZLUpMV1UxZGNJc3BUbXMtUDRiUDRyWjB3OUs2NE9jc29UZUtvLUpQai1IYzNLdDNoMkRfdlJvODhBYzFzanhncQ?oc=5",
         "date": "08/21 16:10"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/18 23:39"
       }
     ],
     "VRT": [
