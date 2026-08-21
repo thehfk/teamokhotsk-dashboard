@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-21T16:22:17.812467+00:00",
+  "updatedAt": "2026-08-21T16:58:57.886755+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7682.32,
+        "value": 7682.78,
         "change": 0.54
       },
       {
         "name": "NASDAQ",
-        "value": 26208.05,
+        "value": 26208.99,
         "change": 0.54
       },
       {
         "name": "다우존스",
-        "value": 53156.96,
-        "change": 0.75
+        "value": 53189.41,
+        "change": 0.82
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.39,
-        "change": -3.87
+        "value": 15.29,
+        "change": -4.5
       },
       {
         "name": "미국10년금리",
-        "value": 4.74,
-        "change": 0.85
+        "value": 4.73,
+        "change": 0.64
       },
       {
         "name": "원달러환율",
-        "value": 1381.98,
-        "change": -0.53
+        "value": 1385.14,
+        "change": -0.31
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7691.76,
               7707.98,
               7641.16,
-              7682.32
+              7682.78
             ]
           },
           {
@@ -248,7 +248,7 @@
               26289.71,
               26331.09,
               26067.17,
-              26208.05
+              26208.99
             ]
           },
           {
@@ -317,7 +317,7 @@
               53343.4,
               53463.05,
               52759.21,
-              53156.96
+              53189.41
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.84,
               14.89,
               16.01,
-              15.39
+              15.29
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.71,
               4.65,
               4.7,
-              4.74
+              4.73
             ]
           },
           {
@@ -671,7 +671,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1381.98
+              1385.14
             ]
           }
         ]
@@ -882,11 +882,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.7,
-    "BE": 40.9,
-    "GOOGL": 24.6,
-    "QCOM": 59.9,
-    "VRT": 48.1
+    "AVGO": 38.1,
+    "BE": 41.2,
+    "GOOGL": 26.8,
+    "QCOM": 60.1,
+    "VRT": 48.0
   },
   "news": {
     "AVGO": [
@@ -981,13 +981,6 @@
     ],
     "QCOM": [
       {
-        "type": "positive",
-        "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
-        "date": "08/21 00:09"
-      },
-      {
         "type": "neutral",
         "title": "Qualcomm: A Compelling Turnaround Opportunity (NASDAQ:QCOM)",
         "publisher": "Seeking Alpha",
@@ -996,10 +989,10 @@
       },
       {
         "type": "positive",
-        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
-        "date": "08/20 18:08"
+        "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
+        "date": "08/21 00:09"
       },
       {
         "type": "neutral",
@@ -1007,6 +1000,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
         "date": "08/19 01:00"
+      },
+      {
+        "type": "positive",
+        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
+        "date": "08/20 18:08"
       }
     ],
     "VRT": [
@@ -1033,10 +1033,10 @@
       },
       {
         "type": "neutral",
-        "title": "Vertiv Holdings Co. $VRT Stake Boosted by Vise Technologies Inc.",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYURtVXJIOUZfblZ2WGZrU3JqcU81a1F5TEFkVHR5MWt3NkRwY3JIT1hCeVhUUXUwZXppbV9jMEJIY2M1WHpQREpKLTlaV2dnNUFpTUVzMVc2OVpMUGFqLWRhX2JHVElUOEhqalhhU1RkR1Y3U2dJVVlJLWQ3b0hVRXFORzJfZ0Q4TVpEVFo0S0NuQVdJdTJ6cmcwM1NuY0dmVGVfejh0cmRoSWMzZURnQkZ2Y1Ywb014WHNTZ2Fmbw?oc=5",
-        "date": "08/21 19:06"
+        "title": "Here’s How Much You Would Have Made Owning Vertiv Holdings Stock In The Last 5 Years",
+        "publisher": "Sahm",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWZpTTNMWVVmWG5JamVMUHBMM3A0NG9mSER5RTNaMlJFYWJkQTNzUXl5bFc3UzZLR1pqZVpNblAtb250MHJEdWVEeHlZSmpOU1Vmd3d1Vy1nVThncWtHTkNPUFNLdHhqT3JLbm1iNmlsYzFVVm9vMDM1OVF0N2N5dVNfVGRmemEtOVJMbjdxUkVPZDJ5WHZGNzliMGZ1aVR1WkpfNVRnNWFheGtzMWgtRzRtcE9YUFhtc0JkUDNKUVVpeWRDellkYU0zWmNSYWxF?oc=5",
+        "date": "08/21 18:07"
       }
     ]
   }
