@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:47:30.282140+00:00",
+  "updatedAt": "2026-08-21T23:14:05.191557+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.98,
-        "change": -0.35
+        "value": 1385.0,
+        "change": -0.42
       },
       {
         "name": "KOSPI",
@@ -668,7 +668,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1385.98
+              1385.0
             ]
           }
         ]
@@ -926,13 +926,6 @@
       },
       {
         "type": "neutral",
-        "title": "Why Bloom Energy Stock Crashed This Week",
-        "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2RuSnpVZ2VOdS01OVpPY2o1dVFTcXFvd0J0czlXLWt3Nnc3ck5jNDMxY3dNYXhvTzJ2elk3aG9kZUZqT2ViRXVqVUtXYjRqdlo1eENyTkJxWWJzOWh2OFluUkk0TGdOWWRUY3pDdnJLbmRLVEhlUkpsNWptbDEyUzVDd2g0YXFabWQ0LUpiRDQ3RHZ5Y3Rhbnp4STh5aURKZ1VZVl9idWI4anc1RW1kM09ST0Joa0xVcnhnTXdvVXVBdUU?oc=5",
-        "date": "08/22 00:31"
-      },
-      {
-        "type": "neutral",
         "title": "BE stock analysis: Is Bloom Energy a buy or a trap?",
         "publisher": "Investing.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanBWakpiSHdrUUFCQXVMSW9fa2VYbWNoMFlLdlVlRXZBRmE5dlAyTWlBelh1OEYyUmdwNnowZnNqUlhjdGNPTG1kOVBBVEkwRGRSUmZOWURVNVZIdFprMWtVaE5falRNOERWZXFOZFVNY3FwekQzeGFfakNkT2d1VERxVEtEYWZMd1hhSDFtVm9GU19fUUVPVFJsaXJfTEd4X2gteTNYN1FGTUZGS3RDbw?oc=5",
@@ -944,6 +937,13 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRS1pWDJkVi0taEQ1c2VISUd3T0FlRnRKRHZwV28yVWNNSHBtWEhfVjJKMzN3NUVOd2xhejZyU3hJMjN5dDU0eUtHVnpsU3pLb3hBTkpPaDEtaXpsYm9SRm0xcHpBd0dMejI4dy1KS2FBV0h4ZWhvZ05hd2VfdTFGLS1FenJMQlY2WEdtcnNBZ3hyVjF2bWZiVldNUWlqdGRnc0pTTG9aa3BEb3RjR1JkQzhDYmFkMkMtUWRVeGNzOW9rdkE?oc=5",
         "date": "08/19 02:17"
+      },
+      {
+        "type": "neutral",
+        "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
+        "date": "08/20 04:36"
       }
     ],
     "GOOGL": [
@@ -992,11 +992,11 @@
         "date": "08/22 05:41"
       },
       {
-        "type": "positive",
-        "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
-        "date": "08/20 18:08"
+        "type": "neutral",
+        "title": "Qualcomm: A Compelling Turnaround Opportunity (NASDAQ:QCOM)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2JoaFNOaWJaLVFzV1VVT1YyTHNzRS1jRVpPaXR3U0I2TlgyeGlGVG5pVi1TdmlTanQ3MS14VF9oS1FYaUVxdTlvR2VHcEpWb3RuY3B1bkp5Qy1WNWFsdlNHdnJiOE5zYjd3NjFqX2NvVmZkdF9feTBEb242VkJJTXBLSW9BWTVDck0w?oc=5",
+        "date": "08/21 20:34"
       },
       {
         "type": "neutral",
