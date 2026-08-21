@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-21T15:55:54.223198+00:00",
+  "updatedAt": "2026-08-21T16:22:17.812467+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7693.66,
-        "change": 0.69
+        "value": 7682.32,
+        "change": 0.54
       },
       {
         "name": "NASDAQ",
-        "value": 26253.7,
-        "change": 0.72
+        "value": 26208.05,
+        "change": 0.54
       },
       {
         "name": "다우존스",
-        "value": 53233.27,
-        "change": 0.9
+        "value": 53156.96,
+        "change": 0.75
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.26,
-        "change": -4.68
+        "value": 15.39,
+        "change": -3.87
       },
       {
         "name": "미국10년금리",
-        "value": 4.73,
-        "change": 0.64
+        "value": 4.74,
+        "change": 0.85
       },
       {
         "name": "원달러환율",
-        "value": 1384.43,
-        "change": -0.36
+        "value": 1381.98,
+        "change": -0.53
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7691.76,
               7707.98,
               7641.16,
-              7693.66
+              7682.32
             ]
           },
           {
@@ -248,7 +248,7 @@
               26289.71,
               26331.09,
               26067.17,
-              26253.7
+              26208.05
             ]
           },
           {
@@ -317,7 +317,7 @@
               53343.4,
               53463.05,
               52759.21,
-              53233.27
+              53156.96
             ]
           }
         ]
@@ -459,7 +459,7 @@
               15.84,
               14.89,
               16.01,
-              15.26
+              15.39
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.71,
               4.65,
               4.7,
-              4.73
+              4.74
             ]
           },
           {
@@ -671,7 +671,7 @@
               1414.73,
               1413.58,
               1389.4,
-              1384.43
+              1381.98
             ]
           }
         ]
@@ -882,11 +882,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 39.1,
-    "BE": 41.5,
-    "GOOGL": 26.1,
-    "QCOM": 61.0,
-    "VRT": 48.8
+    "AVGO": 38.7,
+    "BE": 40.9,
+    "GOOGL": 24.6,
+    "QCOM": 59.9,
+    "VRT": 48.1
   },
   "news": {
     "AVGO": [
@@ -906,10 +906,10 @@
       },
       {
         "type": "neutral",
-        "title": "Buying Marvell Before Broadcom Is A Big Mistake (NASDAQ:AVGO)",
+        "title": "4 stocks to watch on Friday: JBLU, MDB, SKHY, and AVGO (SP500:)",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWktnM0tBRG0zZzFRS3R6enFkTENFMHJyaVVRbnFUT3ljMF9mdnVUMEhfMXROQnlGYm52ZnR6aEVFQlRWbjgxc01YQkhvMzc4Qmw1UmFjZS16b3I0SUFFZ1B1UjAwM1QyNFZoM3JBMEs1WjNWb0gyQzNEcnNzTHBRclRiQWtqSjNJRE5OUEEzdVVHUQ?oc=5",
-        "date": "08/21 21:36"
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaENjb0NyZHAyd2VmQ0c1c3JSTVNvdF9RQzVhQ2daZGN4a0YzLXphYjJrLTItR1Fyc05VNXU2RTdZNUdaR0xfZFA5UG9kdUNESVkwQl9Ud2QyQUlPLTdUVC1tRzItNEtoOXhIT0xuc2ZKM2V2XzBJZmRWSlIteDYtR3lFOUpPTVREWTRKWHlJZW9mQQ?oc=5",
+        "date": "08/21 21:48"
       },
       {
         "type": "positive",
