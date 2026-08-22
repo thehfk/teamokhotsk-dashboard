@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:11:35.511873+00:00",
+  "updatedAt": "2026-08-22T14:44:28.396517+00:00",
   "market": {
     "cards": [
       {
@@ -922,6 +922,13 @@
     "BE": [
       {
         "type": "neutral",
+        "title": "Bloom Energy Stock (BE) Opinions on Short Seller Report and Lawsuit",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkVJSVZCM0k1OFRPdzV1SnFSbkc1c1hPYjNpTTg3MnpnV3R5TmVObFdmLVFqY25CUGMxRlFTOHN6Qm1KWW5CZTU2cnlMdmo3ZF9NOVl5eGdpX2MwMHZxbjFwTWVlbzJIQ1ZZbnBfclhqT1hqVDJnM0RGelFLSDBNSEd1TXhGWXZMLUVtMWpZeFZEYWlKcVFvN1lPazJRMmVSc2ZESmtBRQ?oc=5",
+        "date": "08/22 23:03"
+      },
+      {
+        "type": "neutral",
         "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
@@ -940,13 +947,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRS1pWDJkVi0taEQ1c2VISUd3T0FlRnRKRHZwV28yVWNNSHBtWEhfVjJKMzN3NUVOd2xhejZyU3hJMjN5dDU0eUtHVnpsU3pLb3hBTkpPaDEtaXpsYm9SRm0xcHpBd0dMejI4dy1KS2FBV0h4ZWhvZ05hd2VfdTFGLS1FenJMQlY2WEdtcnNBZ3hyVjF2bWZiVldNUWlqdGRnc0pTTG9aa3BEb3RjR1JkQzhDYmFkMkMtUWRVeGNzOW9rdkE?oc=5",
         "date": "08/19 02:17"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
-        "date": "08/20 04:36"
       }
     ],
     "GOOGL": [
@@ -956,13 +956,6 @@
         "publisher": "Finbold",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEhXXzVwZ0VTQTl4VnpkekMzSk9ub2JxZjZoWjZHM05JMndTZmR0bEdUbnVzamgwaU1uQmd2RnJMZ0lyX1VMZEgzQU9NbmZvaGFKSzhmRmxtX2QzZVJnQS1ac1dtYkkxNmM4T3Z5aG82NUZ6Qm54U042UDRwcl9MSnlzcFBsa0VJTnBPTVN6a0dsTWw3d1E?oc=5",
         "date": "08/21 02:13"
-      },
-      {
-        "type": "neutral",
-        "title": "Google's Marvell Warrant Doesn't Fully Vest Until Google Buys $120 Billion of Chips",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHdHMmFiWEtadHBKcmVUTDl4X3NKd21odmMxWFplUnV5RGF4Q0VsVFRyYUhXUkJ0RWhBVnpRZE01UkN6dTZ1R3gteFBBbkFMZFdmNV80WlpfYUtHY0d1WGVLQkpreWF4TkMzbDhSU3NUMkdpU3V0TW5md2dRb01TNXZQbWlWVzlBd21wQ2VLZnFnWXFyMUxDTXEzZHNKcUtsZ29FSFFQbkJReTlJOXZLc1NCcFlFWDZKRXZWZVc5RjRDMzdEc0VZ?oc=5",
-        "date": "08/21 13:18"
       },
       {
         "type": "neutral",
@@ -977,6 +970,13 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
         "date": "08/21 02:47"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
+        "date": "08/21 01:18"
       }
     ],
     "QCOM": [
