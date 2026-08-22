@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T02:09:06.288787+00:00",
+  "updatedAt": "2026-08-22T03:12:48.385779+00:00",
   "market": {
     "cards": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "name": "다우존스",
-        "value": 53277.01,
+        "value": 53277.0,
         "change": 0.98
       },
       {
@@ -313,7 +313,7 @@
               53343.4,
               53463.05,
               52759.21,
-              53277.01
+              53277.0
             ]
           }
         ]
@@ -945,8 +945,8 @@
         "type": "neutral",
         "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
-        "date": "08/20 04:36"
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV0Y5UTBkY2RVU0F2dUMzSkwybS1McTl1dDNnMW5BZkRsWldiT0xZejJvXzhVdWs4MkFhSVJzMUpmUHN5QlZWZi00ZndRSkp6OTJSQURlM2FQcFRGVVdrLW4tYUQ3NVMzckhKQnRJS1ZFTUtpSXotVV9ORzdRWG5rbm1td196TkxvelYzUUZVN19YbXBPZWt6X2pxUlJpZkw4RDJMWUJnQldGcjE4ZEVieGswVjY0ZV9mRExwZGs5SUNpV3g1SVdqZ3pZejFDTUROUVHSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
+        "date": "08/20 04:27"
       }
     ],
     "GOOGL": [
@@ -1012,13 +1012,6 @@
     "VRT": [
       {
         "type": "neutral",
-        "title": "Vertiv (VRT) Stock Looks Fairly Priced Despite Fraud Investigation News",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXMwdXNvWGNwWkRtSzJyM3FuSDY3NUZTWmNiSWdudi1KLXlZT2QyZmVKRnB6UlJkVE5qY1ZQbXh0bGJEU1k2WVlUUlFOR0tDSjU3X2hjcUNpbHB3LTRncmVCZDlaUnRDbDlubTkzYnJYWG03SkU2SHN2LW8ydm92OTduOG50bHRqUmFoUUUxei1MeVlzVFY5ZzhqTzdyVUgxMmNNRDU1TktXaURXS0J1SENJWWdodkF3SWtyYVExTVVyY3pjdG40bWdCWW9DeGpuZXV0bGV30gHbAUFVX3lxTE5fNEVxUVg2eGxOTEY4eEJWRnRSVXVsdnB6V0hKeUxZSzhROG9FV202MVdoM1dHeThwZU1nYUxkeGU1VE9IWXp3VExFbVpuWGNYM2Jsd3R1RDFsNnVVTFZnMERDUGZSRktLUGJhMURGQ21rZUNxSWZaSjlFdlZfaFJSVy10UHg4cURMT2p3NUxnNGREeUVNclk3SGdmZDdHN2N3VjBUV0ttOHViT0hyM0pJWDNqQkR4c0I5cGF1NzZPVEd6NjJzLTQ3eWdZS21VQnIxbTdKWUNFYTFHdw?oc=5",
-        "date": "08/22 05:29"
-      },
-      {
-        "type": "neutral",
         "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
@@ -1026,10 +1019,17 @@
       },
       {
         "type": "neutral",
+        "title": "Vertiv (VRT) Stock Looks Fairly Priced Despite Fraud Investigation News",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXMwdXNvWGNwWkRtSzJyM3FuSDY3NUZTWmNiSWdudi1KLXlZT2QyZmVKRnB6UlJkVE5qY1ZQbXh0bGJEU1k2WVlUUlFOR0tDSjU3X2hjcUNpbHB3LTRncmVCZDlaUnRDbDlubTkzYnJYWG03SkU2SHN2LW8ydm92OTduOG50bHRqUmFoUUUxei1MeVlzVFY5ZzhqTzdyVUgxMmNNRDU1TktXaURXS0J1SENJWWdodkF3SWtyYVExTVVyY3pjdG40bWdCWW9DeGpuZXV0bGV30gHbAUFVX3lxTE5fNEVxUVg2eGxOTEY4eEJWRnRSVXVsdnB6V0hKeUxZSzhROG9FV202MVdoM1dHeThwZU1nYUxkeGU1VE9IWXp3VExFbVpuWGNYM2Jsd3R1RDFsNnVVTFZnMERDUGZSRktLUGJhMURGQ21rZUNxSWZaSjlFdlZfaFJSVy10UHg4cURMT2p3NUxnNGREeUVNclk3SGdmZDdHN2N3VjBUV0ttOHViT0hyM0pJWDNqQkR4c0I5cGF1NzZPVEd6NjJzLTQ3eWdZS21VQnIxbTdKWUNFYTFHdw?oc=5",
+        "date": "08/22 05:29"
+      },
+      {
+        "type": "neutral",
         "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
-        "date": "08/20 14:50"
+        "date": "08/21 09:14"
       },
       {
         "type": "negative",
