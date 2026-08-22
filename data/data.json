@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T10:46:15.450784+00:00",
+  "updatedAt": "2026-08-22T11:11:40.669839+00:00",
   "market": {
     "cards": [
       {
@@ -891,11 +891,11 @@
   "news": {
     "AVGO": [
       {
-        "type": "neutral",
-        "title": "Broadcom: You Snooze, You Lose (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XNzZVblBJdU5fN1dodzdRUVJCY3I1MnFXTXRpcC01eUdnMi1Ec2o3M3Y1Vy1LWG1zb1FULTBPQ1Y0d2pBbnhsbmRrdng4TzdxdVFSWnNFSG1BUlU3RzI1LVBEWk44Y1JSNVFNdi1YeFdkbkVneEtrVg?oc=5",
-        "date": "08/22 02:24"
+        "type": "positive",
+        "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMVM4RzJGWlYtWFBYREhKWTNUcWU5Q2d1X2pSdFAwUUgyN3FiWlNBUmN0NWo4VWRPaXV2Z3E3M2hrTkxEU2h3MTdSQjR1d3ZKc2tlNW5Vdk5sZVpUc1Q0TnFUbzZ2Y2dMWF9wb0dFSFV3ZGFXRm5rdzB1WVVmeG5VRVVIQmtSdW00TEQ0M2xobW9ZcUtDcmRGcGs1X056R2p3aTVnag?oc=5",
+        "date": "08/20 18:05"
       },
       {
         "type": "positive",
@@ -913,10 +913,10 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom: The Market Has This One Wrong",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM29SeVh0NUJXUWVmNThSYV9QeWFTb21BNVBObjNNUUYteFYtN2hZUHg2Qk9MYnZIYndfVkJoS2NPQU82Y3N4TG4zV2V6NnRNVmtaV3k5VUVISVh5SkZkY05aY1ItN3R4ZURXOWNIbDF2NVNfZ0hOSVRZcnZfQ0c2dUJPY1MwQQ?oc=5",
-        "date": "08/22 17:01"
+        "title": "AVGO Stock Headed For $319B Market Cap Wipeout, But Analysts Eye Buying Opportunity",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVpRTzA5eFlORzhveW5TY2U2a2hrM0x6SjQwQ18tVEM4cjlPM1doXzRfS2owRmJfNGkwXzZNTktzQ1VGc1RkOUNJZzNBeTF0X0R0OGN3NmZZZWdxLXUwMm41S1JQaTM2Nlp0WG5IZjIxaHl3SERRdzQwNE9GbE9JLXhkNWlJMTIzOFA1YkxwaUVLQUxGX1k3UmVYU2poTTdUMmpRM0tXb2JpazJVbVJoMlRvRWdjaVdIQU40U3hfWjlTNWVBWWRRenBWX2N6eWsxWDJLT01YQQ?oc=5",
+        "date": "08/21 21:20"
       }
     ],
     "BE": [
@@ -966,17 +966,17 @@
       },
       {
         "type": "neutral",
-        "title": "Google's Marvell Warrant Doesn't Fully Vest Until Google Buys $120 Billion of Chips",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHdHMmFiWEtadHBKcmVUTDl4X3NKd21odmMxWFplUnV5RGF4Q0VsVFRyYUhXUkJ0RWhBVnpRZE01UkN6dTZ1R3gteFBBbkFMZFdmNV80WlpfYUtHY0d1WGVLQkpreWF4TkMzbDhSU3NUMkdpU3V0TW5md2dRb01TNXZQbWlWVzlBd21wQ2VLZnFnWXFyMUxDTXEzZHNKcUtsZ29FSFFQbkJReTlJOXZLc1NCcFlFWDZKRXZWZVc5RjRDMzdEc0VZ?oc=5",
-        "date": "08/21 13:18"
-      },
-      {
-        "type": "neutral",
         "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
         "date": "08/21 02:47"
+      },
+      {
+        "type": "neutral",
+        "title": "Google's Marvell Warrant Doesn't Fully Vest Until Google Buys $120 Billion of Chips",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHdHMmFiWEtadHBKcmVUTDl4X3NKd21odmMxWFplUnV5RGF4Q0VsVFRyYUhXUkJ0RWhBVnpRZE01UkN6dTZ1R3gteFBBbkFMZFdmNV80WlpfYUtHY0d1WGVLQkpreWF4TkMzbDhSU3NUMkdpU3V0TW5md2dRb01TNXZQbWlWVzlBd21wQ2VLZnFnWXFyMUxDTXEzZHNKcUtsZ29FSFFQbkJReTlJOXZLc1NCcFlFWDZKRXZWZVc5RjRDMzdEc0VZ?oc=5",
+        "date": "08/21 13:18"
       }
     ],
     "QCOM": [
@@ -995,18 +995,18 @@
         "date": "08/21 00:09"
       },
       {
-        "type": "neutral",
-        "title": "Grech Family Trust to sell 625 Qualcomm (QCOM) shares",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFp4S1NlVXI1bEJjWmx0NEdxcUpXOVgyRHo3UHVnUVVGNGVhbGYtTEFZOHNjaFNZYnAzdl82RmNCWjNaNUN0dmZnLTktOG9GaVAwUWY4clBfLXRqYlNaNkpYWTlfeE5uYVFieU5IXzY1emhnUTV3M3RBTzc3d0tnT0J4MEdWbFdfWDNOUzBWdlVMOHladkE4?oc=5",
-        "date": "08/22 05:41"
-      },
-      {
         "type": "positive",
         "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
         "date": "08/20 18:08"
+      },
+      {
+        "type": "neutral",
+        "title": "Grech Family Trust to sell 625 Qualcomm (QCOM) shares",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFp4S1NlVXI1bEJjWmx0NEdxcUpXOVgyRHo3UHVnUVVGNGVhbGYtTEFZOHNjaFNZYnAzdl82RmNCWjNaNUN0dmZnLTktOG9GaVAwUWY4clBfLXRqYlNaNkpYWTlfeE5uYVFieU5IXzY1emhnUTV3M3RBTzc3d0tnT0J4MEdWbFdfWDNOUzBWdlVMOHladkE4?oc=5",
+        "date": "08/22 05:41"
       }
     ],
     "VRT": [
