@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T11:42:16.234796+00:00",
+  "updatedAt": "2026-08-22T12:18:35.456865+00:00",
   "market": {
     "cards": [
       {
@@ -966,20 +966,34 @@
       },
       {
         "type": "neutral",
-        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
-        "date": "08/21 02:47"
-      },
-      {
-        "type": "neutral",
         "title": "Google's Marvell Warrant Doesn't Fully Vest Until Google Buys $120 Billion of Chips",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHdHMmFiWEtadHBKcmVUTDl4X3NKd21odmMxWFplUnV5RGF4Q0VsVFRyYUhXUkJ0RWhBVnpRZE01UkN6dTZ1R3gteFBBbkFMZFdmNV80WlpfYUtHY0d1WGVLQkpreWF4TkMzbDhSU3NUMkdpU3V0TW5md2dRb01TNXZQbWlWVzlBd21wQ2VLZnFnWXFyMUxDTXEzZHNKcUtsZ29FSFFQbkJReTlJOXZLc1NCcFlFWDZKRXZWZVc5RjRDMzdEc0VZ?oc=5",
         "date": "08/21 13:18"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
       }
     ],
     "QCOM": [
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/22 07:16"
+      },
+      {
+        "type": "positive",
+        "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
+        "date": "08/21 00:09"
+      },
       {
         "type": "positive",
         "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
@@ -989,24 +1003,10 @@
       },
       {
         "type": "neutral",
-        "title": "Grech Family Trust to sell 625 Qualcomm (QCOM) shares",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFp4S1NlVXI1bEJjWmx0NEdxcUpXOVgyRHo3UHVnUVVGNGVhbGYtTEFZOHNjaFNZYnAzdl82RmNCWjNaNUN0dmZnLTktOG9GaVAwUWY4clBfLXRqYlNaNkpYWTlfeE5uYVFieU5IXzY1emhnUTV3M3RBTzc3d0tnT0J4MEdWbFdfWDNOUzBWdlVMOHladkE4?oc=5",
-        "date": "08/22 05:41"
-      },
-      {
-        "type": "neutral",
         "title": "Where Will Qualcomm Stock Be in 5 Years?",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
         "date": "08/19 01:00"
-      },
-      {
-        "type": "negative",
-        "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcndxeGlIYjRnaHVCckttd2V6azR3dktocW1YY3VrcmdBNFo1eUZjRjJISlFWWGxGNldaRkROSVZRajN5bDI5QmhvVjFDaW5mVkdsTGtFeDFLLVJheUl3dWZ2OU5MMjl1THNyeWpQYnRQaWZPSmJ2MWtubTZFR3ZycWdTUk1VbXJkUThNLVBIeGFRY0ZtZW9OSW9vY0Y5cmtvQUE?oc=5",
-        "date": "08/04 16:00"
       }
     ],
     "VRT": [
