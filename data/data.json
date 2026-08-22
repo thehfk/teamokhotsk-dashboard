@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T03:12:48.385779+00:00",
+  "updatedAt": "2026-08-22T04:02:25.913360+00:00",
   "market": {
     "cards": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "name": "다우존스",
-        "value": 53277.0,
+        "value": 53277.01,
         "change": 0.98
       },
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.0,
-        "change": -0.42
+        "value": 1383.9,
+        "change": -0.5
       },
       {
         "name": "KOSPI",
@@ -313,7 +313,7 @@
               53343.4,
               53463.05,
               52759.21,
-              53277.0
+              53277.01
             ]
           }
         ]
@@ -668,7 +668,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1385.0
+              1383.9
             ]
           }
         ]
@@ -945,8 +945,8 @@
         "type": "neutral",
         "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV0Y5UTBkY2RVU0F2dUMzSkwybS1McTl1dDNnMW5BZkRsWldiT0xZejJvXzhVdWs4MkFhSVJzMUpmUHN5QlZWZi00ZndRSkp6OTJSQURlM2FQcFRGVVdrLW4tYUQ3NVMzckhKQnRJS1ZFTUtpSXotVV9ORzdRWG5rbm1td196TkxvelYzUUZVN19YbXBPZWt6X2pxUlJpZkw4RDJMWUJnQldGcjE4ZEVieGswVjY0ZV9mRExwZGs5SUNpV3g1SVdqZ3pZejFDTUROUVHSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
-        "date": "08/20 04:27"
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
+        "date": "08/20 04:36"
       }
     ],
     "GOOGL": [
