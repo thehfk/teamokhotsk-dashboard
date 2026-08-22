@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T13:49:50.855445+00:00",
+  "updatedAt": "2026-08-22T14:11:35.511873+00:00",
   "market": {
     "cards": [
       {
@@ -891,11 +891,11 @@
   "news": {
     "AVGO": [
       {
-        "type": "positive",
-        "title": "AVGO Stock Recovers Premarket After Marvell-Linked Selloff: Cathie Wood Loads Up On The Dip",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMVM4RzJGWlYtWFBYREhKWTNUcWU5Q2d1X2pSdFAwUUgyN3FiWlNBUmN0NWo4VWRPaXV2Z3E3M2hrTkxEU2h3MTdSQjR1d3ZKc2tlNW5Vdk5sZVpUc1Q0TnFUbzZ2Y2dMWF9wb0dFSFV3ZGFXRm5rdzB1WVVmeG5VRVVIQmtSdW00TEQ0M2xobW9ZcUtDcmRGcGs1X056R2p3aTVnag?oc=5",
-        "date": "08/20 18:05"
+        "type": "neutral",
+        "title": "Broadcom: The Market Has This One Wrong",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM29SeVh0NUJXUWVmNThSYV9QeWFTb21BNVBObjNNUUYteFYtN2hZUHg2Qk9MYnZIYndfVkJoS2NPQU82Y3N4TG4zV2V6NnRNVmtaV3k5VUVISVh5SkZkY05aY1ItN3R4ZURXOWNIbDF2NVNfZ0hOSVRZcnZfQ0c2dUJPY1MwQQ?oc=5",
+        "date": "08/22 17:01"
       },
       {
         "type": "positive",
@@ -959,17 +959,17 @@
       },
       {
         "type": "neutral",
-        "title": "Cathie Wood and Stanley Druckenmiller Agree On Amazon (AMZN) and Alphabet (GOOGL)",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW5OMmIwWUg3ZDdTalVJTWtXZjFDeUpvbEJUUUtQdjlXQzFMeHpjZ1ZxU2F3WG5zeFktdnpCTC1NVlcxc3lzeVV5MkRxR1NZM3dWWGNOeGZrQm16UlR2MS1FME1nTWo3ZkZ5NW9qNk50Y0xHNTc1NlBiOVBIRS1DMnhUUVJjMWxNTWJ2cGFpMXhrdDhBQ2NmT0p2QzJReWN5M3VGYXhicw?oc=5",
-        "date": "08/21 03:55"
-      },
-      {
-        "type": "neutral",
         "title": "Google's Marvell Warrant Doesn't Fully Vest Until Google Buys $120 Billion of Chips",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHdHMmFiWEtadHBKcmVUTDl4X3NKd21odmMxWFplUnV5RGF4Q0VsVFRyYUhXUkJ0RWhBVnpRZE01UkN6dTZ1R3gteFBBbkFMZFdmNV80WlpfYUtHY0d1WGVLQkpreWF4TkMzbDhSU3NUMkdpU3V0TW5md2dRb01TNXZQbWlWVzlBd21wQ2VLZnFnWXFyMUxDTXEzZHNKcUtsZ29FSFFQbkJReTlJOXZLc1NCcFlFWDZKRXZWZVc5RjRDMzdEc0VZ?oc=5",
         "date": "08/21 13:18"
+      },
+      {
+        "type": "neutral",
+        "title": "Cathie Wood and Stanley Druckenmiller Agree On Amazon (AMZN) and Alphabet (GOOGL)",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW5OMmIwWUg3ZDdTalVJTWtXZjFDeUpvbEJUUUtQdjlXQzFMeHpjZ1ZxU2F3WG5zeFktdnpCTC1NVlcxc3lzeVV5MkRxR1NZM3dWWGNOeGZrQm16UlR2MS1FME1nTWo3ZkZ5NW9qNk50Y0xHNTc1NlBiOVBIRS1DMnhUUVJjMWxNTWJ2cGFpMXhrdDhBQ2NmT0p2QzJReWN5M3VGYXhicw?oc=5",
+        "date": "08/21 03:55"
       },
       {
         "type": "neutral",
