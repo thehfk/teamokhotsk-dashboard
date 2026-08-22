@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T08:54:00.247487+00:00",
+  "updatedAt": "2026-08-22T09:17:29.443663+00:00",
   "market": {
     "cards": [
       {
@@ -891,13 +891,6 @@
   "news": {
     "AVGO": [
       {
-        "type": "positive",
-        "title": "Broadcom Stock (AVGO) Gains on Reported $100 Billion AI Financing Deal",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUt4SzBHYnQ4UWZHem5kc0ZYLVJSQ2NtOC1XeGphT0wwV1dvNkRWTE1vWVZJT0s5Sko3ZDgzMTFDa1laeFhqdWRtR0hvaVVGNG0zNUV6RzV0d1NkNFFIRWhtamZyS3ZuQklEZVZmUjVUY1UtMkJBaWV1WU5SVmlJRXVnaThPRzBhNlVTbjVQay1IeWtnaEV6YkxYWEtLdw?oc=5",
-        "date": "08/21 06:38"
-      },
-      {
         "type": "neutral",
         "title": "Broadcom: You Snooze, You Lose (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
@@ -912,11 +905,18 @@
         "date": "08/21 21:28"
       },
       {
-        "type": "positive",
-        "title": "2 AI Stocks, 1 Winner: Which Has More Upside?",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnRDTXA0RzRkZWZoTENiSk9WdUdTUXhrakZwRUxmTDNNbVVrcXRwNHVTeTlUcTNnN19laDhheFBVM0NtZGtzcGRpVDJlQTMxc1F1OTRrMlIzZ3ZXOVVJQTFFX19FQlZoV3NnbEVoZTQ4ZzlwTlNjMEotUUNNU1VrR1JjM2stc1BsYk10Tmdxcw?oc=5",
-        "date": "08/21 03:00"
+        "type": "negative",
+        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
+        "date": "08/20 07:06"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom: The Market Has This One Wrong",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM29SeVh0NUJXUWVmNThSYV9QeWFTb21BNVBObjNNUUYteFYtN2hZUHg2Qk9MYnZIYndfVkJoS2NPQU82Y3N4TG4zV2V6NnRNVmtaV3k5VUVISVh5SkZkY05aY1ItN3R4ZURXOWNIbDF2NVNfZ0hOSVRZcnZfQ0c2dUJPY1MwQQ?oc=5",
+        "date": "08/22 17:01"
       }
     ],
     "BE": [
@@ -972,11 +972,11 @@
         "date": "08/21 13:18"
       },
       {
-        "type": "positive",
-        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
+        "type": "neutral",
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnp1aWNFWG44aVVkazJPR1JJY2lBcTJrTmFENWxFSWxCNWRULTRteFdfcDhOM1YySjdQVGhMMExobHVVa21yRUo3enFBLVJMUVRiVXV0TFVJM3o3S00yNDFhNXp0eXRzRmJDb1I2YW1LdFpOWXNuQzN3c2lvYXlTSWZidVlCNmR0QjBkT1lnV0xXdjdiRjdObzRXNGFhWnNHMzRKbWVuTnlKVlVJb0N3VV82MHVwZlltc1pONg?oc=5",
-        "date": "08/20 00:24"
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
       }
     ],
     "QCOM": [
