@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T23:11:01.203916+00:00",
+  "updatedAt": "2026-08-22T23:42:18.392509+00:00",
   "market": {
     "cards": [
       {
@@ -913,20 +913,13 @@
       },
       {
         "type": "neutral",
-        "title": "BMO Says Buy NVDA, AVGO, MRVL, MU, and AMD Stocks, Calls Nvidia a ‘Top AI Pick’",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkJ0VHhrNDk4TzFSNUFpaHd4a0dXaHBTTWQ0M2kwQUFLVk5wcGZ5TWVFdG1jeUlUaVRjeERLek11ZDdDVEpyeGg2ZXZoWW1ybnN5ZlNSdW5fQ1BtZXdfay1RZXZsdk9qODNfM2pSR3o4YlpRdkNKUExKU29RTTY1NlkyWmJ5RWdORXJ1dm1uMWhlLWpvZVJrQ1pMWDljbFZERHNXcQ?oc=5",
-        "date": "08/22 03:50"
+        "title": "What's Going On With Broadcom Stock Thursday? - Broadcom (NASDAQ:AVGO)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNazdNeTNoYXgxTWRNZmhCc1FFUGdKSzVRdG1TRTdXVEVJTEZiaHh2NVlTSkhjU3JVMWtHR3YxOVJya0ZxMUNrcFFublhGR1JoNXZMOTNYcXBqbWl0MnZEM203SHV2LUh6TnJJaHdoZjhVdDZxWjNLLVhCVG9zX1FRRUZhM0t2X2FLR001XzVLREN5NU10UUpDaVVjaDc3MWlSb0dxWE9NSG9xQ251Y0lvR24xTENTQ0hfTzJwLURpSjZZcjRRLWc?oc=5",
+        "date": "08/21 01:05"
       }
     ],
     "BE": [
-      {
-        "type": "neutral",
-        "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
-        "date": "08/21 16:36"
-      },
       {
         "type": "neutral",
         "title": "Bloom Energy Stock (BE) Opinions on Short Seller Report and Lawsuit",
@@ -947,6 +940,13 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRS1pWDJkVi0taEQ1c2VISUd3T0FlRnRKRHZwV28yVWNNSHBtWEhfVjJKMzN3NUVOd2xhejZyU3hJMjN5dDU0eUtHVnpsU3pLb3hBTkpPaDEtaXpsYm9SRm0xcHpBd0dMejI4dy1KS2FBV0h4ZWhvZ05hd2VfdTFGLS1FenJMQlY2WEdtcnNBZ3hyVjF2bWZiVldNUWlqdGRnc0pTTG9aa3BEb3RjR1JkQzhDYmFkMkMtUWRVeGNzOW9rdkE?oc=5",
         "date": "08/19 02:17"
+      },
+      {
+        "type": "positive",
+        "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
+        "date": "08/21 03:08"
       }
     ],
     "GOOGL": [
@@ -966,17 +966,17 @@
       },
       {
         "type": "neutral",
-        "title": "3 AI Stocks Built for the Next Decade",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSW1XZl9lS0pXX3VJVDFKTW1wdXFWVWQzUUZ4Q1B4NlR0NE5xY0hNWFhDOTd4cnpoTy04eTdLZmJTQVBEcXpwOFNKalBQRjlFYUh6Q25rRTNCNTdsUW1xRXBNZG85bnF6UGw4ZG9NQnRwbHRMNzZ2bVZacXFoQVZUb0w0dlBTVGlW?oc=5",
-        "date": "08/22 20:00"
-      },
-      {
-        "type": "neutral",
         "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
         "date": "08/21 02:47"
+      },
+      {
+        "type": "neutral",
+        "title": "3 AI Stocks Built for the Next Decade",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSW1XZl9lS0pXX3VJVDFKTW1wdXFWVWQzUUZ4Q1B4NlR0NE5xY0hNWFhDOTd4cnpoTy04eTdLZmJTQVBEcXpwOFNKalBQRjlFYUh6Q25rRTNCNTdsUW1xRXBNZG85bnF6UGw4ZG9NQnRwbHRMNzZ2bVZacXFoQVZUb0w0dlBTVGlW?oc=5",
+        "date": "08/22 20:00"
       }
     ],
     "QCOM": [
@@ -1027,8 +1027,8 @@
       {
         "type": "negative",
         "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFRPY2xpV0tUd2dOZEFrMVBBczYtVmpwRzNRTy1mZ2hPeXc5N0puTldfd1o0b2tnNFJpU25zdnFVbXBVeE5IZFcwUjg4YzcxMVREMUFMQkEtYmREOXlELUVqcjlBTFFqZllFRG9vMlVkRDNEZzJzZTVWMk53Vkc5Wjl5N1dJN203QlhCNnhn?oc=5",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
         "date": "08/19 00:36"
       },
       {
