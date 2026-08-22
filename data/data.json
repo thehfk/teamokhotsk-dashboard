@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T17:11:50.801699+00:00",
+  "updatedAt": "2026-08-22T17:42:47.250633+00:00",
   "market": {
     "cards": [
       {
@@ -913,10 +913,10 @@
       },
       {
         "type": "neutral",
-        "title": "AVGO Stock Headed For $319B Market Cap Wipeout, But Analysts Eye Buying Opportunity",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVpRTzA5eFlORzhveW5TY2U2a2hrM0x6SjQwQ18tVEM4cjlPM1doXzRfS2owRmJfNGkwXzZNTktzQ1VGc1RkOUNJZzNBeTF0X0R0OGN3NmZZZWdxLXUwMm41S1JQaTM2Nlp0WG5IZjIxaHl3SERRdzQwNE9GbE9JLXhkNWlJMTIzOFA1YkxwaUVLQUxGX1k3UmVYU2poTTdUMmpRM0tXb2JpazJVbVJoMlRvRWdjaVdIQU40U3hfWjlTNWVBWWRRenBWX2N6eWsxWDJLT01YQQ?oc=5",
-        "date": "08/21 21:20"
+        "title": "$AVGO stock fell 7% this week. Here's what we see in our data.",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbWF0a3lFUGY2cGs4a2lSa3dzdlRnSGJvYUVsU2xreVhZUWxmeUZHdjRlUWRTZ25jZGE2YkVORlpWb0NxbGM0dlhKWWJuQWc0LUZfT2pCV1gxa21yRGQxSXV5aGl4OURIUG1NOXVwVFczT0pjZEY4TEtuaGFVZ2NoRlpRMm1LcFRhME1iYUV4RE9qVHZXU2ZaQThkSG5fM0pTZjZr?oc=5",
+        "date": "08/23 01:38"
       }
     ],
     "BE": [
@@ -952,13 +952,6 @@
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "Wall Street analyst sets Google (GOOGL) stock price target for 12 months",
-        "publisher": "Finbold",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEhXXzVwZ0VTQTl4VnpkekMzSk9ub2JxZjZoWjZHM05JMndTZmR0bEdUbnVzamgwaU1uQmd2RnJMZ0lyX1VMZEgzQU9NbmZvaGFKSzhmRmxtX2QzZVJnQS1ac1dtYkkxNmM4T3Z5aG82NUZ6Qm54U042UDRwcl9MSnlzcFBsa0VJTnBPTVN6a0dsTWw3d1E?oc=5",
-        "date": "08/21 02:13"
-      },
-      {
-        "type": "neutral",
         "title": "Cathie Wood and Stanley Druckenmiller Agree On Amazon (AMZN) and Alphabet (GOOGL)",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW5OMmIwWUg3ZDdTalVJTWtXZjFDeUpvbEJUUUtQdjlXQzFMeHpjZ1ZxU2F3WG5zeFktdnpCTC1NVlcxc3lzeVV5MkRxR1NZM3dWWGNOeGZrQm16UlR2MS1FME1nTWo3ZkZ5NW9qNk50Y0xHNTc1NlBiOVBIRS1DMnhUUVJjMWxNTWJ2cGFpMXhrdDhBQ2NmT0p2QzJReWN5M3VGYXhicw?oc=5",
@@ -977,6 +970,13 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
         "date": "08/21 01:18"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Inc. $GOOGL Stock Position Increased by Hyperion Asset Management Ltd",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHVDcmxqamo0U1RHamhvVDVkZzRsOWVBV2RwQk5nS3A5RWpCekxrcVRNVEQycERkeVFIQWVGWkVxb016VnNXa1lEV1VRc1ZFZjBVQ1JESVJuTUlTcU5pSEFNTmZ0VkRUTHlkeGlKREVLckprcUt3dUdCLW43V2c1YU96cGlYUmdqMFdyNkY3OWhvdHdZR2NKTUFaZmtTNUFyOXJyM2xsZl9RQTVhRklWWWQ5QmpNYjB6RFdPQTk0Z1NpRTNqLXEweVg3ZndGR3FxRk5B?oc=5",
+        "date": "08/20 18:02"
       }
     ],
     "QCOM": [
