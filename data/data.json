@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:42:56.832753+00:00",
+  "updatedAt": "2026-08-22T22:11:29.429923+00:00",
   "market": {
     "cards": [
       {
@@ -905,18 +905,18 @@
         "date": "08/21 21:28"
       },
       {
+        "type": "negative",
+        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
+        "publisher": "StockStory",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdjJkZVVSR2ktdXdhYmlsYWxNT2JCd2VpOUR3TXpZajR5cUNUbmhWb2hJNXNXcGZLMm1aNGJiNFFvN0RrbzVSMWI5ZkFsNF8yTDBhSndGYXM3WWdZZFJfd2FQaklhSzJCNVNlYVB0SWFhRlhnZDY4QkRTRUk5anRjQWhPcXNNbTllOFR5R081RWMtakJIb19sLW5fX2VrZm4tSHIwV0ZKSHJqZzBz?oc=5",
+        "date": "08/20 03:42"
+      },
+      {
         "type": "neutral",
         "title": "BMO Says Buy NVDA, AVGO, MRVL, MU, and AMD Stocks, Calls Nvidia a ‘Top AI Pick’",
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkJ0VHhrNDk4TzFSNUFpaHd4a0dXaHBTTWQ0M2kwQUFLVk5wcGZ5TWVFdG1jeUlUaVRjeERLek11ZDdDVEpyeGg2ZXZoWW1ybnN5ZlNSdW5fQ1BtZXdfay1RZXZsdk9qODNfM2pSR3o4YlpRdkNKUExKU29RTTY1NlkyWmJ5RWdORXJ1dm1uMWhlLWpvZVJrQ1pMWDljbFZERHNXcQ?oc=5",
         "date": "08/22 03:50"
-      },
-      {
-        "type": "negative",
-        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
-        "date": "08/20 07:06"
       }
     ],
     "BE": [
