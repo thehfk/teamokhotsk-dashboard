@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T20:45:31.076812+00:00",
+  "updatedAt": "2026-08-22T21:12:28.385484+00:00",
   "market": {
     "cards": [
       {
@@ -905,34 +905,34 @@
         "date": "08/21 21:28"
       },
       {
-        "type": "negative",
-        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
-        "publisher": "StockStory",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdjJkZVVSR2ktdXdhYmlsYWxNT2JCd2VpOUR3TXpZajR5cUNUbmhWb2hJNXNXcGZLMm1aNGJiNFFvN0RrbzVSMWI5ZkFsNF8yTDBhSndGYXM3WWdZZFJfd2FQaklhSzJCNVNlYVB0SWFhRlhnZDY4QkRTRUk5anRjQWhPcXNNbTllOFR5R081RWMtakJIb19sLW5fX2VrZm4tSHIwV0ZKSHJqZzBz?oc=5",
-        "date": "08/20 03:42"
-      },
-      {
         "type": "neutral",
         "title": "BMO Says Buy NVDA, AVGO, MRVL, MU, and AMD Stocks, Calls Nvidia a ‘Top AI Pick’",
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkJ0VHhrNDk4TzFSNUFpaHd4a0dXaHBTTWQ0M2kwQUFLVk5wcGZ5TWVFdG1jeUlUaVRjeERLek11ZDdDVEpyeGg2ZXZoWW1ybnN5ZlNSdW5fQ1BtZXdfay1RZXZsdk9qODNfM2pSR3o4YlpRdkNKUExKU29RTTY1NlkyWmJ5RWdORXJ1dm1uMWhlLWpvZVJrQ1pMWDljbFZERHNXcQ?oc=5",
         "date": "08/22 03:50"
+      },
+      {
+        "type": "negative",
+        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
+        "date": "08/20 07:06"
       }
     ],
     "BE": [
-      {
-        "type": "neutral",
-        "title": "Bloom Energy Stock (BE) Opinions on Short Seller Report and Lawsuit",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkVJSVZCM0k1OFRPdzV1SnFSbkc1c1hPYjNpTTg3MnpnV3R5TmVObFdmLVFqY25CUGMxRlFTOHN6Qm1KWW5CZTU2cnlMdmo3ZF9NOVl5eGdpX2MwMHZxbjFwTWVlbzJIQ1ZZbnBfclhqT1hqVDJnM0RGelFLSDBNSEd1TXhGWXZMLUVtMWpZeFZEYWlKcVFvN1lPazJRMmVSc2ZESmtBRQ?oc=5",
-        "date": "08/22 23:03"
-      },
       {
         "type": "neutral",
         "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
         "date": "08/21 16:36"
+      },
+      {
+        "type": "neutral",
+        "title": "Bloom Energy Stock (BE) Opinions on Short Seller Report and Lawsuit",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkVJSVZCM0k1OFRPdzV1SnFSbkc1c1hPYjNpTTg3MnpnV3R5TmVObFdmLVFqY25CUGMxRlFTOHN6Qm1KWW5CZTU2cnlMdmo3ZF9NOVl5eGdpX2MwMHZxbjFwTWVlbzJIQ1ZZbnBfclhqT1hqVDJnM0RGelFLSDBNSEd1TXhGWXZMLUVtMWpZeFZEYWlKcVFvN1lPazJRMmVSc2ZESmtBRQ?oc=5",
+        "date": "08/22 23:03"
       },
       {
         "type": "neutral",
@@ -966,33 +966,33 @@
       },
       {
         "type": "neutral",
+        "title": "3 AI Stocks Built for the Next Decade",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSW1XZl9lS0pXX3VJVDFKTW1wdXFWVWQzUUZ4Q1B4NlR0NE5xY0hNWFhDOTd4cnpoTy04eTdLZmJTQVBEcXpwOFNKalBQRjlFYUh6Q25rRTNCNTdsUW1xRXBNZG85bnF6UGw4ZG9NQnRwbHRMNzZ2bVZacXFoQVZUb0w0dlBTVGlW?oc=5",
+        "date": "08/22 20:00"
+      },
+      {
+        "type": "neutral",
         "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
         "date": "08/21 02:47"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
-        "date": "08/21 01:18"
       }
     ],
     "QCOM": [
-      {
-        "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "08/22 07:16"
-      },
       {
         "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
         "date": "08/21 00:09"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/22 07:16"
       },
       {
         "type": "positive",
