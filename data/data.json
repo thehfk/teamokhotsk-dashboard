@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T11:12:27.723236+00:00",
+  "updatedAt": "2026-08-23T11:42:32.371324+00:00",
   "market": {
     "cards": [
       {
@@ -921,11 +921,11 @@
     ],
     "BE": [
       {
-        "type": "negative",
-        "title": "Why Are ORCL, BE Stocks Falling Today?",
+        "type": "neutral",
+        "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2F3eE1IbnktdFctRHg1UmNReUVqdzltRUpqRzZ1TklQWUk2X3N5NnN6Z2g2X2lMaW1ib2Y4Q1BmZW5zY2lQTGlKempNdnpTOTZLdThjemtqY1V0dG0zcTdvWHpkR1pfd19jTkFCNHhVVERhMUlPdDlLYVVQQVgydHJRM01QZ1NMZTQxZTBVSlZmZG1xMGdweGNwbDJrUlpGeWtZMm9JN0txbFNVVVB1TDlQWk9zTUswTTI1YXhQb3JEUUVZLTVCU0JzNXgtbjQtOVE?oc=5",
-        "date": "08/23 04:18"
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
+        "date": "08/21 19:40"
       },
       {
         "type": "neutral",
