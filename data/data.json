@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T07:08:55.876487+00:00",
+  "updatedAt": "2026-08-23T07:54:23.702684+00:00",
   "market": {
     "cards": [
       {
@@ -921,6 +921,13 @@
     ],
     "BE": [
       {
+        "type": "negative",
+        "title": "Why Are ORCL, BE Stocks Falling Today?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2F3eE1IbnktdFctRHg1UmNReUVqdzltRUpqRzZ1TklQWUk2X3N5NnN6Z2g2X2lMaW1ib2Y4Q1BmZW5zY2lQTGlKempNdnpTOTZLdThjemtqY1V0dG0zcTdvWHpkR1pfd19jTkFCNHhVVERhMUlPdDlLYVVQQVgydHJRM01QZ1NMZTQxZTBVSlZmZG1xMGdweGNwbDJrUlpGeWtZMm9JN0txbFNVVVB1TDlQWk9zTUswTTI1YXhQb3JEUUVZLTVCU0JzNXgtbjQtOVE?oc=5",
+        "date": "08/23 04:18"
+      },
+      {
         "type": "neutral",
         "title": "Bloom Energy Stock (BE) Opinions on Short Seller Report and Lawsuit",
         "publisher": "Quiver Quantitative",
@@ -933,13 +940,6 @@
         "publisher": "Investing.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanBWakpiSHdrUUFCQXVMSW9fa2VYbWNoMFlLdlVlRXZBRmE5dlAyTWlBelh1OEYyUmdwNnowZnNqUlhjdGNPTG1kOVBBVEkwRGRSUmZOWURVNVZIdFprMWtVaE5falRNOERWZXFOZFVNY3FwekQzeGFfakNkT2d1VERxVEtEYWZMd1hhSDFtVm9GU19fUUVPVFJsaXJfTEd4X2gteTNYN1FGTUZGS3RDbw?oc=5",
         "date": "08/18 23:18"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
-        "date": "08/21 03:08"
       },
       {
         "type": "neutral",
@@ -973,19 +973,19 @@
       },
       {
         "type": "neutral",
-        "title": "Google's Marvell Warrant Doesn't Fully Vest Until Google Buys $120 Billion of Chips",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHdHMmFiWEtadHBKcmVUTDl4X3NKd21odmMxWFplUnV5RGF4Q0VsVFRyYUhXUkJ0RWhBVnpRZE01UkN6dTZ1R3gteFBBbkFMZFdmNV80WlpfYUtHY0d1WGVLQkpreWF4TkMzbDhSU3NUMkdpU3V0TW5md2dRb01TNXZQbWlWVzlBd21wQ2VLZnFnWXFyMUxDTXEzZHNKcUtsZ29FSFFQbkJReTlJOXZLc1NCcFlFWDZKRXZWZVc5RjRDMzdEc0VZ?oc=5",
-        "date": "08/21 13:18"
+        "title": "3 AI Stocks Built for the Next Decade",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSW1XZl9lS0pXX3VJVDFKTW1wdXFWVWQzUUZ4Q1B4NlR0NE5xY0hNWFhDOTd4cnpoTy04eTdLZmJTQVBEcXpwOFNKalBQRjlFYUh6Q25rRTNCNTdsUW1xRXBNZG85bnF6UGw4ZG9NQnRwbHRMNzZ2bVZacXFoQVZUb0w0dlBTVGlW?oc=5",
+        "date": "08/22 20:00"
       }
     ],
     "QCOM": [
       {
-        "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "type": "neutral",
+        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "08/22 22:30"
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
+        "date": "08/21 12:17"
       },
       {
         "type": "positive",
