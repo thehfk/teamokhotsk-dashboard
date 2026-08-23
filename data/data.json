@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:11:18.169621+00:00",
+  "updatedAt": "2026-08-23T20:45:17.914230+00:00",
   "market": {
     "cards": [
       {
@@ -898,13 +898,6 @@
         "date": "08/23 04:30"
       },
       {
-        "type": "neutral",
-        "title": "The Line In The Sand For AVGO Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
-        "date": "08/21 04:56"
-      },
-      {
         "type": "positive",
         "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
         "publisher": "TheStreet Pro",
@@ -917,6 +910,13 @@
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkJ0VHhrNDk4TzFSNUFpaHd4a0dXaHBTTWQ0M2kwQUFLVk5wcGZ5TWVFdG1jeUlUaVRjeERLek11ZDdDVEpyeGg2ZXZoWW1ybnN5ZlNSdW5fQ1BtZXdfay1RZXZsdk9qODNfM2pSR3o4YlpRdkNKUExKU29RTTY1NlkyWmJ5RWdORXJ1dm1uMWhlLWpvZVJrQ1pMWDljbFZERHNXcQ?oc=5",
         "date": "08/22 03:50"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Broadcom Stock Thursday? - Broadcom (NASDAQ:AVGO)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNazdNeTNoYXgxTWRNZmhCc1FFUGdKSzVRdG1TRTdXVEVJTEZiaHh2NVlTSkhjU3JVMWtHR3YxOVJya0ZxMUNrcFFublhGR1JoNXZMOTNYcXBqbWl0MnZEM203SHV2LUh6TnJJaHdoZjhVdDZxWjNLLVhCVG9zX1FRRUZhM0t2X2FLR001XzVLREN5NU10UUpDaVVjaDc3MWlSb0dxWE9NSG9xQ251Y0lvR24xTENTQ0hfTzJwLURpSjZZcjRRLWc?oc=5",
+        "date": "08/21 01:05"
       }
     ],
     "BE": [
@@ -959,17 +959,17 @@
       },
       {
         "type": "neutral",
-        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
-        "date": "08/21 02:47"
-      },
-      {
-        "type": "neutral",
         "title": "Cathie Wood and Stanley Druckenmiller Agree On Amazon (AMZN) and Alphabet (GOOGL)",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW5OMmIwWUg3ZDdTalVJTWtXZjFDeUpvbEJUUUtQdjlXQzFMeHpjZ1ZxU2F3WG5zeFktdnpCTC1NVlcxc3lzeVV5MkRxR1NZM3dWWGNOeGZrQm16UlR2MS1FME1nTWo3ZkZ5NW9qNk50Y0xHNTc1NlBiOVBIRS1DMnhUUVJjMWxNTWJ2cGFpMXhrdDhBQ2NmT0p2QzJReWN5M3VGYXhicw?oc=5",
         "date": "08/21 03:55"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
       },
       {
         "type": "neutral",
@@ -996,17 +996,17 @@
       },
       {
         "type": "positive",
-        "title": "Qualcomm: The Buy On Meltdown Moment Is Finally Here (Rating Upgrade) (NASDAQ:QCOM)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM05aMnh5VzdmeXZKcHFsTnZ0V2FaN1E0VG92SG1mbjBLaHhCN244bHNRWEZWdUh1bkxDX2ZpcmlTVzVVZVViUVFsV1loWVZsQkdUbllua2ZEQmFqQkdpRThyVXVsUFFEeHFWLTdDa3pBZzRVR2RUWkhqeHlVY1VyNk0wVHluRG4xRUxtcXRDeFVRNW1NbnljWVllamNCeFdnWHc0MVFtWjdEX2c?oc=5",
-        "date": "08/23 22:50"
-      },
-      {
-        "type": "positive",
         "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
         "date": "08/20 18:08"
+      },
+      {
+        "type": "positive",
+        "title": "Qualcomm: The Buy On Meltdown Moment Is Finally Here (Rating Upgrade) (NASDAQ:QCOM)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM05aMnh5VzdmeXZKcHFsTnZ0V2FaN1E0VG92SG1mbjBLaHhCN244bHNRWEZWdUh1bkxDX2ZpcmlTVzVVZVViUVFsV1loWVZsQkdUbllua2ZEQmFqQkdpRThyVXVsUFFEeHFWLTdDa3pBZzRVR2RUWkhqeHlVY1VyNk0wVHluRG4xRUxtcXRDeFVRNW1NbnljWVllamNCeFdnWHc0MVFtWjdEX2c?oc=5",
+        "date": "08/23 22:50"
       }
     ],
     "VRT": [
@@ -1027,16 +1027,16 @@
       {
         "type": "negative",
         "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
+        "publisher": "Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFRPY2xpV0tUd2dOZEFrMVBBczYtVmpwRzNRTy1mZ2hPeXc5N0puTldfd1o0b2tnNFJpU25zdnFVbXBVeE5IZFcwUjg4YzcxMVREMUFMQkEtYmREOXlELUVqcjlBTFFqZllFRG9vMlVkRDNEZzJzZTVWMk53Vkc5Wjl5N1dJN203QlhCNnhn?oc=5",
         "date": "08/19 00:36"
       },
       {
         "type": "negative",
-        "title": "Vertiv Holdings Co (VRT) Stock Down 4.2% but Still Overvalued -- GF Score: 86/100",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzR0VE1CSHRCUGF0YzhjQURxZDdOdF9pWjFHSXo4YTZxdnltZUZOaGw4bWNCRWNvaS01b29tNmxsLW02Ujl0UjZpc1JDbzNuT3YyeUZENzB1UVJmM2taR25MMkoxYU8tT2JmMl9Eak1JdUdpZnFPTGNiWGVvT3NjX1R5akU4ZUNvWGtsZk4tVnJBQm5qZllnYmVHbmNXN1BZUlZZQWU0Z052WG1DLWJQbA?oc=5",
-        "date": "08/20 07:01"
+        "title": "VRT Stock: Earn 11% Annualized, Or Buy In 50% Lower",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeW84SXUzZUgxeVlWU1g1M1VSTFh3V0U0QUo1WFhhcXJqQkRGdTBVRm1fLWRQZkFTRWp5cVV3NXc0bDRoUGlPaEtNa3p5UGhfT1FXRHAwclRSZmVTMWJ1dWpYUldFclNIN2M2NzNlNDJpbzI5a2ZBZ1RZX0JfYXB0YUFUcWlSWEVVNWpnZGJMQmhaNXBOTTVvYm1zUDAzV1RSNTFWTFBrcjJQMG8wNGJHMzBpVVl6STA?oc=5",
+        "date": "08/19 12:39"
       }
     ]
   }
