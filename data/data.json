@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T13:50:59.036627+00:00",
+  "updatedAt": "2026-08-23T14:13:48.876317+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1383.9,
-        "change": -0.5
+        "value": 1385.98,
+        "change": -0.35
       },
       {
         "name": "KOSPI",
@@ -668,7 +668,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1383.9
+              1385.98
             ]
           }
         ]
@@ -893,8 +893,8 @@
       {
         "type": "neutral",
         "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTklyUWUySi1lNlFtejVoVng3Qk9MTDNmUFMxdnpTczlOLWc3bTM4aXRLSE9LTTZWTTJkWTlpN3ZlQmV1SXF0dThWb1RQY1dFZVk1anFFOVZzb0w1TTRxY1Q0Nnc0U2ZrdWRZaDZHYVVXZ210c1IzRldPSUJqVUtKM09WcjVYMzBJZmVrSERtaUt2akRiRmlwRDNkcw?oc=5",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFqQVVmOUxHVkN0NVdKb3VDbnJtZDBpVC1MMmkwak5teGptUEpRTHNuUEwyQkJ6VERzdkVNTzByNTRyQ2JWS2loSWJfUmROME1DUGZOWk5tcVo1ejh6RVJEUXEwTkVQSjhrRzRQdS1IMGVGbUEtQjlkdFFIdDlaYW1RMjR4bU1zMm5KSHNVbXBWLXliYXlJWW54Y3FWcUlXRGhVelJfU1JseWJhM0Y5dnJvUWEySmRZb1VSWFlnNW45bEdB?oc=5",
         "date": "08/23 04:30"
       },
       {
@@ -955,7 +955,7 @@
         "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
-        "date": "08/23 04:15"
+        "date": "08/23 11:58"
       },
       {
         "type": "neutral",
@@ -996,17 +996,17 @@
       },
       {
         "type": "positive",
+        "title": "Qualcomm: The Buy On Meltdown Moment Is Finally Here (Rating Upgrade) (NASDAQ:QCOM)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM05aMnh5VzdmeXZKcHFsTnZ0V2FaN1E0VG92SG1mbjBLaHhCN244bHNRWEZWdUh1bkxDX2ZpcmlTVzVVZVViUVFsV1loWVZsQkdUbllua2ZEQmFqQkdpRThyVXVsUFFEeHFWLTdDa3pBZzRVR2RUWkhqeHlVY1VyNk0wVHluRG4xRUxtcXRDeFVRNW1NbnljWVllamNCeFdnWHc0MVFtWjdEX2c?oc=5",
+        "date": "08/23 22:50"
+      },
+      {
+        "type": "positive",
         "title": "The Upside Case For Qualcomm Stock Now Carries Purchase Orders",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUwtV2xoblJ0X09oUHpnZ0VzLXpJVWlqWlpWUXREZ2laUHFiUURGSjBubWk0SHJnOHdMMGk4Ynh0N0s5YkRyNUdQc1lXa1c5X25xdjRzakdXdGtYRUQ4WkFRZjlDWDdQSjBaTWZfWVltd1l3SFFFZk1aaTBUcTN4WDVOUjB5X3hKWmdJZXNsNi1rSlhkWHhHSURiMDN6SFI0c3p4cURvTTJ1V09WWElGUkU4SHNBa1hva0YyZkh4UEo?oc=5",
         "date": "08/20 18:08"
-      },
-      {
-        "type": "neutral",
-        "title": "Where Will Qualcomm Stock Be in 5 Years?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
-        "date": "08/19 01:00"
       }
     ],
     "VRT": [
@@ -1033,10 +1033,10 @@
       },
       {
         "type": "negative",
-        "title": "VRT Stock: Earn 11% Annualized, Or Buy In 50% Lower",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeW84SXUzZUgxeVlWU1g1M1VSTFh3V0U0QUo1WFhhcXJqQkRGdTBVRm1fLWRQZkFTRWp5cVV3NXc0bDRoUGlPaEtNa3p5UGhfT1FXRHAwclRSZmVTMWJ1dWpYUldFclNIN2M2NzNlNDJpbzI5a2ZBZ1RZX0JfYXB0YUFUcWlSWEVVNWpnZGJMQmhaNXBOTTVvYm1zUDAzV1RSNTFWTFBrcjJQMG8wNGJHMzBpVVl6STA?oc=5",
-        "date": "08/19 12:39"
+        "title": "Vertiv Holdings Co (VRT) Stock Down 4.2% but Still Overvalued -- GF Score: 86/100",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzR0VE1CSHRCUGF0YzhjQURxZDdOdF9pWjFHSXo4YTZxdnltZUZOaGw4bWNCRWNvaS01b29tNmxsLW02Ujl0UjZpc1JDbzNuT3YyeUZENzB1UVJmM2taR25MMkoxYU8tT2JmMl9Eak1JdUdpZnFPTGNiWGVvT3NjX1R5akU4ZUNvWGtsZk4tVnJBQm5qZllnYmVHbmNXN1BZUlZZQWU0Z052WG1DLWJQbA?oc=5",
+        "date": "08/20 07:01"
       }
     ]
   }
