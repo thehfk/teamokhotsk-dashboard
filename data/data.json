@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T18:15:03.516648+00:00",
+  "updatedAt": "2026-08-23T18:54:09.263805+00:00",
   "market": {
     "cards": [
       {
@@ -922,10 +922,10 @@
     "BE": [
       {
         "type": "neutral",
-        "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
+        "title": "Has BE Stock Peaked Yet? Here’s What Wall Street And Retail Think",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
-        "date": "08/23 14:33"
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDNMYXh1amxxOWlMOVJVbnk3alZyR05oc2JTY1FxemJJZkdfR0o5UE5oRGNCSGlXejNFcy1leTI5N2RvVGxRQThFUmRYaS11Qm1KaDdUMXB2YWk1NEpJVGRHZjlqTkRzRFNlREZpems5MGpOY1c2NnBKbjRmSTlDSVNIdnZab1o3RGJjVWw3MWo?oc=5",
+        "date": "08/21 22:52"
       },
       {
         "type": "neutral",
@@ -942,27 +942,27 @@
         "date": "08/19 02:17"
       },
       {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
-        "date": "08/20 04:36"
+        "type": "negative",
+        "title": "$BE stock is down 10% today. Here's what we see in our data.",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVll0aURDZ3BhOWExekhETjh1aWpOYUdQNVdpclpiMGpfTlIzeURJcGhJYnd2dUJpMVQ2cHdxUkhYQ19oNE11eGRKaGFVcVpNSnJreC1vZ01FOGJVQnRBVUszME5hdDgyenpxUHF0UDh2eTZWSXo0VEI3YktxaGoxQ3AwT2ppZ01hOVBhV1ZLYnpPc2xacVowRzJqRndfMkU?oc=5",
+        "date": "08/18 23:53"
       }
     ],
     "GOOGL": [
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
-        "date": "08/23 23:03"
-      },
       {
         "type": "neutral",
         "title": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHVWY2pzczl4OXJTZUlFZEo3eXptLXZpVUZYSDk3ZnZ5TlE4b0hTNXZhUDF2elZoN1ZIaUgxWFVhTm5pdXZfSWpoWWp4Mkdpazl2OWZYeFo2OFpMeC1CMXBIc3poblM5NEM3T2MtUW9YTnZWS1VHZndHeHcyWEtSMnlOc3hxbEdHcmdFYjBhN0Z0eE9JRzVqSHVDaE9YRU1kQ3QzQ28zQzk0dw?oc=5",
         "date": "08/24 00:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
       },
       {
         "type": "neutral",
@@ -973,19 +973,19 @@
       },
       {
         "type": "neutral",
-        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
-        "date": "08/21 02:47"
+        "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
+        "date": "08/21 01:18"
       }
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
+        "type": "positive",
+        "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
-        "date": "08/21 12:17"
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
+        "date": "08/23 14:38"
       },
       {
         "type": "positive",
