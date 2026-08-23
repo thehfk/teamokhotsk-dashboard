@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:42:17.814374+00:00",
+  "updatedAt": "2026-08-23T20:11:18.169621+00:00",
   "market": {
     "cards": [
       {
@@ -898,6 +898,13 @@
         "date": "08/23 04:30"
       },
       {
+        "type": "neutral",
+        "title": "The Line In The Sand For AVGO Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
+        "date": "08/21 04:56"
+      },
+      {
         "type": "positive",
         "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
         "publisher": "TheStreet Pro",
@@ -910,13 +917,6 @@
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkJ0VHhrNDk4TzFSNUFpaHd4a0dXaHBTTWQ0M2kwQUFLVk5wcGZ5TWVFdG1jeUlUaVRjeERLek11ZDdDVEpyeGg2ZXZoWW1ybnN5ZlNSdW5fQ1BtZXdfay1RZXZsdk9qODNfM2pSR3o4YlpRdkNKUExKU29RTTY1NlkyWmJ5RWdORXJ1dm1uMWhlLWpvZVJrQ1pMWDljbFZERHNXcQ?oc=5",
         "date": "08/22 03:50"
-      },
-      {
-        "type": "positive",
-        "title": "AVGO Stock Inches Higher — Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzRqX2luMmlqdjFUMUo4OFRrYVdwU0NpcmlWaVpkMFJlV1U0eUN2UEpReHNPTmwtV2U4LTNpQ0UxS3Y4SFJHR3h5bTlmVkx3a2FoRGVVemFWZzg4NlRZQWZZUklJd0pNTWs3ZDJSV3ZsN1FLVlNzZFBpeDE2cEtoN2lpZ2hXWHRKckN6emVBcXpSWGRiRzZWaFp2eEppUQ?oc=5",
-        "date": "08/21 07:25"
       }
     ],
     "BE": [
