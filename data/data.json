@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T11:31:38.958833+00:00",
+  "updatedAt": "2026-08-24T12:26:45.842295+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 16.0,
-        "change": 5.75
+        "value": 15.92,
+        "change": 5.22
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1384.64,
-        "change": -0.44
+        "value": 1382.19,
+        "change": -0.62
       },
       {
         "name": "KOSPI",
@@ -453,7 +453,7 @@
               14.89,
               16.01,
               15.13,
-              16.0
+              15.92
             ]
           }
         ]
@@ -461,8 +461,6 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "05/21",
-          "05/22",
           "05/26",
           "05/27",
           "05/28",
@@ -530,8 +528,6 @@
           {
             "name": "미국10년금리",
             "data": [
-              4.59,
-              4.56,
               4.49,
               4.48,
               4.45,
@@ -664,7 +660,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1384.64
+              1382.19
             ]
           }
         ]
@@ -915,10 +911,10 @@
     "BE": [
       {
         "type": "neutral",
-        "title": "Why Is BE Stock Rebounding After Last Week’s Selloff?",
+        "title": "Has BE Stock Peaked Yet? Here’s What Wall Street And Retail Think",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME5vZVVzS3Y0elJBQlktUUZuc0llRWw2SXJoNGlsSkZkc1B5Rmltdno4dTJaR0d1Q0pnSWRWcV9IOEpuNTQ1UndHb04wSGhaQ3ZNM1dsT2tSSUFjR2drOGZNSi1iV0VfVWhyYjRlS1JBd1AwRk9mcExfZlNwbUVMajdDdTB4ZUxvYVMwRTNDcVR3emFkSmx3RWtHN3l5NDlINEc5am15eEtpV0h4UjBWcjFwaVI?oc=5",
-        "date": "08/24 01:10"
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDNMYXh1amxxOWlMOVJVbnk3alZyR05oc2JTY1FxemJJZkdfR0o5UE5oRGNCSGlXejNFcy1leTI5N2RvVGxRQThFUmRYaS11Qm1KaDdUMXB2YWk1NEpJVGRHZjlqTkRzRFNlREZpems5MGpOY1c2NnBKbjRmSTlDSVNIdnZab1o3RGJjVWw3MWo?oc=5",
+        "date": "08/21 22:52"
       },
       {
         "type": "neutral",
@@ -944,6 +940,13 @@
     ],
     "GOOGL": [
       {
+        "type": "neutral",
+        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+        "date": "08/24 07:38"
+      },
+      {
         "type": "positive",
         "title": "GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech",
         "publisher": "Stocktwits",
@@ -959,17 +962,10 @@
       },
       {
         "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "08/23 12:18"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/11 16:00"
+        "title": "Marvell Earnings Are Coming. Google Agreement Likely to Be Biggest Talking Point.",
+        "publisher": "Barron's",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkpyUWVHSDdidTRVYXJvZjVnRXRlNkVDdFR6bWE5b2JPT1ZIUlJxTDlNQXFmQU9OUmU3ZEo1NDh4YXA2bGxwa2ZyUWdjQ21IQnJWZ2dhQlZxVVRGdm8yUkVaaHJBRTRRdE5ia2l0RE0xRWtHLTBTTnl1aXhYN1c4SDNHNA?oc=5",
+        "date": "08/24 20:43"
       }
     ],
     "QCOM": [
