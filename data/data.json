@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:20:21.235089+00:00",
+  "updatedAt": "2026-08-24T21:51:21.425347+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1381.69,
-        "change": -0.24
+        "value": 1381.78,
+        "change": -0.23
       },
       {
         "name": "KOSPI",
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1381.69
+              1381.78
             ]
           }
         ]
@@ -902,10 +902,10 @@
       },
       {
         "type": "positive",
-        "title": "Stock Market Today: Dow Jumps 875 Points, Broadcom Plunges; Ciena Slammed Yet Holds Its 50-Day",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVR4OEIzekJWLXE1b1E4ZkxiRVpveXN2TjJTR0RJNXR0ZWU5eWZhLVM2ZElzQ1dfZHl0RmEwZUdTaDNYTGVaSXhyR1BpallrQWdZMXcyZWRwZjBvLUJjR2dnc3lka3RkcUJTN2t3Tl96YmxkVEFDRENXazEwN3RzVkh6UlFDZEV1eWhtODhKd2U4VGFlRkdCZl9ENXRQcWdVTUdCaWIxVUNJVXQ4cTBGWnd3?oc=5",
-        "date": "06/04 16:00"
+        "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
+        "publisher": "TheStreet Pro",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLS1iR0dRWktTeGdrQTF5WkNSNnNFQ3dOQVJDRnBqTFItVmZvRGtPZF9PcTkybWxNS1RoRG9hRmsyYmN2R2dNLWhYeDVpOGF0ZGxwc2lPandkUEFZN0c5X3BqbHJhNEcwaF9QcXdFZFNWd3FnQjY4VUdMLU8ySE5Ra0RmN1drSmZNYlFDOUttWFl1Wkx1dTRUYTlYS241dXQ0Y3pZcGFmTFN4NGNo?oc=5",
+        "date": "08/21 21:28"
       }
     ],
     "BE": [
@@ -1008,10 +1008,10 @@
       },
       {
         "type": "neutral",
-        "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
+        "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
-        "date": "08/05 16:00"
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
+        "date": "08/17 21:09"
       },
       {
         "type": "neutral",
