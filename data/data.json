@@ -1,7 +1,12 @@
 {
-  "updatedAt": "2026-08-24T00:40:45.236598+00:00",
+  "updatedAt": "2026-08-24T02:17:09.961314+00:00",
   "market": {
     "cards": [
+      {
+        "name": "S&P500",
+        "value": 7674.37,
+        "change": 0.43
+      },
       {
         "name": "NASDAQ",
         "value": 26180.46,
@@ -24,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1382.63,
-        "change": -0.59
+        "value": 1377.03,
+        "change": -0.99
       },
       {
         "name": "KOSPI",
-        "value": 6814.71,
-        "change": -1.42
+        "value": 6767.63,
+        "change": -2.1
       },
       {
         "name": "KOSDAQ",
-        "value": 812.75,
-        "change": 1.35
+        "value": 813.14,
+        "change": 1.4
       }
     ],
     "groups": [
@@ -107,6 +112,74 @@
           "08/21"
         ],
         "series": [
+          {
+            "name": "S&P500",
+            "data": [
+              7473.47,
+              7519.12,
+              7520.36,
+              7563.63,
+              7580.06,
+              7599.96,
+              7609.78,
+              7553.68,
+              7584.31,
+              7383.74,
+              7405.73,
+              7386.65,
+              7266.99,
+              7394.3,
+              7431.46,
+              7554.29,
+              7511.35,
+              7420.1,
+              7500.58,
+              7472.79,
+              7365.46,
+              7358.22,
+              7357.49,
+              7354.02,
+              7440.43,
+              7499.36,
+              7483.23,
+              7483.24,
+              7537.43,
+              7503.85,
+              7482.71,
+              7543.64,
+              7575.39,
+              7515.34,
+              7543.59,
+              7572.4,
+              7533.77,
+              7457.69,
+              7443.28,
+              7509.2,
+              7498.96,
+              7408.3,
+              7411.98,
+              7413.18,
+              7428.78,
+              7316.15,
+              7437.63,
+              7489.72,
+              7600.5,
+              7736.52,
+              7723.55,
+              7709.96,
+              7757.64,
+              7753.11,
+              7728.2,
+              7748.5,
+              7798.99,
+              7785.76,
+              7745.06,
+              7691.76,
+              7707.98,
+              7641.16,
+              7674.37
+            ]
+          },
           {
             "name": "NASDAQ",
             "data": [
@@ -593,7 +666,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1382.63
+              1377.03
             ]
           }
         ]
@@ -729,7 +802,7 @@
               6471.17,
               6852.58,
               6912.95,
-              6814.71
+              6767.63
             ]
           },
           {
@@ -796,7 +869,7 @@
               824.46,
               840.89,
               801.94,
-              812.75
+              813.14
             ]
           }
         ]
@@ -823,7 +896,7 @@
         "type": "neutral",
         "title": "The Line In The Sand For AVGO Stock",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLVEwZ3JoNEVTZl84T0NqcmJzS1N5YzFKcm5NNmNkc2RDbTJxWF81b1RhRnNsdnZ4eG5YRVFSaW0yY2VIdmd0UUgyUGViYlJmSTBXdEN2bnk0M2RPQ0Z5dlA3QjlzWEduLUhHbGJZeVJyVjNNT2dQLUpfM1JoSzlxRmlZOHJuNkY3SVpvMDhSNU4?oc=5",
         "date": "08/21 04:56"
       },
       {
@@ -874,40 +947,40 @@
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHVWY2pzczl4OXJTZUlFZEo3eXptLXZpVUZYSDk3ZnZ5TlE4b0hTNXZhUDF2elZoN1ZIaUgxWFVhTm5pdXZfSWpoWWp4Mkdpazl2OWZYeFo2OFpMeC1CMXBIc3poblM5NEM3T2MtUW9YTnZWS1VHZndHeHcyWEtSMnlOc3hxbEdHcmdFYjBhN0Z0eE9JRzVqSHVDaE9YRU1kQ3QzQ28zQzk0dw?oc=5",
-        "date": "08/24 00:00"
+        "title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
+        "date": "08/23 23:03"
       },
       {
         "type": "neutral",
-        "title": "Cathie Wood and Stanley Druckenmiller Agree On Amazon (AMZN) and Alphabet (GOOGL)",
+        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+        "date": "08/23 12:18"
+      },
+      {
+        "type": "neutral",
+        "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
+        "date": "08/23 11:58"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW5OMmIwWUg3ZDdTalVJTWtXZjFDeUpvbEJUUUtQdjlXQzFMeHpjZ1ZxU2F3WG5zeFktdnpCTC1NVlcxc3lzeVV5MkRxR1NZM3dWWGNOeGZrQm16UlR2MS1FME1nTWo3ZkZ5NW9qNk50Y0xHNTc1NlBiOVBIRS1DMnhUUVJjMWxNTWJ2cGFpMXhrdDhBQ2NmT0p2QzJReWN5M3VGYXhicw?oc=5",
-        "date": "08/21 03:55"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
-        "date": "08/21 02:47"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
-        "date": "08/21 01:18"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/11 16:00"
       }
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
+        "type": "positive",
+        "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
-        "date": "08/21 12:17"
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
+        "date": "08/23 14:38"
       },
       {
         "type": "positive",
@@ -924,11 +997,11 @@
         "date": "08/20 18:08"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm: The Buy On Meltdown Moment Is Finally Here (Rating Upgrade) (NASDAQ:QCOM)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM05aMnh5VzdmeXZKcHFsTnZ0V2FaN1E0VG92SG1mbjBLaHhCN244bHNRWEZWdUh1bkxDX2ZpcmlTVzVVZVViUVFsV1loWVZsQkdUbllua2ZEQmFqQkdpRThyVXVsUFFEeHFWLTdDa3pBZzRVR2RUWkhqeHlVY1VyNk0wVHluRG4xRUxtcXRDeFVRNW1NbnljWVllamNCeFdnWHc0MVFtWjdEX2c?oc=5",
-        "date": "08/23 22:50"
+        "type": "neutral",
+        "title": "Where Will Qualcomm Stock Be in 5 Years?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
+        "date": "08/19 01:00"
       }
     ],
     "VRT": [
