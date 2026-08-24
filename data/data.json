@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T06:00:09.385583+00:00",
+  "updatedAt": "2026-08-24T07:04:20.756892+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1379.38,
-        "change": -0.82
+        "value": 1382.38,
+        "change": -0.6
       },
       {
         "name": "KOSPI",
-        "value": 6688.18,
-        "change": -3.25
+        "value": 6696.96,
+        "change": -3.12
       },
       {
         "name": "KOSDAQ",
-        "value": 812.02,
-        "change": 1.26
+        "value": 813.33,
+        "change": 1.42
       }
     ],
     "groups": [
@@ -321,8 +321,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "05/21",
-          "05/22",
           "05/25",
           "05/26",
           "05/27",
@@ -391,8 +389,6 @@
           {
             "name": "공포지수 VIX",
             "data": [
-              16.76,
-              16.7,
               16.59,
               17.01,
               16.29,
@@ -666,7 +662,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1379.38
+              1382.38
             ]
           }
         ]
@@ -802,7 +798,7 @@
               6471.17,
               6852.58,
               6912.95,
-              6688.18
+              6696.96
             ]
           },
           {
@@ -869,7 +865,7 @@
               824.46,
               840.89,
               801.94,
-              812.02
+              813.33
             ]
           }
         ]
@@ -938,10 +934,10 @@
       },
       {
         "type": "neutral",
-        "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
-        "date": "08/20 04:36"
+        "title": "Bloom Energy Stock (BE) Opinions on Short Seller Report and Lawsuit",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkVJSVZCM0k1OFRPdzV1SnFSbkc1c1hPYjNpTTg3MnpnV3R5TmVObFdmLVFqY25CUGMxRlFTOHN6Qm1KWW5CZTU2cnlMdmo3ZF9NOVl5eGdpX2MwMHZxbjFwTWVlbzJIQ1ZZbnBfclhqT1hqVDJnM0RGelFLSDBNSEd1TXhGWXZMLUVtMWpZeFZEYWlKcVFvN1lPazJRMmVSc2ZESmtBRQ?oc=5",
+        "date": "08/22 23:03"
       }
     ],
     "GOOGL": [
@@ -984,10 +980,10 @@
       },
       {
         "type": "positive",
-        "title": "MRVL Stock Jumps Overnight: MU, QCOM Boost Outweigh CFO’s Share Sale",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHcxOGxLUW9ISnBmUGJKQ212TXYwamxvbElFYXNGbTlRZEltRXB4SzNxNWVrUE42T2hFQmxJckNSSUtKMF80OU5BRzV1Nnc2Ymp5UlhCOEZZYkxLcGMtdndyRXRvSGtMR3NXdFIwVzlRdFg3bGNjd25lTmMwc2dMeUhjczBNRzQtU2ZIcy1oXzRDSW04cER2eG9Kc2FnZkc1cTFBZzZzTjJ4bFVXdWlHaktJdm9nMDdBYjJ1czNlN1pHaWJ0anBKU3h3?oc=5",
-        "date": "08/24 02:17"
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/22 22:30"
       },
       {
         "type": "neutral",
@@ -1014,6 +1010,13 @@
       },
       {
         "type": "neutral",
+        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
+        "date": "08/22 12:16"
+      },
+      {
+        "type": "neutral",
         "title": "Vertiv (VRT) Stock Looks Fairly Priced Despite Fraud Investigation News",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXMwdXNvWGNwWkRtSzJyM3FuSDY3NUZTWmNiSWdudi1KLXlZT2QyZmVKRnB6UlJkVE5qY1ZQbXh0bGJEU1k2WVlUUlFOR0tDSjU3X2hjcUNpbHB3LTRncmVCZDlaUnRDbDlubTkzYnJYWG03SkU2SHN2LW8ydm92OTduOG50bHRqUmFoUUUxei1MeVlzVFY5ZzhqTzdyVUgxMmNNRDU1TktXaURXS0J1SENJWWdodkF3SWtyYVExTVVyY3pjdG40bWdCWW9DeGpuZXV0bGV30gHbAUFVX3lxTE5fNEVxUVg2eGxOTEY4eEJWRnRSVXVsdnB6V0hKeUxZSzhROG9FV202MVdoM1dHeThwZU1nYUxkeGU1VE9IWXp3VExFbVpuWGNYM2Jsd3R1RDFsNnVVTFZnMERDUGZSRktLUGJhMURGQ21rZUNxSWZaSjlFdlZfaFJSVy10UHg4cURMT2p3NUxnNGREeUVNclk3SGdmZDdHN2N3VjBUV0ttOHViT0hyM0pJWDNqQkR4c0I5cGF1NzZPVEd6NjJzLTQ3eWdZS21VQnIxbTdKWUNFYTFHdw?oc=5",
@@ -1025,13 +1028,6 @@
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
         "date": "08/19 00:36"
-      },
-      {
-        "type": "neutral",
-        "title": "Financial expert's stock pick of the day: Vertiv Holdings (VRT)",
-        "publisher": "Fox Business",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYy1qMEhzY1cwTDFSMzh6ZkNiOVZQX094NGUzbmlTLXJXTWFWR3dmYlQ3Xy1nY21YOC1JOWUydWlKYkQ5QWJuSkl5Tm51TDlVMkpKaHlwTkVWSnc?oc=5",
-        "date": "07/31 16:00"
       }
     ]
   }
