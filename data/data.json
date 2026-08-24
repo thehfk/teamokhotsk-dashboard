@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:51:21.425347+00:00",
+  "updatedAt": "2026-08-24T22:15:42.043591+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1381.78,
-        "change": -0.23
+        "value": 1382.01,
+        "change": -0.21
       },
       {
         "name": "KOSPI",
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1381.78
+              1382.01
             ]
           }
         ]
@@ -880,13 +880,6 @@
   "news": {
     "AVGO": [
       {
-        "type": "positive",
-        "title": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlo3ZE16a0hGZXc2YWtvRW1vWDE0R0JOeGs2VjBieDBWc0JIU1k4eFpoRmF4LWJxNGNsNWdoSjVEdmMxUHpvQzJ4cnpnOWo1Qi04d09ZOGw5N3JLcGJTa1NTbDRKZ2ZyZnNyZmsxMTVPT1o3T1RHZXo0MFlKQm1CeTl6Y1BFdnNXckx4dkVpVmtydTg?oc=5",
-        "date": "08/25 05:42"
-      },
-      {
         "type": "neutral",
         "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
         "publisher": "Barchart.com",
@@ -906,6 +899,13 @@
         "publisher": "TheStreet Pro",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLS1iR0dRWktTeGdrQTF5WkNSNnNFQ3dOQVJDRnBqTFItVmZvRGtPZF9PcTkybWxNS1RoRG9hRmsyYmN2R2dNLWhYeDVpOGF0ZGxwc2lPandkUEFZN0c5X3BqbHJhNEcwaF9QcXdFZFNWd3FnQjY4VUdMLU8ySE5Ra0RmN1drSmZNYlFDOUttWFl1Wkx1dTRUYTlYS241dXQ0Y3pZcGFmTFN4NGNo?oc=5",
         "date": "08/21 21:28"
+      },
+      {
+        "type": "positive",
+        "title": "Stock Market Today: Dow Jumps 875 Points, Broadcom Plunges; Ciena Slammed Yet Holds Its 50-Day",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVR4OEIzekJWLXE1b1E4ZkxiRVpveXN2TjJTR0RJNXR0ZWU5eWZhLVM2ZElzQ1dfZHl0RmEwZUdTaDNYTGVaSXhyR1BpallrQWdZMXcyZWRwZjBvLUJjR2dnc3lka3RkcUJTN2t3Tl96YmxkVEFDRENXazEwN3RzVkh6UlFDZEV1eWhtODhKd2U4VGFlRkdCZl9ENXRQcWdVTUdCaWIxVUNJVXQ4cTBGWnd3?oc=5",
+        "date": "06/04 16:00"
       }
     ],
     "BE": [
@@ -931,11 +931,11 @@
         "date": "08/25 02:14"
       },
       {
-        "type": "neutral",
-        "title": "Nancy Pelosi Takes Long Positions In BE, INTC Stock",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLU1wQXJQaHkwRXBZSWg4dFFqNmhmUXBCd1pqdE92M2Z3OER4cEQzQ01DNk1YMjdMY0FZVW9fWEdYV002ZlI2dW93Q1FXNlZDSnRCbmd4MFgzLWE0RDBSYm9xdVEzRFFwTU0tOHp0dU1oWkZqWVd5SkhEUEZCM2c2Z0lJZlRZZ2NGY3lHb0JyNVRCVlhBMGkxN0VqZ00xeE9ZNE56QkdhRFp3bHVkODBNSw?oc=5",
-        "date": "08/25 03:29"
+        "type": "positive",
+        "title": "Bloom Energy Stock Moves Higher: What's Happening?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0dpYUY2QUFocG5BWVdJdFZBMzA3UjZlNm9teTMxM1hTbjJFQmxqUGFoTEpEeUdHMnJ6ZFpKVHY1VjdmbmdVX3BmQ0pkSlJDYVhlbFNZWGFnZFVUeEZTaTdUMjlMR3A4M1BBd3o0OGZyWHJ5M2duNXJfeGtqSUlSQjg3M2lzQXRsTFBIeVRXbmhFNUcydUU5ZTVsdkxiRjdnNVV0QThWY21KbEl6?oc=5",
+        "date": "08/25 02:46"
       }
     ],
     "GOOGL": [
