@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T12:26:45.842295+00:00",
+  "updatedAt": "2026-08-24T13:29:27.176467+00:00",
   "market": {
     "cards": [
       {
@@ -19,18 +19,18 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.92,
-        "change": 5.22
+        "value": 15.84,
+        "change": 4.69
       },
       {
         "name": "미국10년금리",
-        "value": 4.74,
-        "change": 0.85
+        "value": 4.72,
+        "change": -0.42
       },
       {
         "name": "원달러환율",
-        "value": 1382.19,
-        "change": -0.62
+        "value": 1382.78,
+        "change": -0.58
       },
       {
         "name": "KOSPI",
@@ -453,7 +453,7 @@
               14.89,
               16.01,
               15.13,
-              15.92
+              15.84
             ]
           }
         ]
@@ -522,7 +522,8 @@
           "08/18",
           "08/19",
           "08/20",
-          "08/21"
+          "08/21",
+          "08/24"
         ],
         "series": [
           {
@@ -589,7 +590,8 @@
               4.71,
               4.65,
               4.7,
-              4.74
+              4.74,
+              4.72
             ]
           },
           {
@@ -660,7 +662,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1382.19
+              1382.78
             ]
           }
         ]
@@ -914,7 +916,7 @@
         "title": "Has BE Stock Peaked Yet? Here’s What Wall Street And Retail Think",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDNMYXh1amxxOWlMOVJVbnk3alZyR05oc2JTY1FxemJJZkdfR0o5UE5oRGNCSGlXejNFcy1leTI5N2RvVGxRQThFUmRYaS11Qm1KaDdUMXB2YWk1NEpJVGRHZjlqTkRzRFNlREZpems5MGpOY1c2NnBKbjRmSTlDSVNIdnZab1o3RGJjVWw3MWo?oc=5",
-        "date": "08/21 22:52"
+        "date": "08/22 04:20"
       },
       {
         "type": "neutral",
@@ -961,27 +963,27 @@
         "date": "08/23 23:03"
       },
       {
-        "type": "neutral",
-        "title": "Marvell Earnings Are Coming. Google Agreement Likely to Be Biggest Talking Point.",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkpyUWVHSDdidTRVYXJvZjVnRXRlNkVDdFR6bWE5b2JPT1ZIUlJxTDlNQXFmQU9OUmU3ZEo1NDh4YXA2bGxwa2ZyUWdjQ21IQnJWZ2dhQlZxVVRGdm8yUkVaaHJBRTRRdE5ia2l0RE0xRWtHLTBTTnl1aXhYN1c4SDNHNA?oc=5",
-        "date": "08/24 20:43"
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/11 16:00"
       }
     ],
     "QCOM": [
-      {
-        "type": "positive",
-        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
-        "date": "08/24 07:33"
-      },
       {
         "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
         "date": "08/21 00:09"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/22 22:30"
       },
       {
         "type": "neutral",
