@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T02:17:09.961314+00:00",
+  "updatedAt": "2026-08-24T03:28:54.577348+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1377.03,
-        "change": -0.99
+        "value": 1379.88,
+        "change": -0.78
       },
       {
         "name": "KOSPI",
-        "value": 6767.63,
-        "change": -2.1
+        "value": 6723.48,
+        "change": -2.74
       },
       {
         "name": "KOSDAQ",
-        "value": 813.14,
-        "change": 1.4
+        "value": 814.8,
+        "change": 1.6
       }
     ],
     "groups": [
@@ -666,7 +666,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1377.03
+              1379.88
             ]
           }
         ]
@@ -802,7 +802,7 @@
               6471.17,
               6852.58,
               6912.95,
-              6767.63
+              6723.48
             ]
           },
           {
@@ -869,7 +869,7 @@
               824.46,
               840.89,
               801.94,
-              813.14
+              814.8
             ]
           }
         ]
@@ -896,7 +896,7 @@
         "type": "neutral",
         "title": "The Line In The Sand For AVGO Stock",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLVEwZ3JoNEVTZl84T0NqcmJzS1N5YzFKcm5NNmNkc2RDbTJxWF81b1RhRnNsdnZ4eG5YRVFSaW0yY2VIdmd0UUgyUGViYlJmSTBXdEN2bnk0M2RPQ0Z5dlA3QjlzWEduLUhHbGJZeVJyVjNNT2dQLUpfM1JoSzlxRmlZOHJuNkY3SVpvMDhSNU4?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
         "date": "08/21 04:56"
       },
       {
@@ -947,47 +947,47 @@
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
-        "date": "08/23 23:03"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "08/23 12:18"
-      },
-      {
-        "type": "neutral",
-        "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
-        "date": "08/23 11:58"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "title": "Cathie Wood and Stanley Druckenmiller Agree On Amazon (AMZN) and Alphabet (GOOGL)",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/11 16:00"
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW5OMmIwWUg3ZDdTalVJTWtXZjFDeUpvbEJUUUtQdjlXQzFMeHpjZ1ZxU2F3WG5zeFktdnpCTC1NVlcxc3lzeVV5MkRxR1NZM3dWWGNOeGZrQm16UlR2MS1FME1nTWo3ZkZ5NW9qNk50Y0xHNTc1NlBiOVBIRS1DMnhUUVJjMWxNTWJ2cGFpMXhrdDhBQ2NmT0p2QzJReWN5M3VGYXhicw?oc=5",
+        "date": "08/21 03:55"
+      },
+      {
+        "type": "neutral",
+        "title": "3 AI Stocks Built for the Next Decade",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSW1XZl9lS0pXX3VJVDFKTW1wdXFWVWQzUUZ4Q1B4NlR0NE5xY0hNWFhDOTd4cnpoTy04eTdLZmJTQVBEcXpwOFNKalBQRjlFYUh6Q25rRTNCNTdsUW1xRXBNZG85bnF6UGw4ZG9NQnRwbHRMNzZ2bVZacXFoQVZUb0w0dlBTVGlW?oc=5",
+        "date": "08/22 20:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Marvell Stock Thursday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG), Marvell T",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZPUnUyQktMNGVqeVpIMjBVaTljYmhDdG1HQmJEOEUxcTUtX2JKd2NmcENHT0hIYng3OHktTGlPYXJzUG54THVKeERWa2N0dzFMUkNGcF9UaGE2MDVNN21LRXF4aXV4d0VCNWlYMmxVbm9YLW42Z0hyQ2hqeFdsUFlucmJNb1NhZlEyU0NRWlBXendoT1dDbnJnOWJlQjJKemRSZ2dvWUEyaEhZdHp6eDFhTGc0c3o5ejBRRGw0WFA4NWp4SDdQVVJyMDJTWElYWjRyZWVPZVFNNFdQb0ZCV0c5OW5ob3dYa2c2aGQtRWZ5cGNT?oc=5",
+        "date": "08/21 01:18"
       }
     ],
     "QCOM": [
-      {
-        "type": "positive",
-        "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
-        "date": "08/23 14:38"
-      },
       {
         "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
         "date": "08/21 00:09"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/22 22:30"
       },
       {
         "type": "positive",
@@ -1027,11 +1027,11 @@
         "date": "08/19 00:36"
       },
       {
-        "type": "negative",
-        "title": "Vertiv Holdings Co (VRT) Stock Down 4.2% but Still Overvalued -- GF Score: 86/100",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzR0VE1CSHRCUGF0YzhjQURxZDdOdF9pWjFHSXo4YTZxdnltZUZOaGw4bWNCRWNvaS01b29tNmxsLW02Ujl0UjZpc1JDbzNuT3YyeUZENzB1UVJmM2taR25MMkoxYU8tT2JmMl9Eak1JdUdpZnFPTGNiWGVvT3NjX1R5akU4ZUNvWGtsZk4tVnJBQm5qZllnYmVHbmNXN1BZUlZZQWU0Z052WG1DLWJQbA?oc=5",
-        "date": "08/20 07:01"
+        "type": "neutral",
+        "title": "Financial expert's stock pick of the day: Vertiv Holdings (VRT)",
+        "publisher": "Fox Business",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYy1qMEhzY1cwTDFSMzh6ZkNiOVZQX094NGUzbmlTLXJXTWFWR3dmYlQ3Xy1nY21YOC1JOWUydWlKYkQ5QWJuSkl5Tm51TDlVMkpKaHlwTkVWSnc?oc=5",
+        "date": "07/31 16:00"
       }
     ]
   }
