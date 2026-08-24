@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T08:09:53.202145+00:00",
+  "updatedAt": "2026-08-24T09:11:04.070381+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.95,
-        "change": 5.42
+        "value": 15.87,
+        "change": 4.89
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1384.15,
-        "change": -0.48
+        "value": 1383.35,
+        "change": -0.53
       },
       {
         "name": "KOSPI",
@@ -453,7 +453,7 @@
               14.89,
               16.01,
               15.13,
-              15.95
+              15.87
             ]
           }
         ]
@@ -664,7 +664,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1384.15
+              1383.35
             ]
           }
         ]
@@ -884,32 +884,32 @@
   "news": {
     "AVGO": [
       {
-        "type": "neutral",
-        "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTklyUWUySi1lNlFtejVoVng3Qk9MTDNmUFMxdnpTczlOLWc3bTM4aXRLSE9LTTZWTTJkWTlpN3ZlQmV1SXF0dThWb1RQY1dFZVk1anFFOVZzb0w1TTRxY1Q0Nnc0U2ZrdWRZaDZHYVVXZ210c1IzRldPSUJqVUtKM09WcjVYMzBJZmVrSERtaUt2akRiRmlwRDNkcw?oc=5",
-        "date": "08/23 04:30"
+        "type": "negative",
+        "title": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcnZhNGxyWFA4THJPbWpJTW1hUkp5UzRsSWRfemJnRUFybjhkbVM4T0xjVEVfa2lNVWVhWkhHLWZubFdRM0tMRjJaa01uQXZHRlp0LU9ycTd4WEROQjZTQ3NRVEFtSWhiNnFvLUh2bGctS1dBbUczNGpDSDNCb3ltdEJ4dWhPNGh0emE3eklSSHRZaXliVmw2cEFRR3NyMEp6ZVJpZUJkWFVCSF9GUDZKQVFlWFkwRVRNcHhCeHJEeUhwVXo5bnZKWFU4aGU3eFlQSDBLVUNVeVM?oc=5",
+        "date": "08/24 12:26"
       },
       {
         "type": "neutral",
-        "title": "The Line In The Sand For AVGO Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
-        "date": "08/21 04:56"
+        "title": "Broadcom: The Market Has This One Wrong",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM29SeVh0NUJXUWVmNThSYV9QeWFTb21BNVBObjNNUUYteFYtN2hZUHg2Qk9MYnZIYndfVkJoS2NPQU82Y3N4TG4zV2V6NnRNVmtaV3k5VUVISVh5SkZkY05aY1ItN3R4ZURXOWNIbDF2NVNfZ0hOSVRZcnZfQ0c2dUJPY1MwQQ?oc=5",
+        "date": "08/22 17:01"
       },
       {
         "type": "positive",
-        "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
-        "publisher": "TheStreet Pro",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLS1iR0dRWktTeGdrQTF5WkNSNnNFQ3dOQVJDRnBqTFItVmZvRGtPZF9PcTkybWxNS1RoRG9hRmsyYmN2R2dNLWhYeDVpOGF0ZGxwc2lPandkUEFZN0c5X3BqbHJhNEcwaF9QcXdFZFNWd3FnQjY4VUdMLU8ySE5Ra0RmN1drSmZNYlFDOUttWFl1Wkx1dTRUYTlYS241dXQ0Y3pZcGFmTFN4NGNo?oc=5",
-        "date": "08/21 21:28"
+        "title": "Broadcom’s AI Boom: Is a 2x Stock Gain Still Within Reach?",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXF4eWdXSkF3VnQ2ekhwR19KVnJnNEtVLVBBbHlEQWQydHFBQ1VEdjhUVm5mZ19BaXJtV1RwTGdybFNDZUFIWno2UE94SlZWc09HSVJCS2U5dFFaYVBBaEVNVkFvbF85T1U4Ulp4R2R5RzZMcW9OT01OTGFydkR3aFZqSlBEOXpnY09oQmRJM011clZMZktnQ1dUVjN2RHc0?oc=5",
+        "date": "08/22 02:00"
       },
       {
         "type": "positive",
-        "title": "Broadcom Stock (AVGO) Gains on Reported $100 Billion AI Financing Deal",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUt4SzBHYnQ4UWZHem5kc0ZYLVJSQ2NtOC1XeGphT0wwV1dvNkRWTE1vWVZJT0s5Sko3ZDgzMTFDa1laeFhqdWRtR0hvaVVGNG0zNUV6RzV0d1NkNFFIRWhtamZyS3ZuQklEZVZmUjVUY1UtMkJBaWV1WU5SVmlJRXVnaThPRzBhNlVTbjVQay1IeWtnaEV6YkxYWEtLdw?oc=5",
-        "date": "08/21 06:40"
+        "title": "Broadcom Stock Just Scored a New Bullish Rating. Here's Why.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3VXdTZDd1JBVGlVdEwtc19lZnk5OC01alk2Nnc3ZHozaFJvODc1YkRNWU5zdHNmOVo1OXJoa3RXOGpFTWwwcXZ4bkd0ZlVTbDFkVXR2ZkFDQklhd1o2R0RSaXRQM1hhTWN5TE5hVXdKdnNvcGFxYVFodjJEV0RsN3A2T05kaXJLVEpvd3VSY3BjRWRSV185cXdZUzRSNWdDaWRSXw?oc=5",
+        "date": "08/22 04:02"
       }
     ],
     "BE": [
@@ -951,18 +951,18 @@
         "date": "08/23 23:03"
       },
       {
+        "type": "positive",
+        "title": "GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDlyaGhHM3ZsRWFsaEJZU0VjY0xJOGg3bjJfUnhneTRWdV9JVmpqaXNQVlpoWldZeDl4TUNfdUhCU1hlRmJraWNEXzhFc19HZHJKVnBVOEU5SXlvR2lUcGNpTkxRRmMzRDJPMXRMbWxiTzhiUlJ1dGlTM0NMdWZEQUNVcloyakJlTDlDdlJCSHhtQnZuN1lWNVJjQ0xDRVM1VERSbnlZLVNUTnd1cEZTVXltSHZyMjQ1djdTVUdoRkUybjNOOXpJelloVnJwYzZDRWZrOGtmd0lHWmpFdmc?oc=5",
+        "date": "08/24 01:26"
+      },
+      {
         "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
         "date": "08/23 12:18"
-      },
-      {
-        "type": "neutral",
-        "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
-        "date": "08/23 11:58"
       },
       {
         "type": "negative",
