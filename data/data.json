@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-24T19:08:29.478661+00:00",
+  "updatedAt": "2026-08-24T19:51:48.322859+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7657.48,
-        "change": -0.22
+        "value": 7653.95,
+        "change": -0.27
       },
       {
         "name": "NASDAQ",
-        "value": 26025.03,
-        "change": -0.59
+        "value": 25996.49,
+        "change": -0.7
       },
       {
         "name": "다우존스",
-        "value": 53437.08,
-        "change": 0.3
+        "value": 53443.83,
+        "change": 0.31
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.76,
-        "change": 4.16
+        "value": 15.82,
+        "change": 4.56
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1382.49,
-        "change": -0.6
+        "value": 1382.64,
+        "change": -0.17
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7707.98,
               7641.16,
               7674.37,
-              7657.48
+              7653.95
             ]
           },
           {
@@ -245,7 +245,7 @@
               26331.09,
               26067.17,
               26180.46,
-              26025.03
+              25996.49
             ]
           },
           {
@@ -313,7 +313,7 @@
               53463.05,
               52759.21,
               53277.01,
-              53437.08
+              53443.83
             ]
           }
         ]
@@ -453,7 +453,7 @@
               14.89,
               16.01,
               15.13,
-              15.76
+              15.82
             ]
           }
         ]
@@ -662,7 +662,8 @@
               1413.58,
               1389.4,
               1390.79,
-              1382.49
+              1384.98,
+              1382.64
             ]
           }
         ]
@@ -870,11 +871,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 18.9,
-    "BE": 39.2,
-    "GOOGL": 25.4,
-    "QCOM": 44.5,
-    "VRT": 41.2
+    "AVGO": 18.6,
+    "BE": 37.4,
+    "GOOGL": 25.2,
+    "QCOM": 44.2,
+    "VRT": 41.3
   },
   "news": {
     "AVGO": [
@@ -894,17 +895,17 @@
       },
       {
         "type": "positive",
-        "title": "We’re Scooping Up Shares of a Chip Company and a Well Positioned Retailer",
-        "publisher": "TheStreet Pro",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLS1iR0dRWktTeGdrQTF5WkNSNnNFQ3dOQVJDRnBqTFItVmZvRGtPZF9PcTkybWxNS1RoRG9hRmsyYmN2R2dNLWhYeDVpOGF0ZGxwc2lPandkUEFZN0c5X3BqbHJhNEcwaF9QcXdFZFNWd3FnQjY4VUdMLU8ySE5Ra0RmN1drSmZNYlFDOUttWFl1Wkx1dTRUYTlYS241dXQ0Y3pZcGFmTFN4NGNo?oc=5",
-        "date": "08/21 21:28"
-      },
-      {
-        "type": "positive",
         "title": "Stock Market Today: Dow Jumps 875 Points, Broadcom Plunges; Ciena Slammed Yet Holds Its 50-Day",
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVR4OEIzekJWLXE1b1E4ZkxiRVpveXN2TjJTR0RJNXR0ZWU5eWZhLVM2ZElzQ1dfZHl0RmEwZUdTaDNYTGVaSXhyR1BpallrQWdZMXcyZWRwZjBvLUJjR2dnc3lka3RkcUJTN2t3Tl96YmxkVEFDRENXazEwN3RzVkh6UlFDZEV1eWhtODhKd2U4VGFlRkdCZl9ENXRQcWdVTUdCaWIxVUNJVXQ4cTBGWnd3?oc=5",
         "date": "06/04 16:00"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Broadcom Stock Monday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDh6TUZ1bXJvOElrcUh1Q1ZxTm9wWHRzWWY2bjdHY05OeUJTaFIzNHZNTWRlaDlEWEM2NmZSZzdnckFOQ3lrZGVRSlNQc3hwR3RFOWE0bTljLWRJaTlsM0ZQQUt2NjVDc21vajl3ZUV3YU8xdlRnZ1RvdUhhRDl4amxzYVU3aDZSYXBrQ1FzcnhBZkdZOWIzM3lzejQ?oc=5",
+        "date": "08/24 19:20"
       }
     ],
     "BE": [
@@ -930,21 +931,14 @@
         "date": "08/22 04:20"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy Stock Moves Higher: What's Happening?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0dpYUY2QUFocG5BWVdJdFZBMzA3UjZlNm9teTMxM1hTbjJFQmxqUGFoTEpEeUdHMnJ6ZFpKVHY1VjdmbmdVX3BmQ0pkSlJDYVhlbFNZWGFnZFVUeEZTaTdUMjlMR3A4M1BBd3o0OGZyWHJ5M2duNXJfeGtqSUlSQjg3M2lzQXRsTFBIeVRXbmhFNUcydUU5ZTVsdkxiRjdnNVV0QThWY21KbEl6?oc=5",
-        "date": "08/25 02:46"
+        "type": "neutral",
+        "title": "Nancy Pelosi Takes Long Positions In BE, INTC Stock",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLU1wQXJQaHkwRXBZSWg4dFFqNmhmUXBCd1pqdE92M2Z3OER4cEQzQ01DNk1YMjdMY0FZVW9fWEdYV002ZlI2dW93Q1FXNlZDSnRCbmd4MFgzLWE0RDBSYm9xdVEzRFFwTU0tOHp0dU1oWkZqWVd5SkhEUEZCM2c2Z0lJZlRZZ2NGY3lHb0JyNVRCVlhBMGkxN0VqZ00xeE9ZNE56QkdhRFp3bHVkODBNSw?oc=5",
+        "date": "08/25 03:29"
       }
     ],
     "GOOGL": [
-      {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "08/24 07:38"
-      },
       {
         "type": "neutral",
         "title": "Here’s How Much You Would Have Made Owning Alphabet Stock In The Last 15 Years",
@@ -954,17 +948,24 @@
       },
       {
         "type": "neutral",
+        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+        "date": "08/24 07:38"
+      },
+      {
+        "type": "neutral",
+        "title": "Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings",
+        "publisher": "Barron's",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0ozaWt2YmlTWEhPRUZpT0xza3QtVGhRaFEyb1RKVUlNM2lrWGVmQnc3eVpDYnBfeTBPclp6VGpMNFhuZDNTSFVPa3V4NjhVQURfM0gwdXM3N2NhNFpjY0hrZ1RLRlRjMG9oMXczdzNuU2Q3V3BLaHV0NU9HSFRQRDdlZ0lqcGYzaVE?oc=5",
+        "date": "08/25 03:29"
+      },
+      {
+        "type": "neutral",
         "title": "Consumer Internet Q2 Earnings: Alphabet (NASDAQ:GOOGL) Simply the Best",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXg1U0Qyc2wwMnFJRklnTS1OMU9xMTRCMkdlRFdkektzdzVvaFBTU3VaZmo5YlNHMlNWRWFPdDUtXzRyYWtKY3ozYnlLa3Z0MW5mdzItUGFLUWdTaWlWQkQxRUM3bjVqZUZCMmtWN1pPNlJNWVYyNFEydTExdU5lMXpXOEZVSkNZT1pzN09HLXpSRFhuOVFRUHZib0tuQVZScVo2NTdn?oc=5",
         "date": "08/25 02:53"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
-        "date": "08/23 23:03"
       }
     ],
     "QCOM": [
@@ -1007,10 +1008,10 @@
       },
       {
         "type": "neutral",
-        "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
+        "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
-        "date": "08/17 21:09"
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
+        "date": "08/05 16:00"
       },
       {
         "type": "neutral",
