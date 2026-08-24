@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T23:13:57.536968+00:00",
+  "updatedAt": "2026-08-24T23:43:01.695181+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1382.13,
-        "change": -0.21
+        "value": 1382.15,
+        "change": -0.2
       },
       {
         "name": "KOSPI",
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1382.13
+              1382.15
             ]
           }
         ]
@@ -970,6 +970,13 @@
     ],
     "QCOM": [
       {
+        "type": "neutral",
+        "title": "QCOM Stock Slides Premarket: Qualcomm's Dragonfly AI Push Gets Overshadowed By Nvidia's Computex Blitz",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXBSY0pCWWhxb2ZrZXpVMWFqOGFJcm5jZnE4dEJwa0wwSkUyNTNqTHpzSVBsYkd3cXBZTmZnRUFpUHRUM1B1SmhBdHBqd3UtalBaVG1zTTRnZ1U2ang4NWk3eTQ5TkpuWUdlZHhTcWE2RmxIdmJ5Zl8yMWliY2NUR0hWY0d6ZDg4RC1zZEFyOUlfc1pvOWlOWTVZaHJHT2JiM1M2b1hPRWExbnpnbU9QUE1DU0RmYU9OQlpQYjZnNGE?oc=5",
+        "date": "08/24 14:11"
+      },
+      {
         "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
         "publisher": "Yahoo Finance",
@@ -989,13 +996,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
         "date": "08/06 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Where Will Qualcomm Stock Be in 5 Years?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzZXWE54akVBWTh1S1hsRHh6TXZQYUl2OWVWNlRPOG5QcUJub3B0Qnl6X21scjJDcVZBdHNnLXF3Z2RwOFozWjJxUTBjdDdHVkJFQ0swSXpnV1IwU2tWUkV0QVdRSlNoZWxKWGREZEtkNGJwQVhTeTVldGtYZzFJMGRldTZTT3lRMEE?oc=5",
-        "date": "08/19 01:00"
       }
     ],
     "VRT": [
