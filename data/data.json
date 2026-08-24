@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T11:00:15.876007+00:00",
+  "updatedAt": "2026-08-24T11:31:38.958833+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.93,
-        "change": 5.29
+        "value": 16.0,
+        "change": 5.75
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1384.75,
-        "change": -0.43
+        "value": 1384.64,
+        "change": -0.44
       },
       {
         "name": "KOSPI",
@@ -453,7 +453,7 @@
               14.89,
               16.01,
               15.13,
-              15.93
+              16.0
             ]
           }
         ]
@@ -664,7 +664,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1384.75
+              1384.64
             ]
           }
         ]
@@ -915,6 +915,20 @@
     "BE": [
       {
         "type": "neutral",
+        "title": "Why Is BE Stock Rebounding After Last Week’s Selloff?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME5vZVVzS3Y0elJBQlktUUZuc0llRWw2SXJoNGlsSkZkc1B5Rmltdno4dTJaR0d1Q0pnSWRWcV9IOEpuNTQ1UndHb04wSGhaQ3ZNM1dsT2tSSUFjR2drOGZNSi1iV0VfVWhyYjRlS1JBd1AwRk9mcExfZlNwbUVMajdDdTB4ZUxvYVMwRTNDcVR3emFkSmx3RWtHN3l5NDlINEc5am15eEtpV0h4UjBWcjFwaVI?oc=5",
+        "date": "08/24 01:10"
+      },
+      {
+        "type": "neutral",
+        "title": "BE stock analysis: Is Bloom Energy a buy or a trap?",
+        "publisher": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanBWakpiSHdrUUFCQXVMSW9fa2VYbWNoMFlLdlVlRXZBRmE5dlAyTWlBelh1OEYyUmdwNnowZnNqUlhjdGNPTG1kOVBBVEkwRGRSUmZOWURVNVZIdFprMWtVaE5falRNOERWZXFOZFVNY3FwekQzeGFfakNkT2d1VERxVEtEYWZMd1hhSDFtVm9GU19fUUVPVFJsaXJfTEd4X2gteTNYN1FGTUZGS3RDbw?oc=5",
+        "date": "08/18 23:18"
+      },
+      {
+        "type": "neutral",
         "title": "Earn 19% A Year On BE Stock Now, Or Own It 60% Cheaper Later",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRS1pWDJkVi0taEQ1c2VISUd3T0FlRnRKRHZwV28yVWNNSHBtWEhfVjJKMzN3NUVOd2xhejZyU3hJMjN5dDU0eUtHVnpsU3pLb3hBTkpPaDEtaXpsYm9SRm0xcHpBd0dMejI4dy1KS2FBV0h4ZWhvZ05hd2VfdTFGLS1FenJMQlY2WEdtcnNBZ3hyVjF2bWZiVldNUWlqdGRnc0pTTG9aa3BEb3RjR1JkQzhDYmFkMkMtUWRVeGNzOW9rdkE?oc=5",
@@ -926,36 +940,22 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0hESG1SY0l4cE00WFlWZjEtR0ltN2Y0MFVrR0VDbHRGVFBZcGFXaTQ4N3o1cWZXc1NuSlhUZV9DTFQ5dm1vcXFJdW9paDhmRmh2X2dMLW5sUTFSdlEwN1h4elZISHdqMHVyUTVTYlNKaWxHU1VYTm5JWkVCQjZlUEEwY2NQdGpxX01VaHJtSnNsU2JP?oc=5",
         "date": "08/03 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Stock May Be 42% Undervalued On Fresh AI Demand News",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JqOU0ydWJSZm1sMl9NTUpGYzY2WkZUT3VrbzNxc2pyNnVrc3JGUnVHUTVjUDVpXzVXc2t2ZW1WNTNBZnVfeW5NMVZMNlRKTzNKZ2VfYUhKeURJeGZieDhXTGRmNnBOQnVfMTlDTUJJVzdWMmtuWl8yRnU5RkttNTM0Y2JvbnNlU1JvVlEzNkVWWW1ScU9RaWtiQzVxTkQ5eXdlLWpnbzU5RS1iTUNjblJQYi12U3FjT2ZBRldZZ25Vd0ZPOW9ILVRzSTPSAdIBQVVfeXFMUFdGOVEwZGNkVVNBdnVDM0pMMm0tTHE5dXQzZzFuQWZEbFpXYk9MWXoyb184VXVrODJBYUlSczFKZlBzeUJWVmYtNGZ3UUpKejkyUkFEZTNhUHBURlVXay1uLWFENzVTM3JISkJ0SUtWRU1LaUl6LVVfTkc3UVhua25tbXdfek5Mb3pWM1FGVTdfWG1wT2Vrel9qcVJSaWZMOEQyTFlCZ0JXRnIxOGRFYnhrMFY2NGVfZkRMcGRrOUlDaVd4NUlXamd6WXoxQ01ETlFR?oc=5",
-        "date": "08/20 04:36"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy Stock (BE) Opinions on Short Seller Report and Lawsuit",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkVJSVZCM0k1OFRPdzV1SnFSbkc1c1hPYjNpTTg3MnpnV3R5TmVObFdmLVFqY25CUGMxRlFTOHN6Qm1KWW5CZTU2cnlMdmo3ZF9NOVl5eGdpX2MwMHZxbjFwTWVlbzJIQ1ZZbnBfclhqT1hqVDJnM0RGelFLSDBNSEd1TXhGWXZMLUVtMWpZeFZEYWlKcVFvN1lPazJRMmVSc2ZESmtBRQ?oc=5",
-        "date": "08/22 23:03"
       }
     ],
     "GOOGL": [
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
-        "date": "08/23 23:03"
-      },
       {
         "type": "positive",
         "title": "GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDlyaGhHM3ZsRWFsaEJZU0VjY0xJOGg3bjJfUnhneTRWdV9JVmpqaXNQVlpoWldZeDl4TUNfdUhCU1hlRmJraWNEXzhFc19HZHJKVnBVOEU5SXlvR2lUcGNpTkxRRmMzRDJPMXRMbWxiTzhiUlJ1dGlTM0NMdWZEQUNVcloyakJlTDlDdlJCSHhtQnZuN1lWNVJjQ0xDRVM1VERSbnlZLVNUTnd1cEZTVXltSHZyMjQ1djdTVUdoRkUybjNOOXpJelloVnJwYzZDRWZrOGtmd0lHWmpFdmc?oc=5",
         "date": "08/24 01:26"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
+        "date": "08/23 23:03"
       },
       {
         "type": "neutral",
