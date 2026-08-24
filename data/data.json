@@ -1,12 +1,7 @@
 {
-  "updatedAt": "2026-08-23T23:42:23.872137+00:00",
+  "updatedAt": "2026-08-24T00:40:45.236598+00:00",
   "market": {
     "cards": [
-      {
-        "name": "S&P500",
-        "value": 7674.37,
-        "change": 0.43
-      },
       {
         "name": "NASDAQ",
         "value": 26180.46,
@@ -29,18 +24,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.81,
-        "change": -0.36
+        "value": 1382.63,
+        "change": -0.59
       },
       {
         "name": "KOSPI",
-        "value": 6912.95,
-        "change": 0.88
+        "value": 6814.71,
+        "change": -1.42
       },
       {
         "name": "KOSDAQ",
-        "value": 801.94,
-        "change": -4.63
+        "value": 812.75,
+        "change": 1.35
       }
     ],
     "groups": [
@@ -112,74 +107,6 @@
           "08/21"
         ],
         "series": [
-          {
-            "name": "S&P500",
-            "data": [
-              7473.47,
-              7519.12,
-              7520.36,
-              7563.63,
-              7580.06,
-              7599.96,
-              7609.78,
-              7553.68,
-              7584.31,
-              7383.74,
-              7405.73,
-              7386.65,
-              7266.99,
-              7394.3,
-              7431.46,
-              7554.29,
-              7511.35,
-              7420.1,
-              7500.58,
-              7472.79,
-              7365.46,
-              7358.22,
-              7357.49,
-              7354.02,
-              7440.43,
-              7499.36,
-              7483.23,
-              7483.24,
-              7537.43,
-              7503.85,
-              7482.71,
-              7543.64,
-              7575.39,
-              7515.34,
-              7543.59,
-              7572.4,
-              7533.77,
-              7457.69,
-              7443.28,
-              7509.2,
-              7498.96,
-              7408.3,
-              7411.98,
-              7413.18,
-              7428.78,
-              7316.15,
-              7437.63,
-              7489.72,
-              7600.5,
-              7736.52,
-              7723.55,
-              7709.96,
-              7757.64,
-              7753.11,
-              7728.2,
-              7748.5,
-              7798.99,
-              7785.76,
-              7745.06,
-              7691.76,
-              7707.98,
-              7641.16,
-              7674.37
-            ]
-          },
           {
             "name": "NASDAQ",
             "data": [
@@ -666,7 +593,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1385.81
+              1382.63
             ]
           }
         ]
@@ -674,8 +601,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "05/21",
-          "05/22",
           "05/26",
           "05/27",
           "05/28",
@@ -736,14 +661,13 @@
           "08/18",
           "08/19",
           "08/20",
-          "08/21"
+          "08/21",
+          "08/24"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              7815.59,
-              7847.71,
               8047.51,
               8228.7,
               8185.29,
@@ -804,14 +728,13 @@
               6869.83,
               6471.17,
               6852.58,
-              6912.95
+              6912.95,
+              6814.71
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              1105.97,
-              1161.13,
               1172.52,
               1133.13,
               1104.36,
@@ -872,7 +795,8 @@
               834.2,
               824.46,
               840.89,
-              801.94
+              801.94,
+              812.75
             ]
           }
         ]
@@ -911,10 +835,10 @@
       },
       {
         "type": "neutral",
-        "title": "BMO Says Buy NVDA, AVGO, MRVL, MU, and AMD Stocks, Calls Nvidia a ‘Top AI Pick’",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkJ0VHhrNDk4TzFSNUFpaHd4a0dXaHBTTWQ0M2kwQUFLVk5wcGZ5TWVFdG1jeUlUaVRjeERLek11ZDdDVEpyeGg2ZXZoWW1ybnN5ZlNSdW5fQ1BtZXdfay1RZXZsdk9qODNfM2pSR3o4YlpRdkNKUExKU29RTTY1NlkyWmJ5RWdORXJ1dm1uMWhlLWpvZVJrQ1pMWDljbFZERHNXcQ?oc=5",
-        "date": "08/22 03:50"
+        "title": "What's Going On With Broadcom Stock Thursday? - Broadcom (NASDAQ:AVGO)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNazdNeTNoYXgxTWRNZmhCc1FFUGdKSzVRdG1TRTdXVEVJTEZiaHh2NVlTSkhjU3JVMWtHR3YxOVJya0ZxMUNrcFFublhGR1JoNXZMOTNYcXBqbWl0MnZEM203SHV2LUh6TnJJaHdoZjhVdDZxWjNLLVhCVG9zX1FRRUZhM0t2X2FLR001XzVLREN5NU10UUpDaVVjaDc3MWlSb0dxWE9NSG9xQ251Y0lvR24xTENTQ0hfTzJwLURpSjZZcjRRLWc?oc=5",
+        "date": "08/21 01:05"
       }
     ],
     "BE": [
@@ -957,17 +881,17 @@
       },
       {
         "type": "neutral",
-        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
-        "date": "08/21 02:47"
-      },
-      {
-        "type": "neutral",
         "title": "Cathie Wood and Stanley Druckenmiller Agree On Amazon (AMZN) and Alphabet (GOOGL)",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW5OMmIwWUg3ZDdTalVJTWtXZjFDeUpvbEJUUUtQdjlXQzFMeHpjZ1ZxU2F3WG5zeFktdnpCTC1NVlcxc3lzeVV5MkRxR1NZM3dWWGNOeGZrQm16UlR2MS1FME1nTWo3ZkZ5NW9qNk50Y0xHNTc1NlBiOVBIRS1DMnhUUVJjMWxNTWJ2cGFpMXhrdDhBQ2NmT0p2QzJReWN5M3VGYXhicw?oc=5",
         "date": "08/21 03:55"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+        "date": "08/21 02:47"
       },
       {
         "type": "neutral",
