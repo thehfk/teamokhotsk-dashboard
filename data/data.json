@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-24T17:54:40.424083+00:00",
+  "updatedAt": "2026-08-24T18:25:02.892651+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7650.13,
-        "change": -0.32
+        "value": 7664.63,
+        "change": -0.13
       },
       {
         "name": "NASDAQ",
-        "value": 26011.93,
-        "change": -0.64
+        "value": 26078.96,
+        "change": -0.39
       },
       {
         "name": "다우존스",
-        "value": 53330.2,
-        "change": 0.1
+        "value": 53407.34,
+        "change": 0.24
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.81,
-        "change": 4.49
+        "value": 15.72,
+        "change": 3.9
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1382.85,
-        "change": -0.57
+        "value": 1382.12,
+        "change": -0.62
       },
       {
         "name": "KOSPI",
@@ -177,7 +177,7 @@
               7707.98,
               7641.16,
               7674.37,
-              7650.13
+              7664.63
             ]
           },
           {
@@ -245,7 +245,7 @@
               26331.09,
               26067.17,
               26180.46,
-              26011.93
+              26078.96
             ]
           },
           {
@@ -313,7 +313,7 @@
               53463.05,
               52759.21,
               53277.01,
-              53330.2
+              53407.34
             ]
           }
         ]
@@ -453,7 +453,7 @@
               14.89,
               16.01,
               15.13,
-              15.81
+              15.72
             ]
           }
         ]
@@ -662,7 +662,7 @@
               1413.58,
               1389.4,
               1390.79,
-              1382.85
+              1382.12
             ]
           }
         ]
@@ -870,11 +870,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 18.8,
-    "BE": 38.9,
-    "GOOGL": 25.1,
-    "QCOM": 44.0,
-    "VRT": 40.6
+    "AVGO": 19.0,
+    "BE": 41.1,
+    "GOOGL": 25.5,
+    "QCOM": 44.7,
+    "VRT": 41.6
   },
   "news": {
     "AVGO": [
@@ -916,6 +916,13 @@
         "date": "08/24 22:04"
       },
       {
+        "type": "positive",
+        "title": "Bloom Energy (BE) Stock Faces Valuation Debate Amid Growth Poten",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXllbGxRRVdCM1ctY3dmVnB2OEJyVGZId0dGTmp4YXFPZEktZm5vZElXaHB6d3BLdEpuSmljRlBBLXBsa3FJcDFtSnRJUWg3VDBaU1l3Y25jV29Hc05MRzNyN1otVzZRWEdKUkNUdnFzdWlUdjN5VkFxcTdQM2E0MGk1cnpHeFlHTzVlbmNNdDBNRXpkWk9yc2d5dmd2SnRPTW10WmJFZTY?oc=5",
+        "date": "08/25 02:14"
+      },
+      {
         "type": "neutral",
         "title": "Has BE Stock Peaked Yet? Here’s What Wall Street And Retail Think",
         "publisher": "Stocktwits",
@@ -924,17 +931,10 @@
       },
       {
         "type": "positive",
-        "title": "Bloom Energy (BE) Stock Faces Valuation Debate Amid Growth Poten",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXllbGxRRVdCM1ctY3dmVnB2OEJyVGZId0dGTmp4YXFPZEktZm5vZElXaHB6d3BLdEpuSmljRlBBLXBsa3FJcDFtSnRJUWg3VDBaU1l3Y25jV29Hc05MRzNyN1otVzZRWEdKUkNUdnFzdWlUdjN5VkFxcTdQM2E0MGk1cnpHeFlHTzVlbmNNdDBNRXpkWk9yc2d5dmd2SnRPTW10WmJFZTY?oc=5",
-        "date": "08/25 02:14"
-      },
-      {
-        "type": "negative",
-        "title": "Bloom Energy (NYSE:BE) Shares Gap Down - What's Next?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0FrQXdYRUpnM3FqRTRncVlZTElCaG5wellkamp3dWZfejExRzNDaG9ZN0dic21NQ1pfWkhTc3RwNi1EQ214M2ZXUVJDTkRyUy1YRG9HeVBlX1FDcWtXaXRGS1phczJ0eTF1NlUyRWNybUJFai1OTXRQNGtOZmV2RmYxR3RFb3ZScVo1dHJzaE9KYjhZVXp1LUt6V0p3NUFjanc?oc=5",
-        "date": "08/25 00:43"
+        "title": "Bloom Energy Stock Moves Higher: What's Happening?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0dpYUY2QUFocG5BWVdJdFZBMzA3UjZlNm9teTMxM1hTbjJFQmxqUGFoTEpEeUdHMnJ6ZFpKVHY1VjdmbmdVX3BmQ0pkSlJDYVhlbFNZWGFnZFVUeEZTaTdUMjlMR3A4M1BBd3o0OGZyWHJ5M2duNXJfeGtqSUlSQjg3M2lzQXRsTFBIeVRXbmhFNUcydUU5ZTVsdkxiRjdnNVV0QThWY21KbEl6?oc=5",
+        "date": "08/25 02:46"
       }
     ],
     "GOOGL": [
@@ -969,11 +969,11 @@
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "QCOM Stock Slides Premarket: Qualcomm's Dragonfly AI Push Gets Overshadowed By Nvidia's Computex Blitz",
+        "type": "positive",
+        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXBSY0pCWWhxb2ZrZXpVMWFqOGFJcm5jZnE4dEJwa0wwSkUyNTNqTHpzSVBsYkd3cXBZTmZnRUFpUHRUM1B1SmhBdHBqd3UtalBaVG1zTTRnZ1U2ang4NWk3eTQ5TkpuWUdlZHhTcWE2RmxIdmJ5Zl8yMWliY2NUR0hWY0d6ZDg4RC1zZEFyOUlfc1pvOWlOWTVZaHJHT2JiM1M2b1hPRWExbnpnbU9QUE1DU0RmYU9OQlpQYjZnNGE?oc=5",
-        "date": "08/24 14:11"
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
+        "date": "08/24 07:33"
       },
       {
         "type": "neutral",
