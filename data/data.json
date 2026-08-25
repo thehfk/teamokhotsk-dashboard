@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T06:28:06.645930+00:00",
+  "updatedAt": "2026-08-25T07:24:49.961461+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.38,
-        "change": 0.03
+        "value": 1385.11,
+        "change": 0.01
       },
       {
         "name": "KOSPI",
-        "value": 6726.86,
-        "change": 0.45
+        "value": 6742.74,
+        "change": 0.68
       },
       {
         "name": "KOSDAQ",
-        "value": 824.52,
-        "change": 1.38
+        "value": 827.15,
+        "change": 1.7
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1385.38
+              1385.11
             ]
           }
         ]
@@ -801,7 +801,7 @@
               6852.58,
               6912.95,
               6696.96,
-              6726.86
+              6742.74
             ]
           },
           {
@@ -869,7 +869,7 @@
               840.89,
               801.94,
               813.33,
-              824.52
+              827.15
             ]
           }
         ]
@@ -954,13 +954,6 @@
       },
       {
         "type": "neutral",
-        "title": "Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0ozaWt2YmlTWEhPRUZpT0xza3QtVGhRaFEyb1RKVUlNM2lrWGVmQnc3eVpDYnBfeTBPclp6VGpMNFhuZDNTSFVPa3V4NjhVQURfM0gwdXM3N2NhNFpjY0hrZ1RLRlRjMG9oMXczdzNuU2Q3V3BLaHV0NU9HSFRQRDdlZ0lqcGYzaVE?oc=5",
-        "date": "08/25 03:29"
-      },
-      {
-        "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
@@ -968,10 +961,17 @@
       },
       {
         "type": "neutral",
-        "title": "Here’s How Much You Would Have Made Owning Alphabet Stock In The Last 15 Years",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdktaTVVXYS0yRHEzX2phT3RHbVJTQmk1VnlaQzdWOHVCcTcwZExZckwxNDFEdWIxelV2WTlrRWdPX1dMTm5fNVdOUFBiYklZaVNIVUxxVGxyRE1iVXhZYklsYWNXc2NaS1NjTl84eC1nVzQ3MVRPcFo2MHFqRUNJR0FhbFdzT1Y0TTI2bkY4RUJqb2pJTXU0YUpCYjlBd0N3UWZPYnNIRGt3S0QzdmFaRzllQzQ0WVE?oc=5",
-        "date": "08/25 00:15"
+        "title": "Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings",
+        "publisher": "Barron's",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0ozaWt2YmlTWEhPRUZpT0xza3QtVGhRaFEyb1RKVUlNM2lrWGVmQnc3eVpDYnBfeTBPclp6VGpMNFhuZDNTSFVPa3V4NjhVQURfM0gwdXM3N2NhNFpjY0hrZ1RLRlRjMG9oMXczdzNuU2Q3V3BLaHV0NU9HSFRQRDdlZ0lqcGYzaVE?oc=5",
+        "date": "08/25 03:29"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
+        "date": "08/23 23:03"
       }
     ],
     "QCOM": [
