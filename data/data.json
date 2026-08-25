@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T05:01:35.218809+00:00",
+  "updatedAt": "2026-08-25T05:54:47.023563+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1382.97,
-        "change": -0.15
+        "value": 1384.48,
+        "change": -0.04
       },
       {
         "name": "KOSPI",
-        "value": 6678.97,
-        "change": -0.27
+        "value": 6737.78,
+        "change": 0.61
       },
       {
         "name": "KOSDAQ",
-        "value": 818.96,
-        "change": 0.69
+        "value": 822.66,
+        "change": 1.15
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1382.97
+              1384.48
             ]
           }
         ]
@@ -801,7 +801,7 @@
               6852.58,
               6912.95,
               6696.96,
-              6678.97
+              6737.78
             ]
           },
           {
@@ -869,7 +869,7 @@
               840.89,
               801.94,
               813.33,
-              818.96
+              822.66
             ]
           }
         ]
@@ -937,11 +937,11 @@
         "date": "08/25 02:14"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy Stock Moves Higher: What's Happening?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0dpYUY2QUFocG5BWVdJdFZBMzA3UjZlNm9teTMxM1hTbjJFQmxqUGFoTEpEeUdHMnJ6ZFpKVHY1VjdmbmdVX3BmQ0pkSlJDYVhlbFNZWGFnZFVUeEZTaTdUMjlMR3A4M1BBd3o0OGZyWHJ5M2duNXJfeGtqSUlSQjg3M2lzQXRsTFBIeVRXbmhFNUcydUU5ZTVsdkxiRjdnNVV0QThWY21KbEl6?oc=5",
-        "date": "08/25 02:46"
+        "type": "neutral",
+        "title": "Nancy Pelosi Takes Long Positions In BE, INTC Stock",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLU1wQXJQaHkwRXBZSWg4dFFqNmhmUXBCd1pqdE92M2Z3OER4cEQzQ01DNk1YMjdMY0FZVW9fWEdYV002ZlI2dW93Q1FXNlZDSnRCbmd4MFgzLWE0RDBSYm9xdVEzRFFwTU0tOHp0dU1oWkZqWVd5SkhEUEZCM2c2Z0lJZlRZZ2NGY3lHb0JyNVRCVlhBMGkxN0VqZ00xeE9ZNE56QkdhRFp3bHVkODBNSw?oc=5",
+        "date": "08/25 03:29"
       }
     ],
     "GOOGL": [
@@ -983,6 +983,13 @@
         "date": "08/24 07:33"
       },
       {
+        "type": "neutral",
+        "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGluQlFqVzN0RTZJcXp3Yy1nMWpSWFRVWnRlSEs2RXMtZC1BTnREdUkzQUxpNlh0VVNsWGVyRWtJOFJUUXVDNC1GYjFodjlDSkxXdUVqZklwN1JyTGZwLThuRlhucDlSUk9EWTV6emlzZnBwNm5oZDJTeC03UmlreHBPRjhieGxpMU5UYkxBUVRCd3FtdmdDWjd5VVhnaFZOZlRmekc5QQ?oc=5",
+        "date": "08/24 22:30"
+      },
+      {
         "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
         "publisher": "Yahoo Finance",
@@ -995,13 +1002,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
         "date": "08/06 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGluQlFqVzN0RTZJcXp3Yy1nMWpSWFRVWnRlSEs2RXMtZC1BTnREdUkzQUxpNlh0VVNsWGVyRWtJOFJUUXVDNC1GYjFodjlDSkxXdUVqZklwN1JyTGZwLThuRlhucDlSUk9EWTV6emlzZnBwNm5oZDJTeC03UmlreHBPRjhieGxpMU5UYkxBUVRCd3FtdmdDWjd5VVhnaFZOZlRmekc5QQ?oc=5",
-        "date": "08/24 22:30"
       }
     ],
     "VRT": [
