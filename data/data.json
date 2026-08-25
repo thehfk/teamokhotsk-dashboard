@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T12:26:57.935641+00:00",
+  "updatedAt": "2026-08-25T13:27:02.402038+00:00",
   "market": {
     "cards": [
       {
@@ -19,18 +19,18 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.78,
-        "change": -0.44
+        "value": 15.8,
+        "change": -0.32
       },
       {
         "name": "미국10년금리",
-        "value": 4.7,
-        "change": -0.84
+        "value": 4.65,
+        "change": -1.06
       },
       {
         "name": "원달러환율",
-        "value": 1383.37,
-        "change": -0.12
+        "value": 1384.08,
+        "change": -0.06
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               16.01,
               15.13,
               15.85,
-              15.78
+              15.8
             ]
           }
         ]
@@ -525,7 +525,8 @@
           "08/19",
           "08/20",
           "08/21",
-          "08/24"
+          "08/24",
+          "08/25"
         ],
         "series": [
           {
@@ -593,7 +594,8 @@
               4.65,
               4.7,
               4.74,
-              4.7
+              4.7,
+              4.65
             ]
           },
           {
@@ -665,7 +667,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1383.37
+              1384.08
             ]
           }
         ]
@@ -889,17 +891,17 @@
     "AVGO": [
       {
         "type": "neutral",
+        "title": "Broadcom’s $60 Billion AI Debt Deal Hides a $370 Billion Question Nobody on Wall Street Wants to Answer",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHdKOGtDbHF4MDVxbk4xSG5WTWFvSjhQNjJoU1dvUUkza3dOTWtVWGNwbm1SMVJ2VEtrckVQTUJSdkpFTXNFbDZldEhndkg5ckpPLVBkeWFvYnZ0TDloZC12cGdkcXlEajktMGdzVzN2aTMtZlV2M1NsV3ZQYzEtbFU0ZnR0Qm50RTRBR0g0dFBmNmlJLTNV?oc=5",
+        "date": "08/24 22:59"
+      },
+      {
+        "type": "neutral",
         "title": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFc2WjJwWW51bTQwdjhiUm0xQmhKN1RZbWpKTkc5TUtGcklsT0NrUlFoRVFOOUtDLXhVWHhTakYzWWNnQTFMTnR4WDMxOWVwUzIxankyTjJxcmxMWHpFY2RMclplZEhaaTlGcHdQOTktbFh2bFJhNDEzaEZzanNrYzByOFpBcUhTS0wzUzEyREhOeVNVazlNdUNUM1RlLVF5a1ltLVRxWUU0VDIzUVU0a0t1TnBaeXZtREwwN2NwdWlNXzdaaGhz?oc=5",
         "date": "08/25 06:34"
-      },
-      {
-        "type": "neutral",
-        "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFqQVVmOUxHVkN0NVdKb3VDbnJtZDBpVC1MMmkwak5teGptUEpRTHNuUEwyQkJ6VERzdkVNTzByNTRyQ2JWS2loSWJfUmROME1DUGZOWk5tcVo1ejh6RVJEUXEwTkVQSjhrRzRQdS1IMGVGbUEtQjlkdFFIdDlaYW1RMjR4bU1zMm5KSHNVbXBWLXliYXlJWW54Y3FWcUlXRGhVelJfU1JseWJhM0Y5dnJvUWEySmRZb1VSWFlnNW45bEdB?oc=5",
-        "date": "08/23 04:30"
       },
       {
         "type": "negative",
@@ -909,11 +911,11 @@
         "date": "08/24 12:26"
       },
       {
-        "type": "positive",
-        "title": "Broadcom Stock (AVGO) Slips as Credit Default Swaps Jump 28 Basis Points – Here’s Why",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEdNNUFGV01Sb0JNaUhtVDVickJXRmEtcnV6MHMzYjlRSDVicHJSOFZIWEJKYnR2RjF2b2JjWmxsVXF1WjNzcm5pVml2OTlnSVVMMnlzSHZjVzhrZHBRY1Z1TU1BbzROdmh2S0FFZEhMbU55SDM4V3RvaFRwVEZ2LUlCR0tMQnVUZmtDR1pGSzRnbzNZMU1KYk1OVU16MVJxSmxwWF9LcklEOHpzU3JF?oc=5",
-        "date": "08/25 05:40"
+        "type": "neutral",
+        "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFqQVVmOUxHVkN0NVdKb3VDbnJtZDBpVC1MMmkwak5teGptUEpRTHNuUEwyQkJ6VERzdkVNTzByNTRyQ2JWS2loSWJfUmROME1DUGZOWk5tcVo1ejh6RVJEUXEwTkVQSjhrRzRQdS1IMGVGbUEtQjlkdFFIdDlaYW1RMjR4bU1zMm5KSHNVbXBWLXliYXlJWW54Y3FWcUlXRGhVelJfU1JseWJhM0Y5dnJvUWEySmRZb1VSWFlnNW45bEdB?oc=5",
+        "date": "08/23 04:30"
       }
     ],
     "BE": [
@@ -955,18 +957,18 @@
         "date": "08/25 10:23"
       },
       {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/11 16:00"
-      },
-      {
         "type": "neutral",
         "title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook",
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
         "date": "08/23 23:03"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/11 16:00"
       },
       {
         "type": "neutral",
