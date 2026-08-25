@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:16:38.385395+00:00",
+  "updatedAt": "2026-08-25T23:45:36.901803+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1381.91,
-        "change": 0.08
+        "value": 1382.29,
+        "change": 0.11
       },
       {
         "name": "KOSPI",
@@ -671,7 +671,7 @@
               1390.79,
               1384.98,
               1380.76,
-              1381.91
+              1382.29
             ]
           }
         ]
@@ -899,10 +899,10 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom Q3 Earnings Preview: I See Continued Margin Contraction (NASDAQ:AVGO)",
+        "title": "Broadcom: Moving Big Into Vendor Financing (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlRsSGMyaDEzOEhxOHljalpXU2JjNFpjUU1nSWRDRU5yRDNBNDlqU0xhalAxRFFvbldiLUkxaTRpM1hoQ0EyUkpFTWhVV051dWZNazVZd3FtbXpjYzBId1dtclZJZk1zaFMwNFdwVEt3S0Frb0FYOUdWVGphTmJhS3Z3eXA5X25HLVVxWjV1SW1jYXFTTmdjaFQ1SFdSSkJ0U1VuRWs1VQ?oc=5",
-        "date": "08/26 03:06"
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWDZwQmEyYUNvVlZDdTdiV2NzM0lkM1hlTmdrb29UNGRHWXMtbnZ5U3BHRXVIWWJ6a1JXZ0g3UHp2VUhNOHJ3aWlLdHFVbWRaRnFWbndZVkNSV3VrRzFfTmtTZXZ0NnN4ZE03OWdWTExFV1FrMnREcnVCWVlRZDEzZ3FscHZXUU9HLXc?oc=5",
+        "date": "08/26 06:24"
       },
       {
         "type": "negative",
@@ -951,13 +951,6 @@
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Alphabet (GOOGL) Stock Looks Below Fair Value Despite Strong Earnings Gains",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlBejRUQTZETHJuVVViaG1PN25ZUHlBcndtXzhranc1TXAzX1hFLThlTkI0UHZRQThhRUlzOG94RzJlREJPeHFrTmdQaU5uQ2pUMWdEN0dncWpuLTBRZlRaSkhjbU5jVGZxekRVZDlRRUxFY3JHQ0VqRDktc3htUnZFanduRWV6TFV0QnJSMXVIb21UM0xJbVpmZDQxZw?oc=5",
-        "date": "08/26 03:18"
-      },
-      {
         "type": "neutral",
         "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
         "publisher": "Stocktwits",
@@ -977,6 +970,13 @@
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkdBcjdUMHFIcEtiWTlYazlDMHBtdHhvQUg1RFpWNnRlTnc2YndTQ0hvNW1iZmxXWlBmdjZvU3VTWHlpU2VoYmNqSHFOUDZPMzdNV0RzZ0FQQXhKQ0dhMTlpVklldXNZdmw1SjdlcGR4Q1hObUlaMTMxaDB0S1ItYXA2WEdFZFBzMFhtSmhDM3N0QWcxZ18yUUlfemZhRG5JcEVpQ2R3VG1ybXNIQnUzT3hKcUgtdUNLandrc1RR?oc=5",
         "date": "08/25 23:40"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/11 16:00"
       }
     ],
     "QCOM": [
