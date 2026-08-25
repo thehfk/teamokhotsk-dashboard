@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T05:54:47.023563+00:00",
+  "updatedAt": "2026-08-25T06:28:06.645930+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1384.48,
-        "change": -0.04
+        "value": 1385.38,
+        "change": 0.03
       },
       {
         "name": "KOSPI",
-        "value": 6737.78,
-        "change": 0.61
+        "value": 6726.86,
+        "change": 0.45
       },
       {
         "name": "KOSDAQ",
-        "value": 822.66,
-        "change": 1.15
+        "value": 824.52,
+        "change": 1.38
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1384.48
+              1385.38
             ]
           }
         ]
@@ -801,7 +801,7 @@
               6852.58,
               6912.95,
               6696.96,
-              6737.78
+              6726.86
             ]
           },
           {
@@ -869,7 +869,7 @@
               840.89,
               801.94,
               813.33,
-              822.66
+              824.52
             ]
           }
         ]
@@ -893,25 +893,25 @@
         "date": "08/25 06:34"
       },
       {
+        "type": "neutral",
+        "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFqQVVmOUxHVkN0NVdKb3VDbnJtZDBpVC1MMmkwak5teGptUEpRTHNuUEwyQkJ6VERzdkVNTzByNTRyQ2JWS2loSWJfUmROME1DUGZOWk5tcVo1ejh6RVJEUXEwTkVQSjhrRzRQdS1IMGVGbUEtQjlkdFFIdDlaYW1RMjR4bU1zMm5KSHNVbXBWLXliYXlJWW54Y3FWcUlXRGhVelJfU1JseWJhM0Y5dnJvUWEySmRZb1VSWFlnNW45bEdB?oc=5",
+        "date": "08/23 04:30"
+      },
+      {
         "type": "negative",
-        "title": "S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week — AVGO, INTC, BE, NVDA, PSKY In Focus",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQWlZyUk01UWpSQmlpUUc0QjB1d0hNemROT2MxUmJIbHJTN1dkMmM5cXRRcGxLUFZ2SGJxQUp4OWFNWFdPR3RRaVdOWmtpdFg1aUFSTFVaUmdEeEJGaUtXNndzd25BTEpxaW1fM0t6WTkzSDd5WUZQT3pja0R0ZTFtMTZxdHlqMld2dzFNZDhDRUxJUTJOQ3kxX0xCb0NGcThHaG90b0ZuN3gyTVpUcEk0N2ZkTFdsME5WMVhueGFpS2ozV0hNS3NNY1o5LTF4QkF1UjUxQzdCc2tPaUljN3U4aFdJdXNyU1BGREp4Nnk4SzVOWDJyT0ZGYS1PNTdqUWRlOHNjeXVYa0xYTk9lbXZYc3FnaWI2REpyckptWQ?oc=5",
-        "date": "08/25 06:52"
+        "title": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcnZhNGxyWFA4THJPbWpJTW1hUkp5UzRsSWRfemJnRUFybjhkbVM4T0xjVEVfa2lNVWVhWkhHLWZubFdRM0tMRjJaa01uQXZHRlp0LU9ycTd4WEROQjZTQ3NRVEFtSWhiNnFvLUh2bGctS1dBbUczNGpDSDNCb3ltdEJ4dWhPNGh0emE3eklSSHRZaXliVmw2cEFRR3NyMEp6ZVJpZUJkWFVCSF9GUDZKQVFlWFkwRVRNcHhCeHJEeUhwVXo5bnZKWFU4aGU3eFlQSDBLVUNVeVM?oc=5",
+        "date": "08/24 12:26"
       },
       {
         "type": "neutral",
-        "title": "Broadcom: $100 Billion In AI Revenue Is A Lot To Ask (NASDAQ:AVGO)",
+        "title": "Broadcom: The Market Has This One Wrong",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlZyU3h6QmkxLVhwVXhZRGxQTHVyVEtsU1BqRy1tN0ltRnZsQlQ3TWYtbkR2VnkxQldOZkd6Z2NGbkh6alpvWXRVU2tvblY2ckhWT1dBaDZmbVFOdHZ3VTZoT1pwMnBZanZIWDNTQ1FLSUd6TnA2UExzc0E2Vnd2VmhiY3dpb2JYaTQzTEZLVQ?oc=5",
-        "date": "08/24 22:13"
-      },
-      {
-        "type": "positive",
-        "title": "Stock Market Today: Dow Jumps 875 Points, Broadcom Plunges; Ciena Slammed Yet Holds Its 50-Day",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVR4OEIzekJWLXE1b1E4ZkxiRVpveXN2TjJTR0RJNXR0ZWU5eWZhLVM2ZElzQ1dfZHl0RmEwZUdTaDNYTGVaSXhyR1BpallrQWdZMXcyZWRwZjBvLUJjR2dnc3lka3RkcUJTN2t3Tl96YmxkVEFDRENXazEwN3RzVkh6UlFDZEV1eWhtODhKd2U4VGFlRkdCZl9ENXRQcWdVTUdCaWIxVUNJVXQ4cTBGWnd3?oc=5",
-        "date": "06/04 16:00"
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM29SeVh0NUJXUWVmNThSYV9QeWFTb21BNVBObjNNUUYteFYtN2hZUHg2Qk9MYnZIYndfVkJoS2NPQU82Y3N4TG4zV2V6NnRNVmtaV3k5VUVISVh5SkZkY05aY1ItN3R4ZURXOWNIbDF2NVNfZ0hOSVRZcnZfQ0c2dUJPY1MwQQ?oc=5",
+        "date": "08/22 17:01"
       }
     ],
     "BE": [
@@ -937,11 +937,11 @@
         "date": "08/25 02:14"
       },
       {
-        "type": "neutral",
-        "title": "Nancy Pelosi Takes Long Positions In BE, INTC Stock",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLU1wQXJQaHkwRXBZSWg4dFFqNmhmUXBCd1pqdE92M2Z3OER4cEQzQ01DNk1YMjdMY0FZVW9fWEdYV002ZlI2dW93Q1FXNlZDSnRCbmd4MFgzLWE0RDBSYm9xdVEzRFFwTU0tOHp0dU1oWkZqWVd5SkhEUEZCM2c2Z0lJZlRZZ2NGY3lHb0JyNVRCVlhBMGkxN0VqZ00xeE9ZNE56QkdhRFp3bHVkODBNSw?oc=5",
-        "date": "08/25 03:29"
+        "type": "positive",
+        "title": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRlpiSE9jX2JFX0RQMTMwUTVIc0pCalJQNkRoTXlDWEg0UlhkZ2w5NVRCLXIzaVZDRG5RamtGenVHWGRBZ2ZWMW5DV0YyNjJtXzdsTXJWOWtfcUlOX2pZRHVuX293ZVlIM0ZDS0tkTXRTZzFRa3F0a0N6cFgzXzJYV3pqaUFFUnA0ay1Mdm8zY3UtYTVkN1VXTEVObURxWVA4MzNIQmdEVjkxTElsV3IzdnlBaXV6eHZPVHlDTkZOVFpLempR?oc=5",
+        "date": "08/25 14:08"
       }
     ],
     "GOOGL": [
@@ -1013,18 +1013,18 @@
         "date": "08/05 16:00"
       },
       {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Passes the Affordable Growth Screen",
-        "publisher": "ChartMill",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaF9jcXpTeHRYQWJSRTdFckFPb2drU2RTRHBpRmNLajFXYi1FQk5FbUtWRzB4cFlwTlVybmFBMWpTM0E1V0xBck5ucXZvVHZOaEYzcjNtdWhqZHVqMkxmaVBIYTRHUkFURzRlTXd5MzU5Vi1jb1lRcHNFMzJsbDVPcVprbnRXTlVGSmhxN2txaUEwQzd6RVF1ZUNBTm5CdVpYT0JR?oc=5",
-        "date": "08/24 18:02"
-      },
-      {
         "type": "neutral",
         "title": "Vertiv (VRT) Stock Looks Fairly Priced Despite Fraud Investigation News",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXMwdXNvWGNwWkRtSzJyM3FuSDY3NUZTWmNiSWdudi1KLXlZT2QyZmVKRnB6UlJkVE5qY1ZQbXh0bGJEU1k2WVlUUlFOR0tDSjU3X2hjcUNpbHB3LTRncmVCZDlaUnRDbDlubTkzYnJYWG03SkU2SHN2LW8ydm92OTduOG50bHRqUmFoUUUxei1MeVlzVFY5ZzhqTzdyVUgxMmNNRDU1TktXaURXS0J1SENJWWdodkF3SWtyYVExTVVyY3pjdG40bWdCWW9DeGpuZXV0bGV30gHbAUFVX3lxTE5fNEVxUVg2eGxOTEY4eEJWRnRSVXVsdnB6V0hKeUxZSzhROG9FV202MVdoM1dHeThwZU1nYUxkeGU1VE9IWXp3VExFbVpuWGNYM2Jsd3R1RDFsNnVVTFZnMERDUGZSRktLUGJhMURGQ21rZUNxSWZaSjlFdlZfaFJSVy10UHg4cURMT2p3NUxnNGREeUVNclk3SGdmZDdHN2N3VjBUV0ttOHViT0hyM0pJWDNqQkR4c0I5cGF1NzZPVEd6NjJzLTQ3eWdZS21VQnIxbTdKWUNFYTFHdw?oc=5",
         "date": "08/22 05:29"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv (NYSE:VRT) Passes the Affordable Growth Screen",
+        "publisher": "ChartMill",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaF9jcXpTeHRYQWJSRTdFckFPb2drU2RTRHBpRmNLajFXYi1FQk5FbUtWRzB4cFlwTlVybmFBMWpTM0E1V0xBck5ucXZvVHZOaEYzcjNtdWhqZHVqMkxmaVBIYTRHUkFURzRlTXd5MzU5Vi1jb1lRcHNFMzJsbDVPcVprbnRXTlVGSmhxN2txaUEwQzd6RVF1ZUNBTm5CdVpYT0JR?oc=5",
+        "date": "08/24 18:02"
       },
       {
         "type": "neutral",
