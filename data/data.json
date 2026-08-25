@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T23:43:01.695181+00:00",
+  "updatedAt": "2026-08-25T00:40:00.232844+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1382.15,
-        "change": -0.2
+        "value": 1381.88,
+        "change": -0.22
       },
       {
         "name": "KOSPI",
-        "value": 6912.95,
-        "change": 0.88
+        "value": 6423.04,
+        "change": -7.09
       },
       {
         "name": "KOSDAQ",
-        "value": 801.94,
-        "change": -4.63
+        "value": 783.46,
+        "change": -2.3
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1382.15
+              1381.88
             ]
           }
         ]
@@ -731,7 +731,8 @@
           "08/18",
           "08/19",
           "08/20",
-          "08/21"
+          "08/21",
+          "08/25"
         ],
         "series": [
           {
@@ -797,7 +798,8 @@
               6869.83,
               6471.17,
               6852.58,
-              6912.95
+              6912.95,
+              6423.04
             ]
           },
           {
@@ -863,7 +865,8 @@
               834.2,
               824.46,
               840.89,
-              801.94
+              801.94,
+              783.46
             ]
           }
         ]
@@ -881,20 +884,6 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFqQVVmOUxHVkN0NVdKb3VDbnJtZDBpVC1MMmkwak5teGptUEpRTHNuUEwyQkJ6VERzdkVNTzByNTRyQ2JWS2loSWJfUmROME1DUGZOWk5tcVo1ejh6RVJEUXEwTkVQSjhrRzRQdS1IMGVGbUEtQjlkdFFIdDlaYW1RMjR4bU1zMm5KSHNVbXBWLXliYXlJWW54Y3FWcUlXRGhVelJfU1JseWJhM0Y5dnJvUWEySmRZb1VSWFlnNW45bEdB?oc=5",
-        "date": "08/23 04:30"
-      },
-      {
-        "type": "positive",
-        "title": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlo3ZE16a0hGZXc2YWtvRW1vWDE0R0JOeGs2VjBieDBWc0JIU1k4eFpoRmF4LWJxNGNsNWdoSjVEdmMxUHpvQzJ4cnpnOWo1Qi04d09ZOGw5N3JLcGJTa1NTbDRKZ2ZyZnNyZmsxMTVPT1o3T1RHZXo0MFlKQm1CeTl6Y1BFdnNXckx4dkVpVmtydTg?oc=5",
-        "date": "08/25 05:42"
-      },
-      {
-        "type": "neutral",
         "title": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFc2WjJwWW51bTQwdjhiUm0xQmhKN1RZbWpKTkc5TUtGcklsT0NrUlFoRVFOOUtDLXhVWHhTakYzWWNnQTFMTnR4WDMxOWVwUzIxankyTjJxcmxMWHpFY2RMclplZEhaaTlGcHdQOTktbFh2bFJhNDEzaEZzanNrYzByOFpBcUhTS0wzUzEyREhOeVNVazlNdUNUM1RlLVF5a1ltLVRxWUU0VDIzUVU0a0t1TnBaeXZtREwwN2NwdWlNXzdaaGhz?oc=5",
@@ -906,6 +895,20 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlZyU3h6QmkxLVhwVXhZRGxQTHVyVEtsU1BqRy1tN0ltRnZsQlQ3TWYtbkR2VnkxQldOZkd6Z2NGbkh6alpvWXRVU2tvblY2ckhWT1dBaDZmbVFOdHZ3VTZoT1pwMnBZanZIWDNTQ1FLSUd6TnA2UExzc0E2Vnd2VmhiY3dpb2JYaTQzTEZLVQ?oc=5",
         "date": "08/24 22:13"
+      },
+      {
+        "type": "positive",
+        "title": "Stock Market Today: Dow Jumps 875 Points, Broadcom Plunges; Ciena Slammed Yet Holds Its 50-Day",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVR4OEIzekJWLXE1b1E4ZkxiRVpveXN2TjJTR0RJNXR0ZWU5eWZhLVM2ZElzQ1dfZHl0RmEwZUdTaDNYTGVaSXhyR1BpallrQWdZMXcyZWRwZjBvLUJjR2dnc3lka3RkcUJTN2t3Tl96YmxkVEFDRENXazEwN3RzVkh6UlFDZEV1eWhtODhKd2U4VGFlRkdCZl9ENXRQcWdVTUdCaWIxVUNJVXQ4cTBGWnd3?oc=5",
+        "date": "06/04 16:00"
+      },
+      {
+        "type": "positive",
+        "title": "Broadcom’s AI Boom: Is a 2x Stock Gain Still Within Reach?",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXF4eWdXSkF3VnQ2ekhwR19KVnJnNEtVLVBBbHlEQWQydHFBQ1VEdjhUVm5mZ19BaXJtV1RwTGdybFNDZUFIWno2UE94SlZWc09HSVJCS2U5dFFaYVBBaEVNVkFvbF85T1U4Ulp4R2R5RzZMcW9OT01OTGFydkR3aFZqSlBEOXpnY09oQmRJM011clZMZktnQ1dUVjN2RHc0?oc=5",
+        "date": "08/22 02:00"
       }
     ],
     "BE": [
@@ -941,17 +944,17 @@
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0ozaWt2YmlTWEhPRUZpT0xza3QtVGhRaFEyb1RKVUlNM2lrWGVmQnc3eVpDYnBfeTBPclp6VGpMNFhuZDNTSFVPa3V4NjhVQURfM0gwdXM3N2NhNFpjY0hrZ1RLRlRjMG9oMXczdzNuU2Q3V3BLaHV0NU9HSFRQRDdlZ0lqcGYzaVE?oc=5",
-        "date": "08/25 03:29"
-      },
-      {
-        "type": "neutral",
         "title": "Here’s How Much You Would Have Made Owning Alphabet Stock In The Last 15 Years",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdktaTVVXYS0yRHEzX2phT3RHbVJTQmk1VnlaQzdWOHVCcTcwZExZckwxNDFEdWIxelV2WTlrRWdPX1dMTm5fNVdOUFBiYklZaVNIVUxxVGxyRE1iVXhZYklsYWNXc2NaS1NjTl84eC1nVzQ3MVRPcFo2MHFqRUNJR0FhbFdzT1Y0TTI2bkY4RUJqb2pJTXU0YUpCYjlBd0N3UWZPYnNIRGt3S0QzdmFaRzllQzQ0WVE?oc=5",
         "date": "08/25 00:15"
+      },
+      {
+        "type": "neutral",
+        "title": "Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings",
+        "publisher": "Barron's",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0ozaWt2YmlTWEhPRUZpT0xza3QtVGhRaFEyb1RKVUlNM2lrWGVmQnc3eVpDYnBfeTBPclp6VGpMNFhuZDNTSFVPa3V4NjhVQURfM0gwdXM3N2NhNFpjY0hrZ1RLRlRjMG9oMXczdzNuU2Q3V3BLaHV0NU9HSFRQRDdlZ0lqcGYzaVE?oc=5",
+        "date": "08/25 03:29"
       },
       {
         "type": "neutral",
@@ -1000,18 +1003,18 @@
     ],
     "VRT": [
       {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Passes the Affordable Growth Screen",
-        "publisher": "ChartMill",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaF9jcXpTeHRYQWJSRTdFckFPb2drU2RTRHBpRmNLajFXYi1FQk5FbUtWRzB4cFlwTlVybmFBMWpTM0E1V0xBck5ucXZvVHZOaEYzcjNtdWhqZHVqMkxmaVBIYTRHUkFURzRlTXd5MzU5Vi1jb1lRcHNFMzJsbDVPcVprbnRXTlVGSmhxN2txaUEwQzd6RVF1ZUNBTm5CdVpYT0JR?oc=5",
-        "date": "08/24 18:02"
-      },
-      {
         "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
         "date": "08/05 16:00"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv (NYSE:VRT) Passes the Affordable Growth Screen",
+        "publisher": "ChartMill",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaF9jcXpTeHRYQWJSRTdFckFPb2drU2RTRHBpRmNLajFXYi1FQk5FbUtWRzB4cFlwTlVybmFBMWpTM0E1V0xBck5ucXZvVHZOaEYzcjNtdWhqZHVqMkxmaVBIYTRHUkFURzRlTXd5MzU5Vi1jb1lRcHNFMzJsbDVPcVprbnRXTlVGSmhxN2txaUEwQzd6RVF1ZUNBTm5CdVpYT0JR?oc=5",
+        "date": "08/24 18:02"
       },
       {
         "type": "neutral",
