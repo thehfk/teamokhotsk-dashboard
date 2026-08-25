@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T02:12:24.363981+00:00",
+  "updatedAt": "2026-08-25T03:24:05.808092+00:00",
   "market": {
     "cards": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "name": "다우존스",
-        "value": 53417.16,
+        "value": 53417.2,
         "change": 0.26
       },
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1381.28,
-        "change": -0.27
+        "value": 1382.48,
+        "change": -0.18
       },
       {
         "name": "KOSPI",
-        "value": 6580.74,
-        "change": -1.74
+        "value": 6548.99,
+        "change": -2.21
       },
       {
         "name": "KOSDAQ",
-        "value": 800.71,
-        "change": -1.55
+        "value": 798.99,
+        "change": -1.76
       }
     ],
     "groups": [
@@ -313,7 +313,7 @@
               53463.05,
               52759.21,
               53277.01,
-              53417.16
+              53417.2
             ]
           }
         ]
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1381.28
+              1382.48
             ]
           }
         ]
@@ -801,7 +801,7 @@
               6852.58,
               6912.95,
               6696.96,
-              6580.74
+              6548.99
             ]
           },
           {
@@ -869,7 +869,7 @@
               840.89,
               801.94,
               813.33,
-              800.71
+              798.99
             ]
           }
         ]
@@ -920,7 +920,7 @@
         "title": "Has BE Stock Peaked Yet? Here’s What Wall Street And Retail Think",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDNMYXh1amxxOWlMOVJVbnk3alZyR05oc2JTY1FxemJJZkdfR0o5UE5oRGNCSGlXejNFcy1leTI5N2RvVGxRQThFUmRYaS11Qm1KaDdUMXB2YWk1NEpJVGRHZjlqTkRzRFNlREZpems5MGpOY1c2NnBKbjRmSTlDSVNIdnZab1o3RGJjVWw3MWo?oc=5",
-        "date": "08/25 01:04"
+        "date": "08/22 04:20"
       },
       {
         "type": "neutral",
@@ -954,17 +954,17 @@
       },
       {
         "type": "neutral",
-        "title": "Here’s How Much You Would Have Made Owning Alphabet Stock In The Last 15 Years",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdktaTVVXYS0yRHEzX2phT3RHbVJTQmk1VnlaQzdWOHVCcTcwZExZckwxNDFEdWIxelV2WTlrRWdPX1dMTm5fNVdOUFBiYklZaVNIVUxxVGxyRE1iVXhZYklsYWNXc2NaS1NjTl84eC1nVzQ3MVRPcFo2MHFqRUNJR0FhbFdzT1Y0TTI2bkY4RUJqb2pJTXU0YUpCYjlBd0N3UWZPYnNIRGt3S0QzdmFaRzllQzQ0WVE?oc=5",
-        "date": "08/25 00:15"
-      },
-      {
-        "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
         "date": "08/24 07:38"
+      },
+      {
+        "type": "neutral",
+        "title": "Here’s How Much You Would Have Made Owning Alphabet Stock In The Last 15 Years",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdktaTVVXYS0yRHEzX2phT3RHbVJTQmk1VnlaQzdWOHVCcTcwZExZckwxNDFEdWIxelV2WTlrRWdPX1dMTm5fNVdOUFBiYklZaVNIVUxxVGxyRE1iVXhZYklsYWNXc2NaS1NjTl84eC1nVzQ3MVRPcFo2MHFqRUNJR0FhbFdzT1Y0TTI2bkY4RUJqb2pJTXU0YUpCYjlBd0N3UWZPYnNIRGt3S0QzdmFaRzllQzQ0WVE?oc=5",
+        "date": "08/25 00:15"
       },
       {
         "type": "neutral",
@@ -991,17 +991,17 @@
       },
       {
         "type": "neutral",
-        "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGluQlFqVzN0RTZJcXp3Yy1nMWpSWFRVWnRlSEs2RXMtZC1BTnREdUkzQUxpNlh0VVNsWGVyRWtJOFJUUXVDNC1GYjFodjlDSkxXdUVqZklwN1JyTGZwLThuRlhucDlSUk9EWTV6emlzZnBwNm5oZDJTeC03UmlreHBPRjhieGxpMU5UYkxBUVRCd3FtdmdDWjd5VVhnaFZOZlRmekc5QQ?oc=5",
-        "date": "08/24 22:30"
-      },
-      {
-        "type": "neutral",
         "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
         "date": "08/06 16:00"
+      },
+      {
+        "type": "neutral",
+        "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGluQlFqVzN0RTZJcXp3Yy1nMWpSWFRVWnRlSEs2RXMtZC1BTnREdUkzQUxpNlh0VVNsWGVyRWtJOFJUUXVDNC1GYjFodjlDSkxXdUVqZklwN1JyTGZwLThuRlhucDlSUk9EWTV6emlzZnBwNm5oZDJTeC03UmlreHBPRjhieGxpMU5UYkxBUVRCd3FtdmdDWjd5VVhnaFZOZlRmekc5QQ?oc=5",
+        "date": "08/24 22:30"
       }
     ],
     "VRT": [
