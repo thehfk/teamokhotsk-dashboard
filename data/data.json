@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-25T17:52:25.847982+00:00",
+  "updatedAt": "2026-08-25T18:24:28.528494+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7667.58,
-        "change": 0.19
+        "value": 7666.86,
+        "change": 0.18
       },
       {
         "name": "NASDAQ",
-        "value": 26104.72,
-        "change": 0.48
+        "value": 26090.49,
+        "change": 0.42
       },
       {
         "name": "다우존스",
-        "value": 53506.48,
-        "change": 0.17
+        "value": 53523.7,
+        "change": 0.2
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.56,
-        "change": -1.83
+        "value": 15.55,
+        "change": -1.89
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1383.02,
-        "change": -0.14
+        "value": 1383.13,
+        "change": -0.13
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7641.16,
               7674.37,
               7652.86,
-              7667.58
+              7666.86
             ]
           },
           {
@@ -248,7 +248,7 @@
               26067.17,
               26180.46,
               25980.19,
-              26104.72
+              26090.49
             ]
           },
           {
@@ -317,7 +317,7 @@
               52759.21,
               53277.01,
               53417.16,
-              53506.48
+              53523.7
             ]
           }
         ]
@@ -459,7 +459,7 @@
               16.01,
               15.13,
               15.85,
-              15.56
+              15.55
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1383.02
+              1383.13
             ]
           }
         ]
@@ -882,21 +882,14 @@
     ]
   },
   "rsi": {
-    "AVGO": 18.0,
-    "BE": 41.1,
-    "GOOGL": 32.3,
-    "QCOM": 53.4,
-    "VRT": 36.4
+    "AVGO": 17.9,
+    "BE": 41.7,
+    "GOOGL": 31.4,
+    "QCOM": 53.1,
+    "VRT": 36.8
   },
   "news": {
     "AVGO": [
-      {
-        "type": "positive",
-        "title": "Broadcom Stock (AVGO) Slips as Credit Default Swaps Jump 28 Basis Points – Here’s Why",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEdNNUFGV01Sb0JNaUhtVDVickJXRmEtcnV6MHMzYjlRSDVicHJSOFZIWEJKYnR2RjF2b2JjWmxsVXF1WjNzcm5pVml2OTlnSVVMMnlzSHZjVzhrZHBRY1Z1TU1BbzROdmh2S0FFZEhMbU55SDM4V3RvaFRwVEZ2LUlCR0tMQnVUZmtDR1pGSzRnbzNZMU1KYk1OVU16MVJxSmxwWF9LcklEOHpzU3JF?oc=5",
-        "date": "08/25 05:40"
-      },
       {
         "type": "neutral",
         "title": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
@@ -913,6 +906,13 @@
       },
       {
         "type": "neutral",
+        "title": "Broadcom Q3 Earnings Preview: I See Continued Margin Contraction (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlRsSGMyaDEzOEhxOHljalpXU2JjNFpjUU1nSWRDRU5yRDNBNDlqU0xhalAxRFFvbldiLUkxaTRpM1hoQ0EyUkpFTWhVV051dWZNazVZd3FtbXpjYzBId1dtclZJZk1zaFMwNFdwVEt3S0Frb0FYOUdWVGphTmJhS3Z3eXA5X25HLVVxWjV1SW1jYXFTTmdjaFQ1SFdSSkJ0U1VuRWs1VQ?oc=5",
+        "date": "08/26 03:06"
+      },
+      {
+        "type": "neutral",
         "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFqQVVmOUxHVkN0NVdKb3VDbnJtZDBpVC1MMmkwak5teGptUEpRTHNuUEwyQkJ6VERzdkVNTzByNTRyQ2JWS2loSWJfUmROME1DUGZOWk5tcVo1ejh6RVJEUXEwTkVQSjhrRzRQdS1IMGVGbUEtQjlkdFFIdDlaYW1RMjR4bU1zMm5KSHNVbXBWLXliYXlJWW54Y3FWcUlXRGhVelJfU1JseWJhM0Y5dnJvUWEySmRZb1VSWFlnNW45bEdB?oc=5",
@@ -921,18 +921,18 @@
     ],
     "BE": [
       {
-        "type": "positive",
-        "title": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmU0Q2Zhd2pyalc2UDJUeFN4VU9PS2lwZHc2Uk1KV2t1RVVXVnhuaDBlbDBnWnhlYmItYXE4ZGpRaVJ2WU5PelJCUm1LTnRUVlhfMnozQ1V2UGk1YmJwUEhvbzVKQWduYWg0YXdXOU5mUGEtLXNhdWxVR3lGcmZvMmpuTE9qUldPbGpPZm1CM0c4OU9hanpKZXFnd2tJbWJTSEE?oc=5",
-        "date": "08/25 14:04"
+        "type": "neutral",
+        "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
+        "date": "08/25 11:39"
       },
       {
-        "type": "neutral",
-        "title": "Nancy Pelosi Made Millions On Nvidia Options. Now She's Betting $3 Million On 1 AI Energy Stock",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXdBMk4zLWdHT3VTbzJvUTRSUE0tRXk5NnRfc1lvUG0wVnVva21Ic19fWlFOU0p4anh0eW9tUGFRLTJfTFY2SExJMF94dnZJY0ljRllER2c2ZUQtc1JEVDdSUDRTS3B6QjFJeW9MZ05sMll4MHpRQkdfWjFuenV6dnpDUzYwXzhZVWFsVlplc0hJOV9zS01vcFFlV1BkS0R0WHFuZWNPMzB1Z2FObDRLR0g2MUoteXdaRXo0TUVrV08zZU9BaGZaQm9rUTkyZUhYQWc?oc=5",
-        "date": "08/25 19:57"
+        "type": "positive",
+        "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
+        "publisher": "The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0tuVzkyV1pGT19zZnpfczR3ZFVpZUNHVzRYRExCaU9tTm1zdVBNekhIbVJZM3lkNk5HNS02dW1acUFkZXlPcnVFYUpyMGJ2WHo0a0psbVFWT2U3R1B0VUh4bVVpNzBjbnQ1cjdvZFJVSFFkUkU3R010d2taN2JBemxGTnpleXZuS1RzQnpmcGxCT2xDWVVlUm1RbHNqRmtmV2tJaXUzZWNQeW9UU1Z2dWxvS0FnT3BoOENfVzRtV1FQUDg?oc=5",
+        "date": "08/26 01:15"
       },
       {
         "type": "neutral",
@@ -942,11 +942,11 @@
         "date": "08/25 23:42"
       },
       {
-        "type": "positive",
-        "title": "BE Stock Is Among Nancy Pelosi’s Latest Trades Worth Up to $13.5 Million",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkQtdkdRMXF3cHZ1VlJvX3p5VUljZUhDV00zNlJOVWI3Zzk5dVVUZ2ZHRHBaQ05rSWQtbG9RcTFGTk9oa3JMeGZqc0E1RC1qbUtWdHRTT3hIa0xVSy1RMlh6ckhxcFRtU19SaW02UTBXbzBlaEhqSG5TVUFmRVExZ3NHbmpnb0g4WU9HVUdQQWpQcVRRUWY0YkhzZmtKZXZtWEE?oc=5",
-        "date": "08/25 00:25"
+        "type": "neutral",
+        "title": "Nancy Pelosi Made Millions On Nvidia Options. Now She's Betting $3 Million On 1 AI Energy Stock",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXdBMk4zLWdHT3VTbzJvUTRSUE0tRXk5NnRfc1lvUG0wVnVva21Ic19fWlFOU0p4anh0eW9tUGFRLTJfTFY2SExJMF94dnZJY0ljRllER2c2ZUQtc1JEVDdSUDRTS3B6QjFJeW9MZ05sMll4MHpRQkdfWjFuenV6dnpDUzYwXzhZVWFsVlplc0hJOV9zS01vcFFlV1BkS0R0WHFuZWNPMzB1Z2FObDRLR0g2MUoteXdaRXo0TUVrV08zZU9BaGZaQm9rUTkyZUhYQWc?oc=5",
+        "date": "08/25 19:57"
       }
     ],
     "GOOGL": [
