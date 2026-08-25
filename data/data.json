@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T09:58:36.972671+00:00",
+  "updatedAt": "2026-08-25T10:31:27.734426+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.82,
-        "change": -0.19
+        "value": 15.88,
+        "change": 0.19
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1383.37,
-        "change": -0.12
+        "value": 1384.07,
+        "change": -0.07
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               16.01,
               15.13,
               15.85,
-              15.82
+              15.88
             ]
           }
         ]
@@ -665,7 +665,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1383.37
+              1384.07
             ]
           }
         ]
@@ -939,11 +939,11 @@
         "date": "08/25 02:14"
       },
       {
-        "type": "positive",
-        "title": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRlpiSE9jX2JFX0RQMTMwUTVIc0pCalJQNkRoTXlDWEg0UlhkZ2w5NVRCLXIzaVZDRG5RamtGenVHWGRBZ2ZWMW5DV0YyNjJtXzdsTXJWOWtfcUlOX2pZRHVuX293ZVlIM0ZDS0tkTXRTZzFRa3F0a0N6cFgzXzJYV3pqaUFFUnA0ay1Mdm8zY3UtYTVkN1VXTEVObURxWVA4MzNIQmdEVjkxTElsV3IzdnlBaXV6eHZPVHlDTkZOVFpLempR?oc=5",
-        "date": "08/25 14:08"
+        "type": "neutral",
+        "title": "Biggest stock movers Tuesday: BE, INTC, and more",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXVqMjZlSmYzV1d6OEhGZ25vV2Y3dmI3MGQ5Z0JPZVBqZnc5SGhUN1k3X01ZelFhUE5wRzhFdS1md2dDVjRxWi1SbWpKTTZ6SDVnb01UZTRPZ0tUM2tMaDNsel93WFh5RTFzMTBtdXNFNXB1M3JlNmJULUM4dFJxaERUZy0xTzNNNUd3?oc=5",
+        "date": "08/25 18:01"
       }
     ],
     "GOOGL": [
@@ -979,17 +979,17 @@
     "QCOM": [
       {
         "type": "neutral",
+        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
+        "date": "08/25 08:42"
+      },
+      {
+        "type": "neutral",
         "title": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
         "publisher": "StockStory",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVi1tZ3NxLXBTaGppdVl2WE1hZ3NNcC1lemYyVGRWX2VzWGFrcTNRbmF6RlpzQkVzR092S0dIclFaOWNjNVdEam10LVhjVlltX3R0UGQ4WGwwZjlwQ3Z0WkhjRkVkUzlUYnVOZ1ZhdkR3VXJad3NReVhOVDdPTUNuY191N05ROGFDamF6UWVBWjhtNzVSUGlydlYxWjl5c2JlLXVlOEdKeGhfNlZ2S1lmaGozajlVR0E?oc=5",
         "date": "08/25 16:33"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
-        "date": "08/24 07:33"
       },
       {
         "type": "positive",
@@ -1000,10 +1000,10 @@
       },
       {
         "type": "neutral",
-        "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGluQlFqVzN0RTZJcXp3Yy1nMWpSWFRVWnRlSEs2RXMtZC1BTnREdUkzQUxpNlh0VVNsWGVyRWtJOFJUUXVDNC1GYjFodjlDSkxXdUVqZklwN1JyTGZwLThuRlhucDlSUk9EWTV6emlzZnBwNm5oZDJTeC03UmlreHBPRjhieGxpMU5UYkxBUVRCd3FtdmdDWjd5VVhnaFZOZlRmekc5QQ?oc=5",
-        "date": "08/24 22:30"
+        "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
+        "date": "08/06 16:00"
       }
     ],
     "VRT": [
