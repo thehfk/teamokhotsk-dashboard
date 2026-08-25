@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T00:40:00.232844+00:00",
+  "updatedAt": "2026-08-25T02:12:24.363981+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1381.88,
-        "change": -0.22
+        "value": 1381.28,
+        "change": -0.27
       },
       {
         "name": "KOSPI",
-        "value": 6423.04,
-        "change": -7.09
+        "value": 6580.74,
+        "change": -1.74
       },
       {
         "name": "KOSDAQ",
-        "value": 783.46,
-        "change": -2.3
+        "value": 800.71,
+        "change": -1.55
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1381.88
+              1381.28
             ]
           }
         ]
@@ -732,6 +732,7 @@
           "08/19",
           "08/20",
           "08/21",
+          "08/24",
           "08/25"
         ],
         "series": [
@@ -799,7 +800,8 @@
               6471.17,
               6852.58,
               6912.95,
-              6423.04
+              6696.96,
+              6580.74
             ]
           },
           {
@@ -866,7 +868,8 @@
               824.46,
               840.89,
               801.94,
-              783.46
+              813.33,
+              800.71
             ]
           }
         ]
@@ -890,6 +893,13 @@
         "date": "08/25 06:34"
       },
       {
+        "type": "negative",
+        "title": "S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week — AVGO, INTC, BE, NVDA, PSKY In Focus",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQWlZyUk01UWpSQmlpUUc0QjB1d0hNemROT2MxUmJIbHJTN1dkMmM5cXRRcGxLUFZ2SGJxQUp4OWFNWFdPR3RRaVdOWmtpdFg1aUFSTFVaUmdEeEJGaUtXNndzd25BTEpxaW1fM0t6WTkzSDd5WUZQT3pja0R0ZTFtMTZxdHlqMld2dzFNZDhDRUxJUTJOQ3kxX0xCb0NGcThHaG90b0ZuN3gyTVpUcEk0N2ZkTFdsME5WMVhueGFpS2ozV0hNS3NNY1o5LTF4QkF1UjUxQzdCc2tPaUljN3U4aFdJdXNyU1BGREp4Nnk4SzVOWDJyT0ZGYS1PNTdqUWRlOHNjeXVYa0xYTk9lbXZYc3FnaWI2REpyckptWQ?oc=5",
+        "date": "08/25 06:52"
+      },
+      {
         "type": "neutral",
         "title": "Broadcom: $100 Billion In AI Revenue Is A Lot To Ask (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
@@ -902,29 +912,15 @@
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVR4OEIzekJWLXE1b1E4ZkxiRVpveXN2TjJTR0RJNXR0ZWU5eWZhLVM2ZElzQ1dfZHl0RmEwZUdTaDNYTGVaSXhyR1BpallrQWdZMXcyZWRwZjBvLUJjR2dnc3lka3RkcUJTN2t3Tl96YmxkVEFDRENXazEwN3RzVkh6UlFDZEV1eWhtODhKd2U4VGFlRkdCZl9ENXRQcWdVTUdCaWIxVUNJVXQ4cTBGWnd3?oc=5",
         "date": "06/04 16:00"
-      },
-      {
-        "type": "positive",
-        "title": "Broadcom’s AI Boom: Is a 2x Stock Gain Still Within Reach?",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXF4eWdXSkF3VnQ2ekhwR19KVnJnNEtVLVBBbHlEQWQydHFBQ1VEdjhUVm5mZ19BaXJtV1RwTGdybFNDZUFIWno2UE94SlZWc09HSVJCS2U5dFFaYVBBaEVNVkFvbF85T1U4Ulp4R2R5RzZMcW9OT01OTGFydkR3aFZqSlBEOXpnY09oQmRJM011clZMZktnQ1dUVjN2RHc0?oc=5",
-        "date": "08/22 02:00"
       }
     ],
     "BE": [
-      {
-        "type": "positive",
-        "title": "Wall Street Analysts See a 36.89% Upside in Bloom Energy (BE): Can the Stock Really Move This High?",
-        "publisher": "Zacks Investment Research",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOXpBbkFtUWYzZU44M25UQ21mb09oVzUwazVsOUR5TEdzUlZjR1BKbTBrQjM4d3UxS29ONWM5ZkJ5MmR2Q0Z1MjgzNFJieVVRbE5VMVpGOXZGWG5TV2o5MVk5TkQzaG0xUldFSmVDV1JESU5HREJXcTA5Sy0tdHVoVklFRGxQdGZEQkxVdHNsZmZhYmpxZkdDQ1dDNFR2WEp3WTM4WlFtWjRkZ1BwVWZOdWl5NkZXSFQ0ckJ2QnJKZ1k0TUloWUxabE9ZUGtZbmc?oc=5",
-        "date": "08/24 22:04"
-      },
       {
         "type": "neutral",
         "title": "Has BE Stock Peaked Yet? Here’s What Wall Street And Retail Think",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDNMYXh1amxxOWlMOVJVbnk3alZyR05oc2JTY1FxemJJZkdfR0o5UE5oRGNCSGlXejNFcy1leTI5N2RvVGxRQThFUmRYaS11Qm1KaDdUMXB2YWk1NEpJVGRHZjlqTkRzRFNlREZpems5MGpOY1c2NnBKbjRmSTlDSVNIdnZab1o3RGJjVWw3MWo?oc=5",
-        "date": "08/22 04:20"
+        "date": "08/25 01:04"
       },
       {
         "type": "neutral",
@@ -939,22 +935,29 @@
         "publisher": "GuruFocus",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXllbGxRRVdCM1ctY3dmVnB2OEJyVGZId0dGTmp4YXFPZEktZm5vZElXaHB6d3BLdEpuSmljRlBBLXBsa3FJcDFtSnRJUWg3VDBaU1l3Y25jV29Hc05MRzNyN1otVzZRWEdKUkNUdnFzdWlUdjN5VkFxcTdQM2E0MGk1cnpHeFlHTzVlbmNNdDBNRXpkWk9yc2d5dmd2SnRPTW10WmJFZTY?oc=5",
         "date": "08/25 02:14"
+      },
+      {
+        "type": "positive",
+        "title": "Bloom Energy Stock Moves Higher: What's Happening?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0dpYUY2QUFocG5BWVdJdFZBMzA3UjZlNm9teTMxM1hTbjJFQmxqUGFoTEpEeUdHMnJ6ZFpKVHY1VjdmbmdVX3BmQ0pkSlJDYVhlbFNZWGFnZFVUeEZTaTdUMjlMR3A4M1BBd3o0OGZyWHJ5M2duNXJfeGtqSUlSQjg3M2lzQXRsTFBIeVRXbmhFNUcydUU5ZTVsdkxiRjdnNVV0QThWY21KbEl6?oc=5",
+        "date": "08/25 02:46"
       }
     ],
     "GOOGL": [
-      {
-        "type": "neutral",
-        "title": "Here’s How Much You Would Have Made Owning Alphabet Stock In The Last 15 Years",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdktaTVVXYS0yRHEzX2phT3RHbVJTQmk1VnlaQzdWOHVCcTcwZExZckwxNDFEdWIxelV2WTlrRWdPX1dMTm5fNVdOUFBiYklZaVNIVUxxVGxyRE1iVXhZYklsYWNXc2NaS1NjTl84eC1nVzQ3MVRPcFo2MHFqRUNJR0FhbFdzT1Y0TTI2bkY4RUJqb2pJTXU0YUpCYjlBd0N3UWZPYnNIRGt3S0QzdmFaRzllQzQ0WVE?oc=5",
-        "date": "08/25 00:15"
-      },
       {
         "type": "neutral",
         "title": "Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings",
         "publisher": "Barron's",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0ozaWt2YmlTWEhPRUZpT0xza3QtVGhRaFEyb1RKVUlNM2lrWGVmQnc3eVpDYnBfeTBPclp6VGpMNFhuZDNTSFVPa3V4NjhVQURfM0gwdXM3N2NhNFpjY0hrZ1RLRlRjMG9oMXczdzNuU2Q3V3BLaHV0NU9HSFRQRDdlZ0lqcGYzaVE?oc=5",
         "date": "08/25 03:29"
+      },
+      {
+        "type": "neutral",
+        "title": "Here’s How Much You Would Have Made Owning Alphabet Stock In The Last 15 Years",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdktaTVVXYS0yRHEzX2phT3RHbVJTQmk1VnlaQzdWOHVCcTcwZExZckwxNDFEdWIxelV2WTlrRWdPX1dMTm5fNVdOUFBiYklZaVNIVUxxVGxyRE1iVXhZYklsYWNXc2NaS1NjTl84eC1nVzQ3MVRPcFo2MHFqRUNJR0FhbFdzT1Y0TTI2bkY4RUJqb2pJTXU0YUpCYjlBd0N3UWZPYnNIRGt3S0QzdmFaRzllQzQ0WVE?oc=5",
+        "date": "08/25 00:15"
       },
       {
         "type": "neutral",
@@ -973,11 +976,11 @@
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "QCOM Stock Slides Premarket: Qualcomm's Dragonfly AI Push Gets Overshadowed By Nvidia's Computex Blitz",
+        "type": "positive",
+        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXBSY0pCWWhxb2ZrZXpVMWFqOGFJcm5jZnE4dEJwa0wwSkUyNTNqTHpzSVBsYkd3cXBZTmZnRUFpUHRUM1B1SmhBdHBqd3UtalBaVG1zTTRnZ1U2ang4NWk3eTQ5TkpuWUdlZHhTcWE2RmxIdmJ5Zl8yMWliY2NUR0hWY0d6ZDg4RC1zZEFyOUlfc1pvOWlOWTVZaHJHT2JiM1M2b1hPRWExbnpnbU9QUE1DU0RmYU9OQlpQYjZnNGE?oc=5",
-        "date": "08/24 14:11"
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
+        "date": "08/24 07:33"
       },
       {
         "type": "positive",
