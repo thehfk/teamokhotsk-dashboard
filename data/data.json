@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-25T18:24:28.528494+00:00",
+  "updatedAt": "2026-08-25T19:06:52.842095+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7666.86,
-        "change": 0.18
+        "value": 7672.27,
+        "change": 0.25
       },
       {
         "name": "NASDAQ",
-        "value": 26090.49,
-        "change": 0.42
+        "value": 26114.35,
+        "change": 0.52
       },
       {
         "name": "다우존스",
-        "value": 53523.7,
-        "change": 0.2
+        "value": 53560.33,
+        "change": 0.27
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.55,
-        "change": -1.89
+        "value": 15.47,
+        "change": -2.4
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1383.13,
-        "change": -0.13
+        "value": 1382.7,
+        "change": -0.16
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7641.16,
               7674.37,
               7652.86,
-              7666.86
+              7672.27
             ]
           },
           {
@@ -248,7 +248,7 @@
               26067.17,
               26180.46,
               25980.19,
-              26090.49
+              26114.35
             ]
           },
           {
@@ -317,7 +317,7 @@
               52759.21,
               53277.01,
               53417.16,
-              53523.7
+              53560.33
             ]
           }
         ]
@@ -459,7 +459,7 @@
               16.01,
               15.13,
               15.85,
-              15.55
+              15.47
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1383.13
+              1382.7
             ]
           }
         ]
@@ -883,10 +883,10 @@
   },
   "rsi": {
     "AVGO": 17.9,
-    "BE": 41.7,
-    "GOOGL": 31.4,
-    "QCOM": 53.1,
-    "VRT": 36.8
+    "BE": 41.6,
+    "GOOGL": 31.8,
+    "QCOM": 53.7,
+    "VRT": 36.1
   },
   "news": {
     "AVGO": [
@@ -898,25 +898,25 @@
         "date": "08/25 06:34"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom’s $60 Billion AI Debt Deal Hides a $370 Billion Question Nobody on Wall Street Wants to Answer",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHdKOGtDbHF4MDVxbk4xSG5WTWFvSjhQNjJoU1dvUUkza3dOTWtVWGNwbm1SMVJ2VEtrckVQTUJSdkpFTXNFbDZldEhndkg5ckpPLVBkeWFvYnZ0TDloZC12cGdkcXlEajktMGdzVzN2aTMtZlV2M1NsV3ZQYzEtbFU0ZnR0Qm50RTRBR0g0dFBmNmlJLTNV?oc=5",
-        "date": "08/24 22:59"
+        "type": "negative",
+        "title": "S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week — AVGO, INTC, BE, NVDA, PSKY In Focus",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQWlZyUk01UWpSQmlpUUc0QjB1d0hNemROT2MxUmJIbHJTN1dkMmM5cXRRcGxLUFZ2SGJxQUp4OWFNWFdPR3RRaVdOWmtpdFg1aUFSTFVaUmdEeEJGaUtXNndzd25BTEpxaW1fM0t6WTkzSDd5WUZQT3pja0R0ZTFtMTZxdHlqMld2dzFNZDhDRUxJUTJOQ3kxX0xCb0NGcThHaG90b0ZuN3gyTVpUcEk0N2ZkTFdsME5WMVhueGFpS2ozV0hNS3NNY1o5LTF4QkF1UjUxQzdCc2tPaUljN3U4aFdJdXNyU1BGREp4Nnk4SzVOWDJyT0ZGYS1PNTdqUWRlOHNjeXVYa0xYTk9lbXZYc3FnaWI2REpyckptWQ?oc=5",
+        "date": "08/25 06:52"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom Q3 Earnings Preview: I See Continued Margin Contraction (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlRsSGMyaDEzOEhxOHljalpXU2JjNFpjUU1nSWRDRU5yRDNBNDlqU0xhalAxRFFvbldiLUkxaTRpM1hoQ0EyUkpFTWhVV051dWZNazVZd3FtbXpjYzBId1dtclZJZk1zaFMwNFdwVEt3S0Frb0FYOUdWVGphTmJhS3Z3eXA5X25HLVVxWjV1SW1jYXFTTmdjaFQ1SFdSSkJ0U1VuRWs1VQ?oc=5",
-        "date": "08/26 03:06"
+        "type": "positive",
+        "title": "Stock Market Today: Dow Jumps 875 Points, Broadcom Plunges; Ciena Slammed Yet Holds Its 50-Day",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVR4OEIzekJWLXE1b1E4ZkxiRVpveXN2TjJTR0RJNXR0ZWU5eWZhLVM2ZElzQ1dfZHl0RmEwZUdTaDNYTGVaSXhyR1BpallrQWdZMXcyZWRwZjBvLUJjR2dnc3lka3RkcUJTN2t3Tl96YmxkVEFDRENXazEwN3RzVkh6UlFDZEV1eWhtODhKd2U4VGFlRkdCZl9ENXRQcWdVTUdCaWIxVUNJVXQ4cTBGWnd3?oc=5",
+        "date": "06/04 16:00"
       },
       {
-        "type": "neutral",
-        "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFqQVVmOUxHVkN0NVdKb3VDbnJtZDBpVC1MMmkwak5teGptUEpRTHNuUEwyQkJ6VERzdkVNTzByNTRyQ2JWS2loSWJfUmROME1DUGZOWk5tcVo1ejh6RVJEUXEwTkVQSjhrRzRQdS1IMGVGbUEtQjlkdFFIdDlaYW1RMjR4bU1zMm5KSHNVbXBWLXliYXlJWW54Y3FWcUlXRGhVelJfU1JseWJhM0Y5dnJvUWEySmRZb1VSWFlnNW45bEdB?oc=5",
-        "date": "08/23 04:30"
+        "type": "positive",
+        "title": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUE0tRXNKNTY4QU5BWFVNa3RlUmVmRDBvc0lUQ0xnZkhyT0VETnBjdU9DQWtIa2hIM0VETEFjSGJfaTFQNDlLZThKNEZrbld1ZGl3emJHbGtBZUVMbVFKUHBRU0lpU3JkTXBmYVVDbUNMVlZFT2h2MWdFNGt2ZmUwcmd2bXpmaTdWcWhQRlNpNzloaGZ3TnBzNXAyTUtVZzdwY0VkUUw2R21MMkVweGNOd0k4ZGQ3cXhqanFEQTFjcXFta0djM1MxZG1jMjlqX0FMWUZ0SVdNZnl5d1U?oc=5",
+        "date": "08/25 05:42"
       }
     ],
     "BE": [
@@ -930,9 +930,9 @@
       {
         "type": "positive",
         "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
-        "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0tuVzkyV1pGT19zZnpfczR3ZFVpZUNHVzRYRExCaU9tTm1zdVBNekhIbVJZM3lkNk5HNS02dW1acUFkZXlPcnVFYUpyMGJ2WHo0a0psbVFWT2U3R1B0VUh4bVVpNzBjbnQ1cjdvZFJVSFFkUkU3R010d2taN2JBemxGTnpleXZuS1RzQnpmcGxCT2xDWVVlUm1RbHNqRmtmV2tJaXUzZWNQeW9UU1Z2dWxvS0FnT3BoOENfVzRtV1FQUDg?oc=5",
-        "date": "08/26 01:15"
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVV8yU1NxdnpDUTlzbGVZMjFaRnhtVWdzVmUyUFhIal90c2JGYVF2eV9ZVVpqRGlCdE5rV3phRVFIQ0Vhcm5wcE1FN0pVZER5akFxMmZzeXExQ1VqREl4a0FjZlRHX3lSNEFPM0xyOUszREtZQUlwNzc3dGl3aVR0NGxKTFl4Mm1DX3VaZTFRdU9vYjJJV2lmVmJGMUVfeXU4TEtZa2tB?oc=5",
+        "date": "08/26 01:05"
       },
       {
         "type": "neutral",
