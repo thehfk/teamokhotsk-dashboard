@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T22:51:47.643734+00:00",
+  "updatedAt": "2026-08-25T23:16:38.385395+00:00",
   "market": {
     "cards": [
       {
@@ -29,7 +29,7 @@
       },
       {
         "name": "원달러환율",
-        "value": 1381.86,
+        "value": 1381.91,
         "change": 0.08
       },
       {
@@ -605,7 +605,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1512.83,
               1514.79,
               1505.44,
               1503.11,
@@ -672,7 +671,7 @@
               1390.79,
               1384.98,
               1380.76,
-              1381.86
+              1381.91
             ]
           }
         ]
@@ -923,34 +922,41 @@
     "BE": [
       {
         "type": "positive",
-        "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
-        "publisher": "StockStory",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmhQWEVCZjd0ZHliclRFYy1Ra1hCYlNYcy1YVHdRUjFHVUtkZHdqbUV0ek1xRE9ZNGpPSGFSWENBYmdjUHB4NHNhcEp2TzhxSGZzdkNHVUx1bmZ0cE83bzlkcHFkWVdQRDZkYW5NaUQxYW1SbDluOFNXSlNnTTB4WWNkVnpkdWR1QngyMG9rd1JldGRpSTh0NF9vbGw3b1RxeHowYw?oc=5",
-        "date": "08/26 02:07"
-      },
-      {
-        "type": "positive",
-        "title": "Why Bloom Energy (BE) Stock Is Up Today",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3d2dEMxemdJQkhLS1VIUVNaSFozamxpSjF2S0ppQXVVbWw2MVFUUTlxOXYzd3Q4ZW1zZDVuTzFaQ0ItclRNYW9SQjFvdmNDdmZvYjE0Rm91c1l5Q25kNnhZeFc0cGx0YWRiSlB3Q1lRNXJBc05ERnF0SXhTU3FmdnpB?oc=5",
-        "date": "08/26 00:33"
-      },
-      {
-        "type": "positive",
-        "title": "The Peer-Group Mispricing Sitting On BE Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTh3TS16LTZ5MmE2amdxZzRxVW53TmhuMlJ2aVdrU3p6Sk1tZFNrUFFwc1VhUUpuRHY5Wm1vbVNiWWx1cUd1bzJMTFhtcEllNWdpcDY4WU5SemhGZlZBT3dOY2hYdUhaNXlXLTRVeUJLRmZieUFzUExoVlk1WmpoTS03dmRQN2lBTVBGRFUteDUwSC1jb3A2M2cxV2tqWFliYUpwbURGRQ?oc=5",
-        "date": "08/26 05:02"
+        "title": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmU0Q2Zhd2pyalc2UDJUeFN4VU9PS2lwZHc2Uk1KV2t1RVVXVnhuaDBlbDBnWnhlYmItYXE4ZGpRaVJ2WU5PelJCUm1LTnRUVlhfMnozQ1V2UGk1YmJwUEhvbzVKQWduYWg0YXdXOU5mUGEtLXNhdWxVR3lGcmZvMmpuTE9qUldPbGpPZm1CM0c4OU9hanpKZXFnd2tJbWJTSEE?oc=5",
+        "date": "08/25 14:04"
       },
       {
         "type": "neutral",
-        "title": "Has BE Stock Peaked Yet? Here’s What Wall Street And Retail Think",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDNMYXh1amxxOWlMOVJVbnk3alZyR05oc2JTY1FxemJJZkdfR0o5UE5oRGNCSGlXejNFcy1leTI5N2RvVGxRQThFUmRYaS11Qm1KaDdUMXB2YWk1NEpJVGRHZjlqTkRzRFNlREZpems5MGpOY1c2NnBKbjRmSTlDSVNIdnZab1o3RGJjVWw3MWo?oc=5",
-        "date": "08/25 01:04"
+        "title": "Nancy Pelosi Made Millions On Nvidia Options. Now She's Betting $3 Million On 1 AI Energy Stock",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXdBMk4zLWdHT3VTbzJvUTRSUE0tRXk5NnRfc1lvUG0wVnVva21Ic19fWlFOU0p4anh0eW9tUGFRLTJfTFY2SExJMF94dnZJY0ljRllER2c2ZUQtc1JEVDdSUDRTS3B6QjFJeW9MZ05sMll4MHpRQkdfWjFuenV6dnpDUzYwXzhZVWFsVlplc0hJOV9zS01vcFFlV1BkS0R0WHFuZWNPMzB1Z2FObDRLR0g2MUoteXdaRXo0TUVrV08zZU9BaGZaQm9rUTkyZUhYQWc?oc=5",
+        "date": "08/25 19:57"
+      },
+      {
+        "type": "neutral",
+        "title": "Bloom Energy: Pelosi Buys And Sell-Side Earnings Hikes, Reiterate 'Buy'",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEFnTi1jX2FFN3NrSGJwMTZaVWJoMHhHYTNwRkVRdVllRHAtdVRhdkRRdG1QXzBoNWNyWllCc01QRGl1WmJ3Qjk4SV9ZUU5pZ1pOXzFDM2lrUl9oMmpuZzZta0Y3eVd1YkFHQlRJdEMyYnMxMjZ0eHVHelcxSzY1UmtsS1otQ2Z0OC1MNHRaczFISlZpclFVX3NpNW1KQ3haWVJDb1N0WnFvNlE?oc=5",
+        "date": "08/25 23:42"
+      },
+      {
+        "type": "positive",
+        "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1hlMDB3amRqZHVXdGVCeklyZlNBRmpaY0NQQi1PZXFZU0pJVU9jWEN5ZkpsZDVJOGlEN3ZBNV9jd1ptWXFCSWxrZWxIeXRuSDVXYzJUVDdiM1RUQTBSNnViSWZGbEd1SWhHVl9wSVpRTDhKdHlWMWdLc29JcjhqZUNKekZiTTNoalpFSU9LeEtUMnBUUllpRHRSUQ?oc=5",
+        "date": "08/26 04:18"
       }
     ],
     "GOOGL": [
+      {
+        "type": "positive",
+        "title": "Alphabet (GOOGL) Stock Looks Below Fair Value Despite Strong Earnings Gains",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlBejRUQTZETHJuVVViaG1PN25ZUHlBcndtXzhranc1TXAzX1hFLThlTkI0UHZRQThhRUlzOG94RzJlREJPeHFrTmdQaU5uQ2pUMWdEN0dncWpuLTBRZlRaSkhjbU5jVGZxekRVZDlRRUxFY3JHQ0VqRDktc3htUnZFanduRWV6TFV0QnJSMXVIb21UM0xJbVpmZDQxZw?oc=5",
+        "date": "08/26 03:18"
+      },
       {
         "type": "neutral",
         "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
@@ -971,13 +977,6 @@
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkdBcjdUMHFIcEtiWTlYazlDMHBtdHhvQUg1RFpWNnRlTnc2YndTQ0hvNW1iZmxXWlBmdjZvU3VTWHlpU2VoYmNqSHFOUDZPMzdNV0RzZ0FQQXhKQ0dhMTlpVklldXNZdmw1SjdlcGR4Q1hObUlaMTMxaDB0S1ItYXA2WEdFZFBzMFhtSmhDM3N0QWcxZ18yUUlfemZhRG5JcEVpQ2R3VG1ybXNIQnUzT3hKcUgtdUNLandrc1RR?oc=5",
         "date": "08/25 23:40"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/11 16:00"
       }
     ],
     "QCOM": [
