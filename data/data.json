@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-25T15:11:52.701784+00:00",
+  "updatedAt": "2026-08-25T16:06:28.074346+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7665.11,
-        "change": 0.16
+        "value": 7674.24,
+        "change": 0.28
       },
       {
         "name": "NASDAQ",
-        "value": 26081.59,
-        "change": 0.39
+        "value": 26136.71,
+        "change": 0.6
       },
       {
         "name": "다우존스",
-        "value": 53475.09,
-        "change": 0.11
+        "value": 53515.03,
+        "change": 0.18
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.75,
-        "change": -0.63
+        "value": 15.6,
+        "change": -1.58
       },
       {
         "name": "미국10년금리",
-        "value": 4.65,
-        "change": -1.06
+        "value": 4.64,
+        "change": -1.28
       },
       {
         "name": "원달러환율",
-        "value": 1384.28,
-        "change": -0.05
+        "value": 1383.59,
+        "change": -0.1
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7641.16,
               7674.37,
               7652.86,
-              7665.11
+              7674.24
             ]
           },
           {
@@ -248,7 +248,7 @@
               26067.17,
               26180.46,
               25980.19,
-              26081.59
+              26136.71
             ]
           },
           {
@@ -317,7 +317,7 @@
               52759.21,
               53277.01,
               53417.16,
-              53475.09
+              53515.03
             ]
           }
         ]
@@ -459,7 +459,7 @@
               16.01,
               15.13,
               15.85,
-              15.75
+              15.6
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.7,
               4.74,
               4.7,
-              4.65
+              4.64
             ]
           },
           {
@@ -671,7 +671,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1384.28
+              1383.59
             ]
           }
         ]
@@ -882,11 +882,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 18.9,
-    "BE": 40.7,
-    "GOOGL": 31.6,
-    "QCOM": 53.0,
-    "VRT": 39.1
+    "AVGO": 20.0,
+    "BE": 41.2,
+    "GOOGL": 32.1,
+    "QCOM": 55.0,
+    "VRT": 39.4
   },
   "news": {
     "AVGO": [
@@ -929,6 +929,13 @@
       },
       {
         "type": "neutral",
+        "title": "Bloom Energy Stock: Pelosi Buys And Sell-Side Earnings Hikes, Reiterate Buy (NYSE:BE)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEFnTi1jX2FFN3NrSGJwMTZaVWJoMHhHYTNwRkVRdVllRHAtdVRhdkRRdG1QXzBoNWNyWllCc01QRGl1WmJ3Qjk4SV9ZUU5pZ1pOXzFDM2lrUl9oMmpuZzZta0Y3eVd1YkFHQlRJdEMyYnMxMjZ0eHVHelcxSzY1UmtsS1otQ2Z0OC1MNHRaczFISlZpclFVX3NpNW1KQ3haWVJDb1N0WnFvNlE?oc=5",
+        "date": "08/25 23:42"
+      },
+      {
+        "type": "neutral",
         "title": "Nancy Pelosi Made Millions On Nvidia Options. Now She's Betting $3 Million On 1 AI Energy Stock",
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXdBMk4zLWdHT3VTbzJvUTRSUE0tRXk5NnRfc1lvUG0wVnVva21Ic19fWlFOU0p4anh0eW9tUGFRLTJfTFY2SExJMF94dnZJY0ljRllER2c2ZUQtc1JEVDdSUDRTS3B6QjFJeW9MZ05sMll4MHpRQkdfWjFuenV6dnpDUzYwXzhZVWFsVlplc0hJOV9zS01vcFFlV1BkS0R0WHFuZWNPMzB1Z2FObDRLR0g2MUoteXdaRXo0TUVrV08zZU9BaGZaQm9rUTkyZUhYQWc?oc=5",
@@ -940,22 +947,15 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMS1KNzN0aEtlVFg2a3hIUWpUblpVM0JmWHM1clUyY0dOYXg0OXZ6UXB5S3ptbkJPWUJiSlg2SjU4eHVUS0VpMlUtdTBhSUsxYXFoRlUydmlmYVh6R0lPakVicXZGN2Z3eTRveDBYWG42X0lJS0hmTm8wem5xYVZ6M3B2TEZ3LU5PcFVSQVpQdUFjMUhxVFk1V19OMEQ4Q1F2QVA0S1lyUFNXUG0tcVU0?oc=5",
         "date": "08/25 22:44"
-      },
-      {
-        "type": "neutral",
-        "title": "Biggest stock movers Tuesday: BE, MRNA, DKS, and more",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXVqMjZlSmYzV1d6OEhGZ25vV2Y3dmI3MGQ5Z0JPZVBqZnc5SGhUN1k3X01ZelFhUE5wRzhFdS1md2dDVjRxWi1SbWpKTTZ6SDVnb01UZTRPZ0tUM2tMaDNsel93WFh5RTFzMTBtdXNFNXB1M3JlNmJULUM4dFJxaERUZy0xTzNNNUd3?oc=5",
-        "date": "08/25 22:42"
       }
     ],
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
-        "date": "08/25 10:23"
+        "title": "The Price of Progress for Google Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1BJZWhTTk8yNGtzSW96RXhaR055ajZJOU9zNkxmckc1VWoyQWNHRWRFc0tvaU5aSkxBMzBNekdMcnp2NHBubWFONG03a3RmOGV2WEJSSXNwbUItQlgtY3I5NFh0Zmw3bVpIcHlxeEJNNEFRR2pOQW5aOHYtQ3hmOVBLTXpZUjEyQmxzVXF5SkJvLU5fYmJkVkdXalg1T1g4NEE?oc=5",
+        "date": "08/26 00:43"
       },
       {
         "type": "neutral",
@@ -965,18 +965,18 @@
         "date": "08/25 23:40"
       },
       {
+        "type": "neutral",
+        "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
+        "date": "08/25 10:23"
+      },
+      {
         "type": "negative",
         "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
         "date": "08/11 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
-        "date": "08/23 23:03"
       }
     ],
     "QCOM": [
@@ -996,17 +996,17 @@
       },
       {
         "type": "neutral",
-        "title": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
-        "publisher": "StockStory",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVi1tZ3NxLXBTaGppdVl2WE1hZ3NNcC1lemYyVGRWX2VzWGFrcTNRbmF6RlpzQkVzR092S0dIclFaOWNjNVdEam10LVhjVlltX3R0UGQ4WGwwZjlwQ3Z0WkhjRkVkUzlUYnVOZ1ZhdkR3VXJad3NReVhOVDdPTUNuY191N05ROGFDamF6UWVBWjhtNzVSUGlydlYxWjl5c2JlLXVlOEdKeGhfNlZ2S1lmaGozajlVR0E?oc=5",
-        "date": "08/25 16:33"
-      },
-      {
-        "type": "neutral",
         "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
         "date": "08/06 16:00"
+      },
+      {
+        "type": "neutral",
+        "title": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
+        "publisher": "StockStory",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVi1tZ3NxLXBTaGppdVl2WE1hZ3NNcC1lemYyVGRWX2VzWGFrcTNRbmF6RlpzQkVzR092S0dIclFaOWNjNVdEam10LVhjVlltX3R0UGQ4WGwwZjlwQ3Z0WkhjRkVkUzlUYnVOZ1ZhdkR3VXJad3NReVhOVDdPTUNuY191N05ROGFDamF6UWVBWjhtNzVSUGlydlYxWjl5c2JlLXVlOEdKeGhfNlZ2S1lmaGozajlVR0E?oc=5",
+        "date": "08/25 16:33"
       }
     ],
     "VRT": [
