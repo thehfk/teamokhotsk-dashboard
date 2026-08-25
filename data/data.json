@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T03:24:05.808092+00:00",
+  "updatedAt": "2026-08-25T04:06:05.225219+00:00",
   "market": {
     "cards": [
       {
@@ -14,7 +14,7 @@
       },
       {
         "name": "다우존스",
-        "value": 53417.2,
+        "value": 53417.16,
         "change": 0.26
       },
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1382.48,
-        "change": -0.18
+        "value": 1383.24,
+        "change": -0.13
       },
       {
         "name": "KOSPI",
-        "value": 6548.99,
-        "change": -2.21
+        "value": 6609.27,
+        "change": -1.31
       },
       {
         "name": "KOSDAQ",
-        "value": 798.99,
-        "change": -1.76
+        "value": 809.54,
+        "change": -0.47
       }
     ],
     "groups": [
@@ -313,7 +313,7 @@
               53463.05,
               52759.21,
               53277.01,
-              53417.2
+              53417.16
             ]
           }
         ]
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1382.48
+              1383.24
             ]
           }
         ]
@@ -801,7 +801,7 @@
               6852.58,
               6912.95,
               6696.96,
-              6548.99
+              6609.27
             ]
           },
           {
@@ -869,7 +869,7 @@
               840.89,
               801.94,
               813.33,
-              798.99
+              809.54
             ]
           }
         ]
@@ -920,7 +920,7 @@
         "title": "Has BE Stock Peaked Yet? Here’s What Wall Street And Retail Think",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDNMYXh1amxxOWlMOVJVbnk3alZyR05oc2JTY1FxemJJZkdfR0o5UE5oRGNCSGlXejNFcy1leTI5N2RvVGxRQThFUmRYaS11Qm1KaDdUMXB2YWk1NEpJVGRHZjlqTkRzRFNlREZpems5MGpOY1c2NnBKbjRmSTlDSVNIdnZab1o3RGJjVWw3MWo?oc=5",
-        "date": "08/22 04:20"
+        "date": "08/25 01:04"
       },
       {
         "type": "neutral",
@@ -977,17 +977,17 @@
     "QCOM": [
       {
         "type": "positive",
-        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
-        "date": "08/24 07:33"
-      },
-      {
-        "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
         "date": "08/21 00:09"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
+        "date": "08/22 22:30"
       },
       {
         "type": "neutral",
@@ -1027,11 +1027,11 @@
         "date": "08/22 05:29"
       },
       {
-        "type": "negative",
-        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFRPY2xpV0tUd2dOZEFrMVBBczYtVmpwRzNRTy1mZ2hPeXc5N0puTldfd1o0b2tnNFJpU25zdnFVbXBVeE5IZFcwUjg4YzcxMVREMUFMQkEtYmREOXlELUVqcjlBTFFqZllFRG9vMlVkRDNEZzJzZTVWMk53Vkc5Wjl5N1dJN203QlhCNnhn?oc=5",
-        "date": "08/19 00:36"
+        "type": "neutral",
+        "title": "Financial expert's stock pick of the day: Vertiv Holdings (VRT)",
+        "publisher": "Fox Business",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYy1qMEhzY1cwTDFSMzh6ZkNiOVZQX094NGUzbmlTLXJXTWFWR3dmYlQ3Xy1nY21YOC1JOWUydWlKYkQ5QWJuSkl5Tm51TDlVMkpKaHlwTkVWSnc?oc=5",
+        "date": "07/31 16:00"
       }
     ]
   }
