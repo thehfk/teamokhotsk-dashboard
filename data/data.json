@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T04:06:05.225219+00:00",
+  "updatedAt": "2026-08-25T05:01:35.218809+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1383.24,
-        "change": -0.13
+        "value": 1382.97,
+        "change": -0.15
       },
       {
         "name": "KOSPI",
-        "value": 6609.27,
-        "change": -1.31
+        "value": 6678.97,
+        "change": -0.27
       },
       {
         "name": "KOSDAQ",
-        "value": 809.54,
-        "change": -0.47
+        "value": 818.96,
+        "change": 0.69
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1383.24
+              1382.97
             ]
           }
         ]
@@ -801,7 +801,7 @@
               6852.58,
               6912.95,
               6696.96,
-              6609.27
+              6678.97
             ]
           },
           {
@@ -869,7 +869,7 @@
               840.89,
               801.94,
               813.33,
-              809.54
+              818.96
             ]
           }
         ]
@@ -947,6 +947,13 @@
     "GOOGL": [
       {
         "type": "neutral",
+        "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
+        "date": "08/25 03:00"
+      },
+      {
+        "type": "neutral",
         "title": "Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings",
         "publisher": "Barron's",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0ozaWt2YmlTWEhPRUZpT0xza3QtVGhRaFEyb1RKVUlNM2lrWGVmQnc3eVpDYnBfeTBPclp6VGpMNFhuZDNTSFVPa3V4NjhVQURfM0gwdXM3N2NhNFpjY0hrZ1RLRlRjMG9oMXczdzNuU2Q3V3BLaHV0NU9HSFRQRDdlZ0lqcGYzaVE?oc=5",
@@ -965,29 +972,22 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdktaTVVXYS0yRHEzX2phT3RHbVJTQmk1VnlaQzdWOHVCcTcwZExZckwxNDFEdWIxelV2WTlrRWdPX1dMTm5fNVdOUFBiYklZaVNIVUxxVGxyRE1iVXhZYklsYWNXc2NaS1NjTl84eC1nVzQ3MVRPcFo2MHFqRUNJR0FhbFdzT1Y0TTI2bkY4RUJqb2pJTXU0YUpCYjlBd0N3UWZPYnNIRGt3S0QzdmFaRzllQzQ0WVE?oc=5",
         "date": "08/25 00:15"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
-        "date": "08/23 23:03"
       }
     ],
     "QCOM": [
+      {
+        "type": "positive",
+        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
+        "date": "08/24 07:33"
+      },
       {
         "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
         "date": "08/21 00:09"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "08/22 22:30"
       },
       {
         "type": "neutral",
