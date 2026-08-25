@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:17:36.400120+00:00",
+  "updatedAt": "2026-08-25T20:52:58.395503+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.47,
-        "change": -2.4
+        "value": 15.45,
+        "change": -2.52
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1382.06,
-        "change": 0.09
+        "value": 1381.9,
+        "change": 0.08
       },
       {
         "name": "KOSPI",
@@ -459,7 +459,7 @@
               16.01,
               15.13,
               15.85,
-              15.47
+              15.45
             ]
           }
         ]
@@ -672,7 +672,7 @@
               1390.79,
               1384.98,
               1380.76,
-              1382.06
+              1381.9
             ]
           }
         ]
@@ -913,27 +913,27 @@
         "date": "08/26 03:06"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcnZhNGxyWFA4THJPbWpJTW1hUkp5UzRsSWRfemJnRUFybjhkbVM4T0xjVEVfa2lNVWVhWkhHLWZubFdRM0tMRjJaa01uQXZHRlp0LU9ycTd4WEROQjZTQ3NRVEFtSWhiNnFvLUh2bGctS1dBbUczNGpDSDNCb3ltdEJ4dWhPNGh0emE3eklSSHRZaXliVmw2cEFRR3NyMEp6ZVJpZUJkWFVCSF9GUDZKQVFlWFkwRVRNcHhCeHJEeUhwVXo5bnZKWFU4aGU3eFlQSDBLVUNVeVM?oc=5",
-        "date": "08/24 12:26"
+        "type": "neutral",
+        "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFqQVVmOUxHVkN0NVdKb3VDbnJtZDBpVC1MMmkwak5teGptUEpRTHNuUEwyQkJ6VERzdkVNTzByNTRyQ2JWS2loSWJfUmROME1DUGZOWk5tcVo1ejh6RVJEUXEwTkVQSjhrRzRQdS1IMGVGbUEtQjlkdFFIdDlaYW1RMjR4bU1zMm5KSHNVbXBWLXliYXlJWW54Y3FWcUlXRGhVelJfU1JseWJhM0Y5dnJvUWEySmRZb1VSWFlnNW45bEdB?oc=5",
+        "date": "08/23 04:30"
       }
     ],
     "BE": [
+      {
+        "type": "positive",
+        "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
+        "publisher": "StockStory",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmhQWEVCZjd0ZHliclRFYy1Ra1hCYlNYcy1YVHdRUjFHVUtkZHdqbUV0ek1xRE9ZNGpPSGFSWENBYmdjUHB4NHNhcEp2TzhxSGZzdkNHVUx1bmZ0cE83bzlkcHFkWVdQRDZkYW5NaUQxYW1SbDluOFNXSlNnTTB4WWNkVnpkdWR1QngyMG9rd1JldGRpSTh0NF9vbGw3b1RxeHowYw?oc=5",
+        "date": "08/26 02:07"
+      },
       {
         "type": "positive",
         "title": "Why Bloom Energy (BE) Stock Is Up Today",
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3d2dEMxemdJQkhLS1VIUVNaSFozamxpSjF2S0ppQXVVbWw2MVFUUTlxOXYzd3Q4ZW1zZDVuTzFaQ0ItclRNYW9SQjFvdmNDdmZvYjE0Rm91c1l5Q25kNnhZeFc0cGx0YWRiSlB3Q1lRNXJBc05ERnF0SXhTU3FmdnpB?oc=5",
         "date": "08/26 00:33"
-      },
-      {
-        "type": "positive",
-        "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1hlMDB3amRqZHVXdGVCeklyZlNBRmpaY0NQQi1PZXFZU0pJVU9jWEN5ZkpsZDVJOGlEN3ZBNV9jd1ptWXFCSWxrZWxIeXRuSDVXYzJUVDdiM1RUQTBSNnViSWZGbEd1SWhHVl9wSVpRTDhKdHlWMWdLc29JcjhqZUNKekZiTTNoalpFSU9LeEtUMnBUUllpRHRSUQ?oc=5",
-        "date": "08/26 04:18"
       },
       {
         "type": "positive",
@@ -953,6 +953,13 @@
     "GOOGL": [
       {
         "type": "neutral",
+        "title": "GOOGL Stock Price Today - Alphabet Inc Class A News, Charts, Retail Sentiment",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GV3FIb3o4T1ZMbUZxeGdxTXBNenlYM1FQWWt5X1EySTNJYU9keEN1Y3lFTVYzQTVQUDJTRmR2OUtvOENRbkM0M2dQYw?oc=5",
+        "date": "08/26 05:05"
+      },
+      {
+        "type": "neutral",
         "title": "The Price of Progress for Google Stock",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1BJZWhTTk8yNGtzSW96RXhaR055ajZJOU9zNkxmckc1VWoyQWNHRWRFc0tvaU5aSkxBMzBNekdMcnp2NHBubWFONG03a3RmOGV2WEJSSXNwbUItQlgtY3I5NFh0Zmw3bVpIcHlxeEJNNEFRR2pOQW5aOHYtQ3hmOVBLTXpZUjEyQmxzVXF5SkJvLU5fYmJkVkdXalg1T1g4NEE?oc=5",
@@ -964,13 +971,6 @@
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkdBcjdUMHFIcEtiWTlYazlDMHBtdHhvQUg1RFpWNnRlTnc2YndTQ0hvNW1iZmxXWlBmdjZvU3VTWHlpU2VoYmNqSHFOUDZPMzdNV0RzZ0FQQXhKQ0dhMTlpVklldXNZdmw1SjdlcGR4Q1hObUlaMTMxaDB0S1ItYXA2WEdFZFBzMFhtSmhDM3N0QWcxZ18yUUlfemZhRG5JcEVpQ2R3VG1ybXNIQnUzT3hKcUgtdUNLandrc1RR?oc=5",
         "date": "08/25 23:40"
-      },
-      {
-        "type": "neutral",
-        "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSUxIOE01VFloYzVGaHo3NHpmTjA3T3RfeGE5aG5DaHdzVldtNkJ2LVVlVlREVkV6RXY5T216UzhTZGoyajNWdnExUV9mSlB2aGNoSDctMG9qVzdLT0YwUGZFOTBQdVFYdkFZVDFMTldGQmw1MnhZdVRyQ2JIWGllUkNXTjFSOTVrZEZHeEpyN2RibjFkWW1fdVVPaUFlRGdDeFd2RGduN1lsdzdnaEp1LVdfUldscTdxRmN1bmtEQkxVUFhGLW01cjJsOHNqb1h4UnFtbmcxZi05WEFKN3lyQWtxaFI3YnBhbFZtX19BTzJhYUJ6d1Rzbmp3?oc=5",
-        "date": "08/25 11:38"
       },
       {
         "type": "negative",
