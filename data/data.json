@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-08-25T14:12:23.007104+00:00",
+  "updatedAt": "2026-08-25T15:11:52.701784+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7671.79,
-        "change": 0.25
+        "value": 7665.11,
+        "change": 0.16
       },
       {
         "name": "NASDAQ",
-        "value": 26133.44,
-        "change": 0.59
+        "value": 26081.59,
+        "change": 0.39
       },
       {
         "name": "다우존스",
-        "value": 53445.68,
-        "change": 0.05
+        "value": 53475.09,
+        "change": 0.11
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.86,
-        "change": 0.06
+        "value": 15.75,
+        "change": -0.63
       },
       {
         "name": "미국10년금리",
-        "value": 4.66,
-        "change": -0.85
+        "value": 4.65,
+        "change": -1.06
       },
       {
         "name": "원달러환율",
-        "value": 1384.92,
-        "change": -0.0
+        "value": 1384.28,
+        "change": -0.05
       },
       {
         "name": "KOSPI",
-        "value": 6742.74,
-        "change": 0.68
+        "value": 6696.96,
+        "change": -3.12
       },
       {
         "name": "KOSDAQ",
-        "value": 827.15,
-        "change": 1.7
+        "value": 813.33,
+        "change": 1.42
       }
     ],
     "groups": [
@@ -179,7 +179,7 @@
               7641.16,
               7674.37,
               7652.86,
-              7671.79
+              7665.11
             ]
           },
           {
@@ -248,7 +248,7 @@
               26067.17,
               26180.46,
               25980.19,
-              26133.44
+              26081.59
             ]
           },
           {
@@ -317,7 +317,7 @@
               52759.21,
               53277.01,
               53417.16,
-              53445.68
+              53475.09
             ]
           }
         ]
@@ -459,7 +459,7 @@
               16.01,
               15.13,
               15.85,
-              15.86
+              15.75
             ]
           }
         ]
@@ -599,7 +599,7 @@
               4.7,
               4.74,
               4.7,
-              4.66
+              4.65
             ]
           },
           {
@@ -671,7 +671,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1384.92
+              1384.28
             ]
           }
         ]
@@ -740,8 +740,7 @@
           "08/19",
           "08/20",
           "08/21",
-          "08/24",
-          "08/25"
+          "08/24"
         ],
         "series": [
           {
@@ -808,8 +807,7 @@
               6471.17,
               6852.58,
               6912.95,
-              6696.96,
-              6742.74
+              6696.96
             ]
           },
           {
@@ -876,8 +874,7 @@
               824.46,
               840.89,
               801.94,
-              813.33,
-              827.15
+              813.33
             ]
           }
         ]
@@ -885,11 +882,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 18.3,
-    "BE": 40.3,
-    "GOOGL": 33.2,
-    "QCOM": 53.5,
-    "VRT": 39.9
+    "AVGO": 18.9,
+    "BE": 40.7,
+    "GOOGL": 31.6,
+    "QCOM": 53.0,
+    "VRT": 39.1
   },
   "news": {
     "AVGO": [
@@ -908,18 +905,18 @@
         "date": "08/25 06:34"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcnZhNGxyWFA4THJPbWpJTW1hUkp5UzRsSWRfemJnRUFybjhkbVM4T0xjVEVfa2lNVWVhWkhHLWZubFdRM0tMRjJaa01uQXZHRlp0LU9ycTd4WEROQjZTQ3NRVEFtSWhiNnFvLUh2bGctS1dBbUczNGpDSDNCb3ltdEJ4dWhPNGh0emE3eklSSHRZaXliVmw2cEFRR3NyMEp6ZVJpZUJkWFVCSF9GUDZKQVFlWFkwRVRNcHhCeHJEeUhwVXo5bnZKWFU4aGU3eFlQSDBLVUNVeVM?oc=5",
-        "date": "08/24 12:26"
-      },
-      {
         "type": "neutral",
         "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFqQVVmOUxHVkN0NVdKb3VDbnJtZDBpVC1MMmkwak5teGptUEpRTHNuUEwyQkJ6VERzdkVNTzByNTRyQ2JWS2loSWJfUmROME1DUGZOWk5tcVo1ejh6RVJEUXEwTkVQSjhrRzRQdS1IMGVGbUEtQjlkdFFIdDlaYW1RMjR4bU1zMm5KSHNVbXBWLXliYXlJWW54Y3FWcUlXRGhVelJfU1JseWJhM0Y5dnJvUWEySmRZb1VSWFlnNW45bEdB?oc=5",
         "date": "08/23 04:30"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcnZhNGxyWFA4THJPbWpJTW1hUkp5UzRsSWRfemJnRUFybjhkbVM4T0xjVEVfa2lNVWVhWkhHLWZubFdRM0tMRjJaa01uQXZHRlp0LU9ycTd4WEROQjZTQ3NRVEFtSWhiNnFvLUh2bGctS1dBbUczNGpDSDNCb3ltdEJ4dWhPNGh0emE3eklSSHRZaXliVmw2cEFRR3NyMEp6ZVJpZUJkWFVCSF9GUDZKQVFlWFkwRVRNcHhCeHJEeUhwVXo5bnZKWFU4aGU3eFlQSDBLVUNVeVM?oc=5",
+        "date": "08/24 12:26"
       }
     ],
     "BE": [
@@ -946,10 +943,10 @@
       },
       {
         "type": "neutral",
-        "title": "Has BE Stock Peaked Yet? Here’s What Wall Street And Retail Think",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDNMYXh1amxxOWlMOVJVbnk3alZyR05oc2JTY1FxemJJZkdfR0o5UE5oRGNCSGlXejNFcy1leTI5N2RvVGxRQThFUmRYaS11Qm1KaDdUMXB2YWk1NEpJVGRHZjlqTkRzRFNlREZpems5MGpOY1c2NnBKbjRmSTlDSVNIdnZab1o3RGJjVWw3MWo?oc=5",
-        "date": "08/25 01:04"
+        "title": "Biggest stock movers Tuesday: BE, MRNA, DKS, and more",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXVqMjZlSmYzV1d6OEhGZ25vV2Y3dmI3MGQ5Z0JPZVBqZnc5SGhUN1k3X01ZelFhUE5wRzhFdS1md2dDVjRxWi1SbWpKTTZ6SDVnb01UZTRPZ0tUM2tMaDNsel93WFh5RTFzMTBtdXNFNXB1M3JlNmJULUM4dFJxaERUZy0xTzNNNUd3?oc=5",
+        "date": "08/25 22:42"
       }
     ],
     "GOOGL": [
@@ -959,6 +956,13 @@
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
         "date": "08/25 10:23"
+      },
+      {
+        "type": "neutral",
+        "title": "Google's AI Chip Business Is Booming. Why Gemini 4 Matters More For Google Stock.",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkdBcjdUMHFIcEtiWTlYazlDMHBtdHhvQUg1RFpWNnRlTnc2YndTQ0hvNW1iZmxXWlBmdjZvU3VTWHlpU2VoYmNqSHFOUDZPMzdNV0RzZ0FQQXhKQ0dhMTlpVklldXNZdmw1SjdlcGR4Q1hObUlaMTMxaDB0S1ItYXA2WEdFZFBzMFhtSmhDM3N0QWcxZ18yUUlfemZhRG5JcEVpQ2R3VG1ybXNIQnUzT3hKcUgtdUNLandrc1RR?oc=5",
+        "date": "08/25 23:40"
       },
       {
         "type": "negative",
@@ -973,13 +977,6 @@
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5",
         "date": "08/23 23:03"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL), What Is Behind The Fresh Attention?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWlppZnFoNVY2emZVTGZGeExacm1tYmVuRFF1bzlDSENObnNnSVMwckRzcXRYOS1RX19oWDczUVhqcFF4Q29sYk5WcnFXYXN0SkpocUJDanp3TWZPUGhNbFRfS0FEMkx1ZlpfdDAwN08xcjVxS3c5NENFM2VjUW5oZzd4QXhVdDVBanQwc0hiVl9DWjkzTVBKeFRKV1VNcFJwNC1pNlppYzRkb1Q2eVNRZnJ4Y2rSAboBQVVfeXFMTUZISkVhLVpiS3IxMVo5d0VNc3VMcXNKYnpOcGo2b2lRdlpVS0I0b18zOUR6SmhYS2MxaU9zUlROZWRaZmlsMGN1amxNV3V6QTZ3Z2cyb2JnSFRLRjM2bE5PR18wV3htWnREZ3VRZXlsUzJzdldReE5hNTZHVGRYdWJhaVFWLU1sOXFnTmF2dTFaQ3JVN0RVZ2VtZmUyVG9QVDAteTlCNnNDUkZFQklna0l0R0I1WHNMYjJn?oc=5",
-        "date": "08/25 16:31"
       }
     ],
     "QCOM": [
@@ -1015,6 +1012,13 @@
     "VRT": [
       {
         "type": "neutral",
+        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
+        "date": "08/25 13:44"
+      },
+      {
+        "type": "neutral",
         "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXZBNWYzQ1FXZlFEMVZSbGpkVU43VENfaDVSUmJLTFVGME1lTDRuYmFteGVnSFIySUIxMWhFZ3QwS3haTGdjcGl5WHRQejBRXzlMRXVIWDA4cTVOV3NtOWZMRy00WG9SdXJBN2tzeVNRT0s0UGxjT2FwWTFJUDRJSUxKRUJVdzJZSnJBdk5rN3dydw?oc=5",
@@ -1033,13 +1037,6 @@
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXMwdXNvWGNwWkRtSzJyM3FuSDY3NUZTWmNiSWdudi1KLXlZT2QyZmVKRnB6UlJkVE5qY1ZQbXh0bGJEU1k2WVlUUlFOR0tDSjU3X2hjcUNpbHB3LTRncmVCZDlaUnRDbDlubTkzYnJYWG03SkU2SHN2LW8ydm92OTduOG50bHRqUmFoUUUxei1MeVlzVFY5ZzhqTzdyVUgxMmNNRDU1TktXaURXS0J1SENJWWdodkF3SWtyYVExTVVyY3pjdG40bWdCWW9DeGpuZXV0bGV30gHbAUFVX3lxTE5fNEVxUVg2eGxOTEY4eEJWRnRSVXVsdnB6V0hKeUxZSzhROG9FV202MVdoM1dHeThwZU1nYUxkeGU1VE9IWXp3VExFbVpuWGNYM2Jsd3R1RDFsNnVVTFZnMERDUGZSRktLUGJhMURGQ21rZUNxSWZaSjlFdlZfaFJSVy10UHg4cURMT2p3NUxnNGREeUVNclk3SGdmZDdHN2N3VjBUV0ttOHViT0hyM0pJWDNqQkR4c0I5cGF1NzZPVEd6NjJzLTQ3eWdZS21VQnIxbTdKWUNFYTFHdw?oc=5",
         "date": "08/22 05:29"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Passes the Affordable Growth Screen",
-        "publisher": "ChartMill",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaF9jcXpTeHRYQWJSRTdFckFPb2drU2RTRHBpRmNLajFXYi1FQk5FbUtWRzB4cFlwTlVybmFBMWpTM0E1V0xBck5ucXZvVHZOaEYzcjNtdWhqZHVqMkxmaVBIYTRHUkFURzRlTXd5MzU5Vi1jb1lRcHNFMzJsbDVPcVprbnRXTlVGSmhxN2txaUEwQzd6RVF1ZUNBTm5CdVpYT0JR?oc=5",
-        "date": "08/24 18:02"
       }
     ]
   }
