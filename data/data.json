@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T08:05:16.721522+00:00",
+  "updatedAt": "2026-08-25T09:05:33.718388+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.79,
-        "change": -0.38
+        "value": 15.77,
+        "change": -0.5
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.1,
-        "change": 0.01
+        "value": 1384.83,
+        "change": -0.01
       },
       {
         "name": "KOSPI",
@@ -455,7 +455,7 @@
               16.01,
               15.13,
               15.85,
-              15.79
+              15.77
             ]
           }
         ]
@@ -665,7 +665,7 @@
               1389.4,
               1390.79,
               1384.98,
-              1385.1
+              1384.83
             ]
           }
         ]
@@ -909,11 +909,11 @@
         "date": "08/24 12:26"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom: The Market Has This One Wrong",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM29SeVh0NUJXUWVmNThSYV9QeWFTb21BNVBObjNNUUYteFYtN2hZUHg2Qk9MYnZIYndfVkJoS2NPQU82Y3N4TG4zV2V6NnRNVmtaV3k5VUVISVh5SkZkY05aY1ItN3R4ZURXOWNIbDF2NVNfZ0hOSVRZcnZfQ0c2dUJPY1MwQQ?oc=5",
-        "date": "08/22 17:01"
+        "type": "positive",
+        "title": "Broadcom Stock (AVGO) Slips as Credit Default Swaps Jump 28 Basis Points – Here’s Why",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEdNNUFGV01Sb0JNaUhtVDVickJXRmEtcnV6MHMzYjlRSDVicHJSOFZIWEJKYnR2RjF2b2JjWmxsVXF1WjNzcm5pVml2OTlnSVVMMnlzSHZjVzhrZHBRY1Z1TU1BbzROdmh2S0FFZEhMbU55SDM4V3RvaFRwVEZ2LUlCR0tMQnVUZmtDR1pGSzRnbzNZMU1KYk1OVU16MVJxSmxwWF9LcklEOHpzU3JF?oc=5",
+        "date": "08/25 11:41"
       }
     ],
     "BE": [
@@ -949,17 +949,10 @@
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
+        "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
-        "date": "08/25 03:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "08/24 07:38"
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSUxIOE01VFloYzVGaHo3NHpmTjA3T3RfeGE5aG5DaHdzVldtNkJ2LVVlVlREVkV6RXY5T216UzhTZGoyajNWdnExUV9mSlB2aGNoSDctMG9qVzdLT0YwUGZFOTBQdVFYdkFZVDFMTldGQmw1MnhZdVRyQ2JIWGllUkNXTjFSOTVrZEZHeEpyN2RibjFkWW1fdVVPaUFlRGdDeFd2RGduN1lsdzdnaEp1LVdfUldscTdxRmN1bmtEQkxVUFhGLW01cjJsOHNqb1h4UnFtbmcxZi05WEFKN3lyQWtxaFI3YnBhbFZtX19BTzJhYUJ6d1Rzbmp3?oc=5",
+        "date": "08/25 11:38"
       },
       {
         "type": "neutral",
@@ -967,6 +960,13 @@
         "publisher": "Barron's",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0ozaWt2YmlTWEhPRUZpT0xza3QtVGhRaFEyb1RKVUlNM2lrWGVmQnc3eVpDYnBfeTBPclp6VGpMNFhuZDNTSFVPa3V4NjhVQURfM0gwdXM3N2NhNFpjY0hrZ1RLRlRjMG9oMXczdzNuU2Q3V3BLaHV0NU9HSFRQRDdlZ0lqcGYzaVE?oc=5",
         "date": "08/25 03:29"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/11 16:00"
       },
       {
         "type": "neutral",
@@ -992,18 +992,18 @@
         "date": "08/24 07:33"
       },
       {
-        "type": "neutral",
-        "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGluQlFqVzN0RTZJcXp3Yy1nMWpSWFRVWnRlSEs2RXMtZC1BTnREdUkzQUxpNlh0VVNsWGVyRWtJOFJUUXVDNC1GYjFodjlDSkxXdUVqZklwN1JyTGZwLThuRlhucDlSUk9EWTV6emlzZnBwNm5oZDJTeC03UmlreHBPRjhieGxpMU5UYkxBUVRCd3FtdmdDWjd5VVhnaFZOZlRmekc5QQ?oc=5",
-        "date": "08/24 22:30"
-      },
-      {
         "type": "positive",
         "title": "Is QCOM Stock a Buy as Auto and AI Growth Offset Handset Weakness?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHFBVHlzWUUyaUVVdGVMVzltcWlGaGVmeEIxVnlGREpPMS1KdzJmeXotMmpGbGxYX2M4RW8ySm9nMFptWDl2TDAxOVpQQ1pyQ3M5Yk1QdjNwME9LMFZNYXNvRGpiN3pfdURiVW1YUV9qWE1QSkI2dXc3QVBtaFBrU3NZbC12NUJTWkFyY09Bdlo?oc=5",
         "date": "08/21 00:09"
+      },
+      {
+        "type": "neutral",
+        "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGluQlFqVzN0RTZJcXp3Yy1nMWpSWFRVWnRlSEs2RXMtZC1BTnREdUkzQUxpNlh0VVNsWGVyRWtJOFJUUXVDNC1GYjFodjlDSkxXdUVqZklwN1JyTGZwLThuRlhucDlSUk9EWTV6emlzZnBwNm5oZDJTeC03UmlreHBPRjhieGxpMU5UYkxBUVRCd3FtdmdDWjd5VVhnaFZOZlRmekc5QQ?oc=5",
+        "date": "08/24 22:30"
       }
     ],
     "VRT": [
