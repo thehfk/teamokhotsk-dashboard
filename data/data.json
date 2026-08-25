@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T22:16:14.590364+00:00",
+  "updatedAt": "2026-08-25T22:51:47.643734+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1381.76,
-        "change": 0.07
+        "value": 1381.86,
+        "change": 0.08
       },
       {
         "name": "KOSPI",
@@ -672,7 +672,7 @@
               1390.79,
               1384.98,
               1380.76,
-              1381.76
+              1381.86
             ]
           }
         ]
@@ -953,10 +953,10 @@
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3V5dlBCbldmdHlFOWVMY1NFYl9haF93b0lHT2dNeGlzdExSOUlycERuTWRRd2lnaGw0b2g5MXgwU2ltNklsbzktNm9WdW1MYUZ5Q1lsUzB2anhIandRSDB1d3hValdsandfdjNsbzNMWmtZZC1sYjVRdXdlRnU3R0FhbmFHU1p4X0E?oc=5",
-        "date": "08/24 20:43"
+        "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
+        "date": "08/26 00:24"
       },
       {
         "type": "neutral",
@@ -966,18 +966,18 @@
         "date": "08/26 00:43"
       },
       {
-        "type": "positive",
-        "title": "Google Stock (GOOGL) Trims Gains as Alphabet Launches Gemini AI for Lawyers and Legal Firms",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVRZRnVsS2tfYzFYR3hGcHdwRFFGaFF1eFJ0TkF2dlJPOFg2LTFtVHA5QzZwaFhfZ1Z0aUJwUG41T3JoUUU5ZWtKOVNIdlZoZ0JhQ3FRY0FwX3M2QUtFbHdZMjBieXJBSkpMUXhUeThfM3cyTTZZYWF1eW9BckdONndvLTV5UkxQZ3hlX2N1dVppczlXalo0dVhDdkNPRktHTnBKNWFqb0lLeEQ3VUpDSXI4Y3FiLU94MnBHaTJzSQ?oc=5",
-        "date": "08/26 00:50"
+        "type": "neutral",
+        "title": "Google's AI Chip Business Is Booming. Why Gemini 4 Matters More For Google Stock.",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkdBcjdUMHFIcEtiWTlYazlDMHBtdHhvQUg1RFpWNnRlTnc2YndTQ0hvNW1iZmxXWlBmdjZvU3VTWHlpU2VoYmNqSHFOUDZPMzdNV0RzZ0FQQXhKQ0dhMTlpVklldXNZdmw1SjdlcGR4Q1hObUlaMTMxaDB0S1ItYXA2WEdFZFBzMFhtSmhDM3N0QWcxZ18yUUlfemZhRG5JcEVpQ2R3VG1ybXNIQnUzT3hKcUgtdUNLandrc1RR?oc=5",
+        "date": "08/25 23:40"
       },
       {
-        "type": "neutral",
-        "title": "Here’s How Much You Would Have Made Owning Alphabet Stock In The Last 15 Years",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdktaTVVXYS0yRHEzX2phT3RHbVJTQmk1VnlaQzdWOHVCcTcwZExZckwxNDFEdWIxelV2WTlrRWdPX1dMTm5fNVdOUFBiYklZaVNIVUxxVGxyRE1iVXhZYklsYWNXc2NaS1NjTl84eC1nVzQ3MVRPcFo2MHFqRUNJR0FhbFdzT1Y0TTI2bkY4RUJqb2pJTXU0YUpCYjlBd0N3UWZPYnNIRGt3S0QzdmFaRzllQzQ0WVE?oc=5",
-        "date": "08/25 00:15"
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+        "date": "08/11 16:00"
       }
     ],
     "QCOM": [
