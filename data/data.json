@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-26T12:36:36.277160+00:00",
+  "updatedAt": "2026-08-26T13:45:16.782960+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7677.28,
-        "change": 0.32
+        "value": 7683.06,
+        "change": 0.08
       },
       {
         "name": "NASDAQ",
-        "value": 26151.3,
-        "change": 0.66
+        "value": 26145.98,
+        "change": -0.02
       },
       {
         "name": "다우존스",
-        "value": 53577.4,
-        "change": 0.3
+        "value": 53621.05,
+        "change": 0.08
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.62,
-        "change": 1.1
+        "value": 15.71,
+        "change": 1.68
       },
       {
         "name": "미국10년금리",
-        "value": 4.63,
-        "change": -0.22
+        "value": 4.65,
+        "change": 0.22
       },
       {
         "name": "원달러환율",
-        "value": 1383.94,
-        "change": 0.23
+        "value": 1385.29,
+        "change": 0.33
       },
       {
         "name": "KOSPI",
@@ -110,7 +110,8 @@
           "08/20",
           "08/21",
           "08/24",
-          "08/25"
+          "08/25",
+          "08/26"
         ],
         "series": [
           {
@@ -179,7 +180,8 @@
               7641.16,
               7674.37,
               7652.86,
-              7677.28
+              7677.28,
+              7683.06
             ]
           },
           {
@@ -248,7 +250,8 @@
               26067.17,
               26180.46,
               25980.19,
-              26151.3
+              26151.3,
+              26145.98
             ]
           },
           {
@@ -317,7 +320,8 @@
               52759.21,
               53277.01,
               53417.16,
-              53577.4
+              53577.4,
+              53621.05
             ]
           }
         ]
@@ -459,7 +463,7 @@
               15.13,
               15.85,
               15.45,
-              15.62
+              15.71
             ]
           }
         ]
@@ -601,7 +605,7 @@
               4.74,
               4.7,
               4.64,
-              4.63
+              4.65
             ]
           },
           {
@@ -673,7 +677,7 @@
               1390.79,
               1384.98,
               1380.76,
-              1383.94
+              1385.29
             ]
           }
         ]
@@ -890,11 +894,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 17.9,
-    "BE": 42.1,
-    "GOOGL": 32.3,
-    "QCOM": 54.7,
-    "VRT": 36.3
+    "AVGO": 16.3,
+    "BE": 48.4,
+    "GOOGL": 33.8,
+    "QCOM": 52.7,
+    "VRT": 41.2
   },
   "news": {
     "AVGO": [
@@ -920,11 +924,11 @@
         "date": "08/25 05:42"
       },
       {
-        "type": "positive",
-        "title": "Broadcom Stock (AVGO) Slips as Credit Default Swaps Jump 28 Basis Points – Here’s Why",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEdNNUFGV01Sb0JNaUhtVDVickJXRmEtcnV6MHMzYjlRSDVicHJSOFZIWEJKYnR2RjF2b2JjWmxsVXF1WjNzcm5pVml2OTlnSVVMMnlzSHZjVzhrZHBRY1Z1TU1BbzROdmh2S0FFZEhMbU55SDM4V3RvaFRwVEZ2LUlCR0tMQnVUZmtDR1pGSzRnbzNZMU1KYk1OVU16MVJxSmxwWF9LcklEOHpzU3JF?oc=5",
-        "date": "08/25 11:41"
+        "type": "neutral",
+        "title": "Broadcom: $100 Billion In AI Revenue Is A Lot To Ask (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlZyU3h6QmkxLVhwVXhZRGxQTHVyVEtsU1BqRy1tN0ltRnZsQlQ3TWYtbkR2VnkxQldOZkd6Z2NGbkh6alpvWXRVU2tvblY2ckhWT1dBaDZmbVFOdHZ3VTZoT1pwMnBZanZIWDNTQ1FLSUd6TnA2UExzc0E2Vnd2VmhiY3dpb2JYaTQzTEZLVQ?oc=5",
+        "date": "08/24 22:13"
       }
     ],
     "BE": [
@@ -937,10 +941,10 @@
       },
       {
         "type": "positive",
-        "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
+        "title": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1hlMDB3amRqZHVXdGVCeklyZlNBRmpaY0NQQi1PZXFZU0pJVU9jWEN5ZkpsZDVJOGlEN3ZBNV9jd1ptWXFCSWxrZWxIeXRuSDVXYzJUVDdiM1RUQTBSNnViSWZGbEd1SWhHVl9wSVpRTDhKdHlWMWdLc29JcjhqZUNKekZiTTNoalpFSU9LeEtUMnBUUllpRHRSUQ?oc=5",
-        "date": "08/26 04:18"
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmU0Q2Zhd2pyalc2UDJUeFN4VU9PS2lwZHc2Uk1KV2t1RVVXVnhuaDBlbDBnWnhlYmItYXE4ZGpRaVJ2WU5PelJCUm1LTnRUVlhfMnozQ1V2UGk1YmJwUEhvbzVKQWduYWg0YXdXOU5mUGEtLXNhdWxVR3lGcmZvMmpuTE9qUldPbGpPZm1CM0c4OU9hanpKZXFnd2tJbWJTSEE?oc=5",
+        "date": "08/25 14:04"
       },
       {
         "type": "neutral",
@@ -974,17 +978,17 @@
       },
       {
         "type": "neutral",
+        "title": "Analyst sets Google (GOOGL) stock price target",
+        "publisher": "Finbold",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BbXB6d21fWXFMdS1rc3JUZjc3eEdzX05xdllFRE9McU5lQjI3b1hQWVo3dXNTX2hFWDUyQklkU0dsbkxaT05WaFZBR3Fod2dHempsT2MyYS1mclI5TW54UE81M0NScHdLVGNKekVVNmptZzQ?oc=5",
+        "date": "08/26 22:00"
+      },
+      {
+        "type": "neutral",
         "title": "The Price of Progress for Google Stock",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPal9Oc0doVG8zcjFPbkQxeWdvTW55RmU0dVVfTWVUbjBZTEp4VjNsSFdtR2xQTlRoV2I4RjlCampLNzhPNjN6eXNfcEg3Uy1hdHlfOGVOd3g2U2VsWW1DUURubTh0bEUxM0NQUzdkWGVPcnA1a0hlMkhfNFlhNmVXVWoxUjg0QkVZTUhiTjdRSXlBUQ?oc=5",
         "date": "08/26 00:43"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "08/25 21:24"
       }
     ],
     "QCOM": [
@@ -1004,10 +1008,10 @@
       },
       {
         "type": "positive",
-        "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
+        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
-        "date": "08/26 00:22"
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
+        "date": "08/25 10:28"
       },
       {
         "type": "positive",
@@ -1040,11 +1044,11 @@
         "date": "08/22 05:29"
       },
       {
-        "type": "positive",
-        "title": "Vertiv Holdings Co Stock (VRT) Opened Up by 3.65% on Aug 25: What Signal Does It Send?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHNTSHpQV2JJM2c2cWt6S282UDh0cl9xUG9hemZ6WktLZjlMTzNvZ2pIOHRaRU9lR3h5b1lxckFMTTJ3TldtbVpkYm9EOU1BanAyMFZIVElvUUJGZWRocE5zMFVUVjM2c1B1UURYRkoxZWtwczJHNlItQnJJdE05U2pLLURLOW1OcEE?oc=5",
-        "date": "08/25 22:47"
+        "type": "neutral",
+        "title": "Financial expert's stock pick of the day: Vertiv Holdings (VRT)",
+        "publisher": "Fox Business",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYy1qMEhzY1cwTDFSMzh6ZkNiOVZQX094NGUzbmlTLXJXTWFWR3dmYlQ3Xy1nY21YOC1JOWUydWlKYkQ5QWJuSkl5Tm51TDlVMkpKaHlwTkVWSnc?oc=5",
+        "date": "07/31 16:00"
       }
     ]
   }
