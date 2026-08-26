@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-08-26T14:34:42.518874+00:00",
+  "updatedAt": "2026-08-26T16:09:56.987641+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7669.21,
-        "change": -0.11
+        "value": 7670.83,
+        "change": -0.08
       },
       {
         "name": "NASDAQ",
-        "value": 26054.66,
-        "change": -0.37
+        "value": 26063.22,
+        "change": -0.34
       },
       {
         "name": "다우존스",
-        "value": 53462.89,
+        "value": 53466.28,
         "change": -0.21
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.45,
-        "change": 0.0
+        "value": 15.53,
+        "change": 0.52
       },
       {
         "name": "미국10년금리",
-        "value": 4.67,
-        "change": 0.65
+        "value": 4.66,
+        "change": 0.43
       },
       {
         "name": "원달러환율",
-        "value": 1386.4,
+        "value": 1386.41,
         "change": 0.41
       },
       {
         "name": "KOSPI",
-        "value": 6808.21,
-        "change": 0.97
+        "value": 6742.74,
+        "change": 0.68
       },
       {
         "name": "KOSDAQ",
-        "value": 826.87,
-        "change": -0.03
+        "value": 827.15,
+        "change": 1.7
       }
     ],
     "groups": [
@@ -181,7 +181,7 @@
               7674.37,
               7652.86,
               7677.28,
-              7669.21
+              7670.83
             ]
           },
           {
@@ -251,7 +251,7 @@
               26180.46,
               25980.19,
               26151.3,
-              26054.66
+              26063.22
             ]
           },
           {
@@ -321,7 +321,7 @@
               53277.01,
               53417.16,
               53577.4,
-              53462.89
+              53466.28
             ]
           }
         ]
@@ -463,7 +463,7 @@
               15.13,
               15.85,
               15.45,
-              15.45
+              15.53
             ]
           }
         ]
@@ -605,7 +605,7 @@
               4.74,
               4.7,
               4.64,
-              4.67
+              4.66
             ]
           },
           {
@@ -677,7 +677,7 @@
               1390.79,
               1384.98,
               1380.76,
-              1386.4
+              1386.41
             ]
           }
         ]
@@ -747,8 +747,7 @@
           "08/20",
           "08/21",
           "08/24",
-          "08/25",
-          "08/26"
+          "08/25"
         ],
         "series": [
           {
@@ -816,8 +815,7 @@
               6852.58,
               6912.95,
               6696.96,
-              6742.74,
-              6808.21
+              6742.74
             ]
           },
           {
@@ -885,8 +883,7 @@
               840.89,
               801.94,
               813.33,
-              827.15,
-              826.87
+              827.15
             ]
           }
         ]
@@ -894,11 +891,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 15.2,
-    "BE": 44.6,
-    "GOOGL": 32.0,
-    "QCOM": 50.0,
-    "VRT": 42.6
+    "AVGO": 15.0,
+    "BE": 42.8,
+    "GOOGL": 31.8,
+    "QCOM": 52.5,
+    "VRT": 40.9
   },
   "news": {
     "AVGO": [
@@ -934,17 +931,17 @@
     "BE": [
       {
         "type": "positive",
-        "title": "The Peer-Group Mispricing Sitting On BE Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTh3TS16LTZ5MmE2amdxZzRxVW53TmhuMlJ2aVdrU3p6Sk1tZFNrUFFwc1VhUUpuRHY5Wm1vbVNiWWx1cUd1bzJMTFhtcEllNWdpcDY4WU5SemhGZlZBT3dOY2hYdUhaNXlXLTRVeUJLRmZieUFzUExoVlk1WmpoTS03dmRQN2lBTVBGRFUteDUwSC1jb3A2M2cxV2tqWFliYUpwbURGRQ?oc=5",
-        "date": "08/26 05:02"
-      },
-      {
-        "type": "positive",
         "title": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmU0Q2Zhd2pyalc2UDJUeFN4VU9PS2lwZHc2Uk1KV2t1RVVXVnhuaDBlbDBnWnhlYmItYXE4ZGpRaVJ2WU5PelJCUm1LTnRUVlhfMnozQ1V2UGk1YmJwUEhvbzVKQWduYWg0YXdXOU5mUGEtLXNhdWxVR3lGcmZvMmpuTE9qUldPbGpPZm1CM0c4OU9hanpKZXFnd2tJbWJTSEE?oc=5",
         "date": "08/25 14:04"
+      },
+      {
+        "type": "positive",
+        "title": "The Peer-Group Mispricing Sitting On BE Stock",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTh3TS16LTZ5MmE2amdxZzRxVW53TmhuMlJ2aVdrU3p6Sk1tZFNrUFFwc1VhUUpuRHY5Wm1vbVNiWWx1cUd1bzJMTFhtcEllNWdpcDY4WU5SemhGZlZBT3dOY2hYdUhaNXlXLTRVeUJLRmZieUFzUExoVlk1WmpoTS03dmRQN2lBTVBGRFUteDUwSC1jb3A2M2cxV2tqWFliYUpwbURGRQ?oc=5",
+        "date": "08/26 05:02"
       },
       {
         "type": "neutral",
@@ -954,11 +951,11 @@
         "date": "08/25 23:42"
       },
       {
-        "type": "neutral",
-        "title": "Nancy Pelosi Made Millions On Nvidia Options. Now She's Betting $3 Million On 1 AI Energy Stock",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXdBMk4zLWdHT3VTbzJvUTRSUE0tRXk5NnRfc1lvUG0wVnVva21Ic19fWlFOU0p4anh0eW9tUGFRLTJfTFY2SExJMF94dnZJY0ljRllER2c2ZUQtc1JEVDdSUDRTS3B6QjFJeW9MZ05sMll4MHpRQkdfWjFuenV6dnpDUzYwXzhZVWFsVlplc0hJOV9zS01vcFFlV1BkS0R0WHFuZWNPMzB1Z2FObDRLR0g2MUoteXdaRXo0TUVrV08zZU9BaGZaQm9rUTkyZUhYQWc?oc=5",
-        "date": "08/25 19:57"
+        "type": "positive",
+        "title": "Bloom Energy Stock Rises as Pelosi-Linked Trades Draw Fresh Attention - Bloom Energy (NYSE:BE)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWJpbFFjdmRrNEkyRGlubFVWRnFzZjlsSjM0VnhvbmF6U21hTFRWbDZMU2hNb0hRSFc2MWd0U1IzaEpFNXhCcjllekUtR3RyRUhSUEtMcTBzdHpSRmlaYkF4NkE0aTNaUXhHbnRDSEZfMV9oelJnVzg3V3JSSjl0eHVLTkQ3QUNIUHBVaFh5OWdGam1HQldQYkIyRkswQ2NPdkN1YTF4Q3lNNDB1WkhWamJoV09kTHhBSlBxb3k4Z0dvU08x?oc=5",
+        "date": "08/25 22:52"
       }
     ],
     "GOOGL": [
@@ -967,7 +964,14 @@
         "title": "GOOGL Stock Price Today - Alphabet Inc Class A News, Charts, Retail Sentiment",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GV3FIb3o4T1ZMbUZxeGdxTXBNenlYM1FQWWt5X1EySTNJYU9keEN1Y3lFTVYzQTVQUDJTRmR2OUtvOENRbkM0M2dQYw?oc=5",
-        "date": "08/26 22:14"
+        "date": "08/26 23:29"
+      },
+      {
+        "type": "neutral",
+        "title": "Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock.",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVpwR0k2R2pKUEJGV2RZNGlob0tfaHhGTXBSTFYwWEJHRU9Scm1ubUZMTXJRZ2I5WGt3SWhKMndHQ0lmS18wOVJHSnhHUFF2OXU2QUk5MTlWWUdnckt6bHlMeEx2a0MxWmFfNFVRNGhNRzFXeG50QlZuZGdJNUxueE1CQVU4QzRYUWRn?oc=5",
+        "date": "08/26 23:16"
       },
       {
         "type": "positive",
@@ -975,13 +979,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlBejRUQTZETHJuVVViaG1PN25ZUHlBcndtXzhranc1TXAzX1hFLThlTkI0UHZRQThhRUlzOG94RzJlREJPeHFrTmdQaU5uQ2pUMWdEN0dncWpuLTBRZlRaSkhjbU5jVGZxekRVZDlRRUxFY3JHQ0VqRDktc3htUnZFanduRWV6TFV0QnJSMXVIb21UM0xJbVpmZDQxZw?oc=5",
         "date": "08/26 03:18"
-      },
-      {
-        "type": "neutral",
-        "title": "Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock.",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVpwR0k2R2pKUEJGV2RZNGlob0tfaHhGTXBSTFYwWEJHRU9Scm1ubUZMTXJRZ2I5WGt3SWhKMndHQ0lmS18wOVJHSnhHUFF2OXU2QUk5MTlWWUdnckt6bHlMeEx2a0MxWmFfNFVRNGhNRzFXeG50QlZuZGdJNUxueE1CQVU4QzRYUWRn?oc=5",
-        "date": "08/26 20:45"
       },
       {
         "type": "neutral",
