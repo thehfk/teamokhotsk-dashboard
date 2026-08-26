@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T05:06:13.414775+00:00",
+  "updatedAt": "2026-08-26T05:57:03.615661+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.08,
-        "change": 0.31
+        "value": 1384.28,
+        "change": 0.25
       },
       {
         "name": "KOSPI",
-        "value": 6869.28,
-        "change": 1.88
+        "value": 6828.37,
+        "change": 1.27
       },
       {
         "name": "KOSDAQ",
-        "value": 826.87,
-        "change": -0.03
+        "value": 824.87,
+        "change": -0.28
       }
     ],
     "groups": [
@@ -671,7 +671,7 @@
               1390.79,
               1384.98,
               1380.76,
-              1385.08
+              1384.28
             ]
           }
         ]
@@ -811,7 +811,7 @@
               6912.95,
               6696.96,
               6742.74,
-              6869.28
+              6828.37
             ]
           },
           {
@@ -880,7 +880,7 @@
               801.94,
               813.33,
               827.15,
-              826.87
+              824.87
             ]
           }
         ]
@@ -957,6 +957,13 @@
     ],
     "GOOGL": [
       {
+        "type": "neutral",
+        "title": "GOOGL Stock Price Today - Alphabet Inc Class A News, Charts, Retail Sentiment",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GV3FIb3o4T1ZMbUZxeGdxTXBNenlYM1FQWWt5X1EySTNJYU9keEN1Y3lFTVYzQTVQUDJTRmR2OUtvOENRbkM0M2dQYw?oc=5",
+        "date": "08/26 14:03"
+      },
+      {
         "type": "positive",
         "title": "Alphabet (GOOGL) Stock Looks Below Fair Value Despite Strong Earnings Gains",
         "publisher": "Yahoo Finance",
@@ -967,15 +974,8 @@
         "type": "neutral",
         "title": "The Price of Progress for Google Stock",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPal9Oc0doVG8zcjFPbkQxeWdvTW55RmU0dVVfTWVUbjBZTEp4VjNsSFdtR2xQTlRoV2I4RjlCampLNzhPNjN6eXNfcEg3Uy1hdHlfOGVOd3g2U2VsWW1DUURubTh0bEUxM0NQUzdkWGVPcnA1a0hlMkhfNFlhNmVXVWoxUjg0QkVZTUhiTjdRSXlBUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1BJZWhTTk8yNGtzSW96RXhaR055ajZJOU9zNkxmckc1VWoyQWNHRWRFc0tvaU5aSkxBMzBNekdMcnp2NHBubWFONG03a3RmOGV2WEJSSXNwbUItQlgtY3I5NFh0Zmw3bVpIcHlxeEJNNEFRR2pOQW5aOHYtQ3hmOVBLTXpZUjEyQmxzVXF5SkJvLU5fYmJkVkdXalg1T1g4NEE?oc=5",
         "date": "08/26 00:43"
-      },
-      {
-        "type": "neutral",
-        "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
-        "date": "08/26 00:24"
       },
       {
         "type": "neutral",
@@ -986,13 +986,6 @@
       }
     ],
     "QCOM": [
-      {
-        "type": "neutral",
-        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
-        "date": "08/25 08:42"
-      },
       {
         "type": "neutral",
         "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
@@ -1013,6 +1006,13 @@
         "publisher": "Zacks Investment Research",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWJ1aEphVDhtbXN4UmVTTjNieTJhZjVQQUVSYnlEdkIwaUJoZnNXUlc1N3NKZV9vTktxZ1NOOUxTa0wxVWZRc2dwZGtEdGJBaXdtazRBd0h6c2lsc2RKejQ4T1JrdGc4R1d1b1JSbkFMZlFBQkpERFhyaUpvQUFyY0Z3TW9BVlVueHlPV0Q2ckNNVjY3U2QwRlVPamVwQXZvaWo3REtrX1Y2dw?oc=5",
         "date": "08/04 16:00"
+      },
+      {
+        "type": "neutral",
+        "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGluQlFqVzN0RTZJcXp3Yy1nMWpSWFRVWnRlSEs2RXMtZC1BTnREdUkzQUxpNlh0VVNsWGVyRWtJOFJUUXVDNC1GYjFodjlDSkxXdUVqZklwN1JyTGZwLThuRlhucDlSUk9EWTV6emlzZnBwNm5oZDJTeC03UmlreHBPRjhieGxpMU5UYkxBUVRCd3FtdmdDWjd5VVhnaFZOZlRmekc5QQ?oc=5",
+        "date": "08/24 22:30"
       }
     ],
     "VRT": [
