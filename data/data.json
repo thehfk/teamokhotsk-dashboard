@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:45:36.901803+00:00",
+  "updatedAt": "2026-08-26T00:40:57.612269+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1382.29,
-        "change": 0.11
+        "value": 1384.08,
+        "change": 0.24
       },
       {
         "name": "KOSPI",
-        "value": 6696.96,
-        "change": -3.12
+        "value": 6819.29,
+        "change": 1.83
       },
       {
         "name": "KOSDAQ",
-        "value": 813.33,
-        "change": 1.42
+        "value": 827.78,
+        "change": 1.78
       }
     ],
     "groups": [
@@ -671,7 +671,7 @@
               1390.79,
               1384.98,
               1380.76,
-              1382.29
+              1384.08
             ]
           }
         ]
@@ -740,7 +740,8 @@
           "08/19",
           "08/20",
           "08/21",
-          "08/24"
+          "08/24",
+          "08/26"
         ],
         "series": [
           {
@@ -807,7 +808,8 @@
               6471.17,
               6852.58,
               6912.95,
-              6696.96
+              6696.96,
+              6819.29
             ]
           },
           {
@@ -874,7 +876,8 @@
               824.46,
               840.89,
               801.94,
-              813.33
+              813.33,
+              827.78
             ]
           }
         ]
@@ -905,11 +908,11 @@
         "date": "08/26 06:24"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcnZhNGxyWFA4THJPbWpJTW1hUkp5UzRsSWRfemJnRUFybjhkbVM4T0xjVEVfa2lNVWVhWkhHLWZubFdRM0tMRjJaa01uQXZHRlp0LU9ycTd4WEROQjZTQ3NRVEFtSWhiNnFvLUh2bGctS1dBbUczNGpDSDNCb3ltdEJ4dWhPNGh0emE3eklSSHRZaXliVmw2cEFRR3NyMEp6ZVJpZUJkWFVCSF9GUDZKQVFlWFkwRVRNcHhCeHJEeUhwVXo5bnZKWFU4aGU3eFlQSDBLVUNVeVM?oc=5",
-        "date": "08/24 12:26"
+        "type": "positive",
+        "title": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUE0tRXNKNTY4QU5BWFVNa3RlUmVmRDBvc0lUQ0xnZkhyT0VETnBjdU9DQWtIa2hIM0VETEFjSGJfaTFQNDlLZThKNEZrbld1ZGl3emJHbGtBZUVMbVFKUHBRU0lpU3JkTXBmYVVDbUNMVlZFT2h2MWdFNGt2ZmUwcmd2bXpmaTdWcWhQRlNpNzloaGZ3TnBzNXAyTUtVZzdwY0VkUUw2R21MMkVweGNOd0k4ZGQ3cXhqanFEQTFjcXFta0djM1MxZG1jMjlqX0FMWUZ0SVdNZnl5d1U?oc=5",
+        "date": "08/25 05:48"
       },
       {
         "type": "positive",
@@ -942,20 +945,20 @@
         "date": "08/25 23:42"
       },
       {
-        "type": "positive",
-        "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1hlMDB3amRqZHVXdGVCeklyZlNBRmpaY0NQQi1PZXFZU0pJVU9jWEN5ZkpsZDVJOGlEN3ZBNV9jd1ptWXFCSWxrZWxIeXRuSDVXYzJUVDdiM1RUQTBSNnViSWZGbEd1SWhHVl9wSVpRTDhKdHlWMWdLc29JcjhqZUNKekZiTTNoalpFSU9LeEtUMnBUUllpRHRSUQ?oc=5",
-        "date": "08/26 04:18"
+        "type": "neutral",
+        "title": "Nancy Pelosi Takes Long Positions In BE, INTC Stock",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1ZfaE9Lei1vc1N1N2VWUmtJcWlfWnNYRlFnUXBkNEFWc1liRWU2UGxrNmx3czNIV2had0lrQ0pxWDFMRjRpbklWakczWENCOWRnaDBlZUJYRXlmOGJaaWJzZXU4bnhsdHN5cldNR0JMcVZSMWtHM25BRUNKeUItNFNDYkhKaWZhUWN0S0lpU0ZDdGJBMW16eDRxdVQ5c0Y3aGNkdTRpZFJWdUhRNmNFTDJvZ1c?oc=5",
+        "date": "08/25 03:29"
       }
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
-        "date": "08/26 00:24"
+        "type": "positive",
+        "title": "Alphabet (GOOGL) Stock Looks Below Fair Value Despite Strong Earnings Gains",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlBejRUQTZETHJuVVViaG1PN25ZUHlBcndtXzhranc1TXAzX1hFLThlTkI0UHZRQThhRUlzOG94RzJlREJPeHFrTmdQaU5uQ2pUMWdEN0dncWpuLTBRZlRaSkhjbU5jVGZxekRVZDlRRUxFY3JHQ0VqRDktc3htUnZFanduRWV6TFV0QnJSMXVIb21UM0xJbVpmZDQxZw?oc=5",
+        "date": "08/26 03:18"
       },
       {
         "type": "neutral",
@@ -966,17 +969,17 @@
       },
       {
         "type": "neutral",
+        "title": "GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVW9xZ1RSVnlmM1R6bFVma0lBZzd2bmNObFVsWnhmQnVaNHdEN1FBM2ZZX0JtakFtWEpHazhuUU5UX0FienlVRi1acHVYd2l6U05UQlVkV3ZDZ3NhOG1aekxGTnkxdkxINlJJaEExb1FvMjVKTjZlYnFxdUhyWTIzQWtxSHowYkloYXlESnpEY2hYZEtWMENoVXFVVFpZWlZTaWRudDI0V0pDQURRWFlUcW9OcTNVdE1hYVJGbDh0U3hqUFl0ZlNMbWhqb2RLOGc4QkJsazZsYjV5QmdlM2ZMU3ZVVFF0VTloMDhndHNLMkRpVWV4U2dONDY3eXV1S1dUbnpZ?oc=5",
+        "date": "08/26 00:24"
+      },
+      {
+        "type": "neutral",
         "title": "Google's AI Chip Business Is Booming. Why Gemini 4 Matters More For Google Stock.",
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkdBcjdUMHFIcEtiWTlYazlDMHBtdHhvQUg1RFpWNnRlTnc2YndTQ0hvNW1iZmxXWlBmdjZvU3VTWHlpU2VoYmNqSHFOUDZPMzdNV0RzZ0FQQXhKQ0dhMTlpVklldXNZdmw1SjdlcGR4Q1hObUlaMTMxaDB0S1ItYXA2WEdFZFBzMFhtSmhDM3N0QWcxZ18yUUlfemZhRG5JcEVpQ2R3VG1ybXNIQnUzT3hKcUgtdUNLandrc1RR?oc=5",
         "date": "08/25 23:40"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
-        "date": "08/11 16:00"
       }
     ],
     "QCOM": [
@@ -1002,11 +1005,11 @@
         "date": "08/06 16:00"
       },
       {
-        "type": "neutral",
-        "title": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
-        "publisher": "StockStory",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVi1tZ3NxLXBTaGppdVl2WE1hZ3NNcC1lemYyVGRWX2VzWGFrcTNRbmF6RlpzQkVzR092S0dIclFaOWNjNVdEam10LVhjVlltX3R0UGQ4WGwwZjlwQ3Z0WkhjRkVkUzlUYnVOZ1ZhdkR3VXJad3NReVhOVDdPTUNuY191N05ROGFDamF6UWVBWjhtNzVSUGlydlYxWjl5c2JlLXVlOEdKeGhfNlZ2S1lmaGozajlVR0E?oc=5",
-        "date": "08/25 16:33"
+        "type": "negative",
+        "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
+        "publisher": "Zacks Investment Research",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWJ1aEphVDhtbXN4UmVTTjNieTJhZjVQQUVSYnlEdkIwaUJoZnNXUlc1N3NKZV9vTktxZ1NOOUxTa0wxVWZRc2dwZGtEdGJBaXdtazRBd0h6c2lsc2RKejQ4T1JrdGc4R1d1b1JSbkFMZlFBQkpERFhyaUpvQUFyY0Z3TW9BVlVueHlPV0Q2ckNNVjY3U2QwRlVPamVwQXZvaWo3REtrX1Y2dw?oc=5",
+        "date": "08/04 16:00"
       }
     ],
     "VRT": [
@@ -1025,18 +1028,18 @@
         "date": "08/05 16:00"
       },
       {
-        "type": "positive",
-        "title": "Vertiv Holdings Co Stock (VRT) Opened Up by 3.65% on Aug 25: What Signal Does It Send?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHNTSHpQV2JJM2c2cWt6S282UDh0cl9xUG9hemZ6WktLZjlMTzNvZ2pIOHRaRU9lR3h5b1lxckFMTTJ3TldtbVpkYm9EOU1BanAyMFZIVElvUUJGZWRocE5zMFVUVjM2c1B1UURYRkoxZWtwczJHNlItQnJJdE05U2pLLURLOW1OcEE?oc=5",
-        "date": "08/25 22:47"
-      },
-      {
         "type": "neutral",
         "title": "Vertiv (VRT) Stock Looks Fairly Priced Despite Fraud Investigation News",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXMwdXNvWGNwWkRtSzJyM3FuSDY3NUZTWmNiSWdudi1KLXlZT2QyZmVKRnB6UlJkVE5qY1ZQbXh0bGJEU1k2WVlUUlFOR0tDSjU3X2hjcUNpbHB3LTRncmVCZDlaUnRDbDlubTkzYnJYWG03SkU2SHN2LW8ydm92OTduOG50bHRqUmFoUUUxei1MeVlzVFY5ZzhqTzdyVUgxMmNNRDU1TktXaURXS0J1SENJWWdodkF3SWtyYVExTVVyY3pjdG40bWdCWW9DeGpuZXV0bGV30gHbAUFVX3lxTE5fNEVxUVg2eGxOTEY4eEJWRnRSVXVsdnB6V0hKeUxZSzhROG9FV202MVdoM1dHeThwZU1nYUxkeGU1VE9IWXp3VExFbVpuWGNYM2Jsd3R1RDFsNnVVTFZnMERDUGZSRktLUGJhMURGQ21rZUNxSWZaSjlFdlZfaFJSVy10UHg4cURMT2p3NUxnNGREeUVNclk3SGdmZDdHN2N3VjBUV0ttOHViT0hyM0pJWDNqQkR4c0I5cGF1NzZPVEd6NjJzLTQ3eWdZS21VQnIxbTdKWUNFYTFHdw?oc=5",
         "date": "08/22 05:29"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv Holdings Co Stock (VRT) Opened Up by 3.65% on Aug 25: What Signal Does It Send?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHNTSHpQV2JJM2c2cWt6S282UDh0cl9xUG9hemZ6WktLZjlMTzNvZ2pIOHRaRU9lR3h5b1lxckFMTTJ3TldtbVpkYm9EOU1BanAyMFZIVElvUUJGZWRocE5zMFVUVjM2c1B1UURYRkoxZWtwczJHNlItQnJJdE05U2pLLURLOW1OcEE?oc=5",
+        "date": "08/25 22:47"
       }
     ]
   }
