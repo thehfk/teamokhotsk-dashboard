@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-26T16:09:56.987641+00:00",
+  "updatedAt": "2026-08-26T18:10:40.397022+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7670.83,
-        "change": -0.08
+        "value": 7675.36,
+        "change": -0.03
       },
       {
         "name": "NASDAQ",
-        "value": 26063.22,
-        "change": -0.34
+        "value": 26119.56,
+        "change": -0.12
       },
       {
         "name": "다우존스",
-        "value": 53466.28,
-        "change": -0.21
+        "value": 53448.9,
+        "change": -0.24
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.53,
-        "change": 0.52
+        "value": 15.39,
+        "change": -0.39
       },
       {
         "name": "미국10년금리",
-        "value": 4.66,
-        "change": 0.43
+        "value": 4.67,
+        "change": 0.65
       },
       {
         "name": "원달러환율",
-        "value": 1386.41,
-        "change": 0.41
+        "value": 1385.69,
+        "change": 0.36
       },
       {
         "name": "KOSPI",
@@ -181,7 +181,7 @@
               7674.37,
               7652.86,
               7677.28,
-              7670.83
+              7675.36
             ]
           },
           {
@@ -251,7 +251,7 @@
               26180.46,
               25980.19,
               26151.3,
-              26063.22
+              26119.56
             ]
           },
           {
@@ -321,7 +321,7 @@
               53277.01,
               53417.16,
               53577.4,
-              53466.28
+              53448.9
             ]
           }
         ]
@@ -463,7 +463,7 @@
               15.13,
               15.85,
               15.45,
-              15.53
+              15.39
             ]
           }
         ]
@@ -605,7 +605,7 @@
               4.74,
               4.7,
               4.64,
-              4.66
+              4.67
             ]
           },
           {
@@ -677,7 +677,7 @@
               1390.79,
               1384.98,
               1380.76,
-              1386.41
+              1385.69
             ]
           }
         ]
@@ -891,11 +891,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 15.0,
-    "BE": 42.8,
-    "GOOGL": 31.8,
-    "QCOM": 52.5,
-    "VRT": 40.9
+    "AVGO": 15.4,
+    "BE": 43.9,
+    "GOOGL": 31.9,
+    "QCOM": 53.4,
+    "VRT": 42.2
   },
   "news": {
     "AVGO": [
@@ -931,17 +931,17 @@
     "BE": [
       {
         "type": "positive",
-        "title": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmU0Q2Zhd2pyalc2UDJUeFN4VU9PS2lwZHc2Uk1KV2t1RVVXVnhuaDBlbDBnWnhlYmItYXE4ZGpRaVJ2WU5PelJCUm1LTnRUVlhfMnozQ1V2UGk1YmJwUEhvbzVKQWduYWg0YXdXOU5mUGEtLXNhdWxVR3lGcmZvMmpuTE9qUldPbGpPZm1CM0c4OU9hanpKZXFnd2tJbWJTSEE?oc=5",
-        "date": "08/25 14:04"
-      },
-      {
-        "type": "positive",
         "title": "The Peer-Group Mispricing Sitting On BE Stock",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTh3TS16LTZ5MmE2amdxZzRxVW53TmhuMlJ2aVdrU3p6Sk1tZFNrUFFwc1VhUUpuRHY5Wm1vbVNiWWx1cUd1bzJMTFhtcEllNWdpcDY4WU5SemhGZlZBT3dOY2hYdUhaNXlXLTRVeUJLRmZieUFzUExoVlk1WmpoTS03dmRQN2lBTVBGRFUteDUwSC1jb3A2M2cxV2tqWFliYUpwbURGRQ?oc=5",
         "date": "08/26 05:02"
+      },
+      {
+        "type": "positive",
+        "title": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmU0Q2Zhd2pyalc2UDJUeFN4VU9PS2lwZHc2Uk1KV2t1RVVXVnhuaDBlbDBnWnhlYmItYXE4ZGpRaVJ2WU5PelJCUm1LTnRUVlhfMnozQ1V2UGk1YmJwUEhvbzVKQWduYWg0YXdXOU5mUGEtLXNhdWxVR3lGcmZvMmpuTE9qUldPbGpPZm1CM0c4OU9hanpKZXFnd2tJbWJTSEE?oc=5",
+        "date": "08/25 14:04"
       },
       {
         "type": "neutral",
@@ -964,7 +964,14 @@
         "title": "GOOGL Stock Price Today - Alphabet Inc Class A News, Charts, Retail Sentiment",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GV3FIb3o4T1ZMbUZxeGdxTXBNenlYM1FQWWt5X1EySTNJYU9keEN1Y3lFTVYzQTVQUDJTRmR2OUtvOENRbkM0M2dQYw?oc=5",
-        "date": "08/26 23:29"
+        "date": "08/27 00:09"
+      },
+      {
+        "type": "positive",
+        "title": "Alphabet (GOOGL) Stock May Be 22% Below Fair Value Despite Gemini Enterprise Expansion",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVZvSU9DTUd4b05vVmZDckVYNm02WVlBS1NfS09vY1paNWczN2gtZWk0QzZIOUgtTl9Zd0hJY3Z4cDdIZFFnc05LOFJzcm8zbGlxLTVsaVJST0pEejRqeGEyM1NVbmRuczVXQ0pUdkRBU25pcE1SRndyWVFPWU5zb21TeXZIMDNBZHlHcVZfbko2NktZbHJsVklyOGlJSHdyaHRxOThjT1h4bjU0elA2NzZqMng3cW82VHNqZ0JXdEhwNEHSAcgBQVVfeXFMTVZkazhuczhjVDc3d1pVUTJ1dVBQdnBWU2FiZG4tTGlzZHcycDhxb1NzTGhKanE5Zm1Yc3d1SG0zck5aTWwwUUljQUtzVTQxQUMxeF94d2FWYmRHRmZ5QkEyV0xodldJM2NOMFJ0VFc1WDRtWDlNSnNSM3dUUTBLUUN3NFZEUTdUNGhfVVgyeXhCcndsWkNkU0szQlBnREZKak54LXRXSjVoMkhMSW9zS3VKX055QU9vTzdFR0RSV0xNTzRscFphX1Q?oc=5",
+        "date": "08/27 01:42"
       },
       {
         "type": "neutral",
@@ -979,13 +986,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlBejRUQTZETHJuVVViaG1PN25ZUHlBcndtXzhranc1TXAzX1hFLThlTkI0UHZRQThhRUlzOG94RzJlREJPeHFrTmdQaU5uQ2pUMWdEN0dncWpuLTBRZlRaSkhjbU5jVGZxekRVZDlRRUxFY3JHQ0VqRDktc3htUnZFanduRWV6TFV0QnJSMXVIb21UM0xJbVpmZDQxZw?oc=5",
         "date": "08/26 03:18"
-      },
-      {
-        "type": "neutral",
-        "title": "Analyst sets Google (GOOGL) stock price target",
-        "publisher": "Finbold",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BbXB6d21fWXFMdS1rc3JUZjc3eEdzX05xdllFRE9McU5lQjI3b1hQWVo3dXNTX2hFWDUyQklkU0dsbkxaT05WaFZBR3Fod2dHempsT2MyYS1mclI5TW54UE81M0NScHdLVGNKekVVNmptZzQ?oc=5",
-        "date": "08/26 22:00"
       }
     ],
     "QCOM": [
@@ -1034,18 +1034,18 @@
         "date": "08/05 16:00"
       },
       {
+        "type": "negative",
+        "title": "Vertiv stock plunges 17% after Q2 miss sparks s...",
+        "publisher": "Pluang",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGl4dy1rN05sTjNzX2RkYmtyOHl3OGRMNUIzVi1TSHhrU08xbVUtSlhBbTRmNEJaRXJfMXBITHJmT0lBckQ5WHZXNG1GSFU2RFBZRG0wbTJ2S1p2a0R0cWhwUjBQaHh3R1NLRWRWdXlsWFN3RWM0Vkl5NkxVeGh2SmtwRkZkTFA3THMtTzVWcE1tUQ?oc=5",
+        "date": "08/27 02:15"
+      },
+      {
         "type": "neutral",
         "title": "Vertiv (VRT) Stock Looks Fairly Priced Despite Fraud Investigation News",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXMwdXNvWGNwWkRtSzJyM3FuSDY3NUZTWmNiSWdudi1KLXlZT2QyZmVKRnB6UlJkVE5qY1ZQbXh0bGJEU1k2WVlUUlFOR0tDSjU3X2hjcUNpbHB3LTRncmVCZDlaUnRDbDlubTkzYnJYWG03SkU2SHN2LW8ydm92OTduOG50bHRqUmFoUUUxei1MeVlzVFY5ZzhqTzdyVUgxMmNNRDU1TktXaURXS0J1SENJWWdodkF3SWtyYVExTVVyY3pjdG40bWdCWW9DeGpuZXV0bGV30gHbAUFVX3lxTE5fNEVxUVg2eGxOTEY4eEJWRnRSVXVsdnB6V0hKeUxZSzhROG9FV202MVdoM1dHeThwZU1nYUxkeGU1VE9IWXp3VExFbVpuWGNYM2Jsd3R1RDFsNnVVTFZnMERDUGZSRktLUGJhMURGQ21rZUNxSWZaSjlFdlZfaFJSVy10UHg4cURMT2p3NUxnNGREeUVNclk3SGdmZDdHN2N3VjBUV0ttOHViT0hyM0pJWDNqQkR4c0I5cGF1NzZPVEd6NjJzLTQ3eWdZS21VQnIxbTdKWUNFYTFHdw?oc=5",
         "date": "08/22 05:29"
-      },
-      {
-        "type": "neutral",
-        "title": "Financial expert's stock pick of the day: Vertiv Holdings (VRT)",
-        "publisher": "Fox Business",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYy1qMEhzY1cwTDFSMzh6ZkNiOVZQX094NGUzbmlTLXJXTWFWR3dmYlQ3Xy1nY21YOC1JOWUydWlKYkQ5QWJuSkl5Tm51TDlVMkpKaHlwTkVWSnc?oc=5",
-        "date": "07/31 16:00"
       }
     ]
   }
