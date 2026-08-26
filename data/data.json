@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-26T13:45:16.782960+00:00",
+  "updatedAt": "2026-08-26T14:34:42.518874+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7683.06,
-        "change": 0.08
+        "value": 7669.21,
+        "change": -0.11
       },
       {
         "name": "NASDAQ",
-        "value": 26145.98,
-        "change": -0.02
+        "value": 26054.66,
+        "change": -0.37
       },
       {
         "name": "다우존스",
-        "value": 53621.05,
-        "change": 0.08
+        "value": 53462.89,
+        "change": -0.21
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.71,
-        "change": 1.68
+        "value": 15.45,
+        "change": 0.0
       },
       {
         "name": "미국10년금리",
-        "value": 4.65,
-        "change": 0.22
+        "value": 4.67,
+        "change": 0.65
       },
       {
         "name": "원달러환율",
-        "value": 1385.29,
-        "change": 0.33
+        "value": 1386.4,
+        "change": 0.41
       },
       {
         "name": "KOSPI",
@@ -181,7 +181,7 @@
               7674.37,
               7652.86,
               7677.28,
-              7683.06
+              7669.21
             ]
           },
           {
@@ -251,7 +251,7 @@
               26180.46,
               25980.19,
               26151.3,
-              26145.98
+              26054.66
             ]
           },
           {
@@ -321,7 +321,7 @@
               53277.01,
               53417.16,
               53577.4,
-              53621.05
+              53462.89
             ]
           }
         ]
@@ -463,7 +463,7 @@
               15.13,
               15.85,
               15.45,
-              15.71
+              15.45
             ]
           }
         ]
@@ -605,7 +605,7 @@
               4.74,
               4.7,
               4.64,
-              4.65
+              4.67
             ]
           },
           {
@@ -677,7 +677,7 @@
               1390.79,
               1384.98,
               1380.76,
-              1385.29
+              1386.4
             ]
           }
         ]
@@ -894,11 +894,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 16.3,
-    "BE": 48.4,
-    "GOOGL": 33.8,
-    "QCOM": 52.7,
-    "VRT": 41.2
+    "AVGO": 15.2,
+    "BE": 44.6,
+    "GOOGL": 32.0,
+    "QCOM": 50.0,
+    "VRT": 42.6
   },
   "news": {
     "AVGO": [
@@ -948,20 +948,27 @@
       },
       {
         "type": "neutral",
-        "title": "Nancy Pelosi Made Millions On Nvidia Options. Now She's Betting $3 Million On 1 AI Energy Stock",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXdBMk4zLWdHT3VTbzJvUTRSUE0tRXk5NnRfc1lvUG0wVnVva21Ic19fWlFOU0p4anh0eW9tUGFRLTJfTFY2SExJMF94dnZJY0ljRllER2c2ZUQtc1JEVDdSUDRTS3B6QjFJeW9MZ05sMll4MHpRQkdfWjFuenV6dnpDUzYwXzhZVWFsVlplc0hJOV9zS01vcFFlV1BkS0R0WHFuZWNPMzB1Z2FObDRLR0g2MUoteXdaRXo0TUVrV08zZU9BaGZaQm9rUTkyZUhYQWc?oc=5",
-        "date": "08/25 19:57"
-      },
-      {
-        "type": "neutral",
         "title": "Bloom Energy: Pelosi Buys And Sell-Side Earnings Hikes, Reiterate 'Buy'",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEFnTi1jX2FFN3NrSGJwMTZaVWJoMHhHYTNwRkVRdVllRHAtdVRhdkRRdG1QXzBoNWNyWllCc01QRGl1WmJ3Qjk4SV9ZUU5pZ1pOXzFDM2lrUl9oMmpuZzZta0Y3eVd1YkFHQlRJdEMyYnMxMjZ0eHVHelcxSzY1UmtsS1otQ2Z0OC1MNHRaczFISlZpclFVX3NpNW1KQ3haWVJDb1N0WnFvNlE?oc=5",
         "date": "08/25 23:42"
+      },
+      {
+        "type": "neutral",
+        "title": "Nancy Pelosi Made Millions On Nvidia Options. Now She's Betting $3 Million On 1 AI Energy Stock",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXdBMk4zLWdHT3VTbzJvUTRSUE0tRXk5NnRfc1lvUG0wVnVva21Ic19fWlFOU0p4anh0eW9tUGFRLTJfTFY2SExJMF94dnZJY0ljRllER2c2ZUQtc1JEVDdSUDRTS3B6QjFJeW9MZ05sMll4MHpRQkdfWjFuenV6dnpDUzYwXzhZVWFsVlplc0hJOV9zS01vcFFlV1BkS0R0WHFuZWNPMzB1Z2FObDRLR0g2MUoteXdaRXo0TUVrV08zZU9BaGZaQm9rUTkyZUhYQWc?oc=5",
+        "date": "08/25 19:57"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "GOOGL Stock Price Today - Alphabet Inc Class A News, Charts, Retail Sentiment",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GV3FIb3o4T1ZMbUZxeGdxTXBNenlYM1FQWWt5X1EySTNJYU9keEN1Y3lFTVYzQTVQUDJTRmR2OUtvOENRbkM0M2dQYw?oc=5",
+        "date": "08/26 22:14"
+      },
       {
         "type": "positive",
         "title": "Alphabet (GOOGL) Stock Looks Below Fair Value Despite Strong Earnings Gains",
@@ -982,13 +989,6 @@
         "publisher": "Finbold",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BbXB6d21fWXFMdS1rc3JUZjc3eEdzX05xdllFRE9McU5lQjI3b1hQWVo3dXNTX2hFWDUyQklkU0dsbkxaT05WaFZBR3Fod2dHempsT2MyYS1mclI5TW54UE81M0NScHdLVGNKekVVNmptZzQ?oc=5",
         "date": "08/26 22:00"
-      },
-      {
-        "type": "neutral",
-        "title": "The Price of Progress for Google Stock",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPal9Oc0doVG8zcjFPbkQxeWdvTW55RmU0dVVfTWVUbjBZTEp4VjNsSFdtR2xQTlRoV2I4RjlCampLNzhPNjN6eXNfcEg3Uy1hdHlfOGVOd3g2U2VsWW1DUURubTh0bEUxM0NQUzdkWGVPcnA1a0hlMkhfNFlhNmVXVWoxUjg0QkVZTUhiTjdRSXlBUQ?oc=5",
-        "date": "08/26 00:43"
       }
     ],
     "QCOM": [
