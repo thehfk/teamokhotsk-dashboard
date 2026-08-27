@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T23:51:17.578045+00:00",
+  "updatedAt": "2026-08-27T05:44:58.817984+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1384.41,
-        "change": 0.21
+        "value": 1379.88,
+        "change": -0.12
       },
       {
         "name": "KOSPI",
-        "value": 6742.74,
-        "change": 0.68
+        "value": 6883.33,
+        "change": 1.1
       },
       {
         "name": "KOSDAQ",
-        "value": 827.15,
-        "change": 1.7
+        "value": 834.2,
+        "change": 0.89
       }
     ],
     "groups": [
@@ -673,7 +673,7 @@
               1384.98,
               1380.76,
               1381.49,
-              1384.41
+              1379.88
             ]
           }
         ]
@@ -681,7 +681,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "05/26",
           "05/27",
           "05/28",
           "05/29",
@@ -743,13 +742,14 @@
           "08/20",
           "08/21",
           "08/24",
-          "08/25"
+          "08/25",
+          "08/26",
+          "08/27"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              8047.51,
               8228.7,
               8185.29,
               8476.15,
@@ -811,13 +811,14 @@
               6852.58,
               6912.95,
               6696.96,
-              6742.74
+              6742.74,
+              6808.21,
+              6883.33
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              1172.52,
               1133.13,
               1104.36,
               1074.8,
@@ -879,7 +880,9 @@
               840.89,
               801.94,
               813.33,
-              827.15
+              827.15,
+              826.87,
+              834.2
             ]
           }
         ]
@@ -917,11 +920,11 @@
         "date": "08/26 06:24"
       },
       {
-        "type": "neutral",
-        "title": "BMO sees writing on the wall for Broadcom stock after earnings",
-        "publisher": "thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRlNteVVFLUh4OU83dTRkOEVjX0hsSVN4Vy1xSHRhMzNYMzhORnJhdDVvaWpFalFKUEVLS1hfX0FyQmxDcWJTSkd1WkppdjNIMEhsZi02LURtcjE0Wlk0cUtpTll1WElHeGVwRXQwbjZQVkRsd0gzUVowdC0xUHZsR1c3dzY0QXBGMy01Z3V0RDNYWXBNYl9EbWFBRkM?oc=5",
-        "date": "08/26 08:17"
+        "type": "positive",
+        "title": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlo3ZE16a0hGZXc2YWtvRW1vWDE0R0JOeGs2VjBieDBWc0JIU1k4eFpoRmF4LWJxNGNsNWdoSjVEdmMxUHpvQzJ4cnpnOWo1Qi04d09ZOGw5N3JLcGJTa1NTbDRKZ2ZyZnNyZmsxMTVPT1o3T1RHZXo0MFlKQm1CeTl6Y1BFdnNXckx4dkVpVmtydTg?oc=5",
+        "date": "08/25 05:42"
       }
     ],
     "BE": [
@@ -934,10 +937,10 @@
       },
       {
         "type": "positive",
-        "title": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
+        "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmU0Q2Zhd2pyalc2UDJUeFN4VU9PS2lwZHc2Uk1KV2t1RVVXVnhuaDBlbDBnWnhlYmItYXE4ZGpRaVJ2WU5PelJCUm1LTnRUVlhfMnozQ1V2UGk1YmJwUEhvbzVKQWduYWg0YXdXOU5mUGEtLXNhdWxVR3lGcmZvMmpuTE9qUldPbGpPZm1CM0c4OU9hanpKZXFnd2tJbWJTSEE?oc=5",
-        "date": "08/25 14:04"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1hlMDB3amRqZHVXdGVCeklyZlNBRmpaY0NQQi1PZXFZU0pJVU9jWEN5ZkpsZDVJOGlEN3ZBNV9jd1ptWXFCSWxrZWxIeXRuSDVXYzJUVDdiM1RUQTBSNnViSWZGbEd1SWhHVl9wSVpRTDhKdHlWMWdLc29JcjhqZUNKekZiTTNoalpFSU9LeEtUMnBUUllpRHRSUQ?oc=5",
+        "date": "08/26 04:18"
       },
       {
         "type": "neutral",
@@ -947,34 +950,27 @@
         "date": "08/25 23:42"
       },
       {
-        "type": "neutral",
-        "title": "Nancy Pelosi makes intriguing first-ever bet on AI power stock",
-        "publisher": "thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSzRvblIyYURDTW95NFpzZzE0VjdJUGxyUTdVWTdCbjBVM1FRbWxjU2FZZGJCYWY4REwxeUE3WnlKYjBNODF4T3ZkNHB5Q3MxUFNtbGZKTzB4eXR5R0VoemlNVXVTaFlMaWhDOGZGNFRTT0pwTy04al9lcWFrN0dDVUR0VWozOXNIZDZZeDZLVkNGMFdxZEc4aHF0SExtSXZC?oc=5",
-        "date": "08/26 05:17"
+        "type": "positive",
+        "title": "BE Stock Is Among Nancy Pelosi’s Latest Trades Worth Up to $13.5 Million",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkQtdkdRMXF3cHZ1VlJvX3p5VUljZUhDV00zNlJOVWI3Zzk5dVVUZ2ZHRHBaQ05rSWQtbG9RcTFGTk9oa3JMeGZqc0E1RC1qbUtWdHRTT3hIa0xVSy1RMlh6ckhxcFRtU19SaW02UTBXbzBlaEhqSG5TVUFmRVExZ3NHbmpnb0g4WU9HVUdQQWpQcVRRUWY0YkhzZmtKZXZtWEE?oc=5",
+        "date": "08/25 00:25"
       }
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Alphabet (GOOGL) Stock May Be 22% Below Fair Value Despite Gemini Enterprise Expansion",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVZvSU9DTUd4b05vVmZDckVYNm02WVlBS1NfS09vY1paNWczN2gtZWk0QzZIOUgtTl9Zd0hJY3Z4cDdIZFFnc05LOFJzcm8zbGlxLTVsaVJST0pEejRqeGEyM1NVbmRuczVXQ0pUdkRBU25pcE1SRndyWVFPWU5zb21TeXZIMDNBZHlHcVZfbko2NktZbHJsVklyOGlJSHdyaHRxOThjT1h4bjU0elA2NzZqMng3cW82VHNqZ0JXdEhwNEHSAcgBQVVfeXFMTVZkazhuczhjVDc3d1pVUTJ1dVBQdnBWU2FiZG4tTGlzZHcycDhxb1NzTGhKanE5Zm1Yc3d1SG0zck5aTWwwUUljQUtzVTQxQUMxeF94d2FWYmRHRmZ5QkEyV0xodldJM2NOMFJ0VFc1WDRtWDlNSnNSM3dUUTBLUUN3NFZEUTdUNGhfVVgyeXhCcndsWkNkU0szQlBnREZKak54LXRXSjVoMkhMSW9zS3VKX055QU9vTzdFR0RSV0xNTzRscFphX1Q?oc=5",
-        "date": "08/27 01:42"
-      },
-      {
-        "type": "positive",
-        "title": "Alphabet (GOOGL) Stock Looks Below Fair Value Despite Strong Earnings Gains",
+        "type": "neutral",
+        "title": "Warren Buffett “Blew It” on Alphabet (GOOGL) And Made It Berkshire’s Third-Biggest Bet",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlBejRUQTZETHJuVVViaG1PN25ZUHlBcndtXzhranc1TXAzX1hFLThlTkI0UHZRQThhRUlzOG94RzJlREJPeHFrTmdQaU5uQ2pUMWdEN0dncWpuLTBRZlRaSkhjbU5jVGZxekRVZDlRRUxFY3JHQ0VqRDktc3htUnZFanduRWV6TFV0QnJSMXVIb21UM0xJbVpmZDQxZw?oc=5",
-        "date": "08/26 03:18"
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONW9YRjVIZFZaYU5ySkZRcmdCWGZvOTlIejhyQlNYc2NQRFB2Tm9FZlg0WFJqU3BZN3BXR1ZSeUhEMDdTSTBiYXFJVzV1bC1jTk5ma2pTd0dsbWt5NVdhZlE3OXZyX1BIYXhmRnBwOGdGcF9UZk9UYW4xeUtSUVE3NDF3TzNyZlZYd0h6RlNxeFRETkE2S2tOekFoX2IwRXUt?oc=5",
+        "date": "08/27 05:23"
       },
       {
         "type": "neutral",
-        "title": "Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock.",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVpwR0k2R2pKUEJGV2RZNGlob0tfaHhGTXBSTFYwWEJHRU9Scm1ubUZMTXJRZ2I5WGt3SWhKMndHQ0lmS18wOVJHSnhHUFF2OXU2QUk5MTlWWUdnckt6bHlMeEx2a0MxWmFfNFVRNGhNRzFXeG50QlZuZGdJNUxueE1CQVU4QzRYUWRn?oc=5",
-        "date": "08/26 23:16"
+        "title": "Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings",
+        "publisher": "Barron's",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3V5dlBCbldmdHlFOWVMY1NFYl9haF93b0lHT2dNeGlzdExSOUlycERuTWRRd2lnaGw0b2g5MXgwU2ltNklsbzktNm9WdW1MYUZ5Q1lsUzB2anhIandRSDB1d3hValdsandfdjNsbzNMWmtZZC1sYjVRdXdlRnU3R0FhbmFHU1p4X0E?oc=5",
+        "date": "08/24 20:43"
       },
       {
         "type": "neutral",
@@ -982,9 +978,23 @@
         "publisher": "Finbold",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BbXB6d21fWXFMdS1rc3JUZjc3eEdzX05xdllFRE9McU5lQjI3b1hQWVo3dXNTX2hFWDUyQklkU0dsbkxaT05WaFZBR3Fod2dHempsT2MyYS1mclI5TW54UE81M0NScHdLVGNKekVVNmptZzQ?oc=5",
         "date": "08/26 22:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Google Stock (GOOGL) Slips Despite Morgan Stanley’s $200 Billion TPU Forecast",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaHBzek5odVRkM1pHcVVjLU44TDBjZ0JvYURVUDljMzFITzZQdTJqdVpUdnhnMjRoT1JnNDZiRl9FT1hpZzY5VEpqR2NMdnE1WHhNQ29OZ1drZUxXM1g4MWE5bFBEdllOY2NrZTdRS2wybjd0bUVTZ1BpSGhBeHhOa0lJOXU4cHp6Yy1oUDEyZURTd2ZCNnFyV3JESS1wM2dCYWNsNi1R?oc=5",
+        "date": "08/26 00:01"
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
+        "date": "08/26 05:35"
+      },
       {
         "type": "positive",
         "title": "Qualcomm’s Costs Are Inside The Guidance And Its Replacement Growth Is Not",
@@ -998,13 +1008,6 @@
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGFqSEc3MUhOdXJqTW12SjNabmEwQzF4VXB0TW5WbWh4ZkhqcUN5MW92SmhFQjFlUzU3aldEVkhoSWZhTGxrVDZUZVZTV0k0dEtJczFQV1lDTkdaQmVzUkU3OXJZZlNTdHljOEdfc0pSalNYV1h1VGpnYmM3NXNkS1dQdG1UY2J4U01hY1dxRXhMLVlObGhkbnN5eFViMkRPXzNNS0trM25Ra1FROVB0Z2UtaUhwbzRCVzJ5d3pSdUFTU0ZsLWVB?oc=5",
         "date": "08/26 20:30"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Hit Record Highs Today – What’s Driving The Super Rally?",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenNfbUR6NGFnM1E0cmJ1LTA4aVBGZzVIUTBzdmZKNno2d0Zlai13RlFXUjZFQU9KaVJDd2hnaWtMeEZobnVCZjVmZjZFX3doOWR5N0c1VF9LSWdnMlNPOE42T19NUG1IamZzYmVzRDg0UHdXZjdReFVBQ1FBNTRQM3lYcGNlUUxhVVNrOURaTE5fTmM4czBKOUh2bGtsdXhuVE5nVENMM3VwcURkZHdDUU5tRko?oc=5",
-        "date": "08/26 00:22"
       },
       {
         "type": "neutral",
