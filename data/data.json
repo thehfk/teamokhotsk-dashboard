@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T21:33:34.936358+00:00",
+  "updatedAt": "2026-08-29T23:41:56.103025+00:00",
   "market": {
     "cards": [
       {
@@ -934,7 +934,7 @@
         "title": "Why Is BE Stock Rebounding After Last Week’s Selloff?",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME5vZVVzS3Y0elJBQlktUUZuc0llRWw2SXJoNGlsSkZkc1B5Rmltdno4dTJaR0d1Q0pnSWRWcV9IOEpuNTQ1UndHb04wSGhaQ3ZNM1dsT2tSSUFjR2drOGZNSi1iV0VfVWhyYjRlS1JBd1AwRk9mcExfZlNwbUVMajdDdTB4ZUxvYVMwRTNDcVR3emFkSmx3RWtHN3l5NDlINEc5am15eEtpV0h4UjBWcjFwaVI?oc=5",
-        "date": "08/29 11:00"
+        "date": "08/30 01:37"
       },
       {
         "type": "neutral",
@@ -944,34 +944,34 @@
         "date": "08/30 01:37"
       },
       {
+        "type": "negative",
+        "title": "Bloom Energy (BE) Stock Looks Reasonable On Cash Flow But Rich On Sales",
+        "publisher": "webull.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Eci1ReXlrcVE1VUo5eFF0U1FJYVJmU3JxZGxqNnY0SkozOVM4ak1GcDNLN2kxQjRnMVdFU25YbTNSQWJmTklUWEF0SHFCR2ViUE0taUwwckI?oc=5",
+        "date": "08/29 18:38"
+      },
+      {
         "type": "neutral",
         "title": "Bloom Energy: 5 Links That Cannot Break",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeDU0NFFWYmdDUVdhbnVONzE4NXctb3BVa0Z4ek1Kc1hwWUNtbVpWMEpwRHVXeWxJdjA5TW5BOWp3eGtyNXd1SlQ3QkdzQ3lQbFZVbjgzQTZkWTE5dTVIQnlYQ25hbGhTcEZ3b1lfOTBpTTJrWVVDSzdrLTdsTlhWVGZXQ2VHdw?oc=5",
         "date": "08/29 18:02"
-      },
-      {
-        "type": "negative",
-        "title": "Bloom Energy (NYSE:BE) Stock Rating Lowered by Wall Street Zen",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVTNMT1ZPbDBQUjlVQ1Mza2RodHlEMHVraWlZU1E5QlpocW52UGpRT1RtemR2NmRpYmZydlllZFRmTEsxbXVqcHZ0TUIwTzNwR1ZTSGQyV0lTLVoyN1UwT3BxZ0UxNXc3VjU4RmZINVdSVXZrTlFNdVBXb1JhZ3NoM3FUUFZYV0hCM081YlAzUDk1Njg5NUk0VURaZFFWN2I3NHBKMWdrbXhBS21lX01zYzZXY0VzeVo3SmFKZW5FWQ?oc=5",
-        "date": "08/29 14:19"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "Nvidia Earnings Keep AI ‘Jenga Puzzle’ Intact: Dan Ives Says MSFT, GOOGL, AMZN Could Lead Next Trade",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2tvM2R1VlN6c3FNYmpfVkVOYVk0UVVBc2FPS0dfYUpEamNHWXFuai1oM1Q0M2VpT0kyVVl3MVJUdWx5ZndZb1hEMVB3aldLdW9KcktNWkxYYVdYY1F1ajRHRE1jR3NBMmFZb0JTblB4bS1EdVFvRXZic3M2dEpIUFVXVk5zX1N6MGdVOF9yendSREhTMXRlMQ?oc=5",
+        "date": "08/27 21:20"
+      },
       {
         "type": "neutral",
         "title": "Why Is Wall Street Doubting Google Stock?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUZSU1JJUTNhRHVRMUp6UWhFVUp3OVFkdWowTGJXRTVFUUdBTUgxU1BfaWlEMVRzR2Y1Q0hVN0xleHp4eldsNDZIcUl0bVR4RGNhX1VJVG9QSkJTTGQzSFNKOG1FQkZvWVJ4eG5nRFZmVXp0VXIxdExoT1R6bjl1OFJRdlVsd09hOWZzcVZaVDk0MkVhV3Y1VkhIZ0NubEhzdFdPRg?oc=5",
         "date": "08/28 08:38"
-      },
-      {
-        "type": "neutral",
-        "title": "NFLX vs. GOOGL: Which Streaming & Ad Stock Has an Edge Right Now?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPclVjcURjc3JrSWg5eEpKZXljbzhBTEVmSWJOb1l5cjJPcDNvWTdQWk9NSkNLS0pzZnFwYndtRDR4dmc2OWpIby1mY3ZDTU1KcWgtd3doVElNWHg5ak00bWtfcHUwLVp6S3RmWUdpVTZLQ2pMY0hNMFRlamR5WGV1S05wTk4wR2RTekQ0VDNhMWNhYzI4aU1uZWNB?oc=5",
-        "date": "08/28 00:53"
       },
       {
         "type": "neutral",
@@ -1012,26 +1012,26 @@
       },
       {
         "type": "negative",
-        "title": "Qualcomm Stock: A 38% Drop and Improving Analyst Sentiment Signal a Buying Opportunity",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGFqSEc3MUhOdXJqTW12SjNabmEwQzF4VXB0TW5WbWh4ZkhqcUN5MW92SmhFQjFlUzU3aldEVkhoSWZhTGxrVDZUZVZTV0k0dEtJczFQV1lDTkdaQmVzUkU3OXJZZlNTdHljOEdfc0pSalNYV1h1VGpnYmM3NXNkS1dQdG1UY2J4U01hY1dxRXhMLVlObGhkbnN5eFViMkRPXzNNS0trM25Ra1FROVB0Z2UtaUhwbzRCVzJ5d3pSdUFTU0ZsLWVB?oc=5",
-        "date": "08/26 20:30"
+        "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
+        "publisher": "Zacks Investment Research",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWJ1aEphVDhtbXN4UmVTTjNieTJhZjVQQUVSYnlEdkIwaUJoZnNXUlc1N3NKZV9vTktxZ1NOOUxTa0wxVWZRc2dwZGtEdGJBaXdtazRBd0h6c2lsc2RKejQ4T1JrdGc4R1d1b1JSbkFMZlFBQkpERFhyaUpvQUFyY0Z3TW9BVlVueHlPV0Q2ckNNVjY3U2QwRlVPamVwQXZvaWo3REtrX1Y2dw?oc=5",
+        "date": "08/04 16:00"
       }
     ],
     "VRT": [
-      {
-        "type": "neutral",
-        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
-        "date": "08/28 12:21"
-      },
       {
         "type": "neutral",
         "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
         "date": "08/17 16:00"
+      },
+      {
+        "type": "neutral",
+        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
+        "date": "08/28 12:21"
       },
       {
         "type": "positive",
