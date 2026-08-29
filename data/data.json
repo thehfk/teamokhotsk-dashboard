@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-28T23:17:28.214364+00:00",
+  "updatedAt": "2026-08-29T04:13:14.709999+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7711.76,
-        "change": -0.25
+        "value": 7730.99,
+        "change": 0.72
       },
       {
         "name": "NASDAQ",
-        "value": 26402.42,
-        "change": -0.52
+        "value": 26541.35,
+        "change": 1.57
       },
       {
         "name": "다우존스",
-        "value": 53559.99,
-        "change": -0.02
+        "value": 53569.44,
+        "change": 0.2
       },
       {
         "name": "공포지수 VIX",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1375.67,
-        "change": -0.35
+        "value": 1371.5,
+        "change": -0.65
       },
       {
         "name": "KOSPI",
@@ -109,8 +109,7 @@
           "08/24",
           "08/25",
           "08/26",
-          "08/27",
-          "08/28"
+          "08/27"
         ],
         "series": [
           {
@@ -178,8 +177,7 @@
               7652.86,
               7677.28,
               7675.7,
-              7730.99,
-              7711.76
+              7730.99
             ]
           },
           {
@@ -247,8 +245,7 @@
               25980.19,
               26151.3,
               26130.2,
-              26541.35,
-              26402.42
+              26541.35
             ]
           },
           {
@@ -316,8 +313,7 @@
               53417.16,
               53577.4,
               53463.88,
-              53569.44,
-              53559.99
+              53569.44
             ]
           }
         ]
@@ -674,7 +670,7 @@
               1381.49,
               1383.49,
               1380.45,
-              1375.67
+              1371.5
             ]
           }
         ]
@@ -888,20 +884,20 @@
     ]
   },
   "rsi": {
-    "AVGO": 23.5,
-    "BE": 50.1,
-    "GOOGL": 37.8,
-    "QCOM": 54.8,
-    "VRT": 43.4
+    "AVGO": 22.9,
+    "BE": 49.2,
+    "GOOGL": 33.7,
+    "QCOM": 44.1,
+    "VRT": 48.2
   },
   "news": {
     "AVGO": [
       {
         "type": "neutral",
-        "title": "History Says This Is What Will Happen to Broadcom Stock After Sept. 2",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlM5SG5WRmJFenhFVnQ3MlJWcVpNcl91TUc1X0VCTjhaOUNRN1gzR3V6SzR5cnBiTVRWaWdXRnRoeUxDaFNZdjF6NkVxT0Iyc2otamtJRUo2bldLVHp2RnQta2JRMGFrWjNvNnItcWZJMHVpdGNHa2hhUmFnZ1oxVXNmdksxV3JqRFREU2w3ZWk4SENJWjRv?oc=5",
-        "date": "08/27 21:10"
+        "title": "NVDA vs. AVGO: Which AI Chip Giant Actually Wins for Retirement Portfolios in 2026?",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObmN1dlZDY19VcExXbFBFbk43SjFEekFheTVCME13c0d2WVFZMHNxbU84V2RSaXJrMUpGRWttYWpXc1prbTV6a1FBT0FEV25TVzNLWG8xeGZwT1VGX2pGRDdmQmpNMmFxUVBjcHVDTWthWE9LQ05uNFFnU1VoRGFETEVBTXhJb0o4cjZ0dU1xQnpCdkdXVHVrdzI5TU12YVllSlFmQmxEZ21Nbk9LdWFGcXZlbkhHWngycVVvS2tlR0c0dw?oc=5",
+        "date": "08/27 04:59"
       },
       {
         "type": "positive",
@@ -922,16 +918,23 @@
         "title": "INTC, AMD, AVGO: Chip Stocks Jump Premarket After Nvidia's Blowout Report",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUU4dTZXYndUX2YwZlZ6VmR6d3JoV2dDbE1XR1FKS0p2YTZScmlIclZkTUxxb0paRW00TEgwVlE1Qk5hT3BnM3J4eVZqVDBpZ3o1blFiYTQ5M2t3OTlJU3pud01kVlJYQzFVaF82a2xfWXRfM2R2MzBVRDczX0pnRkpPZ3dpam03QlhibkliRnQ3NWhJU25VM0d1bVlvSm02bjJaV2pjZlJwTUpVVnZCMHRxYjFFd2Q2RXRNOFl3ZkItc0llS0JKR2dVN1VORDg?oc=5",
-        "date": "08/27 18:44"
+        "date": "08/29 08:40"
       }
     ],
     "BE": [
       {
-        "type": "negative",
-        "title": "Why Are ORCL, BE Stocks Falling Today?",
+        "type": "positive",
+        "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2F3eE1IbnktdFctRHg1UmNReUVqdzltRUpqRzZ1TklQWUk2X3N5NnN6Z2g2X2lMaW1ib2Y4Q1BmZW5zY2lQTGlKempNdnpTOTZLdThjemtqY1V0dG0zcTdvWHpkR1pfd19jTkFCNHhVVERhMUlPdDlLYVVQQVgydHJRM01QZ1NMZTQxZTBVSlZmZG1xMGdweGNwbDJrUlpGeWtZMm9JN0txbFNVVVB1TDlQWk9zTUswTTI1YXhQb3JEUUVZLTVCU0JzNXgtbjQtOVE?oc=5",
-        "date": "08/29 00:32"
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
+        "date": "08/29 00:14"
+      },
+      {
+        "type": "neutral",
+        "title": "Nancy Pelosi Just Disclosed a Multimillion-Dollar Bet on Bloom Energy. That’s Just 1 of Many Reasons to Buy BE Stock Here.",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVUFkZGx1T1lxeTdJalp4dzlHOEdKV2V0UFFkLU03S1g5S0Z5X21TSzR5YVVJbDVlYkxkNGJ0SmM5TWdvNDNpT1pWaDU1eFdodzBuTWg0UFZGNUNaQlBYMlFwYkRPX05CSHl0YnVUT3NMWlh2NDJpMFpuOG9IZ1pyNVVyclBpZjRnMjNuZmprak5tVGpvWjRlQThEMlBReUhMQ2Q3eDN2QVc?oc=5",
+        "date": "08/28 00:20"
       },
       {
         "type": "positive",
@@ -946,13 +949,6 @@
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3d2dEMxemdJQkhLS1VIUVNaSFozamxpSjF2S0ppQXVVbWw2MVFUUTlxOXYzd3Q4ZW1zZDVuTzFaQ0ItclRNYW9SQjFvdmNDdmZvYjE0Rm91c1l5Q25kNnhZeFc0cGx0YWRiSlB3Q1lRNXJBc05ERnF0SXhTU3FmdnpB?oc=5",
         "date": "08/26 00:33"
-      },
-      {
-        "type": "negative",
-        "title": "Bloom Energy (BE) Stock Looks Reasonable On Cash Flow But Rich On Sales",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjFRbTNGT2RIamxaZ3NjRmxFcjNNQk9LbS1zOHNBT2lZLU5GUlYteXQ5UjhMM0hHcTdreFNaekpPR29tV2h4Vk9ZUGpGRmdNODZFVU0zd2tYVllEQlJqcXBuYVJVM0x6UWJLRGR2OU5zYXV5UVNZY3p1cWxDT21SdVFXUXhLeGY5NGZTRFkwUEk3cm9ZR0JjeHhiaDVNdFd4VXFIanU3WTY5VlpMYkg3dFZaclJSdll3UWRrMzFpU2xyLUFneFRVQlB3ekbSAdIBQVVfeXFMTkdMYnZuaWVKY0lDVGtudTdKaGUxTDdEdEtaeEpxR1FqR1FHU3lyMi1EN1FVNnBrMDZPV2FnVlRRZWU3QXd6Z3p1TEVGT2JvVlNBSUhvaEZzd3dDWURmT1A5YjRLU3QxSDJxcmMxdDVMNW04bEhFb0ZiZ3BkSEt0Yk9RajFIVXAtN1ZhOGd3bWhDRDRYcDR2bEw0NDVlb203RmtXVFBnaWs3U0xxcEsyb0xhWkd2aFJRSXFTbW5xZjhYR0FVV1EzQXRFeTBReTdtWHdR?oc=5",
-        "date": "08/27 21:52"
       }
     ],
     "GOOGL": [
@@ -988,10 +984,10 @@
     "QCOM": [
       {
         "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "08/25 21:35"
+        "title": "Qualcomm (NASDAQ: QCOM) Stock Price Slides 31% As Costs Hit Now And Non-Handset Growth Remains Years Away",
+        "publisher": "foreignpolicyjournal.com",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRHk2NXBZWFRCNUlsT19wekpmaGJXaWRJdTVpRXp6dG1ZZlg0X0NYVzhwYWxSUUtSUVVReVdNcGxQSTN6aFZ6eTZHRlBRaFJQQlF1T21zUnB5OXQxdWUwbkU0c29UbERFbFRBcjdhUGFUZFRGbm5jNVl1cERDSVJlOVlPeDhaTnJUWTdScEptalJGR1FiRlRDb3A1cHhZSFE4ZG5ad0w2TGp2Q1YzWC1KTnlaXzNFWlU5b01wNm5xT1RUOEUxeTl0VE9XdmdaR2tlS2JpY0E4OG1nVENzckRPbFVXVUo?oc=5",
+        "date": "08/28 23:18"
       },
       {
         "type": "positive",
@@ -1001,11 +997,11 @@
         "date": "08/29 00:30"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm’s Costs Are Inside The Guidance And Its Replacement Growth Is Not",
+        "type": "neutral",
+        "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmpvUHE3eEd0OUxQWHF6cTdjRnRCMXBVVkFRNGlLUTd4RXF4d0F1NzRLOFNkWldMRzQtNkFXcVBmVmJ4bzlrbm9OdzQ3RGNKSGx2YUlLVzFRZGpRNzZRbktrX0xYbW1abmpHaW1hc2ZjUUtwRWhxUUI1Q0pYZ29CeVVrSjZYWS1rNkJ0SkxCd0loMkRUblNfRmE5YlQtdC10Q2R3ZW8zUnBqQ3FYemxBY2tvUEJJVFJJS19PWnRFYVJsdGdTejlWT2VGNmY5cXM?oc=5",
-        "date": "08/27 02:52"
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
+        "date": "08/06 16:00"
       },
       {
         "type": "negative",
