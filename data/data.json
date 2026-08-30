@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T20:17:18.019339+00:00",
+  "updatedAt": "2026-08-30T22:51:35.722465+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1375.67,
-        "change": -0.35
+        "value": 1377.53,
+        "change": -0.21
       },
       {
         "name": "KOSPI",
@@ -674,7 +674,7 @@
               1381.49,
               1383.49,
               1380.45,
-              1375.67
+              1377.53
             ]
           }
         ]
@@ -901,6 +901,13 @@
     "AVGO": [
       {
         "type": "neutral",
+        "title": "What's Going On With Broadcom Stock Thursday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzhuRWM3M0FWSUZINTVRZlpnU2VjVE9OVHJyVzJoY1NzaVNtSEJnNWJDUlBMZ3ZydDNNMXI1TDFFb0JST182RDFEMFBwR0JlNlBzd0Q5eEZ1OUdVbEFGLVl4NXFROVRqczY1NVhLWlROSmtDaDN1cm5VTmhVTUtiOTZ3QXQ4MEltSHpnYmxzNm9jcmU3MlNFWmdBS0NmMGs?oc=5",
+        "date": "08/27 22:33"
+      },
+      {
+        "type": "neutral",
         "title": "Broadcom Stock (AVGO): Who Owns It Ahead of Q3 Earnings?",
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcEYtWGc5R2JfMjY2cW9DMU9JZVIyNHkxcnFpanRUMGdab2cyRU82NXdFR19MVkRFbFcyMm5EYUIyMmtveFJFYkkxZXhPcUppaFRUdk92OUxGeTFieFBxYVVVcV9qRGlVNEJEcGdxZ2xzVXlBc1hiUjI1b2dUQWJlSmJwTUxfTUNwaGc?oc=5",
@@ -919,13 +926,6 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0ktdGpCZnhfdU1sM2xUZlEzS1hfR0dsdEJ5cXBKeFlGRHdrN3hlS1BmQldRQ1g5RVFiNzFLdnNyMjMwMEFvV0tqOV94SXVIMDlrNFFqRlN0aEV4Q0RhZldQUHpBOWNQLXZxaV9NdzB5RmpRaWNTM0xVd1hpZXR2eFVldzFETkZhWVV2cGoxek8?oc=5",
         "date": "08/29 04:25"
-      },
-      {
-        "type": "neutral",
-        "title": "Spicy Stocks: Why BNP Thinks Jalapeño Could Benefit Broadcom Stock",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3llUHpmWURxZC16a3NxWVVqNTBzV2t5NnJEMEgxVWhEZ2YwZXk5dWJpcWpIbW1aaWJsZVljRDBieXh5TWthQWJmNFItaHZTdmRaUm5fQkhoLTh5QllrLUhPVTFCWUlyQW8wLVpwazQwdTBnUHhRR2ZoYlY2ejlDZWdyak5uSmxUcE9MRXRrUkY1UUhFaUhJTm9Rd25QaE5xbHY2QUhiX3pqMVhqTlE?oc=5",
-        "date": "08/28 06:03"
       }
     ],
     "BE": [
@@ -938,10 +938,10 @@
       },
       {
         "type": "neutral",
-        "title": "Why Is BE Stock Surging Over 7% In Overnight Trading?",
+        "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVIwbDRaS0NITmktem1FT3U5ejBWMU1lQXROR3l5M3JBWUZDR3RqTHF3UmNuVll5RFdaUk5fd2dVM21Gc0FMT180dFFkSUJjVlJIVFM2Z2czQjlSaGhfVUF4VGlBQ254V0Itc29kS282Uk5SZnJ0bTJId2k4ODJJd19sckJHVV95ZkJqZUE1VFhzQmoxWWc1NDNyTnljUnRJbmhRck16U0R2WS1B?oc=5",
-        "date": "08/30 05:58"
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
+        "date": "08/30 01:28"
       },
       {
         "type": "neutral",
@@ -968,17 +968,17 @@
       },
       {
         "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "08/30 10:22"
-      },
-      {
-        "type": "neutral",
         "title": "Why Is Wall Street Doubting Google Stock?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUZSU1JJUTNhRHVRMUp6UWhFVUp3OVFkdWowTGJXRTVFUUdBTUgxU1BfaWlEMVRzR2Y1Q0hVN0xleHp4eldsNDZIcUl0bVR4RGNhX1VJVG9QSkJTTGQzSFNKOG1FQkZvWVJ4eG5nRFZmVXp0VXIxdExoT1R6bjl1OFJRdlVsd09hOWZzcVZaVDk0MkVhV3Y1VkhIZ0NubEhzdFdPRg?oc=5",
         "date": "08/28 08:38"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+        "date": "08/30 10:22"
       },
       {
         "type": "positive",
