@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T13:53:00.833939+00:00",
+  "updatedAt": "2026-08-30T17:50:42.592516+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1371.5,
-        "change": -0.65
+        "value": 1375.67,
+        "change": -0.35
       },
       {
         "name": "KOSPI",
@@ -674,7 +674,7 @@
               1381.49,
               1383.49,
               1380.45,
-              1371.5
+              1375.67
             ]
           }
         ]
@@ -922,26 +922,26 @@
       },
       {
         "type": "neutral",
-        "title": "Spicy Stocks: Why BNP Thinks Jalapeño Could Benefit Broadcom Stock",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3llUHpmWURxZC16a3NxWVVqNTBzV2t5NnJEMEgxVWhEZ2YwZXk5dWJpcWpIbW1aaWJsZVljRDBieXh5TWthQWJmNFItaHZTdmRaUm5fQkhoLTh5QllrLUhPVTFCWUlyQW8wLVpwazQwdTBnUHhRR2ZoYlY2ejlDZWdyak5uSmxUcE9MRXRrUkY1UUhFaUhJTm9Rd25QaE5xbHY2QUhiX3pqMVhqTlE?oc=5",
-        "date": "08/28 06:03"
+        "title": "History Says This Is What Will Happen to Broadcom Stock After Sept. 2",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlM5SG5WRmJFenhFVnQ3MlJWcVpNcl91TUc1X0VCTjhaOUNRN1gzR3V6SzR5cnBiTVRWaWdXRnRoeUxDaFNZdjF6NkVxT0Iyc2otamtJRUo2bldLVHp2RnQta2JRMGFrWjNvNnItcWZJMHVpdGNHa2hhUmFnZ1oxVXNmdksxV3JqRFREU2w3ZWk4SENJWjRv?oc=5",
+        "date": "08/27 21:10"
       }
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "Why Is BE Stock Rebounding After Last Week’s Selloff?",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME5vZVVzS3Y0elJBQlktUUZuc0llRWw2SXJoNGlsSkZkc1B5Rmltdno4dTJaR0d1Q0pnSWRWcV9IOEpuNTQ1UndHb04wSGhaQ3ZNM1dsT2tSSUFjR2drOGZNSi1iV0VfVWhyYjRlS1JBd1AwRk9mcExfZlNwbUVMajdDdTB4ZUxvYVMwRTNDcVR3emFkSmx3RWtHN3l5NDlINEc5am15eEtpV0h4UjBWcjFwaVI?oc=5",
-        "date": "08/30 01:37"
+        "type": "positive",
+        "title": "Bloom Energy Stock (BE) Opinions on Data Center Power Demand Surge",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORG5rd0RzRkFGRFF5QmZqV0gtNUNqMzQ2YWJRNVJPaHhyMC1ybHRIY011OTBuWFFYSmZIU29OZU5nYTJBQ195MFFZRWNYVzFwVldqeXpGTG9KMDdmSU5Od1hOcUFoZkJxTjM2X2EtbC1OYkZBUXVKTHNOR0J4b0lxMlBBZDBMemdCaXJQWWV5bjl5TE1PeS10Z0xKb2ZyOUxnbndManJR?oc=5",
+        "date": "08/30 23:03"
       },
       {
         "type": "neutral",
-        "title": "$BE stock rose 4% this week. Here's what we see in our data.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHhseV9CdDdTMU5wa3JLanR5d3BOS1RRS1c0b1M0OWlWa0lnWVZpR0pwSTRvX0J0NGprbzlLWXhKZXd2RUJUZFU0Y0hsdHBma29sZzJHbFY2T2UyYThoeWRjU1hGTnd1a0tnM1JYcnQxdnNCcTB4dnBfN0hHLUQ4enROU1NRNXdQdDFLS0JWQnVqd1JaVURGWV93ZWpwM3hj?oc=5",
-        "date": "08/30 01:37"
+        "title": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
+        "date": "08/30 01:28"
       },
       {
         "type": "neutral",
@@ -960,6 +960,20 @@
     ],
     "GOOGL": [
       {
+        "type": "positive",
+        "title": "Alphabet Stock (GOOGL) Opinions on AI Growth Prospects",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGxhX1d2dWpiMXFIWDRnVW5USTJJSWJJNlAxUW43V0lJakJneGJYa3pKbmxKa2ZUWERqRFFENWhfX3dCSERGVVk3QTlKOTg0bWVtNXo0MnlMZHVWMVRlRWpzVEFxRWxfVklsbGlLaEFIcUg5ZmYtQTJIS2Q2dFBIcFY4SkNQZC1INk1odUozQnQ3QnF3OEE?oc=5",
+        "date": "08/30 23:03"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+        "date": "08/30 10:22"
+      },
+      {
         "type": "neutral",
         "title": "Why Is Wall Street Doubting Google Stock?",
         "publisher": "Trefis",
@@ -972,20 +986,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlBejRUQTZETHJuVVViaG1PN25ZUHlBcndtXzhranc1TXAzX1hFLThlTkI0UHZRQThhRUlzOG94RzJlREJPeHFrTmdQaU5uQ2pUMWdEN0dncWpuLTBRZlRaSkhjbU5jVGZxekRVZDlRRUxFY3JHQ0VqRDktc3htUnZFanduRWV6TFV0QnJSMXVIb21UM0xJbVpmZDQxZw?oc=5",
         "date": "08/26 03:18"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Faces FTC Lawsuit Risk As AI Departures And Delays Mount",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFNod0JjcXlqc3Y0MGJ5cnF1QVkxS2NVZnJ4ajZHd1lJOVRWWm1hOW5UR01LeFh0M19aUHI4eGV2bWx6LXdHbmZ2SlhNcVFONEhtT2Rqc1JocU01dHZ0bmdpNDJNWWN3UV9Dd0ZTUTFJREliLUxPWk40WnZhajV2MjZkOUlPTm45Y1FoY1B4dzR2SkdoUDFCbnhzUl94QTFRQWtLMXp1Q2lhSkduemhQb095aUxYdEpBUlY5VmJDcmROdEnSAcgBQVVfeXFMTkFFTW1Kbi1SQ1B6YnpuOERKMzFQaFpzQlNaSUtubENTSkt0ekw3bWFtWmpJcktMTlU4NkFnQW5GWHZ5VjNONGRzTHotLXJjbWp1ZHVmTHVnelJ4alhSUlM0Q0ZCcGNWUWFPYW1jQW82YThBLUVjZDdEelRmNkd3UC0ycFBZMnJHOThRdWZ4Qm9mUXZkZWtScl9mcDh1RVkyUUdCMjJncEVfVWlNTi1FZHFJbGxIYWFSb3dnem1jREc1UXJDZGtyamo?oc=5",
-        "date": "08/30 17:31"
-      },
-      {
-        "type": "neutral",
-        "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
-        "date": "08/29 07:50"
       }
     ],
     "QCOM": [
