@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T22:51:35.722465+00:00",
+  "updatedAt": "2026-08-31T00:59:30.497299+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1377.53,
-        "change": -0.21
+        "value": 1376.88,
+        "change": -0.26
       },
       {
         "name": "KOSPI",
-        "value": 6788.88,
-        "change": -1.79
+        "value": 6679.84,
+        "change": -1.61
       },
       {
         "name": "KOSDAQ",
-        "value": 838.41,
-        "change": 0.09
+        "value": 819.47,
+        "change": -2.26
       }
     ],
     "groups": [
@@ -607,8 +607,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1503.11,
-              1495.29,
               1506.84,
               1511.27,
               1516.6,
@@ -674,7 +672,7 @@
               1381.49,
               1383.49,
               1380.45,
-              1377.53
+              1376.88
             ]
           }
         ]
@@ -682,8 +680,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "05/28",
-          "05/29",
           "06/01",
           "06/02",
           "06/04",
@@ -745,14 +741,13 @@
           "08/25",
           "08/26",
           "08/27",
-          "08/28"
+          "08/28",
+          "08/31"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              8185.29,
-              8476.15,
               8788.38,
               8801.49,
               8639.41,
@@ -814,14 +809,13 @@
               6742.74,
               6808.21,
               6912.37,
-              6788.88
+              6788.88,
+              6679.84
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              1104.36,
-              1074.8,
               1050.03,
               1026.03,
               1049.73,
@@ -883,7 +877,8 @@
               827.15,
               826.87,
               837.65,
-              838.41
+              838.41,
+              819.47
             ]
           }
         ]
@@ -908,13 +903,6 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom Stock (AVGO): Who Owns It Ahead of Q3 Earnings?",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcEYtWGc5R2JfMjY2cW9DMU9JZVIyNHkxcnFpanRUMGdab2cyRU82NXdFR19MVkRFbFcyMm5EYUIyMmtveFJFYkkxZXhPcUppaFRUdk92OUxGeTFieFBxYVVVcV9qRGlVNEJEcGdxZ2xzVXlBc1hiUjI1b2dUQWJlSmJwTUxfTUNwaGc?oc=5",
-        "date": "08/28 06:21"
-      },
-      {
-        "type": "neutral",
         "title": "Prediction: Broadcom Stock Will Go Parabolic After Sept. 2",
         "publisher": "Currently.com",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFhSNUZGSFFxZHFrOHYydUI1eFIxakx3Z08yMFlkUF9aMEpBZlVrWmJDbHN0YlVzMk0zZzdFbmQ0LXFtNDZuVE1aOGNpejZmejZvTTJVUV9maGhKSXRSaGs4SE12NWVfM0lKZV9GakxEVDJuNXpGM2N1X29RTXlnbmhsalJlNUU3UnJVS0dUOWY5aWV5OXc?oc=5",
@@ -922,10 +910,17 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom: I Am Hedging Before Q3; You Should Too (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0ktdGpCZnhfdU1sM2xUZlEzS1hfR0dsdEJ5cXBKeFlGRHdrN3hlS1BmQldRQ1g5RVFiNzFLdnNyMjMwMEFvV0tqOV94SXVIMDlrNFFqRlN0aEV4Q0RhZldQUHpBOWNQLXZxaV9NdzB5RmpRaWNTM0xVd1hpZXR2eFVldzFETkZhWVV2cGoxek8?oc=5",
-        "date": "08/29 04:25"
+        "title": "Broadcom Looks Expensive Until You Price The Order Book",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSS00bVVyUEJEN2JOX2tWM1RKTzNoSmNzX29TNklUUmdwLXhuYVdNNlBNeTdXbF96MGhNWmxPLTBfOVlseWExT19xNjM5ck1qVFV6QUlSdUJjOVZyOUdkaWFNYXJJaDRRY3B3eWJ0RF9PeldKaXh4NmFLMTkwUTVqM1FqTXZ3enQ5Y29RS0gxNnc1V2xQc1NuZjRqZlF0anY4akx5ajE5YlBRNDhKS091SmItS25URms?oc=5",
+        "date": "08/27 22:44"
+      },
+      {
+        "type": "positive",
+        "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeDA2cUZ0QzNPRTVuNzBlRVNTZFpJUTdTYldHb1BzYTJyd2k2T2dwVlZ5ZDJXTE9GX0dzMl8zTVhpYXljTXMwN1hlV2RlX05sUFA2YU42MWpEQkY5OElMdklmMUJBZ2tYbUR1OExkTXBpTzNvSFBqZGl5YkRabmJfUlNSeVVsVWN5R2hjaTlNM3pEaS0wRHlRVWIyR05UdXc?oc=5",
+        "date": "08/29 05:22"
       }
     ],
     "BE": [
@@ -998,6 +993,13 @@
       },
       {
         "type": "neutral",
+        "title": "Should Qualcomm’s New Mobile and Personal AI Chief Reshape QCOM’s Long-Term Device Strategy?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHYwUWNkbzJZRm92UlhtQ3piNXNDMGdDU2VlaklPY2dfYXNYT3NBeXRxVkMxYUxob2VCZU9hQXdJZ1ZaWktxeW1TT2pTaTVwbmdaUTM4LVRWVFZ4dFM4TV9faXBuSnhjVXVPcjVVS3I4eDJBWWRYMWtIR0ZRenllcEtXb0JXd0tMMzlHZkoyWk16MXV6Mmhnb1RFMHVNbmREMkRCdHN3SEZxS1hIc3ZiNzl2ZWd2ZHNONW9qd21VcTF0NzNFcTN0eVJFTDV2d9IB0wFBVV95cUxPeElFSnVnQ3NPNzRUR3VnWTJhSHhHZmM5MGxRRjZsVkMyaGhwWmw2RFk0em9BM0diTjB2WUk4d0dEOUJVX1VMOXJmSE9XS2VBQ21DTjJLc0NPaUQ2SUNhbHJqRUdXSjlUa2NLNUF3UElDQXBWbjRTaXltakpJQ192RkJONkVWZ1NfU0xScUM5cTJ3WG1zODJOSVFiQ0I3c0xEcThNVUlKcV92UVo0MDFOMFpyUXpCdzNBU2RwTHdEdFBwbHVnU3k2d0F1UDNuZFBDYzlR?oc=5",
+        "date": "08/31 09:40"
+      },
+      {
+        "type": "neutral",
         "title": "Qualcomm’s Largest Revenue Line Is Shrinking From Both Sides",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
@@ -1009,13 +1011,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0dyTHIxUV9vZU11cVRxVjFxUi0yeHNaYzJmZF94THVwcnIybGdNUDMyZDZ3YmlMQWFLcm02bUtBQk1UZl9LdElpRTNlOEFDcHptaGQ3QkpoMlNXeVpwaTktb0ZuSnJVQjBpZkstVHQ5cm40ZGotOFFhNDI4WXhmaU5iQ2VmZGFRVGpjdkdoNmQxUQ?oc=5",
         "date": "08/29 00:30"
-      },
-      {
-        "type": "negative",
-        "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
-        "publisher": "Zacks Investment Research",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWJ1aEphVDhtbXN4UmVTTjNieTJhZjVQQUVSYnlEdkIwaUJoZnNXUlc1N3NKZV9vTktxZ1NOOUxTa0wxVWZRc2dwZGtEdGJBaXdtazRBd0h6c2lsc2RKejQ4T1JrdGc4R1d1b1JSbkFMZlFBQkpERFhyaUpvQUFyY0Z3TW9BVlVueHlPV0Q2ckNNVjY3U2QwRlVPamVwQXZvaWo3REtrX1Y2dw?oc=5",
-        "date": "08/04 16:00"
       }
     ],
     "VRT": [
