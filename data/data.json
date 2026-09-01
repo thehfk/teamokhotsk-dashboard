@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-08-31T23:59:29.478657+00:00",
+  "updatedAt": "2026-09-01T04:03:32.401384+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
         "value": 7686.14,
-        "change": -0.33
+        "change": -0.58
       },
       {
         "name": "NASDAQ",
         "value": 26370.89,
-        "change": -0.12
+        "change": -0.64
       },
       {
         "name": "다우존스",
         "value": 53185.9,
-        "change": -0.7
+        "change": -0.72
       },
       {
         "name": "공포지수 VIX",
         "value": 14.92,
-        "change": 3.4
+        "change": 2.83
       },
       {
         "name": "미국10년금리",
         "value": 4.76,
-        "change": 0.85
+        "change": 1.93
       },
       {
         "name": "원달러환율",
-        "value": 1367.57,
-        "change": -0.93
+        "value": 1372.08,
+        "change": -0.37
       },
       {
         "name": "KOSPI",
-        "value": 6788.88,
-        "change": -1.79
+        "value": 6798.41,
+        "change": -0.32
       },
       {
         "name": "KOSDAQ",
-        "value": 838.41,
-        "change": 0.09
+        "value": 819.64,
+        "change": -1.76
       }
     ],
     "groups": [
@@ -109,7 +109,6 @@
           "08/25",
           "08/26",
           "08/27",
-          "08/28",
           "08/31"
         ],
         "series": [
@@ -178,7 +177,6 @@
               7677.28,
               7675.7,
               7730.99,
-              7711.76,
               7686.14
             ]
           },
@@ -247,7 +245,6 @@
               26151.3,
               26130.2,
               26541.35,
-              26402.42,
               26370.89
             ]
           },
@@ -316,7 +313,6 @@
               53577.4,
               53463.88,
               53569.44,
-              53559.99,
               53185.9
             ]
           }
@@ -387,7 +383,6 @@
           "08/25",
           "08/26",
           "08/27",
-          "08/28",
           "08/31"
         ],
         "series": [
@@ -456,7 +451,6 @@
               15.45,
               15.21,
               14.51,
-              14.43,
               14.92
             ]
           }
@@ -527,7 +521,6 @@
           "08/25",
           "08/26",
           "08/27",
-          "08/28",
           "08/31"
         ],
         "series": [
@@ -596,7 +589,6 @@
               4.64,
               4.66,
               4.67,
-              4.72,
               4.76
             ]
           },
@@ -668,7 +660,8 @@
               1381.49,
               1383.49,
               1380.45,
-              1367.57
+              1377.11,
+              1372.08
             ]
           }
         ]
@@ -737,7 +730,8 @@
           "08/25",
           "08/26",
           "08/27",
-          "08/28"
+          "08/31",
+          "09/01"
         ],
         "series": [
           {
@@ -804,7 +798,8 @@
               6742.74,
               6808.21,
               6912.37,
-              6788.88
+              6820.02,
+              6798.41
             ]
           },
           {
@@ -871,7 +866,8 @@
               827.15,
               826.87,
               837.65,
-              838.41
+              834.29,
+              819.64
             ]
           }
         ]
@@ -882,8 +878,8 @@
     "AVGO": 26.2,
     "BE": 47.4,
     "GOOGL": 44.2,
-    "QCOM": 64.5,
-    "VRT": 37.0
+    "QCOM": 65.8,
+    "VRT": 44.2
   },
   "news": {
     "AVGO": [
@@ -899,7 +895,7 @@
         "title": "AMD or AVGO: Cathie Wood Sells $74.5M of One Chip Stock, Buys $20.5M of the Other",
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUliTE9xZ3RHMEpLU3dCMGV3TlpNQUZMWUZTWTc1V0NiRjFKdGdYNTlkcWpaNEtHdnoxS0E2TzZfQk5ubnBRNXFFeU9qYWk3OEVoMU1WeUR6WTNQVVZXUTVsaE5WOUg3VUJranBfMmFLNERTc09FbEg2YU5vMjlzb3pyOUQwSm5sMkJZaDFfQzB1WklMREJnZU1HVi1qa2ZEUUI5TXZaaGtBQXM?oc=5",
-        "date": "08/31 19:09"
+        "date": "03/15 16:00"
       },
       {
         "type": "neutral",
@@ -909,27 +905,27 @@
         "date": "08/31 16:35"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom’s Next $100 Billion AI Business Is Taking Shape. Here’s What It Means for AVGO Stock",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbHVwTXh3WEU3VzVGR1FkMGc4d3pKdGJPTmZlSjFJNjJaWDdjNm81bEIxWGp1Mjh1U0JiMzZzNzVkTW9iQWVELW9tMjZUQ3NXYmw0Rm5Ld3hhVFZ4dVNFb1UxeDk5YUp6Y2tYRnZNSVJtLXdobzQtNlVFQ0dPUlJjLTFndW5yMi0wTmcwTmgzQXlVQy13YzQtT3cwRzdXRUhUcG9Sa3REZTY0aV9oYThUYi1BcU9rLWQ4RzM3MDlFeHdIVXBtWFZ3ZHJKRnV5QQ?oc=5",
-        "date": "08/27 00:15"
+        "type": "positive",
+        "title": "Broadcom Stock And 2 AI Infrastructure Picks With Strong Earnings Growth",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcG9NMmY5enctVVhERUNvTnlWNDdXMTJKdF8tMEh0TU4wUm5nam16TkZmT1dkMENMM3NIY3B0OV9EcUh5dkl0T2NEdm1OQVhyNU9VbTFvdHBELW51eVhER1dnSWcyY3pYQXAwMk9aWnpjQlBGa2JHY1p3TkI5eU9CQ183eXNwTDNldXc0UmFkQmFDb3NPb3hUTE02TDBHbDlEb3cxOGl5VE9xb05BcFNMc05YUlcyc054RGZBYUhscjAySWhJVEpNUGVRTkl2UdIB0wFBVV95cUxOYUJ5VzVqM3hjSkJzMDJPZnJkSk9ZWWdaZDFRUkptZDRmSkE0TkdaRl9PZy1ZLXJEeTdRTk54bFQ2YTFEdlVfTFBWTVp2MHE4RGNjOFBwU3NjeUtyek9HaEpNTXJoc2V5Qk55U29WaU9RbDJHb2xNRDdHaVpnckhkcVR1RzRuVk1vaC1jZzhmTVJ0MUxwQ2UxMWtNUHJvbjZsWlh0WVJpZ1pDckZUbFBvQ2xYSWRBTGs3YzY2OXNaMjJxb0lrTzVkNHdUbHhSLVJZR1pN?oc=5",
+        "date": "09/01 09:17"
       }
     ],
     "BE": [
       {
-        "type": "positive",
-        "title": "BE Stock Ends Higher: Bloom Energy Denies Supply Chain And Scandium Allegations Following New Crossroads Capital Attack",
+        "type": "neutral",
+        "title": "Why Is BE Stock Rebounding After Last Week’s Selloff?",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWG1lb2ppZ1FHOWZXVDZpVUdiYnczNGVXUS02bG9GZVJkeHZTT1F4SGgyRVpZR3JXT2QwOXZQMW1tWDFEZm5kRTVsZFNMOVQta2lFenJtbFJIaWZGTDJOX1liTXM4V0MzS1hCbUgxckdveXBUbFUtZHpHLW1NRXlFenpXdG5nVXhtZHgxS2NFTVpSb2lTbUlnMzlFRzVNZG5yZVVhS3NsT0RvT2Ffc01zSFM2dFpfYTRPaGtBaTlITTdnVXRJUjlCVjJaVEpOaTdyYk8xNkpyNXNIUQ?oc=5",
-        "date": "08/31 21:22"
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME5vZVVzS3Y0elJBQlktUUZuc0llRWw2SXJoNGlsSkZkc1B5Rmltdno4dTJaR0d1Q0pnSWRWcV9IOEpuNTQ1UndHb04wSGhaQ3ZNM1dsT2tSSUFjR2drOGZNSi1iV0VfVWhyYjRlS1JBd1AwRk9mcExfZlNwbUVMajdDdTB4ZUxvYVMwRTNDcVR3emFkSmx3RWtHN3l5NDlINEc5am15eEtpV0h4UjBWcjFwaVI?oc=5",
+        "date": "09/01 05:22"
       },
       {
-        "type": "negative",
-        "title": "Bloom Energy (NYSE:BE) Shares Down 2.1% - What's Next?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGlPN3M4TzgwdldIbUhQcmNOY1pXR002eGZBbkhFVjhIR25DQnp4RHVwRldaTlVhNUxrSHZMQ3o5Y0tGREc1UzJfWm9YNU92cWVEeDRzNmRQdVBtMXRjUTJnQmd3OTNxYllmaEJsRmJxb1hRdnhoVzJfVF93RGdnbFZsckY0ajc0RU9zbzVIZ2hfbklULXd5eGxfT0ZJN1h5V2NzWl8yNE5xdw?oc=5",
-        "date": "09/01 06:26"
+        "type": "neutral",
+        "title": "Bloom Energy CFO granted 15,000 RSUs",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSy1xSHYtOVAxODBXWnk2TVZQN2YwNEZaSWd5MWptRnRrbUlLVEctLTJyOTFkdnpPWGlPTVVMWFNYUGhzSC1pOUduaGFnbUhOeWtEalpoclpGc3U1dlhQRDRPYmVNZVlUdDdoTTJhSHh2UXlVOEZtVmhsNjEweU9XTm1JeWlCa1ZLeTBpcmhHTWJfeE5fdzBjazRUME5tVDV4R21MQ29ybm4zNjIxd0E?oc=5",
+        "date": "09/01 11:20"
       },
       {
         "type": "neutral",
@@ -939,11 +935,11 @@
         "date": "08/28 00:20"
       },
       {
-        "type": "neutral",
-        "title": "$BE stock rose 4% this week. Here's what we see in our data.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHhseV9CdDdTMU5wa3JLanR5d3BOS1RRS1c0b1M0OWlWa0lnWVZpR0pwSTRvX0J0NGprbzlLWXhKZXd2RUJUZFU0Y0hsdHBma29sZzJHbFY2T2UyYThoeWRjU1hGTnd1a0tnM1JYcnQxdnNCcTB4dnBfN0hHLUQ4enROU1NRNXdQdDFLS0JWQnVqd1JaVURGWV93ZWpwM3hj?oc=5",
-        "date": "08/30 01:37"
+        "type": "negative",
+        "title": "Bloom Energy (NYSE:BE) Shares Down 2.1% - What's Next?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGlPN3M4TzgwdldIbUhQcmNOY1pXR002eGZBbkhFVjhIR25DQnp4RHVwRldaTlVhNUxrSHZMQ3o5Y0tGREc1UzJfWm9YNU92cWVEeDRzNmRQdVBtMXRjUTJnQmd3OTNxYllmaEJsRmJxb1hRdnhoVzJfVF93RGdnbFZsckY0ajc0RU9zbzVIZ2hfbklULXd5eGxfT0ZJN1h5V2NzWl8yNE5xdw?oc=5",
+        "date": "09/01 06:26"
       }
     ],
     "GOOGL": [
@@ -956,10 +952,17 @@
       },
       {
         "type": "neutral",
-        "title": "Congressman Sold Alphabet Stock Three Months After Buying It, and He Might Have Lost Money",
+        "title": "GOOGL Stock Delivers Like The Leader, Priced Like The Laggard",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUlSVDJsTjRnYVVpZFBQcF8xT0Qwa3A0TXQ1UjkxZWNmbnIxVFh0Z3Rlc1JVOHFXTXM5d1VOVWtTTFZ5QU1HZXBXWjZPRk9sdWZuYnVNZ3NGaTNCa0p1YkEtWHpMQ0FFLTBTb2xTTVdlZkF5MnFrVGwyLXUxZkk3MWl3Vm5fSzVLYU9vYTJOZnQxM3J5dktoX3NqQVU0RWxYbEtIRXBaTDVqcWZnTG5VVWlOZnZ6WnZ6cGE4cDl6QQ?oc=5",
+        "date": "09/01 09:40"
+      },
+      {
+        "type": "positive",
+        "title": "One Mag 7 Stock to Watch in the Second Half of 2026 For Solid Gains",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2FyM1psa3Z2c1plMU9xNTBnVU1UbFRFTkxsay1Qbk9mczRVajRpWm50d0NMTDE2MndhNVV3U1JqcVpuU0ZDbFM5aUYwbUp1cVdaYy10WjBhU09tUklReThqdWxVa2JtTTliOWtVOGFYcDdFcTFNNFNtZ2RVQXlRQU1lV3BFRG1TNV91THNaQW5ZRlNmYzlHcTFBWkYzSDB4S2Zuag?oc=5",
-        "date": "08/31 04:31"
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjFBSThuQUkza0xRNnhzU3dVWjg1LU50MHMtVlFSQldRbWFwdURuTndzd1dwRzZGaW4zY2s0TDVQSVNnNjRYTkFlSmJNUUtXRjBwLXBNNlBmOG9VQjdLRERUTFZuZnJvemVUVTFfSHhUdzVTUEhUd2Q4S0d2R19BajZMa05KYkpQVjJXTWV5bw?oc=5",
+        "date": "09/01 03:00"
       },
       {
         "type": "positive",
@@ -967,13 +970,6 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUTNNX0lDOHBnb2ttMUVkMkxud05iTG1jN2NMcVdQaG1PRkRfRjBETm13UFpIeUhKMEYzSkhSVjBmR3dGblo1MkVBOHNXbmQ2ZGVhQUhmdUQ0TWMxaHhidmowSnlxMDJCakZxUlFrVE04SHdlTEd3dXNKR0NhVVprdWF2NTlKbnZuRU1ZRWdSWWt3X1lhVGlQc0pSdmZBRWJXTXl5LW5VUVJDZ05MczNuRDNhWkVvMURCYnpDZmNIRGg5RDhvRXBxWlFWUmdNcXhac3h3OTJxQlF1dw?oc=5",
         "date": "09/01 02:02"
-      },
-      {
-        "type": "neutral",
-        "title": "Inside Google’s 260 Million Pound UK App Store Settlement: What It Means for Alphabet Stock",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPem0zcFhfZWR2aHg4Uk93Y3hKUjRhOGd0bXZLWHpyYU9Lemx1X0g3eTk2bUN6bEZJaV9IZmRxVHlLWnJ3bm94RWpNNHZLbFZIakVYUVhkSzFGejg2Z1BhWG4wWGE3MS1iNy1EQ3cwSkJSTFRNTGRNWDg5WG9WaHpSdFBIc0FiTW9pTlpzWExaemlVNnc2UlhmRVVRUUtmUXBMd2Z5V3EySmhuamN6UUlXSmdOLUVySFFnUHZBYVRsMWRMWXN3d1hRVl9qT3ppZXJlX3FacDEwX255dw?oc=5",
-        "date": "09/01 02:48"
       }
     ],
     "QCOM": [
@@ -1000,10 +996,10 @@
       },
       {
         "type": "neutral",
-        "title": "Qualcomm (NASDAQ: QCOM) family trust plans 208-share sale in 2026",
+        "title": "Qualcomm (NASDAQ: QCOM) officer trust exits 208-share position",
         "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0FWak1SNUs4SjZuaVpvNGZPbjBDUFJleGpYOW55ZnYxTU16Q1FOLVJTdlZoYWJYbHI2cTFuM0xTUUpzTGN6THhvUXFZc2o5eXZuMl9LeDVGRm1obmttLVJHNDJBZndMck8yU0xiTG5ReUdTNE02Y1MyaG1VZ3RBZzdja2VIQlFka0xXVl9wWWJqazFOcjNz?oc=5",
-        "date": "09/01 05:11"
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0x5UTVnOGRUZ2F6RDVYcEN2MjdZWFpFR254b1ZDQ2F2WVNITFR6TDg0eDFCUl9EU3lMNm9kSFdITUlITC1xWjA2cU9mc0ZZWDZXcm5nS21YdFRodzNHVnJDejVsYl9HNWxBZXFKM2REckdzcEJOcld0QldINWUtWDVQbzlnSTJxWk50Wl94c29fblItUDc3U2tERTUzUlNXSzVDZzhpSWJYY0hBVmc?oc=5",
+        "date": "09/01 06:28"
       }
     ],
     "VRT": [
@@ -1029,11 +1025,11 @@
         "date": "08/30 12:50"
       },
       {
-        "type": "negative",
-        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
-        "date": "08/18 16:00"
+        "type": "neutral",
+        "title": "Can Vertiv Holdings Co (VRT) Look Fairly Valued After Raising Sales Guidance?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSk1rZUVoZWJaZDBXOW1ra29IX2RWMjBJREtHN1dQc3Q4UGpOQ0x3akxlYUxOMUlkbmNXcm9UVXVWc3dvWDZ1SUJITy0xRjVJZEs1LWdpRFJId0JJQzU4LUpnZ2pJS1pjRGFqLXd4eWd6QWlQZXRQN2RlTXNRNDQwQVRNMmRfYkM4UzF6UE85Y3JfSmFQNUtDZUpjSXVILURjbVRVTUxOcVF1M0lYUmJVWkIxMGFyamdYTVIwT016YlZZQmluVE9qWTNZRy1MaTMwbncxZtIB2gFBVV95cUxOTWk0ZDNpZjA3X3NKN3NmSjBCUTJLUVZOR29mWU9qNENRUnctMHNhZE9kVTQySmR0VW1XanE4ZnBkeXNHQkRKR3k0MW91VktzdGc4Sjl0OF9TUDQ3ZFdEbDdUV3hPWXdnSHBLU2lrZTZydng0T0RiMW9TOVI0MUtma2ZiUTdIUzhsMm5Ldzk0bFZxSHVFelFzcDVtTHBwTGhSa2hwOUhCVDBUZXNibWVMMGpyamxEVFExbXFYZW5yU0R6d1o0R2g1X0ZBWHdPY055T3g4T05RbUZwUQ?oc=5",
+        "date": "09/01 10:38"
       }
     ]
   }
