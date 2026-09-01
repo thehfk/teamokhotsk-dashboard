@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T04:03:32.401384+00:00",
+  "updatedAt": "2026-09-01T09:30:47.995260+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.92,
-        "change": 2.83
+        "value": 15.91,
+        "change": 6.64
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1372.08,
-        "change": -0.37
+        "value": 1372.88,
+        "change": -0.31
       },
       {
         "name": "KOSPI",
-        "value": 6798.41,
-        "change": -0.32
+        "value": 6835.8,
+        "change": 0.23
       },
       {
         "name": "KOSDAQ",
-        "value": 819.64,
-        "change": -1.76
+        "value": 821.25,
+        "change": -1.56
       }
     ],
     "groups": [
@@ -383,7 +383,8 @@
           "08/25",
           "08/26",
           "08/27",
-          "08/31"
+          "08/31",
+          "09/01"
         ],
         "series": [
           {
@@ -451,7 +452,8 @@
               15.45,
               15.21,
               14.51,
-              14.92
+              14.92,
+              15.91
             ]
           }
         ]
@@ -661,7 +663,7 @@
               1383.49,
               1380.45,
               1377.11,
-              1372.08
+              1372.88
             ]
           }
         ]
@@ -799,7 +801,7 @@
               6808.21,
               6912.37,
               6820.02,
-              6798.41
+              6835.8
             ]
           },
           {
@@ -867,7 +869,7 @@
               826.87,
               837.65,
               834.29,
-              819.64
+              821.25
             ]
           }
         ]
@@ -886,23 +888,16 @@
       {
         "type": "neutral",
         "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings?",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeW5fTDdBaHlfczd1UTdpRkJZR29TOE40R2tPS3h4RkotRDl5aW1oX09jV1gwUXZhaXl6d3V3djVYbHRjdFdPV1l0M3ZwMVZTdndnNnlGMGJqV2RmRm9DZUV1VEpkMTVyMlp4NHRJOVItcU5uWjd4QmpYemdKRXVKTGYzWVZTMXdiQjhqOC15bkdKNURfN0E?oc=5",
         "date": "09/01 05:39"
       },
       {
         "type": "neutral",
-        "title": "AMD or AVGO: Cathie Wood Sells $74.5M of One Chip Stock, Buys $20.5M of the Other",
+        "title": "Why Chip Stocks Micron, Nvidia, AVGO, and Intel Are Volatile in Pre-Market Today – August 31",
         "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUliTE9xZ3RHMEpLU3dCMGV3TlpNQUZMWUZTWTc1V0NiRjFKdGdYNTlkcWpaNEtHdnoxS0E2TzZfQk5ubnBRNXFFeU9qYWk3OEVoMU1WeUR6WTNQVVZXUTVsaE5WOUg3VUJranBfMmFLNERTc09FbEg2YU5vMjlzb3pyOUQwSm5sMkJZaDFfQzB1WklMREJnZU1HVi1qa2ZEUUI5TXZaaGtBQXM?oc=5",
-        "date": "03/15 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "AVGO Stock Headed For $319B Market Cap Wipeout, But Analysts Eye Buying Opportunity",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVpRTzA5eFlORzhveW5TY2U2a2hrM0x6SjQwQ18tVEM4cjlPM1doXzRfS2owRmJfNGkwXzZNTktzQ1VGc1RkOUNJZzNBeTF0X0R0OGN3NmZZZWdxLXUwMm41S1JQaTM2Nlp0WG5IZjIxaHl3SERRdzQwNE9GbE9JLXhkNWlJMTIzOFA1YkxwaUVLQUxGX1k3UmVYU2poTTdUMmpRM0tXb2JpazJVbVJoMlRvRWdjaVdIQU40U3hfWjlTNWVBWWRRenBWX2N6eWsxWDJLT01YQQ?oc=5",
-        "date": "08/31 16:35"
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMXI4ZGhuTUFNYmZ1RjRnYjhiV3JYZVg3N3M0bndjTk43S1k0MzJyV3hVZHJKOWllUU53UHNQQ003cjlHZ2hsa3NHeW5nR2p5OXp3NU42VElUZXk1dm1jbHJtZWx3c0JPRTdody0xcTQ3N045TGpseDNYOFZURm5GQm8wcmZzR29iZEdVXzhEV0REaWxyaWprck1tQTZxLVFpNDFUVHc5UDVsaWM3clY1MnZpeF92MlEy?oc=5",
+        "date": "08/31 20:02"
       },
       {
         "type": "positive",
@@ -910,6 +905,13 @@
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcG9NMmY5enctVVhERUNvTnlWNDdXMTJKdF8tMEh0TU4wUm5nam16TkZmT1dkMENMM3NIY3B0OV9EcUh5dkl0T2NEdm1OQVhyNU9VbTFvdHBELW51eVhER1dnSWcyY3pYQXAwMk9aWnpjQlBGa2JHY1p3TkI5eU9CQ183eXNwTDNldXc0UmFkQmFDb3NPb3hUTE02TDBHbDlEb3cxOGl5VE9xb05BcFNMc05YUlcyc054RGZBYUhscjAySWhJVEpNUGVRTkl2UdIB0wFBVV95cUxOYUJ5VzVqM3hjSkJzMDJPZnJkSk9ZWWdaZDFRUkptZDRmSkE0TkdaRl9PZy1ZLXJEeTdRTk54bFQ2YTFEdlVfTFBWTVp2MHE4RGNjOFBwU3NjeUtyek9HaEpNTXJoc2V5Qk55U29WaU9RbDJHb2xNRDdHaVpnckhkcVR1RzRuVk1vaC1jZzhmTVJ0MUxwQ2UxMWtNUHJvbjZsWlh0WVJpZ1pDckZUbFBvQ2xYSWRBTGs3YzY2OXNaMjJxb0lrTzVkNHdUbHhSLVJZR1pN?oc=5",
         "date": "09/01 09:17"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom (AVGO) Reports Earnings Tomorrow: What To Expect",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWNrR2otRGpfNzRKR0FQWndjNUR1Vi1nQ1BNT2xUUXZtZFk3TkpfQ3RkMHpkNC1kbXVoY09BeGtyQl9XSTZIVFFQMFFTX29tWXliNWJuRlg0R0ZkOS15QWdnalZGc3lwT1R1Y0s0N0hYNjFOaWlwWXBPS2hoSHBzV1VtSWozQ19KcVA5V2h1dnMtYWRzYkUySDAwZ3NkdnlQLUM0Yjc4SWtuTHJRTll4N1N2Q2U5QQ?oc=5",
+        "date": "09/01 12:01"
       }
     ],
     "BE": [
@@ -951,18 +953,18 @@
         "date": "08/31 22:32"
       },
       {
+        "type": "positive",
+        "title": "One Mag 7 Stock to Watch in the Second Half of 2026 For Solid Gains",
+        "publisher": "finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjFBSThuQUkza0xRNnhzU3dVWjg1LU50MHMtVlFSQldRbWFwdURuTndzd1dwRzZGaW4zY2s0TDVQSVNnNjRYTkFlSmJNUUtXRjBwLXBNNlBmOG9VQjdLRERUTFZuZnJvemVUVTFfSHhUdzVTUEhUd2Q4S0d2R19BajZMa05KYkpQVjJXTWV5bw?oc=5",
+        "date": "09/01 03:00"
+      },
+      {
         "type": "neutral",
         "title": "GOOGL Stock Delivers Like The Leader, Priced Like The Laggard",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUlSVDJsTjRnYVVpZFBQcF8xT0Qwa3A0TXQ1UjkxZWNmbnIxVFh0Z3Rlc1JVOHFXTXM5d1VOVWtTTFZ5QU1HZXBXWjZPRk9sdWZuYnVNZ3NGaTNCa0p1YkEtWHpMQ0FFLTBTb2xTTVdlZkF5MnFrVGwyLXUxZkk3MWl3Vm5fSzVLYU9vYTJOZnQxM3J5dktoX3NqQVU0RWxYbEtIRXBaTDVqcWZnTG5VVWlOZnZ6WnZ6cGE4cDl6QQ?oc=5",
         "date": "09/01 09:40"
-      },
-      {
-        "type": "positive",
-        "title": "One Mag 7 Stock to Watch in the Second Half of 2026 For Solid Gains",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjFBSThuQUkza0xRNnhzU3dVWjg1LU50MHMtVlFSQldRbWFwdURuTndzd1dwRzZGaW4zY2s0TDVQSVNnNjRYTkFlSmJNUUtXRjBwLXBNNlBmOG9VQjdLRERUTFZuZnJvemVUVTFfSHhUdzVTUEhUd2Q4S0d2R19BajZMa05KYkpQVjJXTWV5bw?oc=5",
-        "date": "09/01 03:00"
       },
       {
         "type": "positive",
@@ -990,32 +992,25 @@
       {
         "type": "positive",
         "title": "Qualcomm Inc Stock (QCOM) Moved Up by 3.43% on Aug 31: What Signal Does It Send?",
-        "publisher": "TradingKey",
+        "publisher": "tradingkey.com",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlVtRXpRdDI1cEU5dHhkYTVJNW5XSnhlSzFMRkJLd3lCQUEyaV9JeVVwZ1RtQnVENC10YUJrSmZ5eF9mSTB5UUdET1hGOE96eV9Pb0d0aVF6dk9STk1FMlZFUnJRNmlyOWJMSk9LbGN6S3ZPTm5pTG93eUNrVUVOa0tLVHRDM1pnaTBn?oc=5",
         "date": "09/01 03:15"
       },
       {
         "type": "neutral",
-        "title": "Qualcomm (NASDAQ: QCOM) officer trust exits 208-share position",
+        "title": "Qualcomm (NASDAQ: QCOM) family trust plans 208-share sale in 2026",
         "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0x5UTVnOGRUZ2F6RDVYcEN2MjdZWFpFR254b1ZDQ2F2WVNITFR6TDg0eDFCUl9EU3lMNm9kSFdITUlITC1xWjA2cU9mc0ZZWDZXcm5nS21YdFRodzNHVnJDejVsYl9HNWxBZXFKM2REckdzcEJOcld0QldINWUtWDVQbzlnSTJxWk50Wl94c29fblItUDc3U2tERTUzUlNXSzVDZzhpSWJYY0hBVmc?oc=5",
-        "date": "09/01 06:28"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0FWak1SNUs4SjZuaVpvNGZPbjBDUFJleGpYOW55ZnYxTU16Q1FOLVJTdlZoYWJYbHI2cTFuM0xTUUpzTGN6THhvUXFZc2o5eXZuMl9LeDVGRm1obmttLVJHNDJBZndMck8yU0xiTG5ReUdTNE02Y1MyaG1VZ3RBZzdja2VIQlFka0xXVl9wWWJqazFOcjNz?oc=5",
+        "date": "09/01 05:11"
       }
     ],
     "VRT": [
       {
         "type": "neutral",
-        "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
-        "date": "08/17 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv Stock Nearly Doubled On The Same Projects That Delayed Its Revenue",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMm8zaVNZZ2FaT3hIRHlGZENlVzVOMUY2Q1k0cjBSQVNrSFNRSUhsNGFvNEZmTUVwcGlmNmRCc1E1emZCcml3MUk4eFVsUTV2QUVEMW5hcFhDRUhpa2pnaG1KdDNldmZCWXEwWHIxbXdmRl96RTNBZnpTSERaTV9QdjNPMmdVRHJUbnRXWER4aThrOEQ5bU1fOVVLSXk0R3pRSENpanYwM1FzbTRscmo5akJUb1VCSVJxemRITTdTeHpTTm1CajhlQlhMYUxMUQ?oc=5",
-        "date": "09/01 05:39"
+        "title": "Vertiv (VRT) Stock May Be Fairly Valued On Raised AI Guidance",
+        "publisher": "finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMS1ueFNpRW52Z2ZHTVp5SDIzWHVkd3R0MjZsZ1Y4aVpnN1N3NUZNaHJsVFpNR3Z3OUNNRnM5SmdtMG5WcnJ2bzVybVJDY0FpanVSZC1nNEdudV9GUEV5X0g5elVyUDZsMmM4cEEwWEZSV0ZzdEREdzI5cmxWZWFIbVhNQ1ZNVTNkWkJJVWNSaXZrenAwNWtB?oc=5",
+        "date": "09/01 10:07"
       },
       {
         "type": "neutral",
@@ -1030,6 +1025,13 @@
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSk1rZUVoZWJaZDBXOW1ra29IX2RWMjBJREtHN1dQc3Q4UGpOQ0x3akxlYUxOMUlkbmNXcm9UVXVWc3dvWDZ1SUJITy0xRjVJZEs1LWdpRFJId0JJQzU4LUpnZ2pJS1pjRGFqLXd4eWd6QWlQZXRQN2RlTXNRNDQwQVRNMmRfYkM4UzF6UE85Y3JfSmFQNUtDZUpjSXVILURjbVRVTUxOcVF1M0lYUmJVWkIxMGFyamdYTVIwT016YlZZQmluVE9qWTNZRy1MaTMwbncxZtIB2gFBVV95cUxOTWk0ZDNpZjA3X3NKN3NmSjBCUTJLUVZOR29mWU9qNENRUnctMHNhZE9kVTQySmR0VW1XanE4ZnBkeXNHQkRKR3k0MW91VktzdGc4Sjl0OF9TUDQ3ZFdEbDdUV3hPWXdnSHBLU2lrZTZydng0T0RiMW9TOVI0MUtma2ZiUTdIUzhsMm5Ldzk0bFZxSHVFelFzcDVtTHBwTGhSa2hwOUhCVDBUZXNibWVMMGpyamxEVFExbXFYZW5yU0R6d1o0R2g1X0ZBWHdPY055T3g4T05RbUZwUQ?oc=5",
         "date": "09/01 10:38"
+      },
+      {
+        "type": "neutral",
+        "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
+        "publisher": "finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
+        "date": "08/17 16:00"
       }
     ]
   }
