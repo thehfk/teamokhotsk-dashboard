@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-09-01T17:53:47.485503+00:00",
+  "updatedAt": "2026-09-01T20:18:11.578420+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7633.13,
-        "change": -0.69
+        "value": 7631.47,
+        "change": -0.71
       },
       {
         "name": "NASDAQ",
-        "value": 26115.14,
-        "change": -0.97
+        "value": 26099.77,
+        "change": -1.03
       },
       {
         "name": "다우존스",
-        "value": 52760.97,
-        "change": -0.8
+        "value": 52766.88,
+        "change": -0.79
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.96,
-        "change": 6.97
+        "value": 16.39,
+        "change": 9.85
       },
       {
         "name": "미국10년금리",
-        "value": 4.79,
-        "change": 0.63
+        "value": 4.8,
+        "change": 0.84
       },
       {
         "name": "원달러환율",
-        "value": 1374.1,
-        "change": -0.22
+        "value": 1373.69,
+        "change": 0.52
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "06/01",
           "06/02",
           "06/03",
           "06/04",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7599.96,
               7609.78,
               7553.68,
               7584.31,
@@ -179,13 +177,12 @@
               7675.7,
               7730.99,
               7686.14,
-              7633.13
+              7631.47
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              27086.81,
               27093.9,
               26853.98,
               26830.96,
@@ -248,13 +245,12 @@
               26130.2,
               26541.35,
               26370.89,
-              26115.14
+              26099.77
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              51078.88,
               51307.79,
               50687.07,
               51561.93,
@@ -317,7 +313,7 @@
               53463.88,
               53569.44,
               53185.9,
-              52760.97
+              52766.88
             ]
           }
         ]
@@ -457,7 +453,7 @@
               15.21,
               14.51,
               14.92,
-              15.96
+              16.39
             ]
           }
         ]
@@ -597,7 +593,7 @@
               4.66,
               4.67,
               4.76,
-              4.79
+              4.8
             ]
           },
           {
@@ -669,7 +665,8 @@
               1383.49,
               1380.45,
               1377.11,
-              1374.1
+              1366.62,
+              1373.69
             ]
           }
         ]
@@ -880,11 +877,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 25.9,
-    "BE": 27.3,
-    "GOOGL": 39.7,
-    "QCOM": 55.6,
-    "VRT": 34.8
+    "AVGO": 26.1,
+    "BE": 34.6,
+    "GOOGL": 39.9,
+    "QCOM": 56.6,
+    "VRT": 35.4
   },
   "news": {
     "AVGO": [
@@ -897,24 +894,24 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom’s Google Problem? JPMorgan Says Not So Fast - Broadcom (NASDAQ:AVGO)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTWJjeUw2c045T1FyemxSc1hsenVJcHlGSl9xaVB4enZ2SkRic2ZhSlZFTm9QeTVEOExQa3lVWHV2M09yd3kwMVVZYXJEOGpZcWE2U3ROMGNXZlpESk1qMlh6UlJGRmVleEd3QUlQVEVzNzlnWkhralJiMGVON01XTmJibk9XWFJyNFhEQ1d1RTAtYUxGZlp1NnI0QUtWaHJ1UzdGWHRVTDZJbzNaLXM4enY1R29TV0pWb0lNODItbW1NMGxjdURPS3A4SkhqWHVOMXBRV3VrRlpvOG5iaG51NzZR?oc=5",
-        "date": "09/01 01:52"
+        "title": "AMD or AVGO: Cathie Wood Sells $74.5M of One Chip Stock, Buys $20.5M of the Other",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUliTE9xZ3RHMEpLU3dCMGV3TlpNQUZMWUZTWTc1V0NiRjFKdGdYNTlkcWpaNEtHdnoxS0E2TzZfQk5ubnBRNXFFeU9qYWk3OEVoMU1WeUR6WTNQVVZXUTVsaE5WOUg3VUJranBfMmFLNERTc09FbEg2YU5vMjlzb3pyOUQwSm5sMkJZaDFfQzB1WklMREJnZU1HVi1qa2ZEUUI5TXZaaGtBQXM?oc=5",
+        "date": "08/31 19:09"
       },
       {
         "type": "neutral",
-        "title": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
-        "publisher": "trefis.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFc2WjJwWW51bTQwdjhiUm0xQmhKN1RZbWpKTkc5TUtGcklsT0NrUlFoRVFOOUtDLXhVWHhTakYzWWNnQTFMTnR4WDMxOWVwUzIxankyTjJxcmxMWHpFY2RMclplZEhaaTlGcHdQOTktbFh2bFJhNDEzaEZzanNrYzByOFpBcUhTS0wzUzEyREhOeVNVazlNdUNUM1RlLVF5a1ltLVRxWUU0VDIzUVU0a0t1TnBaeXZtREwwN2NwdWlNXzdaaGhz?oc=5",
-        "date": "08/24 16:00"
+        "title": "Broadcom’s Next $100 Billion AI Business Is Taking Shape. Here’s What It Means for AVGO Stock",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbHVwTXh3WEU3VzVGR1FkMGc4d3pKdGJPTmZlSjFJNjJaWDdjNm81bEIxWGp1Mjh1U0JiMzZzNzVkTW9iQWVELW9tMjZUQ3NXYmw0Rm5Ld3hhVFZ4dVNFb1UxeDk5YUp6Y2tYRnZNSVJtLXdobzQtNlVFQ0dPUlJjLTFndW5yMi0wTmcwTmgzQXlVQy13YzQtT3cwRzdXRUhUcG9Sa3REZTY0aV9oYThUYi1BcU9rLWQ4RzM3MDlFeHdIVXBtWFZ3ZHJKRnV5QQ?oc=5",
+        "date": "08/27 00:15"
       },
       {
-        "type": "positive",
-        "title": "Broadcom Stock (AVGO) Opinions on Upcoming Earnings and AI Chip Developments",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZk0wVTZDQjNFcl8xSnhxbC1RQ0J2ak5OdzZJd3MtV3JJSEEwclNfSndtcV9qbTh6OUp3cUJiZFhHSWdvejgxT3RsbWZjblBFMi1ZRU42MWhZOUs2WGpLLWF2bjl1WjJEZnFZR1BaUWxyMFppSEJmcjVyTmpuOXpvREhZbDdDdFdmdUFCUWkwaHI1eGNPcVdNY1dmY21lbmlXcjFDUmRRcl9JYmJuZTV4RlNERQ?oc=5",
-        "date": "08/30 23:03"
+        "type": "neutral",
+        "title": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON3UtVEFRNDdrbFVUb09GTEZyZmlFaHF6ejU1aUFwVkRUNVBZY2x0bjRGUTUtamlWUzR4cHpwWXh3OXJlUWxNcGtwbEFGMFpqdldhbTlXVVhNU3dhalZiWEVUWXdWY3RPV2FxRzlHUWVQTVV6X2pCLThUQlJPRmI4V3NhV3hEbXpZSlNLTHdIaGRQQVRlbG1aOTRVT0xhZzhtcmNWbE1ZdUdFeWhjTVlIRWJ6SVNYWS0x?oc=5",
+        "date": "09/02 02:59"
       }
     ],
     "BE": [
@@ -951,7 +948,7 @@
       {
         "type": "neutral",
         "title": "GOOGL Stock Delivers Like The Leader, Priced Like The Laggard",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUlSVDJsTjRnYVVpZFBQcF8xT0Qwa3A0TXQ1UjkxZWNmbnIxVFh0Z3Rlc1JVOHFXTXM5d1VOVWtTTFZ5QU1HZXBXWjZPRk9sdWZuYnVNZ3NGaTNCa0p1YkEtWHpMQ0FFLTBTb2xTTVdlZkF5MnFrVGwyLXUxZkk3MWl3Vm5fSzVLYU9vYTJOZnQxM3J5dktoX3NqQVU0RWxYbEtIRXBaTDVqcWZnTG5VVWlOZnZ6WnZ6cGE4cDl6QQ?oc=5",
         "date": "09/01 09:40"
       },
@@ -986,13 +983,6 @@
         "date": "09/01 03:32"
       },
       {
-        "type": "neutral",
-        "title": "Is QUALCOMM (QCOM) Stock Cheap Or Already Near Fair Value?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXJtRWloZU5oTzR6c2NJS3ZQZHlxUHlGWHVHc3d3YmVKckE0cEJaT2VBQS1oZjZVTWRyQlhYbjE0Z3NBaEdwRmRVU0QzazlJREFVenIxZ0VlaEIwUlpKRHZzbktTZDZocWFadVVZWTl4TDNpcUNTN1Z1Rjdxd3hZV1ZMZFdYd081MmVxaGdGMkxGcUhBdmRuQXhDV3ZLWXJRVmFNUW1zYV9TYTZsS25DZXBWVUxYMTR2TUZ0aGJEUURVSmhJaEkxSkttSmrSAcwBQVVfeXFMTkFybUVpaGVOaE80enNjSUt2UGR5cVB5Rlh1R3N3d2JlSnJBNHBCWk9lQUEtaGY2VU1kckJYWG4xNGdzQWhHcEZkVVNEM2s5SURBVXpyMWdFZWhCMFJaSkR2c25LU2Q2aHFhWnVVWVk5eEwzaXFDUzdWdUY3cXd4WVdWTGRXWHdPNTJlcWhnRjJMRnFIQXZkbkF4Q1d2S1lyUVZhTVFtc2FfU2E2bEtuQ2VwVlVMWDE0dk1GdGhiRFFEVUpoSWhJMUpLbUpq?oc=5",
-        "date": "09/01 19:31"
-      },
-      {
         "type": "positive",
         "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
         "publisher": "Stocktwits",
@@ -1001,10 +991,17 @@
       },
       {
         "type": "neutral",
-        "title": "Nvidia Just Invested $3.5B in a Major Qualcomm Rival's AI Chips. Here's What Traders Need to Know.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQnRmenBtYzJxNkRCRTlqc2tZTXRLNDM2dTAtMUFxT1M1YlRFUEdETHBqVmRHUlRfZ01jbTJpeGVQRFF0UzBBVDJkSC1USmc2eUtQckJ0M1llQ3RRa2lIbGVNNUpKazFFZHcybzJKdnVKNS1tYmpEaGVzc0xzdWRucHhpQjlyMVJxYXRWTkRGRlc2dUJSenk4Uzd0a2hUU1NCSnMtUFBzYTZWazFjUnJTaFJIc0dzVnJOblhzTTBxdERuMmp5YTgxcU0xNVJIQ3ZMNU02anBR?oc=5",
-        "date": "09/01 22:14"
+        "title": "Is QUALCOMM (QCOM) Stock Cheap Or Already Near Fair Value?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXJtRWloZU5oTzR6c2NJS3ZQZHlxUHlGWHVHc3d3YmVKckE0cEJaT2VBQS1oZjZVTWRyQlhYbjE0Z3NBaEdwRmRVU0QzazlJREFVenIxZ0VlaEIwUlpKRHZzbktTZDZocWFadVVZWTl4TDNpcUNTN1Z1Rjdxd3hZV1ZMZFdYd081MmVxaGdGMkxGcUhBdmRuQXhDV3ZLWXJRVmFNUW1zYV9TYTZsS25DZXBWVUxYMTR2TUZ0aGJEUURVSmhJaEkxSkttSmrSAcwBQVVfeXFMTkFybUVpaGVOaE80enNjSUt2UGR5cVB5Rlh1R3N3d2JlSnJBNHBCWk9lQUEtaGY2VU1kckJYWG4xNGdzQWhHcEZkVVNEM2s5SURBVXpyMWdFZWhCMFJaSkR2c25LU2Q2aHFhWnVVWVk5eEwzaXFDUzdWdUY3cXd4WVdWTGRXWHdPNTJlcWhnRjJMRnFIQXZkbkF4Q1d2S1lyUVZhTVFtc2FfU2E2bEtuQ2VwVlVMWDE0dk1GdGhiRFFEVUpoSWhJMUpLbUpq?oc=5",
+        "date": "09/01 19:31"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm’s AI Ambitions Run Into a Smartphone Reality Check",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVlRrQW00RjJRTmlCZlFmMUt6NDZ5TUcxZHVwYzVqbkVpLVhjdkNpZnFmNGQ3RUpHVUNwQTFTS1BVemhCQTJFaVIwc0pXZm40dldBLW50UjBNdlFnYVpFMnpablZGbmtNVzIzUHpjOFhaOElxUTBFajhUTWp3VDJhQWxyay1tNHlvWWJKbDNEVmRSbWQ2dFdXRndTZw?oc=5",
+        "date": "09/02 00:07"
       }
     ],
     "VRT": [
@@ -1014,6 +1011,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMS1ueFNpRW52Z2ZHTVp5SDIzWHVkd3R0MjZsZ1Y4aVpnN1N3NUZNaHJsVFpNR3Z3OUNNRnM5SmdtMG5WcnJ2bzVybVJDY0FpanVSZC1nNEdudV9GUEV5X0g5elVyUDZsMmM4cEEwWEZSV0ZzdEREdzI5cmxWZWFIbVhNQ1ZNVTNkWkJJVWNSaXZrenAwNWtB?oc=5",
         "date": "09/01 10:07"
+      },
+      {
+        "type": "negative",
+        "title": "Vertiv Plunges 20% in Three Months: Buy, Sell, or Hold the Stock?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDdGbWRQcThWdE1DMkxjYkhNbUVqMTdTOVBZaEd0RFlkQ1dTUUN6NEt3Z1Z5M05kOG9WZkZPYVRmQWMwUWhoUWhZeHJlWlRpUzY1VkdfX09DbXpiZzRpSjBfeEZhNjlDNm5oUmxSa2tZY1lrVnI0QmR2TTUyLW5iRjBCZlptVm5JV3ZWSzQ0YzJaTi1iR18xN2xSdmxwNGpuOXBBeG8yZlV3QWkzc2FXM0lFREJHVVU?oc=5",
+        "date": "09/02 02:07"
       },
       {
         "type": "neutral",
@@ -1028,13 +1032,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlxaWk0TDJZRzE5Z0hNUWtRVXl3eGVZNnRTbzE5TFNiaFp2cFYwZTVqRHBYN2RBTUMzWU0zbXBXN2pzTktFQU9rUmZkUWZIWVVxVk14U09HOThoN1p4eTduRnRTR09Fb2J6d1hxT1RKZlFrX3J1YmozTV9LTGJnci1iVWkwdWEwUGxndGpNczgwUFFK?oc=5",
         "date": "08/17 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Can Vertiv Holdings Co (VRT) Look Fairly Valued After Raising Sales Guidance?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSk1rZUVoZWJaZDBXOW1ra29IX2RWMjBJREtHN1dQc3Q4UGpOQ0x3akxlYUxOMUlkbmNXcm9UVXVWc3dvWDZ1SUJITy0xRjVJZEs1LWdpRFJId0JJQzU4LUpnZ2pJS1pjRGFqLXd4eWd6QWlQZXRQN2RlTXNRNDQwQVRNMmRfYkM4UzF6UE85Y3JfSmFQNUtDZUpjSXVILURjbVRVTUxOcVF1M0lYUmJVWkIxMGFyamdYTVIwT016YlZZQmluVE9qWTNZRy1MaTMwbncxZtIB2gFBVV95cUxOTWk0ZDNpZjA3X3NKN3NmSjBCUTJLUVZOR29mWU9qNENRUnctMHNhZE9kVTQySmR0VW1XanE4ZnBkeXNHQkRKR3k0MW91VktzdGc4Sjl0OF9TUDQ3ZFdEbDdUV3hPWXdnSHBLU2lrZTZydng0T0RiMW9TOVI0MUtma2ZiUTdIUzhsMm5Ldzk0bFZxSHVFelFzcDVtTHBwTGhSa2hwOUhCVDBUZXNibWVMMGpyamxEVFExbXFYZW5yU0R6d1o0R2g1X0ZBWHdPY055T3g4T05RbUZwUQ?oc=5",
-        "date": "09/01 10:38"
       }
     ]
   }
