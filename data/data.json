@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:02:39.355462+00:00",
+  "updatedAt": "2026-09-05T13:55:32.751657+00:00",
   "market": {
     "cards": [
       {
@@ -904,13 +904,6 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Jim Cramer Says “Someone Must Know Something” About Broadcom Inc. (NASDAQ:AVGO)’s Post-Earnings Share Dip",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVdxTnNldmFMY1F0NUdFbVFCcTBPTnhUcC0zcDBYS2c1dVhoUEFab2g2WUdjRkJoRUdWUlRSZGpLdjc5Wjl3M3hBTWI4Z0tGM3J0MGZ3OUN3X3ZqN2s0VTlOdGxhWXV6X2NJazh4cE1oVlRmZm5KX3JwTUU2SDFRUjJESURtMGIxckVNdWVGSVBDQnU1RDZKRA?oc=5",
-        "date": "09/05 07:51"
-      },
-      {
-        "type": "neutral",
         "title": "5-star analyst resets Broadcom stock price target",
         "publisher": "thestreet.com",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVhYN2pIMkF1S1VwWkJsT0Q3SU5wZ2FPLWgtalBudG5zTktDTGk3TnFJSlgtNElzc0NlTFpPVTgwbnYxYVA0bG1vR05WTnA5dG9aRnZUaDFWOS1LWDlnOEM1dXNLOVdibTAxOW9XbmZWZlRZOU5KZm8xSTIxd0xfTEJqSmlvUE9pUFZGNVQ1ZGVCY3JH?oc=5",
@@ -918,20 +911,34 @@
       },
       {
         "type": "neutral",
-        "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
-        "date": "09/05 12:23"
+        "title": "Broadcom Crushed Earnings and the Stock Fell Anyway. Investors Are Ignoring a $230 Billion Signal.",
+        "publisher": "barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0VjODZDdURQb2JidEhVNFRpNUJKYnBIemtiaVpGTzdiOW9sMU9Ld0RWTGR0WXRKVDJrWHVzS01PUlN5VXRtaXpVamEwZldodUF4RkNkNWNtMFNZa0NqbHd4ZWtnRHlwN2dheHhQNmVuVnNtS3hxVXVHR1BUUTBFeWZtbXcwSlF3OTlURjRtMXFLQk1RWFdCTkVUWF82Sjl4NnBrRUxnRS1WeDZIVkM3ZFBrbXdMZy1oXzlzV1dJNVRPX0J2a1I4bWY4QnhJSXd0M0VXOWlR?oc=5",
+        "date": "09/05 02:13"
       },
       {
-        "type": "negative",
-        "title": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHY0WFJVdWREM3hnU3RtNURIbzREU085dVczd2JOcTZuMHRYNWVuVy1ENUhINXBLSmx6blZtajM1cGVyZ0p1REdueW9ISGZOT3NrVFU3eE1xeGJiSDdzeXZ1T2R1dzVZbDVFWXg0ZTNWdUswYXBTYkFXTldLaGpoSjZHTWZrd3NTakRmeEtSeVE0RWhsaWlN?oc=5",
-        "date": "09/05 07:20"
+        "type": "neutral",
+        "title": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
+        "publisher": "cnbc.com",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1I3N3lSUi02UjhiR3BGRjgtaDJkbXZtTWpVNW1DdlVGVjhzWUFrVlZWQWQ0dTR4X0NKN2xTOGtpWWlZLUtzWXBFbndYRmpKV2gyYV90VVM3ZDlIR1NLcDdLbFFGRDRRTTJ6T01uUUJuYWdMSGZUcnVabFhkc0hBUlpvVkxyNVRZNVU3Nk83NDVKS0lob2dHYw?oc=5",
+        "date": "09/03 20:35"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus",
+        "publisher": "stocktwits.com",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajVrUWtEeXp6Q2VUZGhuZXZVTHY5ejBrYnFHZmxEUzBrd0c3Y0lqbzFoelBkMncwYnBLc3VDXzZaSTlUckVTUmg5MFF6bnpYSWhvb1dqeGVFTmVWVHZqcEZFNFRxbE9Fdkhoamg4SF8wUVFYNzJmM0d1aUdYTVA2ZGxKQXIyUU9EaWVONUp0NE8zbGZqSXZKd1FRYVVEN1NZT2oybEY5UXJpdGhUaS01c1k0blprS1JjeVhLcHBWQmZ3RFJQVU11YnI3Y3ByWXR5dHNpMWthWEkweHpZS3EyV3FQeGNzV0hJMGc?oc=5",
+        "date": "09/05 18:50"
       }
     ],
     "BE": [
+      {
+        "type": "neutral",
+        "title": "Why Is Bloom Energy Stock Surging on Friday? - Bloom Energy (NYSE:BE)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1A1WFpSdDJ2SDVmQlIwZkd5MHFXRjlmOUptQ0FHNGQxcFBOYmFwUFVaNEU3aGowY1BPRW56RjNEbHZoNHBYVU9MWXd0amRPNEZNaG1JaGpucmNoRkNKNWtaY3B5akFJWDVZQkY0MEVwbDFVN1R5Z05BZDVreGYzUzdwVV9MNWVRb09jNEpCazFUdDlrRU02bVYwNjVBQ1FXVy1ZRTBqMA?oc=5",
+        "date": "09/04 23:50"
+      },
       {
         "type": "neutral",
         "title": "Bloom Energy and 7 More Stocks That Could Join the S&P 500 This Month",
@@ -947,34 +954,27 @@
         "date": "09/05 10:08"
       },
       {
-        "type": "neutral",
-        "title": "Bloom Energy Stock (BE) Is Rising 6% in Friday’s After-Hours Trading – Here’s Why",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnFXNDRUZDhaeXhzbWZjUHZxMHQzZlBEQnlqV29adGw2MmdZdjJpSHBFd2dYOGlqWGZHbF9Kenh2c2d3MVRBakNmM2NaaHF1Sjgyc2RNZ3ZUV2thb0oxb3owYzZsbGVNZzd3cTZIalYtYmRadEM1SEpoWVFKcVUzMDNIQzdueENiMlRrbXBmeXRHdVhYanN6RE5UNHJkelJmTEROaEFyaw?oc=5",
-        "date": "09/05 11:40"
-      },
-      {
         "type": "positive",
-        "title": "BE, P, ILMN Join S&P 500; LNG Misses Out — Bloom Energy Stock Gains While Cheniere Energy Slips",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORmd3bEtOaURfUng3enUzcjhBVkp6d05jWTBFNUdTc0ZyM1I4bXd4dHBuVE9YYjRsdGVtaTJxbnJPOUVrOGFDRXpzR2Z0YUxockJ4VnJ6VmgyLWlrX2hoRnFIUEpvZnJibHRYUGY3UEZCSk5aVTcxdUNHZkRBLTJVVFNyWU80d25EY1E?oc=5",
-        "date": "09/05 08:42"
+        "title": "Bloom Energy (NYSE:BE) Stock Price Up 7.3% - Here's Why",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOExKbHB1SlNIUlJVY0tpVzFIOVRkdWtUcm92MlFlY3pyd1lhMF9Zc2RRSTNwVHBEajVoQ0NnVklpRGFLeTNJZ1VzYmlVSkxqbUVxNTI4Tm9MUWNiVlpqNFRiLTlXSklQeC1ZUmtBRi1MS2pxTElzSUNPUDVoaGRKWE9mZzNDZTNSWmRUY2dNOWg4WURwaTR4b1Z3SmM3cnYtMl9PX0JvQndrQ3RI?oc=5",
+        "date": "09/05 06:24"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "Don’t Rush to Buy GOOG Stock as Alphabet Heads Toward Bear Market Territory",
+        "publisher": "barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSVRycmFvT0pzdmhoTFE4Vl9rS2YxX192UG9wWjZBQ0lfRlRWdGxrd0dGOFRTODQ1M0UxTU0yWG9SdDN0YWNzRWNBZzI3dXlCekt5dUVHeDc3VHhHcEk4aTlpdGh3ZEtKd0poZmM4TGZkNmpkR1pEdVlXXzhsLXRjY3lyWTFuVzduNEdMclNLVWVHclRKS1UtWUZZQ0xnYjdCMFJDdmZTYk82ZTFmLUpoZkJJbjFuVDE4Rmc?oc=5",
+        "date": "09/03 05:22"
+      },
       {
         "type": "neutral",
         "title": "Alphabet: Buffett Is In, Google Keeps AdX, I'm Out",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRzBRd0tmRHBCOC00R1I2WTBxUG1wbi05c2tfT3M2TGF0eU1aeWdldS1oa1dzc3ZPZzZJdDJhcHpPcEY1dlpMX2xWMl84LU5vd1ZJT2J0bnBnRGx5STFRVXJiNkc4R0pYMG9CQWRQZkg2TE52Q0hCWmRzNS1VbkhVRTNLV1Y1SDlhcWhMbWQ4dC0?oc=5",
         "date": "09/04 16:51"
-      },
-      {
-        "type": "neutral",
-        "title": "Don’t Rush to Buy GOOG Stock as Alphabet Heads Toward Bear Market Territory",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSVRycmFvT0pzdmhoTFE4Vl9rS2YxX192UG9wWjZBQ0lfRlRWdGxrd0dGOFRTODQ1M0UxTU0yWG9SdDN0YWNzRWNBZzI3dXlCekt5dUVHeDc3VHhHcEk4aTlpdGh3ZEtKd0poZmM4TGZkNmpkR1pEdVlXXzhsLXRjY3lyWTFuVzduNEdMclNLVWVHclRKS1UtWUZZQ0xnYjdCMFJDdmZTYk82ZTFmLUpoZkJJbjFuVDE4Rmc?oc=5",
-        "date": "09/03 05:22"
       },
       {
         "type": "neutral",
@@ -995,7 +995,7 @@
       {
         "type": "positive",
         "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
         "date": "09/05 18:50"
       },
@@ -1009,23 +1009,23 @@
       {
         "type": "neutral",
         "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
         "date": "09/05 09:19"
       },
       {
-        "type": "neutral",
-        "title": "QCOM Showered Owners With Cash. The Stock Still Lagged The Market",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkUtRE4wcEFTemlZUFFNSlR0cU4yRHE2WjFiTEFnRkpneE9XQWVJd2k1R25pNU1ZeXNJV1dmQmVSNjFZN3RyNVp4YlVlT2NldmI1Z0hzWmloOE1mNXllY05pU3ZYM04tTEcxVWRQQ1VYX1ctYmRfeGpwWHVzYTNidXZ2dnBJcnlHaEpqSmJtaFRHWGYxYU5OVVdDYlBQTHZtWGZ6bE5pOWhmVmlHS1ptSkU1M0lRSUItVUcySjVpT0xESFk?oc=5",
-        "date": "09/04 23:39"
+        "type": "positive",
+        "title": "Why Qualcomm (QCOM) Stock Is Up Today",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9USVkzWlFzREdGUnNYcmd2b1BqMGZmdnBfaTBJQ2ZHZmoxRTJtUGFJZThmMW1KRDd5WjA5TjRPT1pOUFpjcVozN011ZmJwOFVPamFXX2JmY2wtcmMtam9PMFNYZ0RCdWNsdnZzYTFJcXNFVWNrNzlfVG1kRldPTGs?oc=5",
+        "date": "09/01 03:32"
       }
     ],
     "VRT": [
       {
         "type": "neutral",
         "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
         "date": "09/05 14:06"
       },
