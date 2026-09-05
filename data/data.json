@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T16:23:24.451620+00:00",
+  "updatedAt": "2026-09-05T18:27:33.593384+00:00",
   "market": {
     "cards": [
       {
@@ -911,17 +911,10 @@
       },
       {
         "type": "neutral",
-        "title": "Jim Cramer Says “Someone Must Know Something” About Broadcom Inc. (NASDAQ:AVGO)’s Post-Earnings Share Dip",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVdxTnNldmFMY1F0NUdFbVFCcTBPTnhUcC0zcDBYS2c1dVhoUEFab2g2WUdjRkJoRUdWUlRSZGpLdjc5Wjl3M3hBTWI4Z0tGM3J0MGZ3OUN3X3ZqN2s0VTlOdGxhWXV6X2NJazh4cE1oVlRmZm5KX3JwTUU2SDFRUjJESURtMGIxckVNdWVGSVBDQnU1RDZKRA?oc=5",
-        "date": "09/05 07:51"
-      },
-      {
-        "type": "positive",
-        "title": "Broadcom (AVGO) AI Revenue Soars, But Wall Street Wants More",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTks3b1JIWUF5a1Y2UGNFczhOUE50clVUM3ZaMzZmajdPNXFwWmlwS2wweUdneFlYdnlPZUdVZnIzS1hpS084bWYtaDZPRVYybUo0Q1VpRXhuRHczdW4tUTdrUWJNanE3NndMR1VwSEFXUzl6TEhidmE5Z1ZEblNnR3RmeWpVakdZRFdOWUplNDVqb2Y0c2VtU2RjZw?oc=5",
-        "date": "09/05 23:58"
+        "title": "Broadcom Crushed Earnings and the Stock Fell Anyway. Investors Are Ignoring a $230 Billion Signal.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0VjODZDdURQb2JidEhVNFRpNUJKYnBIemtiaVpGTzdiOW9sMU9Ld0RWTGR0WXRKVDJrWHVzS01PUlN5VXRtaXpVamEwZldodUF4RkNkNWNtMFNZa0NqbHd4ZWtnRHlwN2dheHhQNmVuVnNtS3hxVXVHR1BUUTBFeWZtbXcwSlF3OTlURjRtMXFLQk1RWFdCTkVUWF82Sjl4NnBrRUxnRS1WeDZIVkM3ZFBrbXdMZy1oXzlzV1dJNVRPX0J2a1I4bWY4QnhJSXd0M0VXOWlR?oc=5",
+        "date": "09/05 02:13"
       },
       {
         "type": "neutral",
@@ -929,15 +922,22 @@
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1I3N3lSUi02UjhiR3BGRjgtaDJkbXZtTWpVNW1DdlVGVjhzWUFrVlZWQWQ0dTR4X0NKN2xTOGtpWWlZLUtzWXBFbndYRmpKV2gyYV90VVM3ZDlIR1NLcDdLbFFGRDRRTTJ6T01uUUJuYWdMSGZUcnVabFhkc0hBUlpvVkxyNVRZNVU3Nk83NDVKS0lob2dHYw?oc=5",
         "date": "09/03 20:35"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom And 2 Other Undervalued Stocks To Own",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlZxVmNVWVdlWDZ0X2w4emkxYk1PVEpSRV9LbE95Wm5GYlpmelNrc1FyNVg4Q1NmNnQ5dGQwX05lQjRxZjY2Ujg3UnVVWWNQWHBhb3ptMmpFOUx1ZDY1bEdpWEYzdlJLc01xZDNRVmxKTGpFOGEza20yRktaRC1wSThMQ0dXeGdyRFptY0ZxV2s5T3hNLWVFYXY3RFVQSjk5b2c?oc=5",
+        "date": "09/05 15:14"
       }
     ],
     "BE": [
       {
         "type": "neutral",
-        "title": "Why Is Bloom Energy Stock Surging on Friday? - Bloom Energy (NYSE:BE)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1A1WFpSdDJ2SDVmQlIwZkd5MHFXRjlmOUptQ0FHNGQxcFBOYmFwUFVaNEU3aGowY1BPRW56RjNEbHZoNHBYVU9MWXd0amRPNEZNaG1JaGpucmNoRkNKNWtaY3B5akFJWDVZQkY0MEVwbDFVN1R5Z05BZDVreGYzUzdwVV9MNWVRb09jNEpCazFUdDlrRU02bVYwNjVBQ1FXVy1ZRTBqMA?oc=5",
-        "date": "09/04 23:50"
+        "title": "$BE stock rose 19% this week. Here's what we see in our data.",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYktKR3BVYjUxRGJCWm5NamxOSXVUYWhyOWY0ZnJJc1AzdjNvMllfeWxyQUZzUXpEY25nZXIzNnVWNm9uamFpbjd4dUJob0I4YVQ0TmJlS3ZDc0hrdjQxN05Xa0NIVjVoQlZXS21zSnZkU2ttMEl0eE9jUURCR09LdXJnVTZ5cklwa1FaRUxobUtxcVZONk9lUm1BNDZmeGNI?oc=5",
+        "date": "09/06 01:38"
       },
       {
         "type": "neutral",
@@ -947,18 +947,18 @@
         "date": "09/05 10:08"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy (NYSE:BE) Stock Price Up 7.3% - Here's Why",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOExKbHB1SlNIUlJVY0tpVzFIOVRkdWtUcm92MlFlY3pyd1lhMF9Zc2RRSTNwVHBEajVoQ0NnVklpRGFLeTNJZ1VzYmlVSkxqbUVxNTI4Tm9MUWNiVlpqNFRiLTlXSklQeC1ZUmtBRi1MS2pxTElzSUNPUDVoaGRKWE9mZzNDZTNSWmRUY2dNOWg4WURwaTR4b1Z3SmM3cnYtMl9PX0JvQndrQ3RI?oc=5",
-        "date": "09/05 06:24"
-      },
-      {
         "type": "neutral",
         "title": "Is Bloom Energy (BE) Stock Cheap Or Already Too Expensive?",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFY5MXhXTXlESkVrT215a1l6RWd1ZkxqaU1lbHlSb0NnZzM0TGJoVFFjem9JNmN6c204ajJDN3dpYUtqRnloTGVDbjhIemNtU3dVcDBwcmtmMEFaZHFSTjBrNHhWNkpsSzZOYlNkSVU5WnlsNG9NYTk4WURNWEZkV2g3d1FjX3k2REtuOGZnLU92UXpucGJOdDVsZTNTMXNYQjhzTXJFSEZRVDZaaTZ3NjBBTlJWLU9uZThGUm5pRU1CMlNPRmfSAcsBQVVfeXFMTy1tUkIwdUhhZW1yWnh1UVNhcmJlc3hWcmJUWTJlcXp6RTRodnlpVmhQLVFob2FNYnhWc1lycUhVcGVwOGJmakdKZ2hZaEVkOWVkRFcwazRHRXlwU0VhY0d6bGJIYWs4bk81Z2E3VG1VbTZ0bFFwUW51emd1SXJLMzR1ZllSeHphLTVEV01UYkREY0NnYUdOQ1B3ZkIyZG1Hb0V3Znc4d3pDelIydmNXbDdyV1N1aUZqM0hjVHpZMUZxNmdRNHZMRFRneE0?oc=5",
         "date": "09/04 18:35"
+      },
+      {
+        "type": "positive",
+        "title": "Bloom Energy (NYSE:BE) Stock Price Up 7.3% - Here's Why",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOExKbHB1SlNIUlJVY0tpVzFIOVRkdWtUcm92MlFlY3pyd1lhMF9Zc2RRSTNwVHBEajVoQ0NnVklpRGFLeTNJZ1VzYmlVSkxqbUVxNTI4Tm9MUWNiVlpqNFRiLTlXSklQeC1ZUmtBRi1MS2pxTElzSUNPUDVoaGRKWE9mZzNDZTNSWmRUY2dNOWg4WURwaTR4b1Z3SmM3cnYtMl9PX0JvQndrQ3RI?oc=5",
+        "date": "09/05 06:24"
       }
     ],
     "GOOGL": [
@@ -970,18 +970,18 @@
         "date": "09/06 00:35"
       },
       {
+        "type": "neutral",
+        "title": "LULU, AVGO, DELL, SNOW, GOOGL: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNVRQcE1GYkJuNFVsRU9oVE9YelB2UHRHTXRIaWlvZjRUSW5hZlNQRUJfMlFhcGFFanBqX0lYa0lZbjd5MnlJemNYUFRwblNrZkRFcVBfQWtBRFdQZlBSek9PTFREWV9Vel9BZDMyZDlxTXB3eWtvZkNHYzd2TFJfemk0aFBqOXl2aU80MU5KaVpLTHlPWjRIcEpZYVFJVmdWZWRCQloxbmM3ZVRpM3VGUW95TGJZUHprMjRSMndHVll1UGVZd0dSSTZGZzJNS3RPNmx2Mg?oc=5",
+        "date": "09/05 22:25"
+      },
+      {
         "type": "positive",
         "title": "Alphabet: AI Pivot Creates A New Frontier For Growth",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmlUMU52MmY4dVZtTFl5OVdaVEthRl93NHdRclk0T3RWQTFjWnJsVWwxM1FfTTdiNHZDQjMzT2tCYjIwSlJ3cDZZdGdlSUpfckR5bW84MkIxMVZXeGo3QWdHU2l0bHJYejcwUF84VjZ4azF3blFpYWl1QWVZY3N3RmJkcWw5MGpSWXhLTG45a2RRdDM0a0JV?oc=5",
         "date": "09/04 12:15"
-      },
-      {
-        "type": "neutral",
-        "title": "Don’t Rush to Buy GOOG Stock as Alphabet Heads Toward Bear Market Territory",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSVRycmFvT0pzdmhoTFE4Vl9rS2YxX192UG9wWjZBQ0lfRlRWdGxrd0dGOFRTODQ1M0UxTU0yWG9SdDN0YWNzRWNBZzI3dXlCekt5dUVHeDc3VHhHcEk4aTlpdGh3ZEtKd0poZmM4TGZkNmpkR1pEdVlXXzhsLXRjY3lyWTFuVzduNEdMclNLVWVHclRKS1UtWUZZQ0xnYjdCMFJDdmZTYk82ZTFmLUpoZkJJbjFuVDE4Rmc?oc=5",
-        "date": "09/03 05:22"
       },
       {
         "type": "neutral",
