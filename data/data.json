@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T18:05:49.726566+00:00",
+  "updatedAt": "2026-09-06T20:34:29.538604+00:00",
   "market": {
     "cards": [
       {
@@ -920,15 +920,15 @@
         "type": "positive",
         "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
         "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEU?oc=5",
         "date": "09/03 05:22"
       },
       {
-        "type": "neutral",
-        "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings?",
+        "type": "negative",
+        "title": "Why Broadcom Stock Dropped Today",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeW5fTDdBaHlfczd1UTdpRkJZR29TOE40R2tPS3h4RkotRDl5aW1oX09jV1gwUXZhaXl6d3V3djVYbHRjdFdPV1l0M3ZwMVZTdndnNnlGMGJqV2RmRm9DZUV1VEpkMTVyMlp4NHRJOVItcU5uWjd4QmpYemdKRXVKTGYzWVZTMXdiQjhqOC15bkdKNURfN0E?oc=5",
-        "date": "09/01 05:39"
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3JxNHpka2VIX0otSWVCLTViLTNXNFhrUnp6MHNMUFZqamxkSDFPd3YydXZ4c3pFNDZrdDJTamZ6amI1b3d5ckllQTFjbmk2aVVPMHJBbUc4ZXlZcTVONEJ0QXFqSFp1OUtnMVJmU0trSEJMMWlRM0pvbUhSSVRLUUVMUWRfSmtQT2w2SEJIalVfdmEtT1I2RFlpRHNJdw?oc=5",
+        "date": "09/04 00:05"
       }
     ],
     "BE": [
@@ -947,21 +947,28 @@
         "date": "09/06 12:48"
       },
       {
-        "type": "neutral",
-        "title": "Is Bloom Energy (BE) Stock Cheap Or Already Too Expensive?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFY5MXhXTXlESkVrT215a1l6RWd1ZkxqaU1lbHlSb0NnZzM0TGJoVFFjem9JNmN6c204ajJDN3dpYUtqRnloTGVDbjhIemNtU3dVcDBwcmtmMEFaZHFSTjBrNHhWNkpsSzZOYlNkSVU5WnlsNG9NYTk4WURNWEZkV2g3d1FjX3k2REtuOGZnLU92UXpucGJOdDVsZTNTMXNYQjhzTXJFSEZRVDZaaTZ3NjBBTlJWLU9uZThGUm5pRU1CMlNPRmfSAcsBQVVfeXFMTy1tUkIwdUhhZW1yWnh1UVNhcmJlc3hWcmJUWTJlcXp6RTRodnlpVmhQLVFob2FNYnhWc1lycUhVcGVwOGJmakdKZ2hZaEVkOWVkRFcwazRHRXlwU0VhY0d6bGJIYWs4bk81Z2E3VG1VbTZ0bFFwUW51emd1SXJLMzR1ZllSeHphLTVEV01UYkREY0NnYUdOQ1B3ZkIyZG1Hb0V3Znc4d3pDelIydmNXbDdyV1N1aUZqM0hjVHpZMUZxNmdRNHZMRFRneE0?oc=5",
-        "date": "09/04 18:35"
-      },
-      {
         "type": "positive",
         "title": "Bloom Energy (NYSE:BE) Stock Price Up 7.3% - Here's Why",
-        "publisher": "MarketBeat",
+        "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOExKbHB1SlNIUlJVY0tpVzFIOVRkdWtUcm92MlFlY3pyd1lhMF9Zc2RRSTNwVHBEajVoQ0NnVklpRGFLeTNJZ1VzYmlVSkxqbUVxNTI4Tm9MUWNiVlpqNFRiLTlXSklQeC1ZUmtBRi1MS2pxTElzSUNPUDVoaGRKWE9mZzNDZTNSWmRUY2dNOWg4WURwaTR4b1Z3SmM3cnYtMl9PX0JvQndrQ3RI?oc=5",
         "date": "09/05 06:24"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Is Bloom Energy Stock Surging on Friday? - Bloom Energy (NYSE:BE)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1A1WFpSdDJ2SDVmQlIwZkd5MHFXRjlmOUptQ0FHNGQxcFBOYmFwUFVaNEU3aGowY1BPRW56RjNEbHZoNHBYVU9MWXd0amRPNEZNaG1JaGpucmNoRkNKNWtaY3B5akFJWDVZQkY0MEVwbDFVN1R5Z05BZDVreGYzUzdwVV9MNWVRb09jNEpCazFUdDlrRU02bVYwNjVBQ1FXVy1ZRTBqMA?oc=5",
+        "date": "09/04 23:50"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNld5TnFxUkE1VEhtQm01Z2xtdndVemlESlQta3J5MHlXYndRVWExWW9qdkdJcWl3MS0tRElsczVBRXBRTjNXUlpoQXRDay1ocHlLUl9ydVlzbWxUaU16UjR0ZXhaa0JpS1BkZnpUOGtvX1dlR1NoOWpTV3RrMmVBV1FlMVVrSm91MWVGYWNSZ1hPbGc?oc=5",
+        "date": "09/06 23:00"
+      },
       {
         "type": "positive",
         "title": "Alphabet: AI Pivot Creates A New Frontier For Growth",
@@ -977,13 +984,6 @@
         "date": "09/03 18:38"
       },
       {
-        "type": "positive",
-        "title": "Alphabet Stock Gains as Berkshire Doubles Down on $38B Stake, Sees GOOGL as a “Significant Player” in AI",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2VCUVVfZGlzOUo2WnFnZWVhWVBTU3hpNmpPeWNndzhyZVc3LXRVOVpQa18ycG5BZ2NWWjZxZnRXZTRpLWptZ05UbXc1bGRTLUlMVk8xRVl0cHhSOEZxS0pHQ0J1UnVmSEsxOVlSaGQyanlhZE41T1RYMkFOYUoxcjBFWmw2MXdaNkE?oc=5",
-        "date": "09/03 20:03"
-      },
-      {
         "type": "neutral",
         "title": "Something Is Happening With Alphabet Stock That Wall Street Isn’t Talking About",
         "publisher": "24/7 Wall St.",
@@ -995,7 +995,7 @@
       {
         "type": "neutral",
         "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
         "date": "09/05 09:19"
       },
@@ -1025,16 +1025,16 @@
       {
         "type": "neutral",
         "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
         "date": "09/06 06:29"
       },
       {
-        "type": "negative",
-        "title": "Vertiv Plunges 20% in Three Months: Buy, Sell, or Hold the Stock?",
+        "type": "positive",
+        "title": "Why Vertiv (VRT) Stock Is Up Today",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHZDTzJVeDZQOVJLLThCOC1pS241VTFHRWdNMUNjMlRCNkNVQi1CWWNjcGFJNjY5SU5WRlRVWGM2RnJJNWZUVk5vcnROV2U2NmY0SkZyRWZRWWx3SVZaMHNyV2pHX2ZyYzNXMC1ZR0FvdEw5UURvSmd6cU5XRjBQS1dlUVlsSXN0NzB4cXlaVGdKUHBfdEY1Vmx4TQ?oc=5",
-        "date": "09/02 02:07"
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVU53YlNfeUw0NFg1OUtHbmNhTHItdXR0U2pZby01T3JPNFlwS01EQng0YWpNZ1hON3ktWmUtYy1Pc2lLUFJrWUNPQlV0VlNJVHhNMTRzcEpranM3T2tMRWtqLWJTMHZUMlpMam1pREVuU01aUk9mSk05TWwwa25qUmM3WndLc1ltdk1WdEpwM0VuRlg4S0E?oc=5",
+        "date": "09/04 10:19"
       },
       {
         "type": "positive",
