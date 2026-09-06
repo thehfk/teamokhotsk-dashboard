@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:59:31.161855+00:00",
+  "updatedAt": "2026-09-06T18:05:49.726566+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1351.1,
-        "change": -0.32
+        "value": 1345.99,
+        "change": -0.69
       },
       {
         "name": "KOSPI",
@@ -674,7 +674,7 @@
               1372.86,
               1358.39,
               1355.41,
-              1351.1
+              1345.99
             ]
           }
         ]
@@ -911,10 +911,10 @@
       },
       {
         "type": "neutral",
-        "title": "5-star analyst resets Broadcom stock price target",
-        "publisher": "thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVhYN2pIMkF1S1VwWkJsT0Q3SU5wZ2FPLWgtalBudG5zTktDTGk3TnFJSlgtNElzc0NlTFpPVTgwbnYxYVA0bG1vR05WTnA5dG9aRnZUaDFWOS1LWDlnOEM1dXNLOVdibTAxOW9XbmZWZlRZOU5KZm8xSTIxd0xfTEJqSmlvUE9pUFZGNVQ1ZGVCY3JH?oc=5",
-        "date": "09/05 02:07"
+        "title": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1I3N3lSUi02UjhiR3BGRjgtaDJkbXZtTWpVNW1DdlVGVjhzWUFrVlZWQWQ0dTR4X0NKN2xTOGtpWWlZLUtzWXBFbndYRmpKV2gyYV90VVM3ZDlIR1NLcDdLbFFGRDRRTTJ6T01uUUJuYWdMSGZUcnVabFhkc0hBUlpvVkxyNVRZNVU3Nk83NDVKS0lob2dHYw?oc=5",
+        "date": "09/03 20:35"
       },
       {
         "type": "positive",
@@ -925,19 +925,19 @@
       },
       {
         "type": "neutral",
-        "title": "AVGO Stock Quote Price and Forecast",
-        "publisher": "CNN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LY3VvVktnejctYWhud1RicWtyOTFwZVZoZC1pTktnSURqYWhQdlZ6X2ZaY05hN19kckJGWk5pQUFGdHJVaFF6SkV0TmNGMzkw?oc=5",
-        "date": "09/05 12:42"
+        "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeW5fTDdBaHlfczd1UTdpRkJZR29TOE40R2tPS3h4RkotRDl5aW1oX09jV1gwUXZhaXl6d3V3djVYbHRjdFdPV1l0M3ZwMVZTdndnNnlGMGJqV2RmRm9DZUV1VEpkMTVyMlp4NHRJOVItcU5uWjd4QmpYemdKRXVKTGYzWVZTMXdiQjhqOC15bkdKNURfN0E?oc=5",
+        "date": "09/01 05:39"
       }
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Set To Join The S&P 500 In Quarterly Rebalancing",
+        "type": "positive",
+        "title": "BE, P, ILMN Join S&P 500; LNG Misses Out — Bloom Energy Stock Gains While Cheniere Energy Slips",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHZQS3hESmlXdVFIVXFCTE9PQ1lyZm5Edi05T09hU3JTREFHTUxTNVZNWUhZVGdUMEFUVFZpYTdTX2p5UHR5dkt0R1RxSHZHV0FtMEZGVVpDT0NoU1ItblluU01UcHlwYVk2UEhQWExwaTgwUVF6UnJhdkxYOFpibXdrUGdpMEVxTTZKSmRkLUhPUQ?oc=5",
-        "date": "09/05 10:08"
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORmd3bEtOaURfUng3enUzcjhBVkp6d05jWTBFNUdTc0ZyM1I4bXd4dHBuVE9YYjRsdGVtaTJxbnJPOUVrOGFDRXpzR2Z0YUxockJ4VnJ6VmgyLWlrX2hoRnFIUEpvZnJibHRYUGY3UEZCSk5aVTcxdUNHZkRBLTJVVFNyWU80d25EY1E?oc=5",
+        "date": "09/05 08:42"
       },
       {
         "type": "positive",
@@ -972,32 +972,32 @@
       {
         "type": "positive",
         "title": "Google Just Avoided an Ad-Tech Breakup. Here’s What It Means for Alphabet (NASDAQ:GOOGL) Stock",
-        "publisher": "stocksdownunder.com",
+        "publisher": "Stocks Down Under",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2RicW9fcGFPcnluYmYyS190SGd3TjdjWUN1WjRYbDkyVmtPVzF3c1lDUDRRNnBlM05XREhTTXhFN21aY2VReHJ1Z0xlc01hd0haY20xeTJlQmRrMGd4Q3R0c2Y4Z1ZmVWdzY0d3NG1WNVpQd3lSUVV1X045UTFRQw?oc=5",
         "date": "09/03 18:38"
       },
       {
-        "type": "neutral",
-        "title": "LULU, AVGO, DELL, SNOW, GOOGL: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNVRQcE1GYkJuNFVsRU9oVE9YelB2UHRHTXRIaWlvZjRUSW5hZlNQRUJfMlFhcGFFanBqX0lYa0lZbjd5MnlJemNYUFRwblNrZkRFcVBfQWtBRFdQZlBSek9PTFREWV9Vel9BZDMyZDlxTXB3eWtvZkNHYzd2TFJfemk0aFBqOXl2aU80MU5KaVpLTHlPWjRIcEpZYVFJVmdWZWRCQloxbmM3ZVRpM3VGUW95TGJZUHprMjRSMndHVll1UGVZd0dSSTZGZzJNS3RPNmx2Mg?oc=5",
-        "date": "09/05 22:25"
+        "type": "positive",
+        "title": "Alphabet Stock Gains as Berkshire Doubles Down on $38B Stake, Sees GOOGL as a “Significant Player” in AI",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2VCUVVfZGlzOUo2WnFnZWVhWVBTU3hpNmpPeWNndzhyZVc3LXRVOVpQa18ycG5BZ2NWWjZxZnRXZTRpLWptZ05UbXc1bGRTLUlMVk8xRVl0cHhSOEZxS0pHQ0J1UnVmSEsxOVlSaGQyanlhZE41T1RYMkFOYUoxcjBFWmw2MXdaNkE?oc=5",
+        "date": "09/03 20:03"
       },
       {
-        "type": "negative",
-        "title": "Alphabet Stock Gets AI, Antitrust Boosts as $44.9B CapEx Pushes Cash Flow Negative",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1JtMVE1SF9fNDhmaUNKY1V2VlpHSTFySUU4a2xTbGtIZkpGNmN4UVFoLUVSMmVRdXhtSmd3ZEFPQldsRmxUV0swQ09WMmV0TnVXUC0wQUNEZG1VNkM5dTlXVmhOTWJTY2ZISjNwaTF5eFBSaGxVSDh6dVYzdEhtUElwOG9vVWtEYlFzV3NhdDFPckRHcnMwcG1WcW9sLXRHSGliUmg5TVczUlFpb0hj?oc=5",
-        "date": "09/03 16:42"
+        "type": "neutral",
+        "title": "Something Is Happening With Alphabet Stock That Wall Street Isn’t Talking About",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3dJWjhyZkRRVnlsWlN2RzIzQUZPVWNUcjNKNUI3YzBMZUJSNmhQcGtCMFhwRmt3MWV6aEJBNVpSUTNJTlB4NlFMTktsbDk1WHR6bDBrT01HZWRyZm1jaXpaNk9NNFZseUlUT3VQYV9uY0JqalRibVNET2k0OXJEbVRES2ZoZkl1NGhLZUFXZzJBRVdVN19xaTdMcUQwVTJvdHVJdkhBUjdZbXItblRtbnNNR0ZNUC1Cb3JFbUVXQQ?oc=5",
+        "date": "09/03 21:35"
       }
     ],
     "QCOM": [
       {
-        "type": "positive",
-        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
+        "type": "neutral",
+        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
-        "date": "09/06 07:16"
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
+        "date": "09/05 09:19"
       },
       {
         "type": "neutral",
@@ -1016,7 +1016,7 @@
       {
         "type": "neutral",
         "title": "QCOM Showered Owners With Cash. The Stock Still Lagged The Market",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkUtRE4wcEFTemlZUFFNSlR0cU4yRHE2WjFiTEFnRkpneE9XQWVJd2k1R25pNU1ZeXNJV1dmQmVSNjFZN3RyNVp4YlVlT2NldmI1Z0hzWmloOE1mNXllY05pU3ZYM04tTEcxVWRQQ1VYX1ctYmRfeGpwWHVzYTNidXZ2dnBJcnlHaEpqSmJtaFRHWGYxYU5OVVdDYlBQTHZtWGZ6bE5pOWhmVmlHS1ptSkU1M0lRSUItVUcySjVpT0xESFk?oc=5",
         "date": "09/04 23:39"
       }
@@ -1030,18 +1030,11 @@
         "date": "09/06 06:29"
       },
       {
-        "type": "positive",
-        "title": "Why Vertiv (VRT) Stock Is Up Today",
+        "type": "negative",
+        "title": "Vertiv Plunges 20% in Three Months: Buy, Sell, or Hold the Stock?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVU53YlNfeUw0NFg1OUtHbmNhTHItdXR0U2pZby01T3JPNFlwS01EQng0YWpNZ1hON3ktWmUtYy1Pc2lLUFJrWUNPQlV0VlNJVHhNMTRzcEpranM3T2tMRWtqLWJTMHZUMlpMam1pREVuU01aUk9mSk05TWwwa25qUmM3WndLc1ltdk1WdEpwM0VuRlg4S0E?oc=5",
-        "date": "09/04 10:19"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv (VRT) Stock Looks Fairly Priced Despite Fraud Investigation News",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXMwdXNvWGNwWkRtSzJyM3FuSDY3NUZTWmNiSWdudi1KLXlZT2QyZmVKRnB6UlJkVE5qY1ZQbXh0bGJEU1k2WVlUUlFOR0tDSjU3X2hjcUNpbHB3LTRncmVCZDlaUnRDbDlubTkzYnJYWG03SkU2SHN2LW8ydm92OTduOG50bHRqUmFoUUUxei1MeVlzVFY5ZzhqTzdyVUgxMmNNRDU1TktXaURXS0J1SENJWWdodkF3SWtyYVExTVVyY3pjdG40bWdCWW9DeGpuZXV0bGV30gHbAUFVX3lxTE5fNEVxUVg2eGxOTEY4eEJWRnRSVXVsdnB6V0hKeUxZSzhROG9FV202MVdoM1dHeThwZU1nYUxkeGU1VE9IWXp3VExFbVpuWGNYM2Jsd3R1RDFsNnVVTFZnMERDUGZSRktLUGJhMURGQ21rZUNxSWZaSjlFdlZfaFJSVy10UHg4cURMT2p3NUxnNGREeUVNclk3SGdmZDdHN2N3VjBUV0ttOHViT0hyM0pJWDNqQkR4c0I5cGF1NzZPVEd6NjJzLTQ3eWdZS21VQnIxbTdKWUNFYTFHdw?oc=5",
-        "date": "08/21 16:00"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHZDTzJVeDZQOVJLLThCOC1pS241VTFHRWdNMUNjMlRCNkNVQi1CWWNjcGFJNjY5SU5WRlRVWGM2RnJJNWZUVk5vcnROV2U2NmY0SkZyRWZRWWx3SVZaMHNyV2pHX2ZyYzNXMC1ZR0FvdEw5UURvSmd6cU5XRjBQS1dlUVlsSXN0NzB4cXlaVGdKUHBfdEY1Vmx4TQ?oc=5",
+        "date": "09/02 02:07"
       },
       {
         "type": "positive",
@@ -1049,6 +1042,13 @@
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUVnLXVzX2NUeVY4ZW51YXdIVk1wYmhCRWRWRGhLcGUxNnpGTmcwcVpzbGRFLWY2a0ZoaDlMby16V0FVOUVDOUpGTWFYeGFEZDZjeGdCLWxWTk9ka2VBdWJoSnAxSnlSdjUzRXc0eXVDWngwTzlmcks2cGtzWHNpMnlCdG9oWlk?oc=5",
         "date": "09/04 00:35"
+      },
+      {
+        "type": "neutral",
+        "title": "Vertiv (VRT) Stock Looks Fairly Priced Despite Fraud Investigation News",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXMwdXNvWGNwWkRtSzJyM3FuSDY3NUZTWmNiSWdudi1KLXlZT2QyZmVKRnB6UlJkVE5qY1ZQbXh0bGJEU1k2WVlUUlFOR0tDSjU3X2hjcUNpbHB3LTRncmVCZDlaUnRDbDlubTkzYnJYWG03SkU2SHN2LW8ydm92OTduOG50bHRqUmFoUUUxei1MeVlzVFY5ZzhqTzdyVUgxMmNNRDU1TktXaURXS0J1SENJWWdodkF3SWtyYVExTVVyY3pjdG40bWdCWW9DeGpuZXV0bGV30gHbAUFVX3lxTE5fNEVxUVg2eGxOTEY4eEJWRnRSVXVsdnB6V0hKeUxZSzhROG9FV202MVdoM1dHeThwZU1nYUxkeGU1VE9IWXp3VExFbVpuWGNYM2Jsd3R1RDFsNnVVTFZnMERDUGZSRktLUGJhMURGQ21rZUNxSWZaSjlFdlZfaFJSVy10UHg4cURMT2p3NUxnNGREeUVNclk3SGdmZDdHN2N3VjBUV0ttOHViT0hyM0pJWDNqQkR4c0I5cGF1NzZPVEd6NjJzLTQ3eWdZS21VQnIxbTdKWUNFYTFHdw?oc=5",
+        "date": "08/21 16:00"
       }
     ]
   }
