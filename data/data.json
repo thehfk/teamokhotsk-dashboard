@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T04:53:25.986779+00:00",
+  "updatedAt": "2026-09-06T09:02:50.190761+00:00",
   "market": {
     "cards": [
       {
@@ -903,11 +903,11 @@
   "news": {
     "AVGO": [
       {
-        "type": "neutral",
-        "title": "Jim Cramer Says “Someone Must Know Something” About Broadcom Inc. (NASDAQ:AVGO)’s Post-Earnings Share Dip",
+        "type": "positive",
+        "title": "AVGO Stock’s 27% Selloff Is Sending A Signal – But Morningstar Sees AI Demand Getting Stronger Through 2030",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVdxTnNldmFMY1F0NUdFbVFCcTBPTnhUcC0zcDBYS2c1dVhoUEFab2g2WUdjRkJoRUdWUlRSZGpLdjc5Wjl3M3hBTWI4Z0tGM3J0MGZ3OUN3X3ZqN2s0VTlOdGxhWXV6X2NJazh4cE1oVlRmZm5KX3JwTUU2SDFRUjJESURtMGIxckVNdWVGSVBDQnU1RDZKRA?oc=5",
-        "date": "09/05 07:51"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXAwaVJjUWo1Wk5GeDBrZllVV3pSRDhjZnBrZHIyNjBjVXJhUzYzZGp1dllPeTdmdWpEUjg0aHRmcWxrLUVXSU14OWU3ZWpJU2tIY041ZFh6VlVrSXhVMEhEa1pja2ZLOWxlUV9YRE5taGtFWXNzUEU5c1dBTWV0empNekNDNHlBZTd0OFRMc25wY2JPbHB3TmRR?oc=5",
+        "date": "09/04 19:58"
       },
       {
         "type": "neutral",
@@ -948,17 +948,17 @@
       },
       {
         "type": "positive",
-        "title": "Bloom Energy Stock Just Won Another Catalyst ( Upgrade) (NYSE:BE)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFNuYktwVDU0RmFoMVpZM195N1BiOXJ2aDhHR1V5SkgzRlBGVm8yODdPSzBlNHYteVFpa1BGS2JhdDFoeTVGclFZTXZxUGpsbmxaQzRXaTJmczVUakV5QXgwdWF6X25vaUQ0elYweXVGM1I2OUdxMmFfdVhWZk5xbFFvLUtxd3Vwb09Ca3RmblNxMDZ5eGVuWjFR?oc=5",
-        "date": "09/06 12:48"
-      },
-      {
-        "type": "positive",
         "title": "Bloom Energy (NYSE:BE) Stock Price Up 7.3% - Here's Why",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOExKbHB1SlNIUlJVY0tpVzFIOVRkdWtUcm92MlFlY3pyd1lhMF9Zc2RRSTNwVHBEajVoQ0NnVklpRGFLeTNJZ1VzYmlVSkxqbUVxNTI4Tm9MUWNiVlpqNFRiLTlXSklQeC1ZUmtBRi1MS2pxTElzSUNPUDVoaGRKWE9mZzNDZTNSWmRUY2dNOWg4WURwaTR4b1Z3SmM3cnYtMl9PX0JvQndrQ3RI?oc=5",
         "date": "09/05 06:24"
+      },
+      {
+        "type": "positive",
+        "title": "Bloom Energy Just Won Another Catalyst (Rating Upgrade) (NYSE:BE)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFNuYktwVDU0RmFoMVpZM195N1BiOXJ2aDhHR1V5SkgzRlBGVm8yODdPSzBlNHYteVFpa1BGS2JhdDFoeTVGclFZTXZxUGpsbmxaQzRXaTJmczVUakV5QXgwdWF6X25vaUQ0elYweXVGM1I2OUdxMmFfdVhWZk5xbFFvLUtxd3Vwb09Ca3RmblNxMDZ5eGVuWjFR?oc=5",
+        "date": "09/06 12:48"
       }
     ],
     "GOOGL": [
@@ -971,17 +971,10 @@
       },
       {
         "type": "neutral",
-        "title": "Something Is Happening With Alphabet Stock That Wall Street Isn’t Talking About",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUjNWUGZGVEdob2ZCRWhadC1pdElsV1Zib2JYSWZ1MzJZd1k5MVA5STdoQWFUMFNjUTRYZmkwQ29ha003VElSZTFzdVdLb0FXT0w0eW5OaFJQaG1XLTdMWWE2MU15MmhfRmthVjNoLU9FZ0VkdjQ4dmY4bVgzeHo5cTUySGlaTmM1SWdZQWlObVM4TVQ5amxPX21ValFYUy1RMlR3Mkgzbw?oc=5",
-        "date": "09/03 21:35"
-      },
-      {
-        "type": "neutral",
-        "title": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners",
+        "title": "Does Google Stock’s Cloud Margin Justify Its AI Bill?",
         "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd2ktNW5MWFNOS1FFN294Zl82ZlJ1eVJLTUxpY3FtandpbnJMdV9kYU1lclA0TFJtVGszMWxRRmdfTTNfdFdjN2JqM1JTeXE5NDRIMTZiSUxnUmpSemF1SXUxS21FT1RoSW9ydHk5aERlX2ZqbnI1ekNWY3NOVllnaXVHd3pid1hFTzFjRGtvbkRBeldLdnltcGw1VXI2Q1NtRW51bENibGoyOURfUnVKSHdpTV9tNUxCY0E?oc=5",
-        "date": "09/03 04:24"
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3JKTXZ5b1NrM3dEcENvd21maE1faUpxeDFDZWxwRExvRGtLalhPSnBUSDhzVi1fNlZhTEhnS3BOQm9xcXlyRzM3VlNKdUJUM1liQVZ0V2paLVN6UzhGa0w5X3NpRzBZa0w4OWJOamc3WmhfTGtMaVFyZzdQN09OckxrY0hrcTE2LWEtSWtKU0JtMlB0UjY4MlZWcUdBM0RtNHVlamRqSVEyZVNadTdrZXQzQQ?oc=5",
+        "date": "09/05 02:14"
       },
       {
         "type": "positive",
@@ -989,6 +982,13 @@
         "publisher": "Stocks Down Under",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2RicW9fcGFPcnluYmYyS190SGd3TjdjWUN1WjRYbDkyVmtPVzF3c1lDUDRRNnBlM05XREhTTXhFN21aY2VReHJ1Z0xlc01hd0haY20xeTJlQmRrMGd4Q3R0c2Y4Z1ZmVWdzY0d3NG1WNVpQd3lSUVV1X045UTFRQw?oc=5",
         "date": "09/03 18:38"
+      },
+      {
+        "type": "neutral",
+        "title": "LULU, AVGO, DELL, SNOW, GOOGL: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+        "publisher": "benzinga.com",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNVRQcE1GYkJuNFVsRU9oVE9YelB2UHRHTXRIaWlvZjRUSW5hZlNQRUJfMlFhcGFFanBqX0lYa0lZbjd5MnlJemNYUFRwblNrZkRFcVBfQWtBRFdQZlBSek9PTFREWV9Vel9BZDMyZDlxTXB3eWtvZkNHYzd2TFJfemk0aFBqOXl2aU80MU5KaVpLTHlPWjRIcEpZYVFJVmdWZWRCQloxbmM3ZVRpM3VGUW95TGJZUHprMjRSMndHVll1UGVZd0dSSTZGZzJNS3RPNmx2Mg?oc=5",
+        "date": "09/05 22:25"
       }
     ],
     "QCOM": [
@@ -1009,7 +1009,7 @@
       {
         "type": "positive",
         "title": "Why Qualcomm (QCOM) Stock Is Up Today",
-        "publisher": "quiverquant.com",
+        "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9USVkzWlFzREdGUnNYcmd2b1BqMGZmdnBfaTBJQ2ZHZmoxRTJtUGFJZThmMW1KRDd5WjA5TjRPT1pOUFpjcVozN011ZmJwOFVPamFXX2JmY2wtcmMtam9PMFNYZ0RCdWNsdnZzYTFJcXNFVWNrNzlfVG1kRldPTGs?oc=5",
         "date": "09/01 03:32"
       },
@@ -1037,18 +1037,18 @@
         "date": "09/04 10:19"
       },
       {
-        "type": "positive",
-        "title": "Why Vertiv Holdings (VRT) Stock Is Up Today",
-        "publisher": "quiverquant.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUVnLXVzX2NUeVY4ZW51YXdIVk1wYmhCRWRWRGhLcGUxNnpGTmcwcVpzbGRFLWY2a0ZoaDlMby16V0FVOUVDOUpGTWFYeGFEZDZjeGdCLWxWTk9ka2VBdWJoSnAxSnlSdjUzRXc0eXVDWngwTzlmcks2cGtzWHNpMnlCdG9oWlk?oc=5",
-        "date": "09/04 00:35"
-      },
-      {
         "type": "neutral",
         "title": "Vertiv (VRT) Stock Looks Fairly Priced Despite Fraud Investigation News",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXMwdXNvWGNwWkRtSzJyM3FuSDY3NUZTWmNiSWdudi1KLXlZT2QyZmVKRnB6UlJkVE5qY1ZQbXh0bGJEU1k2WVlUUlFOR0tDSjU3X2hjcUNpbHB3LTRncmVCZDlaUnRDbDlubTkzYnJYWG03SkU2SHN2LW8ydm92OTduOG50bHRqUmFoUUUxei1MeVlzVFY5ZzhqTzdyVUgxMmNNRDU1TktXaURXS0J1SENJWWdodkF3SWtyYVExTVVyY3pjdG40bWdCWW9DeGpuZXV0bGV30gHbAUFVX3lxTE5fNEVxUVg2eGxOTEY4eEJWRnRSVXVsdnB6V0hKeUxZSzhROG9FV202MVdoM1dHeThwZU1nYUxkeGU1VE9IWXp3VExFbVpuWGNYM2Jsd3R1RDFsNnVVTFZnMERDUGZSRktLUGJhMURGQ21rZUNxSWZaSjlFdlZfaFJSVy10UHg4cURMT2p3NUxnNGREeUVNclk3SGdmZDdHN2N3VjBUV0ttOHViT0hyM0pJWDNqQkR4c0I5cGF1NzZPVEd6NjJzLTQ3eWdZS21VQnIxbTdKWUNFYTFHdw?oc=5",
         "date": "08/21 16:00"
+      },
+      {
+        "type": "positive",
+        "title": "Why Vertiv Holdings (VRT) Stock Is Up Today",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUVnLXVzX2NUeVY4ZW51YXdIVk1wYmhCRWRWRGhLcGUxNnpGTmcwcVpzbGRFLWY2a0ZoaDlMby16V0FVOUVDOUpGTWFYeGFEZDZjeGdCLWxWTk9ka2VBdWJoSnAxSnlSdjUzRXc0eXVDWngwTzlmcks2cGtzWHNpMnlCdG9oWlk?oc=5",
+        "date": "09/04 00:35"
       }
     ]
   }
