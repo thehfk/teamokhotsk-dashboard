@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T12:58:48.712218+00:00",
+  "updatedAt": "2026-09-06T15:59:31.161855+00:00",
   "market": {
     "cards": [
       {
@@ -903,18 +903,18 @@
   "news": {
     "AVGO": [
       {
-        "type": "positive",
-        "title": "AVGO Stock’s 27% Selloff Is Sending A Signal – But Morningstar Sees AI Demand Getting Stronger Through 2030",
+        "type": "neutral",
+        "title": "Jim Cramer Says “Someone Must Know Something” About Broadcom Inc. (NASDAQ:AVGO)’s Post-Earnings Share Dip",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXAwaVJjUWo1Wk5GeDBrZllVV3pSRDhjZnBrZHIyNjBjVXJhUzYzZGp1dllPeTdmdWpEUjg0aHRmcWxrLUVXSU14OWU3ZWpJU2tIY041ZFh6VlVrSXhVMEhEa1pja2ZLOWxlUV9YRE5taGtFWXNzUEU5c1dBTWV0empNekNDNHlBZTd0OFRMc25wY2JPbHB3TmRR?oc=5",
-        "date": "09/04 19:58"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVdxTnNldmFMY1F0NUdFbVFCcTBPTnhUcC0zcDBYS2c1dVhoUEFab2g2WUdjRkJoRUdWUlRSZGpLdjc5Wjl3M3hBTWI4Z0tGM3J0MGZ3OUN3X3ZqN2s0VTlOdGxhWXV6X2NJazh4cE1oVlRmZm5KX3JwTUU2SDFRUjJESURtMGIxckVNdWVGSVBDQnU1RDZKRA?oc=5",
+        "date": "09/05 07:51"
       },
       {
-        "type": "negative",
-        "title": "Why Is Broadcom Stock Falling Thursday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmxBWllYWWg2MlhZb3Bub3BCQ3V1RjZQdlhKekZNOGVQangta1k0U1g2YUVnQ08zMWpqNTN2MU55MllEMXN6enNobDVGdjBXbld3YmF2UzNRM1hraVdSanVKTHNSMXpOcXZHTGhrOEFoUWhEY0dYcWdtY2RxRmw5Y1JwcFZ1TGpxNDRLNWVVM3NHNENwZlE?oc=5",
-        "date": "09/03 18:52"
+        "type": "neutral",
+        "title": "5-star analyst resets Broadcom stock price target",
+        "publisher": "thestreet.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVhYN2pIMkF1S1VwWkJsT0Q3SU5wZ2FPLWgtalBudG5zTktDTGk3TnFJSlgtNElzc0NlTFpPVTgwbnYxYVA0bG1vR05WTnA5dG9aRnZUaDFWOS1LWDlnOEM1dXNLOVdibTAxOW9XbmZWZlRZOU5KZm8xSTIxd0xfTEJqSmlvUE9pUFZGNVQ1ZGVCY3JH?oc=5",
+        "date": "09/05 02:07"
       },
       {
         "type": "positive",
@@ -925,10 +925,10 @@
       },
       {
         "type": "neutral",
-        "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "stocktwits.com",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
-        "date": "09/06 07:22"
+        "title": "AVGO Stock Quote Price and Forecast",
+        "publisher": "CNN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LY3VvVktnejctYWhud1RicWtyOTFwZVZoZC1pTktnSURqYWhQdlZ6X2ZaY05hN19kckJGWk5pQUFGdHJVaFF6SkV0TmNGMzkw?oc=5",
+        "date": "09/05 12:42"
       }
     ],
     "BE": [
@@ -970,16 +970,9 @@
         "date": "09/04 12:15"
       },
       {
-        "type": "neutral",
-        "title": "Does Google Stock’s Cloud Margin Justify Its AI Bill?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3JKTXZ5b1NrM3dEcENvd21maE1faUpxeDFDZWxwRExvRGtLalhPSnBUSDhzVi1fNlZhTEhnS3BOQm9xcXlyRzM3VlNKdUJUM1liQVZ0V2paLVN6UzhGa0w5X3NpRzBZa0w4OWJOamc3WmhfTGtMaVFyZzdQN09OckxrY0hrcTE2LWEtSWtKU0JtMlB0UjY4MlZWcUdBM0RtNHVlamRqSVEyZVNadTdrZXQzQQ?oc=5",
-        "date": "09/05 02:14"
-      },
-      {
         "type": "positive",
         "title": "Google Just Avoided an Ad-Tech Breakup. Here’s What It Means for Alphabet (NASDAQ:GOOGL) Stock",
-        "publisher": "Stocks Down Under",
+        "publisher": "stocksdownunder.com",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2RicW9fcGFPcnluYmYyS190SGd3TjdjWUN1WjRYbDkyVmtPVzF3c1lDUDRRNnBlM05XREhTTXhFN21aY2VReHJ1Z0xlc01hd0haY20xeTJlQmRrMGd4Q3R0c2Y4Z1ZmVWdzY0d3NG1WNVpQd3lSUVV1X045UTFRQw?oc=5",
         "date": "09/03 18:38"
       },
@@ -989,15 +982,22 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNVRQcE1GYkJuNFVsRU9oVE9YelB2UHRHTXRIaWlvZjRUSW5hZlNQRUJfMlFhcGFFanBqX0lYa0lZbjd5MnlJemNYUFRwblNrZkRFcVBfQWtBRFdQZlBSek9PTFREWV9Vel9BZDMyZDlxTXB3eWtvZkNHYzd2TFJfemk0aFBqOXl2aU80MU5KaVpLTHlPWjRIcEpZYVFJVmdWZWRCQloxbmM3ZVRpM3VGUW95TGJZUHprMjRSMndHVll1UGVZd0dSSTZGZzJNS3RPNmx2Mg?oc=5",
         "date": "09/05 22:25"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet Stock Gets AI, Antitrust Boosts as $44.9B CapEx Pushes Cash Flow Negative",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1JtMVE1SF9fNDhmaUNKY1V2VlpHSTFySUU4a2xTbGtIZkpGNmN4UVFoLUVSMmVRdXhtSmd3ZEFPQldsRmxUV0swQ09WMmV0TnVXUC0wQUNEZG1VNkM5dTlXVmhOTWJTY2ZISjNwaTF5eFBSaGxVSDh6dVYzdEhtUElwOG9vVWtEYlFzV3NhdDFPckRHcnMwcG1WcW9sLXRHSGliUmg5TVczUlFpb0hj?oc=5",
+        "date": "09/03 16:42"
       }
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "QCOM Stock Slides Premarket: Qualcomm's Dragonfly AI Push Gets Overshadowed By Nvidia's Computex Blitz",
-        "publisher": "stocktwits.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXBSY0pCWWhxb2ZrZXpVMWFqOGFJcm5jZnE4dEJwa0wwSkUyNTNqTHpzSVBsYkd3cXBZTmZnRUFpUHRUM1B1SmhBdHBqd3UtalBaVG1zTTRnZ1U2ang4NWk3eTQ5TkpuWUdlZHhTcWE2RmxIdmJ5Zl8yMWliY2NUR0hWY0d6ZDg4RC1zZEFyOUlfc1pvOWlOWTVZaHJHT2JiM1M2b1hPRWExbnpnbU9QUE1DU0RmYU9OQlpQYjZnNGE?oc=5",
-        "date": "09/06 07:59"
+        "type": "positive",
+        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
+        "date": "09/06 07:16"
       },
       {
         "type": "neutral",
@@ -1016,7 +1016,7 @@
       {
         "type": "neutral",
         "title": "QCOM Showered Owners With Cash. The Stock Still Lagged The Market",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkUtRE4wcEFTemlZUFFNSlR0cU4yRHE2WjFiTEFnRkpneE9XQWVJd2k1R25pNU1ZeXNJV1dmQmVSNjFZN3RyNVp4YlVlT2NldmI1Z0hzWmloOE1mNXllY05pU3ZYM04tTEcxVWRQQ1VYX1ctYmRfeGpwWHVzYTNidXZ2dnBJcnlHaEpqSmJtaFRHWGYxYU5OVVdDYlBQTHZtWGZ6bE5pOWhmVmlHS1ptSkU1M0lRSUItVUcySjVpT0xESFk?oc=5",
         "date": "09/04 23:39"
       }
@@ -1025,7 +1025,7 @@
       {
         "type": "neutral",
         "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
-        "publisher": "stocktwits.com",
+        "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
         "date": "09/06 06:29"
       },
