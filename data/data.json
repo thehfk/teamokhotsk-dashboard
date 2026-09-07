@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T20:03:05.348227+00:00",
+  "updatedAt": "2026-09-07T22:54:44.639094+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1344.7,
-        "change": -0.03
+        "value": 1344.74,
+        "change": -0.02
       },
       {
         "name": "KOSPI",
@@ -671,7 +671,7 @@
               1358.39,
               1355.41,
               1345.06,
-              1344.7
+              1344.74
             ]
           }
         ]
@@ -924,18 +924,18 @@
     ],
     "BE": [
       {
+        "type": "positive",
+        "title": "BE Stock Ends Higher: Bloom Energy Denies Supply Chain And Scandium Allegations Following New Crossroads Capital Attack",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWG1lb2ppZ1FHOWZXVDZpVUdiYnczNGVXUS02bG9GZVJkeHZTT1F4SGgyRVpZR3JXT2QwOXZQMW1tWDFEZm5kRTVsZFNMOVQta2lFenJtbFJIaWZGTDJOX1liTXM4V0MzS1hCbUgxckdveXBUbFUtZHpHLW1NRXlFenpXdG5nVXhtZHgxS2NFTVpSb2lTbUlnMzlFRzVNZG5yZVVhS3NsT0RvT2Ffc01zSFM2dFpfYTRPaGtBaTlITTdnVXRJUjlCVjJaVEpOaTdyYk8xNkpyNXNIUQ?oc=5",
+        "date": "09/07 21:20"
+      },
+      {
         "type": "neutral",
         "title": "Bloom Energy Stock (BE) Opinions on S&P 500 Inclusion",
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUhIUTNzVVN0eWx6VVpab1ZjV1VvelRzSGZVUDNUYS0yQnVvdTdnV1lIXzRqakFpQXUzeHhScWhjalRIazhJNDZ6MkxtVEd2N3RyeVdnTFJWZDg4WFo1UmxHYm0tY1ZGM0xMRFRGdGw3VVRuRVFXaXh6ek1YTzV6Z1M0NWhGZVFQYmFXQ1gzSXd3ci1GZUhZ?oc=5",
         "date": "09/07 23:05"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
-        "date": "09/07 11:46"
       },
       {
         "type": "neutral",
@@ -947,19 +947,12 @@
       {
         "type": "positive",
         "title": "Bloom Energy (NYSE:BE) Stock Price Up 7.3% - Here's Why",
-        "publisher": "MarketBeat",
+        "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOExKbHB1SlNIUlJVY0tpVzFIOVRkdWtUcm92MlFlY3pyd1lhMF9Zc2RRSTNwVHBEajVoQ0NnVklpRGFLeTNJZ1VzYmlVSkxqbUVxNTI4Tm9MUWNiVlpqNFRiLTlXSklQeC1ZUmtBRi1MS2pxTElzSUNPUDVoaGRKWE9mZzNDZTNSWmRUY2dNOWg4WURwaTR4b1Z3SmM3cnYtMl9PX0JvQndrQ3RI?oc=5",
         "date": "09/05 06:24"
       }
     ],
     "GOOGL": [
-      {
-        "type": "negative",
-        "title": "GOOGL Stock Drops In Premarket: Report Says Search Giant Trims Cloud Team Amid AI Spending Push",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUjZDVDVHZjBJcmxHbmhfVWFBV3ItampZSHFzZXp3dFRFREk4Vkxyb0x0MXZwS1JaQmJjSUQ2aVV6UUxPZk1fdTRFUTFSZFcxOWQyVDB0ZFA5WWVPTEc0dlZtZUhIQVdhTV9WV3IzVGY0UExkVWFadUFJVFRPM1V5YllLQ05lZUNoS0xpZEJXMmtHWmloMjZIMXdVUUItRUJpRmktR2VXUWQ4djluZTRfVFNUTEdqM25SRlZybzMtamtNWklBaDZrMklpN2lhQVJxNlhDZ2JzVDMycGNhdGZqdUNjQjQwVEVzM1RQMXZSdw?oc=5",
-        "date": "09/07 10:01"
-      },
       {
         "type": "neutral",
         "title": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
@@ -977,9 +970,16 @@
       {
         "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "tradingkey.com",
+        "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
         "date": "09/07 01:18"
+      },
+      {
+        "type": "negative",
+        "title": "GOOGL Stock Drops In Premarket: Report Says Search Giant Trims Cloud Team Amid AI Spending Push",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUjZDVDVHZjBJcmxHbmhfVWFBV3ItampZSHFzZXp3dFRFREk4Vkxyb0x0MXZwS1JaQmJjSUQ2aVV6UUxPZk1fdTRFUTFSZFcxOWQyVDB0ZFA5WWVPTEc0dlZtZUhIQVdhTV9WV3IzVGY0UExkVWFadUFJVFRPM1V5YllLQ05lZUNoS0xpZEJXMmtHWmloMjZIMXdVUUItRUJpRmktR2VXUWQ4djluZTRfVFNUTEdqM25SRlZybzMtamtNWklBaDZrMklpN2lhQVJxNlhDZ2JzVDMycGNhdGZqdUNjQjQwVEVzM1RQMXZSdw?oc=5",
+        "date": "09/07 10:01"
       }
     ],
     "QCOM": [
@@ -998,18 +998,18 @@
         "date": "09/03 09:24"
       },
       {
+        "type": "positive",
+        "title": "Qualcomm Stock Is Up 15% in a Month. The Data Center Story Is Why It Can Keep Going",
+        "publisher": "TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUy04YV95MW9zSkpCZUJ6anNzaXZyLUwyNUs3SkNwWGQ5Ync1TGlJN3hadnAydmItYmRaWWhwTXUyQW9ubGozWHhZenM4QlBVSk9vRFdpWlVoNC1rUlAtUkVpc2RJUDJISmRwSlhEV3ZrNUZ3MThVR2VZbmR4cURscWdNcW5JSTZOU0Zha3pxSDllNGdHeFZnUC1pd0lPOWVVTDVleTdMTXhQYjA?oc=5",
+        "date": "09/08 07:49"
+      },
+      {
         "type": "neutral",
         "title": "QCOM Showered Owners With Cash. The Stock Still Lagged The Market",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkUtRE4wcEFTemlZUFFNSlR0cU4yRHE2WjFiTEFnRkpneE9XQWVJd2k1R25pNU1ZeXNJV1dmQmVSNjFZN3RyNVp4YlVlT2NldmI1Z0hzWmloOE1mNXllY05pU3ZYM04tTEcxVWRQQ1VYX1ctYmRfeGpwWHVzYTNidXZ2dnBJcnlHaEpqSmJtaFRHWGYxYU5OVVdDYlBQTHZtWGZ6bE5pOWhmVmlHS1ptSkU1M0lRSUItVUcySjVpT0xESFk?oc=5",
         "date": "09/04 23:39"
-      },
-      {
-        "type": "positive",
-        "title": "Why Qualcomm (QCOM) Stock Is Up Today",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9USVkzWlFzREdGUnNYcmd2b1BqMGZmdnBfaTBJQ2ZHZmoxRTJtUGFJZThmMW1KRDd5WjA5TjRPT1pOUFpjcVozN011ZmJwOFVPamFXX2JmY2wtcmMtam9PMFNYZ0RCdWNsdnZzYTFJcXNFVWNrNzlfVG1kRldPTGs?oc=5",
-        "date": "09/01 03:32"
       }
     ],
     "VRT": [
