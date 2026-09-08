@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T05:27:03.444182+00:00",
+  "updatedAt": "2026-09-08T09:55:15.851431+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.3,
-        "change": 5.3
+        "value": 15.63,
+        "change": 2.16
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1342.08,
-        "change": -0.22
+        "value": 1342.63,
+        "change": -0.18
       },
       {
         "name": "KOSPI",
-        "value": 7078.13,
-        "change": 1.18
+        "value": 6954.52,
+        "change": -0.58
       },
       {
         "name": "KOSDAQ",
-        "value": 825.62,
-        "change": 0.42
+        "value": 811.88,
+        "change": -1.25
       }
     ],
     "groups": [
@@ -388,7 +388,8 @@
           "09/02",
           "09/03",
           "09/04",
-          "09/07"
+          "09/07",
+          "09/08"
         ],
         "series": [
           {
@@ -457,7 +458,8 @@
               15.2,
               14.32,
               14.53,
-              15.3
+              15.3,
+              15.63
             ]
           }
         ]
@@ -671,7 +673,7 @@
               1358.39,
               1355.41,
               1345.06,
-              1342.08
+              1342.63
             ]
           }
         ]
@@ -813,7 +815,7 @@
               6579.48,
               6687.21,
               6995.39,
-              7078.13
+              6954.52
             ]
           },
           {
@@ -883,7 +885,7 @@
               790.21,
               813.5,
               822.19,
-              825.62
+              811.88
             ]
           }
         ]
@@ -915,47 +917,47 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom Crushed Earnings and the Stock Fell Anyway. Investors Are Ignoring a $230 Billion Signal.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0VjODZDdURQb2JidEhVNFRpNUJKYnBIemtiaVpGTzdiOW9sMU9Ld0RWTGR0WXRKVDJrWHVzS01PUlN5VXRtaXpVamEwZldodUF4RkNkNWNtMFNZa0NqbHd4ZWtnRHlwN2dheHhQNmVuVnNtS3hxVXVHR1BUUTBFeWZtbXcwSlF3OTlURjRtMXFLQk1RWFdCTkVUWF82Sjl4NnBrRUxnRS1WeDZIVkM3ZFBrbXdMZy1oXzlzV1dJNVRPX0J2a1I4bWY4QnhJSXd0M0VXOWlR?oc=5",
-        "date": "09/05 02:13"
-      },
-      {
-        "type": "neutral",
         "title": "LULU, AVGO, DELL, SNOW, GOOGL: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNVRQcE1GYkJuNFVsRU9oVE9YelB2UHRHTXRIaWlvZjRUSW5hZlNQRUJfMlFhcGFFanBqX0lYa0lZbjd5MnlJemNYUFRwblNrZkRFcVBfQWtBRFdQZlBSek9PTFREWV9Vel9BZDMyZDlxTXB3eWtvZkNHYzd2TFJfemk0aFBqOXl2aU80MU5KaVpLTHlPWjRIcEpZYVFJVmdWZWRCQloxbmM3ZVRpM3VGUW95TGJZUHprMjRSMndHVll1UGVZd0dSSTZGZzJNS3RPNmx2Mg?oc=5",
         "date": "09/05 22:25"
+      },
+      {
+        "type": "positive",
+        "title": "Broadcom (AVGO) Hit With Street-Low Target Despite Strong Quarter – Here’s Why",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGNDMnk5T2s5U1d2V3lFcEU4alJJVEk1WWdaVWhiMXd3S3Q0R1JDQlRrRzlWUzNVelFGY0dORWxfNXNpV3dhLWZCLUJEZnVGc3JPZGNtbVdpU1VtZWZGRlJUaHBacWlzZzMwNHJiTGJBcnI5ampsWEs1Z19fSkczUF8yMldwUHhDSmFsNmVJbzFST0tORThRSEJ0THRxNE1scGMzZWhB?oc=5",
+        "date": "09/06 03:11"
       }
     ],
     "BE": [
       {
         "type": "positive",
         "title": "BE Stock Soars Overnight On S&P 500 Inclusion: Analyst Sees Upside Of Over 28%",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObV9wd1Nfc2lzRERMVTQxQ1FyelkxQ21RZ25XMlZUZjJrOGpRMVRlaURITGRXekQtQlhnYzZqWktuQTFHazJzZzdxUUppbHRPQlUtNjhPaVBVTGowRnNJdUNYRmRjQWR6M0ROcUNPanplbW9IbWVJLUNSUkxLOFo1RE5mbmZDNzBXcVdfLXMxNXJFS0VQLXIwNHlZSG1nZjFsNnA3bGdNY21FblVXaFcta0E4R3R2Vm13Y2ItTkRPalRLMmZ0ZjF6eElBR1RZTTJGY2tB?oc=5",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGNRTl9SdlJxbmI5SHZLOXJHblQzVXdQb2NqRW9wT1NzNzh2VnNaOUVnTVhQdDVyQXdnRlhvTnExMGV4bGphTmF6enRudWc2Xy15cVlEZG9vX0tBbUF1Z3ZJNEVRN25WU0hhMGNCSlJUc1owY3k2M3hxMDZwSUdna0pHT29aMFV2ZkhEcmFWSUg3Q2I4RzNj?oc=5",
         "date": "09/08 10:24"
       },
       {
-        "type": "neutral",
-        "title": "Has BE Stock Peaked Yet? Here’s What Wall Street And Retail Think",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDNMYXh1amxxOWlMOVJVbnk3alZyR05oc2JTY1FxemJJZkdfR0o5UE5oRGNCSGlXejNFcy1leTI5N2RvVGxRQThFUmRYaS11Qm1KaDdUMXB2YWk1NEpJVGRHZjlqTkRzRFNlREZpems5MGpOY1c2NnBKbjRmSTlDSVNIdnZab1o3RGJjVWw3MWo?oc=5",
-        "date": "09/07 05:04"
+        "type": "positive",
+        "title": "Bloom Energy Just Won Another Catalyst (Rating Upgrade) (NYSE:BE)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFNuYktwVDU0RmFoMVpZM195N1BiOXJ2aDhHR1V5SkgzRlBGVm8yODdPSzBlNHYteVFpa1BGS2JhdDFoeTVGclFZTXZxUGpsbmxaQzRXaTJmczVUakV5QXgwdWF6X25vaUQ0elYweXVGM1I2OUdxMmFfdVhWZk5xbFFvLUtxd3Vwb09Ca3RmblNxMDZ5eGVuWjFR?oc=5",
+        "date": "09/06 12:48"
       },
       {
-        "type": "neutral",
-        "title": "Is Bloom Energy (BE) Stock Cheap Or Already Too Expensive?",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFY5MXhXTXlESkVrT215a1l6RWd1ZkxqaU1lbHlSb0NnZzM0TGJoVFFjem9JNmN6c204ajJDN3dpYUtqRnloTGVDbjhIemNtU3dVcDBwcmtmMEFaZHFSTjBrNHhWNkpsSzZOYlNkSVU5WnlsNG9NYTk4WURNWEZkV2g3d1FjX3k2REtuOGZnLU92UXpucGJOdDVsZTNTMXNYQjhzTXJFSEZRVDZaaTZ3NjBBTlJWLU9uZThGUm5pRU1CMlNPRmfSAcsBQVVfeXFMTy1tUkIwdUhhZW1yWnh1UVNhcmJlc3hWcmJUWTJlcXp6RTRodnlpVmhQLVFob2FNYnhWc1lycUhVcGVwOGJmakdKZ2hZaEVkOWVkRFcwazRHRXlwU0VhY0d6bGJIYWs4bk81Z2E3VG1VbTZ0bFFwUW51emd1SXJLMzR1ZllSeHphLTVEV01UYkREY0NnYUdOQ1B3ZkIyZG1Hb0V3Znc4d3pDelIydmNXbDdyV1N1aUZqM0hjVHpZMUZxNmdRNHZMRFRneE0?oc=5",
-        "date": "09/04 18:35"
+        "type": "positive",
+        "title": "Bloom Energy Stock (BE) Forecast: S&P 500 Inclusion Sparks Fresh Bull Call From Top UBS Analyst",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU25wRmlvYWcxZ3lFbDNrcmxXeEstYWtVemkwbEpJRXRFdzlJRWw3V2owaEVqOWRiSkdvTnNLUnZFQzYyOUhpaFVNWE5xSXh1ZEVoV3Y5c0UzSGFSTE5jZkVvR0xsSGhkQ3QwVkY1MTZkd1YwcERtQUtFZzJzRGhydDJUVU9kdTg1UGlseUlEa0FucWFMcmNyNWFDcWRzXzZGRHFDZHExeWJ4eldsOWlNZEZUQWhFcllYOFE4cjJn?oc=5",
+        "date": "09/08 06:31"
       },
       {
-        "type": "negative",
-        "title": "Dow, S&P 500 Futures Decline Amid Rising Oil Prices As Iran War Escalates: MU, ORCL, INTC, BE Stocks In Focus",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS0R1ZGtPWmtpZEM2UEhPYzJWS0NlM2FNYk1Jci03OC1LWGRGc1pvS1dwUndaZE9uZzl0OFV1UmhqaTNiTjZBNWE2ckpHa2pRRFh3QzdfelhGbmNVcXdfNmhiUlR2T0w0VkN6RHFvMGF3dWQ5MG9fbG1lS1JBLWwyaWNoVXIwYnh2SDZxYXJxUTlENWxx?oc=5",
-        "date": "09/08 11:19"
+        "type": "positive",
+        "title": "Bloom Energy BE Stock Prediction: $400 Bull vs $145 Bear",
+        "publisher": "FinanceFeeds",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ1ZXa051T3dNeENfOGg5VVlHeXo5aUx3T3RxdWNqRU1UV1pkYl9wYXNqSjg0T1hPR1JjSWNZS2VfMnNfUGhWUEJCdDFOQU9oekJYWUhRSUlRU2k1cjhEMUFHdXNmRWc0eWVISlZNejkzYVlkZkt5czBHNXhlZnozMnB3?oc=5",
+        "date": "09/08 18:30"
       }
     ],
     "GOOGL": [
@@ -964,7 +966,7 @@
         "title": "GOOGL Stock Price Today - Alphabet Inc Class A News, Charts, Retail Sentiment",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GV3FIb3o4T1ZMbUZxeGdxTXBNenlYM1FQWWt5X1EySTNJYU9keEN1Y3lFTVYzQTVQUDJTRmR2OUtvOENRbkM0M2dQYw?oc=5",
-        "date": "09/08 11:25"
+        "date": "09/08 11:17"
       },
       {
         "type": "neutral",
@@ -982,10 +984,10 @@
       },
       {
         "type": "neutral",
-        "title": "Alphabet Inc. (A) (GOOGL) Stock Price, Quote & News",
-        "publisher": "techi.com",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIUTBPSzZOaGR0VGw5cDh1SzZhRU5VOTlHd19mdzNqNzEyc3dKLUZ5VjVJOV8tSC12U2VWazZRVDUyN0ZqVjcyM3N3?oc=5",
-        "date": "09/05 05:00"
+        "title": "How Investors May Respond To Alphabet (GOOGL) Fully Funding PG&E’s SHARE Virtual Power Plant Experiment",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWUzU3B2SWtQSWdhNzRub0s2a1dINVNnc0NyYjVnNUMxTkRrdVFIT1hZbjJjOGlPN1E5TGRXSDF2V205T1NKZ3Rpa2ViUWJnTm14RVotQnh2VWFCbVFCVXFXWmg1RXJEN0RsUUlzS29jcEdvSWdoTVJaYmpldHdqY1Jjd1NSbE5paXRCX3lSZlFlSW44TjdMWGFIMy1GYTJHWVVwLXVOcWp4VTVua1h3VVZkd0pMbEpNeVk0Wklodi1yRGPSAcgBQVVfeXFMUEZUal9uTVhUM1dNTU81aERnS1h6MV9UOVpKYWNJbWtHSjFkVWxSbU9LeDhxNGV3em42M3V2Yjc0YkRZRV9RMUZwRzc3djcyckMtc2NuMUdZa2tZYXg2TWwtUEZ3ZFBEa2NBa0l1dmhaa0w3Z1BsS3Fsa2VtbEh6NTBBQnVfbE9XYV9yNTVZdXlYZmRiRnZUTXJRdm01ak9zRGs1WnhCelU0dUNrVm5LbTUtZnlPZFFmOWVRNFZBdkhYRkxwQ25QY1k?oc=5",
+        "date": "09/08 14:35"
       }
     ],
     "QCOM": [
@@ -1027,11 +1029,11 @@
         "date": "09/06 06:29"
       },
       {
-        "type": "neutral",
-        "title": "Vertiv Holdings Co. (VRT) is Attracting Investor Attention: Here is What You Should Know",
+        "type": "positive",
+        "title": "Why Vertiv (VRT) Stock Is Up Today",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ0x0Vy00aE1nSVA4eDM1bElFRHFyYURJWWV3MTFxYkpjZzMtaGFudEE2M1U4MnJZRjhlSktyM3BWazNRWjQzUkFRLTQ1b3plSUY1Z2tOLUxVSFJtc3BETDVxZFd6NXRKTUd4WXQwYUpEMjkxZlNlbTFiVG9tQzJPS3I0alBWenFFRHkzSHB3RXpQRjhUZXBNLWNTUTJqTk0?oc=5",
-        "date": "09/07 22:00"
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVU53YlNfeUw0NFg1OUtHbmNhTHItdXR0U2pZby01T3JPNFlwS01EQng0YWpNZ1hON3ktWmUtYy1Pc2lLUFJrWUNPQlV0VlNJVHhNMTRzcEpranM3T2tMRWtqLWJTMHZUMlpMam1pREVuU01aUk9mSk05TWwwa25qUmM3WndLc1ltdk1WdEpwM0VuRlg4S0E?oc=5",
+        "date": "09/04 10:19"
       },
       {
         "type": "neutral",
