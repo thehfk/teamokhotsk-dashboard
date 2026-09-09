@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:02:16.151277+00:00",
+  "updatedAt": "2026-09-09T23:23:00.738331+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1339.65,
-        "change": 0.03
+        "value": 1339.52,
+        "change": 0.02
       },
       {
         "name": "KOSPI",
@@ -601,7 +601,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1528.88,
               1525.81,
               1525.05,
               1517.38,
@@ -668,7 +667,7 @@
               1345.06,
               1343.57,
               1339.21,
-              1339.65
+              1339.52
             ]
           }
         ]
@@ -931,18 +930,18 @@
         "date": "09/09 09:31"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy Stock Rides A 5-Day Winning Streak To A 34% Gain",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXhEZEVGaTZORHhtNDZ2eGxWNVFoNG9jc2ozbzZLR1MxWGQzV1ZpT2g3UWJiSWNKWEx3VHpZWk5NWTd6eVFPZ2VVcE5tbUhyQzVMa3dJR1htVHlDaElad1JLSHRhaEpZTjJQdWJSY0p1dWlpNFlYdV9RcUNYSW5ubWdSY0RxVGdLdDhrb2x2WFFhX2NWdzFYLTZiUUg4N1F5MnZLZ2Fta054SmNMOFl2a2hYdEtBT1c2SVR3?oc=5",
-        "date": "09/09 17:36"
-      },
-      {
         "type": "neutral",
         "title": "BE Stock Outpaces Clean Energy ETFs: Is Wall Street Repricing Bloom Energy As AI Infrastructure Play?",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSG5uaE9uR2oxbXJHZzVrWXRfWWxPMDBSTm5LaGxBVmVRRXBILUEzYU03U1Y3Z3NGN1RfSGNnTGthU1dOT1FGTlBMcVVJV0tYTzFGS0VMSGt2RnVOWTZXZnByV0hZSHE1WmlucDMydXdoNDhqNm9sQmRia2dyUWJqVXBsSDg0RnMzYUxIeHlQZ3JISDVSMGRtaXZlSzgwbGJPVFZlUVVrWjR4OGtWWjVfZXYyZnpYRTFTS2RJb0JaYWxGM205UWsydlE5RGRiWWpvQnBQTExWc3MtaUJlbVcwMDNkWnp1OEhJTjdrVGJtcEZieVNJNVpn?oc=5",
         "date": "09/09 15:31"
+      },
+      {
+        "type": "positive",
+        "title": "Bloom Energy Stock Rides A 5-Day Winning Streak To A 34% Gain",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXhEZEVGaTZORHhtNDZ2eGxWNVFoNG9jc2ozbzZLR1MxWGQzV1ZpT2g3UWJiSWNKWEx3VHpZWk5NWTd6eVFPZ2VVcE5tbUhyQzVMa3dJR1htVHlDaElad1JLSHRhaEpZTjJQdWJSY0p1dWlpNFlYdV9RcUNYSW5ubWdSY0RxVGdLdDhrb2x2WFFhX2NWdzFYLTZiUUg4N1F5MnZLZ2Fta054SmNMOFl2a2hYdEtBT1c2SVR3?oc=5",
+        "date": "09/09 17:36"
       },
       {
         "type": "positive",
@@ -954,18 +953,18 @@
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "Should You Buy Alphabet Stock For The Chips It Now Sells?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGw4Z081Mk1kN09DMGZZRDd2a1RpVURBVmpLNm01T2VzcTZSeUlWUnJNcWhGNTE5WlBqMFhCcHJKNjdsTDV1MXFWUXpGRnhLOE9QZHFYaWN3dDRXbzBRSGlVbmlENmd4MmNXelNUbWpCTldMVF9qNVpfaFFhQ2V2cGhpaHhpVkRIR2VNTW5iTmo0WGw0V05IVg?oc=5",
-        "date": "09/10 05:09"
-      },
-      {
         "type": "positive",
         "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
         "date": "09/09 16:24"
+      },
+      {
+        "type": "positive",
+        "title": "Bank of America Has a Stark Message for Google Stock as AI Rivals Surge",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOTBFY25WdWpOQnNPOFQxdk5MMTZCOW5sRTdlRTJ0MWlCdUhMT3d4M3Awc09iM0FqeDZzVFlsbEhlVk41Q3RIbXBDaEdUQUpXT2ZFdHJhSmF5enQ1WXE2Qnd3ZGFUMlBWeklpTUFyUFhxYVdCQWZZZzUtTEVyRDdSbjFURGx4RkJrVTl0b2xyYVYyTlhudTlRU0xoOUZyQQ?oc=5",
+        "date": "09/09 21:31"
       },
       {
         "type": "neutral",
@@ -975,11 +974,11 @@
         "date": "09/09 04:30"
       },
       {
-        "type": "positive",
-        "title": "Bank of America Has a Stark Message for Google Stock as AI Rivals Surge",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOE40bHdOZkt0RnI4RnJFS1lwWE5tbHhDSVhBYjBZbXNZUGZrQmpXeXpRT0p2RE13X3BLZUhEb0dHdU5RMVNBTVk0TG5uRV81LTFiemxiZUVLU2psNkJiR0E4OENUU3d4Wm1saDZjdmhGOGtYc1BHVG9JYXA3RHFWUHlqbVRYLUNzYmtGWnZ1SWl4eER1dlVGWFhoUVBUMk12TDRCOXh5c1N4eDVEdUIycjB5UklSMThQYkZESHU2cHpjaFNKWXNZbVdQRQ?oc=5",
-        "date": "09/09 21:31"
+        "type": "neutral",
+        "title": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQklSWUNNTEpOel9SMkQ5VmhFd0tvRDB2aGYxX2lYR2V2Z0twNHBEQmYyY0lvbGttWGFTUG1KNU84X2hEa0lLc2Z6cnBlenVTdlR6RjZva2pOM3pTSzZUWTVfODhvTnVGUWxCOTdROWhiVVJDYXJKME4xRjg3WVVJazE4NE5vcU1wckNDMXNpYlJRMExZLVFYNTdzZ2lrX050encxYVB5ckk1SGpIYmk1RmtiODZXdHhqMFVBNElXeDBpa1E?oc=5",
+        "date": "09/06 23:00"
       }
     ],
     "QCOM": [
@@ -998,18 +997,18 @@
         "date": "09/08 23:52"
       },
       {
-        "type": "positive",
-        "title": "Amazon and Qualcomm team up on chips and high-bandwidth links for AI data centers.",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkpiaWNEb0R3UTFSQTlVU2VKdWRLRGtpNEpEdFlBa0tLRC0yeTNheGdrUUI1NkpNbjVGWE51TDl6OXZTUTRCTWxpQ2dJeERfVUNXazJ3SHl2MHVuWnpxTFFXQVI2bktENjhmQ25zMnlUeFIwR0l6RDFFQ1p5SHlxV2tfc1lRMjFucUJNQXU1M3ZBMHpjWlZQT1pkbXVvUlZhekZ2SGZZRGY0c083cnNTWERmX1dUdVlzTlJZ?oc=5",
-        "date": "09/08 22:00"
+        "type": "neutral",
+        "title": "Cramer Says Qualcomm's Amazon Collaboration Gives Stalled Stock \"Something Special\" to Point At",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjNoMUYtWDRkQWZEVTl3RFZiZFdNWnQzTWZ3bHZGbmNXNzEyNjVLNFZwTWVycnZxRndheHNDYWdXNGM0YU1KRVg4aFRxT1djSnVsQXJ6dm4wZWVmeEJ6N0l2NkFEcWZXc0V0V1l2b1d5QWlsOEFvbVp4TnVudnVYYUttV3JmS2FQOEliZTVReFJLQjFBRzVqc3JqQUhVOHhOdFlvVWQxbi10YmVXSF9DS0FPd1VjbHlvMUJ4TGxGQVdMZDZOQmlLT2xNeFR0N2dVVHc?oc=5",
+        "date": "09/10 02:25"
       },
       {
         "type": "positive",
-        "title": "Qualcomm jumps as it teams with Amazon on next-gen AI data center deal (QCOM:NASDAQ)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWU43UmJhbmppenNGMERNa3I5TEowVllUVnVGbkw1S0ZfSFYyeFhKMjc2NUNGNi1NOW5KeFJTYmtBc0NSM0UzSWQ0UDFKX1pDNnhlN0JHRFZDSXBEREJOYmptSzEzTDg3YXVMUXdmTjBBbml1a3FJbUtzMjVEQVlGQWx2QUFMcXJWckVqbFpjM05CeF9UMjFES1N1enF3NURjSEpEM1Jib2tCdDE4?oc=5",
-        "date": "09/09 03:18"
+        "title": "QCOM Stock Jumps as Qualcomm Announces AI Infrastructure Deal With Amazon",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3VMWDJheWtyNXNaMHpOaWZ1VnQ2RHpaSkJhVTZCTHE3Q2hLNVBmZHRmSjlNaHFjZGk5UWNTWWg4NzNSQl9qWU1xQUNjM2VQSmJ1dEdGZFVyQ3IzbzVoeVBJUXNHVUV5cWk4X3ViNUxKVG13Zi1VNEJQVUN4UkpuM3BONkRMRFF1WWtEMy1TYjZIZ0l3T01xa0YxN3ZteHh1cE5GZjRBME54TW1SWWRYcUI2Y0lvaE12?oc=5",
+        "date": "09/09 01:08"
       }
     ],
     "VRT": [
@@ -1029,17 +1028,17 @@
       },
       {
         "type": "neutral",
-        "title": "Is Vertiv Stock Outperforming the Nasdaq?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlZqZURoekVFQzVOVUE0ZEdpTkY3d2hJSU0xMW1RSGlTUkR1YlI2VnM3aEg0dGRwYldXenR6MTRRc2RGOXZkaHVIMXlPQjU0Uk8wNUxzTFNJdnpvSmcyTFZsNjc3cHJ4OW9xT2tTQXJ0Y2w0TWFBVV9WZXRoMy1acjJ5cGx4SXJXaXM3VWplZnluSDUwSFVwVTAycTJvZVE?oc=5",
-        "date": "09/09 23:43"
+        "title": "VRT Stock Price and Chart — NYSE:VRT",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jZ3RaVFFSS245VHJpYjZBa1JnS0lvOEp6OXBmV2U5NlZlbFdxVW5lVHlqV2pSUkVjeHVwQTZCTkNFTkM3RkdMVmxFb0pTSjd3UXNNU1JwNXg?oc=5",
+        "date": "09/04 22:51"
       },
       {
         "type": "neutral",
-        "title": "VRT: Love It or Hate It, the Potential Is Still Enormous",
-        "publisher": "moomoo.com",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1JfM3VDMUlnX3l5VzJQeUFnVzN3LW9DSjZYVFJrRlZESExaQ0M0dkQ5OWpQWFVDYnBCdThWS2xxb3NGUkJzVTNCUF9qVGlmRUw1WmotbV9vVTlSRXlwWlZnbVFEY0pINHl1X0F6c2VsNnlVWGlVXzlkMzNDYTdpTlA3aHAwTTJfS3VNbTFMdVdkOEJHVjVVRWQxTmUzQ0U?oc=5",
-        "date": "09/09 16:00"
+        "title": "Is Vertiv (VRT) a Buy as Wall Street Analysts Look Optimistic?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLVdTQ1p3X2lNNDlPdmRieFBiVXlaQkQxZ1VQc0pfOU5FT2Y4UzhFdDFBRFlWTmNlMWNZcWVDQkF0RTE4akpuX1VwcjY1OUFhT05oRzNfMW1DczByNXd5UjdRY0Q5dkZEX2lmUFN6bS1NaTZ5S0g2X0FwX0ZGLXJLMjlSWjB6cmYyWWlWUER2VTFGWFczc2c?oc=5",
+        "date": "09/09 22:30"
       }
     ]
   }
