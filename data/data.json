@@ -1,7 +1,12 @@
 {
-  "updatedAt": "2026-09-10T21:18:07.636893+00:00",
+  "updatedAt": "2026-09-10T23:16:42.768148+00:00",
   "market": {
     "cards": [
+      {
+        "name": "S&P500",
+        "value": 7591.7,
+        "change": -0.58
+      },
       {
         "name": "NASDAQ",
         "value": 26081.72,
@@ -21,6 +26,16 @@
         "name": "미국10년금리",
         "value": 4.94,
         "change": 2.07
+      },
+      {
+        "name": "원달러환율",
+        "value": 1349.59,
+        "change": 0.78
+      },
+      {
+        "name": "KOSPI",
+        "value": 7051.64,
+        "change": 1.4
       },
       {
         "name": "KOSDAQ",
@@ -97,6 +112,74 @@
           "09/10"
         ],
         "series": [
+          {
+            "name": "S&P500",
+            "data": [
+              7394.3,
+              7431.46,
+              7554.29,
+              7511.35,
+              7420.1,
+              7500.58,
+              7472.79,
+              7365.46,
+              7358.22,
+              7357.49,
+              7354.02,
+              7440.43,
+              7499.36,
+              7483.23,
+              7483.24,
+              7537.43,
+              7503.85,
+              7482.71,
+              7543.64,
+              7575.39,
+              7515.34,
+              7543.59,
+              7572.4,
+              7533.77,
+              7457.69,
+              7443.28,
+              7509.2,
+              7498.96,
+              7408.3,
+              7411.98,
+              7413.18,
+              7428.78,
+              7316.15,
+              7437.63,
+              7489.72,
+              7600.5,
+              7736.52,
+              7723.55,
+              7709.96,
+              7757.64,
+              7753.11,
+              7728.2,
+              7748.5,
+              7798.99,
+              7785.76,
+              7745.06,
+              7691.76,
+              7707.98,
+              7641.16,
+              7674.37,
+              7652.86,
+              7677.28,
+              7675.7,
+              7730.99,
+              7711.76,
+              7686.14,
+              7631.47,
+              7666.6,
+              7747.71,
+              7718.6,
+              7673.52,
+              7636.36,
+              7591.7
+            ]
+          },
           {
             "name": "NASDAQ",
             "data": [
@@ -514,6 +597,78 @@
               4.84,
               4.94
             ]
+          },
+          {
+            "name": "원달러환율",
+            "data": [
+              1525.05,
+              1517.38,
+              1509.5,
+              1513.31,
+              1510.96,
+              1525.42,
+              1537.56,
+              1531.33,
+              1539.05,
+              1535.25,
+              1542.76,
+              1546.48,
+              1535.24,
+              1541.73,
+              1548.61,
+              1551.81,
+              1542.13,
+              1531.0,
+              1528.76,
+              1519.86,
+              1503.35,
+              1505.91,
+              1498.48,
+              1497.7,
+              1487.88,
+              1486.2,
+              1478.85,
+              1487.39,
+              1475.01,
+              1479.72,
+              1475.63,
+              1474.04,
+              1458.01,
+              1464.44,
+              1453.16,
+              1442.28,
+              1420.6,
+              1435.7,
+              1428.5,
+              1428.43,
+              1421.16,
+              1422.3,
+              1407.0,
+              1417.31,
+              1412.18,
+              1416.46,
+              1416.85,
+              1415.37,
+              1414.73,
+              1413.58,
+              1389.4,
+              1390.79,
+              1384.98,
+              1380.76,
+              1381.49,
+              1383.49,
+              1380.45,
+              1377.11,
+              1366.62,
+              1372.86,
+              1358.39,
+              1355.41,
+              1345.06,
+              1343.57,
+              1339.21,
+              1339.17,
+              1349.59
+            ]
           }
         ]
       },
@@ -586,6 +741,75 @@
           "09/09"
         ],
         "series": [
+          {
+            "name": "KOSPI",
+            "data": [
+              7730.82,
+              7763.95,
+              8123.62,
+              8545.98,
+              8726.6,
+              8864.24,
+              9063.84,
+              9052.42,
+              9114.55,
+              8203.84,
+              8471.02,
+              8930.3,
+              8411.21,
+              8394.65,
+              8476.48,
+              8303.41,
+              7648.09,
+              8088.34,
+              8051.33,
+              7656.31,
+              7246.79,
+              7291.91,
+              7475.94,
+              6806.93,
+              6856.83,
+              7284.41,
+              6820.6,
+              6516.27,
+              6747.95,
+              6797.7,
+              7096.89,
+              6690.62,
+              6755.75,
+              6023.66,
+              5663.24,
+              5593.56,
+              6595.45,
+              6257.45,
+              6358.95,
+              6598.26,
+              6296.38,
+              6258.77,
+              6299.66,
+              6345.53,
+              6579.04,
+              6813.34,
+              6977.94,
+              6869.83,
+              6471.17,
+              6852.58,
+              6912.95,
+              6696.96,
+              6742.74,
+              6808.21,
+              6912.37,
+              6788.88,
+              6820.02,
+              6835.8,
+              6562.72,
+              6579.48,
+              6687.21,
+              6995.39,
+              6954.52,
+              7051.64
+            ]
+          },
           {
             "name": "KOSDAQ",
             "data": [
@@ -660,7 +884,10 @@
     ]
   },
   "rsi": {
+    "AVGO": 47.7,
+    "BE": 73.5,
     "GOOGL": 42.5,
+    "QCOM": 75.0,
     "VRT": 43.0
   },
   "news": {
@@ -673,6 +900,13 @@
         "date": "09/10 01:42"
       },
       {
+        "type": "neutral",
+        "title": "Billionaire Stanley Druckenmiller Has Sold Micron, Broadcom, and Intel. Here's the Biggest AI Chip Designer Left in His Portfolio.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2JQeWtOUG9IamcxVUpOQjc5OHBtTGxucEFuTTlEOUl6cjhvVXhZazJZSDhGOGVJeTd4UE9RMFMxQTBRQWtUU0VxWXV2WXBjSGxfTC1zVk1WbXRMbXU1aUY3RlhINHVOMXBoUzRrcnNCNG1YVWhTcDFPampnM3ByclJJNXI3NVhtRUxMd1JVajZRVXF1aGpJ?oc=5",
+        "date": "09/10 22:26"
+      },
+      {
         "type": "positive",
         "title": "Why Broadcom Providing 2028 Guidance Is a Big Deal for AVGO Stock Bulls",
         "publisher": "Barchart.com",
@@ -680,18 +914,11 @@
         "date": "09/10 00:29"
       },
       {
-        "type": "positive",
-        "title": "Broadcom: Wall Street’s Margin Fallacy Expands Bulls' Alpha (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUc4UjJfU0F4UFhTRlpIcW9CUmhiQkVpUlZxQWJvRU9oREo5MWNVSUc4dWpRQm0wdGFhLVJwUXl3ajlzT05kbi03OW9vZ09RZUFmSHVQbm1haVZQeFlMLXAxYTI0c01aRlcxQzhPVDczU3hibVRZdWdkSkg3SnFXUUtGb09jY0UxUEYtS294MVNLTV8waFZIOFhvdHVYUQ?oc=5",
-        "date": "09/10 04:27"
-      },
-      {
         "type": "neutral",
-        "title": "Broadcom Stock Slipped While Its Revenue Schedule Got Longer",
-        "publisher": "trefis.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVV3Rkt0TC1sYUYzRTB2M3RWZHJsMGl4cy1rWktvcTlQSmhjNHlUTHJuNm52NEU0S1VFOE5MWkh1aHdiTzYxSWkweWxkeGpUX2FhRGhNUzhFS0VMRDdlS1d0THdFS1ZKLTFHZjR6Wm9oS084Zlh3azJxZTA5SU83dnZnalRjOXBKT19Qd0tKMTdmTUVZa2hxOVBVckJWMGMtdFM1ZDdvdGNTVDNjNm8xSWw4SGktSjNvTlpIaTlR?oc=5",
-        "date": "09/10 00:30"
+        "title": "Broadcom: The $230 Billion AI Dream Is Getting Expensive",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2tiVlJlWmpCY2pxNEZyRV9JUzNzdXMzaURJMEgzQmE2V1J0dmNxMHRpbUZnYW82Skp1OFJza1ZIdWctQ015SkYzYUplN0RiTnVkcFlEM3BPNEJYYUdTQ3BDUk9KYmV4UWJpUWVPY1pqRUpQWFdUWWR6dm5xandQVjd1WlVQY3ozak9Ea3JNUFBpdjd3dmJXT0d4NA?oc=5",
+        "date": "09/09 22:52"
       }
     ],
     "BE": [
@@ -717,11 +944,11 @@
         "date": "09/10 22:03"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy (NYSE:BE) Stock Price Up 7.3% - Here's Why",
+        "type": "negative",
+        "title": "Bloom Energy (NYSE:BE) Shares Down 4.3% - Here's Why",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOExKbHB1SlNIUlJVY0tpVzFIOVRkdWtUcm92MlFlY3pyd1lhMF9Zc2RRSTNwVHBEajVoQ0NnVklpRGFLeTNJZ1VzYmlVSkxqbUVxNTI4Tm9MUWNiVlpqNFRiLTlXSklQeC1ZUmtBRi1MS2pxTElzSUNPUDVoaGRKWE9mZzNDZTNSWmRUY2dNOWg4WURwaTR4b1Z3SmM3cnYtMl9PX0JvQndrQ3RI?oc=5",
-        "date": "09/05 06:24"
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHRHS0hTSHM5dUxIa3VFOEVpLTJBOTZUQkc2M0tRUlVxWEx5OWNtWXpZcHFUSXhfVFFfOEVuajk2aF9NRU5mQUpieXJRcGxNVVpnc2VtSHVrLVVoRGVGcU1yeVY0aUkzbW5sRC1iNUtYZUR1clZZcWtlWFRLMGhjUnVybE1wXzJDNDBJc1VkTlcybXFkR1p2VGp2eEpMRDl5MkJaazV2OTg?oc=5",
+        "date": "09/11 06:56"
       }
     ],
     "GOOGL": [
@@ -735,7 +962,7 @@
       {
         "type": "neutral",
         "title": "Should You Buy Alphabet Stock For The Chips It Now Sells?",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGtsQXlrUU5aaUJ5c0VyMERXdnVzVTZaaEpGcDZTY0ZDWkgtcXBCMWtpdEZNS3hBTnFzNE1iSGp1TXRsM0xaMGIwQV8tYWpoWDBVOFJlWTh6YWVwSzQyZno3M2pHaHRjVnRhY1h0Wk1LYTdLdjY2eTZpR3g1VDB4RENXQm9VRHNQemJRbURmX2dWMjFBYWt6ODlyNlVJZ1VSRVdVZU9TTEoyalJkZ0M2WkhLR3lWLWxJVFE?oc=5",
         "date": "09/10 05:08"
       },
@@ -749,7 +976,7 @@
       {
         "type": "positive",
         "title": "Bank of America Has a Stark Message for Google Stock as AI Rivals Surge",
-        "publisher": "TradingView",
+        "publisher": "tradingview.com",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOE40bHdOZkt0RnI4RnJFS1lwWE5tbHhDSVhBYjBZbXNZUGZrQmpXeXpRT0p2RE13X3BLZUhEb0dHdU5RMVNBTVk0TG5uRV81LTFiemxiZUVLU2psNkJiR0E4OENUU3d4Wm1saDZjdmhGOGtYc1BHVG9JYXA3RHFWUHlqbVRYLUNzYmtGWnZ1SWl4eER1dlVGWFhoUVBUMk12TDRCOXh5c1N4eDVEdUIycjB5UklSMThQYkZESHU2cHpjaFNKWXNZbVdQRQ?oc=5",
         "date": "09/09 21:31"
       }
@@ -758,16 +985,9 @@
       {
         "type": "neutral",
         "title": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWENmVEMydFVacmQyNm9hSnFmdHBvTDBaTWMxNTZIVlhELTVWTnQ3dHFmZTgwaTFtdnBTTWtiLU8tOXZfRnJqOGlnLUJNcWRHajg1TXp0b2pub2RLbGFXZEFVN3FzLThVbV9yWFNuREZhYks1eXpJSzFHb0NjTndLcHp2TlRWQS11bU5qVFhWemlRUENNQ3dGbTNrcGdZNldBTzRnRWFDYi1BYjJFQ29PdERiQUUxcUE?oc=5",
         "date": "09/11 04:57"
-      },
-      {
-        "type": "negative",
-        "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
-        "date": "09/08 22:09"
       },
       {
         "type": "positive",
@@ -782,6 +1002,13 @@
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3VMWDJheWtyNXNaMHpOaWZ1VnQ2RHpaSkJhVTZCTHE3Q2hLNVBmZHRmSjlNaHFjZGk5UWNTWWg4NzNSQl9qWU1xQUNjM2VQSmJ1dEdGZFVyQ3IzbzVoeVBJUXNHVUV5cWk4X3ViNUxKVG13Zi1VNEJQVUN4UkpuM3BONkRMRFF1WWtEMy1TYjZIZ0l3T01xa0YxN3ZteHh1cE5GZjRBME54TW1SWWRYcUI2Y0lvaE12?oc=5",
         "date": "09/09 01:08"
+      },
+      {
+        "type": "neutral",
+        "title": "Cramer Says Qualcomm's Amazon Collaboration Gives Stalled Stock \"Something Special\" to Point At",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjNoMUYtWDRkQWZEVTl3RFZiZFdNWnQzTWZ3bHZGbmNXNzEyNjVLNFZwTWVycnZxRndheHNDYWdXNGM0YU1KRVg4aFRxT1djSnVsQXJ6dm4wZWVmeEJ6N0l2NkFEcWZXc0V0V1l2b1d5QWlsOEFvbVp4TnVudnVYYUttV3JmS2FQOEliZTVReFJLQjFBRzVqc3JqQUhVOHhOdFlvVWQxbi10YmVXSF9DS0FPd1VjbHlvMUJ4TGxGQVdMZDZOQmlLT2xNeFR0N2dVVHc?oc=5",
+        "date": "09/10 02:25"
       }
     ],
     "VRT": [
@@ -809,7 +1036,7 @@
       {
         "type": "positive",
         "title": "VRT: Raised growth targets and expanded solutions portfolio drive share gains and margin improvement",
-        "publisher": "TradingView",
+        "publisher": "tradingview.com",
         "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWXNDaEh1VW1sVGs0OGNpTHUzTjVxUEN3ZUg4Mmh0dVIyWS1VSm5VLVAtN0p3QXhSSGdBNWU4andjMXppTFR3RG94STMydWIzTTdSSUZIM1pCZ0lkeHYxMlB4QVN0dGkxS2MzZ2RoM0sxTmptcnpXRW8tS1M4V3ZBTzZCenYxTnI1aXNOeENfSEZIb2pnUUZPdExvZW9RdTR3YzhaVklUaVIwejJ0b2ZHTGswbFB0Yzd2d1RTTDJTdV9MUG5KLTRxUjZoRnY5OWExakZ4Q2ZjU1JmUWpKdERUb3BCY1FQWDM4STREMUFhRzYxRU1CSjl2Y0RSblBaR1duZFVrLWRZV3ltUFFJZzBoblBGNlM?oc=5",
         "date": "09/09 04:21"
       }
