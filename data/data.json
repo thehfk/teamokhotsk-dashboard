@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T23:23:00.738331+00:00",
+  "updatedAt": "2026-09-10T01:13:32.007840+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1339.52,
-        "change": 0.02
+        "value": 1337.88,
+        "change": -0.1
       },
       {
         "name": "KOSPI",
-        "value": 6954.52,
-        "change": -0.58
+        "value": 6972.55,
+        "change": 0.26
       },
       {
         "name": "KOSDAQ",
-        "value": 811.88,
-        "change": -1.25
+        "value": 816.74,
+        "change": 0.6
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1345.06,
               1343.57,
               1339.21,
-              1339.52
+              1337.88
             ]
           }
         ]
@@ -675,7 +675,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "06/09",
           "06/10",
           "06/11",
           "06/12",
@@ -738,13 +737,13 @@
           "09/03",
           "09/04",
           "09/07",
-          "09/08"
+          "09/08",
+          "09/10"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              8096.93,
               7730.82,
               7763.95,
               8123.62,
@@ -807,13 +806,13 @@
               6579.48,
               6687.21,
               6995.39,
-              6954.52
+              6954.52,
+              6972.55
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              967.81,
               951.63,
               996.93,
               1029.05,
@@ -876,7 +875,8 @@
               790.21,
               813.5,
               822.19,
-              811.88
+              811.88,
+              816.74
             ]
           }
         ]
@@ -884,11 +884,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 51.4,
-    "BE": 77.8,
-    "GOOGL": 37.4,
-    "QCOM": 72.0,
-    "VRT": 50.9
+    "AVGO": 43.0,
+    "BE": 81.8,
+    "GOOGL": 44.0,
+    "QCOM": 71.5,
+    "VRT": 60.1
   },
   "news": {
     "AVGO": [
@@ -907,18 +907,18 @@
         "date": "09/10 00:29"
       },
       {
+        "type": "positive",
+        "title": "Broadcom Stock Jumps -- AI Revenue Set to Double Again",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajI3RktDeXlPdkVHeUlCRk81Umc2Q1lIV2hNRDlLNTAybzJWWDZ5ZjVIZmtkbm1FRXJlVTRKd2F3ejNORmJDQm12VF9XQzVQVnFWSzljUms2OHpNX2dZY21aWDV5eVR4dHUtSktXb1dHenFxaGdROHhvb3VoOHduS3BQVmdTSm40R01iVEQ3MEhMWHFjVzREQ3VaRQ?oc=5",
+        "date": "09/10 02:12"
+      },
+      {
         "type": "neutral",
         "title": "Broadcom: The $230 Billion AI Dream Is Getting Expensive",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2tiVlJlWmpCY2pxNEZyRV9JUzNzdXMzaURJMEgzQmE2V1J0dmNxMHRpbUZnYW82Skp1OFJza1ZIdWctQ015SkYzYUplN0RiTnVkcFlEM3BPNEJYYUdTQ3BDUk9KYmV4UWJpUWVPY1pqRUpQWFdUWWR6dm5xandQVjd1WlVQY3ozak9Ea3JNUFBpdjd3dmJXT0d4NA?oc=5",
         "date": "09/09 22:52"
-      },
-      {
-        "type": "neutral",
-        "title": "Why Broadcom Stock Rallied Tuesday Morning",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkpnWVBzRFNnTGFkeXVtMDI3NW1JVGc2RzRSaE45ZDJRc01rV0RnV2g1OTNFaXpHM3Z2RDdMOWdFOTNRY0dCU0pKVU1LZmx0ZW04bnA1NE8xZjhMMTN1YnVZRV81YXFzeHEtMTdQamdtaEE0SUNERFpfQkprcGRkMVVZNnJhRlcxajJZRXZVR25EZ0lSMDJOY2pDaUNMdGdJ?oc=5",
-        "date": "09/09 04:14"
       }
     ],
     "BE": [
@@ -960,11 +960,11 @@
         "date": "09/09 16:24"
       },
       {
-        "type": "positive",
-        "title": "Bank of America Has a Stark Message for Google Stock as AI Rivals Surge",
+        "type": "neutral",
+        "title": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOTBFY25WdWpOQnNPOFQxdk5MMTZCOW5sRTdlRTJ0MWlCdUhMT3d4M3Awc09iM0FqeDZzVFlsbEhlVk41Q3RIbXBDaEdUQUpXT2ZFdHJhSmF5enQ1WXE2Qnd3ZGFUMlBWeklpTUFyUFhxYVdCQWZZZzUtTEVyRDdSbjFURGx4RkJrVTl0b2xyYVYyTlhudTlRU0xoOUZyQQ?oc=5",
-        "date": "09/09 21:31"
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWTAxWDUzTE0xS0dFV1RQLWdvOUlHNGN4bE53dkZ3cnJYdTZ1bEJXXzBkeUllYmNyUy1FNk5YYWpVajA2WWkyRmVtMHRxUHlZb0pwRzVRZk1XbDlRNnpkLTF4S3VvY0pXUlZtQnFNYkVlLWRXMHJSYnAxelNHSXBlY2JkdkpEZlRHZVZTdzI2OVJLNF9yYWRuNVVrekM2SjRRdGc?oc=5",
+        "date": "09/09 08:11"
       },
       {
         "type": "neutral",
@@ -974,11 +974,11 @@
         "date": "09/09 04:30"
       },
       {
-        "type": "neutral",
-        "title": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQklSWUNNTEpOel9SMkQ5VmhFd0tvRDB2aGYxX2lYR2V2Z0twNHBEQmYyY0lvbGttWGFTUG1KNU84X2hEa0lLc2Z6cnBlenVTdlR6RjZva2pOM3pTSzZUWTVfODhvTnVGUWxCOTdROWhiVVJDYXJKME4xRjg3WVVJazE4NE5vcU1wckNDMXNpYlJRMExZLVFYNTdzZ2lrX050encxYVB5ckk1SGpIYmk1RmtiODZXdHhqMFVBNElXeDBpa1E?oc=5",
-        "date": "09/06 23:00"
+        "type": "positive",
+        "title": "Bank of America Has a Stark Message for Google Stock as AI Rivals Surge",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOE40bHdOZkt0RnI4RnJFS1lwWE5tbHhDSVhBYjBZbXNZUGZrQmpXeXpRT0p2RE13X3BLZUhEb0dHdU5RMVNBTVk0TG5uRV81LTFiemxiZUVLU2psNkJiR0E4OENUU3d4Wm1saDZjdmhGOGtYc1BHVG9JYXA3RHFWUHlqbVRYLUNzYmtGWnZ1SWl4eER1dlVGWFhoUVBUMk12TDRCOXh5c1N4eDVEdUIycjB5UklSMThQYkZESHU2cHpjaFNKWXNZbVdQRQ?oc=5",
+        "date": "09/09 21:31"
       }
     ],
     "QCOM": [
@@ -997,11 +997,11 @@
         "date": "09/08 23:52"
       },
       {
-        "type": "neutral",
-        "title": "Cramer Says Qualcomm's Amazon Collaboration Gives Stalled Stock \"Something Special\" to Point At",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjNoMUYtWDRkQWZEVTl3RFZiZFdNWnQzTWZ3bHZGbmNXNzEyNjVLNFZwTWVycnZxRndheHNDYWdXNGM0YU1KRVg4aFRxT1djSnVsQXJ6dm4wZWVmeEJ6N0l2NkFEcWZXc0V0V1l2b1d5QWlsOEFvbVp4TnVudnVYYUttV3JmS2FQOEliZTVReFJLQjFBRzVqc3JqQUhVOHhOdFlvVWQxbi10YmVXSF9DS0FPd1VjbHlvMUJ4TGxGQVdMZDZOQmlLT2xNeFR0N2dVVHc?oc=5",
-        "date": "09/10 02:25"
+        "type": "positive",
+        "title": "Amazon and Qualcomm team up on chips and high-bandwidth links for AI data centers.",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkpiaWNEb0R3UTFSQTlVU2VKdWRLRGtpNEpEdFlBa0tLRC0yeTNheGdrUUI1NkpNbjVGWE51TDl6OXZTUTRCTWxpQ2dJeERfVUNXazJ3SHl2MHVuWnpxTFFXQVI2bktENjhmQ25zMnlUeFIwR0l6RDFFQ1p5SHlxV2tfc1lRMjFucUJNQXU1M3ZBMHpjWlZQT1pkbXVvUlZhekZ2SGZZRGY0c083cnNTWERmX1dUdVlzTlJZ?oc=5",
+        "date": "09/08 22:00"
       },
       {
         "type": "positive",
@@ -1028,17 +1028,17 @@
       },
       {
         "type": "neutral",
-        "title": "VRT Stock Price and Chart — NYSE:VRT",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jZ3RaVFFSS245VHJpYjZBa1JnS0lvOEp6OXBmV2U5NlZlbFdxVW5lVHlqV2pSUkVjeHVwQTZCTkNFTkM3RkdMVmxFb0pTSjd3UXNNU1JwNXg?oc=5",
-        "date": "09/04 22:51"
-      },
-      {
-        "type": "neutral",
         "title": "Is Vertiv (VRT) a Buy as Wall Street Analysts Look Optimistic?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLVdTQ1p3X2lNNDlPdmRieFBiVXlaQkQxZ1VQc0pfOU5FT2Y4UzhFdDFBRFlWTmNlMWNZcWVDQkF0RTE4akpuX1VwcjY1OUFhT05oRzNfMW1DczByNXd5UjdRY0Q5dkZEX2lmUFN6bS1NaTZ5S0g2X0FwX0ZGLXJLMjlSWjB6cmYyWWlWUER2VTFGWFczc2c?oc=5",
         "date": "09/09 22:30"
+      },
+      {
+        "type": "neutral",
+        "title": "VRT: Love It or Hate It, the Potential Is Still Enormous",
+        "publisher": "Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1JfM3VDMUlnX3l5VzJQeUFnVzN3LW9DSjZYVFJrRlZESExaQ0M0dkQ5OWpQWFVDYnBCdThWS2xxb3NGUkJzVTNCUF9qVGlmRUw1WmotbV9vVTlSRXlwWlZnbVFEY0pINHl1X0F6c2VsNnlVWGlVXzlkMzNDYTdpTlA3aHAwTTJfS3VNbTFMdVdkOEJHVjVVRWQxTmUzQ0U?oc=5",
+        "date": "09/09 16:00"
       }
     ]
   }
