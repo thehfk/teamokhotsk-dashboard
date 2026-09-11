@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-11T18:51:58.148881+00:00",
+  "updatedAt": "2026-09-11T21:26:09.133483+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7665.25,
-        "change": 0.97
+        "value": 7656.98,
+        "change": 0.86
       },
       {
         "name": "NASDAQ",
-        "value": 26373.08,
-        "change": 1.12
+        "value": 26333.04,
+        "change": 0.96
       },
       {
         "name": "다우존스",
-        "value": 52588.94,
-        "change": 1.01
+        "value": 52573.29,
+        "change": 0.98
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.64,
-        "change": -12.33
+        "value": 15.84,
+        "change": -11.21
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1341.14,
-        "change": 0.15
+        "value": 1341.05,
+        "change": -0.53
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "06/11",
           "06/12",
           "06/15",
           "06/16",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7394.3,
               7431.46,
               7554.29,
               7511.35,
@@ -179,13 +177,12 @@
               7673.52,
               7636.36,
               7591.7,
-              7665.25
+              7656.98
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              25809.66,
               25888.84,
               26683.94,
               26376.34,
@@ -248,13 +245,12 @@
               26421.41,
               26253.34,
               26081.72,
-              26373.08
+              26333.04
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              50848.75,
               51202.26,
               51671.03,
               51999.67,
@@ -317,7 +313,7 @@
               52786.07,
               52380.66,
               52064.1,
-              52588.94
+              52573.29
             ]
           }
         ]
@@ -459,7 +455,7 @@
               15.72,
               16.46,
               17.84,
-              15.64
+              15.84
             ]
           }
         ]
@@ -671,7 +667,8 @@
               1343.57,
               1339.21,
               1339.17,
-              1341.14
+              1348.17,
+              1341.05
             ]
           }
         ]
@@ -888,41 +885,41 @@
     ]
   },
   "rsi": {
-    "AVGO": 46.6,
-    "BE": 77.2,
-    "GOOGL": 44.9,
-    "QCOM": 79.5,
-    "VRT": 48.2
+    "AVGO": 45.1,
+    "BE": 77.4,
+    "GOOGL": 44.3,
+    "QCOM": 78.4,
+    "VRT": 48.0
   },
   "news": {
     "AVGO": [
       {
         "type": "neutral",
-        "title": "4 stocks to watch on Friday: KR, NVO, AVGO, and SPCX",
+        "title": "Broadcom Could Be Above $1,000 In 2 Years",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVC1wVXlaejJWdVF5QXBVbE9HQWt6bXBweFRpbFlxRXBaLWRRaWtud2hQanRhTHBGc3VvcGQ4WVF1Z1RkVVItVDBQeXg3QWZrQU5lRVBqbXNvSHBhcVQ5ZTdMZ1RJUG83N1ZYVHRTTTkyZFFhVHNqN2ZkQ0JBMjFQc3J4U2VaQmU5dTdJNV9iUGs?oc=5",
-        "date": "09/11 21:53"
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmR6N1dVWWY0X2xuOXFHUUxZYUdpZ3lLS0xKYkQ2M2pobWxIeTRQUmhzTHlKRXJvM2JKM0V3cW80dW1RMUhPUVl6WXZNVGhXQndkRkFhTjNWaHlZU0VZZXhfQjhsSDFkempwSlRvU0ZWS19oYUpTVF90NXEzNmN5STV5d194cXU0SlEyUktQU0lpZw?oc=5",
+        "date": "09/11 20:30"
+      },
+      {
+        "type": "negative",
+        "title": "Why Are Semiconductor Stocks Nvidia, AMD, TSMC, and AVGO Falling Today?",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnE1MUFneDBhTTNnb01oQ2VXTWxKbnZ0bHhOaXFEREZDQVNFMTgzZVdoM1ZXV05femRyZC1MOUZYQjJPY0ZJNDhaNWp0aXYzbnVuZ2MtbHFpdFRfcks5SzFJb1ZwczFPeWhzVWtFQzM0TUZEXzFfTmJRSk5ZVlI0VGJjMm1TZ3hldTFxX2ZoVHNrREtCVnBnVDdyQ1I5SWl0RVhfcjFNSzQ?oc=5",
+        "date": "09/10 22:27"
       },
       {
         "type": "positive",
-        "title": "Why Broadcom Providing 2028 Guidance Is a Big Deal for AVGO Stock Bulls",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNU1VV2Qxc3NDWTg4WjhmVzNqSTdJWFlQbEhIU0lZS19oeXVLX2lSR0djYmMzd1g0RDFZTmdnMDdsNjNpRVlwR0EwMW5QSlZ6NW9IWmZWeGltNUtpeWxMeXN1c1RUUzBvLWMzV2kxYTJsbWlxSXhCQlU0QjhoT25rMU9OR2VJVGZybzlITjVPZThpbENDdXFVYld6XzFGQTVDZGduc1haaXBTMDJZMFQ2R0NZdTduUQ?oc=5",
-        "date": "09/10 00:29"
+        "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5",
+        "date": "09/02 16:00"
       },
       {
         "type": "positive",
-        "title": "LITE's Laser Growth Accelerates: Can It Challenge AVGO & AAOI?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaE1JWjlYQ1JORUI0SFhpM3VsWi1IenhSSjdxQTRNTERiTmhobXpsZkNycTVpNVFhV29UMmwwOFEzRmttY29RdGg5eDl6QmoxNERNZURjNWxIeUQtWmVqNS1VVTctSTV4ZGJGUnRZbV9JRk14MDI1Q01vOEtzQlJOYzF4WmpUTHV3WGlrOEdmb3VXRTJiN3ZNLUc3dXloZDkwY3pZYzE5ZTM?oc=5",
-        "date": "09/10 01:42"
-      },
-      {
-        "type": "neutral",
-        "title": "Forget the Magnificent Seven Stocks, Gary Black Says This Tech Giant Is Cheaper",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONTltY2Z2V0tkU3hoUEpoOC1kQVVWREpXMnJXQ01jWnJjdGpjeXdEX3BaZFNJdjNFVElHVWlrVk5lM1FSM25QM29KbFVYVGo5dWhCdXhxbW5fNXlPcmxaNEhuZEduQkd1SnBDcFB4T3BaZklQRkdESmpXVHM4RlRKS01VaHdJNldnal9FaWVHOW51NGE1WFNqZUtUU2ZsY05Na1hlWkphcGV0ajdaRGdDeDJjYVExSkp1dElsYjlscHdwUHhfbm4zbkVYT3o1TFc5WkNqbjFkQXFCMXM?oc=5",
-        "date": "09/10 23:44"
+        "title": "AVGO Stock Jumps — JPMorgan Says Investors Should Be ‘Aggressive Buyers’ Of Broadcom At Current Levels",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX1F1MUZkQ1R3c3FiaEJMWHh1WjJheFpxZjEwNHNsaVg3SVZFaHZWS3B6blh4cm9jWUlSbkRaLV9BLW1LZFR6Y0lTYW5HZUlPcTVSTks1Vk41OTBFMVVVMEtyZmtiV3o0eUdzSks5TXJuaGVfbGw0YjhDN2VnaWRkSzdCM21uQTlsV3czQ1lyYnk3WU5yaFpLcmZqbmRHcXVNLVQzYjM1Z0VVLTVzWU5VRWhoNk1zTGQ3ajFraGQ5M0ZoaGE2SFdfOUpQa2p3M3EwdENFSC02V0dremlKVV94WFc1Q2hQNzdjamttOE92MDB5ZjNt?oc=5",
+        "date": "09/10 01:38"
       }
     ],
     "BE": [
@@ -945,14 +942,14 @@
         "title": "Why Is BE Stock Rebounding After Last Week’s Selloff?",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME5vZVVzS3Y0elJBQlktUUZuc0llRWw2SXJoNGlsSkZkc1B5Rmltdno4dTJaR0d1Q0pnSWRWcV9IOEpuNTQ1UndHb04wSGhaQ3ZNM1dsT2tSSUFjR2drOGZNSi1iV0VfVWhyYjRlS1JBd1AwRk9mcExfZlNwbUVMajdDdTB4ZUxvYVMwRTNDcVR3emFkSmx3RWtHN3l5NDlINEc5am15eEtpV0h4UjBWcjFwaVI?oc=5",
-        "date": "09/10 01:38"
+        "date": "09/09 17:32"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy Stock Rides A 5-Day Winning Streak To A 34% Gain",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXhEZEVGaTZORHhtNDZ2eGxWNVFoNG9jc2ozbzZLR1MxWGQzV1ZpT2g3UWJiSWNKWEx3VHpZWk5NWTd6eVFPZ2VVcE5tbUhyQzVMa3dJR1htVHlDaElad1JLSHRhaEpZTjJQdWJSY0p1dWlpNFlYdV9RcUNYSW5ubWdSY0RxVGdLdDhrb2x2WFFhX2NWdzFYLTZiUUg4N1F5MnZLZ2Fta054SmNMOFl2a2hYdEtBT1c2SVR3?oc=5",
-        "date": "09/09 17:36"
+        "type": "negative",
+        "title": "Bloom Energy: Chances Are The Shares Are Still Trading Too Low",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFdMOTI5UXF5cWpJaUJDT1ZLc0ZzTWd1Z0dPNGhJWXQyUGpzTnBnY0kweldjR1NpZ0JsNEFVV3pTdmthbjk0aDh5UFRnVWZvWXdvT1g5S1JieDVfNlcwd2VFQnpyNzhOZ0hHanp5NTRnS005Q01uX2NXT2FtekJFOWhDTW1EOGRUVGpYZzY1UWhKMmR5YjJGRUpOdG1rdlc3WmRiZg?oc=5",
+        "date": "09/11 15:56"
       }
     ],
     "GOOGL": [
@@ -972,17 +969,17 @@
       },
       {
         "type": "neutral",
-        "title": "Google Cloud Boss Makes Bold Claim About AI Chip Business",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnJjUklZVTZhTFRFY211R2YtWGxsSFN2THRNWHpCYTJWeFlXdjJiZVZ2d0hlUWdsbE9ENkpRTzVtU1NoVnRCU3ZsTDdDNlNFX3lrSkFvWWV6MGxIQ05KOHd5ZllRb0pkRGJ6VkU2aEpaOVhNOW8wZU1PeE9mejlCRFRUNUp2RmpzQ0s1ZVF3?oc=5",
-        "date": "09/09 04:30"
+        "title": "Should You Buy Alphabet Stock For The Chips It Now Sells?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGtsQXlrUU5aaUJ5c0VyMERXdnVzVTZaaEpGcDZTY0ZDWkgtcXBCMWtpdEZNS3hBTnFzNE1iSGp1TXRsM0xaMGIwQV8tYWpoWDBVOFJlWTh6YWVwSzQyZno3M2pHaHRjVnRhY1h0Wk1LYTdLdjY2eTZpR3g1VDB4RENXQm9VRHNQemJRbURmX2dWMjFBYWt6ODlyNlVJZ1VSRVdVZU9TTEoyalJkZ0M2WkhLR3lWLWxJVFE?oc=5",
+        "date": "09/10 05:08"
       },
       {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Is Possibly One of AI’s Safer Bets",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEpkaWRtY040cTBUaEkxNVhpdGhUSGJwMERCSmFHMk5Ccng2d3BqN2lYT21sSS1YekRFZHR1NWdmY2tNaE9selV1dzY3T0ZYZE1kZWJSQTJrTzRhWDI3N0ZpdFFGaUg1Z3gtUWZwV1lmOFBKdzNnVkhkaTRNX01SakhtNVQ?oc=5",
-        "date": "09/11 21:11"
+        "type": "positive",
+        "title": "Bank of America Has a Stark Message for Google Stock as AI Rivals Surge",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOE40bHdOZkt0RnI4RnJFS1lwWE5tbHhDSVhBYjBZbXNZUGZrQmpXeXpRT0p2RE13X3BLZUhEb0dHdU5RMVNBTVk0TG5uRV81LTFiemxiZUVLU2psNkJiR0E4OENUU3d4Wm1saDZjdmhGOGtYc1BHVG9JYXA3RHFWUHlqbVRYLUNzYmtGWnZ1SWl4eER1dlVGWFhoUVBUMk12TDRCOXh5c1N4eDVEdUIycjB5UklSMThQYkZESHU2cHpjaFNKWXNZbVdQRQ?oc=5",
+        "date": "09/09 21:31"
       }
     ],
     "QCOM": [
@@ -1008,11 +1005,11 @@
         "date": "09/08 22:58"
       },
       {
-        "type": "neutral",
-        "title": "Why Is QCOM Stock Rising Today and What Technicals Say Next?",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFBobGxjcHpJM09TXzhaVk9TWW1fcENQWk9WRkN2NC1OZkRpZjlFcmpybF9rRFluWVpic1VObFN5Y1hiR1RXdFJUekdiZXBiSldmT1BTd09IQlRLWTJzS05FdUE0dEpkQUUyQ3FOU01McjF6NWxocDdaT2tyTmFBZUNtV05laXE1dmRIWUZUVXJ1ZFhuUFlpbmd3?oc=5",
-        "date": "09/09 19:14"
+        "type": "positive",
+        "title": "Why Qualcomm Stock Is Up Today",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RSnJwcUJUZTVhMF9wM3BRMDdKSXpfVVBhcnFjYlg4bWdCb3hpMlhSRkFrcGhCaXMtTjB5Y3hZZ21NbWZRa2Z4M1VuckVXcFI5MFNOZ3hDUkxMV1FlbHVFYV94SG9WVzZFY010ZXd6cGg1UURXTGVDTnkwdFVkUQ?oc=5",
+        "date": "09/09 06:27"
       }
     ],
     "VRT": [
@@ -1031,18 +1028,18 @@
         "date": "09/10 23:15"
       },
       {
-        "type": "positive",
-        "title": "Prediction: This Underrated AI Infrastructure Stock Will Continue Soaring Despite Doubling in a Year",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdGNyejhOWVBXb1FOZkpseEhjaUZrNEx4bm03TTV5OTRwUWEyNk5TUlE1QXlONklUOVBUQldwSUxpQ0NNbF9JMTdWYUxQTlNmM3hBZlBpd21CTURNeGlZNU1vTjQ3dTRKN09WWGRIazJEOGEwcnBjNzF5Ymk3enNBZTJpVGkwUGlxYVlmX0JkS080NUJHRTZzVUNaNnR1em5qNFJvbHNVZlA5bzhVXy1KRXM2VTV1aTB0UFh1Q3NwUHNXMHFROFFZZWFsT2pfdUtqektZRWpXVXhPZw?oc=5",
-        "date": "09/11 19:27"
-      },
-      {
         "type": "neutral",
         "title": "Vertiv Has Cooled For 3 Months: A Wall Street Strategist Says It Will Rebound 45% Very Soon",
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVdlNVg3bjVrZzM2R3FKbUxKQ2lPTmlkMDBrOVgxek1XSVRLblJlOGNrMFFjdmE2VVBvZmJGZ2xWQWhJWmI5Z2dGU2p4NXU5TG9TTEVERDhGdFdZWURJS0ZfODZEXzBxWHdBS3JDeGZERmFfS3UwbXE3RUJpSzEzbTFKTFNaUkNrNmRHMkYzQS1YRVdEZ0twN3pKcFdXVEFGeDNpS3VscUg2ODJWVGttd1dfeEtLczFoMFY1QnBBdlVfUE5Ia0FHdGlxUnJuUQ?oc=5",
         "date": "09/10 20:44"
+      },
+      {
+        "type": "positive",
+        "title": "Prediction: This Underrated AI Infrastructure Stock Will Continue Soaring Despite Doubling in a Year",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdGNyejhOWVBXb1FOZkpseEhjaUZrNEx4bm03TTV5OTRwUWEyNk5TUlE1QXlONklUOVBUQldwSUxpQ0NNbF9JMTdWYUxQTlNmM3hBZlBpd21CTURNeGlZNU1vTjQ3dTRKN09WWGRIazJEOGEwcnBjNzF5Ymk3enNBZTJpVGkwUGlxYVlmX0JkS080NUJHRTZzVUNaNnR1em5qNFJvbHNVZlA5bzhVXy1KRXM2VTV1aTB0UFh1Q3NwUHNXMHFROFFZZWFsT2pfdUtqektZRWpXVXhPZw?oc=5",
+        "date": "09/11 19:27"
       }
     ]
   }
