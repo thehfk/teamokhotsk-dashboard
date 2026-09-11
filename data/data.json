@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T23:16:42.768148+00:00",
+  "updatedAt": "2026-09-11T01:15:26.235574+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1349.59,
-        "change": 0.78
+        "value": 1345.38,
+        "change": 0.46
       },
       {
         "name": "KOSPI",
-        "value": 7051.64,
-        "change": 1.4
+        "value": 6854.84,
+        "change": -2.79
       },
       {
         "name": "KOSDAQ",
-        "value": 830.37,
-        "change": 2.28
+        "value": 821.16,
+        "change": -1.11
       }
     ],
     "groups": [
@@ -667,7 +667,7 @@
               1343.57,
               1339.21,
               1339.17,
-              1349.59
+              1345.38
             ]
           }
         ]
@@ -675,7 +675,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "06/10",
           "06/11",
           "06/12",
           "06/15",
@@ -738,13 +737,13 @@
           "09/04",
           "09/07",
           "09/08",
-          "09/09"
+          "09/09",
+          "09/11"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              7730.82,
               7763.95,
               8123.62,
               8545.98,
@@ -807,13 +806,13 @@
               6687.21,
               6995.39,
               6954.52,
-              7051.64
+              7051.64,
+              6854.84
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              951.63,
               996.93,
               1029.05,
               1034.03,
@@ -876,7 +875,8 @@
               813.5,
               822.19,
               811.88,
-              830.37
+              830.37,
+              821.16
             ]
           }
         ]
@@ -884,11 +884,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 47.7,
-    "BE": 73.5,
-    "GOOGL": 42.5,
-    "QCOM": 75.0,
-    "VRT": 43.0
+    "AVGO": 51.4,
+    "BE": 77.8,
+    "GOOGL": 37.4,
+    "QCOM": 72.0,
+    "VRT": 50.9
   },
   "news": {
     "AVGO": [
@@ -908,17 +908,17 @@
       },
       {
         "type": "positive",
+        "title": "Broadcom: Wall Street’s Margin Fallacy Expands Bulls' Alpha (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUc4UjJfU0F4UFhTRlpIcW9CUmhiQkVpUlZxQWJvRU9oREo5MWNVSUc4dWpRQm0wdGFhLVJwUXl3ajlzT05kbi03OW9vZ09RZUFmSHVQbm1haVZQeFlMLXAxYTI0c01aRlcxQzhPVDczU3hibVRZdWdkSkg3SnFXUUtGb09jY0UxUEYtS294MVNLTV8waFZIOFhvdHVYUQ?oc=5",
+        "date": "09/10 04:27"
+      },
+      {
+        "type": "positive",
         "title": "Why Broadcom Providing 2028 Guidance Is a Big Deal for AVGO Stock Bulls",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNU1VV2Qxc3NDWTg4WjhmVzNqSTdJWFlQbEhIU0lZS19oeXVLX2lSR0djYmMzd1g0RDFZTmdnMDdsNjNpRVlwR0EwMW5QSlZ6NW9IWmZWeGltNUtpeWxMeXN1c1RUUzBvLWMzV2kxYTJsbWlxSXhCQlU0QjhoT25rMU9OR2VJVGZybzlITjVPZThpbENDdXFVYld6XzFGQTVDZGduc1haaXBTMDJZMFQ2R0NZdTduUQ?oc=5",
         "date": "09/10 00:29"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom: The $230 Billion AI Dream Is Getting Expensive",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2tiVlJlWmpCY2pxNEZyRV9JUzNzdXMzaURJMEgzQmE2V1J0dmNxMHRpbUZnYW82Skp1OFJza1ZIdWctQ015SkYzYUplN0RiTnVkcFlEM3BPNEJYYUdTQ3BDUk9KYmV4UWJpUWVPY1pqRUpQWFdUWWR6dm5xandQVjd1WlVQY3ozak9Ea3JNUFBpdjd3dmJXT0d4NA?oc=5",
-        "date": "09/09 22:52"
       }
     ],
     "BE": [
@@ -976,19 +976,12 @@
       {
         "type": "positive",
         "title": "Bank of America Has a Stark Message for Google Stock as AI Rivals Surge",
-        "publisher": "tradingview.com",
+        "publisher": "TradingView",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOE40bHdOZkt0RnI4RnJFS1lwWE5tbHhDSVhBYjBZbXNZUGZrQmpXeXpRT0p2RE13X3BLZUhEb0dHdU5RMVNBTVk0TG5uRV81LTFiemxiZUVLU2psNkJiR0E4OENUU3d4Wm1saDZjdmhGOGtYc1BHVG9JYXA3RHFWUHlqbVRYLUNzYmtGWnZ1SWl4eER1dlVGWFhoUVBUMk12TDRCOXh5c1N4eDVEdUIycjB5UklSMThQYkZESHU2cHpjaFNKWXNZbVdQRQ?oc=5",
         "date": "09/09 21:31"
       }
     ],
     "QCOM": [
-      {
-        "type": "neutral",
-        "title": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWENmVEMydFVacmQyNm9hSnFmdHBvTDBaTWMxNTZIVlhELTVWTnQ3dHFmZTgwaTFtdnBTTWtiLU8tOXZfRnJqOGlnLUJNcWRHajg1TXp0b2pub2RLbGFXZEFVN3FzLThVbV9yWFNuREZhYks1eXpJSzFHb0NjTndLcHp2TlRWQS11bU5qVFhWemlRUENNQ3dGbTNrcGdZNldBTzRnRWFDYi1BYjJFQ29PdERiQUUxcUE?oc=5",
-        "date": "09/11 04:57"
-      },
       {
         "type": "positive",
         "title": "QCOM Stock Jumps After Amazon Inks $60B ‘Multi-Generation’ AI Chip Deal",
@@ -1009,16 +1002,16 @@
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjNoMUYtWDRkQWZEVTl3RFZiZFdNWnQzTWZ3bHZGbmNXNzEyNjVLNFZwTWVycnZxRndheHNDYWdXNGM0YU1KRVg4aFRxT1djSnVsQXJ6dm4wZWVmeEJ6N0l2NkFEcWZXc0V0V1l2b1d5QWlsOEFvbVp4TnVudnVYYUttV3JmS2FQOEliZTVReFJLQjFBRzVqc3JqQUhVOHhOdFlvVWQxbi10YmVXSF9DS0FPd1VjbHlvMUJ4TGxGQVdMZDZOQmlLT2xNeFR0N2dVVHc?oc=5",
         "date": "09/10 02:25"
+      },
+      {
+        "type": "positive",
+        "title": "Amazon and Qualcomm team up on chips and high-bandwidth links for AI data centers.",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkpiaWNEb0R3UTFSQTlVU2VKdWRLRGtpNEpEdFlBa0tLRC0yeTNheGdrUUI1NkpNbjVGWE51TDl6OXZTUTRCTWxpQ2dJeERfVUNXazJ3SHl2MHVuWnpxTFFXQVI2bktENjhmQ25zMnlUeFIwR0l6RDFFQ1p5SHlxV2tfc1lRMjFucUJNQXU1M3ZBMHpjWlZQT1pkbXVvUlZhekZ2SGZZRGY0c083cnNTWERmX1dUdVlzTlJZ?oc=5",
+        "date": "09/08 22:00"
       }
     ],
     "VRT": [
-      {
-        "type": "neutral",
-        "title": "Why Vertiv Holdings Co. (VRT) Dipped More Than Broader Market Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3RUZ2x3dnBVdlVEUU40cjFDdkI3OTRxN3c4Mk1GOFFObjI1MlhBaVk2QWxDbVhpOGhvdC01NFZvNTYyaTM1U2hCcTJ6QWVEbm8xQjE0eUFVUVVqMThzeTRKNTB5aFFvYVBLdUl0N1l0aGlpTTUwX2h2b3NVWmpiUWdSQXBiZDJOREphRlBtU0lSSXExemc?oc=5",
-        "date": "09/10 06:45"
-      },
       {
         "type": "neutral",
         "title": "Why is Vertiv stock sliding today?",
@@ -1028,17 +1021,24 @@
       },
       {
         "type": "neutral",
-        "title": "Vertiv Has Cooled For 3 Months: A Wall Street Strategist Says It Will Rebound 45% Very Soon",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVdlNVg3bjVrZzM2R3FKbUxKQ2lPTmlkMDBrOVgxek1XSVRLblJlOGNrMFFjdmE2VVBvZmJGZ2xWQWhJWmI5Z2dGU2p4NXU5TG9TTEVERDhGdFdZWURJS0ZfODZEXzBxWHdBS3JDeGZERmFfS3UwbXE3RUJpSzEzbTFKTFNaUkNrNmRHMkYzQS1YRVdEZ0twN3pKcFdXVEFGeDNpS3VscUg2ODJWVGttd1dfeEtLczFoMFY1QnBBdlVfUE5Ia0FHdGlxUnJuUQ?oc=5",
-        "date": "09/10 20:44"
+        "title": "Vertiv (VRT) Stock May Be 1% Overvalued As AI Power Deal Looms",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWUVsVTQ0R1pUQW90NERZWTJMbERqZXAwSWtoaGpvcTNUaHBFbGlsVTkwNW5ib1ZJdElvYkV5c3NZdjczRG1ibVBDdUFtQWpTSlUybEpVYk9iTjhaSFQtZG9XT2hSQVhYNEFTenZQb0t6MlBOT0owa1hZSUxkNWh3bGEyZFoweXlmY1I4YS1aQmZWT2FZTkZSZHk2eWxXZjdJVlV5Y2RGNVNheE11VnBjc3hqM1lEZS1KMV8wQUMwc1JqZHpmV2p0Z29yNU9KWVFaNEJaOQ?oc=5",
+        "date": "09/10 19:45"
       },
       {
-        "type": "positive",
-        "title": "VRT: Raised growth targets and expanded solutions portfolio drive share gains and margin improvement",
-        "publisher": "tradingview.com",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWXNDaEh1VW1sVGs0OGNpTHUzTjVxUEN3ZUg4Mmh0dVIyWS1VSm5VLVAtN0p3QXhSSGdBNWU4andjMXppTFR3RG94STMydWIzTTdSSUZIM1pCZ0lkeHYxMlB4QVN0dGkxS2MzZ2RoM0sxTmptcnpXRW8tS1M4V3ZBTzZCenYxTnI1aXNOeENfSEZIb2pnUUZPdExvZW9RdTR3YzhaVklUaVIwejJ0b2ZHTGswbFB0Yzd2d1RTTDJTdV9MUG5KLTRxUjZoRnY5OWExakZ4Q2ZjU1JmUWpKdERUb3BCY1FQWDM4STREMUFhRzYxRU1CSjl2Y0RSblBaR1duZFVrLWRZV3ltUFFJZzBoblBGNlM?oc=5",
-        "date": "09/09 04:21"
+        "type": "neutral",
+        "title": "Is Vertiv (VRT) a Buy as Wall Street Analysts Look Optimistic?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLVdTQ1p3X2lNNDlPdmRieFBiVXlaQkQxZ1VQc0pfOU5FT2Y4UzhFdDFBRFlWTmNlMWNZcWVDQkF0RTE4akpuX1VwcjY1OUFhT05oRzNfMW1DczByNXd5UjdRY0Q5dkZEX2lmUFN6bS1NaTZ5S0g2X0FwX0ZGLXJLMjlSWjB6cmYyWWlWUER2VTFGWFczc2c?oc=5",
+        "date": "09/09 22:30"
+      },
+      {
+        "type": "negative",
+        "title": "Vertiv Holdings Co. (VRT) falls as investors digest acquisition, insider sales, and a recent sharp pullback",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTmszUDQ1Yzl3LUhLdkloNlRDdXdJa3JHZVN2Vng5VlQ1OEFFT3UxSEFDcmJmY1hNLUtkZ1V2Yk9rY3FTSnZJNmhMc1lrNHlRcklOYnd6MFBmZ2h6UGJ1MDg2eE1DOXB4THNzWWxqakV0QWJLMzBsNWVjVjFGMWEyNEl4WG9FSy14cDFMdmtuNTRJMkFSRjVWNERfUXBZZDF3a0JRV0U3anN6blA3d0I4Uk12Nm52SHZUZkQyRExKX0E0ZFV5a1pZV2FUSmtRUlhfYkFBeS1hcW9iQ01YcVdTbDZB?oc=5",
+        "date": "09/11 01:19"
       }
     ]
   }
