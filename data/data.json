@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T16:37:53.356742+00:00",
+  "updatedAt": "2026-09-12T18:52:09.918424+00:00",
   "market": {
     "cards": [
       {
@@ -898,10 +898,10 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Broadcom: A $230 Billion AI Juggernaut In The Making (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMllCcGFPZTZEaXpHd1BwVkZuZ09FX2ZUMWw0T3F5N2F6ckZOZnBydU5IcTJwQ3dCOXJnNWxzdF9RQXZiUFNBTFdNM1AxdC02NEstS2d6bUNuak5SaTdzQloyY2tDbF9MbjJqSGNScWVudnNrUE1QN2ZsSnNpMDYzYzYtUk9vWjU4SUhZOVF3?oc=5",
-        "date": "09/11 20:41"
+        "title": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDIyeldNMEhzRG9HcENYSmlSVnU4cUhGZHhxRHNPdEJlZE5RdnNSVDQ2d1Zac1hDRVQ2MVo5aXFoVm16dUdMRDRwY2VLSVh5cDhPeTNaNUdDcUdfaUluekgybnoyUE1rS0VPSk5LZzZCdUxxNjFOQjgxckxhbVZ1eEV3VnFZOVE4RURGQnJ0RDJXeF9ILVl1QVhVTFUyWVE?oc=5",
+        "date": "09/10 07:41"
       },
       {
         "type": "neutral",
@@ -912,17 +912,17 @@
       },
       {
         "type": "positive",
-        "title": "AVGO Stock Inches Higher — Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOFRKRU5aSnMyWWJ1ZUJyWTllSElsRnRzbzBhTmZDRG41eTMzS05oelVOR0F1RllpS0s2OWRlb21fM2lUMU1fZ0JKbEJpdVhWRzNybnhlb2pxbDNaZjBmN1R5U1JOdkFLZTI0SHU2bEZNeVN5SDFKRURGcXl1WkFfclZTRk1PQVFXYWdmZ1Y2WWF4QTJmQjhPeUk3ZHJKZl95eDU0OXRjVHVEbnh5MHIxYVlBcklJX0pUNW5zNVVUczR1N0hVVHZoMUJ6dExhSnRXWHhSdHlTOXBUWXprSE5VUlBjZ00?oc=5",
-        "date": "09/12 06:37"
+        "title": "Why Broadcom Providing 2028 Guidance Is a Big Deal for AVGO Stock Bulls",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNU1VV2Qxc3NDWTg4WjhmVzNqSTdJWFlQbEhIU0lZS19oeXVLX2lSR0djYmMzd1g0RDFZTmdnMDdsNjNpRVlwR0EwMW5QSlZ6NW9IWmZWeGltNUtpeWxMeXN1c1RUUzBvLWMzV2kxYTJsbWlxSXhCQlU0QjhoT25rMU9OR2VJVGZybzlITjVPZThpbENDdXFVYld6XzFGQTVDZGduc1haaXBTMDJZMFQ2R0NZdTduUQ?oc=5",
+        "date": "09/10 00:29"
       },
       {
-        "type": "positive",
-        "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5",
-        "date": "09/02 16:00"
+        "type": "negative",
+        "title": "Why Are Semiconductor Stocks Nvidia, AMD, TSMC, and AVGO Falling Today?",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnE1MUFneDBhTTNnb01oQ2VXTWxKbnZ0bHhOaXFEREZDQVNFMTgzZVdoM1ZXV05femRyZC1MOUZYQjJPY0ZJNDhaNWp0aXYzbnVuZ2MtbHFpdFRfcks5SzFJb1ZwczFPeWhzVWtFQzM0TUZEXzFfTmJRSk5ZVlI0VGJjMm1TZ3hldTFxX2ZoVHNrREtCVnBnVDdyQ1I5SWl0RVhfcjFNSzQ?oc=5",
+        "date": "09/10 22:27"
       }
     ],
     "BE": [
@@ -949,10 +949,10 @@
       },
       {
         "type": "positive",
-        "title": "BE Stock Ends Higher: Bloom Energy Denies Supply Chain And Scandium Allegations Following New Crossroads Capital Attack",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWG1lb2ppZ1FHOWZXVDZpVUdiYnczNGVXUS02bG9GZVJkeHZTT1F4SGgyRVpZR3JXT2QwOXZQMW1tWDFEZm5kRTVsZFNMOVQta2lFenJtbFJIaWZGTDJOX1liTXM4V0MzS1hCbUgxckdveXBUbFUtZHpHLW1NRXlFenpXdG5nVXhtZHgxS2NFTVpSb2lTbUlnMzlFRzVNZG5yZVVhS3NsT0RvT2Ffc01zSFM2dFpfYTRPaGtBaTlITTdnVXRJUjlCVjJaVEpOaTdyYk8xNkpyNXNIUQ?oc=5",
-        "date": "09/12 10:45"
+        "title": "Bloom Energy Stock Rides A 5-Day Winning Streak To A 34% Gain",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXhEZEVGaTZORHhtNDZ2eGxWNVFoNG9jc2ozbzZLR1MxWGQzV1ZpT2g3UWJiSWNKWEx3VHpZWk5NWTd6eVFPZ2VVcE5tbUhyQzVMa3dJR1htVHlDaElad1JLSHRhaEpZTjJQdWJSY0p1dWlpNFlYdV9RcUNYSW5ubWdSY0RxVGdLdDhrb2x2WFFhX2NWdzFYLTZiUUg4N1F5MnZLZ2Fta054SmNMOFl2a2hYdEtBT1c2SVR3?oc=5",
+        "date": "09/09 17:36"
       }
     ],
     "GOOGL": [
@@ -971,18 +971,18 @@
         "date": "09/11 22:30"
       },
       {
-        "type": "positive",
-        "title": "Alphabet (GOOGL) Stock Rises on a Morgan State University AI Campus Partnership",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGtqZnM5eG90TW1WajdDaXJ3NU9sU2haY0w4ZjEwNENkOHo5U0xtU2dGUkdVX3Q2RFdKcW1oUkhfMERmb1JqZlJOaTdzOC1XUTA3QlZFUUVmbm9HeDgyOEdHcm5LV2tlWUlKN0Nqbnh5Zjc2SDQzTmo0WFJBMkQ4VmUyRGFWWHotZFotUFB4T0lwOTVsTzk4UXVXSkRLWGlhQkVOZHEyajJod0U?oc=5",
-        "date": "09/11 00:21"
-      },
-      {
         "type": "neutral",
         "title": "How Far Could Alphabet Stock Move On You In A Year?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUZBZm45Z0ZvUllXWEQyakVFQUQxcG9nZVFnb3YxUndfS1kzZWFLNnRORHZ3MF8yT19LNDdiLVVVeFkxTGZJR25DTkhrdlJQdXVLOVpGamRRNG1yMmxsMU5zTnUySGZwYVhhYnljU1dlN2Q1RVBUaElrN2ZaZUczMkhnSmRLNG5mZ0R1eWwwcW5nanJSVGVwVTFCMC1DQlB2dm93aG1zOVIyTHV6NkxXOFFB?oc=5",
         "date": "09/12 04:33"
+      },
+      {
+        "type": "positive",
+        "title": "Most Active Stocks: UBER Stock Tops List with 44% Upside, Strong Buy Rating",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFowYzdZaFF5NGxpd0k3MUVwUS1CZGQteUhDbGFKbmN3ZS1tOXVEN3l5c3ZOanNKelBKMHMxX3lGdFpyT1BhNTFCTzJlZTM2QkFyN0VMejNRaDlIc0hTR3hmTE1yOC1mTWVyQnFpY2R4VzNqMGhpY3NtcW9kZzhZZXJsZC1ES1Y2elhrTXBkanoxbFRHR3RBa2dHUnFhQ0FQZURWdw?oc=5",
+        "date": "09/11 23:55"
       }
     ],
     "QCOM": [
@@ -1008,11 +1008,11 @@
         "date": "09/08 22:00"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm (QCOM) Beats Stock Market Upswing: What Investors Need to Know",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXVFT3lqb01vcGJWVVN4ellURzVDLUdBNTNoMnNCUjN3enBTZ3dPbVAyZVdfSWFqX2lyUzd0ejZXMWYzQ2ZfV3NDUTFUWnUwemNTZ1h4bnlKSnF3M2NwMHhXSHJxa3htZnZPQVBUMVRQcTF0MmladXRaZ19tNEdxQ2lBTi1xQk4zcDVQOTVXWGttc0lSRFBNdlNUc3pIdw?oc=5",
-        "date": "09/12 06:45"
+        "type": "neutral",
+        "title": "Cramer Says Qualcomm's Amazon Collaboration Gives Stalled Stock \"Something Special\" to Point At",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjNoMUYtWDRkQWZEVTl3RFZiZFdNWnQzTWZ3bHZGbmNXNzEyNjVLNFZwTWVycnZxRndheHNDYWdXNGM0YU1KRVg4aFRxT1djSnVsQXJ6dm4wZWVmeEJ6N0l2NkFEcWZXc0V0V1l2b1d5QWlsOEFvbVp4TnVudnVYYUttV3JmS2FQOEliZTVReFJLQjFBRzVqc3JqQUhVOHhOdFlvVWQxbi10YmVXSF9DS0FPd1VjbHlvMUJ4TGxGQVdMZDZOQmlLT2xNeFR0N2dVVHc?oc=5",
+        "date": "09/10 02:25"
       }
     ],
     "VRT": [
