@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T12:09:49.464579+00:00",
+  "updatedAt": "2026-09-13T16:31:34.468062+00:00",
   "market": {
     "cards": [
       {
@@ -905,24 +905,24 @@
       },
       {
         "type": "neutral",
+        "title": "Broadcom CEO Hock Tan Says Demand Already Exceeds Broadcom's $115 Billion AI Forecast. Here's What That Means for the Stock.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNWw0dUJjemtfc01fS0QydmhIV1lsRkd1Y3ZIczdWQTZqUU9ZbTUyZFJMQ25JNVZxWFlrOUFTbHZGTkNFWjhodVlaRU9oakwyZHd3VktuZlJWckZQQXpXVUtISkFGTmU2c1ZuOURsRldZMFozVHotdHRDZ2xHcDEyOW5acnEyYVVSazFRdlFIN21mSDlGTzhR?oc=5",
+        "date": "09/13 23:00"
+      },
+      {
+        "type": "neutral",
         "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW5kTlo5RVotUkktSUFWdzNlWi1EU1pwaGdKcV9TM1AtQzNFdTJtbmRvWTNEMWVzODNiRnpTU3gwWWVFQXpWeFN5R0MyaXRYWWtKalJkMU51N01jY2ZDWUU5WjZud0U0Y0xfdWI1eXBETDJMQXRTLUtaM3d4UFVNZlBPQ2FPTzBwWC1uQ2l1YWxPcXh1NFQ3d25NVEJUU1p1SGpn?oc=5",
         "date": "09/11 00:30"
       },
       {
-        "type": "neutral",
-        "title": "Prediction: This Unstoppable Stock Will Rejoin the $2 Trillion Club by 2027",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS254NEFud3dGMF94S2F5UjdETGllS2tpMV9lYUNlRlQtQUZpeHhXU0pYYlFFa2pHME8tWnlmeFh6ZGQtTFZFaG9IM1VnM3hSdk5pXzdmRmI0LTB6aXBpUjJkWjFqN0psb0xRUnlrTG1kb2x0QU1hM3F3c0RnM1Y3YmV5X1RlUGtYejdmZ0VpaERTMGZMRlZj?oc=5",
-        "date": "09/11 12:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Forget the Magnificent Seven Stocks, Gary Black Says This Tech Giant Is Cheaper",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONTltY2Z2V0tkU3hoUEpoOC1kQVVWREpXMnJXQ01jWnJjdGpjeXdEX3BaZFNJdjNFVElHVWlrVk5lM1FSM25QM29KbFVYVGo5dWhCdXhxbW5fNXlPcmxaNEhuZEduQkd1SnBDcFB4T3BaZklQRkdESmpXVHM4RlRKS01VaHdJNldnal9FaWVHOW51NGE1WFNqZUtUU2ZsY05Na1hlWkphcGV0ajdaRGdDeDJjYVExSkp1dElsYjlscHdwUHhfbm4zbkVYT3o1TFc5WkNqbjFkQXFCMXM?oc=5",
-        "date": "09/10 23:44"
+        "type": "negative",
+        "title": "Why Are Semiconductor Stocks Nvidia, AMD, TSMC, and AVGO Falling Today?",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnE1MUFneDBhTTNnb01oQ2VXTWxKbnZ0bHhOaXFEREZDQVNFMTgzZVdoM1ZXV05femRyZC1MOUZYQjJPY0ZJNDhaNWp0aXYzbnVuZ2MtbHFpdFRfcks5SzFJb1ZwczFPeWhzVWtFQzM0TUZEXzFfTmJRSk5ZVlI0VGJjMm1TZ3hldTFxX2ZoVHNrREtCVnBnVDdyQ1I5SWl0RVhfcjFNSzQ?oc=5",
+        "date": "09/10 22:27"
       }
     ],
     "BE": [
@@ -958,17 +958,17 @@
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "Why Alphabet Stock Just Popped",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWxlb1h2VnpsZzFOLVd5WmVCbkgtNnFIcUt6Y01TZEkxaGJQaG9uM2t1d0I3dl94b1p6MDczVFNIQWxGR0ZoOUhPNVExTmx5b2VScVFQeTQ5Qk1pUEJyR3ZQWWNieDhxY2Q1TTFvY2dOTWtfOWxlYVVnanR3VDMweV9QOVQ5UWg2dGVRSDlKX291cThIeE1KdVlsNA?oc=5",
-        "date": "09/12 04:13"
+        "title": "Alphabet Stock (GOOGL) Opinions on Berkshire's Increased Investment and AI Momentum",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclpDYWJVSTQ5Y2IzVlcwcVZ3ZmhDSXJjYjBpNVlXajBkaE02OHZKUl9MYWVaOTBDeXYza3FYOUNtelZ6SkRqY1pIaV9zN05WUUdad2xyckpVU1Nfd1dtbnBFWEF1U2VrQjVPMVdTN24tU2V1U0Vma0dNOFZEUG9YbzlmSUlLcVk5RXNJelh2ME5UVEJkNmppQkFXM2xacUcySFNJZ0FWX1QzSUpFWTZzdEZ0QWE0ZDBmeGRMZUpUZw?oc=5",
+        "date": "09/13 23:04"
       },
       {
         "type": "neutral",
-        "title": "Cathie Wood sells $28.7 million of megacap tech stock",
-        "publisher": "thestreet.com",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcXExYlZsYW40U1BwUmh2MXlaVkVjcUFOSXhvczdHc2Jta09OblhLWUF5Uk44RWN4dzluWWdJbHNmUENqT1VFLXRHOHp3dmZ6WGs5SjFQY2dFWTNHdC1MRERwU291YmdNNkgtNVYyR3BOeFBPWDEtb0hTeUgtQmh6Wkc1NGRSWlZRSmRMUk9VZDNaNE1nWmxyX1hsR25YZWdsNkFxakk3Y3oyMnV5ZnNHWnJpVVotZHRJ?oc=5",
-        "date": "09/13 07:37"
+        "title": "How Far Could Alphabet Stock Move On You In A Year?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnpCTi1mUnhiTGFncWRoYl9jV1NwSnhFcVg2azlnOG5YRjdWQzlENW9pckRHa2VrQm9Xb3Ytdi1mYTRLa1B4ZndNVVZ5N1BoRjJaVXk0d1FRcVNWcm8wU2h1NmRPQ3lpdGFYRzlCMW5SQ2hCZkJsazF3TzBZNVM4aVh1NEJFeXMzMndSczU4N0E3T3JadTBlNXhoUQ?oc=5",
+        "date": "09/12 04:34"
       },
       {
         "type": "neutral",
@@ -978,11 +978,11 @@
         "date": "09/11 22:30"
       },
       {
-        "type": "neutral",
-        "title": "How Far Could Alphabet Stock Move On You In A Year?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUZBZm45Z0ZvUllXWEQyakVFQUQxcG9nZVFnb3YxUndfS1kzZWFLNnRORHZ3MF8yT19LNDdiLVVVeFkxTGZJR25DTkhrdlJQdXVLOVpGamRRNG1yMmxsMU5zTnUySGZwYVhhYnljU1dlN2Q1RVBUaElrN2ZaZUczMkhnSmRLNG5mZ0R1eWwwcW5nanJSVGVwVTFCMC1DQlB2dm93aG1zOVIyTHV6NkxXOFFB?oc=5",
-        "date": "09/12 04:33"
+        "type": "positive",
+        "title": "Alphabet (GOOGL) Stock Rises on a Morgan State University AI Campus Partnership",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGtqZnM5eG90TW1WajdDaXJ3NU9sU2haY0w4ZjEwNENkOHo5U0xtU2dGUkdVX3Q2RFdKcW1oUkhfMERmb1JqZlJOaTdzOC1XUTA3QlZFUUVmbm9HeDgyOEdHcm5LV2tlWUlKN0Nqbnh5Zjc2SDQzTmo0WFJBMkQ4VmUyRGFWWHotZFotUFB4T0lwOTVsTzk4UXVXSkRLWGlhQkVOZHEyajJod0U?oc=5",
+        "date": "09/11 00:21"
       }
     ],
     "QCOM": [
@@ -997,7 +997,7 @@
         "type": "negative",
         "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
         "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsUw?oc=5",
         "date": "09/08 22:09"
       },
       {
