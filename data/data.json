@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T21:30:24.438238+00:00",
+  "updatedAt": "2026-09-13T23:46:37.200047+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1344.15,
-        "change": -0.3
+        "value": 1343.38,
+        "change": -0.36
       },
       {
         "name": "KOSPI",
@@ -601,8 +601,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1525.05,
-              1517.38,
               1509.5,
               1513.31,
               1510.96,
@@ -668,7 +666,7 @@
               1339.21,
               1339.17,
               1348.17,
-              1344.15
+              1343.38
             ]
           }
         ]
@@ -913,14 +911,14 @@
       {
         "type": "neutral",
         "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW5kTlo5RVotUkktSUFWdzNlWi1EU1pwaGdKcV9TM1AtQzNFdTJtbmRvWTNEMWVzODNiRnpTU3gwWWVFQXpWeFN5R0MyaXRYWWtKalJkMU51N01jY2ZDWUU5WjZud0U0Y0xfdWI1eXBETDJMQXRTLUtaM3d4UFVNZlBPQ2FPTzBwWC1uQ2l1YWxPcXh1NFQ3d25NVEJUU1p1SGpn?oc=5",
         "date": "09/11 00:30"
       },
       {
         "type": "negative",
         "title": "Why Are Semiconductor Stocks Nvidia, AMD, TSMC, and AVGO Falling Today?",
-        "publisher": "tipranks.com",
+        "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnE1MUFneDBhTTNnb01oQ2VXTWxKbnZ0bHhOaXFEREZDQVNFMTgzZVdoM1ZXV05femRyZC1MOUZYQjJPY0ZJNDhaNWp0aXYzbnVuZ2MtbHFpdFRfcks5SzFJb1ZwczFPeWhzVWtFQzM0TUZEXzFfTmJRSk5ZVlI0VGJjMm1TZ3hldTFxX2ZoVHNrREtCVnBnVDdyQ1I5SWl0RVhfcjFNSzQ?oc=5",
         "date": "09/10 22:27"
       }
@@ -936,7 +934,7 @@
       {
         "type": "positive",
         "title": "Why Bloom Energy (BE) Stock Is Trading Up Today",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjRjOUhnS3NPU3NCdWJkRG9XMl9sU2tzSC1xbWREYTdaRWJ4ekViN24wNzhNRl93U1FxSDJKOHFVY2dJbjJ4dEVHemp3c2lVMVFKak1Jd3BJUjdqd3o1eVFvSWhVYmJIVGM4d0JUdUFHLTlDMTN1d3M3ODV0dHFkVU0zTE81WHVFdVZkMnRaRDQxWWxDQXJxc2hRYw?oc=5",
         "date": "09/09 09:31"
       },
@@ -948,11 +946,11 @@
         "date": "09/11 20:37"
       },
       {
-        "type": "neutral",
-        "title": "BE Stock Outpaces Clean Energy ETFs: Is Wall Street Repricing Bloom Energy As AI Infrastructure Play?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSVZxMGxjbUxTOEZ0aF91eWg4QmM4ZXFqa3BqUnJGUWpRNjdNdlNDd0QyZzdqUDNoR1J1djlPU09QdE9IZTdCTHNKNXdnWktKYWxsQXN1amFmUW1LZHJsQ2g1a2ltXzBfR2ttdzA4V1l1MkY1aUgzVjZFbi1XbS1HelI2VksyZmt4QjZRc3lDU0tySk5sSWk0UGZadW9sck5mVk43WG5JR2FKeWgya3BpX0Z2ZzBnMHhEbldkZ0dOUnVKQUFRYUkyZ1R1T2t6RERPZDM5WFI0aGxPZ1RHUTluVnVJSUYxMlhTZTFxSS0zVE4?oc=5",
-        "date": "09/09 15:31"
+        "type": "positive",
+        "title": "Bloom Energy Stock Rides A 5-Day Winning Streak To A 34% Gain",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXhEZEVGaTZORHhtNDZ2eGxWNVFoNG9jc2ozbzZLR1MxWGQzV1ZpT2g3UWJiSWNKWEx3VHpZWk5NWTd6eVFPZ2VVcE5tbUhyQzVMa3dJR1htVHlDaElad1JLSHRhaEpZTjJQdWJSY0p1dWlpNFlYdV9RcUNYSW5ubWdSY0RxVGdLdDhrb2x2WFFhX2NWdzFYLTZiUUg4N1F5MnZLZ2Fta054SmNMOFl2a2hYdEtBT1c2SVR3?oc=5",
+        "date": "09/09 17:36"
       }
     ],
     "GOOGL": [
@@ -980,7 +978,7 @@
       {
         "type": "neutral",
         "title": "Jim Cramer on Alphabet (GOOGL): “I Don’t Care Where It Went, I Care Where It’s Going”",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLUlRbHZmTVJrbDZ0Q0hDbDVhWllEV1ZOUmZkU0pLZ3JRdHh1VEVjLWlhSkdkODMzUTJ3QUlJRHVNZ3IzVnV4b2tkNFhGMmhzUGZUbk8zc1NBaGRxVUNGOFV1QUxPbXdrRS1TMm5YcVYwM3haS3pCVTJ3T1RfQzdPOEl6QVRoVXdYaExUMUV0RENEWUttRGItcmRn?oc=5",
         "date": "09/10 02:12"
       }
@@ -1001,18 +999,18 @@
         "date": "09/08 22:09"
       },
       {
-        "type": "neutral",
-        "title": "Qualcomm: AI Boom Ignored (NASDAQ:QCOM)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMU5YWThzeXV6QmxfUU9Ic0hqX3ZVQ3B1Q3hESWJmMU9YTnVlTUhvWnZNSXc2NVgwS2U1ektKbEs3UlZrNFl0dUdTWVpVd3FNY3JDcEg0bEZtNkZlLUdxWTY2b3JvcGxwYkxmMEtVVjB3Uzg?oc=5",
-        "date": "09/14 03:00"
-      },
-      {
         "type": "positive",
         "title": "Amazon and Qualcomm team up on chips and high-bandwidth links for AI data centers.",
         "publisher": "Stock Titan",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkpiaWNEb0R3UTFSQTlVU2VKdWRLRGtpNEpEdFlBa0tLRC0yeTNheGdrUUI1NkpNbjVGWE51TDl6OXZTUTRCTWxpQ2dJeERfVUNXazJ3SHl2MHVuWnpxTFFXQVI2bktENjhmQ25zMnlUeFIwR0l6RDFFQ1p5SHlxV2tfc1lRMjFucUJNQXU1M3ZBMHpjWlZQT1pkbXVvUlZhekZ2SGZZRGY0c083cnNTWERmX1dUdVlzTlJZ?oc=5",
         "date": "09/08 22:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm: AI Boom Ignored (NASDAQ:QCOM)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMU5YWThzeXV6QmxfUU9Ic0hqX3ZVQ3B1Q3hESWJmMU9YTnVlTUhvWnZNSXc2NVgwS2U1ektKbEs3UlZrNFl0dUdTWVpVd3FNY3JDcEg0bEZtNkZlLUdxWTY2b3JvcGxwYkxmMEtVVjB3Uzg?oc=5",
+        "date": "09/14 03:00"
       }
     ],
     "VRT": [
@@ -1026,7 +1024,7 @@
       {
         "type": "neutral",
         "title": "Is Vertiv (VRT) a Buy as Wall Street Analysts Look Optimistic?",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLVdTQ1p3X2lNNDlPdmRieFBiVXlaQkQxZ1VQc0pfOU5FT2Y4UzhFdDFBRFlWTmNlMWNZcWVDQkF0RTE4akpuX1VwcjY1OUFhT05oRzNfMW1DczByNXd5UjdRY0Q5dkZEX2lmUFN6bS1NaTZ5S0g2X0FwX0ZGLXJLMjlSWjB6cmYyWWlWUER2VTFGWFczc2c?oc=5",
         "date": "09/09 22:30"
       },
