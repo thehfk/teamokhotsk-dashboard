@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T02:21:27.891975+00:00",
+  "updatedAt": "2026-09-14T07:59:39.734362+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.84,
-        "change": -11.21
+        "value": 17.77,
+        "change": 12.18
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1345.51,
-        "change": -0.2
+        "value": 1346.0,
+        "change": -0.16
       },
       {
         "name": "KOSPI",
-        "value": 6909.91,
-        "change": -1.76
+        "value": 6684.37,
+        "change": -3.26
       },
       {
         "name": "KOSDAQ",
-        "value": 811.31,
-        "change": -1.14
+        "value": 806.79,
+        "change": -1.69
       }
     ],
     "groups": [
@@ -321,8 +321,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "06/11",
-          "06/12",
           "06/15",
           "06/16",
           "06/17",
@@ -385,14 +383,13 @@
           "09/08",
           "09/09",
           "09/10",
-          "09/11"
+          "09/11",
+          "09/14"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              19.44,
-              17.68,
               16.2,
               16.41,
               18.44,
@@ -455,7 +452,8 @@
               15.72,
               16.46,
               17.84,
-              15.84
+              15.84,
+              17.77
             ]
           }
         ]
@@ -666,7 +664,7 @@
               1339.21,
               1339.17,
               1348.17,
-              1345.51
+              1346.0
             ]
           }
         ]
@@ -736,7 +734,8 @@
           "09/08",
           "09/09",
           "09/10",
-          "09/11"
+          "09/11",
+          "09/14"
         ],
         "series": [
           {
@@ -804,7 +803,8 @@
               6954.52,
               7051.64,
               7033.92,
-              6909.91
+              6909.91,
+              6684.37
             ]
           },
           {
@@ -873,7 +873,7 @@
               830.37,
               836.92,
               820.64,
-              811.31
+              806.79
             ]
           }
         ]
@@ -905,24 +905,24 @@
       },
       {
         "type": "neutral",
-        "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW5kTlo5RVotUkktSUFWdzNlWi1EU1pwaGdKcV9TM1AtQzNFdTJtbmRvWTNEMWVzODNiRnpTU3gwWWVFQXpWeFN5R0MyaXRYWWtKalJkMU51N01jY2ZDWUU5WjZud0U0Y0xfdWI1eXBETDJMQXRTLUtaM3d4UFVNZlBPQ2FPTzBwWC1uQ2l1YWxPcXh1NFQ3d25NVEJUU1p1SGpn?oc=5",
-        "date": "09/11 00:30"
-      },
-      {
-        "type": "neutral",
         "title": "Broadcom Could Be Above $1,000 In 2 Years",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmR6N1dVWWY0X2xuOXFHUUxZYUdpZ3lLS0xKYkQ2M2pobWxIeTRQUmhzTHlKRXJvM2JKM0V3cW80dW1RMUhPUVl6WXZNVGhXQndkRkFhTjNWaHlZU0VZZXhfQjhsSDFkempwSlRvU0ZWS19oYUpTVF90NXEzNmN5STV5d194cXU0SlEyUktQU0lpZw?oc=5",
         "date": "09/11 20:30"
+      },
+      {
+        "type": "neutral",
+        "title": "4 stocks to watch on Friday: KR, NVO, AVGO, and SPCX",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVC1wVXlaejJWdVF5QXBVbE9HQWt6bXBweFRpbFlxRXBaLWRRaWtud2hQanRhTHBGc3VvcGQ4WVF1Z1RkVVItVDBQeXg3QWZrQU5lRVBqbXNvSHBhcVQ5ZTdMZ1RJUG83N1ZYVHRTTTkyZFFhVHNqN2ZkQ0JBMjFQc3J4U2VaQmU5dTdJNV9iUGs?oc=5",
+        "date": "09/11 21:53"
       }
     ],
     "BE": [
       {
         "type": "positive",
         "title": "BE Stock Ends Higher: Bloom Energy Denies Supply Chain And Scandium Allegations Following New Crossroads Capital Attack",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWG1lb2ppZ1FHOWZXVDZpVUdiYnczNGVXUS02bG9GZVJkeHZTT1F4SGgyRVpZR3JXT2QwOXZQMW1tWDFEZm5kRTVsZFNMOVQta2lFenJtbFJIaWZGTDJOX1liTXM4V0MzS1hCbUgxckdveXBUbFUtZHpHLW1NRXlFenpXdG5nVXhtZHgxS2NFTVpSb2lTbUlnMzlFRzVNZG5yZVVhS3NsT0RvT2Ffc01zSFM2dFpfYTRPaGtBaTlITTdnVXRJUjlCVjJaVEpOaTdyYk8xNkpyNXNIUQ?oc=5",
         "date": "09/13 16:27"
       },
@@ -941,18 +941,25 @@
         "date": "09/11 20:37"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy Stock Rides A 5-Day Winning Streak To A 34% Gain",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXhEZEVGaTZORHhtNDZ2eGxWNVFoNG9jc2ozbzZLR1MxWGQzV1ZpT2g3UWJiSWNKWEx3VHpZWk5NWTd6eVFPZ2VVcE5tbUhyQzVMa3dJR1htVHlDaElad1JLSHRhaEpZTjJQdWJSY0p1dWlpNFlYdV9RcUNYSW5ubWdSY0RxVGdLdDhrb2x2WFFhX2NWdzFYLTZiUUg4N1F5MnZLZ2Fta054SmNMOFl2a2hYdEtBT1c2SVR3?oc=5",
-        "date": "09/09 17:36"
+        "type": "negative",
+        "title": "Bloom Energy: Chances Are The Shares Are Still Trading Too Low",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFdMOTI5UXF5cWpJaUJDT1ZLc0ZzTWd1Z0dPNGhJWXQyUGpzTnBnY0kweldjR1NpZ0JsNEFVV3pTdmthbjk0aDh5UFRnVWZvWXdvT1g5S1JieDVfNlcwd2VFQnpyNzhOZ0hHanp5NTRnS005Q01uX2NXT2FtekJFOWhDTW1EOGRUVGpYZzY1UWhKMmR5YjJGRUpOdG1rdlc3WmRiZg?oc=5",
+        "date": "09/11 15:56"
       }
     ],
     "GOOGL": [
       {
         "type": "neutral",
+        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+        "date": "09/14 03:04"
+      },
+      {
+        "type": "neutral",
         "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
         "date": "09/14 03:18"
       },
@@ -962,13 +969,6 @@
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclpDYWJVSTQ5Y2IzVlcwcVZ3ZmhDSXJjYjBpNVlXajBkaE02OHZKUl9MYWVaOTBDeXYza3FYOUNtelZ6SkRqY1pIaV9zN05WUUdad2xyckpVU1Nfd1dtbnBFWEF1U2VrQjVPMVdTN24tU2V1U0Vma0dNOFZEUG9YbzlmSUlLcVk5RXNJelh2ME5UVEJkNmppQkFXM2xacUcySFNJZ0FWX1QzSUpFWTZzdEZ0QWE0ZDBmeGRMZUpUZw?oc=5",
         "date": "09/13 23:04"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "09/13 12:44"
       },
       {
         "type": "neutral",
@@ -982,7 +982,7 @@
       {
         "type": "positive",
         "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
         "date": "09/12 15:53"
       },
@@ -994,25 +994,25 @@
         "date": "09/08 22:09"
       },
       {
-        "type": "positive",
-        "title": "Amazon and Qualcomm team up on chips and high-bandwidth links for AI data centers.",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkpiaWNEb0R3UTFSQTlVU2VKdWRLRGtpNEpEdFlBa0tLRC0yeTNheGdrUUI1NkpNbjVGWE51TDl6OXZTUTRCTWxpQ2dJeERfVUNXazJ3SHl2MHVuWnpxTFFXQVI2bktENjhmQ25zMnlUeFIwR0l6RDFFQ1p5SHlxV2tfc1lRMjFucUJNQXU1M3ZBMHpjWlZQT1pkbXVvUlZhekZ2SGZZRGY0c083cnNTWERmX1dUdVlzTlJZ?oc=5",
-        "date": "09/08 22:00"
-      },
-      {
         "type": "neutral",
         "title": "Qualcomm: AI Boom Ignored (NASDAQ:QCOM)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMU5YWThzeXV6QmxfUU9Ic0hqX3ZVQ3B1Q3hESWJmMU9YTnVlTUhvWnZNSXc2NVgwS2U1ektKbEs3UlZrNFl0dUdTWVpVd3FNY3JDcEg0bEZtNkZlLUdxWTY2b3JvcGxwYkxmMEtVVjB3Uzg?oc=5",
         "date": "09/14 03:00"
+      },
+      {
+        "type": "positive",
+        "title": "Amazon and Qualcomm team up on chips and high-bandwidth links for AI data centers.",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkpiaWNEb0R3UTFSQTlVU2VKdWRLRGtpNEpEdFlBa0tLRC0yeTNheGdrUUI1NkpNbjVGWE51TDl6OXZTUTRCTWxpQ2dJeERfVUNXazJ3SHl2MHVuWnpxTFFXQVI2bktENjhmQ25zMnlUeFIwR0l6RDFFQ1p5SHlxV2tfc1lRMjFucUJNQXU1M3ZBMHpjWlZQT1pkbXVvUlZhekZ2SGZZRGY0c083cnNTWERmX1dUdVlzTlJZ?oc=5",
+        "date": "09/08 22:00"
       }
     ],
     "VRT": [
       {
         "type": "neutral",
         "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
         "date": "09/12 15:30"
       },
@@ -1032,10 +1032,10 @@
       },
       {
         "type": "neutral",
-        "title": "Vertiv (VRT) Stock May Be 1% Overvalued As AI Power Deal Looms",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWUVsVTQ0R1pUQW90NERZWTJMbERqZXAwSWtoaGpvcTNUaHBFbGlsVTkwNW5ib1ZJdElvYkV5c3NZdjczRG1ibVBDdUFtQWpTSlUybEpVYk9iTjhaSFQtZG9XT2hSQVhYNEFTenZQb0t6MlBOT0owa1hZSUxkNWh3bGEyZFoweXlmY1I4YS1aQmZWT2FZTkZSZHk2eWxXZjdJVlV5Y2RGNVNheE11VnBjc3hqM1lEZS1KMV8wQUMwc1JqZHpmV2p0Z29yNU9KWVFaNEJaOdIB2gFBVV95cUxObzNnYVBfM2g2Z241ZjNXWHE4VGlPMGREcEhSdkIxRkZiS0dyRTRrbGxkZFp2bWVTeW50VXJzRnVfS2tRQ0E4ODJ4QmNyS0VJNE1zeHR4T3FNaXlVNjJSdDNPQUNDWTdtQmwzVEM2ZUE4bGlyZUdqYzRTNXZwWGpOVFdxMEFweWVvck0tWFZ0YUkxOUQ4TENwdTEzRlZfTV92VnhTSzhiMk5DZU40czRyd2F6cFppTC1fOFl1aVdVbHBBcVg0UFhQdWJvalp5TGtDaGYweDZ6UWNadw?oc=5",
-        "date": "09/10 19:45"
+        "title": "How Vertiv Holdings Llc Class A (VRT) Affects Rotational Strategy Timing",
+        "publisher": "Stock Traders Daily",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNkZYMVBocVNtLUFvZkZtcU1uZmlwMnhDZnVFWkl5a0xqZUZqZEpUaV9SSHJUbXRxWVZiOE1vV3FLc1RTUTZnUldRSG9CWFVid3lGMk1EcHBENnBQY21yNDRFZWZMZEdJd3Z6ajc5ZE9hMTBsN1VJWWU1WXVXOF9ZSkNyLTJzeVd3UnhLOGEwN1pkRDRQUkFiQmVySjg5UTBnSnF4cUhaenEwczNEcFI5MzZSZERBMHM0RTlVNncyTlp4WUNxVDhZbGNDbzFjWlg0aGpGNGVLcGcwRnVLZEw1UkZOaE95Zw?oc=5",
+        "date": "09/14 08:56"
       }
     ]
   }
