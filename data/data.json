@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T23:46:37.200047+00:00",
+  "updatedAt": "2026-09-14T02:21:27.891975+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1343.38,
-        "change": -0.36
+        "value": 1345.51,
+        "change": -0.2
       },
       {
         "name": "KOSPI",
@@ -39,8 +39,8 @@
       },
       {
         "name": "KOSDAQ",
-        "value": 820.64,
-        "change": -1.95
+        "value": 811.31,
+        "change": -1.14
       }
     ],
     "groups": [
@@ -666,7 +666,7 @@
               1339.21,
               1339.17,
               1348.17,
-              1343.38
+              1345.51
             ]
           }
         ]
@@ -674,8 +674,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "06/11",
-          "06/12",
           "06/15",
           "06/16",
           "06/17",
@@ -744,8 +742,6 @@
           {
             "name": "KOSPI",
             "data": [
-              7763.95,
-              8123.62,
               8545.98,
               8726.6,
               8864.24,
@@ -814,8 +810,6 @@
           {
             "name": "KOSDAQ",
             "data": [
-              996.93,
-              1029.05,
               1034.03,
               1018.68,
               1031.96,
@@ -878,7 +872,8 @@
               811.88,
               830.37,
               836.92,
-              820.64
+              820.64,
+              811.31
             ]
           }
         ]
@@ -916,11 +911,11 @@
         "date": "09/11 00:30"
       },
       {
-        "type": "negative",
-        "title": "Why Are Semiconductor Stocks Nvidia, AMD, TSMC, and AVGO Falling Today?",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnE1MUFneDBhTTNnb01oQ2VXTWxKbnZ0bHhOaXFEREZDQVNFMTgzZVdoM1ZXV05femRyZC1MOUZYQjJPY0ZJNDhaNWp0aXYzbnVuZ2MtbHFpdFRfcks5SzFJb1ZwczFPeWhzVWtFQzM0TUZEXzFfTmJRSk5ZVlI0VGJjMm1TZ3hldTFxX2ZoVHNrREtCVnBnVDdyQ1I5SWl0RVhfcjFNSzQ?oc=5",
-        "date": "09/10 22:27"
+        "type": "neutral",
+        "title": "Broadcom Could Be Above $1,000 In 2 Years",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmR6N1dVWWY0X2xuOXFHUUxZYUdpZ3lLS0xKYkQ2M2pobWxIeTRQUmhzTHlKRXJvM2JKM0V3cW80dW1RMUhPUVl6WXZNVGhXQndkRkFhTjNWaHlZU0VZZXhfQjhsSDFkempwSlRvU0ZWS19oYUpTVF90NXEzNmN5STV5d194cXU0SlEyUktQU0lpZw?oc=5",
+        "date": "09/11 20:30"
       }
     ],
     "BE": [
@@ -956,6 +951,13 @@
     "GOOGL": [
       {
         "type": "neutral",
+        "title": "GOOGL Stock: Google Loses More AI Talent As Two Experts Reportedly Move To Anthropic",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBOMEdpR3JmR3N3TDlaNXNvTEpFOWt1WWJabUs1TlBPTjVnTUNJQ2RTaGt6TmhjLW82TUozMmRQNDNYRXliNW5HYmpXVDQzRkRYTXdmOEw5WjlDRkQ5bGcxaW0wWmJEckQtSmZrSk9tOWgya1BsWW4tUHRjd2I4Vi1fdTlkUE5QZ1JhcGMzaTZiSEdVb1pQMHFpZWxxMEE4T3Y0cXE1ZXpuRFI0MXlxTnZ4RmlnSVRVVEc0bjhDSFRqNGMtR1hIanBNT1d0dmJ3N21OSUpOVldhTFY4bG93b1h3?oc=5",
+        "date": "09/14 03:18"
+      },
+      {
+        "type": "neutral",
         "title": "Alphabet Stock (GOOGL) Opinions on Berkshire's Increased Investment and AI Momentum",
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclpDYWJVSTQ5Y2IzVlcwcVZ3ZmhDSXJjYjBpNVlXajBkaE02OHZKUl9MYWVaOTBDeXYza3FYOUNtelZ6SkRqY1pIaV9zN05WUUdad2xyckpVU1Nfd1dtbnBFWEF1U2VrQjVPMVdTN24tU2V1U0Vma0dNOFZEUG9YbzlmSUlLcVk5RXNJelh2ME5UVEJkNmppQkFXM2xacUcySFNJZ0FWX1QzSUpFWTZzdEZ0QWE0ZDBmeGRMZUpUZw?oc=5",
@@ -974,13 +976,6 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTk9Bajl4Rk52b3VOSTVrZUxTbHRTTnF4RFJvNmpWYS1pVnVaVGpCdWl6RWpXaHNDWVVFUm82alJISkZTbFljM2dJNktWNXBLbVpabHZ6S0VXNmlUTW12VGRxVElVclJldmdqVFhSdTlMVmVzVXpsNmVQVGMwWmpMQUo4Ti0wUQ?oc=5",
         "date": "09/11 22:30"
-      },
-      {
-        "type": "neutral",
-        "title": "Jim Cramer on Alphabet (GOOGL): “I Don’t Care Where It Went, I Care Where It’s Going”",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLUlRbHZmTVJrbDZ0Q0hDbDVhWllEV1ZOUmZkU0pLZ3JRdHh1VEVjLWlhSkdkODMzUTJ3QUlJRHVNZ3IzVnV4b2tkNFhGMmhzUGZUbk8zc1NBaGRxVUNGOFV1QUxPbXdrRS1TMm5YcVYwM3haS3pCVTJ3T1RfQzdPOEl6QVRoVXdYaExUMUV0RENEWUttRGItcmRn?oc=5",
-        "date": "09/10 02:12"
       }
     ],
     "QCOM": [
