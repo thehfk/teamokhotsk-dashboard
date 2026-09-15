@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T01:03:42.911538+00:00",
+  "updatedAt": "2026-09-15T06:17:06.297539+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1347.74,
-        "change": 0.23
+        "value": 1358.88,
+        "change": 1.06
       },
       {
         "name": "KOSPI",
-        "value": 6697.98,
-        "change": -3.07
+        "value": 6627.92,
+        "change": -0.84
       },
       {
         "name": "KOSDAQ",
-        "value": 816.47,
-        "change": -0.51
+        "value": 813.94,
+        "change": 0.89
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1339.17,
               1348.17,
               1344.64,
-              1347.74
+              1358.88
             ]
           }
         ]
@@ -734,6 +734,7 @@
           "09/09",
           "09/10",
           "09/11",
+          "09/14",
           "09/15"
         ],
         "series": [
@@ -803,7 +804,8 @@
               7051.64,
               7033.92,
               6909.91,
-              6697.98
+              6684.37,
+              6627.92
             ]
           },
           {
@@ -872,7 +874,8 @@
               830.37,
               836.92,
               820.64,
-              816.47
+              806.79,
+              813.94
             ]
           }
         ]
@@ -880,14 +883,21 @@
     ]
   },
   "rsi": {
-    "AVGO": 45.1,
-    "BE": 77.4,
-    "GOOGL": 44.3,
-    "QCOM": 78.4,
-    "VRT": 48.0
+    "AVGO": 40.5,
+    "BE": 67.5,
+    "GOOGL": 51.1,
+    "QCOM": 79.2,
+    "VRT": 43.6
   },
   "news": {
     "AVGO": [
+      {
+        "type": "negative",
+        "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamtMaEl3OW04aFdDZXY3Q0tDMnRWWHNna3h1ak5HTi1INUZIX0h6R1g1Z0JKOC1NSkR1R3VCVUFzTktFR0g0T2V4QzNRQkgtRlZ4YUltRGc0eGdITDhCY3N4M1VaRU5Nd2w1TWJXMnNSNTZPRHBkTUwwM0lUZkhmU1VzNnhtUXl2TTlPcGJ3c2NabEhmTDA3RGNaMGtKTmQzZG1hdm1sbzBDRHlmYXNZZ9IBtgFBVV95cUxQRk56b2o1TFpzTnZKNGpOVm5QeUxNZzk4SC11d1FGUnNNX1ltU0lTaGdYQjB4Qjl5aExrTjVJQ0xpWlVVQ2tqdGE4UU1tajBRZWM5NWVMVXJvcU1zZFFGX254NzV3V3RSLUVUR0E0VVc5REZxM01WbE9IZi1FWkNiaW5VbGJXbmtsdXQyS3Z4d0FNd2VlSDdJRlZDRDJZQnp1dmhyc2hQVDBBMENxaUlYc05IcHhfQQ?oc=5",
+        "date": "09/15 07:43"
+      },
       {
         "type": "positive",
         "title": "Broadcom: Buckle Up For What's Coming (NASDAQ:AVGO)",
@@ -905,32 +915,32 @@
       {
         "type": "neutral",
         "title": "Fantastic News for Broadcom Stock Investors",
-        "publisher": "The Motley Fool",
+        "publisher": "fool.com",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3hCck5wVHdPdlptRUM5OGJzN0l0ajJHN0hTcFZ2QVJLYUlFSVdiQXdnYngxc2JDN09NTkFMeThVQ3VrU2dOd2d5WFdHLVN3cjBkRTNrUTZJa25fVWxlb3BXZWNlejlIZ3BuSlRBR1ZnbkotZ2pZOWtNREUta052UlNuWGJmU21Kc3A5UFJfOA?oc=5",
         "date": "09/15 00:45"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom Shares Fall 3.2% as AI Development Debate Weighs on Semiconductor Stocks",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUFvTW40UnRpUV8tcTNzZmRKRUF6dVp5dDZGbjFrWWp6WXJhckMzRUh0a1JhTmpUNXF3MFVPWnFmZUJTWXpDVmRFQkFnYnVNX1MtREQ3d2EwTnA3UGttcXFCZXdQc3IxbkpnQWdTbmxoRDVEU0NIS1V1TG9jZEl2ZGtxMlp4dWlOdkRreXc2MktkOXM?oc=5",
-        "date": "09/14 20:12"
       }
     ],
     "BE": [
       {
         "type": "positive",
-        "title": "BE Stock Jumps After NBIS Says Switch To Bloom ‘Significantly Enhanced’ New Jersey AI Data Center Project",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzN2RFZhcDR4RTdEOVM5b2t4R09JT3NfM2lURFNJOVZDdzlRYjZ6Q1R3c0dXRjQ5dFdKX2phTFBNT0lKTE92NWNvdDk1dkttLVNaZnlMSUJ5R0tvWENlSGFGSU40NDh4TjdiSmt2XzR2S2IybDBYTTZPejM1VWpVdjd1RGw3cFRiZllWdVVoTFpITGtyYklCdWpSXzZkWEw0VTZnTFY3b0FscDBndGIteGFTWHF4ckFlMkFTYXYwbTg5Nkh4NzNuS1JndTBuU3huMVJtSlI2YnUxZw?oc=5",
-        "date": "09/13 01:46"
+        "title": "BE Stock Falls Most In Nearly A Month: Why This Analyst Sees Over 36% Upside",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmtXMnBmUnpBWEEzeHppaFZwMC14REo2UzI3RUxHY01ac3BseDBCNElTR3pIYUkyVWlvSDV4WWp0ZUFnZnhyZ3BlaGdIWllmMHh0NGRWcTFfLXREM1pVd0JQNUVaVFE5SjZPM2NLcVBNMUpGbk01LUxqQzVqR0p1VVhlRk1VSGxXaDQ5YXBkSnVZYXl1TE9nbXh3?oc=5",
+        "date": "09/15 10:13"
       },
       {
         "type": "negative",
-        "title": "Bloom Energy (BE) Declines More Than Market: Some Information for Investors",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUtod0R4YlhHRzIzeGRWWkxjbkY5NU8yVlFMUU92VDlRVWpzczAwZmdRclpxdjlQc1RJbE1OWkJQV1pLSzVZMm02VFhZX3ZkVTJ4b2p3OHRRSkgtUmdRU3JET1NVQTVJR1pPWnVuMFBBSXN6dFM1blowWWloNTlLYzdZVEk5VVEyb3RuWnd6RkVibzFxVERETVBQeW9raUU?oc=5",
-        "date": "09/15 07:00"
+        "title": "Why Did BE Stock Fall Nearly 7% Today?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZFIzNXlHU3V2X2VsVnlTT2pQOVlIUHpOMzh3ZzRqN0FaOVRRS2VCYU1RbUxFVWhROTZ6eVE1RWNDUVM4bUZzSXFMYTRJajRZZV9oVkJqVDVFT05vWVVxUEx1V0V5X0NpU2hIX29ma2t3dFFwcXE2TFdpc0k0SkpQclc2VzR5Vzl3R3U4Z2lxbFVTV3JBQnpWVHAzbk1hLWRzQ0F0Mm9KVjlVUVk2S3IzaUVobkRmMUJ6OXZXOVVjZnNOdWtEVmM0VGNkbDZKM2RaeldhTQ?oc=5",
+        "date": "09/15 10:13"
+      },
+      {
+        "type": "neutral",
+        "title": "Bloom Energy: Valuation Attractive, Buy This Dip",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTRDT0V3a2lKWjlfNkJkVm9sNzRLcGNIdElwRnNoNENDbTQ5THc3d3ZCem1ZdXVNTjlYWXhqVS1OdDFzTWVucVQ5bWRfSmdfTEhEdXFiakdwWWtKeFMtZnRRUUU3bjg4d1ZDbjhnWFdiN054LUpkRXB1bGx0SFBKaVNOU2RybTVUU2JSaHRvY3JTVFgyS2pMaw?oc=5",
+        "date": "09/15 11:13"
       },
       {
         "type": "negative",
@@ -938,29 +948,22 @@
         "publisher": "webull.com",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pTU0xY0F4RU9Db0hPeFhkWDFNNG9EZDFiMlNlUjJOYmN0WnM4TEdpcHpGNUtaSGNhbmtNajlpUmNmcGdGVTYzZ3kteTZ0XzhJdmhmcjhPWDI?oc=5",
         "date": "09/13 08:04"
-      },
-      {
-        "type": "negative",
-        "title": "Bloom Energy (BE) Stock Looks Cheap On Cash Flow Yet Expensive On Sales",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbGZ2aW5qZ0R0TEJLa1dfRmJ4U250MnM4cllCby05ZmRobTJqSlg3UWFaQ0FqSHE3NFh6LUphUldoMXlNNTd3cEhZWEtNZGptR3AtTG1YU2pqSVBWYTVsendnU0t2RFEydFNUZm45Uy1BWlZQQ3FOQld5XzU4WGlBaWI1RGM0MjBfZ0lLRkktT1p4ZGpDZFBlRzNHZXpQZmhkY2NTek5HUzRGb0ptTldjOEh6N1pKUDFOMXpQLVliTGFRYzhuNzc0RnhqcljSAdIBQVVfeXFMUGhEVlJULVpxd2dYV3FQMTVHRXVjR2VWSS1WLTRqRWJaZU93MWsyNVE3VWJLR2R5OEdxbDRRVVFBRUUxZmNHeXFmTkZKMGpyT0RJN3FRb21za25kc2VaaTZJdi1aWlpKdS01NUJhaXk3MTFtN1lVajJFeWY3bnFoaFdLMHlkd3FFS2o0blFDTURXTVgzcnBJTDUwMFFJNk1BUjREeDhqU19IdG9xWWNIa1c2YUJ4TWxiUFVIcng3NXRzd2g4VTNpek91X3hUeGJ1b2VR?oc=5",
-        "date": "09/11 20:37"
       }
     ],
     "GOOGL": [
+      {
+        "type": "negative",
+        "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns",
+        "publisher": "Barron's",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
+        "date": "09/15 04:51"
+      },
       {
         "type": "neutral",
         "title": "Alphabet: Chips War Is Now In Its Favor",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTk9Bajl4Rk52b3VOSTVrZUxTbHRTTnF4RFJvNmpWYS1pVnVaVGpCdWl6RWpXaHNDWVVFUm82alJISkZTbFljM2dJNktWNXBLbVpabHZ6S0VXNmlUTW12VGRxVElVclJldmdqVFhSdTlMVmVzVXpsNmVQVGMwWmpMQUo4Ti0wUQ?oc=5",
         "date": "09/11 22:30"
-      },
-      {
-        "type": "negative",
-        "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
-        "date": "09/14 21:37"
       },
       {
         "type": "positive",
@@ -970,20 +973,27 @@
         "date": "09/10 00:57"
       },
       {
-        "type": "negative",
-        "title": "GOOGL Stock Falls 5% As Google’s Flagship AI Model Reportedly Runs Behind Schedule — Why Retail Traders Aren’t Worried",
+        "type": "positive",
+        "title": "GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU2RCSy04MzlsSzRqMGRwa0kxS0d6OGhfY0pacTNXM19MU3RyeFoyWWtDTnRBS2dkMUxXTXI0N2NPdElBLVBZUlozaEdkV2ZVZzdBT1l1RU5Yd3RZd25uZ2hrRHBXS1k0a1VqRW5wM3JCb2pYV1BVVkI1ZjdPei1kbFpVdURoejY3a09TQ1JzcFlHd2R6cDFwNTcwYjlyTVNjZ1lEbFpPV1dpSWY5SndwMmFzV0tkUWdwTkNqX2V6V1FRcy1vXzMwb0h4SzdnQXQ4d1NPa1Q4YW8wS0dvbHhMZGJvenZPMVlJWEpZdGhmTi1LZ1ZDWnBJUkMwUkdvTzBf?oc=5",
-        "date": "09/12 14:13"
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDlyaGhHM3ZsRWFsaEJZU0VjY0xJOGg3bjJfUnhneTRWdV9JVmpqaXNQVlpoWldZeDl4TUNfdUhCU1hlRmJraWNEXzhFc19HZHJKVnBVOEU5SXlvR2lUcGNpTkxRRmMzRDJPMXRMbWxiTzhiUlJ1dGlTM0NMdWZEQUNVcloyakJlTDlDdlJCSHhtQnZuN1lWNVJjQ0xDRVM1VERSbnlZLVNUTnd1cEZTVXltSHZyMjQ1djdTVUdoRkUybjNOOXpJelloVnJwYzZDRWZrOGtmd0lHWmpFdmc?oc=5",
+        "date": "09/12 17:22"
       }
     ],
     "QCOM": [
       {
-        "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "type": "neutral",
+        "title": "QCOM Stock Suffers 3-Day Slide: Short Seller Flags ‘Hidden’ Anthropic Partnership Code — Then Finds Deal Wasn’t Real",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "09/12 15:53"
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDNKZDVaS1FMdWExQTFpYU9xaUFVM0hHSlZSdFlJRnFxYldjVTZXWDVsUHZaZmVxMXRrVVUzZTFibzBYakdtb3l5cmxVbGFyVmhLcVA4cGt3cHJSRzFHa0Z6dnN0aEJmS2hYTHNtczR1NjdsdjhPUTlFN2U4bW5tXzNGOE5fNm5LNjU1cTNCbk4tQUhocy0yMHB2R2JiRGpfalNianJTLS1DS0F4dlJHZFJuYzJjay1j?oc=5",
+        "date": "09/15 02:03"
+      },
+      {
+        "type": "positive",
+        "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSV9XTDVGbk42R1R6bTl3enY4RzdsT2pqRjJOWTBmT1gxaVlMYUFjRjhoWWVwcVlqUkVYeEY5MHJMcURlMmgybEJyUG1pWEU4dmtwb3lMWkRhVlVDNjVQUktTdDJ5aWRzSUFUN3RzWjV1VVF2djJzWUZWVWpNQXdyR3hDWTRCRWVTRmZ6YmtQN1hJQWFYWmc?oc=5",
+        "date": "09/15 13:11"
       },
       {
         "type": "positive",
@@ -993,18 +1003,11 @@
         "date": "09/15 03:16"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
-        "date": "09/08 22:09"
-      },
-      {
         "type": "neutral",
-        "title": "Has Qualcomm Stock Quietly Become a Value Opportunity?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFptc2JSQ283UEJUVGsxQzdMNHU0RWNxbGI0N3pkSHRoRnQ1aUtRZDhiQU5UV0JVYUNRamtHdnRfbnNsSDN2d3pUNDZBZUtOSnJyT3BvbUYxRzV0bkp5NXgzQlB4QXdYWi1xdXpiU0hKR0pER1EweUJIb013VFpxX3BWMDhLSmQ0Tk1wNVh1aV9FUVpQRHBTT3o0MXVuczVQaW5UWnlvNzA0dzZkSEI2d3UtZWpLSmRiMm92bXVFakJpQQ?oc=5",
-        "date": "09/11 09:04"
+        "title": "Qualcomm: AI Boom Ignored (NASDAQ:QCOM)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMU5YWThzeXV6QmxfUU9Ic0hqX3ZVQ3B1Q3hESWJmMU9YTnVlTUhvWnZNSXc2NVgwS2U1ektKbEs3UlZrNFl0dUdTWVpVd3FNY3JDcEg0bEZtNkZlLUdxWTY2b3JvcGxwYkxmMEtVVjB3Uzg?oc=5",
+        "date": "09/14 03:00"
       }
     ],
     "VRT": [
@@ -1027,7 +1030,7 @@
         "title": "A Look at Vertiv Holdings Co (VRT) After 7.7% Decline -- GF Value $173.79 vs Price $237.39",
         "publisher": "GuruFocus",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWHZ2bHFQdlJyQllidlZOR0tLUE1yeUxxZjhXYmhDM3ZRLWU3STVZUUhhand0NE85aGpoeUVQa2NsVEduZEIzNG4tbEg2S0tLSHFhcndsTlQyeGJLRTF2d19DQWN6LVRsNWEwUWxSSm9DcGduUS1TWXM1eWI4TVB5R3ZnVlVPTXl3SEZGQWlhc2tncDJrOEFWZ09LakxvRS04WWN4ck1vUHZDVE00cm80R3BhOUt6bFRPUFE?oc=5",
-        "date": "09/15 06:56"
+        "date": "09/15 07:03"
       },
       {
         "type": "neutral",
