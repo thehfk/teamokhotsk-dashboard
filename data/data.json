@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:50:41.912733+00:00",
+  "updatedAt": "2026-09-15T01:03:42.911538+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1346.09,
-        "change": 0.11
+        "value": 1347.74,
+        "change": 0.23
       },
       {
         "name": "KOSPI",
-        "value": 6909.91,
-        "change": -1.76
+        "value": 6697.98,
+        "change": -3.07
       },
       {
         "name": "KOSDAQ",
-        "value": 820.64,
-        "change": -1.95
+        "value": 816.47,
+        "change": -0.51
       }
     ],
     "groups": [
@@ -663,7 +663,7 @@
               1339.17,
               1348.17,
               1344.64,
-              1346.09
+              1347.74
             ]
           }
         ]
@@ -733,7 +733,8 @@
           "09/08",
           "09/09",
           "09/10",
-          "09/11"
+          "09/11",
+          "09/15"
         ],
         "series": [
           {
@@ -801,7 +802,8 @@
               6954.52,
               7051.64,
               7033.92,
-              6909.91
+              6909.91,
+              6697.98
             ]
           },
           {
@@ -869,7 +871,8 @@
               811.88,
               830.37,
               836.92,
-              820.64
+              820.64,
+              816.47
             ]
           }
         ]
@@ -877,21 +880,14 @@
     ]
   },
   "rsi": {
-    "AVGO": 40.5,
-    "BE": 67.5,
-    "GOOGL": 51.1,
-    "QCOM": 79.2,
-    "VRT": 43.6
+    "AVGO": 45.1,
+    "BE": 77.4,
+    "GOOGL": 44.3,
+    "QCOM": 78.4,
+    "VRT": 48.0
   },
   "news": {
     "AVGO": [
-      {
-        "type": "neutral",
-        "title": "Fantastic News for Broadcom Stock Investors",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWF2UUdOY2d2MjFWZ25zR0Jfd1ROcjNfWVlBcUozTUdCOFNyYkpvRVF4a19EMXR2a0tmTTIzY1JSel9xNWNNMVduZHQwcTBPUW1JWFdzUHFmUU1lZmQ3em4xRkRaTFdoTUdOOHkxM1ZuelZxUlJSWWVBdWhaT1duTTViUnZ6X2ZfSDR4OExhbE1KcDUwQmh4XzNGVVM4d3d0UjduTmRGZw?oc=5",
-        "date": "09/15 00:05"
-      },
       {
         "type": "positive",
         "title": "Broadcom: Buckle Up For What's Coming (NASDAQ:AVGO)",
@@ -902,16 +898,23 @@
       {
         "type": "neutral",
         "title": "Fantastic News for Broadcom Stock Investors",
-        "publisher": "fool.com",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWF2UUdOY2d2MjFWZ25zR0Jfd1ROcjNfWVlBcUozTUdCOFNyYkpvRVF4a19EMXR2a0tmTTIzY1JSel9xNWNNMVduZHQwcTBPUW1JWFdzUHFmUU1lZmQ3em4xRkRaTFdoTUdOOHkxM1ZuelZxUlJSWWVBdWhaT1duTTViUnZ6X2ZfSDR4OExhbE1KcDUwQmh4XzNGVVM4d3d0UjduTmRGZw?oc=5",
+        "date": "09/15 00:05"
+      },
+      {
+        "type": "neutral",
+        "title": "Fantastic News for Broadcom Stock Investors",
+        "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3hCck5wVHdPdlptRUM5OGJzN0l0ajJHN0hTcFZ2QVJLYUlFSVdiQXdnYngxc2JDN09NTkFMeThVQ3VrU2dOd2d5WFdHLVN3cjBkRTNrUTZJa25fVWxlb3BXZWNlejlIZ3BuSlRBR1ZnbkotZ2pZOWtNREUta052UlNuWGJmU21Kc3A5UFJfOA?oc=5",
         "date": "09/15 00:45"
       },
       {
-        "type": "neutral",
-        "title": "Is Broadcom Stock in Trouble?",
+        "type": "negative",
+        "title": "Broadcom Shares Fall 3.2% as AI Development Debate Weighs on Semiconductor Stocks",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNelctV0ZDbEItVVhPeXNISjJoMjRiSGNnbjM0SjZWT2tETmpNVmxETFNjcV90RDRlM0R2VnAwczJSYXAyMmFQN3pneWwxVElsdEt0WXRrYzI0VUR5Q0x0ZHRMNmxFYTdESkh3ZW9EZTB6NjJjRVpHdUJNdURaX29rRGVnTFlwMDVYS1hiS21haW4?oc=5",
-        "date": "09/15 03:05"
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUFvTW40UnRpUV8tcTNzZmRKRUF6dVp5dDZGbjFrWWp6WXJhckMzRUh0a1JhTmpUNXF3MFVPWnFmZUJTWXpDVmRFQkFnYnVNX1MtREQ3d2EwTnA3UGttcXFCZXdQc3IxbkpnQWdTbmxoRDVEU0NIS1V1TG9jZEl2ZGtxMlp4dWlOdkRreXc2MktkOXM?oc=5",
+        "date": "09/14 20:12"
       }
     ],
     "BE": [
@@ -932,33 +935,19 @@
       {
         "type": "negative",
         "title": "Bloom Energy (BE) Stock Looks Cheap On Cash Flow Yet Expensive On Sales",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbGZ2aW5qZ0R0TEJLa1dfRmJ4U250MnM4cllCby05ZmRobTJqSlg3UWFaQ0FqSHE3NFh6LUphUldoMXlNNTd3cEhZWEtNZGptR3AtTG1YU2pqSVBWYTVsendnU0t2RFEydFNUZm45Uy1BWlZQQ3FOQld5XzU4WGlBaWI1RGM0MjBfZ0lLRkktT1p4ZGpDZFBlRzNHZXpQZmhkY2NTek5HUzRGb0ptTldjOEh6N1pKUDFOMXpQLVliTGFRYzhuNzc0RnhqcljSAdIBQVVfeXFMUGhEVlJULVpxd2dYV3FQMTVHRXVjR2VWSS1WLTRqRWJaZU93MWsyNVE3VWJLR2R5OEdxbDRRVVFBRUUxZmNHeXFmTkZKMGpyT0RJN3FRb21za25kc2VaaTZJdi1aWlpKdS01NUJhaXk3MTFtN1lVajJFeWY3bnFoaFdLMHlkd3FFS2o0blFDTURXTVgzcnBJTDUwMFFJNk1BUjREeDhqU19IdG9xWWNIa1c2YUJ4TWxiUFVIcng3NXRzd2g4VTNpek91X3hUeGJ1b2VR?oc=5",
-        "date": "09/11 20:37"
-      },
-      {
-        "type": "positive",
-        "title": "Bloom Energy (NYSE:BE) Stock Price Up 7.3% - Here's Why",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOExKbHB1SlNIUlJVY0tpVzFIOVRkdWtUcm92MlFlY3pyd1lhMF9Zc2RRSTNwVHBEajVoQ0NnVklpRGFLeTNJZ1VzYmlVSkxqbUVxNTI4Tm9MUWNiVlpqNFRiLTlXSklQeC1ZUmtBRi1MS2pxTElzSUNPUDVoaGRKWE9mZzNDZTNSWmRUY2dNOWg4WURwaTR4b1Z3SmM3cnYtMl9PX0JvQndrQ3RI?oc=5",
-        "date": "09/05 06:24"
-      }
-    ],
-    "GOOGL": [
-      {
-        "type": "neutral",
-        "title": "Google Stock (GOOGL) Pops 3% as Company Plans to Build an AI Data Center in New Mexico",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnNOU29TV2RVNFFSOWc1WXFOVGdvWUVfb0VrekQxR1hXdWZhOWkwem9HTmdRUlBpOWFpcDFHQXJramI4ZzRrYzVYdE5hbkxJN2tiM0tmM3UybTJqZEJUZkpqRnBsb3pwV2NMNkhQNUQ0NzV1ZVpJdHdKd1hLM3lsTzFqT0lHdU9BQVRGRWltdnMzQmFheHU1SEJxZ2EwMGJfRkFwWnlZM0RtQUoxY3lETk55Zw?oc=5",
-        "date": "09/15 05:10"
+        "publisher": "webull.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pTU0xY0F4RU9Db0hPeFhkWDFNNG9EZDFiMlNlUjJOYmN0WnM4TEdpcHpGNUtaSGNhbmtNajlpUmNmcGdGVTYzZ3kteTZ0XzhJdmhmcjhPWDI?oc=5",
+        "date": "09/13 08:04"
       },
       {
         "type": "negative",
-        "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
-        "date": "09/15 04:51"
-      },
+        "title": "Bloom Energy (BE) Stock Looks Cheap On Cash Flow Yet Expensive On Sales",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbGZ2aW5qZ0R0TEJLa1dfRmJ4U250MnM4cllCby05ZmRobTJqSlg3UWFaQ0FqSHE3NFh6LUphUldoMXlNNTd3cEhZWEtNZGptR3AtTG1YU2pqSVBWYTVsendnU0t2RFEydFNUZm45Uy1BWlZQQ3FOQld5XzU4WGlBaWI1RGM0MjBfZ0lLRkktT1p4ZGpDZFBlRzNHZXpQZmhkY2NTek5HUzRGb0ptTldjOEh6N1pKUDFOMXpQLVliTGFRYzhuNzc0RnhqcljSAdIBQVVfeXFMUGhEVlJULVpxd2dYV3FQMTVHRXVjR2VWSS1WLTRqRWJaZU93MWsyNVE3VWJLR2R5OEdxbDRRVVFBRUUxZmNHeXFmTkZKMGpyT0RJN3FRb21za25kc2VaaTZJdi1aWlpKdS01NUJhaXk3MTFtN1lVajJFeWY3bnFoaFdLMHlkd3FFS2o0blFDTURXTVgzcnBJTDUwMFFJNk1BUjREeDhqU19IdG9xWWNIa1c2YUJ4TWxiUFVIcng3NXRzd2g4VTNpek91X3hUeGJ1b2VR?oc=5",
+        "date": "09/11 20:37"
+      }
+    ],
+    "GOOGL": [
       {
         "type": "neutral",
         "title": "Alphabet: Chips War Is Now In Its Favor",
@@ -967,11 +956,25 @@
         "date": "09/11 22:30"
       },
       {
-        "type": "neutral",
-        "title": "Alphabet Inc. (GOOGL) Is a Trending Stock: Facts to Know Before Betting on It",
+        "type": "negative",
+        "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns",
+        "publisher": "Barron's",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
+        "date": "09/14 21:37"
+      },
+      {
+        "type": "positive",
+        "title": "Alphabet's ROIC Is Strong, but Is GOOGL Stock a Buy Now?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTE3d21JS0d3dmM2ZzZNQkp1c0otTVRCYmdQbU1Zbk5tWGFVQ0lQMjc2bUI5SGtlQUV5LU4wbmVXbmVpbXZyTFBUU3RrNk1MUVJXWHcwamJ0RVlKSG5PVHVsaVc4XzAwVVIwUGNRcFhQVXkxTTVhSUV6RzBQdkFtMGpVUURLdHJfUDB4SGlBbFh0bnFuQzVDckJFTUoxcnM?oc=5",
-        "date": "09/11 22:00"
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTEFjMDcwZU95Y2NaNDFSdDgya2ZmdHFHTGU0NWNIdHVFUjJRcWNyR2hSUGIwRFdhUDVNZlpiVF9iSmduNUVSaGZEZ0tvMXVWbFE3dGk1WXNtWWFPMUsyVjJ3SG5NNWYzNjlISE1kZ3dHWU52Q3NfNmlNZzN2RjdtZG9CUS02WWp2NW8tWmdfcnYxZkxGQlBUM0JmLXBFaG8?oc=5",
+        "date": "09/10 00:57"
+      },
+      {
+        "type": "negative",
+        "title": "GOOGL Stock Falls 5% As Google’s Flagship AI Model Reportedly Runs Behind Schedule — Why Retail Traders Aren’t Worried",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU2RCSy04MzlsSzRqMGRwa0kxS0d6OGhfY0pacTNXM19MU3RyeFoyWWtDTnRBS2dkMUxXTXI0N2NPdElBLVBZUlozaEdkV2ZVZzdBT1l1RU5Yd3RZd25uZ2hrRHBXS1k0a1VqRW5wM3JCb2pYV1BVVkI1ZjdPei1kbFpVdURoejY3a09TQ1JzcFlHd2R6cDFwNTcwYjlyTVNjZ1lEbFpPV1dpSWY5SndwMmFzV0tkUWdwTkNqX2V6V1FRcy1vXzMwb0h4SzdnQXQ4d1NPa1Q4YW8wS0dvbHhMZGJvenZPMVlJWEpZdGhmTi1LZ1ZDWnBJUkMwUkdvTzBf?oc=5",
+        "date": "09/12 14:13"
       }
     ],
     "QCOM": [
@@ -985,7 +988,7 @@
       {
         "type": "positive",
         "title": "Qualcomm Has an Up-to-$60 Billion Deal With Amazon. Here’s What It Could Mean for the Stock.",
-        "publisher": "tikr.com",
+        "publisher": "TIKR.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVh6bE9FYWMtYWRWbTFLX2E1MzVORzFsMzNPX2ItWXd3TllxVVRWaFAtNnFFdlR2a2ZhSkFjZzNNeDJKNTd6czNkajF2S3hFUXJVLTFsOG9SOVBKSktpOWlaWUtnNW80VlVqd2VwQnZ1a1duWXdrUUgwWDgyTV84UnlfeW1Idi1RSVpNUWowWkJuZGdteS1pU3ZrWkxvQW15Nk94anJGa3FwR29Hek45M2JiOXU?oc=5",
         "date": "09/15 03:16"
       },
@@ -998,10 +1001,10 @@
       },
       {
         "type": "neutral",
-        "title": "Qualcomm: Well Positioned To Win AI Orders (NASDAQ:QCOM)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2NaVnVDd0ZLLV9yUXdhT2RrcThGdGd6X1dDdlpUQUVnT0ZTYTZxb0thaF9rbW1vZ1hHMmplc2tBdVJFbFAtVjNZOF9lVVF6OWxXemVzS1BNS3pRTVZpeFBVSi1reXZzTlQ5aG5YVEpOMENiZ3RqMTloempncVFEdlBxajVFUEo1Y2c?oc=5",
-        "date": "09/15 00:27"
+        "title": "Has Qualcomm Stock Quietly Become a Value Opportunity?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFptc2JSQ283UEJUVGsxQzdMNHU0RWNxbGI0N3pkSHRoRnQ1aUtRZDhiQU5UV0JVYUNRamtHdnRfbnNsSDN2d3pUNDZBZUtOSnJyT3BvbUYxRzV0bkp5NXgzQlB4QXdYWi1xdXpiU0hKR0pER1EweUJIb013VFpxX3BWMDhLSmQ0Tk1wNVh1aV9FUVpQRHBTT3o0MXVuczVQaW5UWnlvNzA0dzZkSEI2d3UtZWpLSmRiMm92bXVFakJpQQ?oc=5",
+        "date": "09/11 09:04"
       }
     ],
     "VRT": [
