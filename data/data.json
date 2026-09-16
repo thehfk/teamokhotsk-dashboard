@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T22:23:01.825522+00:00",
+  "updatedAt": "2026-09-16T00:35:27.921087+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1362.68,
-        "change": 1.27
+        "value": 1369.28,
+        "change": 1.76
       },
       {
         "name": "KOSPI",
-        "value": 6684.37,
-        "change": -3.26
+        "value": 6628.65,
+        "change": -0.83
       },
       {
         "name": "KOSDAQ",
-        "value": 806.79,
-        "change": -1.69
+        "value": 805.29,
+        "change": -0.19
       }
     ],
     "groups": [
@@ -601,7 +601,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1509.5,
               1513.31,
               1510.96,
               1525.42,
@@ -668,7 +667,7 @@
               1348.17,
               1344.64,
               1345.61,
-              1362.68
+              1369.28
             ]
           }
         ]
@@ -676,7 +675,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "06/15",
           "06/16",
           "06/17",
           "06/18",
@@ -739,13 +737,13 @@
           "09/09",
           "09/10",
           "09/11",
-          "09/14"
+          "09/14",
+          "09/16"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              8545.98,
               8726.6,
               8864.24,
               9063.84,
@@ -808,13 +806,13 @@
               7051.64,
               7033.92,
               6909.91,
-              6684.37
+              6684.37,
+              6628.65
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              1034.03,
               1018.68,
               1031.96,
               1000.93,
@@ -877,7 +875,8 @@
               830.37,
               836.92,
               820.64,
-              806.79
+              806.79,
+              805.29
             ]
           }
         ]
@@ -885,14 +884,21 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.7,
-    "BE": 64.9,
-    "GOOGL": 48.5,
-    "QCOM": 82.0,
-    "VRT": 42.4
+    "AVGO": 40.5,
+    "BE": 67.5,
+    "GOOGL": 51.1,
+    "QCOM": 79.2,
+    "VRT": 43.6
   },
   "news": {
     "AVGO": [
+      {
+        "type": "neutral",
+        "title": "Fantastic News for Broadcom Stock Investors",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWF2UUdOY2d2MjFWZ25zR0Jfd1ROcjNfWVlBcUozTUdCOFNyYkpvRVF4a19EMXR2a0tmTTIzY1JSel9xNWNNMVduZHQwcTBPUW1JWFdzUHFmUU1lZmQ3em4xRkRaTFdoTUdOOHkxM1ZuelZxUlJSWWVBdWhaT1duTTViUnZ6X2ZfSDR4OExhbE1KcDUwQmh4XzNGVVM4d3d0UjduTmRGZw?oc=5",
+        "date": "09/15 00:05"
+      },
       {
         "type": "neutral",
         "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings?",
@@ -901,25 +907,18 @@
         "date": "09/16 05:04"
       },
       {
-        "type": "neutral",
-        "title": "Prediction: Broadcom Could Join the Next Trillion-Dollar Club",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhJbXdROGJFX01yMlVEUXRVYXlUUlpSMTJnQ2pjX0hEM3VxUXVSTjNkNzA5ekhiN3RvQ045SDVoS2tWMW0zd3Azbl9fN2U1VWNtcThtc2pWVkJsQWhEMDEybjlyTklQMl9oT1V3Y3hUR1ExcHlEcG54Rl90UjdkQ2VHY0c0YW54VXZyWF9mazVJOUd6b0R3WjFpbjAwNW93WVFiQmlPSQ?oc=5",
-        "date": "09/16 01:00"
-      },
-      {
-        "type": "neutral",
-        "title": "AVGO, ORCL and MU: comparing three AI infrastructure stocks after a sector selloff",
-        "publisher": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU3V0UmN3b2tqTThmWWtnV1VpUVlsQWFPUmtIcnIxMWJvRzIyMTU3Y1Q1TkxpbVBDT3h5WERYQWxZb0JWM3hPdEhLZ240QlBCUDNlTEdHNktkWlI2NERnTTgzODlEakhQcUNoY1dpMXI3N2xHNE9RTVBvcGVvMGNYenJRUmFLQUtyU0J1OFZEakRCSUVVb2w4aUthbnZWT0NRWFI1MlRMVjBGeWVjTnJ6VGFRalFsQTZ6WVY5T2ZsRmlxMXFYVFBrWXNQN3EtSGxlUzlpZ0VXbFlfdw?oc=5",
-        "date": "09/15 08:03"
+        "type": "negative",
+        "title": "Does Broadcom (AVGO) Face AI Demand Risks After Safety Warnings?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON3RaS1VERHZiQ0Vzd2pOT3dOTk1GeUpzN3ZOVTZpVnRuMlhXWFd1eXk5SjB3WmRjVGJ5dFhzVTZQYlh2SWZMZ3BRcHJLXzNNWnZsRWlQVmhIRGFqb3JWSmJUajRBelNUbGxnRUFPNXpnS3JJdWdWZ29IX2dNZ2VFX2Q2c2R6WlhyLXoxNHlYMTdYMGxfUWl3Ry1OT21NOHBiaEdfMDJnamFIbFhCTjc0ZDFSa2ZGUGdmR0V5SEx2dTVqVHBDSTIySmNWVC16UdIB0wFBVV95cUxQdnA5VkV5R29yR2NhczJReEZKZHRLNlpTRzFZWUtzSlp3Tng0T0JjX253bDFpOFdMUG16bzhyRktmS29mSUFGN3p4U0JpUm04SVdXMTFhTmlQblBZSG5BQVNIbTAwNVhMUzE5Tkw5OXQ0MEczNzFfVzN3Q3VHRU1YcFoxbVRla2h0TjVicTJybkdra0dFTXlWc2R6ejRMa3ZGeHBlM3ktbEl4MFN6SE9IMkFIbmdTdGFjWmxvOEN6MmFwb3J0YXg5NVNlcnNaOWZ1NzVB?oc=5",
+        "date": "09/16 03:36"
       },
       {
         "type": "positive",
-        "title": "Broadcom Stock (AVGO) Gained in After-Hours Trading on CEO’s Dismissal of AI Slowdown Fears",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnJDRlRCTnVXUEQybFhrbUhZUDBQaFh3Z1E0NHRBSHRxOW0zdFl0SjNpMldyUXhwYnIwSzVIUDhuZmFPZUw2V2ZaTTA5TFFLaEllT2h4RWVld0w5TzdaMjFjUWtPV1VIWkx3X1U5VHQ5d3VtQXJ6QXlyZHdqTnAtU1lhdXlRVzFJUVNBMW01aXJSRF9ERWU4RHNMYVFHZlpobV9qMHpYREFwaG5fR05SaDVidGc?oc=5",
-        "date": "09/15 14:39"
+        "title": "Broadcom (NASDAQ:AVGO): Dividend Quality and Growth for Income Investors",
+        "publisher": "ChartMill",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUNhQ0RHZWdnYkFoMnZXWVM0YW5OVGtvTTNQcDgwblRmLWJvZGxXVWJZOTZiR0tNSWFVRXNDd2w1Sm9peWdzbVNiNnNyY2ItQUhGZklWMUlYM3B0RmY4aTcyTnRRUzJPT1ZpVE84SWZzVnFJbWtLcDJkZGJOR2FZRnJFYmNKZ0xTYnBKU1BvV3JldnMzak5yZ195VVFzZWlsdWZOcHVOMUh2R1FubmFrOVFENWdORmYybFlHQQ?oc=5",
+        "date": "09/15 20:00"
       }
     ],
     "BE": [
@@ -933,7 +932,7 @@
       {
         "type": "neutral",
         "title": "Bloom Energy Stock (BE) Opinions on S&P 500 Inclusion and AI Power Demand",
-        "publisher": "quiverquant.com",
+        "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUU5wcEdWQU41NFpxcW9qTEJkX1ljYUpIWnBjQi1yWUgtOUpQaUhmOTY2UHhLSjBNVFZiSUJ0cUhyNXE0QkxzT1dyOW43TnZTTnpIeDBZMU9hV1dqb3FlVjRvRkg0cXlKMmpla2FXckNrRlM1ZXN1X3N0NS1NWm1MRkwxU1ZLbk9xRjNlRjBKTWNtZ0Mxdi1OWjZyOXNzdFJXazBZb2Nvc0pMbENBRkdiUkN3?oc=5",
         "date": "09/15 23:05"
       },
@@ -945,41 +944,41 @@
         "date": "09/16 00:43"
       },
       {
-        "type": "negative",
-        "title": "Why Did BE Stock Fall Nearly 7% Today?",
+        "type": "positive",
+        "title": "BE Stock Jumps After NBIS Says Switch To Bloom ‘Significantly Enhanced’ New Jersey AI Data Center Project",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZFIzNXlHU3V2X2VsVnlTT2pQOVlIUHpOMzh3ZzRqN0FaOVRRS2VCYU1RbUxFVWhROTZ6eVE1RWNDUVM4bUZzSXFMYTRJajRZZV9oVkJqVDVFT05vWVVxUEx1V0V5X0NpU2hIX29ma2t3dFFwcXE2TFdpc0k0SkpQclc2VzR5Vzl3R3U4Z2lxbFVTV3JBQnpWVHAzbk1hLWRzQ0F0Mm9KVjlVUVk2S3IzaUVobkRmMUJ6OXZXOVVjZnNOdWtEVmM0VGNkbDZKM2RaeldhTQ?oc=5",
-        "date": "09/15 10:13"
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzN2RFZhcDR4RTdEOVM5b2t4R09JT3NfM2lURFNJOVZDdzlRYjZ6Q1R3c0dXRjQ5dFdKX2phTFBNT0lKTE92NWNvdDk1dkttLVNaZnlMSUJ5R0tvWENlSGFGSU40NDh4TjdiSmt2XzR2S2IybDBYTTZPejM1VWpVdjd1RGw3cFRiZllWdVVoTFpITGtyYklCdWpSXzZkWEw0VTZnTFY3b0FscDBndGIteGFTWHF4ckFlMkFTYXYwbTg5Nkh4NzNuS1JndTBuU3huMVJtSlI2YnUxZw?oc=5",
+        "date": "09/13 01:46"
       }
     ],
     "GOOGL": [
       {
         "type": "neutral",
         "title": "RDDT vs. GOOGL: Which Digital Advertising Stock Has an Edge Right Now?",
-        "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYkZjZUg3LTV1QWVVRE1salB6QzFpTEpnbDlFTjBmMDI3cVJjdGdBX2tHV05SaEZCaGpmMUZmZXhlb09EcUxWeVRHQjRhMGxnaUxFcEkxZC1kUkpYd2pza2RJVGt0UjF5NWtWdzJSSTNWU29fYU5vYnEtRzRadWZaMzRfQ0NYajFLcjhmT3V2WHRvbDlzY2tUN2hmaWtodC1vTFF4dWs4WkVPM0V5Q2VhYWdpb2REZEgzaWpvUnZNRGRaTnJpamV1YU5kV24zQ1FHWThjS3FWT2FIaWwxdWJTZFc0TE02YU0?oc=5",
-        "date": "09/16 03:12"
-      },
-      {
-        "type": "negative",
-        "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
-        "date": "09/15 04:51"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet has been in a correction since May. Katie Stockton sees the Google parent breaking out",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3dPRUFMS1J3MWZpeGd5MzNaa0pQMXJUaVdoTDlrZkZoVzdsYXZqeFFscmxVNUNjN1A2R0tfZ3lqSnhZbm00VlNKSG1haFc1blVQUHZFZ2N3TmN6dTB5c2d1UmtGZllPbEZHMEc0Qk5RVDFoOVNDVGpPZXZXSmNUNFVkNU5hVC1CRklvZ1FLY0k3Q2dmR1R2aU1JUzJkLW5GejZ6T205SHI5T3hqbnR4UFhNTDNGNlVSZW91RG9n?oc=5",
-        "date": "09/15 03:00"
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb2FtWHlMUC0tZzIyMmtYUHJHVlNTR2daeEJQYkRydUVGOXNqakVlRmh5YURPVWhqMmxaVWRXOEtaQ1VFSzVuVmw4Zk85MXB2Y09vUmtQNzFYb1R6VUIzcjdCaVBTVzlfeFpXQkZVcHVtRGFOMGtaa19PNzJILTZtbVEycXZmeXVva0luQkZSaTV5ZjJqaGpCZjVkeGxMUXUwQjRETlZ3MWlnQ2lNVVhuVTNZNnM0VEtpRm9rUlJSY3g?oc=5",
+        "date": "09/16 02:07"
       },
       {
         "type": "negative",
         "title": "A Sub-20 P/E on GOOGL? The Market May Be Missing Something",
-        "publisher": "marketbeat.com",
+        "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkY3OTVqUWpob3pObXVYVU5PSjBWUjZKMEpzX2tFRlk3QnlBTkRRYlR3ems0X1NUYjNHbGduVzFGTWpQWjlQY0dMLVh5Uk1qWFlSU0xmRnZ1N0Y3Y0JSWkczZFVzMHhsd2N5X2Z3YzhJZUt1blhMUTFKcUxxY3NsN0c0dkJiWEFpZVA4UGJDaTJoUHlFWEUyZHVn?oc=5",
         "date": "09/15 23:35"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet: Chips War Is Now In Its Favor",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTk9Bajl4Rk52b3VOSTVrZUxTbHRTTnF4RFJvNmpWYS1pVnVaVGpCdWl6RWpXaHNDWVVFUm82alJISkZTbFljM2dJNktWNXBLbVpabHZ6S0VXNmlUTW12VGRxVElVclJldmdqVFhSdTlMVmVzVXpsNmVQVGMwWmpMQUo4Ti0wUQ?oc=5",
+        "date": "09/11 22:30"
+      },
+      {
+        "type": "negative",
+        "title": "What Happens To Alphabet Stock If Free Cash Flow Stays Negative?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ005VlhWYVVUckxEQWg3Q0VyT2x2OXFLX01SblpWb2VWM3VmV2dTRUVMSUFOVGlvZmZKZmI0UTBiQTdQNVNPMzZnSTI1dS1LemNqOTZBdXUxQlFnTFNIYjFULVlaY0Rkamt5cVpaYy1xTTVadTVPLTBKS3lwX281Ukw1VjJNeDNZRzJfX0lNRjhtUndHX3hfRTh4QVdVbm82OWh6NmJsaFNBWDc3N2pFTmlZbDdmZDB5YWVxNXlYWWQ3Y1E?oc=5",
+        "date": "09/16 02:02"
       }
     ],
     "QCOM": [
@@ -993,14 +992,14 @@
       {
         "type": "positive",
         "title": "Qualcomm Inc Stock (QCOM) Opened Up by 4.71% on Sep 15: What Signal Does It Send?",
-        "publisher": "TradingKey",
+        "publisher": "tradingkey.com",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFVQWVRNcXVVS2p4eEQxc2JjUnpkVVZNUGl4c0pLM2FaTV9kRWlPMDZ2emtLQ0xOYkU1d3JFNHZCdS1vR0huWXRYRzk5eTk0anpGNGc3am4zVzRIcjMwSFBrWTRKM3lRMjNGeWFOMjNQUXRBSGxCNmtsa3dWc056N182N05qbGlFRldj?oc=5",
         "date": "09/15 22:47"
       },
       {
         "type": "neutral",
         "title": "Qualcomm to pay dividends on September 24; Here’s how much 100 QCOM shares will earn",
-        "publisher": "Finbold",
+        "publisher": "finbold.com",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEM2dmp4OW5udTRuTTdEdHFQdVlkcVhnd2phSEpWTWtpMmlLY0d3cURzeXBlQk5jT2t2OVNOS25rVXpESDZGeUZBNkRuSFVTZ2xnUU9zaWN1WU5NanJLNmxleGN3Zy1HN2h5NW5wdWNJb0xqb2I1VHRHQkFQU0xweXNpb3B2b2FYV0ItcUZzZVBLeWU5NFpVc2IyaFdma1JNQkM3Y0hn?oc=5",
         "date": "09/15 22:20"
       },
@@ -1023,8 +1022,8 @@
       {
         "type": "neutral",
         "title": "Vertiv Holdings Co Stock (VRT) Opinions on Data Center Power Solutions",
-        "publisher": "quiverquant.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2JydmlGUmpUVXdkQVdDSks0ZS1hN2hLZ2Mzc0kxLWt4Y053WmZ5V3JCS2JUekdsYjVXd0xqalptekxINktablg4a1FzNTdqdWx4NHBjSEJ3LU1jeURjZHZzbS14NWJEakFSaWJFeFhsamdYRWJ2ZjVXWVczc1p0SHNkaWhpd3ZCMTBPNkxBVWxQTURNOFQ2VFl0TEYyNkJFOG1STFB3VlN6ejg?oc=5",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0FZRlh4UnNCUFJKazM4UXByY2RMUW9oY3lNWGpoYzY4bW9JSHZCMDdpcUw5WW1MclpjMTBjTlFqWGNwcWVuYUU5NEpZWHVMVnAtUnI4RTJUSmNrRVZhbVpzZ2oxQ0MwNWQzT0FjeGlEeFRnR3VoNXpnYjY0UmNuQXUwT1ZRVTg1ZDVjSzVCbUVRZnMwekNTRmNoTk55MFM0QUwyWUxn?oc=5",
         "date": "09/15 02:34"
       },
       {
