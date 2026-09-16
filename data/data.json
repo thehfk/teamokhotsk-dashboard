@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-09-16T10:10:15.122250+00:00",
+  "updatedAt": "2026-09-16T15:05:02.475343+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7585.73,
-        "change": -0.45
+        "value": 7616.6,
+        "change": 0.41
       },
       {
         "name": "NASDAQ",
-        "value": 25981.57,
-        "change": -0.78
+        "value": 26187.66,
+        "change": 0.79
       },
       {
         "name": "다우존스",
-        "value": 52093.11,
-        "change": -0.63
+        "value": 52105.61,
+        "change": 0.02
       },
       {
         "name": "공포지수 VIX",
-        "value": 16.96,
-        "change": -1.4
+        "value": 16.77,
+        "change": -2.5
       },
       {
         "name": "미국10년금리",
-        "value": 5.0,
-        "change": 0.81
+        "value": 4.96,
+        "change": -0.8
       },
       {
         "name": "원달러환율",
-        "value": 1368.68,
-        "change": 1.71
+        "value": 1366.53,
+        "change": 1.55
       },
       {
         "name": "KOSPI",
-        "value": 6717.97,
-        "change": 1.37
+        "value": 6627.26,
+        "change": -0.85
       },
       {
         "name": "KOSDAQ",
-        "value": 815.98,
-        "change": 0.44
+        "value": 812.41,
+        "change": 0.7
       }
     ],
     "groups": [
@@ -109,7 +109,8 @@
           "09/10",
           "09/11",
           "09/14",
-          "09/15"
+          "09/15",
+          "09/16"
         ],
         "series": [
           {
@@ -177,7 +178,8 @@
               7591.7,
               7656.98,
               7619.98,
-              7585.73
+              7585.73,
+              7616.6
             ]
           },
           {
@@ -245,7 +247,8 @@
               26081.72,
               26333.04,
               26186.41,
-              25981.57
+              25981.57,
+              26187.66
             ]
           },
           {
@@ -313,7 +316,8 @@
               52064.1,
               52573.29,
               52421.2,
-              52093.11
+              52093.11,
+              52105.61
             ]
           }
         ]
@@ -455,7 +459,7 @@
               15.84,
               17.1,
               17.2,
-              16.96
+              16.77
             ]
           }
         ]
@@ -463,7 +467,6 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "06/15",
           "06/16",
           "06/17",
           "06/18",
@@ -526,13 +529,13 @@
           "09/10",
           "09/11",
           "09/14",
-          "09/15"
+          "09/15",
+          "09/16"
         ],
         "series": [
           {
             "name": "미국10년금리",
             "data": [
-              4.47,
               4.43,
               4.46,
               4.45,
@@ -595,7 +598,8 @@
               4.94,
               4.97,
               4.96,
-              5.0
+              5.0,
+              4.96
             ]
           },
           {
@@ -667,7 +671,7 @@
               1348.17,
               1344.64,
               1345.61,
-              1368.68
+              1366.53
             ]
           }
         ]
@@ -738,8 +742,7 @@
           "09/10",
           "09/11",
           "09/14",
-          "09/15",
-          "09/16"
+          "09/15"
         ],
         "series": [
           {
@@ -808,8 +811,7 @@
               7033.92,
               6909.91,
               6684.37,
-              6627.26,
-              6717.97
+              6627.26
             ]
           },
           {
@@ -878,8 +880,7 @@
               836.92,
               820.64,
               806.79,
-              812.41,
-              815.98
+              812.41
             ]
           }
         ]
@@ -887,20 +888,20 @@
     ]
   },
   "rsi": {
-    "AVGO": 38.7,
-    "BE": 64.9,
-    "GOOGL": 48.5,
-    "QCOM": 82.0,
-    "VRT": 42.4
+    "AVGO": 41.9,
+    "BE": 67.3,
+    "GOOGL": 53.6,
+    "QCOM": 81.2,
+    "VRT": 41.9
   },
   "news": {
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Fantastic News for Broadcom Stock Investors",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWF2UUdOY2d2MjFWZ25zR0Jfd1ROcjNfWVlBcUozTUdCOFNyYkpvRVF4a19EMXR2a0tmTTIzY1JSel9xNWNNMVduZHQwcTBPUW1JWFdzUHFmUU1lZmQ3em4xRkRaTFdoTUdOOHkxM1ZuelZxUlJSWWVBdWhaT1duTTViUnZ6X2ZfSDR4OExhbE1KcDUwQmh4XzNGVVM4d3d0UjduTmRGZw?oc=5",
-        "date": "09/15 00:05"
+        "title": "Prediction: Broadcom Could Join the Next Trillion-Dollar Club",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhJbXdROGJFX01yMlVEUXRVYXlUUlpSMTJnQ2pjX0hEM3VxUXVSTjNkNzA5ekhiN3RvQ045SDVoS2tWMW0zd3Azbl9fN2U1VWNtcThtc2pWVkJsQWhEMDEybjlyTklQMl9oT1V3Y3hUR1ExcHlEcG54Rl90UjdkQ2VHY0c0YW54VXZyWF9mazVJOUd6b0R3WjFpbjAwNW93WVFiQmlPSQ?oc=5",
+        "date": "09/16 01:00"
       },
       {
         "type": "positive",
@@ -912,14 +913,14 @@
       {
         "type": "neutral",
         "title": "3 Stocks That Offer AI Exposure and Dividends",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWZCb1JFbVpCUzFWalRHaC1jVnZaODhBcHozcnFuc045aEV4YTFxY1c2UUN1NVBJdFNqSjEyLW43czYwSXFNU281cjhrZ0pDcjlJNWNGTXEyT0VGNGNGSk5vaFRKRjYtQTJtaktMWnYzMG10aHVlRXFDZXM1b0MzY3dNS09uUFluUy02UW1tN25NdTdhWWc?oc=5",
         "date": "09/15 08:27"
       },
       {
         "type": "positive",
         "title": "Vertiv vs. Broadcom: Which AI Infrastructure Stock Has More Upside?",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2ZGU1NkOWZtUXBtY2dDdDktYzBPdW9neUVQZTBudzJQZ3dldDVtT3BsQTBBTzlfT2x3Q2E5RmRCTkM1dmJfSGZob3l5cUlYcmgzUDNaSFpSS3YtS0RGdGlhMmszaDZOVEhrV0NwcWthZEI3V1RzOWtGTktsTVdHWFFTTWIwNUhFSWRzUzR0ejNBcUVpSE1nRW9idnhtUlBIMGc?oc=5",
         "date": "09/15 01:47"
       }
@@ -928,9 +929,16 @@
       {
         "type": "neutral",
         "title": "Bloom Energy (BE) Stock Looks Cheap As Its 17x Three Year Run Continues",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjFCSmZfXzRWMnhCOWtHejZKMThSR3BfemNONGc0aUpjQ0RjX2d3UkszeWw0YzRURFVUcGVhWWtaU2hKbmtEZ3hYVDRyYTN1MGhmS2lvUGx4WnVFM0hCS1NVZlFjUTRQTWp4bHB1YnB4TXNEeC14NUg4MGt6cTZKUzBhczY2YkZnRlAyd2xKMXBSMXBoMzN2NHJjaw?oc=5",
         "date": "09/16 04:19"
+      },
+      {
+        "type": "negative",
+        "title": "Bloom Energy's power system could cut an AI center's five-year costs by $5.5 billion",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQUsxb2djTDNiRVdaU3NaMHQ5c2FGNzJBXzlCRnpLVjFjOG9WY1Q4N1NXb21pbGJZb3dPTzV0LVJ3eDM0U2pOTWtUUmdONXRtZ3c4N2l2NDYyRjh3bUFZb1J3RGg2LXlvOURJcWtjNnZ1S3MxSThjZmhkamZsWDdOZG5VbnVweWxYME9aY3JyMXBZY3hMUnZRQjNYbWoyQlZIVU0wYTJuSjlHdFoxODhVdVRIakpSYmlFQlE?oc=5",
+        "date": "09/16 22:02"
       },
       {
         "type": "neutral",
@@ -941,20 +949,20 @@
       },
       {
         "type": "neutral",
-        "title": "Bloom Energy Stock (BE) Opinions on S&P 500 Inclusion and AI Power Demand",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUU5wcEdWQU41NFpxcW9qTEJkX1ljYUpIWnBjQi1yWUgtOUpQaUhmOTY2UHhLSjBNVFZiSUJ0cUhyNXE0QkxzT1dyOW43TnZTTnpIeDBZMU9hV1dqb3FlVjRvRkg0cXlKMmpla2FXckNrRlM1ZXN1X3N0NS1NWm1MRkwxU1ZLbk9xRjNlRjBKTWNtZ0Mxdi1OWjZyOXNzdFJXazBZb2Nvc0pMbENBRkdiUkN3?oc=5",
-        "date": "09/15 23:05"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock: Bloom Energy’s AI Power Surge",
-        "publisher": "CMC Markets",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWkdJNjk4T3pZYlFLeTJtSFU5RUtWMVV4VVZkWkZQSE45RTNLV3JDRHkyZWMzZFdVM19kWHByazd4c2ttYjB0M1FiRTNMenF4OVZ6ZENTVGxHRTRDb2htdTMtX3hnU2FXR3hDd2NJQUV2dUtvajRRUVJOanExYkJveQ?oc=5",
-        "date": "09/16 00:43"
+        "title": "Prediction: Bloom Energy Could Be the Power Stock Nobody Saw Coming",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblRSeG9NV3VCeWI1RUdueklLZ1l1RnlYdUtNbzFMV3ZqTjBadC1sNlhmejJLZFQzVjN4bEQ2VHY3VUR6TXR6VENxLW80blMyUjR0cEtQM2dWTF9iZUx2UG52VlpDd2dnU0lhUjFZMG9ZWFZVcTN3d0tBSnQyb3d0QW80Vjg4U2hUR0daalV2UnVjMkd5ZFE0UHN2UFpTenpjWmVCSFVFd1loak9VdEx3?oc=5",
+        "date": "09/16 21:00"
       }
     ],
     "GOOGL": [
+      {
+        "type": "positive",
+        "title": "Cathie Wood's ARK Invest Buys AVAV Stock Again, Trims GOOGL Stake And Sells Iridium",
+        "publisher": "finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3U5d2EtajVKdzA1dUJvb0FwenVIWXdydXB3Y241ZTJXTVhVYTFRU3YyQ2ViTlVzWkVvTXR5NEMwbXpXNlU4Mkh1dWJmdmV4NjkwNHFCZk12QU40ZWNDbGRsY21NbjdjcFM3TWRnRlIzYlpfNGFJc2ZrTVYxVWxvOGVxYmY5dXJPZERmcEUyWFNGTE5LN2ZIZw?oc=5",
+        "date": "09/16 19:31"
+      },
       {
         "type": "neutral",
         "title": "GOOGL Stock: Should You Buy the Best-Performing Magnificent Seven Stock Right Now?",
@@ -963,41 +971,41 @@
         "date": "09/16 05:05"
       },
       {
+        "type": "neutral",
+        "title": "Google Stock: Waymo Is Scaling Robotaxis. But Consumer Cars Could Be The Real Prize.",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlE5YjlRaVIya25pQmlIcFdKc0pPQ0tJNEx5MUhWcWYxb21LSWVlWjZYQzIxQnFIVDVqd0xpaUliSW56Z0V0UXNiRWdXWWVYYXNkWEptYUhIS3VNU2NQZmVVcVZLWlNMSnRZSlpxdFpzRzdLczBoTEVDTFhNU0R4U0xaWDN2SUhQeWptVm4xc1JVMkVRc0Zn?oc=5",
+        "date": "09/16 23:02"
+      },
+      {
         "type": "negative",
         "title": "GOOGL Stock Falls 5% As Google’s Flagship AI Model Reportedly Runs Behind Schedule — Why Retail Traders Aren’t Worried",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU2RCSy04MzlsSzRqMGRwa0kxS0d6OGhfY0pacTNXM19MU3RyeFoyWWtDTnRBS2dkMUxXTXI0N2NPdElBLVBZUlozaEdkV2ZVZzdBT1l1RU5Yd3RZd25uZ2hrRHBXS1k0a1VqRW5wM3JCb2pYV1BVVkI1ZjdPei1kbFpVdURoejY3a09TQ1JzcFlHd2R6cDFwNTcwYjlyTVNjZ1lEbFpPV1dpSWY5SndwMmFzV0tkUWdwTkNqX2V6V1FRcy1vXzMwb0h4SzdnQXQ4d1NPa1Q4YW8wS0dvbHhMZGJvenZPMVlJWEpZdGhmTi1LZ1ZDWnBJUkMwUkdvTzBf?oc=5",
         "date": "09/15 22:35"
-      },
-      {
-        "type": "neutral",
-        "title": "GOOY: Weekly Distributions For Equity-Like Returns On GOOGL Shares",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVHJsZUVkaC1FdlY5RHg4X3Jfa2NOT01mb0FDcDI3MEQ0NmVzMGc5enJnNFdwM0FzVjNkNFFQMTBKbWs3NkJGNW16TUtxdUd3bzEyV0VXc25teGlxMzJENm1na3JwUnExRG9Sc256eENPbmtmMFBxQmZjbXlQcVZWd0VKbWY3Nlk3TWN0WDg0UVh4S1JWMXh5aFdNVVhlU192dDJUMTVjcEdlQQ?oc=5",
-        "date": "09/16 14:03"
-      },
-      {
-        "type": "neutral",
-        "title": "RDDT vs. GOOGL: Which Digital Advertising Stock Has an Edge Right Now?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb2FtWHlMUC0tZzIyMmtYUHJHVlNTR2daeEJQYkRydUVGOXNqakVlRmh5YURPVWhqMmxaVWRXOEtaQ1VFSzVuVmw4Zk85MXB2Y09vUmtQNzFYb1R6VUIzcjdCaVBTVzlfeFpXQkZVcHVtRGFOMGtaa19PNzJILTZtbVEycXZmeXVva0luQkZSaTV5ZjJqaGpCZjVkeGxMUXUwQjRETlZ3MWlnQ2lNVVhuVTNZNnM0VEtpRm9rUlJSY3g?oc=5",
-        "date": "09/16 02:07"
       }
     ],
     "QCOM": [
       {
         "type": "positive",
-        "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbDVXek1Dd0lIQVVJWm1pbW5iNWpZOVUzSU9YLTlhb1EwV2x6RXFabDhHLWF1ZGdPV2UwdVM0ZXpkOV9NUWpmVmg4a2JaTV8zcXA5MWJSUl9ZMW9lUXZ5b2c5ZmZVbm1IWHA1WTJabktCOWc5WEh1VnkzT2NySDJTRzhZdnVsYWlTUkFCWmRVdUJnNWty?oc=5",
-        "date": "09/16 12:18"
+        "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
+        "publisher": "finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVAxOGtEb0ZwTGN4VnNSallqdjFzbEU5V3JIOEozSXMzTDhzd2dNZ1ZVaVNDT2ZQSFBOR0xNUHg4U1pFYUxERXVpMFQ5eFNyV2FuSmRMeG9pbDQtcEM1cUgyeDVmMmh4VzF5UnRiRFY4Z0RyOExKMUJZRlA5aTBKZFF2QlVFcWc3T1Bnd21uNWdtNnFoTFZYNUVzaGE?oc=5",
+        "date": "09/16 06:35"
       },
       {
         "type": "positive",
-        "title": "QCOM Stock Extends Gains Overnight: Analyst Says Amazon AI Deal 'Changes Calculus For Qualcomm'",
+        "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU3ZMWks1LW9GVktZdjFkRktPdnlLRkYyTTF4dGQybDJKVDAwSXRpbm5VdUdkNDRGMU1KNktrWi1DRVlzcUtIUUxHWHh5M0hubEIyVFJ0TDVlV04wMmN4YUp1N084V3VyUm1OVGh2Tk1Fb3o4QlhINzdoMFJaeEIwdXExbTBnWGxSb08wRGJFV0hhNmw3REw4Q1hjZWtrWnpqTGxyb2EwbVJGRHlMdDB0ZjhzWm9tMVpXTE8yVXRELVdOY3VvOVhpOVpUNHMydkNhdm5RU0d5UEZweUxDREh3bUVRSl80V0VpS1U4LQ?oc=5",
-        "date": "09/16 00:31"
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkM4c2wtZTFfcU9jaW1saWZvaFZVaVNWNlhJbjdNdzJjSGVjckN4N2dDam9CYXZ4SktMR1o4MThSWnZ0M3JfbEo5dnN1LVd6WU5XeDNEdFctaC1zZ09jbE0zcUt1ZXlvTlJwelBvT0s0cmFYbjE1NjQ3aWludXBSNzlUd2xYSzViVVBnYTNtZFByTDdyUEthZjMySDhqNk5BREp1RkhMZDFWZ3BLXzBfOGtSbFQzZnpOaTRXNEhoT0NRdlM3bm44SDNhQ2gzdF9z?oc=5",
+        "date": "09/16 12:25"
+      },
+      {
+        "type": "positive",
+        "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
+        "publisher": "finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbDVXek1Dd0lIQVVJWm1pbW5iNWpZOVUzSU9YLTlhb1EwV2x6RXFabDhHLWF1ZGdPV2UwdVM0ZXpkOV9NUWpmVmg4a2JaTV8zcXA5MWJSUl9ZMW9lUXZ5b2c5ZmZVbm1IWHA1WTJabktCOWc5WEh1VnkzT2NySDJTRzhZdnVsYWlTUkFCWmRVdUJnNWty?oc=5",
+        "date": "09/16 12:18"
       },
       {
         "type": "positive",
@@ -1005,20 +1013,13 @@
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFVQWVRNcXVVS2p4eEQxc2JjUnpkVVZNUGl4c0pLM2FaTV9kRWlPMDZ2emtLQ0xOYkU1d3JFNHZCdS1vR0huWXRYRzk5eTk0anpGNGc3am4zVzRIcjMwSFBrWTRKM3lRMjNGeWFOMjNQUXRBSGxCNmtsa3dWc056N182N05qbGlFRldj?oc=5",
         "date": "09/15 22:47"
-      },
-      {
-        "type": "positive",
-        "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVAxOGtEb0ZwTGN4VnNSallqdjFzbEU5V3JIOEozSXMzTDhzd2dNZ1ZVaVNDT2ZQSFBOR0xNUHg4U1pFYUxERXVpMFQ5eFNyV2FuSmRMeG9pbDQtcEM1cUgyeDVmMmh4VzF5UnRiRFY4Z0RyOExKMUJZRlA5aTBKZFF2QlVFcWc3T1Bnd21uNWdtNnFoTFZYNUVzaGE?oc=5",
-        "date": "09/16 06:35"
       }
     ],
     "VRT": [
       {
         "type": "negative",
         "title": "Vertiv (VRT) Stock Stays Fairly Priced Following Its $2.6B AI Power Deal",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXloSW1IRzk3YWdra1pyQXhRb3gwcW9IMHFFQlI4amJxRUVwSkJkX1FvZDg4RmtlaHVXdkE3WWJTcDZ6YmJuOHRqc0tKSVZUMnpqQkF3cTAwUUJCVE14Q2RtQVUwQ0tMOUx5RnBaVzRWUDBXNXBOUzN2MVZoclFzeEk3MkhOZDhMcjBDMEdUSlRFOUpuamhNNHRB?oc=5",
         "date": "09/15 16:11"
       },
@@ -1039,7 +1040,7 @@
       {
         "type": "neutral",
         "title": "VRT vs. SMCI: Which Data Center Infrastructure Stock Is a Better Buy?",
-        "publisher": "Eastern Progress",
+        "publisher": "easternprogress.com",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaG5pVjZlU3JmdWZhN3V3RGZBaXRoM01Wa2Rya2hZbUtGMDBkZFhUaHAtVlR6TmhvM0hlWks1NGZzNlJJTzdWR3NGS3o1a1k0THgwanZvTVprVEFkNEhfRUpNQW95QkRvZEhRVmszbkk2SXA5WjVmM0h5cnBta1JOdFcwUlJLSmV6c2NOeUJ1UEg3SGZHM2R0ZGhaT1p3aHpXOUN6MXZVWXhqc3hWdHJNX2NtRjRiT3FhVzMxZ21GTGdNTDNQUThvY01uRU1SMFQ3Y3V5NXh4bklvNWVKZE5HZjJR?oc=5",
         "date": "09/13 00:30"
       }
