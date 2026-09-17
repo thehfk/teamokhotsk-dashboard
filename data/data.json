@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T03:23:57.198122+00:00",
+  "updatedAt": "2026-09-17T08:47:38.554880+00:00",
   "market": {
     "cards": [
       {
@@ -9,7 +9,7 @@
       },
       {
         "name": "NASDAQ",
-        "value": 25978.42,
+        "value": 25978.43,
         "change": -0.01
       },
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 17.71,
-        "change": 2.97
+        "value": 16.19,
+        "change": -8.58
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1379.76,
-        "change": 1.19
+        "value": 1384.78,
+        "change": 1.56
       },
       {
         "name": "KOSPI",
-        "value": 6723.51,
-        "change": 0.08
+        "value": 6715.41,
+        "change": -0.04
       },
       {
         "name": "KOSDAQ",
-        "value": 821.62,
-        "change": 0.69
+        "value": 822.18,
+        "change": 0.76
       }
     ],
     "groups": [
@@ -245,7 +245,7 @@
               26333.04,
               26186.41,
               25981.57,
-              25978.42
+              25978.43
             ]
           },
           {
@@ -321,7 +321,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "06/16",
           "06/17",
           "06/18",
           "06/22",
@@ -385,13 +384,13 @@
           "09/11",
           "09/14",
           "09/15",
-          "09/16"
+          "09/16",
+          "09/17"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              16.41,
               18.44,
               16.4,
               17.28,
@@ -455,7 +454,8 @@
               15.84,
               17.1,
               17.2,
-              17.71
+              17.71,
+              16.19
             ]
           }
         ]
@@ -667,7 +667,7 @@
               1344.64,
               1345.61,
               1363.57,
-              1379.76
+              1384.78
             ]
           }
         ]
@@ -809,7 +809,7 @@
               6684.37,
               6627.26,
               6717.97,
-              6723.51
+              6715.41
             ]
           },
           {
@@ -879,7 +879,7 @@
               806.79,
               812.41,
               815.98,
-              821.62
+              822.18
             ]
           }
         ]
@@ -903,13 +903,6 @@
         "date": "09/16 04:18"
       },
       {
-        "type": "neutral",
-        "title": "Is Broadcom Stock in Trouble?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNelctV0ZDbEItVVhPeXNISjJoMjRiSGNnbjM0SjZWT2tETmpNVmxETFNjcV90RDRlM0R2VnAwczJSYXAyMmFQN3pneWwxVElsdEt0WXRrYzI0VUR5Q0x0ZHRMNmxFYTdESkh3ZW9EZTB6NjJjRVpHdUJNdURaX29rRGVnTFlwMDVYS1hiS21haW4?oc=5",
-        "date": "09/15 03:05"
-      },
-      {
         "type": "positive",
         "title": "Broadcom: Buy The Tantrum – Again (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
@@ -918,10 +911,17 @@
       },
       {
         "type": "neutral",
-        "title": "Prediction: Broadcom Could Join the Next Trillion-Dollar Club",
+        "title": "Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI.",
         "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzhJbXdROGJFX01yMlVEUXRVYXlUUlpSMTJnQ2pjX0hEM3VxUXVSTjNkNzA5ekhiN3RvQ045SDVoS2tWMW0zd3Azbl9fN2U1VWNtcThtc2pWVkJsQWhEMDEybjlyTklQMl9oT1V3Y3hUR1ExcHlEcG54Rl90UjdkQ2VHY0c0YW54VXZyWF9mazVJOUd6b0R3WjFpbjAwNW93WVFiQmlPSQ?oc=5",
-        "date": "09/16 01:00"
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeU5EZ0hySmIxQjBtYjlRdjdzVW9OZjU0MU82eGVEbVZqTHg0Q1RZVGwzbnNvcy1wVkhYTDRtalFxcUozSHZsbXRKbzMwX0hOcEFreVFmbFJ2ejlqN2ZlRUlocEFoenhaaVlYaHk2bWFGWlU4dlljN2x5dTE4WFFMcWNFNlpOaFNaaEN5cDVkVUpxX29mWEszRHV3ZUZIY1l1bjFKMl9iR0VrbTlGU1VnSVJVdnU2NzN3WWRBU2NSSUN2aGpF?oc=5",
+        "date": "09/15 01:15"
+      },
+      {
+        "type": "positive",
+        "title": "Broadcom Stock (AVGO) Gained in After-Hours Trading on CEO’s Dismissal of AI Slowdown Fears",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnJDRlRCTnVXUEQybFhrbUhZUDBQaFh3Z1E0NHRBSHRxOW0zdFl0SjNpMldyUXhwYnIwSzVIUDhuZmFPZUw2V2ZaTTA5TFFLaEllT2h4RWVld0w5TzdaMjFjUWtPV1VIWkx3X1U5VHQ5d3VtQXJ6QXlyZHdqTnAtU1lhdXlRVzFJUVNBMW01aXJSRF9ERWU4RHNMYVFHZlpobV9qMHpYREFwaG5fR05SaDVidGc?oc=5",
+        "date": "09/15 14:39"
       }
     ],
     "BE": [
@@ -933,11 +933,11 @@
         "date": "09/17 05:21"
       },
       {
-        "type": "neutral",
-        "title": "Why Are BE, FCEL, GEV Stocks Rising Overnight?",
+        "type": "positive",
+        "title": "Bloom Energy (BE) Stock Trades Up, Here Is Why",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUThvNmNCZDZxQ3NCLXRVYjcyY2hJczlheFdIcmJSVWVsOWFGRTBsSnIwblVnam0zVlJaRzJSbTdqVG5NU2JrVVdnS2pFeTZVdjlNN2U2SFotX3F6UktFV2Z2Q2dnanVHeEZ4UHVKaExiR3JpdHhEWHktbEZyT091RlNvcmdkZHp4T0xJ?oc=5",
-        "date": "09/17 11:08"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcENRUUdLb202a2Y2VVZOcUdjUURMeFdqamZ2bzNQcnlnMzBDbXBKTFFTb0MwRDMwSHVuUndMZ3hiV2RYaWI1QTJpMDFCSUVNdjM3ZlV1WUdwcnpoZUhFSHZteVl0RVVKOVJSNU1lUGhUdWc4ZEVIckZlZVVzY21oMjRydEJ0UmdnaFJnaWFWa2tDakZJb0FMN3pB?oc=5",
+        "date": "09/17 06:24"
       },
       {
         "type": "neutral",
@@ -965,16 +965,9 @@
       {
         "type": "positive",
         "title": "GOOGL, BX Stock In Focus — Banking Consortium Reportedly Lines Up $22B AI Chip Financing For Blackstone-Alphabet Venture",
-        "publisher": "tradingview.com",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUDduNU0xVFcySjVpNDB6NDVyWkgwd1hCTHNfUTF2UUVrLXZkRF83UEJRSkVqUFVoNVp6LTh4Q1h0a3h5dHFwLVhaTTZrVmU1UkR0QmRzS202NktkdmlqNUQtdVJCT1lHcnB1VWxzUkNmUmhwTkQ5U3d2ancxb3UycTBsdURWX3cwV2U5N1RSTUFnV0R1aEhURVhzSHpLNHJXS1l0WldUSGFpaUZON2xzWkkxcjlweHVhdEtNZ2lueFpYOVQ0ZEFEZHMtenNUd1Nra3FCLW02NHBsOGxOakR4QmtwZnEtd3gzVDRsS2lYMHMtNWg1LWtISmRoN0ZXWmNJRDFHTWMtMkE?oc=5",
-        "date": "09/17 06:37"
-      },
-      {
-        "type": "neutral",
-        "title": "Cathie Wood Sells GOOGL Stock, Keeps Buying AVAV Shares For Second Straight Day",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkdfZ21XR1lmMl9NNTRuaUZYdEx6SzNoN3Y3VHlHQjgzV2Z4Y3E3dTdlcVBKbDZvdkktT1VJczdMS0FwLW5qeUdIRzdKX3hBZU1Qam12TkdrZ1lFZkNQVVhlSTRka25Zb0pUakxzOXJuSjlGSHVqRmV5cGItUTZfMWN2VkR0XzZrYldya1V4d3JjZW50bUcwVnVMajR0ZWR1SnJIOU8wSFFRRGR2SWMyYTFEbDNoVHVDb3FkZ2J3Vms2T0JnTGtCWEFBZ0YzNWo3ZjFhSVdQSQ?oc=5",
-        "date": "09/16 19:31"
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOX2RpVGJZLThMUFFlQ3JvcUk1WmJjemFKNzBPSkRCVGFCVmlNZ1lRRFRyeUV6MEgtSHRQaVl6ZkhDNWlXMDhSUHJCcWstd3Yzdm1mV1UyY3I5UDQ1cHZQc0wwOHdzRGRBeHBEWmJ6Z2JGS3YtRFl3b2ZWMmlpTXY3SHdaSXB5ZW5JT0F0YjBOcDVMZldxaXY2MFdDX0IxckFjNmhNZEdxQ0V6dmhQek55N1c5S0xsem9GNHNNRGdhR3RObDFRVzBBOFV3bl9FNnZDMnFhazFtSzBENVNlVmZiX1FrUWZ5cG4wSGdXV05oa0ZlLVFWVFFFV1doX2tJd3VPXzRhZWsyWGN4RkFlVkE?oc=5",
+        "date": "09/17 12:21"
       },
       {
         "type": "neutral",
@@ -982,6 +975,13 @@
         "publisher": "Stock Titan",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeDJqYnBKV0tNVmRYdkQwcW9Bb3RlaHcyZmVibkdwOUhkRkVzQlhGbEc2MEdTdWtnOXdUU1F1Nk1WamFmdTBMWUgxWGczNFZLdjBLZVN4bTIyeHVITFNuQUc3ZmNnTlhTNVZ6b0pRcV9GWko4c2ZhN05KeWNmUE1SNUN4SndSZ3k1RGplRjNHazJ4cldVUm1tRmUyQjg4WG9VM1VuM2RvcVpBZw?oc=5",
         "date": "09/17 10:55"
+      },
+      {
+        "type": "neutral",
+        "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekV4X2IzT2hRdElVbXlXa0pVY3B0cE9va0tNYlNMMDJmb1I0NUxSellhbUs1TUw5aFBlZmtrdlB2bVV4ZW54VkNrOEs2Wkh5VGF5dUNadjlCQ3hqaUhVd1RSaDdyYXp2Qmx6YWN3WTF4blhhT3piSGJuMzF3UE83Z0lWOWVlVDVCRWtEZFJLVzRPdTdIRUw0OHdqbGFNbUxHVTNGRdIBqgFBVV95cUxOWnZTc0wtbjlNdi1FYUtpc19zWVpfVUxVZnJtSlpid0hTTUhnM1FZMmNyeVlXV0VCeEhHTi1WVE1QNzg4N0d6aDZ3b09xd2stRjljSU1ONXVsb1RTWWF2VWg4ZXMtQUVmR2lCb2dLM1dFT3l0R0VGNUo3S1FmZi01MzRHSU52NmNoaEpQSWdFWkp2Vk51Rk10Y0kyTmY4WW1nbWRGY0lETmpLUQ?oc=5",
+        "date": "09/02 16:00"
       }
     ],
     "QCOM": [
@@ -993,18 +993,18 @@
         "date": "09/17 11:11"
       },
       {
+        "type": "positive",
+        "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
+        "date": "09/16 23:36"
+      },
+      {
         "type": "neutral",
         "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQekJscnUxYlpEUjJyT1dVVE1pMDhGbW9acVNTbDVIbXFrbXkzdk1mU3Q4MER6MndhX01CYjk0MnVNRERPQUxlcjd1SjZ5eHRyMnBOVjVTM1pfMFlVV1k1N2xkSkFobHNyUmNldmd2Vy1aSlloV05lWEc1d0VnY1FPSWtnYmVWQjdtNm5NelU1UnFqalhaUDBxSUdNOFZuWXMxcmtfVTN1V0lwa09mcWFQZ0U4RkY4RTl4UkI4?oc=5",
         "date": "09/17 04:29"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkM4c2wtZTFfcU9jaW1saWZvaFZVaVNWNlhJbjdNdzJjSGVjckN4N2dDam9CYXZ4SktMR1o4MThSWnZ0M3JfbEo5dnN1LVd6WU5XeDNEdFctaC1zZ09jbE0zcUt1ZXlvTlJwelBvT0s0cmFYbjE1NjQ3aWludXBSNzlUd2xYSzViVVBnYTNtZFByTDdyUEthZjMySDhqNk5BREp1RkhMZDFWZ3BLXzBfOGtSbFQzZnpOaTRXNEhoT0NRdlM3bm44SDNhQ2gzdF9z?oc=5",
-        "date": "09/16 22:20"
       },
       {
         "type": "positive",
