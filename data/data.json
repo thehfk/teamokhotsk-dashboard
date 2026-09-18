@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T21:21:42.196121+00:00",
+  "updatedAt": "2026-09-18T23:24:59.321090+00:00",
   "market": {
     "cards": [
       {
@@ -932,17 +932,10 @@
       },
       {
         "type": "neutral",
-        "title": "Why Are BE, FCEL, GEV Stocks Rising Overnight?",
+        "title": "Are Oils-Energy Stocks Lagging Bloom Energy (BE) This Year?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUThvNmNCZDZxQ3NCLXRVYjcyY2hJczlheFdIcmJSVWVsOWFGRTBsSnIwblVnam0zVlJaRzJSbTdqVG5NU2JrVVdnS2pFeTZVdjlNN2U2SFotX3F6UktFV2Z2Q2dnanVHeEZ4UHVKaExiR3JpdHhEWHktbEZyT091RlNvcmdkZHp4T0xJ?oc=5",
-        "date": "09/17 11:08"
-      },
-      {
-        "type": "positive",
-        "title": "Bloom Energy shares pause after two-day 8% surge in week of positive news (BE:NYSE)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzR2Tk5ET0pDMU9PV1YwakpDOEZ1ZkszWXRDMWM2VXRoTXRsbkdMM1NWOWU1NkxzQXVWY0tuSEpjeXB3RGpsNjhqTkNzY3pCazFfaVNqYS1ZNi1UXzlfd0hkWDZmRVlVdnoyRExLVjBTYXNxQWkzR0RDM1hDT2dXTWxBUXBJbXFIM0g3d3Z2N1BpZ1JEZ3F0UWtDZENFR0EtblFOeXMyRE8wTTN4VmVr?oc=5",
-        "date": "09/19 01:42"
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGtXLWtoM2RDS0cxQXJaX3lsdURHNEtEWEJpa3hMNi0yMVVqTDFwM0ZvdGVueFlrQWYxNk00TWVHNkNUanoxZmdRWVZSWkxZWmJJWFQ5aXFCODM0S2hpMWxtUy1Rcjl3YlhiazRLQ1NNWnl1RTQ2RUNwTU5FamdtT2tCRG1tSWFqYlU5ZFFuVkpBNUJidWpDZFdTS2l1Zw?oc=5",
+        "date": "09/18 22:40"
       },
       {
         "type": "neutral",
@@ -950,22 +943,29 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFZHcTYxenJEaHdGejEtaUVpOGJDb0NCWGVNQ2sxYmF5d2hQaF9lM2x2SExfSXZZWXBjZTBGWkozdlBTMFU4QXd5RXJlYmVLZkdQQnhfZFRTc2thMzk4dW5nNU5GZ0tQMGExZlE0V1dmSzN4UE95RmxEVE1fdHNGR3B2QWVWelJQMWhodXpHbDlxNDZTMUppLWlSQXdLRjFwQ2pvdnlUN2hWbHZERXR5d29fcnlSRnprUE1R?oc=5",
         "date": "09/16 12:26"
+      },
+      {
+        "type": "neutral",
+        "title": "Here’s Why Bloom Energy Stock (BE) Is Rising Today, Sept. 17",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0wtUjJRT0JQMGpwQ0l1YWZ1Rk0zQ2EyWThHRkpGbGtCRElkdlZFMmh0NmlwS3FVWlJ4MXMtZWQzREFRUmkxeXI4NjBVSnhOMWhZSnlISkRZT1pBVVRSSjdLdTlvYUE1ZnVzRUZqTXFILWhYSXZ2NE5SWTlTUEVLUWxfc1J3cGJHbFQyU3ZB?oc=5",
+        "date": "09/18 11:09"
       }
     ],
     "GOOGL": [
-      {
-        "type": "positive",
-        "title": "GOOGL Stock: Tigress Raises Price Target to Street-High $485, Keeps Strong Buy Rating",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzJGdzVkVFNZV3hoMjUtaG5uUUVUWGhHd28tQlF6RlM3cTZOckIyN3U1clNvRUtFcEJxSVVBb0huejBmTVc5OFVfVTFyQWduMHdKNl94SWVkcERQc1BXLW93MERVWWVoWlAyT0JEVnROenNBN0E3YlZBSkRZNU9uc0kzVkpZTWZWOUxhUEhXMThNVjJvd29YQUhRcWMxLTZncDMxcFJtN2ZvQ2ZodnY5bmRoN0M1S2pK?oc=5",
-        "date": "09/18 20:27"
-      },
       {
         "type": "neutral",
         "title": "Here's How Google Advertising Antitrust Ruling Could Play Out",
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUp6YTh5NFlLR1BtOXJsdkFwaXlzX3V6S2xfeTN1U3RLYkI1ZHVlTjNsN2phTTBVblBaaUpSQzRyalFkdXhaeGtRQ1BQSEhta0JWUkhzSV9xWWpsa2lacDhvQWhHS1QtSG9rcC1KTUdaV09Oa2E5ekxidWszNDNkTGRoclA1RWVxUmxIMFYzLWEydzVpaXlIYndXVkdEMTJoVFRZ?oc=5",
         "date": "09/18 20:44"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Is Google Stock Rising in Premarket Trading Today, Sept. 18?",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnpyVnhIem1Ydzg0THlUc2hFLTZCQzFrVTFLZzBHRHNCb281ajBfU0x4djhEUWt6NEQ3bThHbGZ3WXVJeERyNlgyQ09Sbnh5bi1rOFR2UHhvZ05WVjI1WG02STJoUFI0aHlWbWJEWldNOVF5ZG5RNkoydm9hN3E4bU8wUVNnd0dicW43ZS1NdnRRNFpTZUE?oc=5",
+        "date": "09/18 20:18"
       },
       {
         "type": "neutral",
@@ -976,10 +976,10 @@
       },
       {
         "type": "negative",
-        "title": "Is GOOGL Stock Amplifying A Risk You Already Own?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDVESkNwVHdBR0gwVE13SGtXdDhldXN4cm5EM281ZUxJSG90UDE3TUdSNnNvdHQ5bTBHeGkzVU5hWWlFNFVwVEhrd1JNWFJGcnZneGhZU3p6VkpPdV9vZDJpcnJqWkdTTkVncFBvMkZ2TUM0WWpuaVdtMlF6enB4dUJqSVBELUhZMm1VaUh5bjBuc0xDOF9VVEpMbktMTnotLVFTdjBKdHoxRzVPMzJv?oc=5",
-        "date": "09/18 00:24"
+        "title": "GOOGL Down 7% in the Past 3 Months: Buy, Sell or Hold the Stock?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ3hnM2FScWxJUC05X0V0WUxhUExlemFmd1pqLWFLTTRjUXpYSnBHTTZvY0VxamtuaWJZTlJuVExjN2pZdXV1bVdwcEw1UXVmXzUzNll6am05UWJXMVh3SEkxLVZZWGl2OWk3UmVCcW9KcXk4djQ2MXFGNjBSOXNST3JCc2dLTWZJcC1NRw?oc=5",
+        "date": "09/18 00:34"
       }
     ],
     "QCOM": [
@@ -998,18 +998,18 @@
         "date": "09/18 19:28"
       },
       {
-        "type": "neutral",
-        "title": "Qualcomm now faces rival with bigger market cap",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUJ1VFdmQjVNYThFbVZjRDRGUGRsRklUQllrOFRWMHhfRmc2RzlFdlAxWVZISEFLdllIenJEN24tZE9wc2UxUFB0b0ZPYURFVU04N1cyME9wemdiWkl1OVktNTZ0VkZfdXktWEQzbWpFeXI2OFhqRTB0YmVkUVUwYWVfMWRsMDZJaUltUWp4Q202SnEtVjI4?oc=5",
-        "date": "09/17 03:33"
+        "type": "negative",
+        "title": "Qualcomm Inc Stock (QCOM) Moved Down by 4.88% on Sep 18: Key Drivers Unveiled",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYndzVFVOLTBmUkRGNTRVLU5ZazZpaXhUUUZ6aEpjLXdEdDJ4RnI1c004b05KNHk3VEtCQkpoc2FSRllnLUhrNnhfcGp0ak5sRFpfZWFSdU9sUTU1YzNvMFVFbG1hT3U2ZmxUNFJ1OU9QTGRTelNwQTVKMFVtNHc1V21ZdjVZQi1aeVV3?oc=5",
+        "date": "09/19 00:15"
       },
       {
-        "type": "positive",
-        "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
-        "publisher": "tradingview.com",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTFtVnhPcGRKQ3UxcE9EMEVUb3lERlZ5bnJpZHQ0bFFRelIyZmMwWWNJR3hsY0d2QXNBN2xKY1VrOXVUT0VpeTczNWFCYWRVT1dhT2txb3dTRFczT0VjZjNzZXhQWTRNd3FLUUg0TW5iZmV4N0FEV09HSGhrb0lud3dPSUtKZm5PRmRtZEs2eDRWcEIyRXk2R1VWd0lBcmpBZjhwMG9Yaw?oc=5",
-        "date": "09/16 01:01"
+        "type": "neutral",
+        "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHRKV01vTjBSMktXTll3RlV4dUI4azdpRC1vSEs3ZEt4MjVmY0pJdnpKZ0RsOWQ1cDZ2SmRxQWFmMDNkZnZ1eXdUaDhwcWRxbnRCUHRySFhlNHNNWlhvZnAya1AtU0xsRU1NNW1LT3NwT25TT3VCMXFjM1doeUZtb0tUMUhWTkQwbnFVLXZnUmxzSEpjSXl3bmVoX0tiUQ?oc=5",
+        "date": "09/17 11:11"
       }
     ],
     "VRT": [
@@ -1029,17 +1029,17 @@
       },
       {
         "type": "positive",
+        "title": "Vertiv Holdings Co (VRT) Shares Surge 3.3% -- What GF Score of 9",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDUyejd0bXJ5MXR3bWZKb2tkQmwtLXF5RDVWN0Q0Qnd5ZGtVVU80MWx1ZlRTWGc5ZTF2R19DeWZ4a0Z3Zk9vN2U1NmlLWjVUdHVCZ1hidDdWUUotQ3NDbE1YN0ZfOXlEMmVCWWVyVW1HczA4YzFReDFKY0d4NER6a3pNclZrdWdwdkpFSXMwak5ablJXTmNINC14d3luSThaeWl3dHZLLTVndDBSNWYwNUhTYw?oc=5",
+        "date": "09/19 06:32"
+      },
+      {
+        "type": "positive",
         "title": "Vertiv Stock Keeps Cooling Off. One Analyst Says a 100% Rally Is Coming",
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC01QWdmLTZwc1d3ckd1RmtGeUFYTW5FczQxbGlqc0ZOQVhmQ21TWDlFOHgyeGpqdTRnUjM2Nm16YUhxUUwwYzFVMFRTelhTSWQ5S2FZQ01aTmplSWl0MnMxUGV6U0FWXy02X25IREVlSU1zTjU1eERSSHdNbEFEeVVnSFVMdjVSWmpUNjVCT0VXd2c5VWpwUVVtal9oNUh4UHN6LXdwaERSYkFKcFVkZTE4WQ?oc=5",
         "date": "09/03 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv Holdings Co Stock (VRT) Opinions on Data Center Power Solutions",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2JydmlGUmpUVXdkQVdDSks0ZS1hN2hLZ2Mzc0kxLWt4Y053WmZ5V3JCS2JUekdsYjVXd0xqalptekxINktablg4a1FzNTdqdWx4NHBjSEJ3LU1jeURjZHZzbS14NWJEakFSaWJFeFhsamdYRWJ2ZjVXWVczc1p0SHNkaWhpd3ZCMTBPNkxBVWxQTURNOFQ2VFl0TEYyNkJFOG1STFB3VlN6ejg?oc=5",
-        "date": "09/15 02:34"
       }
     ]
   }
