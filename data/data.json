@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:24:59.321090+00:00",
+  "updatedAt": "2026-09-19T01:20:02.183340+00:00",
   "market": {
     "cards": [
       {
@@ -34,8 +34,8 @@
       },
       {
         "name": "KOSPI",
-        "value": 6715.41,
-        "change": -0.04
+        "value": 6894.23,
+        "change": 2.66
       },
       {
         "name": "KOSDAQ",
@@ -739,7 +739,8 @@
           "09/14",
           "09/15",
           "09/16",
-          "09/17"
+          "09/17",
+          "09/18"
         ],
         "series": [
           {
@@ -808,7 +809,8 @@
               6684.37,
               6627.26,
               6717.97,
-              6715.41
+              6715.41,
+              6894.23
             ]
           },
           {
@@ -886,10 +888,10 @@
   },
   "rsi": {
     "AVGO": 42.7,
-    "BE": 66.2,
+    "BE": 69.6,
     "GOOGL": 52.3,
     "QCOM": 62.2,
-    "VRT": 47.0
+    "VRT": 39.5
   },
   "news": {
     "AVGO": [
@@ -916,10 +918,10 @@
       },
       {
         "type": "neutral",
-        "title": "What Is Going on With Broadcom Stock on Friday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2kydGkwTzh4a0JBUDFOX1RQdU4zWFZkbHpWam12ZnhmMHJWZ1YwRENTLUxPeFlqQ1UzTWxYdVE4ZmtQdlhBV1N6OWt2YnNMM05LVnB0UWFTRXFRR3dQVEhXb1d2anZOdHo1bGZHdERneWVrUWZsdmtYUGJCZjZjc0VacE1HbWhaSXNoNEx1S1FyUFZSRTlpZU16dkZPTXFJZERB?oc=5",
-        "date": "09/19 00:41"
+        "title": "Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWlyVm1BS0JKLUtUSjZnM050ZnEtckxmN2IzY3JjTUxUTU04VXpBUE93RWs0VjdMOFp6TGIzanVQdldPZFk5ZVJQYmtna0JQQzlzWTRHY3hVN3hnUk5PSnFsbE9hdlcwQ1ZmODF2WFVEVmhscmFkcVd1ZlFrb1ZyT0hhN0VMOW95RVhCMlpCa1NyeExMVExJSVR4TTFweVJ2N0dqbA?oc=5",
+        "date": "09/18 22:00"
       }
     ],
     "BE": [
@@ -976,10 +978,10 @@
       },
       {
         "type": "negative",
-        "title": "GOOGL Down 7% in the Past 3 Months: Buy, Sell or Hold the Stock?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ3hnM2FScWxJUC05X0V0WUxhUExlemFmd1pqLWFLTTRjUXpYSnBHTTZvY0VxamtuaWJZTlJuVExjN2pZdXV1bVdwcEw1UXVmXzUzNll6am05UWJXMVh3SEkxLVZZWGl2OWk3UmVCcW9KcXk4djQ2MXFGNjBSOXNST3JCc2dLTWZJcC1NRw?oc=5",
-        "date": "09/18 00:34"
+        "title": "Is GOOGL Stock Amplifying A Risk You Already Own?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDVESkNwVHdBR0gwVE13SGtXdDhldXN4cm5EM281ZUxJSG90UDE3TUdSNnNvdHQ5bTBHeGkzVU5hWWlFNFVwVEhrd1JNWFJGcnZneGhZU3p6VkpPdV9vZDJpcnJqWkdTTkVncFBvMkZ2TUM0WWpuaVdtMlF6enB4dUJqSVBELUhZMm1VaUh5bjBuc0xDOF9VVEpMbktMTnotLVFTdjBKdHoxRzVPMzJv?oc=5",
+        "date": "09/18 00:24"
       }
     ],
     "QCOM": [
@@ -1029,17 +1031,17 @@
       },
       {
         "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Shares Surge 3.3% -- What GF Score of 9",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDUyejd0bXJ5MXR3bWZKb2tkQmwtLXF5RDVWN0Q0Qnd5ZGtVVU80MWx1ZlRTWGc5ZTF2R19DeWZ4a0Z3Zk9vN2U1NmlLWjVUdHVCZ1hidDdWUUotQ3NDbE1YN0ZfOXlEMmVCWWVyVW1HczA4YzFReDFKY0d4NER6a3pNclZrdWdwdkpFSXMwak5ablJXTmNINC14d3luSThaeWl3dHZLLTVndDBSNWYwNUhTYw?oc=5",
-        "date": "09/19 06:32"
-      },
-      {
-        "type": "positive",
         "title": "Vertiv Stock Keeps Cooling Off. One Analyst Says a 100% Rally Is Coming",
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC01QWdmLTZwc1d3ckd1RmtGeUFYTW5FczQxbGlqc0ZOQVhmQ21TWDlFOHgyeGpqdTRnUjM2Nm16YUhxUUwwYzFVMFRTelhTSWQ5S2FZQ01aTmplSWl0MnMxUGV6U0FWXy02X25IREVlSU1zTjU1eERSSHdNbEFEeVVnSFVMdjVSWmpUNjVCT0VXd2c5VWpwUVVtal9oNUh4UHN6LXdwaERSYkFKcFVkZTE4WQ?oc=5",
         "date": "09/03 16:00"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv Holdings Co (VRT) Shares Surge 3.3% -- What GF Score of 9",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDUyejd0bXJ5MXR3bWZKb2tkQmwtLXF5RDVWN0Q0Qnd5ZGtVVU80MWx1ZlRTWGc5ZTF2R19DeWZ4a0Z3Zk9vN2U1NmlLWjVUdHVCZ1hidDdWUUotQ3NDbE1YN0ZfOXlEMmVCWWVyVW1HczA4YzFReDFKY0d4NER6a3pNclZrdWdwdkpFSXMwak5ablJXTmNINC14d3luSThaeWl3dHZLLTVndDBSNWYwNUhTYw?oc=5",
+        "date": "09/19 06:32"
       }
     ]
   }
