@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T21:56:02.815009+00:00",
+  "updatedAt": "2026-09-19T23:48:36.034709+00:00",
   "market": {
     "cards": [
       {
@@ -901,7 +901,7 @@
         "title": "Broadcom Stock (AVGO) Is Down despite AI Growth. I’m Bullish",
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMDlfQnQwNXVYWU5RazBza1JmUmNJS0Rmb1lFMG5FVUZUOEF2RU5NRmlKV0NBeXh0NHRZZ2pOckkxVmVHU2owMU5EU3cyVHdBNDVjSUJMT1Z1cHVtazE2YkExZ1NDcTdzdzJ6cnpZZVJnUTNrMHRRdG96V2JpUF8wZGQzV1c1U1Y0a0JZV2hKbw?oc=5",
-        "date": "09/17 22:29"
+        "date": "09/17 22:44"
       },
       {
         "type": "neutral",
@@ -913,7 +913,7 @@
       {
         "type": "neutral",
         "title": "Own Broadcom by Sept. 21 to Qualify for Its Sept. 30 Dividend. Here's How Many Shares You'd Need for $5,000 in Yearly Dividends.",
-        "publisher": "fool.com",
+        "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGkwTEw2QzN6bmJrR2dzcEl2cVV0eEtLdHdycTBTUF9kTkxsMHRPeTJVak5CWmlpNTNqUDZudlJ3QmRvUDdDZFhPV25BZXVmX1RLOGNTTUpmdDM0ZUE4ZWF0TXh6N0o2dW5lMFR3VzJDS0hLVFV5aUZSNnVWZG8xZjRzYTBqQVpwZDhZQlloUHRHTkFJaFQ0Sw?oc=5",
         "date": "09/18 17:45"
       },
@@ -929,7 +929,7 @@
       {
         "type": "neutral",
         "title": "$BE stock fell 4% this week. Here's what we see in our data.",
-        "publisher": "quiverquant.com",
+        "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXVwdExvRW9VaGo0ZjRUMXd6SjQzMGR0WVlRUnU3SlFLc0NpRVZtQzhMNHNkMlJEUWFYRXlIZDRVenVmWDd2b20xM3l1amxaSUVzTFRTbHgtQlg5R1cwdE5oX3NiWGQ1bS0zS0IzN2thbkFpZnZhU0xXMGlJOUlaVm9ub2tVcHpLMkpnUVE0TGhyZndrT2xWdnBoSGJRT1U?oc=5",
         "date": "09/20 01:37"
       },
@@ -988,17 +988,17 @@
     "QCOM": [
       {
         "type": "positive",
-        "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTW5NVi1wbzR2OVNhLVd4M2liT1cyUzJLTEJZcEpRTlpYOERaOFJ2bkNjYUFjYjE1dVZUTDByb1h4OEEwV25jTW83RkFPTjZiM0pFWlJWSTIwb3ZZQ3VBaF9OZ2d1MHhuQ01tcE1fM09pNlZyWkFZbHNQa1R2ZUljaG5xcThvekF5aTgwYXZzejdwREFEM0JFc3JwbWYxX1NHc0NTclBObnJUYVFHVE9oWVlmazRGUV9ETURWRnp5cVFFUmlZQ2pVZDV0TE0yVC1fX3B2ZXlpRjlOZ0k0dlR5Z0lMcG5mMEl0RXBn?oc=5",
-        "date": "09/20 03:30"
-      },
-      {
-        "type": "positive",
         "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjhMdWFTSjB2WWhTdDFTV250TWFOcDhMMnpVV3p2VnFNTlBEMW1aZHV4WEQ0VUhLMy1fMFE2aDYyTGJEZkxGNUJFV3pwNzM5YnJqX3NfVVZTMl8xM0RkdjVZYlZrcHN2Y1FnelVnYjNaN2x1SXdzNnRzaDY2ZHdQMWs3dmxheUJ4b1RvbDRZVWhDRExYTWc4?oc=5",
         "date": "09/19 02:58"
+      },
+      {
+        "type": "positive",
+        "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTW5NVi1wbzR2OVNhLVd4M2liT1cyUzJLTEJZcEpRTlpYOERaOFJ2bkNjYUFjYjE1dVZUTDByb1h4OEEwV25jTW83RkFPTjZiM0pFWlJWSTIwb3ZZQ3VBaF9OZ2d1MHhuQ01tcE1fM09pNlZyWkFZbHNQa1R2ZUljaG5xcThvekF5aTgwYXZzejdwREFEM0JFc3JwbWYxX1NHc0NTclBObnJUYVFHVE9oWVlmazRGUV9ETURWRnp5cVFFUmlZQ2pVZDV0TE0yVC1fX3B2ZXlpRjlOZ0k0dlR5Z0lMcG5mMEl0RXBn?oc=5",
+        "date": "09/20 03:30"
       },
       {
         "type": "neutral",
@@ -1031,18 +1031,18 @@
         "date": "09/15 16:11"
       },
       {
+        "type": "neutral",
+        "title": "Is Vertiv Holdings Co (VRT) Cheap Or Pricey As AI Infrastructure Hype Builds?",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT2prVTNDYTY1MVBrSVVWNzhBM1ZvOEVsdmtzWUJQcWk0ZGZsa2QtUWdySDBqV0ZwX1lCdmVQWTJYT0Nhb0dFeWR1OWVDcWdtQm1ZNFRLeDlkNlJJSTRjQjdpUFAtMGx2cVZ0eG1ic3RfbDkzZ2RxVmZMM0ltbW9jY2lHYmh4NVJVc3VMekJjcS12clVUTkZXWW50bUkyR1ZTMHlFZ1FCSlNZOTNycGZ5Ul93Vlh4MDlTYXV2ZklNOGtxMzh5WG51ZXpKclNJeWt0SzhyOENR0gHbAUFVX3lxTE95RGZsWngtOUFCUzBjc29oUWE4ZzRDSER4cE9ZQXJyTEhlVFplMGctUi1aR1I0OWMwOFlrVXkwXzZtQnpORlZ0R01RcU9wT2NqYk5ZSHpDemRZbmpucGdQb0Z1Tm8wV2lELS1aakd0eUY3Mi1HbERXOUNfd0tUd0p6d09hakMyODFuMmRxT2NSLTdBVUVSQWJ3cnVYSk9FVGhhMndTdnVqb09Hd29JeWhHc0xiVHdmSnVnLVV4S3A3cnQzd05qQ2d0cFVSbFdRVU4wZW1LU1BNT2VZaw?oc=5",
+        "date": "09/20 07:31"
+      },
+      {
         "type": "positive",
         "title": "Vertiv Stock Keeps Cooling Off. One Analyst Says a 100% Rally Is Coming",
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC01QWdmLTZwc1d3ckd1RmtGeUFYTW5FczQxbGlqc0ZOQVhmQ21TWDlFOHgyeGpqdTRnUjM2Nm16YUhxUUwwYzFVMFRTelhTSWQ5S2FZQ01aTmplSWl0MnMxUGV6U0FWXy02X25IREVlSU1zTjU1eERSSHdNbEFEeVVnSFVMdjVSWmpUNjVCT0VXd2c5VWpwUVVtal9oNUh4UHN6LXdwaERSYkFKcFVkZTE4WQ?oc=5",
         "date": "09/03 16:00"
-      },
-      {
-        "type": "negative",
-        "title": "Vertiv (VRT) Stock May Be Near Fair Value On Cash Flow",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaU1fa19LVV9ZbkJtcDFVUXpFZXNUd3hta1Q1Tnh4OWRaYVZ1dndBWjdINnVsMDhlZ3VGNS1GTnhYQXdkMkJfRVhOMGh3UkNCWWhhYjRqalAyZVdtZHZNYksyMmtfTmxKSjgyNC1HYlFfQWpGLU9qQTNjTUhEZnRsSXRicnV0M0NjMFdQT210U0F6UHNjdjNPNE41YWxScmxxLUQ3SjlGSmhYa0ZQTzNmaXQwSnFyWS1KWW9IajhfRTdDMlU0LXl5ZjhmUdIB0AFBVV95cUxPSTZCZElSd0xjejM0b3lVcUUzTTcySnhkOFdLX21zU0dheGpFOHNtT3JGODdRcFFPMnhQdWtHRzVxR3k0WmFjSXFKN0FsRWFPX1REaER3WDk5WmJqV3lEOFpjV2RzdS1Ub3FyX1NpT05WMG4xb193YndHaXY2Z2FsT25VUFhwejcwa2NuOXF4VVFzNVc0MUVxOVZpRU9NdDF4WFBpajNrWXZOWWNxdFFnMElWdnl0Z0ZfZ3RXUHg0ckdaVHlKU244NGdUZWxPUlZq?oc=5",
-        "date": "09/18 19:36"
       }
     ]
   }
