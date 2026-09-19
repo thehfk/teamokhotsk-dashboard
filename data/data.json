@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T17:35:23.235559+00:00",
+  "updatedAt": "2026-09-19T19:45:43.842818+00:00",
   "market": {
     "cards": [
       {
@@ -927,6 +927,13 @@
     ],
     "BE": [
       {
+        "type": "neutral",
+        "title": "$BE stock fell 4% this week. Here's what we see in our data.",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXVwdExvRW9VaGo0ZjRUMXd6SjQzMGR0WVlRUnU3SlFLc0NpRVZtQzhMNHNkMlJEUWFYRXlIZDRVenVmWDd2b20xM3l1amxaSUVzTFRTbHgtQlg5R1cwdE5oX3NiWGQ1bS0zS0IzN2thbkFpZnZhU0xXMGlJOUlaVm9ub2tVcHpLMkpnUVE0TGhyZndrT2xWdnBoSGJRT1U?oc=5",
+        "date": "09/20 01:37"
+      },
+      {
         "type": "positive",
         "title": "Bloom Energy (BE) Stock Trades Up, Here Is Why",
         "publisher": "Yahoo Finance",
@@ -946,13 +953,6 @@
         "publisher": "Stock Titan",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3lLRzRDdExUa2pwSFhBSnlBY2RlclZCQTBsWGg2eXBsRXBDUmhsQWtxbVZvY0pFVzhrRlJ0R2tJLXpaamRFd3cwUHphWEotb1pTRkJDX2RhZ21zSk42LUpjV29XbDVmZ25PUURtZDVFcmIwSk9DUjc5Ym9kUUFlcmhmbUdDTl9LYnJMWXJLSGhtdmdOaWx1Sk9abFBSMC1qMk9TUGdqX3U4c0hmSkZYOVhOY2Mtekhjb3RmMw?oc=5",
         "date": "09/19 04:49"
-      },
-      {
-        "type": "neutral",
-        "title": "Aman Joshi Sells 3,601 Shares of Bloom Energy (NYSE:BE) Stock",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHRnbFJkcVFNWlRSVlVmeXVsNzRaeUJtUjZXRWNkaFhfVGtaa0ROcGJucUJ2eTlCb0tDZUhYWkJKc01EWGd5a0YzdkZ0dGUzM0xpM3ZTYnVFRG11ZFZwbG9udFdZWXlXQlpZQzdaNWVweXU1d2owaFAwWTd4OC1iOVZRaVNkOTNvdmFOVkY3ZE9scDB1cFlwNVkxSUNLNXU4NEJ1ZDktYzc4VFduUTQtMmdMdEdueEpUQVhSNg?oc=5",
-        "date": "09/19 10:10"
       }
     ],
     "GOOGL": [
@@ -964,18 +964,11 @@
         "date": "09/18 20:44"
       },
       {
-        "type": "positive",
-        "title": "GOOGL Stock: Tigress Raises Price Target to Street-High $485, Keeps Strong Buy Rating",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzJGdzVkVFNZV3hoMjUtaG5uUUVUWGhHd28tQlF6RlM3cTZOckIyN3U1clNvRUtFcEJxSVVBb0huejBmTVc5OFVfVTFyQWduMHdKNl94SWVkcERQc1BXLW93MERVWWVoWlAyT0JEVnROenNBN0E3YlZBSkRZNU9uc0kzVkpZTWZWOUxhUEhXMThNVjJvd29YQUhRcWMxLTZncDMxcFJtN2ZvQ2ZodnY5bmRoN0M1S2pK?oc=5",
-        "date": "09/18 20:38"
-      },
-      {
         "type": "neutral",
-        "title": "Alphabet Stock Stays Flat - Ideal for GOOGL Short Put and Put Credit Spread Plays",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXRpRjlxWW9PZ2xTT0hraEVhbjNKd3RCaUp6MlFFSnpnTzFvakF0OThPSDhsdXFpVDBGeGx6anBQZWl0VlNldU42cXFyWGRvdFpYQnJVbHlzdmcwekRPRUt5WjNRWnhiNVFoVEt5Slo4ZUt1YXFkT0FuQjBLMmg1a19fN3cxdnd5c2FJcmlOUGNyTWo3azRjUGdVY2loUWtZUnBDUm1qZTBYamRGQkFGX2pOLTNVUnc3c1RNQ1QtNmQ?oc=5",
-        "date": "09/18 22:15"
+        "title": "Why Is Google Stock Rising in Premarket Trading Today, Sept. 18?",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnpyVnhIem1Ydzg0THlUc2hFLTZCQzFrVTFLZzBHRHNCb281ajBfU0x4djhEUWt6NEQ3bThHbGZ3WXVJeERyNlgyQ09Sbnh5bi1rOFR2UHhvZ05WVjI1WG02STJoUFI0aHlWbWJEWldNOVF5ZG5RNkoydm9hN3E4bU8wUVNnd0dicW43ZS1NdnRRNFpTZUE?oc=5",
+        "date": "09/18 20:18"
       },
       {
         "type": "negative",
@@ -983,6 +976,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTC04MkwxU3hMaVRTRmx3T2I5UXk2bVktQUJIRzJtZHRUNGpvMFVMSE9SME5MNDBUR0k5QkNQem50TTI1cVBySlJzaEpWdHNibWszWTdrNVhGT2Nhb01veWt5Y0g5MEpMYWU1TkdtS2FtNWZjVFlhaG9EdDVOZHhQcTBFNDRyMXNzT1RWemhybkRER0pWM2xQUE1TSHU?oc=5",
         "date": "09/19 03:43"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock Stays Flat - Ideal for GOOGL Short Put and Put Credit Spread Plays",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXRpRjlxWW9PZ2xTT0hraEVhbjNKd3RCaUp6MlFFSnpnTzFvakF0OThPSDhsdXFpVDBGeGx6anBQZWl0VlNldU42cXFyWGRvdFpYQnJVbHlzdmcwekRPRUt5WjNRWnhiNVFoVEt5Slo4ZUt1YXFkT0FuQjBLMmg1a19fN3cxdnd5c2FJcmlOUGNyTWo3azRjUGdVY2loUWtZUnBDUm1qZTBYamRGQkFGX2pOLTNVUnc3c1RNQ1QtNmQ?oc=5",
+        "date": "09/18 22:15"
       }
     ],
     "QCOM": [
@@ -992,6 +992,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjhMdWFTSjB2WWhTdDFTV250TWFOcDhMMnpVV3p2VnFNTlBEMW1aZHV4WEQ0VUhLMy1fMFE2aDYyTGJEZkxGNUJFV3pwNzM5YnJqX3NfVVZTMl8xM0RkdjVZYlZrcHN2Y1FnelVnYjNaN2x1SXdzNnRzaDY2ZHdQMWs3dmxheUJ4b1RvbDRZVWhDRExYTWc4?oc=5",
         "date": "09/19 02:58"
+      },
+      {
+        "type": "positive",
+        "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTW5NVi1wbzR2OVNhLVd4M2liT1cyUzJLTEJZcEpRTlpYOERaOFJ2bkNjYUFjYjE1dVZUTDByb1h4OEEwV25jTW83RkFPTjZiM0pFWlJWSTIwb3ZZQ3VBaF9OZ2d1MHhuQ01tcE1fM09pNlZyWkFZbHNQa1R2ZUljaG5xcThvekF5aTgwYXZzejdwREFEM0JFc3JwbWYxX1NHc0NTclBObnJUYVFHVE9oWVlmazRGUV9ETURWRnp5cVFFUmlZQ2pVZDV0TE0yVC1fX3B2ZXlpRjlOZ0k0dlR5Z0lMcG5mMEl0RXBn?oc=5",
+        "date": "09/20 03:30"
       },
       {
         "type": "neutral",
@@ -1006,16 +1013,16 @@
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmdwSmxlTml2a2V1UXpGVFZ2QjdJSm5tbHNucjBhbHY2NHhvdnBpMzZ4RzFzNkplQ1hCMjdWc01oRS1PcmhnNlp0ZzByNi1HR2ozRUw3UFdjNTJHcHdtM1o5bm1MUmprMTFaNGxnTlZRaV9CVWNvQ0trWmQ2b3NsZEs4TVptZHZaRXl6WlVXUjZtQWRuZ2ZjU0hzTThsUzJEN0YxRVExbi1tQld4RXNYZ3FYaHhKbWpYZDltcGxPQXZDRDBvNndrZnd2QWk3d9IB0wFBVV95cUxOVnh5OFhvZ282b1ZzdnY0cXpOcnBWcG4yS09tOEkxeV9DUEhyU1Q2aFhqRHd2dloyVW5rQV9RSm1JY1hybEphNXVYUHNSZ09ud2J6TkFsX1NJQ3dVeHg5V2pVUFpKYm5HVEZ1TFRKTE91UjBFcVp3SW80eEhqbmxaMDlocWU5Mzlucks3UjlxcGhxSXJ3OXdxY3BYWWc5ckRhUG5RT25SdHdpVnhJWDd4NG01S0syaTJQaW9tNEs5UjZkWjMyNmo3YmVpOE01N1ZxRG9r?oc=5",
         "date": "09/18 19:28"
-      },
-      {
-        "type": "negative",
-        "title": "SPY is down 0.5% today, on QCOM stock price movement",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTQ1bkY1SVZOWlBNaTdLakQzdWlIbl9sTW9ITDRPTF9wOVFqbU9IT29LUWF4dlliSGFOeGN6SEpvbVlxWjlEbzdkNVlObWFGVkZXMUhXVU1feXJBcHNZUnlPZDFMMVg4T3ZuS1A3OG5kTXhZa0FkX3pkM1J2QnAzTUdET2w5ZnBxNVhWaDl1bFJzaGs?oc=5",
-        "date": "09/19 01:15"
       }
     ],
     "VRT": [
+      {
+        "type": "neutral",
+        "title": "VRT Stock Price and Chart — NYSE:VRT",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jZ3RaVFFSS245VHJpYjZBa1JnS0lvOEp6OXBmV2U5NlZlbFdxVW5lVHlqV2pSUkVjeHVwQTZCTkNFTkM3RkdMVmxFb0pTSjd3UXNNU1JwNXg?oc=5",
+        "date": "09/15 18:56"
+      },
       {
         "type": "negative",
         "title": "Vertiv (VRT) Stock Stays Fairly Priced Following Its $2.6B AI Power Deal",
@@ -1036,13 +1043,6 @@
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC01QWdmLTZwc1d3ckd1RmtGeUFYTW5FczQxbGlqc0ZOQVhmQ21TWDlFOHgyeGpqdTRnUjM2Nm16YUhxUUwwYzFVMFRTelhTSWQ5S2FZQ01aTmplSWl0MnMxUGV6U0FWXy02X25IREVlSU1zTjU1eERSSHdNbEFEeVVnSFVMdjVSWmpUNjVCT0VXd2c5VWpwUVVtal9oNUh4UHN6LXdwaERSYkFKcFVkZTE4WQ?oc=5",
         "date": "09/03 16:00"
-      },
-      {
-        "type": "negative",
-        "title": "VRT Stock: Earn 11% Annualized, Or Buy In 40% Lower",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMF94M2Z0UU9ncEJJaUwtOHRpRm9VX2U4RHdKZmFoR3RObmVjOExmLVRZSmYyNWZOcEw5S0tQLV9WU0R3M3V3UkR1QW92WGRlcHlveXc1eWg2Q2g3WDdZUzNOdEw5R3RBUUJSU01QNkRrOVhYZ0h4blFEaUQ4RFZQY3JyeTdsTkhOU05nQjBKSm1UeTlQa2dWQUFQbXRuZjJhaDBuSUNHQU9EblQ0SWJBMjRva2Vtam8?oc=5",
-        "date": "09/17 19:01"
       }
     ]
   }
