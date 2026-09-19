@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T11:15:56.547683+00:00",
+  "updatedAt": "2026-09-19T14:34:06.831120+00:00",
   "market": {
     "cards": [
       {
@@ -905,10 +905,17 @@
       },
       {
         "type": "neutral",
-        "title": "Jim Cramer on Broadcom (AVGO): “The Stock May Be Too Cheap to Ignore”",
-        "publisher": "finance.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHVRZElnc0syLV80UHFDNExJV2RXcEFBcHk3cDI2aDlwSVRFR3pjaEczNXpCeGlVMjZQS0k3YTFzSDVJWjk1M19ZMnZ5YmhObU9DQlhUU1ZnSlAwcEtlTzg1TDFIeXc1ckhHYkZRaEpzbTFydGZ6NF83dzItdnZHemFVMlJoNXFFZ091ZExDLTlYUWVfN2NhM1B6SQ?oc=5",
-        "date": "09/18 06:42"
+        "title": "Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWlyVm1BS0JKLUtUSjZnM050ZnEtckxmN2IzY3JjTUxUTU04VXpBUE93RWs0VjdMOFp6TGIzanVQdldPZFk5ZVJQYmtna0JQQzlzWTRHY3hVN3hnUk5PSnFsbE9hdlcwQ1ZmODF2WFVEVmhscmFkcVd1ZlFrb1ZyT0hhN0VMOW95RVhCMlpCa1NyeExMVExJSVR4TTFweVJ2N0dqbA?oc=5",
+        "date": "09/18 22:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom: A New Buying Opportunity Emerged (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVEtVHhjMXh4a2lBSjZ2Wm9MeU5XdF9aRDk3V0JwTEFNVDBnU2ZrTkZGTFBhRGxOZGQ5M3FDeTZjdVNfVl9rLUJoWmI3TUpZb1JoZ0NjUzBXdGxyaE8xMWhOTm13Q2hTMmZodVpnM2JFeG5rek95OW9jQVFPR3p2czg2ZDNyREQyNFE?oc=5",
+        "date": "09/19 04:41"
       },
       {
         "type": "neutral",
@@ -916,16 +923,16 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGkwTEw2QzN6bmJrR2dzcEl2cVV0eEtLdHdycTBTUF9kTkxsMHRPeTJVak5CWmlpNTNqUDZudlJ3QmRvUDdDZFhPV25BZXVmX1RLOGNTTUpmdDM0ZUE4ZWF0TXh6N0o2dW5lMFR3VzJDS0hLVFV5aUZSNnVWZG8xZjRzYTBqQVpwZDhZQlloUHRHTkFJaFQ0Sw?oc=5",
         "date": "09/18 17:45"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know",
-        "publisher": "finance.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWlyVm1BS0JKLUtUSjZnM050ZnEtckxmN2IzY3JjTUxUTU04VXpBUE93RWs0VjdMOFp6TGIzanVQdldPZFk5ZVJQYmtna0JQQzlzWTRHY3hVN3hnUk5PSnFsbE9hdlcwQ1ZmODF2WFVEVmhscmFkcVd1ZlFrb1ZyT0hhN0VMOW95RVhCMlpCa1NyeExMVExJSVR4TTFweVJ2N0dqbA?oc=5",
-        "date": "09/18 22:00"
       }
     ],
     "BE": [
+      {
+        "type": "positive",
+        "title": "Bloom Energy (BE) Stock Trades Up, Here Is Why",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcENRUUdLb202a2Y2VVZOcUdjUURMeFdqamZ2bzNQcnlnMzBDbXBKTFFTb0MwRDMwSHVuUndMZ3hiV2RYaWI1QTJpMDFCSUVNdjM3ZlV1WUdwcnpoZUhFSHZteVl0RVVKOVJSNU1lUGhUdWc4ZEVIckZlZVVzY21oMjRydEJ0UmdnaFJnaWFWa2tDakZJb0FMN3pB?oc=5",
+        "date": "09/17 06:24"
+      },
       {
         "type": "positive",
         "title": "Bloom Energy Stock Jumps On This 'Meaningful' Data-Center Catalyst",
@@ -935,24 +942,17 @@
       },
       {
         "type": "neutral",
-        "title": "Are Oils-Energy Stocks Lagging Bloom Energy (BE) This Year?",
-        "publisher": "finance.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGtXLWtoM2RDS0cxQXJaX3lsdURHNEtEWEJpa3hMNi0yMVVqTDFwM0ZvdGVueFlrQWYxNk00TWVHNkNUanoxZmdRWVZSWkxZWmJJWFQ5aXFCODM0S2hpMWxtUy1Rcjl3YlhiazRLQ1NNWnl1RTQ2RUNwTU5FamdtT2tCRG1tSWFqYlU5ZFFuVkpBNUJidWpDZFdTS2l1Zw?oc=5",
-        "date": "09/18 22:40"
+        "title": "About 2,000 calls a year keep one Louisville station busy. Bloom backs its firefighters.",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3lLRzRDdExUa2pwSFhBSnlBY2RlclZCQTBsWGg2eXBsRXBDUmhsQWtxbVZvY0pFVzhrRlJ0R2tJLXpaamRFd3cwUHphWEotb1pTRkJDX2RhZ21zSk42LUpjV29XbDVmZ25PUURtZDVFcmIwSk9DUjc5Ym9kUUFlcmhmbUdDTl9LYnJMWXJLSGhtdmdOaWx1Sk9abFBSMC1qMk9TUGdqX3U4c0hmSkZYOVhOY2Mtekhjb3RmMw?oc=5",
+        "date": "09/19 04:49"
       },
       {
         "type": "neutral",
-        "title": "Should You Buy Bloom Energy Stock Before It Joins the S&P 500 on Sept. 21?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFZHcTYxenJEaHdGejEtaUVpOGJDb0NCWGVNQ2sxYmF5d2hQaF9lM2x2SExfSXZZWXBjZTBGWkozdlBTMFU4QXd5RXJlYmVLZkdQQnhfZFRTc2thMzk4dW5nNU5GZ0tQMGExZlE0V1dmSzN4UE95RmxEVE1fdHNGR3B2QWVWelJQMWhodXpHbDlxNDZTMUppLWlSQXdLRjFwQ2pvdnlUN2hWbHZERXR5d29fcnlSRnprUE1R?oc=5",
-        "date": "09/16 12:26"
-      },
-      {
-        "type": "neutral",
-        "title": "Here’s Why Bloom Energy Stock (BE) Is Rising Today, Sept. 17",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0wtUjJRT0JQMGpwQ0l1YWZ1Rk0zQ2EyWThHRkpGbGtCRElkdlZFMmh0NmlwS3FVWlJ4MXMtZWQzREFRUmkxeXI4NjBVSnhOMWhZSnlISkRZT1pBVVRSSjdLdTlvYUE1ZnVzRUZqTXFILWhYSXZ2NE5SWTlTUEVLUWxfc1J3cGJHbFQyU3ZB?oc=5",
-        "date": "09/18 11:09"
+        "title": "Aman Joshi Sells 3,601 Shares of Bloom Energy (NYSE:BE) Stock",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHRnbFJkcVFNWlRSVlVmeXVsNzRaeUJtUjZXRWNkaFhfVGtaa0ROcGJucUJ2eTlCb0tDZUhYWkJKc01EWGd5a0YzdkZ0dGUzM0xpM3ZTYnVFRG11ZFZwbG9udFdZWXlXQlpZQzdaNWVweXU1d2owaFAwWTd4OC1iOVZRaVNkOTNvdmFOVkY3ZE9scDB1cFlwNVkxSUNLNXU4NEJ1ZDktYzc4VFduUTQtMmdMdEdueEpUQVhSNg?oc=5",
+        "date": "09/19 10:10"
       }
     ],
     "GOOGL": [
@@ -971,21 +971,35 @@
         "date": "09/18 20:18"
       },
       {
+        "type": "negative",
+        "title": "Analyst Sets Jaw-Dropping Price Target on Alphabet Stock",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTC04MkwxU3hMaVRTRmx3T2I5UXk2bVktQUJIRzJtZHRUNGpvMFVMSE9SME5MNDBUR0k5QkNQem50TTI1cVBySlJzaEpWdHNibWszWTdrNVhGT2Nhb01veWt5Y0g5MEpMYWU1TkdtS2FtNWZjVFlhaG9EdDVOZHhQcTBFNDRyMXNzT1RWemhybkRER0pWM2xQUE1TSHU?oc=5",
+        "date": "09/19 03:43"
+      },
+      {
         "type": "neutral",
         "title": "Alphabet Stock Stays Flat - Ideal for GOOGL Short Put and Put Credit Spread Plays",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXRpRjlxWW9PZ2xTT0hraEVhbjNKd3RCaUp6MlFFSnpnTzFvakF0OThPSDhsdXFpVDBGeGx6anBQZWl0VlNldU42cXFyWGRvdFpYQnJVbHlzdmcwekRPRUt5WjNRWnhiNVFoVEt5Slo4ZUt1YXFkT0FuQjBLMmg1a19fN3cxdnd5c2FJcmlOUGNyTWo3azRjUGdVY2loUWtZUnBDUm1qZTBYamRGQkFGX2pOLTNVUnc3c1RNQ1QtNmQ?oc=5",
         "date": "09/18 22:15"
-      },
-      {
-        "type": "negative",
-        "title": "Analyst Sets Jaw-Dropping Price Target on Alphabet Stock",
-        "publisher": "finance.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTC04MkwxU3hMaVRTRmx3T2I5UXk2bVktQUJIRzJtZHRUNGpvMFVMSE9SME5MNDBUR0k5QkNQem50TTI1cVBySlJzaEpWdHNibWszWTdrNVhGT2Nhb01veWt5Y0g5MEpMYWU1TkdtS2FtNWZjVFlhaG9EdDVOZHhQcTBFNDRyMXNzT1RWemhybkRER0pWM2xQUE1TSHU?oc=5",
-        "date": "09/19 03:43"
       }
     ],
     "QCOM": [
+      {
+        "type": "positive",
+        "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjhMdWFTSjB2WWhTdDFTV250TWFOcDhMMnpVV3p2VnFNTlBEMW1aZHV4WEQ0VUhLMy1fMFE2aDYyTGJEZkxGNUJFV3pwNzM5YnJqX3NfVVZTMl8xM0RkdjVZYlZrcHN2Y1FnelVnYjNaN2x1SXdzNnRzaDY2ZHdQMWs3dmxheUJ4b1RvbDRZVWhDRExYTWc4?oc=5",
+        "date": "09/19 02:58"
+      },
+      {
+        "type": "negative",
+        "title": "SPY is down 0.5% today, on QCOM stock price movement",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTQ1bkY1SVZOWlBNaTdLakQzdWlIbl9sTW9ITDRPTF9wOVFqbU9IT29LUWF4dlliSGFOeGN6SEpvbVlxWjlEbzdkNVlObWFGVkZXMUhXVU1feXJBcHNZUnlPZDFMMVg4T3ZuS1A3OG5kTXhZa0FkX3pkM1J2QnAzTUdET2w5ZnBxNVhWaDl1bFJzaGs?oc=5",
+        "date": "09/19 01:15"
+      },
       {
         "type": "neutral",
         "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -999,36 +1013,15 @@
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmdwSmxlTml2a2V1UXpGVFZ2QjdJSm5tbHNucjBhbHY2NHhvdnBpMzZ4RzFzNkplQ1hCMjdWc01oRS1PcmhnNlp0ZzByNi1HR2ozRUw3UFdjNTJHcHdtM1o5bm1MUmprMTFaNGxnTlZRaV9CVWNvQ0trWmQ2b3NsZEs4TVptZHZaRXl6WlVXUjZtQWRuZ2ZjU0hzTThsUzJEN0YxRVExbi1tQld4RXNYZ3FYaHhKbWpYZDltcGxPQXZDRDBvNndrZnd2QWk3d9IB0wFBVV95cUxOVnh5OFhvZ282b1ZzdnY0cXpOcnBWcG4yS09tOEkxeV9DUEhyU1Q2aFhqRHd2dloyVW5rQV9RSm1JY1hybEphNXVYUHNSZ09ud2J6TkFsX1NJQ3dVeHg5V2pVUFpKYm5HVEZ1TFRKTE91UjBFcVp3SW80eEhqbmxaMDlocWU5Mzlucks3UjlxcGhxSXJ3OXdxY3BYWWc5ckRhUG5RT25SdHdpVnhJWDd4NG01S0syaTJQaW9tNEs5UjZkWjMyNmo3YmVpOE01N1ZxRG9r?oc=5",
         "date": "09/18 19:28"
-      },
-      {
-        "type": "negative",
-        "title": "Qualcomm Inc Stock (QCOM) Moved Down by 4.88% on Sep 18: Key Drivers Unveiled",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYndzVFVOLTBmUkRGNTRVLU5ZazZpaXhUUUZ6aEpjLXdEdDJ4RnI1c004b05KNHk3VEtCQkpoc2FSRllnLUhrNnhfcGp0ak5sRFpfZWFSdU9sUTU1YzNvMFVFbG1hT3U2ZmxUNFJ1OU9QTGRTelNwQTVKMFVtNHc1V21ZdjVZQi1aeVV3?oc=5",
-        "date": "09/19 00:15"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm now faces rival with bigger market cap",
-        "publisher": "finance.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUJ1VFdmQjVNYThFbVZjRDRGUGRsRklUQllrOFRWMHhfRmc2RzlFdlAxWVZISEFLdllIenJEN24tZE9wc2UxUFB0b0ZPYURFVU04N1cyME9wemdiWkl1OVktNTZ0VkZfdXktWEQzbWpFeXI2OFhqRTB0YmVkUVUwYWVfMWRsMDZJaUltUWp4Q202SnEtVjI4?oc=5",
-        "date": "09/17 03:33"
       }
     ],
     "VRT": [
       {
-        "type": "neutral",
-        "title": "Is Most-Watched Stock Vertiv Holdings Co. (VRT) Worth Betting on Now?",
-        "publisher": "finance.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2lUTHNVT3JaVWpCbmlheVRVRDRLLUV4NXoyODJWZTV3OGJPb19uelJOdzQwOThSOEpfNExraWYxNkRMdFlOS3ZEQ1otaGY4dEFpU1dhWThCdkpNQnFLN2VvMEpJSUd1cHhEV19KZVFFNkItNWpCRG9qbl9OM0d4R09rWEotS3FUYXNaM1JjaVQ0anNoekJMUTR2elk5aURK?oc=5",
-        "date": "09/18 22:00"
-      },
-      {
         "type": "negative",
-        "title": "Vertiv (VRT) Stock May Be Near Fair Value On Cash Flow",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaU1fa19LVV9ZbkJtcDFVUXpFZXNUd3hta1Q1Tnh4OWRaYVZ1dndBWjdINnVsMDhlZ3VGNS1GTnhYQXdkMkJfRVhOMGh3UkNCWWhhYjRqalAyZVdtZHZNYksyMmtfTmxKSjgyNC1HYlFfQWpGLU9qQTNjTUhEZnRsSXRicnV0M0NjMFdQT210U0F6UHNjdjNPNE41YWxScmxxLUQ3SjlGSmhYa0ZQTzNmaXQwSnFyWS1KWW9IajhfRTdDMlU0LXl5ZjhmUdIB0AFBVV95cUxPSTZCZElSd0xjejM0b3lVcUUzTTcySnhkOFdLX21zU0dheGpFOHNtT3JGODdRcFFPMnhQdWtHRzVxR3k0WmFjSXFKN0FsRWFPX1REaER3WDk5WmJqV3lEOFpjV2RzdS1Ub3FyX1NpT05WMG4xb193YndHaXY2Z2FsT25VUFhwejcwa2NuOXF4VVFzNVc0MUVxOVZpRU9NdDF4WFBpajNrWXZOWWNxdFFnMElWdnl0Z0ZfZ3RXUHg0ckdaVHlKU244NGdUZWxPUlZq?oc=5",
-        "date": "09/18 19:36"
+        "title": "Vertiv (VRT) Stock Stays Fairly Priced Following Its $2.6B AI Power Deal",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXloSW1IRzk3YWdra1pyQXhRb3gwcW9IMHFFQlI4amJxRUVwSkJkX1FvZDg4RmtlaHVXdkE3WWJTcDZ6YmJuOHRqc0tKSVZUMnpqQkF3cTAwUUJCVE14Q2RtQVUwQ0tMOUx5RnBaVzRWUDBXNXBOUzN2MVZoclFzeEk3MkhOZDhMcjBDMEdUSlRFOUpuamhNNHRB?oc=5",
+        "date": "09/15 16:11"
       },
       {
         "type": "positive",
@@ -1038,11 +1031,18 @@
         "date": "09/03 16:00"
       },
       {
-        "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Shares Surge 3.3% -- What GF Score of 9",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDUyejd0bXJ5MXR3bWZKb2tkQmwtLXF5RDVWN0Q0Qnd5ZGtVVU80MWx1ZlRTWGc5ZTF2R19DeWZ4a0Z3Zk9vN2U1NmlLWjVUdHVCZ1hidDdWUUotQ3NDbE1YN0ZfOXlEMmVCWWVyVW1HczA4YzFReDFKY0d4NER6a3pNclZrdWdwdkpFSXMwak5ablJXTmNINC14d3luSThaeWl3dHZLLTVndDBSNWYwNUhTYw?oc=5",
-        "date": "09/19 06:32"
+        "type": "negative",
+        "title": "Vertiv (VRT) Stock May Be Near Fair Value On Cash Flow",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaU1fa19LVV9ZbkJtcDFVUXpFZXNUd3hta1Q1Tnh4OWRaYVZ1dndBWjdINnVsMDhlZ3VGNS1GTnhYQXdkMkJfRVhOMGh3UkNCWWhhYjRqalAyZVdtZHZNYksyMmtfTmxKSjgyNC1HYlFfQWpGLU9qQTNjTUhEZnRsSXRicnV0M0NjMFdQT210U0F6UHNjdjNPNE41YWxScmxxLUQ3SjlGSmhYa0ZQTzNmaXQwSnFyWS1KWW9IajhfRTdDMlU0LXl5ZjhmUdIB0AFBVV95cUxPSTZCZElSd0xjejM0b3lVcUUzTTcySnhkOFdLX21zU0dheGpFOHNtT3JGODdRcFFPMnhQdWtHRzVxR3k0WmFjSXFKN0FsRWFPX1REaER3WDk5WmJqV3lEOFpjV2RzdS1Ub3FyX1NpT05WMG4xb193YndHaXY2Z2FsT25VUFhwejcwa2NuOXF4VVFzNVc0MUVxOVZpRU9NdDF4WFBpajNrWXZOWWNxdFFnMElWdnl0Z0ZfZ3RXUHg0ckdaVHlKU244NGdUZWxPUlZq?oc=5",
+        "date": "09/18 19:36"
+      },
+      {
+        "type": "negative",
+        "title": "VRT Stock: Earn 11% Annualized, Or Buy In 40% Lower",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMF94M2Z0UU9ncEJJaUwtOHRpRm9VX2U4RHdKZmFoR3RObmVjOExmLVRZSmYyNWZOcEw5S0tQLV9WU0R3M3V3UkR1QW92WGRlcHlveXc1eWg2Q2g3WDdZUzNOdEw5R3RBUUJSU01QNkRrOVhYZ0h4blFEaUQ4RFZQY3JyeTdsTkhOU05nQjBKSm1UeTlQa2dWQUFQbXRuZjJhaDBuSUNHQU9EblQ0SWJBMjRva2Vtam8?oc=5",
+        "date": "09/17 19:01"
       }
     ]
   }
