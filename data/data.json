@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T14:34:06.831120+00:00",
+  "updatedAt": "2026-09-19T17:35:23.235559+00:00",
   "market": {
     "cards": [
       {
@@ -905,13 +905,6 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWlyVm1BS0JKLUtUSjZnM050ZnEtckxmN2IzY3JjTUxUTU04VXpBUE93RWs0VjdMOFp6TGIzanVQdldPZFk5ZVJQYmtna0JQQzlzWTRHY3hVN3hnUk5PSnFsbE9hdlcwQ1ZmODF2WFVEVmhscmFkcVd1ZlFrb1ZyT0hhN0VMOW95RVhCMlpCa1NyeExMVExJSVR4TTFweVJ2N0dqbA?oc=5",
-        "date": "09/18 22:00"
-      },
-      {
-        "type": "neutral",
         "title": "Broadcom: A New Buying Opportunity Emerged (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVEtVHhjMXh4a2lBSjZ2Wm9MeU5XdF9aRDk3V0JwTEFNVDBnU2ZrTkZGTFBhRGxOZGQ5M3FDeTZjdVNfVl9rLUJoWmI3TUpZb1JoZ0NjUzBXdGxyaE8xMWhOTm13Q2hTMmZodVpnM2JFeG5rek95OW9jQVFPR3p2czg2ZDNyREQyNFE?oc=5",
@@ -923,6 +916,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGkwTEw2QzN6bmJrR2dzcEl2cVV0eEtLdHdycTBTUF9kTkxsMHRPeTJVak5CWmlpNTNqUDZudlJ3QmRvUDdDZFhPV25BZXVmX1RLOGNTTUpmdDM0ZUE4ZWF0TXh6N0o2dW5lMFR3VzJDS0hLVFV5aUZSNnVWZG8xZjRzYTBqQVpwZDhZQlloUHRHTkFJaFQ0Sw?oc=5",
         "date": "09/18 17:45"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWlyVm1BS0JKLUtUSjZnM050ZnEtckxmN2IzY3JjTUxUTU04VXpBUE93RWs0VjdMOFp6TGIzanVQdldPZFk5ZVJQYmtna0JQQzlzWTRHY3hVN3hnUk5PSnFsbE9hdlcwQ1ZmODF2WFVEVmhscmFkcVd1ZlFrb1ZyT0hhN0VMOW95RVhCMlpCa1NyeExMVExJSVR4TTFweVJ2N0dqbA?oc=5",
+        "date": "09/18 22:00"
       }
     ],
     "BE": [
@@ -964,18 +964,11 @@
         "date": "09/18 20:44"
       },
       {
-        "type": "neutral",
-        "title": "Why Is Google Stock Rising in Premarket Trading Today, Sept. 18?",
+        "type": "positive",
+        "title": "GOOGL Stock: Tigress Raises Price Target to Street-High $485, Keeps Strong Buy Rating",
         "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnpyVnhIem1Ydzg0THlUc2hFLTZCQzFrVTFLZzBHRHNCb281ajBfU0x4djhEUWt6NEQ3bThHbGZ3WXVJeERyNlgyQ09Sbnh5bi1rOFR2UHhvZ05WVjI1WG02STJoUFI0aHlWbWJEWldNOVF5ZG5RNkoydm9hN3E4bU8wUVNnd0dicW43ZS1NdnRRNFpTZUE?oc=5",
-        "date": "09/18 20:18"
-      },
-      {
-        "type": "negative",
-        "title": "Analyst Sets Jaw-Dropping Price Target on Alphabet Stock",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTC04MkwxU3hMaVRTRmx3T2I5UXk2bVktQUJIRzJtZHRUNGpvMFVMSE9SME5MNDBUR0k5QkNQem50TTI1cVBySlJzaEpWdHNibWszWTdrNVhGT2Nhb01veWt5Y0g5MEpMYWU1TkdtS2FtNWZjVFlhaG9EdDVOZHhQcTBFNDRyMXNzT1RWemhybkRER0pWM2xQUE1TSHU?oc=5",
-        "date": "09/19 03:43"
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzJGdzVkVFNZV3hoMjUtaG5uUUVUWGhHd28tQlF6RlM3cTZOckIyN3U1clNvRUtFcEJxSVVBb0huejBmTVc5OFVfVTFyQWduMHdKNl94SWVkcERQc1BXLW93MERVWWVoWlAyT0JEVnROenNBN0E3YlZBSkRZNU9uc0kzVkpZTWZWOUxhUEhXMThNVjJvd29YQUhRcWMxLTZncDMxcFJtN2ZvQ2ZodnY5bmRoN0M1S2pK?oc=5",
+        "date": "09/18 20:38"
       },
       {
         "type": "neutral",
@@ -983,6 +976,13 @@
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXRpRjlxWW9PZ2xTT0hraEVhbjNKd3RCaUp6MlFFSnpnTzFvakF0OThPSDhsdXFpVDBGeGx6anBQZWl0VlNldU42cXFyWGRvdFpYQnJVbHlzdmcwekRPRUt5WjNRWnhiNVFoVEt5Slo4ZUt1YXFkT0FuQjBLMmg1a19fN3cxdnd5c2FJcmlOUGNyTWo3azRjUGdVY2loUWtZUnBDUm1qZTBYamRGQkFGX2pOLTNVUnc3c1RNQ1QtNmQ?oc=5",
         "date": "09/18 22:15"
+      },
+      {
+        "type": "negative",
+        "title": "Analyst Sets Jaw-Dropping Price Target on Alphabet Stock",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTC04MkwxU3hMaVRTRmx3T2I5UXk2bVktQUJIRzJtZHRUNGpvMFVMSE9SME5MNDBUR0k5QkNQem50TTI1cVBySlJzaEpWdHNibWszWTdrNVhGT2Nhb01veWt5Y0g5MEpMYWU1TkdtS2FtNWZjVFlhaG9EdDVOZHhQcTBFNDRyMXNzT1RWemhybkRER0pWM2xQUE1TSHU?oc=5",
+        "date": "09/19 03:43"
       }
     ],
     "QCOM": [
@@ -992,13 +992,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjhMdWFTSjB2WWhTdDFTV250TWFOcDhMMnpVV3p2VnFNTlBEMW1aZHV4WEQ0VUhLMy1fMFE2aDYyTGJEZkxGNUJFV3pwNzM5YnJqX3NfVVZTMl8xM0RkdjVZYlZrcHN2Y1FnelVnYjNaN2x1SXdzNnRzaDY2ZHdQMWs3dmxheUJ4b1RvbDRZVWhDRExYTWc4?oc=5",
         "date": "09/19 02:58"
-      },
-      {
-        "type": "negative",
-        "title": "SPY is down 0.5% today, on QCOM stock price movement",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTQ1bkY1SVZOWlBNaTdLakQzdWlIbl9sTW9ITDRPTF9wOVFqbU9IT29LUWF4dlliSGFOeGN6SEpvbVlxWjlEbzdkNVlObWFGVkZXMUhXVU1feXJBcHNZUnlPZDFMMVg4T3ZuS1A3OG5kTXhZa0FkX3pkM1J2QnAzTUdET2w5ZnBxNVhWaDl1bFJzaGs?oc=5",
-        "date": "09/19 01:15"
       },
       {
         "type": "neutral",
@@ -1013,6 +1006,13 @@
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmdwSmxlTml2a2V1UXpGVFZ2QjdJSm5tbHNucjBhbHY2NHhvdnBpMzZ4RzFzNkplQ1hCMjdWc01oRS1PcmhnNlp0ZzByNi1HR2ozRUw3UFdjNTJHcHdtM1o5bm1MUmprMTFaNGxnTlZRaV9CVWNvQ0trWmQ2b3NsZEs4TVptZHZaRXl6WlVXUjZtQWRuZ2ZjU0hzTThsUzJEN0YxRVExbi1tQld4RXNYZ3FYaHhKbWpYZDltcGxPQXZDRDBvNndrZnd2QWk3d9IB0wFBVV95cUxOVnh5OFhvZ282b1ZzdnY0cXpOcnBWcG4yS09tOEkxeV9DUEhyU1Q2aFhqRHd2dloyVW5rQV9RSm1JY1hybEphNXVYUHNSZ09ud2J6TkFsX1NJQ3dVeHg5V2pVUFpKYm5HVEZ1TFRKTE91UjBFcVp3SW80eEhqbmxaMDlocWU5Mzlucks3UjlxcGhxSXJ3OXdxY3BYWWc5ckRhUG5RT25SdHdpVnhJWDd4NG01S0syaTJQaW9tNEs5UjZkWjMyNmo3YmVpOE01N1ZxRG9r?oc=5",
         "date": "09/18 19:28"
+      },
+      {
+        "type": "negative",
+        "title": "SPY is down 0.5% today, on QCOM stock price movement",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTQ1bkY1SVZOWlBNaTdLakQzdWlIbl9sTW9ITDRPTF9wOVFqbU9IT29LUWF4dlliSGFOeGN6SEpvbVlxWjlEbzdkNVlObWFGVkZXMUhXVU1feXJBcHNZUnlPZDFMMVg4T3ZuS1A3OG5kTXhZa0FkX3pkM1J2QnAzTUdET2w5ZnBxNVhWaDl1bFJzaGs?oc=5",
+        "date": "09/19 01:15"
       }
     ],
     "VRT": [
@@ -1024,18 +1024,18 @@
         "date": "09/15 16:11"
       },
       {
-        "type": "positive",
-        "title": "Vertiv Stock Keeps Cooling Off. One Analyst Says a 100% Rally Is Coming",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC01QWdmLTZwc1d3ckd1RmtGeUFYTW5FczQxbGlqc0ZOQVhmQ21TWDlFOHgyeGpqdTRnUjM2Nm16YUhxUUwwYzFVMFRTelhTSWQ5S2FZQ01aTmplSWl0MnMxUGV6U0FWXy02X25IREVlSU1zTjU1eERSSHdNbEFEeVVnSFVMdjVSWmpUNjVCT0VXd2c5VWpwUVVtal9oNUh4UHN6LXdwaERSYkFKcFVkZTE4WQ?oc=5",
-        "date": "09/03 16:00"
-      },
-      {
         "type": "negative",
         "title": "Vertiv (VRT) Stock May Be Near Fair Value On Cash Flow",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaU1fa19LVV9ZbkJtcDFVUXpFZXNUd3hta1Q1Tnh4OWRaYVZ1dndBWjdINnVsMDhlZ3VGNS1GTnhYQXdkMkJfRVhOMGh3UkNCWWhhYjRqalAyZVdtZHZNYksyMmtfTmxKSjgyNC1HYlFfQWpGLU9qQTNjTUhEZnRsSXRicnV0M0NjMFdQT210U0F6UHNjdjNPNE41YWxScmxxLUQ3SjlGSmhYa0ZQTzNmaXQwSnFyWS1KWW9IajhfRTdDMlU0LXl5ZjhmUdIB0AFBVV95cUxPSTZCZElSd0xjejM0b3lVcUUzTTcySnhkOFdLX21zU0dheGpFOHNtT3JGODdRcFFPMnhQdWtHRzVxR3k0WmFjSXFKN0FsRWFPX1REaER3WDk5WmJqV3lEOFpjV2RzdS1Ub3FyX1NpT05WMG4xb193YndHaXY2Z2FsT25VUFhwejcwa2NuOXF4VVFzNVc0MUVxOVZpRU9NdDF4WFBpajNrWXZOWWNxdFFnMElWdnl0Z0ZfZ3RXUHg0ckdaVHlKU244NGdUZWxPUlZq?oc=5",
         "date": "09/18 19:36"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv Stock Keeps Cooling Off. One Analyst Says a 100% Rally Is Coming",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC01QWdmLTZwc1d3ckd1RmtGeUFYTW5FczQxbGlqc0ZOQVhmQ21TWDlFOHgyeGpqdTRnUjM2Nm16YUhxUUwwYzFVMFRTelhTSWQ5S2FZQ01aTmplSWl0MnMxUGV6U0FWXy02X25IREVlSU1zTjU1eERSSHdNbEFEeVVnSFVMdjVSWmpUNjVCT0VXd2c5VWpwUVVtal9oNUh4UHN6LXdwaERSYkFKcFVkZTE4WQ?oc=5",
+        "date": "09/03 16:00"
       },
       {
         "type": "negative",
