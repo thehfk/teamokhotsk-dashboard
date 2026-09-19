@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T01:20:02.183340+00:00",
+  "updatedAt": "2026-09-19T06:07:14.809177+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.95,
-        "change": 0.47
+        "value": 1385.0,
+        "change": 0.4
       },
       {
         "name": "KOSPI",
@@ -39,8 +39,8 @@
       },
       {
         "name": "KOSDAQ",
-        "value": 822.18,
-        "change": 0.76
+        "value": 827.12,
+        "change": 0.6
       }
     ],
     "groups": [
@@ -668,7 +668,7 @@
               1363.57,
               1376.6,
               1379.53,
-              1385.95
+              1385.0
             ]
           }
         ]
@@ -879,7 +879,8 @@
               806.79,
               812.41,
               815.98,
-              822.18
+              822.18,
+              827.12
             ]
           }
         ]
@@ -888,10 +889,10 @@
   },
   "rsi": {
     "AVGO": 42.7,
-    "BE": 69.6,
+    "BE": 66.2,
     "GOOGL": 52.3,
     "QCOM": 62.2,
-    "VRT": 39.5
+    "VRT": 47.0
   },
   "news": {
     "AVGO": [
@@ -905,7 +906,7 @@
       {
         "type": "neutral",
         "title": "Jim Cramer on Broadcom (AVGO): “The Stock May Be Too Cheap to Ignore”",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHVRZElnc0syLV80UHFDNExJV2RXcEFBcHk3cDI2aDlwSVRFR3pjaEczNXpCeGlVMjZQS0k3YTFzSDVJWjk1M19ZMnZ5YmhObU9DQlhUU1ZnSlAwcEtlTzg1TDFIeXc1ckhHYkZRaEpzbTFydGZ6NF83dzItdnZHemFVMlJoNXFFZ091ZExDLTlYUWVfN2NhM1B6SQ?oc=5",
         "date": "09/18 06:42"
       },
@@ -919,7 +920,7 @@
       {
         "type": "neutral",
         "title": "Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWlyVm1BS0JKLUtUSjZnM050ZnEtckxmN2IzY3JjTUxUTU04VXpBUE93RWs0VjdMOFp6TGIzanVQdldPZFk5ZVJQYmtna0JQQzlzWTRHY3hVN3hnUk5PSnFsbE9hdlcwQ1ZmODF2WFVEVmhscmFkcVd1ZlFrb1ZyT0hhN0VMOW95RVhCMlpCa1NyeExMVExJSVR4TTFweVJ2N0dqbA?oc=5",
         "date": "09/18 22:00"
       }
@@ -935,7 +936,7 @@
       {
         "type": "neutral",
         "title": "Are Oils-Energy Stocks Lagging Bloom Energy (BE) This Year?",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGtXLWtoM2RDS0cxQXJaX3lsdURHNEtEWEJpa3hMNi0yMVVqTDFwM0ZvdGVueFlrQWYxNk00TWVHNkNUanoxZmdRWVZSWkxZWmJJWFQ5aXFCODM0S2hpMWxtUy1Rcjl3YlhiazRLQ1NNWnl1RTQ2RUNwTU5FamdtT2tCRG1tSWFqYlU5ZFFuVkpBNUJidWpDZFdTS2l1Zw?oc=5",
         "date": "09/18 22:40"
       },
@@ -978,17 +979,17 @@
       },
       {
         "type": "negative",
-        "title": "Is GOOGL Stock Amplifying A Risk You Already Own?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDVESkNwVHdBR0gwVE13SGtXdDhldXN4cm5EM281ZUxJSG90UDE3TUdSNnNvdHQ5bTBHeGkzVU5hWWlFNFVwVEhrd1JNWFJGcnZneGhZU3p6VkpPdV9vZDJpcnJqWkdTTkVncFBvMkZ2TUM0WWpuaVdtMlF6enB4dUJqSVBELUhZMm1VaUh5bjBuc0xDOF9VVEpMbktMTnotLVFTdjBKdHoxRzVPMzJv?oc=5",
-        "date": "09/18 00:24"
+        "title": "Analyst Sets Jaw-Dropping Price Target on Alphabet Stock",
+        "publisher": "finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTC04MkwxU3hMaVRTRmx3T2I5UXk2bVktQUJIRzJtZHRUNGpvMFVMSE9SME5MNDBUR0k5QkNQem50TTI1cVBySlJzaEpWdHNibWszWTdrNVhGT2Nhb01veWt5Y0g5MEpMYWU1TkdtS2FtNWZjVFlhaG9EdDVOZHhQcTBFNDRyMXNzT1RWemhybkRER0pWM2xQUE1TSHU?oc=5",
+        "date": "09/19 03:43"
       }
     ],
     "QCOM": [
       {
         "type": "neutral",
         "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3M5eFNtcFFHdjg0SS12N0lXQXVSWkZtNXh3bnN5eS1KbXdYbzdUR3RCX2pHNGNjbWlfWXNiTUlFd1FJYndPSURrcWhjWnViV1cyM3paVXVUQ1Z2Yll2UnRlYXdHR2FGM3c0M0x3UjFEckxSaVpXS2kwZXNlLUJhcVVRbkowd1NPTEx4UEpubDhEQ3p1bllUcm9ITmdsdl9sT3lWUWV3cHNwYTB3?oc=5",
         "date": "09/18 23:02"
       },
@@ -1002,14 +1003,14 @@
       {
         "type": "negative",
         "title": "Qualcomm Inc Stock (QCOM) Moved Down by 4.88% on Sep 18: Key Drivers Unveiled",
-        "publisher": "TradingKey",
+        "publisher": "tradingkey.com",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYndzVFVOLTBmUkRGNTRVLU5ZazZpaXhUUUZ6aEpjLXdEdDJ4RnI1c004b05KNHk3VEtCQkpoc2FSRllnLUhrNnhfcGp0ak5sRFpfZWFSdU9sUTU1YzNvMFVFbG1hT3U2ZmxUNFJ1OU9QTGRTelNwQTVKMFVtNHc1V21ZdjVZQi1aeVV3?oc=5",
         "date": "09/19 00:15"
       },
       {
         "type": "neutral",
         "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHRKV01vTjBSMktXTll3RlV4dUI4azdpRC1vSEs3ZEt4MjVmY0pJdnpKZ0RsOWQ1cDZ2SmRxQWFmMDNkZnZ1eXdUaDhwcWRxbnRCUHRySFhlNHNNWlhvZnAya1AtU0xsRU1NNW1LT3NwT25TT3VCMXFjM1doeUZtb0tUMUhWTkQwbnFVLXZnUmxzSEpjSXl3bmVoX0tiUQ?oc=5",
         "date": "09/17 11:11"
       }
@@ -1018,7 +1019,7 @@
       {
         "type": "neutral",
         "title": "Is Most-Watched Stock Vertiv Holdings Co. (VRT) Worth Betting on Now?",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2lUTHNVT3JaVWpCbmlheVRVRDRLLUV4NXoyODJWZTV3OGJPb19uelJOdzQwOThSOEpfNExraWYxNkRMdFlOS3ZEQ1otaGY4dEFpU1dhWThCdkpNQnFLN2VvMEpJSUd1cHhEV19KZVFFNkItNWpCRG9qbl9OM0d4R09rWEotS3FUYXNaM1JjaVQ0anNoekJMUTR2elk5aURK?oc=5",
         "date": "09/18 22:00"
       },
