@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T21:41:49.730676+00:00",
+  "updatedAt": "2026-09-20T23:42:23.446369+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1384.6,
-        "change": 0.37
+        "value": 1385.63,
+        "change": 0.44
       },
       {
         "name": "KOSPI",
@@ -601,8 +601,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1525.42,
-              1537.56,
               1531.33,
               1539.05,
               1535.25,
@@ -668,7 +666,7 @@
               1363.57,
               1376.6,
               1379.53,
-              1384.6
+              1385.63
             ]
           }
         ]
@@ -905,6 +903,13 @@
       },
       {
         "type": "neutral",
+        "title": "Broadcom: 5 Reasons To Buy This Dip (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNamI3dUlLVkRQbTNsQTVNSXpNUElkbnZPaThmWmFvNFd2LS1Kb2Z2SVVlbGZIZzRXNXdTQnE3Y0gwLUF0by1TWHNwYk5icWtpN05ZejFncXR1alZodlhZbm9TaERFOFN2OTJpMnZ3cnJybVFsWGpNeEdVQUlEbjM5OA?oc=5",
+        "date": "09/20 21:53"
+      },
+      {
+        "type": "neutral",
         "title": "Jim Cramer on Broadcom (AVGO): “The Stock May Be Too Cheap to Ignore”",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHVRZElnc0syLV80UHFDNExJV2RXcEFBcHk3cDI2aDlwSVRFR3pjaEczNXpCeGlVMjZQS0k3YTFzSDVJWjk1M19ZMnZ5YmhObU9DQlhUU1ZnSlAwcEtlTzg1TDFIeXc1ckhHYkZRaEpzbTFydGZ6NF83dzItdnZHemFVMlJoNXFFZ091ZExDLTlYUWVfN2NhM1B6SQ?oc=5",
@@ -916,13 +921,6 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGkwTEw2QzN6bmJrR2dzcEl2cVV0eEtLdHdycTBTUF9kTkxsMHRPeTJVak5CWmlpNTNqUDZudlJ3QmRvUDdDZFhPV25BZXVmX1RLOGNTTUpmdDM0ZUE4ZWF0TXh6N0o2dW5lMFR3VzJDS0hLVFV5aUZSNnVWZG8xZjRzYTBqQVpwZDhZQlloUHRHTkFJaFQ0Sw?oc=5",
         "date": "09/18 17:45"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom CEO Hock Tan Says He Isn’t Worried – ‘No, Not in the Least’ – About AVGO as AI Extinction Fears Rattle Stocks",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdlFoaXUwYWFuOFpsbHZWQkZSMVBJTmxkX0pNd2xzNFpqeWdMVTdNLWRrVks4aDBXcmxYcUhzVHVqa2xBUG56aE9SVno4aDRGckJaNDVWbWFZQ3ltQWdnRWwyR1pVamQ0QmRfUWdVSzAtQmVtZnRNcm50TkNFNjNvU2FXUVBpTW1leG1pZm1EMzNfSnQycllJNDlrRGJNUlY2SmxkdTUtSlVpdENDb1RuQS0walBoOVNFNHcwUnlWYjVCRWQ0Sm9SdUc4a0tYYkFYZnpIeXhSa1BEQlp2ZFY2SXJIaUFVc2J1MXc?oc=5",
-        "date": "09/17 23:54"
       }
     ],
     "BE": [
@@ -972,17 +970,17 @@
       },
       {
         "type": "negative",
-        "title": "Is GOOGL Stock Amplifying A Risk You Already Own?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDVESkNwVHdBR0gwVE13SGtXdDhldXN4cm5EM281ZUxJSG90UDE3TUdSNnNvdHQ5bTBHeGkzVU5hWWlFNFVwVEhrd1JNWFJGcnZneGhZU3p6VkpPdV9vZDJpcnJqWkdTTkVncFBvMkZ2TUM0WWpuaVdtMlF6enB4dUJqSVBELUhZMm1VaUh5bjBuc0xDOF9VVEpMbktMTnotLVFTdjBKdHoxRzVPMzJv?oc=5",
-        "date": "09/18 00:24"
-      },
-      {
-        "type": "negative",
         "title": "GOOGL Down 7% in the Past 3 Months: Buy, Sell or Hold the Stock?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ3hnM2FScWxJUC05X0V0WUxhUExlemFmd1pqLWFLTTRjUXpYSnBHTTZvY0VxamtuaWJZTlJuVExjN2pZdXV1bVdwcEw1UXVmXzUzNll6am05UWJXMVh3SEkxLVZZWGl2OWk3UmVCcW9KcXk4djQ2MXFGNjBSOXNST3JCc2dLTWZJcC1NRw?oc=5",
         "date": "09/18 00:34"
+      },
+      {
+        "type": "negative",
+        "title": "Is GOOGL Stock Amplifying A Risk You Already Own?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDVESkNwVHdBR0gwVE13SGtXdDhldXN4cm5EM281ZUxJSG90UDE3TUdSNnNvdHQ5bTBHeGkzVU5hWWlFNFVwVEhrd1JNWFJGcnZneGhZU3p6VkpPdV9vZDJpcnJqWkdTTkVncFBvMkZ2TUM0WWpuaVdtMlF6enB4dUJqSVBELUhZMm1VaUh5bjBuc0xDOF9VVEpMbktMTnotLVFTdjBKdHoxRzVPMzJv?oc=5",
+        "date": "09/18 00:24"
       }
     ],
     "QCOM": [
@@ -1001,27 +999,27 @@
         "date": "09/20 03:30"
       },
       {
-        "type": "neutral",
-        "title": "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWxyRHBWTHQ1MTBvTUlKLWNvajJ1RlpJUUJNcHlZM1hTYTJPV2d5NlpuSF8yZ21nMVM3VlNzbUUwMkJTYUNjdF9BRlZZZXFVU2hCYnI0c1RNOGRXY3ZXbmR5cF9jT0FQQk9mdDBNNm5MeXczU2xuYmx5bFJqR1dXS2o4SmtrRnRzUmVHRnlISy1pbmd4RG5kRVV5U081dm51R09BREp4dVBKYTh1NjdPZjBKSzlIZWFLTFh0dVFTaGkycGVm?oc=5",
-        "date": "09/21 04:28"
-      },
-      {
         "type": "positive",
         "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
         "publisher": "StockStory",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkFvSjhJckloYTJiNXVyZVIzTmZhU0pMaHRsUUNObDYyU2dXZ2hfbGdwWUJWWGJkMWlWeklQaWFqd3YtT1hrRVZnSVBxd2xOckI0c0JpTmZoMTI5UU5PdWp0ZmY0X3RaNlhvamZHdFpySDVCVENZeXFzUDczWEtFZ21sZXoyZkctU01JNnlRM0JtbGFXUmJyZkhsdlNPZHFBMjJ5SmpqU01jcU0?oc=5",
         "date": "09/16 01:15"
+      },
+      {
+        "type": "neutral",
+        "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3M5eFNtcFFHdjg0SS12N0lXQXVSWkZtNXh3bnN5eS1KbXdYbzdUR3RCX2pHNGNjbWlfWXNiTUlFd1FJYndPSURrcWhjWnViV1cyM3paVXVUQ1Z2Yll2UnRlYXdHR2FGM3c0M0x3UjFEckxSaVpXS2kwZXNlLUJhcVVRbkowd1NPTEx4UEpubDhEQ3p1bllUcm9ITmdsdl9sT3lWUWV3cHNwYTB3?oc=5",
+        "date": "09/18 23:02"
       }
     ],
     "VRT": [
       {
         "type": "negative",
-        "title": "Vertiv (VRT) Stock Stays Fairly Priced Following Its $2.6B AI Power Deal",
+        "title": "Vertiv Plunges 20% in Three Months: Buy, Sell, or Hold the Stock?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXloSW1IRzk3YWdra1pyQXhRb3gwcW9IMHFFQlI4amJxRUVwSkJkX1FvZDg4RmtlaHVXdkE3WWJTcDZ6YmJuOHRqc0tKSVZUMnpqQkF3cTAwUUJCVE14Q2RtQVUwQ0tMOUx5RnBaVzRWUDBXNXBOUzN2MVZoclFzeEk3MkhOZDhMcjBDMEdUSlRFOUpuamhNNHRB?oc=5",
-        "date": "09/15 16:11"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHZDTzJVeDZQOVJLLThCOC1pS241VTFHRWdNMUNjMlRCNkNVQi1CWWNjcGFJNjY5SU5WRlRVWGM2RnJJNWZUVk5vcnROV2U2NmY0SkZyRWZRWWx3SVZaMHNyV2pHX2ZyYzNXMC1ZR0FvdEw5UURvSmd6cU5XRjBQS1dlUVlsSXN0NzB4cXlaVGdKUHBfdEY1Vmx4TQ?oc=5",
+        "date": "09/01 16:00"
       },
       {
         "type": "positive",
