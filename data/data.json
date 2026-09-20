@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T19:11:07.763076+00:00",
+  "updatedAt": "2026-09-20T21:41:49.730676+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.95,
-        "change": 0.47
+        "value": 1384.6,
+        "change": 0.37
       },
       {
         "name": "KOSPI",
@@ -668,7 +668,7 @@
               1363.57,
               1376.6,
               1379.53,
-              1385.95
+              1384.6
             ]
           }
         ]
@@ -934,11 +934,11 @@
         "date": "09/20 17:16"
       },
       {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Stock Looks Cheap As Its 17x Three Year Run Continues",
+        "type": "positive",
+        "title": "Bloom Energy (BE) Stock Trades Up, Here Is Why",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjFCSmZfXzRWMnhCOWtHejZKMThSR3BfemNONGc0aUpjQ0RjX2d3UkszeWw0YzRURFVUcGVhWWtaU2hKbmtEZ3hYVDRyYTN1MGhmS2lvUGx4WnVFM0hCS1NVZlFjUTRQTWp4bHB1YnB4TXNEeC14NUg4MGt6cTZKUzBhczY2YkZnRlAyd2xKMXBSMXBoMzN2NHJjaw?oc=5",
-        "date": "09/16 04:19"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcENRUUdLb202a2Y2VVZOcUdjUURMeFdqamZ2bzNQcnlnMzBDbXBKTFFTb0MwRDMwSHVuUndMZ3hiV2RYaWI1QTJpMDFCSUVNdjM3ZlV1WUdwcnpoZUhFSHZteVl0RVVKOVJSNU1lUGhUdWc4ZEVIckZlZVVzY21oMjRydEJ0UmdnaFJnaWFWa2tDakZJb0FMN3pB?oc=5",
+        "date": "09/17 06:24"
       },
       {
         "type": "positive",
@@ -950,7 +950,7 @@
       {
         "type": "neutral",
         "title": "$BE stock fell 4% this week. Here's what we see in our data.",
-        "publisher": "quiverquant.com",
+        "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXVwdExvRW9VaGo0ZjRUMXd6SjQzMGR0WVlRUnU3SlFLc0NpRVZtQzhMNHNkMlJEUWFYRXlIZDRVenVmWDd2b20xM3l1amxaSUVzTFRTbHgtQlg5R1cwdE5oX3NiWGQ1bS0zS0IzN2thbkFpZnZhU0xXMGlJOUlaVm9ub2tVcHpLMkpnUVE0TGhyZndrT2xWdnBoSGJRT1U?oc=5",
         "date": "09/20 01:37"
       }
@@ -987,13 +987,6 @@
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
-        "date": "09/20 09:38"
-      },
-      {
         "type": "positive",
         "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
         "publisher": "Yahoo Finance",
@@ -1006,6 +999,13 @@
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTW5NVi1wbzR2OVNhLVd4M2liT1cyUzJLTEJZcEpRTlpYOERaOFJ2bkNjYUFjYjE1dVZUTDByb1h4OEEwV25jTW83RkFPTjZiM0pFWlJWSTIwb3ZZQ3VBaF9OZ2d1MHhuQ01tcE1fM09pNlZyWkFZbHNQa1R2ZUljaG5xcThvekF5aTgwYXZzejdwREFEM0JFc3JwbWYxX1NHc0NTclBObnJUYVFHVE9oWVlmazRGUV9ETURWRnp5cVFFUmlZQ2pVZDV0TE0yVC1fX3B2ZXlpRjlOZ0k0dlR5Z0lMcG5mMEl0RXBn?oc=5",
         "date": "09/20 03:30"
+      },
+      {
+        "type": "neutral",
+        "title": "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWxyRHBWTHQ1MTBvTUlKLWNvajJ1RlpJUUJNcHlZM1hTYTJPV2d5NlpuSF8yZ21nMVM3VlNzbUUwMkJTYUNjdF9BRlZZZXFVU2hCYnI0c1RNOGRXY3ZXbmR5cF9jT0FQQk9mdDBNNm5MeXczU2xuYmx5bFJqR1dXS2o4SmtrRnRzUmVHRnlISy1pbmd4RG5kRVV5U081dm51R09BREp4dVBKYTh1NjdPZjBKSzlIZWFLTFh0dVFTaGkycGVm?oc=5",
+        "date": "09/21 04:28"
       },
       {
         "type": "positive",
