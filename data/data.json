@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T23:42:23.446369+00:00",
+  "updatedAt": "2026-09-21T02:20:30.886300+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1385.63,
-        "change": 0.44
+        "value": 1385.02,
+        "change": 0.4
       },
       {
         "name": "KOSPI",
-        "value": 6894.23,
-        "change": 2.66
+        "value": 6982.92,
+        "change": 1.29
       },
       {
         "name": "KOSDAQ",
-        "value": 827.12,
-        "change": 0.6
+        "value": 835.27,
+        "change": 0.99
       }
     ],
     "groups": [
@@ -666,7 +666,7 @@
               1363.57,
               1376.6,
               1379.53,
-              1385.63
+              1385.02
             ]
           }
         ]
@@ -674,8 +674,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "06/18",
-          "06/19",
           "06/22",
           "06/23",
           "06/24",
@@ -738,14 +736,13 @@
           "09/15",
           "09/16",
           "09/17",
-          "09/18"
+          "09/18",
+          "09/21"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              9063.84,
-              9052.42,
               9114.55,
               8203.84,
               8471.02,
@@ -808,14 +805,13 @@
               6627.26,
               6717.97,
               6715.41,
-              6894.23
+              6894.23,
+              6982.92
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              1000.93,
-              966.59,
               968.4,
               891.52,
               909.31,
@@ -878,7 +874,8 @@
               812.41,
               815.98,
               822.18,
-              827.12
+              827.12,
+              835.27
             ]
           }
         ]
@@ -894,13 +891,6 @@
   },
   "news": {
     "AVGO": [
-      {
-        "type": "positive",
-        "title": "Broadcom Stock (AVGO) Is Down despite AI Growth. I’m Bullish",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMDlfQnQwNXVYWU5RazBza1JmUmNJS0Rmb1lFMG5FVUZUOEF2RU5NRmlKV0NBeXh0NHRZZ2pOckkxVmVHU2owMU5EU3cyVHdBNDVjSUJMT1Z1cHVtazE2YkExZ1NDcTdzdzJ6cnpZZVJnUTNrMHRRdG96V2JpUF8wZGQzV1c1U1Y0a0JZV2hKbw?oc=5",
-        "date": "09/17 22:29"
-      },
       {
         "type": "neutral",
         "title": "Broadcom: 5 Reasons To Buy This Dip (NASDAQ:AVGO)",
@@ -921,13 +911,20 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGkwTEw2QzN6bmJrR2dzcEl2cVV0eEtLdHdycTBTUF9kTkxsMHRPeTJVak5CWmlpNTNqUDZudlJ3QmRvUDdDZFhPV25BZXVmX1RLOGNTTUpmdDM0ZUE4ZWF0TXh6N0o2dW5lMFR3VzJDS0hLVFV5aUZSNnVWZG8xZjRzYTBqQVpwZDhZQlloUHRHTkFJaFQ0Sw?oc=5",
         "date": "09/18 17:45"
+      },
+      {
+        "type": "neutral",
+        "title": "What Is Going on With Broadcom Stock on Friday?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHlPdElTV1F5RjB5RjhDZ2RPaXFFbXdWY3pxVWh3dnNtZGxDQml1STdSOHF3NDRXM3R2cUdveUlTS2dHQkRPd1VTc1QyM0xBbmFDRzliTmRTM2xyNnR2RGkxb2lpSXg5bUxGYzc1SW1UR3lCdS1rRlhxYnIzZnhSWkRmdnkwUzFuZmcybkpqeWFRU0cyLWoyY1NvVF9kUXJqX0NndFU0dUk?oc=5",
+        "date": "09/19 00:41"
       }
     ],
     "BE": [
       {
         "type": "positive",
         "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
-        "publisher": "Stocktwits",
+        "publisher": "stocktwits.com",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
         "date": "09/20 17:16"
       },
@@ -939,18 +936,18 @@
         "date": "09/17 06:24"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy Stock Jumps On This 'Meaningful' Data-Center Catalyst",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXNoM05GdVJUQXB0eUdMWHREVDBHaE1pZ1ZrOTJSMGdiQVVuZXlZQnNFZ2g0U0tsUjA3YW9uemdMMXZHeUsyOW1mYlI0c1h2Y3BRTnRJa1R3ZS1wc0RJdjBGUHNLZ0NJa3lfTllLck04bEkxZloyeU1UbGwwOWEyZUVCcHVYSHkxVXdYbm5RTzdLLUZQY3c?oc=5",
-        "date": "09/17 05:21"
-      },
-      {
         "type": "neutral",
         "title": "$BE stock fell 4% this week. Here's what we see in our data.",
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXVwdExvRW9VaGo0ZjRUMXd6SjQzMGR0WVlRUnU3SlFLc0NpRVZtQzhMNHNkMlJEUWFYRXlIZDRVenVmWDd2b20xM3l1amxaSUVzTFRTbHgtQlg5R1cwdE5oX3NiWGQ1bS0zS0IzN2thbkFpZnZhU0xXMGlJOUlaVm9ub2tVcHpLMkpnUVE0TGhyZndrT2xWdnBoSGJRT1U?oc=5",
         "date": "09/20 01:37"
+      },
+      {
+        "type": "neutral",
+        "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
+        "publisher": "stocktwits.com",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1dVakhMTW5XX1Y5R3FrUk1jaGpwSG0xSzFkNW5BV1RKNGNZa2xoWGM2ajJmaktvVHhFVzdFaVJZcjNYc0tVRFdlS0JZNUYtaG5QeXRpMlBEOGVXb2lSUUprSVBoOUcxNnd4UjIxOUVWRnoxaTV3ZG0xVE40eVZJMjdHZUFtbkJ6MWo2MUFkMnN0ZEtBdGhMeGxPLW9hc3pJQUtzQXNRcVhPLUxCQnpJaDJQX2MwcU5nQ0N5N2tPRGpsS0ZmM3dBd2xXd2RrcUQ0Z3pubTI1QlZOdDJDZW1Hby1ISDBsRVN0b2xTblp4OVo0OU1KWFg0?oc=5",
+        "date": "09/20 19:57"
       }
     ],
     "GOOGL": [
@@ -964,7 +961,7 @@
       {
         "type": "neutral",
         "title": "Alphabet Stock Stays Flat - Ideal for GOOGL Short Put and Put Credit Spread Plays",
-        "publisher": "Barchart.com",
+        "publisher": "barchart.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXRpRjlxWW9PZ2xTT0hraEVhbjNKd3RCaUp6MlFFSnpnTzFvakF0OThPSDhsdXFpVDBGeGx6anBQZWl0VlNldU42cXFyWGRvdFpYQnJVbHlzdmcwekRPRUt5WjNRWnhiNVFoVEt5Slo4ZUt1YXFkT0FuQjBLMmg1a19fN3cxdnd5c2FJcmlOUGNyTWo3azRjUGdVY2loUWtZUnBDUm1qZTBYamRGQkFGX2pOLTNVUnc3c1RNQ1QtNmQ?oc=5",
         "date": "09/18 22:15"
       },
@@ -994,16 +991,9 @@
       {
         "type": "positive",
         "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-        "publisher": "Barchart.com",
+        "publisher": "barchart.com",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTW5NVi1wbzR2OVNhLVd4M2liT1cyUzJLTEJZcEpRTlpYOERaOFJ2bkNjYUFjYjE1dVZUTDByb1h4OEEwV25jTW83RkFPTjZiM0pFWlJWSTIwb3ZZQ3VBaF9OZ2d1MHhuQ01tcE1fM09pNlZyWkFZbHNQa1R2ZUljaG5xcThvekF5aTgwYXZzejdwREFEM0JFc3JwbWYxX1NHc0NTclBObnJUYVFHVE9oWVlmazRGUV9ETURWRnp5cVFFUmlZQ2pVZDV0TE0yVC1fX3B2ZXlpRjlOZ0k0dlR5Z0lMcG5mMEl0RXBn?oc=5",
         "date": "09/20 03:30"
-      },
-      {
-        "type": "positive",
-        "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
-        "publisher": "StockStory",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkFvSjhJckloYTJiNXVyZVIzTmZhU0pMaHRsUUNObDYyU2dXZ2hfbGdwWUJWWGJkMWlWeklQaWFqd3YtT1hrRVZnSVBxd2xOckI0c0JpTmZoMTI5UU5PdWp0ZmY0X3RaNlhvamZHdFpySDVCVENZeXFzUDczWEtFZ21sZXoyZkctU01JNnlRM0JtbGFXUmJyZkhsdlNPZHFBMjJ5SmpqU01jcU0?oc=5",
-        "date": "09/16 01:15"
       },
       {
         "type": "neutral",
@@ -1011,6 +1001,13 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3M5eFNtcFFHdjg0SS12N0lXQXVSWkZtNXh3bnN5eS1KbXdYbzdUR3RCX2pHNGNjbWlfWXNiTUlFd1FJYndPSURrcWhjWnViV1cyM3paVXVUQ1Z2Yll2UnRlYXdHR2FGM3c0M0x3UjFEckxSaVpXS2kwZXNlLUJhcVVRbkowd1NPTEx4UEpubDhEQ3p1bllUcm9ITmdsdl9sT3lWUWV3cHNwYTB3?oc=5",
         "date": "09/18 23:02"
+      },
+      {
+        "type": "positive",
+        "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
+        "publisher": "StockStory",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkFvSjhJckloYTJiNXVyZVIzTmZhU0pMaHRsUUNObDYyU2dXZ2hfbGdwWUJWWGJkMWlWeklQaWFqd3YtT1hrRVZnSVBxd2xOckI0c0JpTmZoMTI5UU5PdWp0ZmY0X3RaNlhvamZHdFpySDVCVENZeXFzUDczWEtFZ21sZXoyZkctU01JNnlRM0JtbGFXUmJyZkhsdlNPZHFBMjJ5SmpqU01jcU0?oc=5",
+        "date": "09/16 01:15"
       }
     ],
     "VRT": [
