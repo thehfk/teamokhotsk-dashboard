@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-21T20:03:25.553956+00:00",
+  "updatedAt": "2026-09-21T23:25:29.685135+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7764.76,
+        "value": 7764.7,
         "change": 1.49
       },
       {
@@ -14,13 +14,13 @@
       },
       {
         "name": "다우존스",
-        "value": 52049.54,
+        "value": 52048.83,
         "change": 0.71
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.85,
-        "change": 0.27
+        "value": 14.87,
+        "change": 0.41
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1374.84,
-        "change": -0.72
+        "value": 1374.53,
+        "change": -0.75
       },
       {
         "name": "KOSPI",
@@ -179,7 +179,7 @@
               7551.81,
               7637.76,
               7650.5,
-              7764.76
+              7764.7
             ]
           },
           {
@@ -317,7 +317,7 @@
               51461.9,
               51778.04,
               51682.64,
-              52049.54
+              52048.83
             ]
           }
         ]
@@ -459,7 +459,7 @@
               17.71,
               15.44,
               14.81,
-              14.85
+              14.87
             ]
           }
         ]
@@ -671,7 +671,7 @@
               1376.6,
               1379.53,
               1384.86,
-              1374.84
+              1374.53
             ]
           }
         ]
@@ -902,6 +902,13 @@
       },
       {
         "type": "neutral",
+        "title": "‘Prepare for What’s Coming,’ Says Top Analyst About Broadcom Stock",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHpGbGRrQW1zbHMtLVZVRHdyR1BvNEdxOW9XTGwzYmlfYXRtel84MkE1M1N5bzdGRk9NTzI1SFBad09qbnBXR01Za3FGMEMzOWlOdXFKQU9YU3kzQWdKaDFDbVNKUXFTbTRRSWprUXVWT1lkOVRwYnhTTmR4R1o4WnpmaDY0R0JOVEs5UWhNWUZZT3FUZm1J?oc=5",
+        "date": "09/22 03:13"
+      },
+      {
+        "type": "neutral",
         "title": "Broadcom: 5 Reasons To Buy This Dip (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNamI3dUlLVkRQbTNsQTVNSXpNUElkbnZPaThmWmFvNFd2LS1Kb2Z2SVVlbGZIZzRXNXdTQnE3Y0gwLUF0by1TWHNwYk5icWtpN05ZejFncXR1alZodlhZbm9TaERFOFN2OTJpMnZ3cnJybVFsWGpNeEdVQUlEbjM5OA?oc=5",
@@ -909,20 +916,20 @@
       },
       {
         "type": "neutral",
-        "title": "Own Broadcom by Sept. 21 to Qualify for Its Sept. 30 Dividend. Here's How Many Shares You'd Need for $5,000 in Yearly Dividends.",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGkwTEw2QzN6bmJrR2dzcEl2cVV0eEtLdHdycTBTUF9kTkxsMHRPeTJVak5CWmlpNTNqUDZudlJ3QmRvUDdDZFhPV25BZXVmX1RLOGNTTUpmdDM0ZUE4ZWF0TXh6N0o2dW5lMFR3VzJDS0hLVFV5aUZSNnVWZG8xZjRzYTBqQVpwZDhZQlloUHRHTkFJaFQ0Sw?oc=5",
-        "date": "09/18 17:45"
-      },
-      {
-        "type": "neutral",
-        "title": "What Is Going on With Broadcom Stock on Friday?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHlPdElTV1F5RjB5RjhDZ2RPaXFFbXdWY3pxVWh3dnNtZGxDQml1STdSOHF3NDRXM3R2cUdveUlTS2dHQkRPd1VTc1QyM0xBbmFDRzliTmRTM2xyNnR2RGkxb2lpSXg5bUxGYzc1SW1UR3lCdS1rRlhxYnIzZnhSWkRmdnkwUzFuZmcybkpqeWFRU0cyLWoyY1NvVF9kUXJqX0NndFU0dUk?oc=5",
-        "date": "09/19 00:41"
+        "title": "Broadcom’s AI Opportunity Is Bigger Than Its Stock Price Suggests",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2pURTBBV2xtb1dCZnpDa0kzM01kUEhvdWwyaGc5UDc0Y19tcHVzRjB3ejN3ZVJsaUh0NTBycVR4Ujk5TmU0YTdLWGdSZXJyeF9CSk9zWms4N2NWblhzQ1lIb2ZLcG8xaEJBd19uaG1kQkNPMUl3Z1FsVEVqMHlvXzVEWk1qVGFUbVViOWRwRXBPUGdSOVBYQlVJcFJIQi0zaU1j?oc=5",
+        "date": "09/22 00:30"
       }
     ],
     "BE": [
+      {
+        "type": "neutral",
+        "title": "Why Bloom Energy (BE) Outpaced the Stock Market Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTNuQjNrWkFlTVFZaXVMc2JFTzJvQ20yZHFKZlMxREQzeUpEZnNvVVk0eE1MSDFtLTdTTUlrV05GY2VJUlJrd3ZaaWpjWjNRRVR0cUFqSElSWGxQdkhad1lJYjZnMHpIQ1VhVkFJVVFaTmdfcW9PSDExeTE2YjlURVF5czYzN2dXS0pUNXdGMExOajZwam1GejdlbVE?oc=5",
+        "date": "09/22 07:00"
+      },
       {
         "type": "neutral",
         "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
@@ -939,27 +946,13 @@
       },
       {
         "type": "positive",
-        "title": "Bloom Energy (BE) Stock Trades Up, Here Is Why",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcENRUUdLb202a2Y2VVZOcUdjUURMeFdqamZ2bzNQcnlnMzBDbXBKTFFTb0MwRDMwSHVuUndMZ3hiV2RYaWI1QTJpMDFCSUVNdjM3ZlV1WUdwcnpoZUhFSHZteVl0RVVKOVJSNU1lUGhUdWc4ZEVIckZlZVVzY21oMjRydEJ0UmdnaFJnaWFWa2tDakZJb0FMN3pB?oc=5",
-        "date": "09/17 06:24"
-      },
-      {
-        "type": "neutral",
-        "title": "Can Bloom Energy Pop the Top Off AI’s Massive Energy Bottleneck?",
+        "title": "Bloom Energy (NYSE:BE) Stock Price Up 3% - What's Next?",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3hFSC1fUjMwWGtPTVFYd2F1TkQ2OGR1Y2g5SjBtb3BhOXFnNXdVcDQ4djQwQW9MUXhmd3F6UFBUMndrOHpaZFVaSURBdXV1M1ZjVjBneklzX2pEanhSUkl5ZThyZEEyQXJkajE0Tno3ZG9vQlppOXdpX19xdnc2TTF1NEJVb0RNcW5ETUdYM010WHFZSTE5Q25sZWZNalVE?oc=5",
-        "date": "09/22 02:51"
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ280TGJob3lvRGZHdjh4MWduR0dJOFJ6SzJyTTNwVFBqV2x4ZXF5cUxtM203SnNFcGZ3bDc4Qm5DaFZIWXFySTctemhJSHgxbTMybmhTelRTQ3BhU0doaGlGVTduQTBjbnlmOEF5a1JMLVhudDRsQWxiY2p1MEdEWU9iSHYwSmtybl9qVU45bjRVb3kzUzFUTjVkMkxJYVJ5OGVoRXVIZEl1UE1s?oc=5",
+        "date": "09/22 06:28"
       }
     ],
     "GOOGL": [
-      {
-        "type": "neutral",
-        "title": "Here's How Google Advertising Antitrust Ruling Could Play Out",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUp6YTh5NFlLR1BtOXJsdkFwaXlzX3V6S2xfeTN1U3RLYkI1ZHVlTjNsN2phTTBVblBaaUpSQzRyalFkdXhaeGtRQ1BQSEhta0JWUkhzSV9xWWpsa2lacDhvQWhHS1QtSG9rcC1KTUdaV09Oa2E5ekxidWszNDNkTGRoclA1RWVxUmxIMFYzLWEydzVpaXlIYndXVkdEMTJoVFRZ?oc=5",
-        "date": "09/18 20:44"
-      },
       {
         "type": "positive",
         "title": "Alphabet Stock Surges as Google Search Makes a Major Comeback",
@@ -968,27 +961,34 @@
         "date": "09/21 21:28"
       },
       {
-        "type": "neutral",
-        "title": "What's Going On With Alphabet Stock Today?",
-        "publisher": "benzinga.com",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQXBRSy13RHRDcWFtZUxOdk5fOWtUdl9PY3NpaTRRaHotUXR4dkJ1ODdIX2E0eW82b3hYbFFidFdqR2tpVGdlYVB4RzVQbEoza2dwWjVTQ1huMnJOZVR3ZGUxaWJBYndLMVU1d0VlSzV5c1ZZR3BTVl9BZWhYWEpfV1FObUplWDJkSmhGbmJSX2VQcGRXTGJORDRWUmI0YnR1a3NIUkF3?oc=5",
-        "date": "09/21 23:21"
+        "type": "negative",
+        "title": "Is GOOGL Stock Amplifying A Risk You Already Own?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDVESkNwVHdBR0gwVE13SGtXdDhldXN4cm5EM281ZUxJSG90UDE3TUdSNnNvdHQ5bTBHeGkzVU5hWWlFNFVwVEhrd1JNWFJGcnZneGhZU3p6VkpPdV9vZDJpcnJqWkdTTkVncFBvMkZ2TUM0WWpuaVdtMlF6enB4dUJqSVBELUhZMm1VaUh5bjBuc0xDOF9VVEpMbktMTnotLVFTdjBKdHoxRzVPMzJv?oc=5",
+        "date": "09/18 00:24"
+      },
+      {
+        "type": "positive",
+        "title": "GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDlyaGhHM3ZsRWFsaEJZU0VjY0xJOGg3bjJfUnhneTRWdV9JVmpqaXNQVlpoWldZeDl4TUNfdUhCU1hlRmJraWNEXzhFc19HZHJKVnBVOEU5SXlvR2lUcGNpTkxRRmMzRDJPMXRMbWxiTzhiUlJ1dGlTM0NMdWZEQUNVcloyakJlTDlDdlJCSHhtQnZuN1lWNVJjQ0xDRVM1VERSbnlZLVNUTnd1cEZTVXltSHZyMjQ1djdTVUdoRkUybjNOOXpJelloVnJwYzZDRWZrOGtmd0lHWmpFdmc?oc=5",
+        "date": "09/19 04:43"
       },
       {
         "type": "neutral",
-        "title": "Alphabet Stock Stays Flat - Ideal for GOOGL Short Put and Put Credit Spread Plays",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXRpRjlxWW9PZ2xTT0hraEVhbjNKd3RCaUp6MlFFSnpnTzFvakF0OThPSDhsdXFpVDBGeGx6anBQZWl0VlNldU42cXFyWGRvdFpYQnJVbHlzdmcwekRPRUt5WjNRWnhiNVFoVEt5Slo4ZUt1YXFkT0FuQjBLMmg1a19fN3cxdnd5c2FJcmlOUGNyTWo3azRjUGdVY2loUWtZUnBDUm1qZTBYamRGQkFGX2pOLTNVUnc3c1RNQ1QtNmQ?oc=5",
-        "date": "09/18 22:15"
+        "title": "What's Going On With Alphabet Stock Today?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQXBRSy13RHRDcWFtZUxOdk5fOWtUdl9PY3NpaTRRaHotUXR4dkJ1ODdIX2E0eW82b3hYbFFidFdqR2tpVGdlYVB4RzVQbEoza2dwWjVTQ1huMnJOZVR3ZGUxaWJBYndLMVU1d0VlSzV5c1ZZR3BTVl9BZWhYWEpfV1FObUplWDJkSmhGbmJSX2VQcGRXTGJORDRWUmI0YnR1a3NIUkF3?oc=5",
+        "date": "09/21 23:21"
       }
     ],
     "QCOM": [
       {
-        "type": "positive",
-        "title": "QCOM Stock Inches Higher After Worst Drop In Three Months: Traders Eye Snapdragon Summit For Cues",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTZwYTJTNDBjeTl5SkF5dDRjcGFsR21RTVp3Z0kxV2l4aXpWU2tXMTJnTUtOTzlTMmxDcGNpaFN5ei0xOElaTlpUMEFsTmdLTFFtNV9Ra1duRVpsT19hRE9CcUpfWlJ4dFRCb281M2g0eE5vcmZkOFpoY1ZPY21ydmFqMGlfRXNRbHhoM0tzeUZoTDd3amQ5aGpTUQ?oc=5",
-        "date": "09/21 18:05"
+        "type": "neutral",
+        "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUpzZmdUYXJBdEVhdjd4eF83bFUtYUtxUnZXa1N1Rk1iMzY2R0dWcHVFczNiR3JqeVQ1enEwemp5Yms0SFdNZkNXWE1WSnIwZ3pnUDNwd3ladWFncGJQQzNJR3dPVjVlQ1BGcHUyOHVtMU9Mem90bzJ0dWh3V29vVS1iMFVISl8zSGJpZ2lDMUFiQmdzME5RSVJvY1JhZ1M1Slg2SmdiNjRVaFlJc0RrQTVZM2hKUzFqLW8wWEZUbw?oc=5",
+        "date": "09/22 02:05"
       },
       {
         "type": "neutral",
@@ -998,11 +998,11 @@
         "date": "09/21 21:42"
       },
       {
-        "type": "neutral",
-        "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUpzZmdUYXJBdEVhdjd4eF83bFUtYUtxUnZXa1N1Rk1iMzY2R0dWcHVFczNiR3JqeVQ1enEwemp5Yms0SFdNZkNXWE1WSnIwZ3pnUDNwd3ladWFncGJQQzNJR3dPVjVlQ1BGcHUyOHVtMU9Mem90bzJ0dWh3V29vVS1iMFVISl8zSGJpZ2lDMUFiQmdzME5RSVJvY1JhZ1M1Slg2SmdiNjRVaFlJc0RrQTVZM2hKUzFqLW8wWEZUbw?oc=5",
-        "date": "09/22 02:05"
+        "type": "positive",
+        "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjhMdWFTSjB2WWhTdDFTV250TWFOcDhMMnpVV3p2VnFNTlBEMW1aZHV4WEQ0VUhLMy1fMFE2aDYyTGJEZkxGNUJFV3pwNzM5YnJqX3NfVVZTMl8xM0RkdjVZYlZrcHN2Y1FnelVnYjNaN2x1SXdzNnRzaDY2ZHdQMWs3dmxheUJ4b1RvbDRZVWhDRExYTWc4?oc=5",
+        "date": "09/19 02:58"
       },
       {
         "type": "positive",
@@ -1015,31 +1015,31 @@
     "VRT": [
       {
         "type": "positive",
+        "title": "Why Is Vertiv Stock Up Sharply Over The Past Year Yet Well Below Its Peak?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWZOQTVmbVhDMVZ6ODlmZllJRUExbXp4alBWaU0yaHdWMFE3V3p1RE1OM3dsTnptMUhzek5MMnBKOUVuV1MxUXkxSlhMSVA2R0ZONjY5V2g4ZUVZMGxpT0czR0ZDYXUweGJDMTBadTJuV1NoWWVhRHJZWTc1Z1JxSHFjLUJ0d0dKMFdvNmJ4TERJNFVra3ZLQ1BpdThITDF6STE1cExZbU1OMnQzZ2dWR09ROVpNc29lSXo2ekh0ekRta2g1RWdTY3VqcGZhQQ?oc=5",
+        "date": "09/22 05:22"
+      },
+      {
+        "type": "positive",
         "title": "Vertiv Holdings Co-A (NYSE:VRT): An Affordable Growth Case Backed by Strong Profitability",
         "publisher": "ChartMill",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0dtTWdxYXpFdlNJc0VlcGZSTF9ycWRMYUZ4aElSNnZfZTM2NEt6TE9xaDlzOUZrcHpXcC0zOHNjM1p2Qk5NVDdKc19zemhncnZPOXFqZC1XNEZGNm5GRE9IU3dESGdnYzZQdlhZMGxHR24ybmxWdUtBZDFENUxQQjg5Ym02YmJOTHlWdXFnV3dHNXRQallTcmNMX2lLNmRXYVJYOWgyUlNTdUZURlIwelo4aWd5YkNnazFrSzgzOHJ6SUZ4cG54NHVhNURFWTJoUXc?oc=5",
         "date": "09/21 17:10"
       },
       {
+        "type": "neutral",
+        "title": "If You Invested $1000 In Vertiv Holdings Stock 5 Years Ago, You Would Have This Much Today",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVRqRENrTE9Pd3dyUDBzSjZIamNBSm9FNGwzcGJSODI0YTROLWhHdXdLbmNkNWVGZURLSTl3aXR6V0FremZXNkRhMEZvVHZIbzVHWGczN2M5T0NtSkpURWpjdUcwZEFGZlFwOGtPQmduN3FYOFdZTVpCRDJCR0hKVk9aalVCbWhVbVNNdElTSlo5azc5VUpYeVlyV2hMd0lFamtOX1MyME1IdG04Zllia2lrNFI0aU9YRlVvUzBrTjhFLTg?oc=5",
+        "date": "09/22 05:30"
+      },
+      {
         "type": "positive",
         "title": "Vertiv Stock Keeps Cooling Off. One Analyst Says a 100% Rally Is Coming",
-        "publisher": "247wallst.com",
+        "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC01QWdmLTZwc1d3ckd1RmtGeUFYTW5FczQxbGlqc0ZOQVhmQ21TWDlFOHgyeGpqdTRnUjM2Nm16YUhxUUwwYzFVMFRTelhTSWQ5S2FZQ01aTmplSWl0MnMxUGV6U0FWXy02X25IREVlSU1zTjU1eERSSHdNbEFEeVVnSFVMdjVSWmpUNjVCT0VXd2c5VWpwUVVtal9oNUh4UHN6LXdwaERSYkFKcFVkZTE4WQ?oc=5",
         "date": "09/03 16:00"
-      },
-      {
-        "type": "negative",
-        "title": "Vertiv Plunges 20% in Three Months: Buy, Sell, or Hold the Stock?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHZDTzJVeDZQOVJLLThCOC1pS241VTFHRWdNMUNjMlRCNkNVQi1CWWNjcGFJNjY5SU5WRlRVWGM2RnJJNWZUVk5vcnROV2U2NmY0SkZyRWZRWWx3SVZaMHNyV2pHX2ZyYzNXMC1ZR0FvdEw5UURvSmd6cU5XRjBQS1dlUVlsSXN0NzB4cXlaVGdKUHBfdEY1Vmx4TQ?oc=5",
-        "date": "09/01 16:00"
-      },
-      {
-        "type": "negative",
-        "title": "Vertiv (VRT) Stock May Be Near Fair Value On Cash Flow",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaU1fa19LVV9ZbkJtcDFVUXpFZXNUd3hta1Q1Tnh4OWRaYVZ1dndBWjdINnVsMDhlZ3VGNS1GTnhYQXdkMkJfRVhOMGh3UkNCWWhhYjRqalAyZVdtZHZNYksyMmtfTmxKSjgyNC1HYlFfQWpGLU9qQTNjTUhEZnRsSXRicnV0M0NjMFdQT210U0F6UHNjdjNPNE41YWxScmxxLUQ3SjlGSmhYa0ZQTzNmaXQwSnFyWS1KWW9IajhfRTdDMlU0LXl5ZjhmUdIB0AFBVV95cUxPSTZCZElSd0xjejM0b3lVcUUzTTcySnhkOFdLX21zU0dheGpFOHNtT3JGODdRcFFPMnhQdWtHRzVxR3k0WmFjSXFKN0FsRWFPX1REaER3WDk5WmJqV3lEOFpjV2RzdS1Ub3FyX1NpT05WMG4xb193YndHaXY2Z2FsT25VUFhwejcwa2NuOXF4VVFzNVc0MUVxOVZpRU9NdDF4WFBpajNrWXZOWWNxdFFnMElWdnl0Z0ZfZ3RXUHg0ckdaVHlKU244NGdUZWxPUlZq?oc=5",
-        "date": "09/18 19:36"
       }
     ]
   }
