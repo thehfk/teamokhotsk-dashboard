@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T20:18:51.728080+00:00",
+  "updatedAt": "2026-09-22T23:04:27.949453+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.27,
-        "change": -4.03
+        "value": 14.21,
+        "change": -4.44
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1354.01,
-        "change": -1.43
+        "value": 1355.1,
+        "change": -1.35
       },
       {
         "name": "KOSPI",
@@ -461,7 +461,7 @@
               15.44,
               14.81,
               14.87,
-              14.27
+              14.21
             ]
           }
         ]
@@ -609,7 +609,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1531.33,
               1539.05,
               1535.25,
               1542.76,
@@ -676,7 +675,7 @@
               1379.53,
               1384.86,
               1373.68,
-              1354.01
+              1355.1
             ]
           }
         ]
@@ -918,7 +917,7 @@
       {
         "type": "neutral",
         "title": "Broadcom: 5 Reasons To Buy This Dip (NASDAQ:AVGO)",
-        "publisher": "seekingalpha.com",
+        "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNamI3dUlLVkRQbTNsQTVNSXpNUElkbnZPaThmWmFvNFd2LS1Kb2Z2SVVlbGZIZzRXNXdTQnE3Y0gwLUF0by1TWHNwYk5icWtpN05ZejFncXR1alZodlhZbm9TaERFOFN2OTJpMnZ3cnJybVFsWGpNeEdVQUlEbjM5OA?oc=5",
         "date": "09/20 21:53"
       },
@@ -939,11 +938,18 @@
         "date": "09/22 09:29"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy (BE) Stock Trades Up, Here Is Why",
+        "type": "negative",
+        "title": "Bloom Energy (BE) Back In Focus Following Index Reshuffle As Undervalued Narrative Builds",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcENRUUdLb202a2Y2VVZOcUdjUURMeFdqamZ2bzNQcnlnMzBDbXBKTFFTb0MwRDMwSHVuUndMZ3hiV2RYaWI1QTJpMDFCSUVNdjM3ZlV1WUdwcnpoZUhFSHZteVl0RVVKOVJSNU1lUGhUdWc4ZEVIckZlZVVzY21oMjRydEJ0UmdnaFJnaWFWa2tDakZJb0FMN3pB?oc=5",
-        "date": "09/17 06:24"
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLVZpTXQtOWZqMDhIM1A2TUt4VER5ajZzbWVxZTJzdG96ZmJLR3Q1QnluS1Q4OWVtUGc0MzQtZnMwelZad3NyMGZCaHhpM29nb09QV280TjlGS0VfTGJpai1yRU5CSEtuRmZlZnFZQnRJTUhfM3pLQVRNbUk0dkpaVVRHSVJUSENPbUlERkJmeVZaUW8tbGxCYzc2VEFGN2M?oc=5",
+        "date": "09/23 05:15"
+      },
+      {
+        "type": "positive",
+        "title": "Bloom Energy (NYSE:BE) Stock Price Up 1.5% - Here's Why",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmx3MEN1VmVsYnFQRHJvUW5QWEloTHg4cUZVZHFQalZsS1R0b0oycnZDV011R2RyQXlrRlVqanFfWHF5X1FFQzRkQURsT3JqSEFnOUctNndiY3M5OWpJdjlNaWVDRlRJeHRkVG8tbEdfeExpeXU3TnN1cEJSMWNXRnpEYTVJQzN6VERIcnZSVTU2UktqemZiM2R0WXNhYU42Qnp2UFREYnBkLWJa?oc=5",
+        "date": "09/23 06:45"
       },
       {
         "type": "neutral",
@@ -951,29 +957,15 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalI2RllDaHpSaFhCWmdJVktGbnJlQXY2WFltQWxYMzhTMUpQRFVNRXJwdHRKWlAybnFhUS1vX3ZfcDA0b293cTUwYjJLR1VONEdONXdid21LVmNqY3I0b216Nm1jNEJybnhDZHVYMnlaWmJWbEY2d3M3ZXNKdk9OeTRnYXFXMkpxMXFfMXlGRjdnTU1ab3AwejVmWDlPZWNzeDl4Z2NmVnNPWnhLY1M5RWRR?oc=5",
         "date": "09/22 03:51"
-      },
-      {
-        "type": "neutral",
-        "title": "$BE stock fell 4% this week. Here's what we see in our data.",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXVwdExvRW9VaGo0ZjRUMXd6SjQzMGR0WVlRUnU3SlFLc0NpRVZtQzhMNHNkMlJEUWFYRXlIZDRVenVmWDd2b20xM3l1amxaSUVzTFRTbHgtQlg5R1cwdE5oX3NiWGQ1bS0zS0IzN2thbkFpZnZhU0xXMGlJOUlaVm9ub2tVcHpLMkpnUVE0TGhyZndrT2xWdnBoSGJRT1U?oc=5",
-        "date": "09/20 01:37"
       }
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Alphabet Stock Surges as Google Search Makes a Major Comeback",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDFydG15ZFFtSFFQWFAwMlVZeHYtOXpQcE5vclI1QURVcHFLVW5VdHBrNlFQZFBnMXdtaE5TWmMzaGRYQXRsUHVlMDdKakFMVUMyV2d4WVVFcG03X3lpX2w3WGx6bUpHYzhjTldhb3hwQmw3ZHZqclNzRGVMYWJYSGJybDlEYlJRam9ZODN1SGJkYnNjNHFEY0IwSmZHdHJPN2c?oc=5",
-        "date": "09/21 21:28"
-      },
-      {
         "type": "neutral",
-        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25OcXViY3FvYVM3T3ZHbk9jcVdUY2RTY2lqaklSdGZYMUdlSFktajR5ejBJZUZadjNiOThMcmNZb0VOek1OMEZxUU9GQjE4a3RWcDJ5WkJHWENsTlFhOGF0ZEktTVZlVUhPbFloSjFSTWhPZ0VYcS05Smg0X3BtYmE5R3FDd3NycVhpRHpSNTJab0gyY2JPeGFRV25SOURnX0ktX2FkVXhCR1RFOFJ0cEs0Ul8wd2Z1V3hpVzRCWmhiOUk3WHl2S3ltdXdSS28?oc=5",
-        "date": "09/22 20:35"
+        "title": "Alphabet Inc. (GOOGL) is Attracting Investor Attention: Here is What You Should Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWDhhMFIwMEpOaG5hZVFhdHNSS2Z2QWlLRnJMQWNLMU54RkhoZmNWdkQya0FuU0xKX1JmMlBCTzhqT1F3Sng5b3ZFU0tmUHkzcGtoaGhsTC1JNzY0OXlNZVJXRFlDZ1BxNGQxX2k4QlVmNk1kNTMwZGxldEs0eHh1eUxLNzYtN3hNTlNEMkREU0FOU3FHMUp4aHpCaW9ycmpqOE45d2RB?oc=5",
+        "date": "09/22 22:00"
       },
       {
         "type": "negative",
@@ -981,6 +973,13 @@
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlNwcmVjVWZYRURJdk5vdm1TR082V2c3ZGlhVnhSRFktYjlOWUtBakk2aTdubndLYTZBMkU0RG9FanBDWEw1QXQ1ZDZyMkNBNElueUJXSXdmSUFjZTU0bUVVM2dzUEhfR0JTVDdQVnJ4SGdSV3JhTGtnTXJfZTlCV05CWFh5TmtzQ0p0NE5kWVdKaVNw?oc=5",
         "date": "09/22 21:00"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25OcXViY3FvYVM3T3ZHbk9jcVdUY2RTY2lqaklSdGZYMUdlSFktajR5ejBJZUZadjNiOThMcmNZb0VOek1OMEZxUU9GQjE4a3RWcDJ5WkJHWENsTlFhOGF0ZEktTVZlVUhPbFloSjFSTWhPZ0VYcS05Smg0X3BtYmE5R3FDd3NycVhpRHpSNTJab0gyY2JPeGFRV25SOURnX0ktX2FkVXhCR1RFOFJ0cEs0Ul8wd2Z1V3hpVzRCWmhiOUk3WHl2S3ltdXdSS28?oc=5",
+        "date": "09/22 20:35"
       },
       {
         "type": "negative",
@@ -999,9 +998,16 @@
         "date": "09/23 00:41"
       },
       {
+        "type": "negative",
+        "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZGVFLThMNHlUUGZ5VC1ZWFlUcjYxRlhLTG9KNE11QjJqZ0UtUGUxMENUR2pBNnBoLVB1eGphWXEzVjBNX1Y3WXpRd0ZSVXBLN0Ywd29UMlJXbWN6N1dhbmY1SGJUQ0I0SjJra1hQY0FHUXVybGlPRUF5QlVzeGUwQzdkd0NjTExtdmhUTklsQ01ucWNodmZIZDVuaDg0b3BnbTlVdUxhOU5aVFRNTXpYcGUxcm85aFpDZm56RlpJaUdSZ1dsSHg0d0p0TUJOT1BGbnRFV3pPc2ttYVhxN3hsdzR3NUpaSHBZWmJIX2RWWXBucG8?oc=5",
+        "date": "09/23 06:47"
+      },
+      {
         "type": "positive",
         "title": "Qualcomm: The AI Story Is Far More Limited Than Bulls Want To Believe - Strong Sell (QCOM)",
-        "publisher": "seekingalpha.com",
+        "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWk15U05fVjg3VmtMM1Jnb2JZUjJhVjJqSmNUZnpWQTdjMWs2eUtyeWRRUW9pR0Z4SmxvOWp5ZllPeEFxV0tZSlVucDBhRXJsYlp2UG9wa2pJODFNMmlSdE0zVTZNZi1uU1M4cjhYcmQ5dmFZUm1WZFFQeHppS3laLUtXY0gwdFNMeUNpMnY1WWFaVU54UW5PUDAxSzk1azlDU1pIRG5BTGRJODNDeS1CVHB5THBpM2pueXdLLXNn?oc=5",
         "date": "09/23 00:29"
       },
@@ -1011,22 +1017,15 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcHdxdkVCVkFPRHlFeFdGUVllNnd4dDcxRDJLeElEV3ZyTERmdllEa0tOX2RySVRyU3Q1cWtFV3BnVnRhNXZjRTlKSWx2eHhEM3lzUUl1dDMydG1LWVB5Tmdfc08zRFFxRm1RcFl0aTFUczFkcm80TE94Z0dySGkxblA3enk4TmwyTUtJYU8wd3k5VzE0Mm1kS0VmdFlEbjNmc0RQUjlKMjVycU8z?oc=5",
         "date": "09/22 17:35"
-      },
-      {
-        "type": "positive",
-        "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-        "publisher": "barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTW5NVi1wbzR2OVNhLVd4M2liT1cyUzJLTEJZcEpRTlpYOERaOFJ2bkNjYUFjYjE1dVZUTDByb1h4OEEwV25jTW83RkFPTjZiM0pFWlJWSTIwb3ZZQ3VBaF9OZ2d1MHhuQ01tcE1fM09pNlZyWkFZbHNQa1R2ZUljaG5xcThvekF5aTgwYXZzejdwREFEM0JFc3JwbWYxX1NHc0NTclBObnJUYVFHVE9oWVlmazRGUV9ETURWRnp5cVFFUmlZQ2pVZDV0TE0yVC1fX3B2ZXlpRjlOZ0k0dlR5Z0lMcG5mMEl0RXBn?oc=5",
-        "date": "09/20 03:30"
       }
     ],
     "VRT": [
       {
         "type": "neutral",
-        "title": "Eaton vs. Vertiv: Which Data Center Power Stock Has an Edge?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFdxdU5JN3J1cXhvbWVobUk0WVpROGx0Qng0ZjV1cXluMm1fWW82SlBhd2xlSXYwX1lCNGI2UUpyV0ZoNmtVOEh6NGlCaWpmb3NTVTVWNHN0cUNaa2MzcE1vQm5pOEZhYkJYRk5VVmJ1MFNPODBhZU1iRUpsSVZ4Y1V4UFowNXo2bkVONlBaXzQxeHdrNHE1SURSSk5CNmZNZkR6TC1kYkJBM1pGS21PNVY1OA?oc=5",
-        "date": "09/23 02:10"
+        "title": "Vertiv Holdings Co. (VRT) Stock Moves 1.04%: What You Should Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzdPU2dYMjFiQVhpaWpQaXlNTDdpbXFDZDAyYkxkeXBjTnNNckJCRHJqRVdIOEFpMnpKd19VTERxanhjVXF1b2Y2NHhZdEJnNVFGU1FWZzJMTUFkcUpKN1NWWnMzNURqUE50Zk9QVVBzRUd3cHBoajByOUhmTmNDNXhONzBwQ01DSFpiUjhidy0xNnlJelJybA?oc=5",
+        "date": "09/23 06:45"
       },
       {
         "type": "positive",
@@ -1036,11 +1035,11 @@
         "date": "09/03 16:00"
       },
       {
-        "type": "negative",
-        "title": "Vertiv Plunges 20% in Three Months: Buy, Sell, or Hold the Stock?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHZDTzJVeDZQOVJLLThCOC1pS241VTFHRWdNMUNjMlRCNkNVQi1CWWNjcGFJNjY5SU5WRlRVWGM2RnJJNWZUVk5vcnROV2U2NmY0SkZyRWZRWWx3SVZaMHNyV2pHX2ZyYzNXMC1ZR0FvdEw5UURvSmd6cU5XRjBQS1dlUVlsSXN0NzB4cXlaVGdKUHBfdEY1Vmx4TQ?oc=5",
-        "date": "09/01 16:00"
+        "type": "neutral",
+        "title": "Eaton vs. Vertiv: Which Data Center Power Stock Has an Edge?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFdxdU5JN3J1cXhvbWVobUk0WVpROGx0Qng0ZjV1cXluMm1fWW82SlBhd2xlSXYwX1lCNGI2UUpyV0ZoNmtVOEh6NGlCaWpmb3NTVTVWNHN0cUNaa2MzcE1vQm5pOEZhYkJYRk5VVmJ1MFNPODBhZU1iRUpsSVZ4Y1V4UFowNXo2bkVONlBaXzQxeHdrNHE1SURSSk5CNmZNZkR6TC1kYkJBM1pGS21PNVY1OA?oc=5",
+        "date": "09/23 02:10"
       },
       {
         "type": "positive",
