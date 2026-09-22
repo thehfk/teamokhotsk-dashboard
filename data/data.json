@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T01:40:56.000365+00:00",
+  "updatedAt": "2026-09-22T07:02:27.367293+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1362.38,
-        "change": -1.62
+        "value": 1359.25,
+        "change": -1.85
       },
       {
         "name": "KOSPI",
-        "value": 7117.96,
-        "change": 1.57
+        "value": 7017.91,
+        "change": 0.15
       },
       {
         "name": "KOSDAQ",
-        "value": 842.73,
-        "change": 0.77
+        "value": 834.38,
+        "change": -0.23
       }
     ],
     "groups": [
@@ -671,7 +671,7 @@
               1376.6,
               1379.53,
               1384.86,
-              1362.38
+              1359.25
             ]
           }
         ]
@@ -813,7 +813,7 @@
               6715.41,
               6894.23,
               7007.72,
-              7117.96
+              7017.91
             ]
           },
           {
@@ -883,7 +883,7 @@
               822.18,
               827.12,
               836.27,
-              842.73
+              834.38
             ]
           }
         ]
@@ -899,6 +899,13 @@
   },
   "news": {
     "AVGO": [
+      {
+        "type": "neutral",
+        "title": "‘Prepare for What’s Coming,’ Says Top Analyst About Broadcom Stock",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHpGbGRrQW1zbHMtLVZVRHdyR1BvNEdxOW9XTGwzYmlfYXRtel84MkE1M1N5bzdGRk9NTzI1SFBad09qbnBXR01Za3FGMEMzOWlOdXFKQU9YU3kzQWdKaDFDbVNKUXFTbTRRSWprUXVWT1lkOVRwYnhTTmR4R1o4WnpmaDY0R0JOVEs5UWhNWUZZT3FUZm1J?oc=5",
+        "date": "09/22 03:13"
+      },
       {
         "type": "positive",
         "title": "Jim Cramer shares a strong verdict on Broadcom stock for investors",
@@ -919,29 +926,22 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcEtiNi0tVGt4TXN3YlFRWjR1X0o2elFqa0xacVZqMXVtanJGbGtUR0dDejZDMmxKM1ZRVUNNRWtidU1PRkJsZnlSNGxPX0stZEZYMXhvQ0dnM2hRd1FOcWFjU2s4eFNSY2x0aTJVSFRlVVFQUmwtUGI2ZVU5cExsOWszN3BsNU9aQzZLRk9fd0VhbW8taGo5a0d2Yllha3kzanFMYmp6Vk9Iam1PVDZ2VmdBdEg3aUhtaHpVMHJEX2hNUWNfbTNCcEVLbl9IZw?oc=5",
         "date": "09/21 21:04"
-      },
-      {
-        "type": "neutral",
-        "title": "‘Prepare for What’s Coming,’ Says Top Analyst About Broadcom Stock",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHpGbGRrQW1zbHMtLVZVRHdyR1BvNEdxOW9XTGwzYmlfYXRtel84MkE1M1N5bzdGRk9NTzI1SFBad09qbnBXR01Za3FGMEMzOWlOdXFKQU9YU3kzQWdKaDFDbVNKUXFTbTRRSWprUXVWT1lkOVRwYnhTTmR4R1o4WnpmaDY0R0JOVEs5UWhNWUZZT3FUZm1J?oc=5",
-        "date": "09/22 03:13"
       }
     ],
     "BE": [
+      {
+        "type": "positive",
+        "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
+        "date": "09/22 09:29"
+      },
       {
         "type": "neutral",
         "title": "Why Bloom Energy (BE) Outpaced the Stock Market Today",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTNuQjNrWkFlTVFZaXVMc2JFTzJvQ20yZHFKZlMxREQzeUpEZnNvVVk0eE1MSDFtLTdTTUlrV05GY2VJUlJrd3ZaaWpjWjNRRVR0cUFqSElSWGxQdkhad1lJYjZnMHpIQ1VhVkFJVVFaTmdfcW9PSDExeTE2YjlURVF5czYzN2dXS0pUNXdGMExOajZwam1GejdlbVE?oc=5",
         "date": "09/22 07:00"
-      },
-      {
-        "type": "neutral",
-        "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1dVakhMTW5XX1Y5R3FrUk1jaGpwSG0xSzFkNW5BV1RKNGNZa2xoWGM2ajJmaktvVHhFVzdFaVJZcjNYc0tVRFdlS0JZNUYtaG5QeXRpMlBEOGVXb2lSUUprSVBoOUcxNnd4UjIxOUVWRnoxaTV3ZG0xVE40eVZJMjdHZUFtbkJ6MWo2MUFkMnN0ZEtBdGhMeGxPLW9hc3pJQUtzQXNRcVhPLUxCQnpJaDJQX2MwcU5nQ0N5N2tPRGpsS0ZmM3dBd2xXd2RrcUQ0Z3pubTI1QlZOdDJDZW1Hby1ISDBsRVN0b2xTblp4OVo0OU1KWFg0?oc=5",
-        "date": "09/21 19:01"
       },
       {
         "type": "neutral",
@@ -982,13 +982,20 @@
       },
       {
         "type": "neutral",
-        "title": "What's Going On With Alphabet Stock Today?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQXBRSy13RHRDcWFtZUxOdk5fOWtUdl9PY3NpaTRRaHotUXR4dkJ1ODdIX2E0eW82b3hYbFFidFdqR2tpVGdlYVB4RzVQbEoza2dwWjVTQ1huMnJOZVR3ZGUxaWJBYndLMVU1d0VlSzV5c1ZZR3BTVl9BZWhYWEpfV1FObUplWDJkSmhGbmJSX2VQcGRXTGJORDRWUmI0YnR1a3NIUkF3?oc=5",
-        "date": "09/21 23:21"
+        "title": "Here's How Google Advertising Antitrust Ruling Could Play Out",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUp6YTh5NFlLR1BtOXJsdkFwaXlzX3V6S2xfeTN1U3RLYkI1ZHVlTjNsN2phTTBVblBaaUpSQzRyalFkdXhaeGtRQ1BQSEhta0JWUkhzSV9xWWpsa2lacDhvQWhHS1QtSG9rcC1KTUdaV09Oa2E5ekxidWszNDNkTGRoclA1RWVxUmxIMFYzLWEydzVpaXlIYndXVkdEMTJoVFRZ?oc=5",
+        "date": "09/18 20:44"
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUpzZmdUYXJBdEVhdjd4eF83bFUtYUtxUnZXa1N1Rk1iMzY2R0dWcHVFczNiR3JqeVQ1enEwemp5Yms0SFdNZkNXWE1WSnIwZ3pnUDNwd3ladWFncGJQQzNJR3dPVjVlQ1BGcHUyOHVtMU9Mem90bzJ0dWh3V29vVS1iMFVISl8zSGJpZ2lDMUFiQmdzME5RSVJvY1JhZ1M1Slg2SmdiNjRVaFlJc0RrQTVZM2hKUzFqLW8wWEZUbw?oc=5",
+        "date": "09/22 02:05"
+      },
       {
         "type": "neutral",
         "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
@@ -998,24 +1005,17 @@
       },
       {
         "type": "neutral",
-        "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUpzZmdUYXJBdEVhdjd4eF83bFUtYUtxUnZXa1N1Rk1iMzY2R0dWcHVFczNiR3JqeVQ1enEwemp5Yms0SFdNZkNXWE1WSnIwZ3pnUDNwd3ladWFncGJQQzNJR3dPVjVlQ1BGcHUyOHVtMU9Mem90bzJ0dWh3V29vVS1iMFVISl8zSGJpZ2lDMUFiQmdzME5RSVJvY1JhZ1M1Slg2SmdiNjRVaFlJc0RrQTVZM2hKUzFqLW8wWEZUbw?oc=5",
-        "date": "09/22 02:05"
-      },
-      {
-        "type": "positive",
-        "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
+        "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjhMdWFTSjB2WWhTdDFTV250TWFOcDhMMnpVV3p2VnFNTlBEMW1aZHV4WEQ0VUhLMy1fMFE2aDYyTGJEZkxGNUJFV3pwNzM5YnJqX3NfVVZTMl8xM0RkdjVZYlZrcHN2Y1FnelVnYjNaN2x1SXdzNnRzaDY2ZHdQMWs3dmxheUJ4b1RvbDRZVWhDRExYTWc4?oc=5",
-        "date": "09/19 02:58"
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHRKV01vTjBSMktXTll3RlV4dUI4azdpRC1vSEs3ZEt4MjVmY0pJdnpKZ0RsOWQ1cDZ2SmRxQWFmMDNkZnZ1eXdUaDhwcWRxbnRCUHRySFhlNHNNWlhvZnAya1AtU0xsRU1NNW1LT3NwT25TT3VCMXFjM1doeUZtb0tUMUhWTkQwbnFVLXZnUmxzSEpjSXl3bmVoX0tiUQ?oc=5",
+        "date": "09/17 11:11"
       },
       {
         "type": "positive",
-        "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
-        "date": "09/21 15:39"
+        "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+        "publisher": "barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTW5NVi1wbzR2OVNhLVd4M2liT1cyUzJLTEJZcEpRTlpYOERaOFJ2bkNjYUFjYjE1dVZUTDByb1h4OEEwV25jTW83RkFPTjZiM0pFWlJWSTIwb3ZZQ3VBaF9OZ2d1MHhuQ01tcE1fM09pNlZyWkFZbHNQa1R2ZUljaG5xcThvekF5aTgwYXZzejdwREFEM0JFc3JwbWYxX1NHc0NTclBObnJUYVFHVE9oWVlmazRGUV9ETURWRnp5cVFFUmlZQ2pVZDV0TE0yVC1fX3B2ZXlpRjlOZ0k0dlR5Z0lMcG5mMEl0RXBn?oc=5",
+        "date": "09/20 03:30"
       }
     ],
     "VRT": [
@@ -1028,10 +1028,17 @@
       },
       {
         "type": "positive",
-        "title": "Vertiv Holdings Co-A (NYSE:VRT): An Affordable Growth Case Backed by Strong Profitability",
-        "publisher": "ChartMill",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0dtTWdxYXpFdlNJc0VlcGZSTF9ycWRMYUZ4aElSNnZfZTM2NEt6TE9xaDlzOUZrcHpXcC0zOHNjM1p2Qk5NVDdKc19zemhncnZPOXFqZC1XNEZGNm5GRE9IU3dESGdnYzZQdlhZMGxHR24ybmxWdUtBZDFENUxQQjg5Ym02YmJOTHlWdXFnV3dHNXRQallTcmNMX2lLNmRXYVJYOWgyUlNTdUZURlIwelo4aWd5YkNnazFrSzgzOHJ6SUZ4cG54NHVhNURFWTJoUXc?oc=5",
-        "date": "09/21 17:10"
+        "title": "Vertiv Stock Keeps Cooling Off. One Analyst Says a 100% Rally Is Coming",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC01QWdmLTZwc1d3ckd1RmtGeUFYTW5FczQxbGlqc0ZOQVhmQ21TWDlFOHgyeGpqdTRnUjM2Nm16YUhxUUwwYzFVMFRTelhTSWQ5S2FZQ01aTmplSWl0MnMxUGV6U0FWXy02X25IREVlSU1zTjU1eERSSHdNbEFEeVVnSFVMdjVSWmpUNjVCT0VXd2c5VWpwUVVtal9oNUh4UHN6LXdwaERSYkFKcFVkZTE4WQ?oc=5",
+        "date": "09/03 16:00"
+      },
+      {
+        "type": "negative",
+        "title": "Vertiv Plunges 20% in Three Months: Buy, Sell, or Hold the Stock?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHZDTzJVeDZQOVJLLThCOC1pS241VTFHRWdNMUNjMlRCNkNVQi1CWWNjcGFJNjY5SU5WRlRVWGM2RnJJNWZUVk5vcnROV2U2NmY0SkZyRWZRWWx3SVZaMHNyV2pHX2ZyYzNXMC1ZR0FvdEw5UURvSmd6cU5XRjBQS1dlUVlsSXN0NzB4cXlaVGdKUHBfdEY1Vmx4TQ?oc=5",
+        "date": "09/01 16:00"
       },
       {
         "type": "neutral",
@@ -1039,13 +1046,6 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVRqRENrTE9Pd3dyUDBzSjZIamNBSm9FNGwzcGJSODI0YTROLWhHdXdLbmNkNWVGZURLSTl3aXR6V0FremZXNkRhMEZvVHZIbzVHWGczN2M5T0NtSkpURWpjdUcwZEFGZlFwOGtPQmduN3FYOFdZTVpCRDJCR0hKVk9aalVCbWhVbVNNdElTSlo5azc5VUpYeVlyV2hMd0lFamtOX1MyME1IdG04Zllia2lrNFI0aU9YRlVvUzBrTjhFLTg?oc=5",
         "date": "09/22 05:30"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Stock Keeps Cooling Off. One Analyst Says a 100% Rally Is Coming",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC01QWdmLTZwc1d3ckd1RmtGeUFYTW5FczQxbGlqc0ZOQVhmQ21TWDlFOHgyeGpqdTRnUjM2Nm16YUhxUUwwYzFVMFRTelhTSWQ5S2FZQ01aTmplSWl0MnMxUGV6U0FWXy02X25IREVlSU1zTjU1eERSSHdNbEFEeVVnSFVMdjVSWmpUNjVCT0VXd2c5VWpwUVVtal9oNUh4UHN6LXdwaERSYkFKcFVkZTE4WQ?oc=5",
-        "date": "09/03 16:00"
       }
     ]
   }
