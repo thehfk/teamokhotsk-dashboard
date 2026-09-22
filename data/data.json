@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-09-22T12:43:10.862263+00:00",
+  "updatedAt": "2026-09-22T17:26:26.864995+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7764.7,
-        "change": 1.49
+        "value": 7762.8,
+        "change": -0.02
       },
       {
         "name": "NASDAQ",
-        "value": 27122.09,
-        "change": 2.26
+        "value": 27210.25,
+        "change": 0.33
       },
       {
         "name": "다우존스",
-        "value": 52048.83,
-        "change": 0.71
+        "value": 51798.24,
+        "change": -0.48
       },
       {
         "name": "공포지수 VIX",
-        "value": 14.65,
-        "change": -1.48
+        "value": 14.26,
+        "change": -4.1
       },
       {
         "name": "미국10년금리",
-        "value": 4.93,
-        "change": -0.6
+        "value": 4.98,
+        "change": 0.4
       },
       {
         "name": "원달러환율",
-        "value": 1357.89,
-        "change": -1.95
+        "value": 1359.04,
+        "change": -1.86
       },
       {
         "name": "KOSPI",
-        "value": 7017.91,
-        "change": 0.15
+        "value": 7007.72,
+        "change": 1.65
       },
       {
         "name": "KOSDAQ",
-        "value": 834.38,
-        "change": -0.23
+        "value": 836.27,
+        "change": 1.11
       }
     ],
     "groups": [
@@ -110,7 +110,8 @@
           "09/16",
           "09/17",
           "09/18",
-          "09/21"
+          "09/21",
+          "09/22"
         ],
         "series": [
           {
@@ -179,7 +180,8 @@
               7551.81,
               7637.76,
               7650.5,
-              7764.7
+              7764.7,
+              7762.8
             ]
           },
           {
@@ -248,7 +250,8 @@
               25978.43,
               26418.3,
               26522.54,
-              27122.09
+              27122.09,
+              27210.25
             ]
           },
           {
@@ -317,7 +320,8 @@
               51461.9,
               51778.04,
               51682.64,
-              52048.83
+              52048.83,
+              51798.24
             ]
           }
         ]
@@ -461,7 +465,7 @@
               15.44,
               14.81,
               14.87,
-              14.65
+              14.26
             ]
           }
         ]
@@ -603,7 +607,7 @@
               4.95,
               5.0,
               4.96,
-              4.93
+              4.98
             ]
           },
           {
@@ -675,7 +679,7 @@
               1376.6,
               1379.53,
               1384.86,
-              1357.89
+              1359.04
             ]
           }
         ]
@@ -746,8 +750,7 @@
           "09/16",
           "09/17",
           "09/18",
-          "09/21",
-          "09/22"
+          "09/21"
         ],
         "series": [
           {
@@ -816,8 +819,7 @@
               6717.97,
               6715.41,
               6894.23,
-              7007.72,
-              7017.91
+              7007.72
             ]
           },
           {
@@ -886,8 +888,7 @@
               815.98,
               822.18,
               827.12,
-              836.27,
-              834.38
+              836.27
             ]
           }
         ]
@@ -895,11 +896,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 45.2,
-    "BE": 69.4,
-    "GOOGL": 62.8,
-    "QCOM": 68.0,
-    "VRT": 46.9
+    "AVGO": 46.6,
+    "BE": 68.8,
+    "GOOGL": 64.8,
+    "QCOM": 73.1,
+    "VRT": 48.9
   },
   "news": {
     "AVGO": [
@@ -956,19 +957,19 @@
       },
       {
         "type": "positive",
-        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
-        "date": "09/22 02:53"
+        "title": "BE vs. BLDP: Which Clean Energy Stock Has Stronger Growth Potential?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDNETmJ1WTktSjg1ZG9oQ0xHVWUwNjRWSjgwbDAzUmpuRkR0ZDRPWEN0VkxuZGNKWUxFSEpIWjNEcHFvOGMtR05hcXlNZUJEVmNEbzdNa3NiQ1FoblA0bUFUd01iR3pWQTNXWkJ1TzlaWkZIMmxfaW1RZFBGaVc4dVpVbF9xa3VMWlBTNVRlV0lSMkhVd1J1SHFBeXBTaFJFX2VxNkJSaDVKNnpaMWxLY2JNTUozV1Bfa2s1LUR3?oc=5",
+        "date": "09/23 00:51"
       }
     ],
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25OcXViY3FvYVM3T3ZHbk9jcVdUY2RTY2lqaklSdGZYMUdlSFktajR5ejBJZUZadjNiOThMcmNZb0VOek1OMEZxUU9GQjE4a3RWcDJ5WkJHWENsTlFhOGF0ZEktTVZlVUhPbFloSjFSTWhPZ0VYcS05Smg0X3BtYmE5R3FDd3NycVhpRHpSNTJab0gyY2JPeGFRV25SOURnX0ktX2FkVXhCR1RFOFJ0cEs0Ul8wd2Z1V3hpVzRCWmhiOUk3WHl2S3ltdXdSS28?oc=5",
-        "date": "09/22 20:35"
+        "title": "Alphabet Inc. (GOOGL) is Attracting Investor Attention: Here is What You Should Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWDhhMFIwMEpOaG5hZVFhdHNSS2Z2QWlLRnJMQWNLMU54RkhoZmNWdkQya0FuU0xKX1JmMlBCTzhqT1F3Sng5b3ZFU0tmUHkzcGtoaGhsTC1JNzY0OXlNZVJXRFlDZ1BxNGQxX2k4QlVmNk1kNTMwZGxldEs0eHh1eUxLNzYtN3hNTlNEMkREU0FOU3FHMUp4aHpCaW9ycmpqOE45d2RB?oc=5",
+        "date": "09/22 22:00"
       },
       {
         "type": "negative",
@@ -978,11 +979,11 @@
         "date": "09/22 21:00"
       },
       {
-        "type": "positive",
-        "title": "Alphabet Stock Surges as Google Search Makes a Major Comeback",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDFydG15ZFFtSFFQWFAwMlVZeHYtOXpQcE5vclI1QURVcHFLVW5VdHBrNlFQZFBnMXdtaE5TWmMzaGRYQXRsUHVlMDdKakFMVUMyV2d4WVVFcG03X3lpX2w3WGx6bUpHYzhjTldhb3hwQmw3ZHZqclNzRGVMYWJYSGJybDlEYlJRam9ZODN1SGJkYnNjNHFEY0IwSmZHdHJPN2c?oc=5",
-        "date": "09/21 21:28"
+        "type": "neutral",
+        "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25OcXViY3FvYVM3T3ZHbk9jcVdUY2RTY2lqaklSdGZYMUdlSFktajR5ejBJZUZadjNiOThMcmNZb0VOek1OMEZxUU9GQjE4a3RWcDJ5WkJHWENsTlFhOGF0ZEktTVZlVUhPbFloSjFSTWhPZ0VYcS05Smg0X3BtYmE5R3FDd3NycVhpRHpSNTJab0gyY2JPeGFRV25SOURnX0ktX2FkVXhCR1RFOFJ0cEs0Ul8wd2Z1V3hpVzRCWmhiOUk3WHl2S3ltdXdSS28?oc=5",
+        "date": "09/22 20:35"
       },
       {
         "type": "negative",
@@ -995,17 +996,17 @@
     "QCOM": [
       {
         "type": "positive",
-        "title": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEtEcTg3SEpBV3NaTVlub3hOYXlpMlFySDRxVEZmeHlDeFo3dGlZM3VaNmJyQUw2OG1rQVV3SjVzM1Q2aVNzNnhjbTFRMm9uN0pwb1V1bjIyd2ZSSFNUU01vSEloLVp5VC0xWmlKb3czRXVrQXJHaHRFNGF6SzhZLVFtM1ZWODZ5aXNmRlNkdlBvSnZRc2xmelRrWQ?oc=5",
-        "date": "09/22 17:21"
+        "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTW5NVi1wbzR2OVNhLVd4M2liT1cyUzJLTEJZcEpRTlpYOERaOFJ2bkNjYUFjYjE1dVZUTDByb1h4OEEwV25jTW83RkFPTjZiM0pFWlJWSTIwb3ZZQ3VBaF9OZ2d1MHhuQ01tcE1fM09pNlZyWkFZbHNQa1R2ZUljaG5xcThvekF5aTgwYXZzejdwREFEM0JFc3JwbWYxX1NHc0NTclBObnJUYVFHVE9oWVlmazRGUV9ETURWRnp5cVFFUmlZQ2pVZDV0TE0yVC1fX3B2ZXlpRjlOZ0k0dlR5Z0lMcG5mMEl0RXBn?oc=5",
+        "date": "09/20 03:30"
       },
       {
         "type": "neutral",
-        "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUpzZmdUYXJBdEVhdjd4eF83bFUtYUtxUnZXa1N1Rk1iMzY2R0dWcHVFczNiR3JqeVQ1enEwemp5Yms0SFdNZkNXWE1WSnIwZ3pnUDNwd3ladWFncGJQQzNJR3dPVjVlQ1BGcHUyOHVtMU9Mem90bzJ0dWh3V29vVS1iMFVISl8zSGJpZ2lDMUFiQmdzME5RSVJvY1JhZ1M1Slg2SmdiNjRVaFlJc0RrQTVZM2hKUzFqLW8wWEZUbw?oc=5",
-        "date": "09/22 02:05"
+        "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWNwSG55Mm9ZQWhHclMwVkZwWnl1bmx5S0Zwb3p4VnF2X0VBc0VXWFBpclViZVA2ZURtd3k4YkQ5aUJyaFkxb3FKWm1GZHhRdlh0VGluTE5aMDBrZkZydEZDT3BJa2pxcm5MNFdtaFpRTmZjYlh2YU5oN1BoUC14MjE1a1ZCZ3gyRGczVDU1VzlZbHVWckhKX2EweXpTdw?oc=5",
+        "date": "09/21 21:43"
       },
       {
         "type": "neutral",
@@ -1016,26 +1017,26 @@
       },
       {
         "type": "positive",
-        "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTW5NVi1wbzR2OVNhLVd4M2liT1cyUzJLTEJZcEpRTlpYOERaOFJ2bkNjYUFjYjE1dVZUTDByb1h4OEEwV25jTW83RkFPTjZiM0pFWlJWSTIwb3ZZQ3VBaF9OZ2d1MHhuQ01tcE1fM09pNlZyWkFZbHNQa1R2ZUljaG5xcThvekF5aTgwYXZzejdwREFEM0JFc3JwbWYxX1NHc0NTclBObnJUYVFHVE9oWVlmazRGUV9ETURWRnp5cVFFUmlZQ2pVZDV0TE0yVC1fX3B2ZXlpRjlOZ0k0dlR5Z0lMcG5mMEl0RXBn?oc=5",
-        "date": "09/20 03:30"
+        "title": "Lumentum, Qualcomm, Corning partner on AI optical tech; shares rise (LITE:NASDAQ)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUdLU3NYMFM0eHNCdW5qZUZXb2RPZFJUZEpDdGsyZUVLREZBX3FzcDAzX1lzUmVpZEFVcU5oOG45VlJVNkNyOGFSMzZvZHoxLWhHLUh3Vmo2S1JTdmx2QXUxVnFHeUw3eGVnamc0cm1QRHJpWEZ0MGNMNU5lRlF3bWdjdHpzWXJxU29kdVpvcjVaelBqc2dJM0VWVlp6blYySUtlZw?oc=5",
+        "date": "09/21 18:36"
       }
     ],
     "VRT": [
-      {
-        "type": "positive",
-        "title": "Why Is Vertiv Stock Up Sharply Over The Past Year Yet Well Below Its Peak?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWZOQTVmbVhDMVZ6ODlmZllJRUExbXp4alBWaU0yaHdWMFE3V3p1RE1OM3dsTnptMUhzek5MMnBKOUVuV1MxUXkxSlhMSVA2R0ZONjY5V2g4ZUVZMGxpT0czR0ZDYXUweGJDMTBadTJuV1NoWWVhRHJZWTc1Z1JxSHFjLUJ0d0dKMFdvNmJ4TERJNFVra3ZLQ1BpdThITDF6STE1cExZbU1OMnQzZ2dWR09ROVpNc29lSXo2ekh0ekRta2g1RWdTY3VqcGZhQQ?oc=5",
-        "date": "09/22 05:22"
-      },
       {
         "type": "positive",
         "title": "Vertiv Stock Keeps Cooling Off. One Analyst Says a 100% Rally Is Coming",
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC01QWdmLTZwc1d3ckd1RmtGeUFYTW5FczQxbGlqc0ZOQVhmQ21TWDlFOHgyeGpqdTRnUjM2Nm16YUhxUUwwYzFVMFRTelhTSWQ5S2FZQ01aTmplSWl0MnMxUGV6U0FWXy02X25IREVlSU1zTjU1eERSSHdNbEFEeVVnSFVMdjVSWmpUNjVCT0VXd2c5VWpwUVVtal9oNUh4UHN6LXdwaERSYkFKcFVkZTE4WQ?oc=5",
         "date": "09/03 16:00"
+      },
+      {
+        "type": "positive",
+        "title": "Why Is Vertiv Stock Up Sharply Over The Past Year Yet Well Below Its Peak?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWZOQTVmbVhDMVZ6ODlmZllJRUExbXp4alBWaU0yaHdWMFE3V3p1RE1OM3dsTnptMUhzek5MMnBKOUVuV1MxUXkxSlhMSVA2R0ZONjY5V2g4ZUVZMGxpT0czR0ZDYXUweGJDMTBadTJuV1NoWWVhRHJZWTc1Z1JxSHFjLUJ0d0dKMFdvNmJ4TERJNFVra3ZLQ1BpdThITDF6STE1cExZbU1OMnQzZ2dWR09ROVpNc29lSXo2ekh0ekRta2g1RWdTY3VqcGZhQQ?oc=5",
+        "date": "09/22 05:22"
       },
       {
         "type": "negative",
@@ -1045,11 +1046,11 @@
         "date": "09/01 16:00"
       },
       {
-        "type": "neutral",
-        "title": "If You Invested $1000 In Vertiv Holdings Stock 5 Years Ago, You Would Have This Much Today",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVRqRENrTE9Pd3dyUDBzSjZIamNBSm9FNGwzcGJSODI0YTROLWhHdXdLbmNkNWVGZURLSTl3aXR6V0FremZXNkRhMEZvVHZIbzVHWGczN2M5T0NtSkpURWpjdUcwZEFGZlFwOGtPQmduN3FYOFdZTVpCRDJCR0hKVk9aalVCbWhVbVNNdElTSlo5azc5VUpYeVlyV2hMd0lFamtOX1MyME1IdG04Zllia2lrNFI0aU9YRlVvUzBrTjhFLTg?oc=5",
-        "date": "09/22 05:30"
+        "type": "negative",
+        "title": "Vertiv (VRT) Stock May Be Near Fair Value On Cash Flow",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaU1fa19LVV9ZbkJtcDFVUXpFZXNUd3hta1Q1Tnh4OWRaYVZ1dndBWjdINnVsMDhlZ3VGNS1GTnhYQXdkMkJfRVhOMGh3UkNCWWhhYjRqalAyZVdtZHZNYksyMmtfTmxKSjgyNC1HYlFfQWpGLU9qQTNjTUhEZnRsSXRicnV0M0NjMFdQT210U0F6UHNjdjNPNE41YWxScmxxLUQ3SjlGSmhYa0ZQTzNmaXQwSnFyWS1KWW9IajhfRTdDMlU0LXl5ZjhmUdIB0AFBVV95cUxPSTZCZElSd0xjejM0b3lVcUUzTTcySnhkOFdLX21zU0dheGpFOHNtT3JGODdRcFFPMnhQdWtHRzVxR3k0WmFjSXFKN0FsRWFPX1REaER3WDk5WmJqV3lEOFpjV2RzdS1Ub3FyX1NpT05WMG4xb193YndHaXY2Z2FsT25VUFhwejcwa2NuOXF4VVFzNVc0MUVxOVZpRU9NdDF4WFBpajNrWXZOWWNxdFFnMElWdnl0Z0ZfZ3RXUHg0ckdaVHlKU244NGdUZWxPUlZq?oc=5",
+        "date": "09/18 19:36"
       }
     ]
   }
