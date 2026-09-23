@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T23:04:27.949453+00:00",
+  "updatedAt": "2026-09-23T01:35:03.495408+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1355.1,
-        "change": -1.35
+        "value": 1348.48,
+        "change": -1.83
       },
       {
         "name": "KOSPI",
-        "value": 7007.72,
-        "change": 1.65
+        "value": 7094.82,
+        "change": 1.24
       },
       {
         "name": "KOSDAQ",
-        "value": 836.27,
-        "change": 1.11
+        "value": 842.21,
+        "change": 0.71
       }
     ],
     "groups": [
@@ -675,7 +675,7 @@
               1379.53,
               1384.86,
               1373.68,
-              1355.1
+              1348.48
             ]
           }
         ]
@@ -683,7 +683,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "06/22",
           "06/23",
           "06/24",
           "06/25",
@@ -746,13 +745,13 @@
           "09/16",
           "09/17",
           "09/18",
-          "09/21"
+          "09/21",
+          "09/23"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              9114.55,
               8203.84,
               8471.02,
               8930.3,
@@ -815,13 +814,13 @@
               6717.97,
               6715.41,
               6894.23,
-              7007.72
+              7007.72,
+              7094.82
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              968.4,
               891.52,
               909.31,
               887.81,
@@ -884,7 +883,8 @@
               815.98,
               822.18,
               827.12,
-              836.27
+              836.27,
+              842.21
             ]
           }
         ]
@@ -892,27 +892,27 @@
     ]
   },
   "rsi": {
-    "AVGO": 46.8,
-    "BE": 68.7,
-    "GOOGL": 63.3,
-    "QCOM": 74.0,
-    "VRT": 49.0
+    "AVGO": 45.2,
+    "BE": 69.4,
+    "GOOGL": 62.8,
+    "QCOM": 68.0,
+    "VRT": 46.9
   },
   "news": {
     "AVGO": [
-      {
-        "type": "positive",
-        "title": "Jim Cramer shares a strong verdict on Broadcom stock for investors",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOalJsMzhYUXpqbWlwLXJSd2pBWlY0S3U0emhZNFpMbndpRE9qVnFfUXJwUkdpUDhRX2dTOHVHZEdqQW1WZE4tYjZwUnppZXZaSDFUU1JpSmpBTU9sUVNNeWVPcHVVeXcxQ1J1b2o2aFJkT253Wjh1WkJvaVhfVlV6N0ZUMndKVFF1SXJUVnpzYzctanZYTDJtVmFPa3QxZw?oc=5",
-        "date": "09/21 02:47"
-      },
       {
         "type": "neutral",
         "title": "‘Prepare for What’s Coming,’ Says Top Analyst About Broadcom Stock",
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHpGbGRrQW1zbHMtLVZVRHdyR1BvNEdxOW9XTGwzYmlfYXRtel84MkE1M1N5bzdGRk9NTzI1SFBad09qbnBXR01Za3FGMEMzOWlOdXFKQU9YU3kzQWdKaDFDbVNKUXFTbTRRSWprUXVWT1lkOVRwYnhTTmR4R1o4WnpmaDY0R0JOVEs5UWhNWUZZT3FUZm1J?oc=5",
         "date": "09/22 03:13"
+      },
+      {
+        "type": "neutral",
+        "title": "Chip Trillionaires Club: Only One Clear Buy Among NVDA, AVGO, MU, AMD",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTG5rRUdvZGNScmVtbldISzMwbGN0MmNXRXE1dVJlanhlb2lDVmI0eXlqUU10Zmp1WXAzUEVGVklZd0N5N2pxSEpHd2NsdENPVmxhQTBfemFmc3l0X1U3UFBKTDNXWTJGMVBPU2FDN0hQd01OYjhsc25DenpoMF9sQUVGY0oxN0ozZnBMRnFuT2tDQnVXRldnQm45WV9jUQ?oc=5",
+        "date": "09/22 21:48"
       },
       {
         "type": "neutral",
@@ -923,10 +923,10 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom’s AI Opportunity Is Bigger Than Its Stock Price Suggests",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2pURTBBV2xtb1dCZnpDa0kzM01kUEhvdWwyaGc5UDc0Y19tcHVzRjB3ejN3ZVJsaUh0NTBycVR4Ujk5TmU0YTdLWGdSZXJyeF9CSk9zWms4N2NWblhzQ1lIb2ZLcG8xaEJBd19uaG1kQkNPMUl3Z1FsVEVqMHlvXzVEWk1qVGFUbVViOWRwRXBPUGdSOVBYQlVJcFJIQi0zaU1j?oc=5",
-        "date": "09/22 00:30"
+        "title": "Broadcom, Cisco, Arista Networks And A Financial Stock On CNBC’s ‘Final Trades’",
+        "publisher": "benzinga.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcEtiNi0tVGt4TXN3YlFRWjR1X0o2elFqa0xacVZqMXVtanJGbGtUR0dDejZDMmxKM1ZRVUNNRWtidU1PRkJsZnlSNGxPX0stZEZYMXhvQ0dnM2hRd1FOcWFjU2s4eFNSY2x0aTJVSFRlVVFQUmwtUGI2ZVU5cExsOWszN3BsNU9aQzZLRk9fd0VhbW8taGo5a0d2Yllha3kzanFMYmp6Vk9Iam1PVDZ2VmdBdEg3aUhtaHpVMHJEX2hNUWNfbTNCcEVLbl9IZw?oc=5",
+        "date": "09/21 21:04"
       }
     ],
     "BE": [
@@ -953,19 +953,19 @@
       },
       {
         "type": "neutral",
-        "title": "Why Did Bloom Energy Stock More Than Triple In A Year?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalI2RllDaHpSaFhCWmdJVktGbnJlQXY2WFltQWxYMzhTMUpQRFVNRXJwdHRKWlAybnFhUS1vX3ZfcDA0b293cTUwYjJLR1VONEdONXdid21LVmNqY3I0b216Nm1jNEJybnhDZHVYMnlaWmJWbEY2d3M3ZXNKdk9OeTRnYXFXMkpxMXFfMXlGRjdnTU1ab3AwejVmWDlPZWNzeDl4Z2NmVnNPWnhLY1M5RWRR?oc=5",
-        "date": "09/22 03:51"
+        "title": "$BE stock fell 4% this week. Here's what we see in our data.",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzZ6Q29EWFNSVWVOdUVLM3JXc0Yzem9BeTJZQkV6eXFQR2tlbEcwSGtuZmdqUWZtNUpmQ1dHMldTajJVTkhqZFZacVBIVXZ3U0FpeTZGR2ZDMW9va1VsMVd4RUtWdEJjZGZldHFNYjlhZlBJZmpoSVhtSUFKbmZINjd2VUtKVEZSN0YtWUtZbF9kVlZ5TC1oTEktOHRUUkli?oc=5",
+        "date": "09/20 01:37"
       }
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "Alphabet Inc. (GOOGL) is Attracting Investor Attention: Here is What You Should Know",
+        "type": "positive",
+        "title": "Alphabet Stock Surges as Google Search Makes a Major Comeback",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWDhhMFIwMEpOaG5hZVFhdHNSS2Z2QWlLRnJMQWNLMU54RkhoZmNWdkQya0FuU0xKX1JmMlBCTzhqT1F3Sng5b3ZFU0tmUHkzcGtoaGhsTC1JNzY0OXlNZVJXRFlDZ1BxNGQxX2k4QlVmNk1kNTMwZGxldEs0eHh1eUxLNzYtN3hNTlNEMkREU0FOU3FHMUp4aHpCaW9ycmpqOE45d2RB?oc=5",
-        "date": "09/22 22:00"
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDFydG15ZFFtSFFQWFAwMlVZeHYtOXpQcE5vclI1QURVcHFLVW5VdHBrNlFQZFBnMXdtaE5TWmMzaGRYQXRsUHVlMDdKakFMVUMyV2d4WVVFcG03X3lpX2w3WGx6bUpHYzhjTldhb3hwQmw3ZHZqclNzRGVMYWJYSGJybDlEYlJRam9ZODN1SGJkYnNjNHFEY0IwSmZHdHJPN2c?oc=5",
+        "date": "09/21 21:28"
       },
       {
         "type": "negative",
@@ -977,7 +977,7 @@
       {
         "type": "neutral",
         "title": "What's Going On With Alphabet Stock Tuesday? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:GOOG)",
-        "publisher": "Benzinga",
+        "publisher": "benzinga.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ25OcXViY3FvYVM3T3ZHbk9jcVdUY2RTY2lqaklSdGZYMUdlSFktajR5ejBJZUZadjNiOThMcmNZb0VOek1OMEZxUU9GQjE4a3RWcDJ5WkJHWENsTlFhOGF0ZEktTVZlVUhPbFloSjFSTWhPZ0VYcS05Smg0X3BtYmE5R3FDd3NycVhpRHpSNTJab0gyY2JPeGFRV25SOURnX0ktX2FkVXhCR1RFOFJ0cEs0Ul8wd2Z1V3hpVzRCWmhiOUk3WHl2S3ltdXdSS28?oc=5",
         "date": "09/22 20:35"
       },
@@ -990,6 +990,13 @@
       }
     ],
     "QCOM": [
+      {
+        "type": "negative",
+        "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb3p4WjA3U3FJZXpjWjNJbm1wZFFHa0IzYlJnRE4xNkFvRUczUkxjZ2x4aWRRRW5FamFHRjVNNlM4eUh3S1E2bzJzZTN1YlptQ0ZWQUM1eEpOMGFrMHprVWZEOFJkTGdBSW5PNDJlalUzNEowMmktNTFJX3hSdXRtc3d0RzljcUpXLWVUUFAyZUViR1FzTFE1SzBDSjlUX1hNN0xGS0dxd0ZWRE5jZ0FJMnlFVWZOUkplZ0hQM0xNcjdwRTF3ZFEtYVh6Vi1DX0FkSEVrWlp3dFhJNFYtb0JCcDJybkw5SlpkYnFqLUEyckZheTBzbVNV?oc=5",
+        "date": "09/23 06:52"
+      },
       {
         "type": "neutral",
         "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
@@ -1010,13 +1017,6 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWk15U05fVjg3VmtMM1Jnb2JZUjJhVjJqSmNUZnpWQTdjMWs2eUtyeWRRUW9pR0Z4SmxvOWp5ZllPeEFxV0tZSlVucDBhRXJsYlp2UG9wa2pJODFNMmlSdE0zVTZNZi1uU1M4cjhYcmQ5dmFZUm1WZFFQeHppS3laLUtXY0gwdFNMeUNpMnY1WWFaVU54UW5PUDAxSzk1azlDU1pIRG5BTGRJODNDeS1CVHB5THBpM2pueXdLLXNn?oc=5",
         "date": "09/23 00:29"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm Shares Slip 0.93% In Premarket - Qualcomm (NASDAQ:QCOM)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcHdxdkVCVkFPRHlFeFdGUVllNnd4dDcxRDJLeElEV3ZyTERmdllEa0tOX2RySVRyU3Q1cWtFV3BnVnRhNXZjRTlKSWx2eHhEM3lzUUl1dDMydG1LWVB5Tmdfc08zRFFxRm1RcFl0aTFUczFkcm80TE94Z0dySGkxblA3enk4TmwyTUtJYU8wd3k5VzE0Mm1kS0VmdFlEbjNmc0RQUjlKMjVycU8z?oc=5",
-        "date": "09/22 17:35"
       }
     ],
     "VRT": [
