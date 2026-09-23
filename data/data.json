@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T20:50:45.366490+00:00",
+  "updatedAt": "2026-09-23T23:19:45.491826+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1366.27,
-        "change": 1.18
+        "value": 1366.42,
+        "change": 1.19
       },
       {
         "name": "KOSPI",
@@ -601,7 +601,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1539.05,
               1535.25,
               1542.76,
               1546.48,
@@ -668,7 +667,7 @@
               1384.86,
               1373.68,
               1350.36,
-              1366.27
+              1366.42
             ]
           }
         ]
@@ -912,11 +911,11 @@
         "date": "09/23 16:21"
       },
       {
-        "type": "negative",
-        "title": "Why are Intel, AMD, Broadcom (AVGO) stocks down on Wednsday?",
-        "publisher": "Invezz",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMU51RUctbGo0TkJVNHhZZWtXOWxFeFBOaXFaLVA4RnZXb1NxUGNheFRnZjdqckFrWEt0TVFyZk10Tkh3a3VmUHRyNUF2S3drRGFGeDQwdzQ3RTdDLWJERnpaZUhVazlRSHNwWGNGRkdpenNQbjlFenZNSXJWV2o3Q3I0U0FOeWN2WmZET3BBQ2xaSTdWclE?oc=5",
-        "date": "09/24 00:58"
+        "type": "neutral",
+        "title": "History Says a $1,000 Investment in Broadcom Will Be Worth This Much by 2028",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUNJTjFVdlgwQnYxUnM0TGhPQWtEa3BJc0czX1hVcWxpeWlNZjg2ZEUwY29hZlpPVGppejgwWTdzWmFFLVJyRVZPM3FiUW5Nb01HUnZmUlNLX29mSkpSX19HeDNweDBIZTJUSGxFYlFfQ19xOENqYW1DQ2F4TWFacTZ3ck1yZU45bDFZVkhqVEJ6NmFYTl9kcA?oc=5",
+        "date": "09/22 16:15"
       }
     ],
     "BE": [
@@ -944,12 +943,19 @@
       {
         "type": "neutral",
         "title": "Why Did Bloom Energy Stock More Than Triple In A Year?",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalI2RllDaHpSaFhCWmdJVktGbnJlQXY2WFltQWxYMzhTMUpQRFVNRXJwdHRKWlAybnFhUS1vX3ZfcDA0b293cTUwYjJLR1VONEdONXdid21LVmNqY3I0b216Nm1jNEJybnhDZHVYMnlaWmJWbEY2d3M3ZXNKdk9OeTRnYXFXMkpxMXFfMXlGRjdnTU1ab3AwejVmWDlPZWNzeDl4Z2NmVnNPWnhLY1M5RWRR?oc=5",
         "date": "09/22 03:51"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "Google Stock (GOOGL) Slides Despite Launching Two New Gemini 3.8 Voice Models",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUtmV3AzVmdGWF9oVDViVkJ6eERiUlZ3YXdFZFZnWDJnVmdJYUZ2OU5RbjNXYWVMaml1bm1FRWQ4aUdoamI5cmlPbHdwWEs3RXVsRFRKcWJiQkJfMkhZc2lBQlNINmNhc2x5MkpUbjRfeWg2VENWM1BhZzhRemNzcTRkVzU5OEhmN3JOeEVuOGtya3V4M09JdGNnNkxKRVpYempr?oc=5",
+        "date": "09/23 23:50"
+      },
       {
         "type": "neutral",
         "title": "GOOGL, NFLX Stocks In Focus — Alphabet's YouTube Reportedly Rolls Out Fresh Tools To Prevent Creators From Defecting To Netflix",
@@ -958,25 +964,18 @@
         "date": "09/24 03:30"
       },
       {
+        "type": "negative",
+        "title": "Why Alphabet (GOOGL) Stock Is Down Today",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzVreUpuZk5hNjhZenVXRXU2Yk43aHVteGhBY3ZUWTdaM3NpczZfSjE2dDZqTklXTF8wMWEtbWJtRllqZlViMHpBMXZDQVRveTkyU0hod25TVFc5ZGZMOE14MGZHcV9JalA2WDBIZ2ZiV1U0OG8xRXFlMzVTQi01WXJVNnJlaWZ3b2c?oc=5",
+        "date": "09/24 05:35"
+      },
+      {
         "type": "neutral",
         "title": "Alphabet Stock Dips: Here's What You Need To Know",
-        "publisher": "Benzinga",
+        "publisher": "benzinga.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmR2NGxyek5WMWxrb0hKenVvTkVERmhMWTlaR1N0VmZMa3AzNVZORnFNMXFibm9JZW9WY2ROUWJjaHp5YlVCVTZGbG56czIzMHlsTTdpazJTZHptb2dTdGZCR25qS0NrRzZvbXYwR1JybjRvb2pYYVBzU0FFQ1hJeW5FdmhKR1g4OWY0V1RMTTlKLWVjZDFmQ1dtTHBoM2lLd1o5aHo3bkh5Qkgt?oc=5",
         "date": "09/24 01:52"
-      },
-      {
-        "type": "neutral",
-        "title": "Google Stock (GOOGL) Slides Despite Launching Two New Gemini 3.8 Voice Models",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUtmV3AzVmdGWF9oVDViVkJ6eERiUlZ3YXdFZFZnWDJnVmdJYUZ2OU5RbjNXYWVMaml1bm1FRWQ4aUdoamI5cmlPbHdwWEs3RXVsRFRKcWJiQkJfMkhZc2lBQlNINmNhc2x5MkpUbjRfeWg2VENWM1BhZzhRemNzcTRkVzU5OEhmN3JOeEVuOGtya3V4M09JdGNnNkxKRVpYempr?oc=5",
-        "date": "09/24 02:40"
-      },
-      {
-        "type": "positive",
-        "title": "Alphabet (GOOGL) Stock May Be A Bargain After Privacy Fine",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUG4yWEZ5UWtaTTM0RmpYcmlmMjNHTUlQNW1fU2hmQ0pmODBwd0p4QWVrbGhRVElIbVVRdFREX1lGS3VmZFY5YzR2UVZmTDMybTJXeXRYSFVuV25PeHN1aUJ5di1Jc1JXX3BaUURubDVoMm1iQktrbzR0S2hCVkNPaEhrclJYTS1VZDhXTmI0czhPal9qeVVkaHRiMFgtQQ?oc=5",
-        "date": "09/23 10:14"
       }
     ],
     "QCOM": [
@@ -1018,25 +1017,25 @@
         "date": "09/23 06:45"
       },
       {
-        "type": "positive",
-        "title": "Why Is Vertiv Stock Up Sharply Over The Past Year Yet Well Below Its Peak?",
-        "publisher": "trefis.com",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWZOQTVmbVhDMVZ6ODlmZllJRUExbXp4alBWaU0yaHdWMFE3V3p1RE1OM3dsTnptMUhzek5MMnBKOUVuV1MxUXkxSlhMSVA2R0ZONjY5V2g4ZUVZMGxpT0czR0ZDYXUweGJDMTBadTJuV1NoWWVhRHJZWTc1Z1JxSHFjLUJ0d0dKMFdvNmJ4TERJNFVra3ZLQ1BpdThITDF6STE1cExZbU1OMnQzZ2dWR09ROVpNc29lSXo2ekh0ekRta2g1RWdTY3VqcGZhQQ?oc=5",
-        "date": "09/22 05:22"
-      },
-      {
-        "type": "negative",
-        "title": "Vertiv (VRT) Stock May Be Near Fair Value On Cash Flow",
+        "type": "neutral",
+        "title": "How Nvidia Cooling Approval At Vertiv Holdings Co (VRT) Has Changed Its Investment Story",
         "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaU1fa19LVV9ZbkJtcDFVUXpFZXNUd3hta1Q1Tnh4OWRaYVZ1dndBWjdINnVsMDhlZ3VGNS1GTnhYQXdkMkJfRVhOMGh3UkNCWWhhYjRqalAyZVdtZHZNYksyMmtfTmxKSjgyNC1HYlFfQWpGLU9qQTNjTUhEZnRsSXRicnV0M0NjMFdQT210U0F6UHNjdjNPNE41YWxScmxxLUQ3SjlGSmhYa0ZQTzNmaXQwSnFyWS1KWW9IajhfRTdDMlU0LXl5ZjhmUdIB0AFBVV95cUxPSTZCZElSd0xjejM0b3lVcUUzTTcySnhkOFdLX21zU0dheGpFOHNtT3JGODdRcFFPMnhQdWtHRzVxR3k0WmFjSXFKN0FsRWFPX1REaER3WDk5WmJqV3lEOFpjV2RzdS1Ub3FyX1NpT05WMG4xb193YndHaXY2Z2FsT25VUFhwejcwa2NuOXF4VVFzNVc0MUVxOVZpRU9NdDF4WFBpajNrWXZOWWNxdFFnMElWdnl0Z0ZfZ3RXUHg0ckdaVHlKU244NGdUZWxPUlZq?oc=5",
-        "date": "09/18 19:36"
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMW52aG43R0FPRjFiUzh4Y25HQUNMejc2ME9la0NieWFfbXI3bnU4aTU5OVdYV05RUUo5N254MUZQRDcxSjRBaU1JVzJnTk15c0JkUlFYT2lDdmIxVnJUbjl2NC1LaHVrRDdGUFU4eE1WUXpQMWdPZHE2NVdhN0xSd19LYXNKQklIcnZnaFIyTUc4ZlZUaUVTOWRhTlluQnBLRjY5dWw5blVKYzZncFc0aVJfQk5uc3cwNjZyRFFVX1EtZ1B4b1l2RlhDcVYxeThWQXdZTHVR0gHbAUFVX3lxTE5NVGI3MFh0QVlBcXRFN3RkWnVsRzQyMzl2MEhTTkdNSFUycVNJQnBRc2NwMC1HLWhock13cGFvUEw0NDJPNEo3bXRzNWRVTnFwZEVsa1puWklrWm9wWDZYMFVKLXlscnlGZTlod2syTlg0RFE2eE44U0JXOWFoUFBkdTNSdllSRE5OY1RKcmgyNENNd3R1cmhrVllkdlc2VTBZZmFjbGtDZi1GVVk1WVU4eTJ2X1gzakE3VEtKaTNXaHhlWVl2THpGenotYzlpbXk5d0VLU0FnajJvdw?oc=5",
+        "date": "09/24 07:33"
       },
       {
         "type": "positive",
-        "title": "Vertiv Holdings Co-A (NYSE:VRT): An Affordable Growth Case Backed by Strong Profitability",
-        "publisher": "ChartMill",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0dtTWdxYXpFdlNJc0VlcGZSTF9ycWRMYUZ4aElSNnZfZTM2NEt6TE9xaDlzOUZrcHpXcC0zOHNjM1p2Qk5NVDdKc19zemhncnZPOXFqZC1XNEZGNm5GRE9IU3dESGdnYzZQdlhZMGxHR24ybmxWdUtBZDFENUxQQjg5Ym02YmJOTHlWdXFnV3dHNXRQallTcmNMX2lLNmRXYVJYOWgyUlNTdUZURlIwelo4aWd5YkNnazFrSzgzOHJ6SUZ4cG54NHVhNURFWTJoUXc?oc=5",
-        "date": "09/21 17:10"
+        "title": "Why Does Vertiv Cost The Most In A Group It Does Not Out-Grow?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2lPM0dzU1RYYS1zb0VRdEp1T3lpODBCSldWWHo3b3RVRlJlNGkyWkNLY0V2blE2QU5hTzBfOFBpcVV6RXQ4SnRXNnBIYnRiSGVWLU9Wc3JxaDZFR256VWN0Y2lQSE5fa3RyQ2NxV080XzFHcWx4ZEpSajZvSHl3Z19kM1RsNXJZUENrdnk2V3lQQUZ2NjRuNVZnR2tTSTBXdFREelBNVVVJdTRhVGhYTzJrZjVISXBmNGI5MlBB?oc=5",
+        "date": "09/24 05:56"
+      },
+      {
+        "type": "neutral",
+        "title": "QRG Capital Management Inc. Purchases 10,835 Shares of Vertiv Holdings Co. $VRT",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaHFINEs5bWtsZHRPcUpORGk3ZEtiS3hEOGpXc0g4c0ZURlM5QXdPamwwUFl5NGZ1SEFuNUNpanE5UTZFd2xBQkZhZWtqejExRzg3dHlZcXo3V3ZPZmFKQXlFSGY4a3FRYno2SFU2SHU3aGNodk5zQ0NLZTc0MTFMVU96STljR3IyWWI4ZlhzYnpUYnhrdjVGeUlRa2hwQldGQS12cVdPWkpBcUxEV29IdkFKcWZobVFHMmdmazVQX01rNXM5Q1oxekh1VWVMOTY1c1E?oc=5",
+        "date": "09/24 08:08"
       }
     ]
   }
