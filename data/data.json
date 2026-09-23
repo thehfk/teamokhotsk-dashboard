@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-09-23T17:34:33.152403+00:00",
+  "updatedAt": "2026-09-23T20:50:45.366490+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7705.17,
-        "change": -0.77
+        "value": 7706.03,
+        "change": -0.76
       },
       {
         "name": "NASDAQ",
-        "value": 26908.02,
-        "change": -0.79
+        "value": 26936.04,
+        "change": -0.69
       },
       {
         "name": "다우존스",
-        "value": 51557.95,
-        "change": -0.94
+        "value": 51511.59,
+        "change": -1.03
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.28,
-        "change": 2.76
+        "value": 15.18,
+        "change": 2.08
       },
       {
         "name": "미국10년금리",
-        "value": 5.13,
-        "change": 3.43
+        "value": 5.11,
+        "change": 3.02
       },
       {
         "name": "원달러환율",
-        "value": 1370.05,
-        "change": -0.26
+        "value": 1366.27,
+        "change": 1.18
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "06/23",
           "06/24",
           "06/25",
           "06/26",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7365.46,
               7358.22,
               7357.49,
               7354.02,
@@ -179,13 +177,12 @@
               7637.76,
               7650.5,
               7764.7,
-              7705.17
+              7706.03
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              25587.04,
               25476.64,
               25358.6,
               25297.62,
@@ -248,13 +245,12 @@
               26418.3,
               26522.54,
               27122.09,
-              26908.02
+              26936.04
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              51666.84,
               51848.9,
               51920.62,
               51876.11,
@@ -317,7 +313,7 @@
               51778.04,
               51682.64,
               52048.83,
-              51557.95
+              51511.59
             ]
           }
         ]
@@ -459,7 +455,7 @@
               15.44,
               14.81,
               14.87,
-              15.28
+              15.18
             ]
           }
         ]
@@ -599,7 +595,7 @@
               4.95,
               5.0,
               4.96,
-              5.13
+              5.11
             ]
           },
           {
@@ -671,7 +667,8 @@
               1379.53,
               1384.86,
               1373.68,
-              1370.05
+              1350.36,
+              1366.27
             ]
           }
         ]
@@ -885,18 +882,18 @@
     ]
   },
   "rsi": {
-    "AVGO": 41.4,
-    "BE": 68.2,
-    "GOOGL": 52.3,
-    "QCOM": 73.3,
-    "VRT": 47.7
+    "AVGO": 43.0,
+    "BE": 67.5,
+    "GOOGL": 50.5,
+    "QCOM": 71.4,
+    "VRT": 47.2
   },
   "news": {
     "AVGO": [
       {
         "type": "negative",
         "title": "AVGO Stock Falls Premarket: China Reportedly Audits Broadcom’s Grip On State-Backed Data Centers",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVi1aZDZmUWlwREV1Zm9rSGZobFJjc0xYbTZhS0NrVWF1QVh5REZrRUZfRU1qM1FaWVhwTTBjMUxtRjBZR3JIMnhRbWlGU0dxU2wta2FkUGZNemtWZWdFZ3p6d0lQZDBWT0hRWElzNGJ4enI0OWthN1d3Y2RMaTZMLUZOR1duWnF5a0Q0WnVNRVJqeHdkbjNiUjBVbXFFdw?oc=5",
         "date": "09/23 17:23"
       },
@@ -915,11 +912,11 @@
         "date": "09/23 16:21"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom, Cisco, Arista Networks And A Financial Stock On CNBC’s ‘Final Trades’",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcEtiNi0tVGt4TXN3YlFRWjR1X0o2elFqa0xacVZqMXVtanJGbGtUR0dDejZDMmxKM1ZRVUNNRWtidU1PRkJsZnlSNGxPX0stZEZYMXhvQ0dnM2hRd1FOcWFjU2s4eFNSY2x0aTJVSFRlVVFQUmwtUGI2ZVU5cExsOWszN3BsNU9aQzZLRk9fd0VhbW8taGo5a0d2Yllha3kzanFMYmp6Vk9Iam1PVDZ2VmdBdEg3aUhtaHpVMHJEX2hNUWNfbTNCcEVLbl9IZw?oc=5",
-        "date": "09/21 21:04"
+        "type": "negative",
+        "title": "Why are Intel, AMD, Broadcom (AVGO) stocks down on Wednsday?",
+        "publisher": "Invezz",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMU51RUctbGo0TkJVNHhZZWtXOWxFeFBOaXFaLVA4RnZXb1NxUGNheFRnZjdqckFrWEt0TVFyZk10Tkh3a3VmUHRyNUF2S3drRGFGeDQwdzQ3RTdDLWJERnpaZUhVazlRSHNwWGNGRkdpenNQbjlFenZNSXJWV2o3Q3I0U0FOeWN2WmZET3BBQ2xaSTdWclE?oc=5",
+        "date": "09/24 00:58"
       }
     ],
     "BE": [
@@ -945,14 +942,21 @@
         "date": "09/08 16:00"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy (NYSE:BE) Stock Price Up 1.5% - Here's Why",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmx3MEN1VmVsYnFQRHJvUW5QWEloTHg4cUZVZHFQalZsS1R0b0oycnZDV011R2RyQXlrRlVqanFfWHF5X1FFQzRkQURsT3JqSEFnOUctNndiY3M5OWpJdjlNaWVDRlRJeHRkVG8tbEdfeExpeXU3TnN1cEJSMWNXRnpEYTVJQzN6VERIcnZSVTU2UktqemZiM2R0WXNhYU42Qnp2UFREYnBkLWJa?oc=5",
-        "date": "09/23 06:45"
+        "type": "neutral",
+        "title": "Why Did Bloom Energy Stock More Than Triple In A Year?",
+        "publisher": "trefis.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalI2RllDaHpSaFhCWmdJVktGbnJlQXY2WFltQWxYMzhTMUpQRFVNRXJwdHRKWlAybnFhUS1vX3ZfcDA0b293cTUwYjJLR1VONEdONXdid21LVmNqY3I0b216Nm1jNEJybnhDZHVYMnlaWmJWbEY2d3M3ZXNKdk9OeTRnYXFXMkpxMXFfMXlGRjdnTU1ab3AwejVmWDlPZWNzeDl4Z2NmVnNPWnhLY1M5RWRR?oc=5",
+        "date": "09/22 03:51"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "GOOGL, NFLX Stocks In Focus — Alphabet's YouTube Reportedly Rolls Out Fresh Tools To Prevent Creators From Defecting To Netflix",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0FPTVJWYUNIbVpJZTJBbDNwS21fWlJBd2lHVjJVQ1lRbmhBaVpEZGUtU19DRUkycGc1MkdtaEp5Z1NWR2poRnhoOVlqZ3pjVlFVWGRRUTdVdU8za2hDR1g4UjBBYkZ6dWljSFhJYlQ0OFBtYkl4TXFEN0VpU3hFRW9nTDdMdlhIbzVuRzFDMU5NcXN1OGFwcjlONDJTVmszOFdV?oc=5",
+        "date": "09/24 03:30"
+      },
       {
         "type": "neutral",
         "title": "Alphabet Stock Dips: Here's What You Need To Know",
@@ -961,69 +965,62 @@
         "date": "09/24 01:52"
       },
       {
-        "type": "negative",
-        "title": "GOOGL Stock Falls 5% As Google’s Flagship AI Model Reportedly Runs Behind Schedule — Why Retail Traders Aren’t Worried",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU2RCSy04MzlsSzRqMGRwa0kxS0d6OGhfY0pacTNXM19MU3RyeFoyWWtDTnRBS2dkMUxXTXI0N2NPdElBLVBZUlozaEdkV2ZVZzdBT1l1RU5Yd3RZd25uZ2hrRHBXS1k0a1VqRW5wM3JCb2pYV1BVVkI1ZjdPei1kbFpVdURoejY3a09TQ1JzcFlHd2R6cDFwNTcwYjlyTVNjZ1lEbFpPV1dpSWY5SndwMmFzV0tkUWdwTkNqX2V6V1FRcy1vXzMwb0h4SzdnQXQ4d1NPa1Q4YW8wS0dvbHhMZGJvenZPMVlJWEpZdGhmTi1LZ1ZDWnBJUkMwUkdvTzBf?oc=5",
-        "date": "09/23 19:05"
+        "type": "neutral",
+        "title": "Google Stock (GOOGL) Slides Despite Launching Two New Gemini 3.8 Voice Models",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUtmV3AzVmdGWF9oVDViVkJ6eERiUlZ3YXdFZFZnWDJnVmdJYUZ2OU5RbjNXYWVMaml1bm1FRWQ4aUdoamI5cmlPbHdwWEs3RXVsRFRKcWJiQkJfMkhZc2lBQlNINmNhc2x5MkpUbjRfeWg2VENWM1BhZzhRemNzcTRkVzU5OEhmN3JOeEVuOGtya3V4M09JdGNnNkxKRVpYempr?oc=5",
+        "date": "09/24 02:40"
       },
       {
         "type": "positive",
         "title": "Alphabet (GOOGL) Stock May Be A Bargain After Privacy Fine",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUG4yWEZ5UWtaTTM0RmpYcmlmMjNHTUlQNW1fU2hmQ0pmODBwd0p4QWVrbGhRVElIbVVRdFREX1lGS3VmZFY5YzR2UVZmTDMybTJXeXRYSFVuV25PeHN1aUJ5di1Jc1JXX3BaUURubDVoMm1iQktrbzR0S2hCVkNPaEhrclJYTS1VZDhXTmI0czhPal9qeVVkaHRiMFgtQQ?oc=5",
         "date": "09/23 10:14"
-      },
-      {
-        "type": "negative",
-        "title": "QQQ is down 0.9% today, on GOOGL stock price movement",
-        "publisher": "quiverquant.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWgzMFJPM3lPWE45YmR1SnJHNXFMYzhsbEw3S0RDVDZ5cFhBS2dFSmRoLW1WaldpQmdvN19Zcl9DNmJzanR2TS1SS0pvc0Nsd3ZROUp4V3o0bTdyTTR4cnQ3Sm1iaGVHRmRFd0R4T3p2UUhORVdjVm0walhZNmpkbEdKUmFoVHBXWlZ0ZDlRYnZJZmRl?oc=5",
-        "date": "09/24 01:15"
       }
     ],
     "QCOM": [
       {
         "type": "positive",
         "title": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFMzcHFuWU9ycGpfV2VpblVyWHFlUTY5T1BuNE1GQ1BJVFlvcDd5VFpCZXpCMmRlSWpQRkRZNkRodmF3N3h2cnZFMGVVb010LTVuVzE4eHZkV2g1NHFBcmNid0RVc0hUMkplaDMwSEpLU0JKU3Y4MlFBZmxiYXNpYlZrcUF4MHkyVGlka19ZbFIwaGRHOHc?oc=5",
         "date": "09/23 17:05"
       },
       {
         "type": "neutral",
-        "title": "What's Going On With Qualcomm Stock Wednesday? - Qualcomm (NASDAQ:QCOM)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd01UZEh5dmlxc2lwM2YwR2ZPRVI4THc2RVgzZzRvWnJvOHdUdFpnOEM5MGczbDNua1RlLWdGQVJhSk9lT25EalpsQU5fOUtya2pvOTBTblBrX0JvclVLNlpSYUxRM25aNEdYSTF4VnRTRlZDclN5RVFkRTF0NzhBNWY1U1o2SDJtRWhyVDNpMEg5UE1DZEJtZjVMNkhycG1QcWdFX0pjSTFSN2hGUmpEeHRVYXp6bHdfNmhUSnV3?oc=5",
-        "date": "09/23 18:36"
+        "title": "Qualcomm Takes AI To The Edge With New Mobile Chips",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTZYMlUwXzlZeTBaRjFYTTRaQVcxOWlPVzM5STc3SVQxVkM3OWJpenRxYkdGV3hhM192SENyUlRhYi10S194WjVoN2N6VF9yTTlvWjVqZng0Um80QVNTRjBRZjV5SXM2a2dkbllSM3Npbk1tS0dBWG1pMnhlQXZqQ1RqWTIwTWZPZDlZeVpCVi1zN3Y5YUJ0Sg?oc=5",
+        "date": "09/24 04:34"
       },
       {
-        "type": "positive",
-        "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTW5NVi1wbzR2OVNhLVd4M2liT1cyUzJLTEJZcEpRTlpYOERaOFJ2bkNjYUFjYjE1dVZUTDByb1h4OEEwV25jTW83RkFPTjZiM0pFWlJWSTIwb3ZZQ3VBaF9OZ2d1MHhuQ01tcE1fM09pNlZyWkFZbHNQa1R2ZUljaG5xcThvekF5aTgwYXZzejdwREFEM0JFc3JwbWYxX1NHc0NTclBObnJUYVFHVE9oWVlmazRGUV9ETURWRnp5cVFFUmlZQ2pVZDV0TE0yVC1fX3B2ZXlpRjlOZ0k0dlR5Z0lMcG5mMEl0RXBn?oc=5",
-        "date": "09/20 03:30"
+        "type": "neutral",
+        "title": "Chips to Bots: Qualcomm’s Agentic AI Breakout",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObF84ZXlfNVlXSzF2UW9aUkFKbUR2aVItMWk2eWNVZ2dEdDl3QUprVWZmd3RBSndjWXZUR0hfZVRJS1ozcW9lc1B6YW9VcWYzejlNQVh4ZzVScVlVUnZadENEN29LOVNMSWlrcXhnSjVLWmhUSXhZTEJ1ZGVWbVkwZms2UXozdlU?oc=5",
+        "date": "09/24 04:06"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb3p4WjA3U3FJZXpjWjNJbm1wZFFHa0IzYlJnRE4xNkFvRUczUkxjZ2x4aWRRRW5FamFHRjVNNlM4eUh3S1E2bzJzZTN1YlptQ0ZWQUM1eEpOMGFrMHprVWZEOFJkTGdBSW5PNDJlalUzNEowMmktNTFJX3hSdXRtc3d0RzljcUpXLWVUUFAyZUViR1FzTFE1SzBDSjlUX1hNN0xGS0dxd0ZWRE5jZ0FJMnlFVWZOUkplZ0hQM0xNcjdwRTF3ZFEtYVh6Vi1DX0FkSEVrWlp3dFhJNFYtb0JCcDJybkw5SlpkYnFqLUEyckZheTBzbVNV?oc=5",
-        "date": "09/23 06:52"
+        "type": "neutral",
+        "title": "At $195 a share, Qualcomm (QCOM) CEO's family trust sells shares under a trading plan",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY1JGYm9NWDFIbjItalNZMHg5aTA2LTNFUEJNclVwaVJpeE5xZ1B2RmxvVnJ0Qzg3WEZ3QktCdmpEZEdPX0UtYmttRkRuUlRDV2ZyVVEyXy1iaUFhTlZfM1J1UEYtY3Z5T0RPSTB5MUtXOVVhdFo5bnJHU3B3WS04aVZ2a3R4Z1VHWUJqZVBaVU1ycWM0MEQ2RGpOVzNfS0VEMHNQdGRlRWRhNDZFZ2c?oc=5",
+        "date": "09/24 05:22"
       }
     ],
     "VRT": [
       {
         "type": "neutral",
         "title": "Vertiv Holdings Co. (VRT) Stock Moves 1.04%: What You Should Know",
-        "publisher": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzdPU2dYMjFiQVhpaWpQaXlNTDdpbXFDZDAyYkxkeXBjTnNNckJCRHJqRVdIOEFpMnpKd19VTERxanhjVXF1b2Y2NHhZdEJnNVFGU1FWZzJMTUFkcUpKN1NWWnMzNURqUE50Zk9QVVBzRUd3cHBoajByOUhmTmNDNXhONzBwQ01DSFpiUjhidy0xNnlJelJybA?oc=5",
         "date": "09/23 06:45"
       },
       {
         "type": "positive",
         "title": "Why Is Vertiv Stock Up Sharply Over The Past Year Yet Well Below Its Peak?",
-        "publisher": "Trefis",
+        "publisher": "trefis.com",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWZOQTVmbVhDMVZ6ODlmZllJRUExbXp4alBWaU0yaHdWMFE3V3p1RE1OM3dsTnptMUhzek5MMnBKOUVuV1MxUXkxSlhMSVA2R0ZONjY5V2g4ZUVZMGxpT0czR0ZDYXUweGJDMTBadTJuV1NoWWVhRHJZWTc1Z1JxSHFjLUJ0d0dKMFdvNmJ4TERJNFVra3ZLQ1BpdThITDF6STE1cExZbU1OMnQzZ2dWR09ROVpNc29lSXo2ekh0ekRta2g1RWdTY3VqcGZhQQ?oc=5",
         "date": "09/22 05:22"
       },
