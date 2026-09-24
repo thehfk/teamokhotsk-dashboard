@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T06:56:22.568374+00:00",
+  "updatedAt": "2026-09-24T12:27:24.627455+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.18,
-        "change": 2.08
+        "value": 16.05,
+        "change": 5.73
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1368.17,
-        "change": 1.32
+        "value": 1367.7,
+        "change": 1.28
       },
       {
         "name": "KOSPI",
@@ -321,7 +321,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "06/23",
           "06/24",
           "06/25",
           "06/26",
@@ -385,13 +384,13 @@
           "09/17",
           "09/18",
           "09/21",
-          "09/23"
+          "09/23",
+          "09/24"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              19.49,
               18.63,
               18.89,
               18.41,
@@ -455,7 +454,8 @@
               15.44,
               14.81,
               14.87,
-              15.18
+              15.18,
+              16.05
             ]
           }
         ]
@@ -463,7 +463,6 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "06/23",
           "06/24",
           "06/25",
           "06/26",
@@ -532,7 +531,6 @@
           {
             "name": "미국10년금리",
             "data": [
-              4.49,
               4.4,
               4.39,
               4.37,
@@ -667,7 +665,7 @@
               1384.86,
               1373.68,
               1350.36,
-              1368.17
+              1367.7
             ]
           }
         ]
@@ -900,41 +898,41 @@
         "date": "09/23 17:23"
       },
       {
+        "type": "neutral",
+        "title": "Broadcom Just Named Its Next AI Customer. It Isn’t Google.",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjltRUF3R0xUVTFjLXNDQWdjTWJESzdRU2xpa19KYWU0ck10R1VYRUtSUkt1OXlLRXY5NkRxbHc2ejNMY3BMeFRDUndDUk5meTlSeDNGem84Uy02dUZreXBfam1POWdfUHNMaDN4TGZ5ZURYM2U3Mzlkanotbk80bV90VWtHVy1XVlpzTTM3T0h2bXVzVGc?oc=5",
+        "date": "09/23 07:20"
+      },
+      {
+        "type": "neutral",
+        "title": "This Semiconductor Stock Signal Has Never Been Wrong",
+        "publisher": "Forbes",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaE5ocE5NQ2NpOFVuM1VjUk5TQ1RFZzU0VE91MWl0SlpidTA2cTFMQkRPdVNEUWl0aFBMeERTSkpPTjRlQ0dVQ24yXzRONjM1Q1ZpRjgzWFZlSWQzWl9RZFZ5SzRkOUdOdFNUamIxdnBTS3hLVm5GNTBjZ2lXTDU4eFg1Q3JFeUlENXVRaGJrZ0tuZVVQY0Q4dmFkcjZJeTJ4RDFvbzJsc1g0RmtUdzc4cg?oc=5",
+        "date": "09/24 21:00"
+      },
+      {
         "type": "positive",
         "title": "Broadcom: Hard To Ignore The Numbers, Buy Before The Market Catches Up",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0hvdFFRejBtdUtDcUdGT1k5Nlk4Sklsa2prenM0amJSQ0N3WjU3UUdTVWZKWGhaR3N2RldEYm4tdTRUZGRNODg3QWVzT1M5YnZZRWRtSUNtSGdscDQ5R3BvQlBpdG8xSjhvYmpEeTJHTHRSQlF2RFZzTWZaOTYxWXNWdlZJZ0UtbERJSWJFTmZrcHlIbGRvNUU2N3JSQVd4WlJFSmg2b2ttLVlLMXBjYVZR?oc=5",
         "date": "09/23 16:21"
-      },
-      {
-        "type": "positive",
-        "title": "Broadcom (AVGO) Is Up 7.4% After Massive Buybacks And AI Chip Deals With Hyperscalers - Has The Bull Case Changed?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLU4wTFdINnhXYi0xeElNa0RkaHd2NVo5czA3YkVFcTNsZ3lobnZpdXdEYktGaGNKcmVPSlY3dTlOaFZLc2xVWmxTeVhuNGxHZzRuMlVTRW1vbkFoaEZYdkU1SENCSHQ2aWdFR0JLamg4WUN0YXZaT3lpbHBqLUFzM25rcEVrTkVCTUdNMFJva1dXS0k?oc=5",
-        "date": "09/23 11:13"
-      },
-      {
-        "type": "neutral",
-        "title": "Where Will Broadcom Stock Be in 5 Years?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2VRTnF6NTJlRE5FV0JNNl9ROU9sSEhkMHoxd2tyaU9qT0JCZXBQWmhjd0ZJSWtuekFickg4ZVdyQjhDN2FjcWEtUW1JUGR0MGpMYlRBYkFoc002bDR6S1I1TjlZVWlKR3RqZzdFR18yMml3b0lpcFVMWUtBZFFmUm4yTERtVy1wUVE?oc=5",
-        "date": "09/24 14:35"
       }
     ],
     "BE": [
+      {
+        "type": "positive",
+        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
+        "date": "09/24 14:55"
+      },
       {
         "type": "neutral",
         "title": "Bloom Energy Corporation (BE) Stock Forecasts",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjNuN21CZGk0UlFoUEdBdlhscGxrRm1EdlptUTdIb0xKMl9SZ2FzeDRhNEFiamM0VmFBZlFtQ016Z0g2UGxRWHpLY0pZZlUzZ1E2OW1TOWFSTHVRMmpWUC1abEd6WDMxeHdJYkdsdUh5azNlTC1ETTUxQ0xmNEZnYjBCeUtVNkVlUjh4NEk3UQ?oc=5",
         "date": "09/24 08:29"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
-        "date": "09/22 09:29"
       },
       {
         "type": "neutral",
@@ -954,17 +952,17 @@
     "GOOGL": [
       {
         "type": "negative",
+        "title": "GOOGL Stock Steadies After Worst Drop In A Month As DeepMind Chief Says Gemini 4 Is Coming 'Much Earlier'",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQXBnd2Y5QURFZ0JWYjRwSmc4a2RYUmlnMmMtREZ5eHhxa0VRMnZGemdnMklsZk1OcC1rU05TYnYtNXcxRE50UEtod2pNZE44aUdxRFk3V2YzUFJfNUpNRDhSeHczMTVEdzVMTXgzak0teWJoTFczNm1jVEdMelNXd1VkU3pvQTZVSVhfOC1WaFphZ3lLbEI5ZHBTd24?oc=5",
+        "date": "09/24 13:55"
+      },
+      {
+        "type": "negative",
         "title": "Why Alphabet (GOOGL) Stock Is Down Today",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmZwQU5hR1ZWbzV1Y2ZHRS1iTVJoQmNXdmFtc1R0eGcwdjB1a1hhMXBKT1l6MUtSNFhGeGkwM0ZGQkJSdmQ3aGVEa2xNNE9EZFBTZktNVFNsOGJDZmlkUlhkaF9FWC1vdkFuQkx6UHNaNzE3X1h3em5OYU1KS0tMU0huUFhhZmdsZXJmaEhNd1RrTU56Z0tscllB?oc=5",
         "date": "09/24 06:22"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Inc. (GOOG) Dips More Than Broader Market: What You Should Know",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXJDeXEtQUlDS3E0djEwckYyWTE3QjhPa3pTTmFkQ2Q1aEZnenJwMWFIM0NUVVFTT0hIN3FaWlU5NjdzWk9lQWFjVEctVkdyeElZWUI3UFFjVWZURGJHUFQ0bmt3MlhrSlhoTElvcEpLZWlCbF9oZG0yY0JMWkl0VXRKdFZvMjVVZ2NHTHoxaFRQMkFPZTc0?oc=5",
-        "date": "09/24 06:45"
       },
       {
         "type": "neutral",
@@ -975,40 +973,40 @@
       },
       {
         "type": "neutral",
-        "title": "GOOGL, NFLX Stocks In Focus — Alphabet's YouTube Reportedly Rolls Out Fresh Tools To Prevent Creators From Defecting To Netflix",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcWtuWURvN3RlVE9CZU90bXRidGI1SGNfWUFjWG9UVG9icGFoeV9jOWZPdFl1b2hyenpQUWxSUE8ydG1hRlZyMl9PazhBQVNXZlYxRk1uckhOZktTNW5weHlEVjZZS0VtRTNfVWoydFhycndLQno0V2tSeXdDRlhzbTN1Y1ZkSjVNYXpwVE1XbWM5SlBBRm93QVVQSk42YnlkTlNseWwwbjdfY2tDUnRUbk9CQmViQzJPNmZoNmZuV2Z5bE5kTlVaT1JjVVVYdU5aWVpqX0JwRHhHdkpORFoyaVJPNkp0dU1OdVZxNkpEQUJlTnJ2UzFNS2RCU2tqNG5jTkt5dTBFSnFFbkFzNHBkUzRvUQ?oc=5",
-        "date": "09/24 03:30"
+        "title": "Alphabet Inc. (GOOG) Dips More Than Broader Market: What You Should Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXJDeXEtQUlDS3E0djEwckYyWTE3QjhPa3pTTmFkQ2Q1aEZnenJwMWFIM0NUVVFTT0hIN3FaWlU5NjdzWk9lQWFjVEctVkdyeElZWUI3UFFjVWZURGJHUFQ0bmt3MlhrSlhoTElvcEpLZWlCbF9oZG0yY0JMWkl0VXRKdFZvMjVVZ2NHTHoxaFRQMkFPZTc0?oc=5",
+        "date": "09/24 06:45"
       }
     ],
     "QCOM": [
+      {
+        "type": "negative",
+        "title": "How Far Could Qualcomm Stock Fall If Memory Stays Expensive?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmYwdVJyUU15NzY4TVlpTGt6M0R4LV9vS1FiQ090ZTNOdjc0RVZURWIwcm13ZWlQT0p4VDhfWnJHOG8ybTJMQWF4WG1WbGtwWFcxbnlDS3ZmNUhlMGMyWHRQZ2g2bk5LQXdBeGtXRE9EMVNFSVozdlozZERaU1d3aGhJV0NoNndKSG9Pam9KQ3ZCdjhUTHhsNF9TZVNtOWtuMXQyaEZJWFZwZW9oLW5KRi1Hdmk0V240bDlsNjNaeC1MRi14Ul9kYjln?oc=5",
+        "date": "09/24 18:31"
+      },
+      {
+        "type": "positive",
+        "title": "MU, AMD, MRVL, QCOM Stocks Surge — Bernstein’s Stacy Rasgon Says AI Demand Is Exploding, Memory Capacity Is 'Very Tight'",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWk1VdGVNT2dIX2ZLdTdsNS13RkRVUm9OMm52LVNJVGZIMFZVTThDV1M5bmc4UzNobnlqZkFrQUIyNUtpbVlOZVpWMjNMYXdXSDIteFBxdXI3ZU5MX3JXdlRKa3ZZVFJkTDVWZ25ONWZNLURhNHBZX1hkQ3U0eFJqRkRZSkxyZkFrUEs1SEFmVjRDRWhpUVl6bXdFTmNKWHRsbG9RRGE5UmRBWVF3TjNrSHdlTWNCY3V3OWszTXQ4QjhsYmlnbXg0?oc=5",
+        "date": "09/24 16:46"
+      },
+      {
+        "type": "neutral",
+        "title": "New AI Chips Might Change The Case For Investing In Qualcomm Stock",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd0hGeFJUNTZYVXRHVWp1cDd5cldaMzlSZ3pKb1NCSHBVR0tVZmhDSGw4N2s2d1JueENEMmpXejN3bU5SSEZVSmZ4cFZUdGZuQ1BBeG00NUQ3SWVHcTFMNng4bS1jNTA3WUtDZHlrR3dfMllHTll3a2ZlZGhqUWg5UDE1OW1zekJ2Qm1YLVJCM19iNWMwLVdNaW1sMW01X05nd2VJdHk1cTRIQXpJY25tcTdYMm5oeklXTTZBeHpLck5Ha1hWODZOdmpReXFpUdIB0wFBVV95cUxOYk5vVGd3X19xNEdTbzItZGlfcEx0SkV6M2pWd0p6bThncDBRY0twdnhERVQtNjRaMTlSVXNMZjNpUHA0M0ttZEhVT3IybWZZS2cxYjBUamR5TnNmNFE0NUZvb0lDTDlYSXUtekt5TTQ4REF1SGV0Q3YweHJFMjA2cE9DdVExSV9obWpZVTZBbW5NaVF4bzZjY1dLZ2psQ21oQmUtVGZlVHVIVXN6RUwxbnBpMTZzVF9YMDRmTVNDeEZLd25PY3VmcGNLZW1sX1VJVUIw?oc=5",
+        "date": "09/24 20:09"
+      },
       {
         "type": "neutral",
         "title": "Qualcomm Takes AI To The Edge With New Mobile Chips",
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTZYMlUwXzlZeTBaRjFYTTRaQVcxOWlPVzM5STc3SVQxVkM3OWJpenRxYkdGV3hhM192SENyUlRhYi10S194WjVoN2N6VF9yTTlvWjVqZng0Um80QVNTRjBRZjV5SXM2a2dkbllSM3Npbk1tS0dBWG1pMnhlQXZqQ1RqWTIwTWZPZDlZeVpCVi1zN3Y5YUJ0Sg?oc=5",
         "date": "09/24 07:37"
-      },
-      {
-        "type": "neutral",
-        "title": "QUALCOMM (QCOM) Draws Fresh AI Focus As Valuation Looks Close To Fair Value",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSjl2MUF0YTA3dXNUWm4wNV9KQ0xvNDZEQWFWTndCTXBzZDAxZUlKaGNhVUZSM0NDZlNMbkdNT1lKc055Y0F2ZzBoQTlmbTJIWXVxcGhZRmQwN242LVFEel9KRWQwZHZrNS1qdzhzeVY0c2hocGRBVXJPWEJVTTA3YjNoWUJoZGw4c1AxOW5ybGZxZ3o1YVVj?oc=5",
-        "date": "09/24 03:15"
-      },
-      {
-        "type": "neutral",
-        "title": "Chips to Bots: Qualcomm’s Agentic AI Breakout",
-        "publisher": "marketbeat.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObF84ZXlfNVlXSzF2UW9aUkFKbUR2aVItMWk2eWNVZ2dEdDl3QUprVWZmd3RBSndjWXZUR0hfZVRJS1ozcW9lc1B6YW9VcWYzejlNQVh4ZzVScVlVUnZadENEN29LOVNMSWlrcXhnSjVLWmhUSXhZTEJ1ZGVWbVkwZms2UXozdlU?oc=5",
-        "date": "09/24 04:11"
-      },
-      {
-        "type": "neutral",
-        "title": "At $195 a share, Qualcomm (QCOM) CEO's family trust sells shares under a trading plan",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY1JGYm9NWDFIbjItalNZMHg5aTA2LTNFUEJNclVwaVJpeE5xZ1B2RmxvVnJ0Qzg3WEZ3QktCdmpEZEdPX0UtYmttRkRuUlRDV2ZyVVEyXy1iaUFhTlZfM1J1UEYtY3Z5T0RPSTB5MUtXOVVhdFo5bnJHU3B3WS04aVZ2a3R4Z1VHWUJqZVBaVU1ycWM0MEQ2RGpOVzNfS0VEMHNQdGRlRWRhNDZFZ2c?oc=5",
-        "date": "09/24 05:22"
       }
     ],
     "VRT": [
@@ -1027,18 +1025,18 @@
         "date": "09/23 10:16"
       },
       {
-        "type": "positive",
-        "title": "Why Does Vertiv Cost The Most In A Group It Does Not Out-Grow?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2lPM0dzU1RYYS1zb0VRdEp1T3lpODBCSldWWHo3b3RVRlJlNGkyWkNLY0V2blE2QU5hTzBfOFBpcVV6RXQ4SnRXNnBIYnRiSGVWLU9Wc3JxaDZFR256VWN0Y2lQSE5fa3RyQ2NxV080XzFHcWx4ZEpSajZvSHl3Z19kM1RsNXJZUENrdnk2V3lQQUZ2NjRuNVZnR2tTSTBXdFREelBNVVVJdTRhVGhYTzJrZjVISXBmNGI5MlBB?oc=5",
-        "date": "09/24 05:56"
-      },
-      {
         "type": "neutral",
         "title": "How Nvidia Cooling Approval At Vertiv Holdings Co (VRT) Has Changed Its Investment Story",
         "publisher": "simplywall.st",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMW52aG43R0FPRjFiUzh4Y25HQUNMejc2ME9la0NieWFfbXI3bnU4aTU5OVdYV05RUUo5N254MUZQRDcxSjRBaU1JVzJnTk15c0JkUlFYT2lDdmIxVnJUbjl2NC1LaHVrRDdGUFU4eE1WUXpQMWdPZHE2NVdhN0xSd19LYXNKQklIcnZnaFIyTUc4ZlZUaUVTOWRhTlluQnBLRjY5dWw5blVKYzZncFc0aVJfQk5uc3cwNjZyRFFVX1EtZ1B4b1l2RlhDcVYxeThWQXdZTHVR0gHbAUFVX3lxTE5NVGI3MFh0QVlBcXRFN3RkWnVsRzQyMzl2MEhTTkdNSFUycVNJQnBRc2NwMC1HLWhock13cGFvUEw0NDJPNEo3bXRzNWRVTnFwZEVsa1puWklrWm9wWDZYMFVKLXlscnlGZTlod2syTlg0RFE2eE44U0JXOWFoUFBkdTNSdllSRE5OY1RKcmgyNENNd3R1cmhrVllkdlc2VTBZZmFjbGtDZi1GVVk1WVU4eTJ2X1gzakE3VEtKaTNXaHhlWVl2THpGenotYzlpbXk5d0VLU0FnajJvdw?oc=5",
         "date": "09/24 07:33"
+      },
+      {
+        "type": "positive",
+        "title": "Why Does Vertiv Cost The Most In A Group It Does Not Out-Grow?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2lPM0dzU1RYYS1zb0VRdEp1T3lpODBCSldWWHo3b3RVRlJlNGkyWkNLY0V2blE2QU5hTzBfOFBpcVV6RXQ4SnRXNnBIYnRiSGVWLU9Wc3JxaDZFR256VWN0Y2lQSE5fa3RyQ2NxV080XzFHcWx4ZEpSajZvSHl3Z19kM1RsNXJZUENrdnk2V3lQQUZ2NjRuNVZnR2tTSTBXdFREelBNVVVJdTRhVGhYTzJrZjVISXBmNGI5MlBB?oc=5",
+        "date": "09/24 05:56"
       }
     ]
   }
