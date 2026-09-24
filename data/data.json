@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T23:19:45.491826+00:00",
+  "updatedAt": "2026-09-24T01:31:52.908048+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1366.42,
-        "change": 1.19
+        "value": 1369.3,
+        "change": 1.4
       },
       {
         "name": "KOSPI",
@@ -667,7 +667,7 @@
               1384.86,
               1373.68,
               1350.36,
-              1366.42
+              1369.3
             ]
           }
         ]
@@ -881,11 +881,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 43.0,
-    "BE": 67.5,
-    "GOOGL": 50.5,
-    "QCOM": 71.4,
-    "VRT": 47.2
+    "AVGO": 46.8,
+    "BE": 68.7,
+    "GOOGL": 63.3,
+    "QCOM": 74.0,
+    "VRT": 46.9
   },
   "news": {
     "AVGO": [
@@ -897,18 +897,18 @@
         "date": "09/23 17:23"
       },
       {
-        "type": "neutral",
-        "title": "‘Prepare for What’s Coming,’ Says Top Analyst About Broadcom Stock",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHpGbGRrQW1zbHMtLVZVRHdyR1BvNEdxOW9XTGwzYmlfYXRtel84MkE1M1N5bzdGRk9NTzI1SFBad09qbnBXR01Za3FGMEMzOWlOdXFKQU9YU3kzQWdKaDFDbVNKUXFTbTRRSWprUXVWT1lkOVRwYnhTTmR4R1o4WnpmaDY0R0JOVEs5UWhNWUZZT3FUZm1J?oc=5",
-        "date": "09/22 03:13"
-      },
-      {
         "type": "positive",
         "title": "Broadcom: Hard To Ignore The Numbers, Buy Before The Market Catches Up",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0hvdFFRejBtdUtDcUdGT1k5Nlk4Sklsa2prenM0amJSQ0N3WjU3UUdTVWZKWGhaR3N2RldEYm4tdTRUZGRNODg3QWVzT1M5YnZZRWRtSUNtSGdscDQ5R3BvQlBpdG8xSjhvYmpEeTJHTHRSQlF2RFZzTWZaOTYxWXNWdlZJZ0UtbERJSWJFTmZrcHlIbGRvNUU2N3JSQVd4WlJFSmg2b2ttLVlLMXBjYVZR?oc=5",
         "date": "09/23 16:21"
+      },
+      {
+        "type": "positive",
+        "title": "Broadcom (AVGO) Is Up 7.4% After Massive Buybacks And AI Chip Deals With Hyperscalers - Has The Bull Case Changed?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLU4wTFdINnhXYi0xeElNa0RkaHd2NVo5czA3YkVFcTNsZ3lobnZpdXdEYktGaGNKcmVPSlY3dTlOaFZLc2xVWmxTeVhuNGxHZzRuMlVTRW1vbkFoaEZYdkU1SENCSHQ2aWdFR0JLamg4WUN0YXZaT3lpbHBqLUFzM25rcEVrTkVCTUdNMFJva1dXS0k?oc=5",
+        "date": "09/23 11:13"
       },
       {
         "type": "neutral",
@@ -921,10 +921,10 @@
     "BE": [
       {
         "type": "neutral",
-        "title": "Bloom Energy (BE) Stock May Be Reasonable Despite Its Huge 3 Year Run",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOakxuRlRwSHR0MHhpSUxtSWVydzBfZnJqX0k2NVBVYzlXZjdzRWNCY0w4ZFRTeXFNd1B3cDN3R3g0d1FsT0k1RzEyQ1FkUE1JMGJRTEJkc0lmQWtlLVFfX25wX01FaWxoWVUyNmdiR2NEQ1N0UXpQNVZTNHczb1JGTUxQQnNpTi1GVmdwZ3FYNU9TSXZoNDJMM1BNS2Z2eWVhLVZTRnEtOWhKclhMRkE3X2FUX1NUbWZQT2RieFpOd08wSHhkeVUyWWtLRkXSAdIBQVVfeXFMUEtUa0stQ3labzhIVVAwQVFCbnljUFBTbHJlZ2pIbVN0ZjZSNnlENmt0czB1VGhfYzMwLWpjUmlRUk9FaXZHWERUb2ljR2JKSmNUSWR5Yld4b0M2WUFlcEFEOGdCVExIWmhEYXVodGhJQnUxOGtLWTdXX1FlQmczVFZUQVl3bzh0UFZjN2x1ZVJkdm1RVE14MXFkMXdEZXY0M1I4Sm1mQ0FRSWNoU0JNNnBDMmQzekEwNHNKUmNuNWpnNnFRZ2xfSExOZ1R0TTNwSGFB?oc=5",
-        "date": "09/23 12:45"
+        "title": "Bloom Energy Corporation (BE) Stock Forecasts",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjNuN21CZGk0UlFoUEdBdlhscGxrRm1EdlptUTdIb0xKMl9SZ2FzeDRhNEFiamM0VmFBZlFtQ016Z0g2UGxRWHpLY0pZZlUzZ1E2OW1TOWFSTHVRMmpWUC1abEd6WDMxeHdJYkdsdUh5azNlTC1ETTUxQ0xmNEZnYjBCeUtVNkVlUjh4NEk3UQ?oc=5",
+        "date": "09/24 08:29"
       },
       {
         "type": "positive",
@@ -935,27 +935,20 @@
       },
       {
         "type": "neutral",
+        "title": "Bloom Energy (BE) Stock May Be Reasonable Despite Its Huge 3 Year Run",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOakxuRlRwSHR0MHhpSUxtSWVydzBfZnJqX0k2NVBVYzlXZjdzRWNCY0w4ZFRTeXFNd1B3cDN3R3g0d1FsT0k1RzEyQ1FkUE1JMGJRTEJkc0lmQWtlLVFfX25wX01FaWxoWVUyNmdiR2NEQ1N0UXpQNVZTNHczb1JGTUxQQnNpTi1GVmdwZ3FYNU9TSXZoNDJMM1BNS2Z2eWVhLVZTRnEtOWhKclhMRkE3X2FUX1NUbWZQT2RieFpOd08wSHhkeVUyWWtLRkXSAdIBQVVfeXFMUEtUa0stQ3labzhIVVAwQVFCbnljUFBTbHJlZ2pIbVN0ZjZSNnlENmt0czB1VGhfYzMwLWpjUmlRUk9FaXZHWERUb2ljR2JKSmNUSWR5Yld4b0M2WUFlcEFEOGdCVExIWmhEYXVodGhJQnUxOGtLWTdXX1FlQmczVFZUQVl3bzh0UFZjN2x1ZVJkdm1RVE14MXFkMXdEZXY0M1I4Sm1mQ0FRSWNoU0JNNnBDMmQzekEwNHNKUmNuNWpnNnFRZ2xfSExOZ1R0TTNwSGFB?oc=5",
+        "date": "09/23 12:45"
+      },
+      {
+        "type": "neutral",
         "title": "This alternative energy stock is more popular than SpaceX in the options pits. Here's why",
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVdEUjRzXzdhX3NvbmlaOEQtSEZFcmVkVUNhVE5SX2R6cUxKZ1Z0M0tuN3RPR3lPLWRKMlRzZWVXY0xTQlRpWXBlVERVd1FUUllXeWpBUnpZMlN3S2g4UDBQVzhMMXVveFh2WER1anFLa0RFVFhneG9wUmxON0dnVlpGZ0RrZzhVM05jeVJ30gGTAUFVX3lxTE1JLXhMY3U0c0Rseko0U1ZPemxrTWxKSzhMTElHSWZZUmR3NTk4d0xyNHVnRUtwaE9FTUQtNXA0UWZIek1rQmJ3cXFCUFJNUDFpR2l4YmI1Rm5DX0F6cDFsdlUtVDVEeE03V0NWdUFCNGY1NTdmTDZPOU5oTER0LUhEUVlBWFlPUXV3blM0VGpYTnEtTQ?oc=5",
         "date": "09/08 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Why Did Bloom Energy Stock More Than Triple In A Year?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalI2RllDaHpSaFhCWmdJVktGbnJlQXY2WFltQWxYMzhTMUpQRFVNRXJwdHRKWlAybnFhUS1vX3ZfcDA0b293cTUwYjJLR1VONEdONXdid21LVmNqY3I0b216Nm1jNEJybnhDZHVYMnlaWmJWbEY2d3M3ZXNKdk9OeTRnYXFXMkpxMXFfMXlGRjdnTU1ab3AwejVmWDlPZWNzeDl4Z2NmVnNPWnhLY1M5RWRR?oc=5",
-        "date": "09/22 03:51"
       }
     ],
     "GOOGL": [
-      {
-        "type": "neutral",
-        "title": "Google Stock (GOOGL) Slides Despite Launching Two New Gemini 3.8 Voice Models",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUtmV3AzVmdGWF9oVDViVkJ6eERiUlZ3YXdFZFZnWDJnVmdJYUZ2OU5RbjNXYWVMaml1bm1FRWQ4aUdoamI5cmlPbHdwWEs3RXVsRFRKcWJiQkJfMkhZc2lBQlNINmNhc2x5MkpUbjRfeWg2VENWM1BhZzhRemNzcTRkVzU5OEhmN3JOeEVuOGtya3V4M09JdGNnNkxKRVpYempr?oc=5",
-        "date": "09/23 23:50"
-      },
       {
         "type": "neutral",
         "title": "GOOGL, NFLX Stocks In Focus — Alphabet's YouTube Reportedly Rolls Out Fresh Tools To Prevent Creators From Defecting To Netflix",
@@ -973,12 +966,26 @@
       {
         "type": "neutral",
         "title": "Alphabet Stock Dips: Here's What You Need To Know",
-        "publisher": "benzinga.com",
+        "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmR2NGxyek5WMWxrb0hKenVvTkVERmhMWTlaR1N0VmZMa3AzNVZORnFNMXFibm9JZW9WY2ROUWJjaHp5YlVCVTZGbG56czIzMHlsTTdpazJTZHptb2dTdGZCR25qS0NrRzZvbXYwR1JybjRvb2pYYVBzU0FFQ1hJeW5FdmhKR1g4OWY0V1RMTTlKLWVjZDFmQ1dtTHBoM2lLd1o5aHo3bkh5Qkgt?oc=5",
         "date": "09/24 01:52"
+      },
+      {
+        "type": "neutral",
+        "title": "Google Stock (GOOGL) Slides Despite Launching Two New Gemini 3.8 Voice Models",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUtmV3AzVmdGWF9oVDViVkJ6eERiUlZ3YXdFZFZnWDJnVmdJYUZ2OU5RbjNXYWVMaml1bm1FRWQ4aUdoamI5cmlPbHdwWEs3RXVsRFRKcWJiQkJfMkhZc2lBQlNINmNhc2x5MkpUbjRfeWg2VENWM1BhZzhRemNzcTRkVzU5OEhmN3JOeEVuOGtya3V4M09JdGNnNkxKRVpYempr?oc=5",
+        "date": "09/23 23:50"
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "Qualcomm Takes AI To The Edge With New Mobile Chips",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTZYMlUwXzlZeTBaRjFYTTRaQVcxOWlPVzM5STc3SVQxVkM3OWJpenRxYkdGV3hhM192SENyUlRhYi10S194WjVoN2N6VF9yTTlvWjVqZng0Um80QVNTRjBRZjV5SXM2a2dkbllSM3Npbk1tS0dBWG1pMnhlQXZqQ1RqWTIwTWZPZDlZeVpCVi1zN3Y5YUJ0Sg?oc=5",
+        "date": "09/24 07:37"
+      },
       {
         "type": "positive",
         "title": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch",
@@ -988,17 +995,10 @@
       },
       {
         "type": "neutral",
-        "title": "Qualcomm Takes AI To The Edge With New Mobile Chips",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTZYMlUwXzlZeTBaRjFYTTRaQVcxOWlPVzM5STc3SVQxVkM3OWJpenRxYkdGV3hhM192SENyUlRhYi10S194WjVoN2N6VF9yTTlvWjVqZng0Um80QVNTRjBRZjV5SXM2a2dkbllSM3Npbk1tS0dBWG1pMnhlQXZqQ1RqWTIwTWZPZDlZeVpCVi1zN3Y5YUJ0Sg?oc=5",
-        "date": "09/24 04:34"
-      },
-      {
-        "type": "neutral",
         "title": "Chips to Bots: Qualcomm’s Agentic AI Breakout",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObF84ZXlfNVlXSzF2UW9aUkFKbUR2aVItMWk2eWNVZ2dEdDl3QUprVWZmd3RBSndjWXZUR0hfZVRJS1ozcW9lc1B6YW9VcWYzejlNQVh4ZzVScVlVUnZadENEN29LOVNMSWlrcXhnSjVLWmhUSXhZTEJ1ZGVWbVkwZms2UXozdlU?oc=5",
-        "date": "09/24 04:06"
+        "date": "09/24 04:11"
       },
       {
         "type": "neutral",
