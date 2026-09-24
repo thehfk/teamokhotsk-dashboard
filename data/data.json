@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-09-24T17:25:55.996650+00:00",
+  "updatedAt": "2026-09-24T20:36:55.367669+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7702.83,
-        "change": -0.04
+        "value": 7704.13,
+        "change": -0.02
       },
       {
         "name": "NASDAQ",
-        "value": 26907.32,
-        "change": -0.11
+        "value": 26939.37,
+        "change": 0.01
       },
       {
         "name": "다우존스",
-        "value": 51337.43,
-        "change": -0.34
+        "value": 51349.98,
+        "change": -0.31
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.48,
-        "change": 1.98
+        "value": 15.67,
+        "change": 3.23
       },
       {
         "name": "미국10년금리",
-        "value": 5.15,
-        "change": 0.78
+        "value": 5.16,
+        "change": 0.98
       },
       {
         "name": "원달러환율",
-        "value": 1367.07,
-        "change": 1.24
+        "value": 1367.42,
+        "change": 0.36
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "06/24",
           "06/25",
           "06/26",
           "06/29",
@@ -116,7 +115,6 @@
           {
             "name": "S&P500",
             "data": [
-              7358.22,
               7357.49,
               7354.02,
               7440.43,
@@ -179,13 +177,12 @@
               7650.5,
               7764.7,
               7706.03,
-              7702.83
+              7704.13
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              25476.64,
               25358.6,
               25297.62,
               25820.14,
@@ -248,13 +245,12 @@
               26522.54,
               27122.09,
               26936.04,
-              26907.32
+              26939.37
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              51848.9,
               51920.62,
               51876.11,
               52182.74,
@@ -317,7 +313,7 @@
               51682.64,
               52048.83,
               51511.59,
-              51337.43
+              51349.98
             ]
           }
         ]
@@ -459,7 +455,7 @@
               14.81,
               14.87,
               15.18,
-              15.48
+              15.67
             ]
           }
         ]
@@ -599,7 +595,7 @@
               5.0,
               4.96,
               5.11,
-              5.15
+              5.16
             ]
           },
           {
@@ -671,7 +667,8 @@
               1384.86,
               1373.68,
               1350.36,
-              1367.07
+              1362.5,
+              1367.42
             ]
           }
         ]
@@ -888,11 +885,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 45.6,
-    "BE": 59.9,
-    "GOOGL": 49.4,
-    "QCOM": 68.9,
-    "VRT": 45.5
+    "AVGO": 45.9,
+    "BE": 60.0,
+    "GOOGL": 49.9,
+    "QCOM": 69.7,
+    "VRT": 45.6
   },
   "news": {
     "AVGO": [
@@ -918,11 +915,11 @@
         "date": "09/23 16:21"
       },
       {
-        "type": "neutral",
-        "title": "History Says a $1,000 Investment in Broadcom Will Be Worth This Much by 2028",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUNJTjFVdlgwQnYxUnM0TGhPQWtEa3BJc0czX1hVcWxpeWlNZjg2ZEUwY29hZlpPVGppejgwWTdzWmFFLVJyRVZPM3FiUW5Nb01HUnZmUlNLX29mSkpSX19HeDNweDBIZTJUSGxFYlFfQ19xOENqYW1DQ2F4TWFacTZ3ck1yZU45bDFZVkhqVEJ6NmFYTl9kcA?oc=5",
-        "date": "09/22 16:15"
+        "type": "negative",
+        "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWdxQ25kM3pzdGVXZFNzWjlWcm5hdWlkWDlNMGpOeUJjQTFvMHhKdDI3WkhmWjBROWI0MGFYbmZpeElJUm80Q25Ic0ExRWYwTzZqQTdiWkdMTlJVNTBqeWtDNmlHeVNCZlJXbGVMOWRFSjVyOWlTT1FCWnRyOVdNVURRLXFhWHJzdVU0czRKS0lyM1NSYXlrem9rNVZqV1VyTGFnWDBjVWhQTjUx?oc=5",
+        "date": "09/24 22:56"
       }
     ],
     "BE": [
@@ -949,10 +946,10 @@
       },
       {
         "type": "neutral",
-        "title": "Bloom Energy Corporation (BE) Stock Forecasts",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjNuN21CZGk0UlFoUEdBdlhscGxrRm1EdlptUTdIb0xKMl9SZ2FzeDRhNEFiamM0VmFBZlFtQ016Z0g2UGxRWHpLY0pZZlUzZ1E2OW1TOWFSTHVRMmpWUC1abEd6WDMxeHdJYkdsdUh5azNlTC1ETTUxQ0xmNEZnYjBCeUtVNkVlUjh4NEk3UQ?oc=5",
-        "date": "09/24 08:29"
+        "title": "This alternative energy stock is more popular than SpaceX in the options pits. Here's why",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVdEUjRzXzdhX3NvbmlaOEQtSEZFcmVkVUNhVE5SX2R6cUxKZ1Z0M0tuN3RPR3lPLWRKMlRzZWVXY0xTQlRpWXBlVERVd1FUUllXeWpBUnpZMlN3S2g4UDBQVzhMMXVveFh2WER1anFLa0RFVFhneG9wUmxON0dnVlpGZ0RrZzhVM05jeVJ30gGTAUFVX3lxTE1JLXhMY3U0c0Rseko0U1ZPemxrTWxKSzhMTElHSWZZUmR3NTk4d0xyNHVnRUtwaE9FTUQtNXA0UWZIek1rQmJ3cXFCUFJNUDFpR2l4YmI1Rm5DX0F6cDFsdlUtVDVEeE03V0NWdUFCNGY1NTdmTDZPOU5oTER0LUhEUVlBWFlPUXV3blM0VGpYTnEtTQ?oc=5",
+        "date": "09/08 16:00"
       }
     ],
     "GOOGL": [
@@ -962,6 +959,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQXBnd2Y5QURFZ0JWYjRwSmc4a2RYUmlnMmMtREZ5eHhxa0VRMnZGemdnMklsZk1OcC1rU05TYnYtNXcxRE50UEtod2pNZE44aUdxRFk3V2YzUFJfNUpNRDhSeHczMTVEdzVMTXgzak0teWJoTFczNm1jVEdMelNXd1VkU3pvQTZVSVhfOC1WaFphZ3lLbEI5ZHBTd24?oc=5",
         "date": "09/24 13:55"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock: How The Bears In Options Trading Can Take Advantage Of This Search Giant",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjVDVGNuMkFDazdZSnZZdWNnZnhQZlBMaGJhMlByeF9SSjVVR2VhN1FOZGl2VDZxVENpcEU4OS1xaE1BWnBIZ19iWmNfQ2RWUXp0R08tQWJEMTFHbl9iY1NkMF9tZkxUcmo0QmpCVmY2OWZ4QlQ4ZlRBbTg4UWJ4VnUzbFUwNUM4SFhVdWtyNldEeVpLZUZIRmlrQlI?oc=5",
+        "date": "09/25 01:08"
       },
       {
         "type": "neutral",
@@ -976,23 +980,9 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmZwQU5hR1ZWbzV1Y2ZHRS1iTVJoQmNXdmFtc1R0eGcwdjB1a1hhMXBKT1l6MUtSNFhGeGkwM0ZGQkJSdmQ3aGVEa2xNNE9EZFBTZktNVFNsOGJDZmlkUlhkaF9FWC1vdkFuQkx6UHNaNzE3X1h3em5OYU1KS0tMU0huUFhhZmdsZXJmaEhNd1RrTU56Z0tscllB?oc=5",
         "date": "09/24 06:22"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock Dips: Here's What You Need To Know",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmR2NGxyek5WMWxrb0hKenVvTkVERmhMWTlaR1N0VmZMa3AzNVZORnFNMXFibm9JZW9WY2ROUWJjaHp5YlVCVTZGbG56czIzMHlsTTdpazJTZHptb2dTdGZCR25qS0NrRzZvbXYwR1JybjRvb2pYYVBzU0FFQ1hJeW5FdmhKR1g4OWY0V1RMTTlKLWVjZDFmQ1dtTHBoM2lLd1o5aHo3bkh5Qkgt?oc=5",
-        "date": "09/24 01:52"
       }
     ],
     "QCOM": [
-      {
-        "type": "neutral",
-        "title": "3 Reasons to Avoid QCOM and 1 Stock to Buy Instead",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORXk0VUNqT3BSMGRXa3ZMaGlVbW4wSTR3alFhNk9zcGNBU1c0Yklyb1R1RzA4M0F2d0hpQzNVWTdHM0ZlUlYtRGU5aUgtbGdlaTVBS0Q2UWQ5bk1ReXgwVUtYNDFzczhfZzFTZi1vbk9QaTZJTi03UlFZbDFfWUJQNzh3bVZmYTRjLXp6Z3diN2Q?oc=5",
-        "date": "09/25 01:24"
-      },
       {
         "type": "neutral",
         "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
@@ -1001,18 +991,25 @@
         "date": "09/25 00:47"
       },
       {
-        "type": "negative",
-        "title": "How Far Could Qualcomm Stock Fall If Memory Stays Expensive?",
-        "publisher": "trefis.com",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmYwdVJyUU15NzY4TVlpTGt6M0R4LV9vS1FiQ090ZTNOdjc0RVZURWIwcm13ZWlQT0p4VDhfWnJHOG8ybTJMQWF4WG1WbGtwWFcxbnlDS3ZmNUhlMGMyWHRQZ2g2bk5LQXdBeGtXRE9EMVNFSVozdlozZERaU1d3aGhJV0NoNndKSG9Pam9KQ3ZCdjhUTHhsNF9TZVNtOWtuMXQyaEZJWFZwZW9oLW5KRi1Hdmk0V240bDlsNjNaeC1MRi14Ul9kYjln?oc=5",
-        "date": "09/24 18:31"
+        "type": "neutral",
+        "title": "3 Reasons to Avoid QCOM and 1 Stock to Buy Instead",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORXk0VUNqT3BSMGRXa3ZMaGlVbW4wSTR3alFhNk9zcGNBU1c0Yklyb1R1RzA4M0F2d0hpQzNVWTdHM0ZlUlYtRGU5aUgtbGdlaTVBS0Q2UWQ5bk1ReXgwVUtYNDFzczhfZzFTZi1vbk9QaTZJTi03UlFZbDFfWUJQNzh3bVZmYTRjLXp6Z3diN2Q?oc=5",
+        "date": "09/25 01:24"
       },
       {
         "type": "negative",
         "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
         "publisher": "Barron's",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TcVNpYmRDcFlRcEp2NFR4aEp5VDZSM0VieFAyN1YzU2V0aFFUdVk3VXZsNkwyeGlHYUFxbkExTXhOT2c1ancyc1VYaGV2a1ZQNWEydW1sSExXNzBtaUozR2lFU2NLc1pueWxnZjFpUWo1dGF2eWpHLQ?oc=5",
-        "date": "09/25 01:09"
+        "date": "09/25 01:11"
+      },
+      {
+        "type": "negative",
+        "title": "How Far Could Qualcomm Stock Fall If Memory Stays Expensive?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmYwdVJyUU15NzY4TVlpTGt6M0R4LV9vS1FiQ090ZTNOdjc0RVZURWIwcm13ZWlQT0p4VDhfWnJHOG8ybTJMQWF4WG1WbGtwWFcxbnlDS3ZmNUhlMGMyWHRQZ2g2bk5LQXdBeGtXRE9EMVNFSVozdlozZERaU1d3aGhJV0NoNndKSG9Pam9KQ3ZCdjhUTHhsNF9TZVNtOWtuMXQyaEZJWFZwZW9oLW5KRi1Hdmk0V240bDlsNjNaeC1MRi14Ul9kYjln?oc=5",
+        "date": "09/24 18:31"
       }
     ],
     "VRT": [
