@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-09-25T08:05:43.038627+00:00",
+  "updatedAt": "2026-09-25T13:59:10.375190+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7704.13,
-        "change": -0.02
+        "value": 7727.81,
+        "change": 0.31
       },
       {
         "name": "NASDAQ",
-        "value": 26939.37,
-        "change": 0.01
+        "value": 27053.4,
+        "change": 0.42
       },
       {
         "name": "다우존스",
-        "value": 51349.98,
-        "change": -0.31
+        "value": 51574.71,
+        "change": 0.44
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.61,
-        "change": -0.38
+        "value": 15.18,
+        "change": -3.13
       },
       {
         "name": "미국10년금리",
-        "value": 5.16,
-        "change": 0.98
+        "value": 5.19,
+        "change": 0.58
       },
       {
         "name": "원달러환율",
-        "value": 1354.95,
-        "change": -0.55
+        "value": 1354.86,
+        "change": -0.56
       },
       {
         "name": "KOSPI",
         "value": 7080.92,
-        "change": 1.04
+        "change": 0.9
       },
       {
         "name": "KOSDAQ",
         "value": 844.48,
-        "change": 0.98
+        "change": 1.21
       }
     ],
     "groups": [
@@ -108,8 +108,10 @@
           "09/17",
           "09/18",
           "09/21",
+          "09/22",
           "09/23",
-          "09/24"
+          "09/24",
+          "09/25"
         ],
         "series": [
           {
@@ -176,8 +178,10 @@
               7637.76,
               7650.5,
               7764.7,
+              7764.64,
               7706.03,
-              7704.13
+              7704.13,
+              7727.81
             ]
           },
           {
@@ -244,8 +248,10 @@
               26418.3,
               26522.54,
               27122.09,
+              27244.28,
               26936.04,
-              26939.37
+              26939.37,
+              27053.4
             ]
           },
           {
@@ -312,8 +318,10 @@
               51778.04,
               51682.64,
               52048.83,
+              51863.69,
               51511.59,
-              51349.98
+              51349.98,
+              51574.71
             ]
           }
         ]
@@ -383,6 +391,7 @@
           "09/17",
           "09/18",
           "09/21",
+          "09/22",
           "09/23",
           "09/24",
           "09/25"
@@ -453,9 +462,10 @@
               15.44,
               14.81,
               14.87,
+              14.21,
               15.18,
               15.67,
-              15.61
+              15.18
             ]
           }
         ]
@@ -463,7 +473,6 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "06/24",
           "06/25",
           "06/26",
           "06/29",
@@ -525,14 +534,15 @@
           "09/17",
           "09/18",
           "09/21",
+          "09/22",
           "09/23",
-          "09/24"
+          "09/24",
+          "09/25"
         ],
         "series": [
           {
             "name": "미국10년금리",
             "data": [
-              4.4,
               4.39,
               4.37,
               4.37,
@@ -594,8 +604,10 @@
               4.95,
               5.0,
               4.96,
+              4.97,
               5.11,
-              5.16
+              5.16,
+              5.19
             ]
           },
           {
@@ -667,7 +679,7 @@
               1373.68,
               1350.36,
               1362.5,
-              1354.95
+              1354.86
             ]
           }
         ]
@@ -738,6 +750,7 @@
           "09/17",
           "09/18",
           "09/21",
+          "09/22",
           "09/23"
         ],
         "series": [
@@ -807,6 +820,7 @@
               6715.41,
               6894.23,
               7007.72,
+              7017.91,
               7080.92
             ]
           },
@@ -876,6 +890,7 @@
               822.18,
               827.12,
               836.27,
+              834.38,
               844.48
             ]
           }
@@ -883,163 +898,6 @@
       }
     ]
   },
-  "rsi": {
-    "AVGO": 45.9,
-    "BE": 60.0,
-    "GOOGL": 49.9,
-    "QCOM": 69.7,
-    "VRT": 45.6
-  },
-  "news": {
-    "AVGO": [
-      {
-        "type": "neutral",
-        "title": "Chip Trillionaires Club: Only One Clear Buy Among NVDA, AVGO, MU, AMD",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTG5rRUdvZGNScmVtbldISzMwbGN0MmNXRXE1dVJlanhlb2lDVmI0eXlqUU10Zmp1WXAzUEVGVklZd0N5N2pxSEpHd2NsdENPVmxhQTBfemFmc3l0X1U3UFBKTDNXWTJGMVBPU2FDN0hQd01OYjhsc25DenpoMF9sQUVGY0oxN0ozZnBMRnFuT2tDQnVXRldnQm45WV9jUQ?oc=5",
-        "date": "09/22 21:48"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Thursday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUxTVDFDaGlFdnRUd1pMX1RvNlpmMmxaZ0RBNHc4U0U2cUc5NWtNTkJiX1RvejFFVWVkSjJadmlqSU1aUnF2NXBzSVd4bjdIQXdIQy1nVWFVOTNKMDdlSTJfS3ZEX2d2enJsVk1BWjFTSG56aEdTd0lHVzVNOFd5T0ZjcGxKdTlGeXZSUzFwdDBtME52N2FaSG5kZWdHdXZl?oc=5",
-        "date": "09/25 02:46"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWdxQ25kM3pzdGVXZFNzWjlWcm5hdWlkWDlNMGpOeUJjQTFvMHhKdDI3WkhmWjBROWI0MGFYbmZpeElJUm80Q25Ic0ExRWYwTzZqQTdiWkdMTlJVNTBqeWtDNmlHeVNCZlJXbGVMOWRFSjVyOWlTT1FCWnRyOVdNVURRLXFhWHJzdVU0czRKS0lyM1NSYXlrem9rNVZqV1VyTGFnWDBjVWhQTjUx?oc=5",
-        "date": "09/24 22:56"
-      },
-      {
-        "type": "neutral",
-        "title": "Where Will Broadcom Stock Be in 5 Years?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2VRTnF6NTJlRE5FV0JNNl9ROU9sSEhkMHoxd2tyaU9qT0JCZXBQWmhjd0ZJSWtuekFickg4ZVdyQjhDN2FjcWEtUW1JUGR0MGpMYlRBYkFoc002bDR6S1I1TjlZVWlKR3RqZzdFR18yMml3b0lpcFVMWUtBZFFmUm4yTERtVy1wUVE?oc=5",
-        "date": "09/24 15:30"
-      }
-    ],
-    "BE": [
-      {
-        "type": "positive",
-        "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVJqbk1aUTVxNXFET2RGeTl1WDB6YktCOHI1OS1fTzBVMWxmMlZiMFFldUdsSzlMSUpMOGdEcjZ5V09lM19iUHVpSUJVZFpiaWxUNmZxd2N5VnlfblUwcFR2TTBNNnotLS1rSW8xVHRRTkZwT0xWa2xtWXl3TkVUaUFUWmk1RnF3OTR3YjYwNktBbWdFN2ww?oc=5",
-        "date": "09/25 16:26"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy slides on reported Oracle data center force majeure (BE:NYSE)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYzJqSTA4dV9OcUloY0JiRmpuUnJXanhxOXBZcjcwX2E3VURfak80QlhUOEliSXc4RnlZdjJBSXNyUGVMYkVLeDdsTVVhc2E1VDRrMnZiUnV0VUd6Y3djMHc4WHVnMFJsT3NrVEZSSWpfZG1FelJOd2pmall5WU02YkRQT19oNll3RTJMUDE4LXFBNzFRaTluUE5xZi1IZDlfWlNGaA?oc=5",
-        "date": "09/24 22:12"
-      },
-      {
-        "type": "neutral",
-        "title": "Oracle or Bloom Energy: One Stock Is a Buy on the Dip, the Other Isn’t, Says Top Investor",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVFloVU4weW80dXpVNHBEb1dOb2tNMzlpVlJ6ekF5bnk0ZTNFUVRKTWxnN1BGNkNIZ2dQY2kwVDk4cjlZRUlXaWNGOVNvRmxxUWhHa3RBOTgyZTRPZm9YT3VwUnZuZzcxY3g1cDJGMTRtQlZoWjhHN1JCVVVkb1VVYzRyYU5fTmFvajE2aDR2UTNEWTV5N05EWmptem0wWWlSTHhsb1N1S2Y3RUNhMGdLRWpUaDJzUQ?oc=5",
-        "date": "09/25 01:25"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy Stock Under Pressure Amid China Scandium Lawsuit",
-        "publisher": "StocksToTrade",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY19ybDVqeE9EUFlSTjUzQVFVaHpIUGV3aEV4bS1wRDhfcUVUX2Qxd2paQnBEZElRT2VhU2x2djlWWjJKMC0yZlRGNklVNUpOMmhTbWhtbHNVMm82cjJWdXg2TnRnRW15bl9la2JOeE95dVp6Ujd3bE54ZFVFYVhFeA?oc=5",
-        "date": "09/24 22:18"
-      }
-    ],
-    "GOOGL": [
-      {
-        "type": "negative",
-        "title": "GOOGL Stock Steadies After Worst Drop In A Month As DeepMind Chief Says Gemini 4 Is Coming 'Much Earlier'",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQXBnd2Y5QURFZ0JWYjRwSmc4a2RYUmlnMmMtREZ5eHhxa0VRMnZGemdnMklsZk1OcC1rU05TYnYtNXcxRE50UEtod2pNZE44aUdxRFk3V2YzUFJfNUpNRDhSeHczMTVEdzVMTXgzak0teWJoTFczNm1jVEdMelNXd1VkU3pvQTZVSVhfOC1WaFphZ3lLbEI5ZHBTd24?oc=5",
-        "date": "09/24 13:55"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock: How The Bears In Options Trading Can Take Advantage Of This Search Giant",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTlpMlc4SVFSSEJLb2RGNkE3V0Qwc21OVFZxME1oWGJjc0NfRnZUOUY3OTY1c3RtdG1SWnBHNTBCZzVFZ1J6WHdhN2ZJdGgzN0FDeUY1LTZBZnh2X0lxQjlfd0xxRmV6NlFnYWFfb0hwUVpBMjltbk5SZE9fQ1RIWmh0UDJCSS1jUWVydmVkXy1LWlpDdGdv?oc=5",
-        "date": "09/25 01:08"
-      },
-      {
-        "type": "neutral",
-        "title": "GOOGL, NFLX Stocks In Focus — Alphabet's YouTube Reportedly Rolls Out Fresh Tools To Prevent Creators From Defecting To Netflix",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcWtuWURvN3RlVE9CZU90bXRidGI1SGNfWUFjWG9UVG9icGFoeV9jOWZPdFl1b2hyenpQUWxSUE8ydG1hRlZyMl9PazhBQVNXZlYxRk1uckhOZktTNW5weHlEVjZZS0VtRTNfVWoydFhycndLQno0V2tSeXdDRlhzbTN1Y1ZkSjVNYXpwVE1XbWM5SlBBRm93QVVQSk42YnlkTlNseWwwbjdfY2tDUnRUbk9CQmViQzJPNmZoNmZuV2Z5bE5kTlVaT1JjVVVYdU5aWVpqX0JwRHhHdkpORFoyaVJPNkp0dU1OdVZxNkpEQUJlTnJ2UzFNS2RCU2tqNG5jTkt5dTBFSnFFbkFzNHBkUzRvUQ?oc=5",
-        "date": "09/24 03:30"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock Dips: Here's What You Need To Know",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmR2NGxyek5WMWxrb0hKenVvTkVERmhMWTlaR1N0VmZMa3AzNVZORnFNMXFibm9JZW9WY2ROUWJjaHp5YlVCVTZGbG56czIzMHlsTTdpazJTZHptb2dTdGZCR25qS0NrRzZvbXYwR1JybjRvb2pYYVBzU0FFQ1hJeW5FdmhKR1g4OWY0V1RMTTlKLWVjZDFmQ1dtTHBoM2lLd1o5aHo3bkh5Qkgt?oc=5",
-        "date": "09/24 01:52"
-      }
-    ],
-    "QCOM": [
-      {
-        "type": "neutral",
-        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
-        "date": "09/25 05:16"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Qualcomm Stock Thursday",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXpjV2hTYXRXNExrRHNCWmhsMm9YSk9ld3dvR3JYd3VvVHpDS2JYM0NiejdVd2FONERQTFpDczlaZDlOa2lZUkpjcE5yVU84Vy1EcHNBUmV2NFVtSWRUN2tPQi15MlJBZXhJUURhMEQxZlM5a2JhbUdFdEpQb2lNUy1abHhYa1V4cHZ3VW1XNl9HVmJkVUFJSEdCVFBnNHpJMXc?oc=5",
-        "date": "09/25 02:49"
-      },
-      {
-        "type": "neutral",
-        "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDN5LVJyWVNyZHQ2UFFULURtd0E5WW9HMFZNVlo5MHV4VHpKNVJTWU5IdzYyTTA1akQ5cUlNc0FBWXhGV2ltcVBGMUM0dWF3LXVIT0NJOU5GUllLSW5YUGpDSnVZRVVaNHludEFUWHNhazBGWktSQUpMb0Z4N3RxdDloV3hyOHRaZERWUG9vOFRSTUFJM2dmenc4dE43QmZPX0E?oc=5",
-        "date": "09/25 05:42"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm Incorporated $QCOM Stock Acquired by Envestnet Portfolio Solutions Inc.",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZzJ6QTJ1YkZzSDZ5T2JIaHduR0lTMThUN3E3VWp1elRKd212aTY2bFJlYlVCWUxEdUkwWTBxdFJEZkZDRFcybDdrSk95dmtvYkZubURsRGJsVHdfUjVxNXVJZ24zMEVad0dOdGh0aEFlcEo2RG43dzZGaEhMZnMwM2xaMmR1eDREcS1hXzBsODdVRFpuYkNfTEktTVNyZUo2eXRDZnpHWTMtQ2ZXYzlzMEFsOHQyTlhzV0IyWHhNZS1iVWU0THBVUkFsc3Fwa0x0RmZNaDBn?oc=5",
-        "date": "09/25 16:08"
-      }
-    ],
-    "VRT": [
-      {
-        "type": "neutral",
-        "title": "Vertiv Holdings Co. (VRT) Stock Moves 1.04%: What You Should Know",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzdPU2dYMjFiQVhpaWpQaXlNTDdpbXFDZDAyYkxkeXBjTnNNckJCRHJqRVdIOEFpMnpKd19VTERxanhjVXF1b2Y2NHhZdEJnNVFGU1FWZzJMTUFkcUpKN1NWWnMzNURqUE50Zk9QVVBzRUd3cHBoajByOUhmTmNDNXhONzBwQ01DSFpiUjhidy0xNnlJelJybA?oc=5",
-        "date": "09/23 06:45"
-      },
-      {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "09/23 10:16"
-      },
-      {
-        "type": "negative",
-        "title": "Vertiv Slides as Investors Appear to Weigh Valuation and Broader AI Infrastructure Weakness",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWgzWkJZSTZsUjd4RXl4dkhxRXVCdGZ5TGR5Rk93NkRwam5veHFSeEQyLUJ0WkJHXzVyZWttN193d1U4cF9PSnNGWWFDYktkNlhMS2VZU1hpaTZ1eHc2SWpkQ1dBd2hDS0NLdEMxbU5Iblo1VlR1eWRvZXJGRW81dzA1ZUpaTUNTYXdPSmhnME1zS1VqREo1VmFPTm9hZDMyUjI5c3FJWVdSNlpaaXNqZnpyWTRacjhYR3ZjdW1RVExadw?oc=5",
-        "date": "09/24 23:50"
-      },
-      {
-        "type": "neutral",
-        "title": "Data Center Stock Looks to Reduce Footprint With Acquisition",
-        "publisher": "Schaeffer's Investment Research",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdjFJQ1RJeF9xa0lNTHlmQXdGeDNoWUxtbU55UkRjWkR5ck1zZE5jNnk3amNyd3FoUWExMEJ2TXZJVEdsTmVSWldlWDR6eEhNZDFaeUhNVUw4dkdJOVdibXlQOTRnaXhTMzVaRHhMczh2elhhek9yeXdoQjFqelE2cFRQbmR2TFFJcmxEOHZaaWRmX3I5OU9ldE1UN2JmdFRWRmhmUXBYMGpackJMSUxQeTFOQ0RPdVdybEFj?oc=5",
-        "date": "09/25 00:13"
-      }
-    ]
-  }
+  "rsi": {},
+  "news": {}
 }
