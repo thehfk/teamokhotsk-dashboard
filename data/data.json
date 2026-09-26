@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T00:15:31.847518+00:00",
+  "updatedAt": "2026-09-26T05:12:44.643197+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1355.28,
-        "change": -0.88
+        "value": 1354.4,
+        "change": -0.95
       },
       {
         "name": "KOSPI",
@@ -676,7 +676,7 @@
               1350.36,
               1362.5,
               1367.36,
-              1355.28
+              1354.4
             ]
           }
         ]
@@ -896,27 +896,34 @@
     ]
   },
   "rsi": {
-    "AVGO": 45.9,
-    "BE": 60.0,
-    "GOOGL": 49.9,
-    "QCOM": 69.7,
-    "VRT": 40.4
+    "AVGO": 47.0,
+    "BE": 61.1,
+    "GOOGL": 54.0,
+    "QCOM": 72.8,
+    "VRT": 38.6
   },
   "news": {
     "AVGO": [
       {
-        "type": "neutral",
-        "title": "Jim Cramer Couldn’t Believe People Didn’t Take Broadcom Inc. (AVGO)’s CEO Seriously",
+        "type": "positive",
+        "title": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0hpWGlsVDdXampVT3FSd01JcGRqbnhvaXhGSzQ3VHpHWWN0Tmdzam9NWnJXNDQ0ZTFFblFSWnREZEhZbUJDYVNBOTRTczBBRFd0MmlQNkszcnRsTVctNEZqZnc1R1ZaZ28zbTA2UnlWbUtyd1FxVHlGNFZDblh6dTliQ2hVdi1LVzRlMGhHTGd4Rk1iNzlz?oc=5",
-        "date": "09/25 19:02"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWVITFJqMFB6NHJHUF9HRHBBYzdsQUhUYS0yb1FjU1VmNGM5cmx4QW1oaDlWQ216Zkk4akJNWV9EUFNBb2ZyMDY3cmRDQ3Nzd1VMcmxlS0prems5VFVwVnRVYnlCV3dMXzVfUGpvRWxIbmlla1l6SUp2eWRyMkFVU3RXTW9BN3VkOTB4ejZNdzdCWXV3akNN?oc=5",
+        "date": "09/26 13:51"
       },
       {
         "type": "neutral",
-        "title": "Broadcom's Latest Prediction Makes the Stock a No-Brainer Buy Right Now",
+        "title": "What's Going On With Broadcom Stock Thursday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUxTVDFDaGlFdnRUd1pMX1RvNlpmMmxaZ0RBNHc4U0U2cUc5NWtNTkJiX1RvejFFVWVkSjJadmlqSU1aUnF2NXBzSVd4bjdIQXdIQy1nVWFVOTNKMDdlSTJfS3ZEX2d2enJsVk1BWjFTSG56aEdTd0lHVzVNOFd5T0ZjcGxKdTlGeXZSUzFwdDBtME52N2FaSG5kZWdHdXZl?oc=5",
+        "date": "09/25 02:46"
+      },
+      {
+        "type": "neutral",
+        "title": "Where Will Broadcom Stock Be in 5 Years?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkE1WUY5VjFNQWhJS0QxRnFUSEs2a2p1TkV6NFVJODVWVXJKOWlfWmdFQnJQVnNoUlJJY1FLVUI4bmtNang4cE1UcjNSNlhxSEdpbjVDSVQ0aEg1OGxrYjVkdEZKVUhpbXpyRGZuSURSYkpBMW9ELUo0cW1fcGE0UlJfbmdtYW9HSGRXTTM5OHQ1RjlVYWJmRlZtY0l6TjRNV0xqMmU4cw?oc=5",
-        "date": "09/25 05:43"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmpXdnZCM25GNkYzWHRDX2hVN3BpX05vNlpRYmgtdjVSTHlCNVVVNVY4akVXSGxCaVgzV0lhYWlHZG52LVJHanZKcnNxa1NGSUVvaTN6TUxZMmNDc1Q4a29XNGJIdmVfRV9wMEowTVFkSXhJYXJJMWp1SEtCazU3NHpDM0lqcHN6OElKZWdsWU91WnZTZ29aWg?oc=5",
+        "date": "09/24 14:50"
       },
       {
         "type": "positive",
@@ -924,22 +931,15 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0hvdFFRejBtdUtDcUdGT1k5Nlk4Sklsa2prenM0amJSQ0N3WjU3UUdTVWZKWGhaR3N2RldEYm4tdTRUZGRNODg3QWVzT1M5YnZZRWRtSUNtSGdscDQ5R3BvQlBpdG8xSjhvYmpEeTJHTHRSQlF2RFZzTWZaOTYxWXNWdlZJZ0UtbERJSWJFTmZrcHlIbGRvNUU2N3JSQVd4WlJFSmg2b2ttLVlLMXBjYVZR?oc=5",
         "date": "09/23 16:21"
-      },
-      {
-        "type": "neutral",
-        "title": "This Semiconductor Stock Signal Has Never Been Wrong",
-        "publisher": "forbes.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaE5ocE5NQ2NpOFVuM1VjUk5TQ1RFZzU0VE91MWl0SlpidTA2cTFMQkRPdVNEUWl0aFBMeERTSkpPTjRlQ0dVQ24yXzRONjM1Q1ZpRjgzWFZlSWQzWl9RZFZ5SzRkOUdOdFNUamIxdnBTS3hLVm5GNTBjZ2lXTDU4eFg1Q3JFeUlENXVRaGJrZ0tuZVVQY0Q4dmFkcjZJeTJ4RDFvbzJsc1g0RmtUdzc4cg?oc=5",
-        "date": "09/24 21:00"
       }
     ],
     "BE": [
       {
         "type": "positive",
-        "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
+        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
-        "date": "09/26 04:48"
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
+        "date": "09/26 08:03"
       },
       {
         "type": "neutral",
@@ -957,10 +957,10 @@
       },
       {
         "type": "positive",
-        "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYjJDa2c2SDNYX3NOLTd6RThrQ3ZQVndnVGc1R2tPYTBKZGZKS1p1VVhLT3pYTkc2R25zdlVUYmNKTWpkd0dDSkdhVnJob29xcEVfNENkeUJSVmloaHNneE9IbkRMN2NlalZkQzF6eEJLQlVzRUNpNmE3ODZBRmtLamtxcHg4cFhhUWpyOGdSNFM1NkJPV0xCQmxJcDc0TzM0cm1Tc2VIRWVscy1BSGYycF8xOXpTVi1PbHN4RmI5SnJ5djlpcWhRbHlhM1owSURXQnlsRzRPc2hENVNHNnFkbnVsQks5a0pTT1FtMFFwUU1UMzVEcUtn?oc=5",
-        "date": "09/25 16:26"
+        "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
+        "date": "09/26 04:48"
       }
     ],
     "GOOGL": [
@@ -972,6 +972,13 @@
         "date": "09/24 13:55"
       },
       {
+        "type": "negative",
+        "title": "Why Alphabet (GOOGL) Stock Is Down Today",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmZwQU5hR1ZWbzV1Y2ZHRS1iTVJoQmNXdmFtc1R0eGcwdjB1a1hhMXBKT1l6MUtSNFhGeGkwM0ZGQkJSdmQ3aGVEa2xNNE9EZFBTZktNVFNsOGJDZmlkUlhkaF9FWC1vdkFuQkx6UHNaNzE3X1h3em5OYU1KS0tMU0huUFhhZmdsZXJmaEhNd1RrTU56Z0tscllB?oc=5",
+        "date": "09/24 06:22"
+      },
+      {
         "type": "neutral",
         "title": "Alphabet Stock: How The Bears In Options Trading Can Take Advantage Of This Search Giant",
         "publisher": "Investor's Business Daily",
@@ -979,34 +986,27 @@
         "date": "09/25 01:08"
       },
       {
-        "type": "negative",
-        "title": "Why Alphabet (GOOGL) Stock Is Down Today",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzVreUpuZk5hNjhZenVXRXU2Yk43aHVteGhBY3ZUWTdaM3NpczZfSjE2dDZqTklXTF8wMWEtbWJtRllqZlViMHpBMXZDQVRveTkyU0hod25TVFc5ZGZMOE14MGZHcV9JalA2WDBIZ2ZiV1U0OG8xRXFlMzVTQi01WXJVNnJlaWZ3b2c?oc=5",
-        "date": "09/24 05:35"
-      },
-      {
         "type": "neutral",
-        "title": "GOOGL, NFLX Stocks In Focus — Alphabet's YouTube Reportedly Rolls Out Fresh Tools To Prevent Creators From Defecting To Netflix",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcWtuWURvN3RlVE9CZU90bXRidGI1SGNfWUFjWG9UVG9icGFoeV9jOWZPdFl1b2hyenpQUWxSUE8ydG1hRlZyMl9PazhBQVNXZlYxRk1uckhOZktTNW5weHlEVjZZS0VtRTNfVWoydFhycndLQno0V2tSeXdDRlhzbTN1Y1ZkSjVNYXpwVE1XbWM5SlBBRm93QVVQSk42YnlkTlNseWwwbjdfY2tDUnRUbk9CQmViQzJPNmZoNmZuV2Z5bE5kTlVaT1JjVVVYdU5aWVpqX0JwRHhHdkpORFoyaVJPNkp0dU1OdVZxNkpEQUJlTnJ2UzFNS2RCU2tqNG5jTkt5dTBFSnFFbkFzNHBkUzRvUQ?oc=5",
-        "date": "09/24 03:30"
+        "title": "Alphabet Stock Dips: Here's What You Need To Know",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmR2NGxyek5WMWxrb0hKenVvTkVERmhMWTlaR1N0VmZMa3AzNVZORnFNMXFibm9JZW9WY2ROUWJjaHp5YlVCVTZGbG56czIzMHlsTTdpazJTZHptb2dTdGZCR25qS0NrRzZvbXYwR1JybjRvb2pYYVBzU0FFQ1hJeW5FdmhKR1g4OWY0V1RMTTlKLWVjZDFmQ1dtTHBoM2lLd1o5aHo3bkh5Qkgt?oc=5",
+        "date": "09/24 01:52"
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlNTdkVmS3RoTmdiN0FhMzJZd01nLXNSYVE4TENTeGFHaGdLSWUyQzZwS1pUQmY1akJLbjRCU2w3elpUUjNZeXYxZTFqNTg4cDRGZlVLSDhIYno3ZkJoa2VXbGtwbjZ2V2dGMFV3WDQ3S3dIcXFhWDM2UU10ako5Rlc5dGVtalFLcTRNRnROakhidm5yUzllUkZ5dzhocDJPZ2c?oc=5",
+        "date": "09/26 11:08"
+      },
       {
         "type": "neutral",
         "title": "After selling 10,000 shares, Qualcomm (QCOM) CEO Cristiano Amon gives notice of another proposed sale.",
         "publisher": "Stock Titan",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakl4TmE5SnNvVURhdjc4c2tmT2ZrLUw3LTYyY1QwY0Y2UU5sS3dTZUZ3M09ZdkF4Y3FtTHpRZzl6Nml0OUZneWJxcXFrWFZVcVRrMThWQjNPOVJ5SXFNQTlhRjU0MV95TThqVzY3TjYyTFpGWkVqRnNKeDZBSFNQTnFUcUJyZGpqeHBpX2Q2MXJ5SXBqMkVF?oc=5",
         "date": "09/26 01:06"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
-        "publisher": "StockStory",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUE9zNzc4Uk1wMnBaYkdpMEdQeWEyd3BSOVlYQzRQR2RXUWp2NGJfQW1JYVl1dElLcFBxN3FFX1RvTjMtX2RPYXp0akN2YklhSlZaTzJpVVB3QV91bWZCRURXZGFwMDY1cjQwelVLb1BnZnk1RlZTVlZNVnlyS0hHQmliOVdsMUtOUjlfTzdzNnpJajlXNEdVUkp2QWVsb2toVm1yYXpiMjM5LUtmZVJPN2k3LUtjMkU?oc=5",
-        "date": "09/26 02:25"
       },
       {
         "type": "positive",
