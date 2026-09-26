@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T21:42:55.462156+00:00",
+  "updatedAt": "2026-09-26T00:15:31.847518+00:00",
   "market": {
     "cards": [
       {
@@ -896,14 +896,21 @@
     ]
   },
   "rsi": {
-    "AVGO": 47.0,
-    "BE": 61.1,
-    "GOOGL": 54.0,
-    "QCOM": 72.8,
-    "VRT": 38.6
+    "AVGO": 45.9,
+    "BE": 60.0,
+    "GOOGL": 49.9,
+    "QCOM": 69.7,
+    "VRT": 40.4
   },
   "news": {
     "AVGO": [
+      {
+        "type": "neutral",
+        "title": "Jim Cramer Couldn’t Believe People Didn’t Take Broadcom Inc. (AVGO)’s CEO Seriously",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0hpWGlsVDdXampVT3FSd01JcGRqbnhvaXhGSzQ3VHpHWWN0Tmdzam9NWnJXNDQ0ZTFFblFSWnREZEhZbUJDYVNBOTRTczBBRFd0MmlQNkszcnRsTVctNEZqZnc1R1ZaZ28zbTA2UnlWbUtyd1FxVHlGNFZDblh6dTliQ2hVdi1LVzRlMGhHTGd4Rk1iNzlz?oc=5",
+        "date": "09/25 19:02"
+      },
       {
         "type": "neutral",
         "title": "Broadcom's Latest Prediction Makes the Stock a No-Brainer Buy Right Now",
@@ -912,28 +919,28 @@
         "date": "09/25 05:43"
       },
       {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Thursday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUxTVDFDaGlFdnRUd1pMX1RvNlpmMmxaZ0RBNHc4U0U2cUc5NWtNTkJiX1RvejFFVWVkSjJadmlqSU1aUnF2NXBzSVd4bjdIQXdIQy1nVWFVOTNKMDdlSTJfS3ZEX2d2enJsVk1BWjFTSG56aEdTd0lHVzVNOFd5T0ZjcGxKdTlGeXZSUzFwdDBtME52N2FaSG5kZWdHdXZl?oc=5",
-        "date": "09/25 02:46"
+        "type": "positive",
+        "title": "Broadcom: Hard To Ignore The Numbers, Buy Before The Market Catches Up",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0hvdFFRejBtdUtDcUdGT1k5Nlk4Sklsa2prenM0amJSQ0N3WjU3UUdTVWZKWGhaR3N2RldEYm4tdTRUZGRNODg3QWVzT1M5YnZZRWRtSUNtSGdscDQ5R3BvQlBpdG8xSjhvYmpEeTJHTHRSQlF2RFZzTWZaOTYxWXNWdlZJZ0UtbERJSWJFTmZrcHlIbGRvNUU2N3JSQVd4WlJFSmg2b2ttLVlLMXBjYVZR?oc=5",
+        "date": "09/23 16:21"
       },
       {
         "type": "neutral",
         "title": "This Semiconductor Stock Signal Has Never Been Wrong",
-        "publisher": "Forbes",
+        "publisher": "forbes.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaE5ocE5NQ2NpOFVuM1VjUk5TQ1RFZzU0VE91MWl0SlpidTA2cTFMQkRPdVNEUWl0aFBMeERTSkpPTjRlQ0dVQ24yXzRONjM1Q1ZpRjgzWFZlSWQzWl9RZFZ5SzRkOUdOdFNUamIxdnBTS3hLVm5GNTBjZ2lXTDU4eFg1Q3JFeUlENXVRaGJrZ0tuZVVQY0Q4dmFkcjZJeTJ4RDFvbzJsc1g0RmtUdzc4cg?oc=5",
         "date": "09/24 21:00"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWdxQ25kM3pzdGVXZFNzWjlWcm5hdWlkWDlNMGpOeUJjQTFvMHhKdDI3WkhmWjBROWI0MGFYbmZpeElJUm80Q25Ic0ExRWYwTzZqQTdiWkdMTlJVNTBqeWtDNmlHeVNCZlJXbGVMOWRFSjVyOWlTT1FCWnRyOVdNVURRLXFhWHJzdVU0czRKS0lyM1NSYXlrem9rNVZqV1VyTGFnWDBjVWhQTjUx?oc=5",
-        "date": "09/24 22:56"
       }
     ],
     "BE": [
+      {
+        "type": "positive",
+        "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
+        "date": "09/26 04:48"
+      },
       {
         "type": "neutral",
         "title": "Bloom Energy Stock Rebounds: What's Going On?",
@@ -950,17 +957,10 @@
       },
       {
         "type": "positive",
-        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
-        "date": "09/25 16:16"
-      },
-      {
-        "type": "negative",
-        "title": "Is Bloom Energy Stock's Drop A Chance To Buy?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWdYMmRKakxhYmxUTW9uLVJmQldpdk82bm5nTHFZRWZTQW5qWC1YY2pLMDJKWmxjYnp4X0pZZWxRWUJhT3hDakQ2VmQySUR2N1Y0STNqV1huN1RrV0diMWFtU3hJa0xMVWwxbWVtdEVPRTdab0c0RkFEQzJkR3Nqbnpjd0V6Y1c3UG5yOFRYTTFVNXVodThJQ1J1UDBsdWZ3MnF4a1hPd1ZoNFgweDE5bVdVUQ?oc=5",
-        "date": "09/25 18:33"
+        "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYjJDa2c2SDNYX3NOLTd6RThrQ3ZQVndnVGc1R2tPYTBKZGZKS1p1VVhLT3pYTkc2R25zdlVUYmNKTWpkd0dDSkdhVnJob29xcEVfNENkeUJSVmloaHNneE9IbkRMN2NlalZkQzF6eEJLQlVzRUNpNmE3ODZBRmtLamtxcHg4cFhhUWpyOGdSNFM1NkJPV0xCQmxJcDc0TzM0cm1Tc2VIRWVscy1BSGYycF8xOXpTVi1PbHN4RmI5SnJ5djlpcWhRbHlhM1owSURXQnlsRzRPc2hENVNHNnFkbnVsQks5a0pTT1FtMFFwUU1UMzVEcUtn?oc=5",
+        "date": "09/25 16:26"
       }
     ],
     "GOOGL": [
@@ -975,7 +975,7 @@
         "type": "neutral",
         "title": "Alphabet Stock: How The Bears In Options Trading Can Take Advantage Of This Search Giant",
         "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTlpMlc4SVFSSEJLb2RGNkE3V0Qwc21OVFZxME1oWGJjc0NfRnZUOUY3OTY1c3RtdG1SWnBHNTBCZzVFZ1J6WHdhN2ZJdGgzN0FDeUY1LTZBZnh2X0lxQjlfd0xxRmV6NlFnYWFfb0hwUVpBMjltbk5SZE9fQ1RIWmh0UDJCSS1jUWVydmVkXy1LWlpDdGdv?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjVDVGNuMkFDazdZSnZZdWNnZnhQZlBMaGJhMlByeF9SSjVVR2VhN1FOZGl2VDZxVENpcEU4OS1xaE1BWnBIZ19iWmNfQ2RWUXp0R08tQWJEMTFHbl9iY1NkMF9tZkxUcmo0QmpCVmY2OWZ4QlQ4ZlRBbTg4UWJ4VnUzbFUwNUM4SFhVdWtyNldEeVpLZUZIRmlrQlI?oc=5",
         "date": "09/25 01:08"
       },
       {
@@ -1039,18 +1039,18 @@
         "date": "09/25 23:12"
       },
       {
+        "type": "neutral",
+        "title": "How to Play VRT Stock as Vertiv Acquires King Environmental Services",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNekhneFdDRGNKRzIxVFc4YW91UlBuaW50X2xTZkNPbWQyVkV6YldXajJ2X0x3dkM1SE1nVEFwR1NuaXY2emZ5THZHS3RxVWU3SlRUbXhIWVZ4dlpGSFVhWlFOeHpLbV91NnZtYW5Xck1lMVB2QnB3LTdRWlIyVXJyZ3hUdlhudXNxckJBLTdOVHhGTV8zSG5aaXEyd1F5d293bmlxMzl4TjQta19Zd2NiS0lR?oc=5",
+        "date": "09/26 03:39"
+      },
+      {
         "type": "negative",
         "title": "How Much Further Could Vertiv Stock Fall?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
         "date": "09/26 04:19"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv HR chief acquires 3.61 stock units",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWZkTmxGX3libzNXNUlQUnZOdVZicjB3Ny02bzdSTVpNQllZU05jOXdyX0pELUx1Nnh4M2xhWUhlUXByZ2N5VEs0MTZIX2hLLWk3STVldDYzWU1xTE9VSDhMcHV1VUNaT2Y0Z3lRLUJpMkY1ckJkVUZzRGYyR3J6VGNNN2dhUDZiMWEzTm5IWTlRUzJPTTJyRE56Z0YxMEtjdDJsdjg2SHpaM1NudUl1ag?oc=5",
-        "date": "09/26 05:19"
       }
     ]
   }
