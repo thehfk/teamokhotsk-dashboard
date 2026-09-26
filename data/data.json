@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T14:13:03.311590+00:00",
+  "updatedAt": "2026-09-26T17:50:35.802991+00:00",
   "market": {
     "cards": [
       {
@@ -895,6 +895,163 @@
       }
     ]
   },
-  "rsi": {},
-  "news": {}
+  "rsi": {
+    "AVGO": 47.0,
+    "BE": 61.1,
+    "GOOGL": 54.0,
+    "QCOM": 72.8,
+    "VRT": 38.6
+  },
+  "news": {
+    "AVGO": [
+      {
+        "type": "neutral",
+        "title": "Broadcom's Latest Prediction Makes the Stock a No-Brainer Buy Right Now",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkE1WUY5VjFNQWhJS0QxRnFUSEs2a2p1TkV6NFVJODVWVXJKOWlfWmdFQnJQVnNoUlJJY1FLVUI4bmtNang4cE1UcjNSNlhxSEdpbjVDSVQ0aEg1OGxrYjVkdEZKVUhpbXpyRGZuSURSYkpBMW9ELUo0cW1fcGE0UlJfbmdtYW9HSGRXTTM5OHQ1RjlVYWJmRlZtY0l6TjRNV0xqMmU4cw?oc=5",
+        "date": "09/25 05:43"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWdxQ25kM3pzdGVXZFNzWjlWcm5hdWlkWDlNMGpOeUJjQTFvMHhKdDI3WkhmWjBROWI0MGFYbmZpeElJUm80Q25Ic0ExRWYwTzZqQTdiWkdMTlJVNTBqeWtDNmlHeVNCZlJXbGVMOWRFSjVyOWlTT1FCWnRyOVdNVURRLXFhWHJzdVU0czRKS0lyM1NSYXlrem9rNVZqV1VyTGFnWDBjVWhQTjUx?oc=5",
+        "date": "09/24 22:56"
+      },
+      {
+        "type": "neutral",
+        "title": "This Semiconductor Stock Signal Has Never Been Wrong",
+        "publisher": "Forbes",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaE5ocE5NQ2NpOFVuM1VjUk5TQ1RFZzU0VE91MWl0SlpidTA2cTFMQkRPdVNEUWl0aFBMeERTSkpPTjRlQ0dVQ24yXzRONjM1Q1ZpRjgzWFZlSWQzWl9RZFZ5SzRkOUdOdFNUamIxdnBTS3hLVm5GNTBjZ2lXTDU4eFg1Q3JFeUlENXVRaGJrZ0tuZVVQY0Q4dmFkcjZJeTJ4RDFvbzJsc1g0RmtUdzc4cg?oc=5",
+        "date": "09/24 21:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Where Will Broadcom Stock Be in 5 Years?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2VRTnF6NTJlRE5FV0JNNl9ROU9sSEhkMHoxd2tyaU9qT0JCZXBQWmhjd0ZJSWtuekFickg4ZVdyQjhDN2FjcWEtUW1JUGR0MGpMYlRBYkFoc002bDR6S1I1TjlZVWlKR3RqZzdFR18yMml3b0lpcFVMWUtBZFFmUm4yTERtVy1wUVE?oc=5",
+        "date": "09/24 15:30"
+      }
+    ],
+    "BE": [
+      {
+        "type": "neutral",
+        "title": "Bloom Energy, TSM Lead 5 Stocks Near Buy Points As AI Rebounds",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObkpkbFl3eEY5Wl9lM0JucmVqbGI5bHhTbWNfb1g2dnNGQU1NVURDczQtemtwYmhyVDhHdE0zUEItVGxuUTBhLUpPM0R2bmNWZ1hnRkY4VEQyMHlKaDlrOVlYcmV3ekxJZG11ckp1ZzIzUUotYTJVVy1rb1poTk1aS1huYkQzNVc5Y3lOQl9hQ1VIZw?oc=5",
+        "date": "09/26 21:00"
+      },
+      {
+        "type": "positive",
+        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
+        "date": "09/26 08:03"
+      },
+      {
+        "type": "neutral",
+        "title": "What Is a Stock Split? I Think the Next Wave of Splits Could Create Buying Opportunities Before 2027.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGhxYnZwZU9UbVZlQmhjd1VxQ1dCQmRILWNTMG1pVGNYSXYzR1NoTlVuN21YQW9CYVoxX3RXWkw2ZGdZaVJfRW9Ba1VwYXJxYmpOUEpjWnBkdWlqSXBfODFCS1k5V2JHNVV2ajBpUFFBaVR6dWxpU3g1S2pBY1h3OHZJTHloT3N5YWxKQVJleGVuM3pOR0ZuSQ?oc=5",
+        "date": "09/26 20:54"
+      },
+      {
+        "type": "positive",
+        "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVJqbk1aUTVxNXFET2RGeTl1WDB6YktCOHI1OS1fTzBVMWxmMlZiMFFldUdsSzlMSUpMOGdEcjZ5V09lM19iUHVpSUJVZFpiaWxUNmZxd2N5VnlfblUwcFR2TTBNNnotLS1rSW8xVHRRTkZwT0xWa2xtWXl3TkVUaUFUWmk1RnF3OTR3YjYwNktBbWdFN2ww?oc=5",
+        "date": "09/25 16:26"
+      }
+    ],
+    "GOOGL": [
+      {
+        "type": "negative",
+        "title": "GOOGL Stock Steadies After Worst Drop In A Month As DeepMind Chief Says Gemini 4 Is Coming 'Much Earlier'",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQXBnd2Y5QURFZ0JWYjRwSmc4a2RYUmlnMmMtREZ5eHhxa0VRMnZGemdnMklsZk1OcC1rU05TYnYtNXcxRE50UEtod2pNZE44aUdxRFk3V2YzUFJfNUpNRDhSeHczMTVEdzVMTXgzak0teWJoTFczNm1jVEdMelNXd1VkU3pvQTZVSVhfOC1WaFphZ3lLbEI5ZHBTd24?oc=5",
+        "date": "09/24 13:55"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock: How The Bears In Options Trading Can Take Advantage Of This Search Giant",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjVDVGNuMkFDazdZSnZZdWNnZnhQZlBMaGJhMlByeF9SSjVVR2VhN1FOZGl2VDZxVENpcEU4OS1xaE1BWnBIZ19iWmNfQ2RWUXp0R08tQWJEMTFHbl9iY1NkMF9tZkxUcmo0QmpCVmY2OWZ4QlQ4ZlRBbTg4UWJ4VnUzbFUwNUM4SFhVdWtyNldEeVpLZUZIRmlrQlI?oc=5",
+        "date": "09/25 01:08"
+      },
+      {
+        "type": "negative",
+        "title": "Why Alphabet (GOOGL) Stock Is Down Today",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGJUakZRTmgxczNFeWJORmotQzNsUDVxUHdOSXllNEt3SkdSUktRWlI3Vk5DeEQ1Q3FxVFVPN3JSRUtEYl9wYzg0Q1NISnZuYUtBSGlEWkdjMkUzRGZMc1R5dHotMGJwVC15R0Rva0RuWEVBenJXODhkck5NcmF3UnhhVERWbmxXWXp0QkxDTDNGTjdpZVBfTXZfWHBCdzF1?oc=5",
+        "date": "09/24 05:35"
+      },
+      {
+        "type": "neutral",
+        "title": "GOOGL Stock: Google Brings Free AI Video Creation to More Users",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMy1ROUVsSDFDM2M5dkdPRDJVMjFfVDN4bzZ5VW84dW5MWmpFOUNvUnZJSjNzbDNwOUZqdVBJU0VKWGhxX3E1WTRic0x5cVJPVnJuWGExbmZmX0pKQWxsdUcyWWExZ0s1MWlvZUdIWk9oam56b3ZWTi1qekNzbDBtbnFic3dzZTUtMExHUFc4Q3JkUlJFT0gyWA?oc=5",
+        "date": "09/24 15:26"
+      }
+    ],
+    "QCOM": [
+      {
+        "type": "neutral",
+        "title": "After selling 10,000 shares, Qualcomm (QCOM) CEO Cristiano Amon gives notice of another proposed sale.",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakl4TmE5SnNvVURhdjc4c2tmT2ZrLUw3LTYyY1QwY0Y2UU5sS3dTZUZ3M09ZdkF4Y3FtTHpRZzl6Nml0OUZneWJxcXFrWFZVcVRrMThWQjNPOVJ5SXFNQTlhRjU0MV95TThqVzY3TjYyTFpGWkVqRnNKeDZBSFNQTnFUcUJyZGpqeHBpX2Q2MXJ5SXBqMkVF?oc=5",
+        "date": "09/26 01:06"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlNTdkVmS3RoTmdiN0FhMzJZd01nLXNSYVE4TENTeGFHaGdLSWUyQzZwS1pUQmY1akJLbjRCU2w3elpUUjNZeXYxZTFqNTg4cDRGZlVLSDhIYno3ZkJoa2VXbGtwbjZ2V2dGMFV3WDQ3S3dIcXFhWDM2UU10ako5Rlc5dGVtalFLcTRNRnROakhidm5yUzllUkZ5dzhocDJPZ2c?oc=5",
+        "date": "09/26 11:08"
+      },
+      {
+        "type": "neutral",
+        "title": "QCOM Stock Suffers 3-Day Slide: Short Seller Flags ‘Hidden’ Anthropic Partnership Code — Then Finds Deal Wasn’t Real",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDNKZDVaS1FMdWExQTFpYU9xaUFVM0hHSlZSdFlJRnFxYldjVTZXWDVsUHZaZmVxMXRrVVUzZTFibzBYakdtb3l5cmxVbGFyVmhLcVA4cGt3cHJSRzFHa0Z6dnN0aEJmS2hYTHNtczR1NjdsdjhPUTlFN2U4bW5tXzNGOE5fNm5LNjU1cTNCbk4tQUhocy0yMHB2R2JiRGpfalNianJTLS1DS0F4dlJHZFJuYzJjay1j?oc=5",
+        "date": "09/24 02:04"
+      },
+      {
+        "type": "neutral",
+        "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnpOcG0yTTUwcHp3eENjaDBxcUU1WkJIREpFWWlNUU1WcTVnR2gtUHNRdFVnWXZNT2d3LUpVQm54UUY0VUItbC1zdVpMQWs3emtJQzM2N19tMVNqNW5TcGtnejVSdHZFQVE3enk4T094eVFGUDhsaF9BQ0YzcDB3cUcxODNLRG5hdDhZUWd0RHFURy1WYU8ydHBFRzg5X3BXTHZwY0NScjRRdGx1?oc=5",
+        "date": "09/27 01:34"
+      }
+    ],
+    "VRT": [
+      {
+        "type": "neutral",
+        "title": "Vertiv Holdings Co. (VRT) Stock Moves 1.04%: What You Should Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzdPU2dYMjFiQVhpaWpQaXlNTDdpbXFDZDAyYkxkeXBjTnNNckJCRHJqRVdIOEFpMnpKd19VTERxanhjVXF1b2Y2NHhZdEJnNVFGU1FWZzJMTUFkcUpKN1NWWnMzNURqUE50Zk9QVVBzRUd3cHBoajByOUhmTmNDNXhONzBwQ01DSFpiUjhidy0xNnlJelJybA?oc=5",
+        "date": "09/23 06:45"
+      },
+      {
+        "type": "neutral",
+        "title": "How to Play VRT Stock as Vertiv Acquires King Environmental Services",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNekhneFdDRGNKRzIxVFc4YW91UlBuaW50X2xTZkNPbWQyVkV6YldXajJ2X0x3dkM1SE1nVEFwR1NuaXY2emZ5THZHS3RxVWU3SlRUbXhIWVZ4dlpGSFVhWlFOeHpLbV91NnZtYW5Xck1lMVB2QnB3LTdRWlIyVXJyZ3hUdlhudXNxckJBLTdOVHhGTV8zSG5aaXEyd1F5d293bmlxMzl4TjQta19Zd2NiS0lR?oc=5",
+        "date": "09/26 03:39"
+      },
+      {
+        "type": "negative",
+        "title": "How Much Further Could Vertiv Stock Fall?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
+        "date": "09/26 04:19"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv Holdings Co (VRT) Stock Up 3.2% but GF Value Says Overval",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0RNeC1sV204WHZqUGgyM2xqYmdTbldBalV4N2owOUR3dFNBSS1kT0Y1Mng3Zk5sQUJmUjFMaXBaT19rY3F2dFpLOFVEQnpQTGd3SFZheFgwUWpzSXNtQVZNS01JNmU1QkVKMHVIdEtYR090RXp2M2UyY0tTaVgwLXpNbFJPcEZVcmU2OHdNaGdRUmJ2dDl0Szk3UXJKSmozd3lvbTNMYzFaR3c5OEdyZ3dCYmF6TTFJ?oc=5",
+        "date": "09/26 06:22"
+      }
+    ]
+  }
 }
