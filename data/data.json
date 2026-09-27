@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T23:01:51.762473+00:00",
+  "updatedAt": "2026-09-27T01:36:12.513673+00:00",
   "market": {
     "cards": [
       {
@@ -906,24 +906,17 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "This Semiconductor Stock Signal Has Never Been Wrong",
-        "publisher": "Forbes",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaE5ocE5NQ2NpOFVuM1VjUk5TQ1RFZzU0VE91MWl0SlpidTA2cTFMQkRPdVNEUWl0aFBMeERTSkpPTjRlQ0dVQ24yXzRONjM1Q1ZpRjgzWFZlSWQzWl9RZFZ5SzRkOUdOdFNUamIxdnBTS3hLVm5GNTBjZ2lXTDU4eFg1Q3JFeUlENXVRaGJrZ0tuZVVQY0Q4dmFkcjZJeTJ4RDFvbzJsc1g0RmtUdzc4cg?oc=5",
-        "date": "09/24 21:00"
-      },
-      {
-        "type": "neutral",
         "title": "Broadcom's Latest Prediction Makes the Stock a No-Brainer Buy Right Now",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkE1WUY5VjFNQWhJS0QxRnFUSEs2a2p1TkV6NFVJODVWVXJKOWlfWmdFQnJQVnNoUlJJY1FLVUI4bmtNang4cE1UcjNSNlhxSEdpbjVDSVQ0aEg1OGxrYjVkdEZKVUhpbXpyRGZuSURSYkpBMW9ELUo0cW1fcGE0UlJfbmdtYW9HSGRXTTM5OHQ1RjlVYWJmRlZtY0l6TjRNV0xqMmU4cw?oc=5",
         "date": "09/25 05:43"
       },
       {
-        "type": "negative",
-        "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWdxQ25kM3pzdGVXZFNzWjlWcm5hdWlkWDlNMGpOeUJjQTFvMHhKdDI3WkhmWjBROWI0MGFYbmZpeElJUm80Q25Ic0ExRWYwTzZqQTdiWkdMTlJVNTBqeWtDNmlHeVNCZlJXbGVMOWRFSjVyOWlTT1FCWnRyOVdNVURRLXFhWHJzdVU0czRKS0lyM1NSYXlrem9rNVZqV1VyTGFnWDBjVWhQTjUx?oc=5",
-        "date": "09/24 22:56"
+        "type": "neutral",
+        "title": "Broadcom Has More Than One Way to Win. Here’s Where I See the Stock Going",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR21xMXdWYnJUV3MxVkVYS0lvMjYwczlRTmREREYyTEJJd19HYUNLaDdqYTMxQmNDaVA2dHhUTUwxTWUyamtOWHBua2g1dU1uaHZieVJYSUtjWkQxSUNqZjZ1Qm1Pa2pyYmRCUS1wVVdadHo4dVNkem9JNzNFM1V4RnJGcHdUY2MyclV2aDcyUC1yOUVNaTl5eUpsNUpsMVVPYjBsS1VPZHpJZWRtN2ExdUc4M2Rfdw?oc=5",
+        "date": "09/27 01:45"
       },
       {
         "type": "neutral",
@@ -931,6 +924,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2VRTnF6NTJlRE5FV0JNNl9ROU9sSEhkMHoxd2tyaU9qT0JCZXBQWmhjd0ZJSWtuekFickg4ZVdyQjhDN2FjcWEtUW1JUGR0MGpMYlRBYkFoc002bDR6S1I1TjlZVWlKR3RqZzdFR18yMml3b0lpcFVMWUtBZFFmUm4yTERtVy1wUVE?oc=5",
         "date": "09/24 15:30"
+      },
+      {
+        "type": "neutral",
+        "title": "This Semiconductor Stock Signal Has Never Been Wrong",
+        "publisher": "forbes.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaE5ocE5NQ2NpOFVuM1VjUk5TQ1RFZzU0VE91MWl0SlpidTA2cTFMQkRPdVNEUWl0aFBMeERTSkpPTjRlQ0dVQ24yXzRONjM1Q1ZpRjgzWFZlSWQzWl9RZFZ5SzRkOUdOdFNUamIxdnBTS3hLVm5GNTBjZ2lXTDU4eFg1Q3JFeUlENXVRaGJrZ0tuZVVQY0Q4dmFkcjZJeTJ4RDFvbzJsc1g0RmtUdzc4cg?oc=5",
+        "date": "09/24 21:00"
       }
     ],
     "BE": [
@@ -943,10 +943,10 @@
       },
       {
         "type": "positive",
-        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
+        "title": "BE Stock Is Trading At A Massive Premium To Peers — Retail Bulls Still See A Nearly 4x Rally",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
-        "date": "09/26 08:03"
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRDZ3VGRaZDVmeVN0M1ExdFllc2lVVDhpS1hINklXby0xRlFudld0NUpkZmtGMG5PX3hlLUxKOUFVUmpwS3E4eVRGTXg5WWk4T09JU2ZzeUp4WDNpeGx2MWdlWnFwbGZoRDNmSjN4cnBsdkk2RV8xREhIdVVCOUE5TmgxZzFKX2J6bFptVHhYM0xyZVdyZUFRZVJ0b2dEZ2R4TGpETWtoNWxqblItZGlta3VCaw?oc=5",
+        "date": "09/25 14:40"
       },
       {
         "type": "positive",
@@ -965,18 +965,18 @@
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "Alphabet Stock: How The Bears In Options Trading Can Take Advantage Of This Search Giant",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjVDVGNuMkFDazdZSnZZdWNnZnhQZlBMaGJhMlByeF9SSjVVR2VhN1FOZGl2VDZxVENpcEU4OS1xaE1BWnBIZ19iWmNfQ2RWUXp0R08tQWJEMTFHbl9iY1NkMF9tZkxUcmo0QmpCVmY2OWZ4QlQ4ZlRBbTg4UWJ4VnUzbFUwNUM4SFhVdWtyNldEeVpLZUZIRmlrQlI?oc=5",
-        "date": "09/25 01:08"
-      },
-      {
         "type": "negative",
         "title": "Why Alphabet (GOOGL) Stock Is Down Today",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmZwQU5hR1ZWbzV1Y2ZHRS1iTVJoQmNXdmFtc1R0eGcwdjB1a1hhMXBKT1l6MUtSNFhGeGkwM0ZGQkJSdmQ3aGVEa2xNNE9EZFBTZktNVFNsOGJDZmlkUlhkaF9FWC1vdkFuQkx6UHNaNzE3X1h3em5OYU1KS0tMU0huUFhhZmdsZXJmaEhNd1RrTU56Z0tscllB?oc=5",
         "date": "09/24 06:22"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock: How The Bears In Options Trading Can Take Advantage Of This Search Giant",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTlpMlc4SVFSSEJLb2RGNkE3V0Qwc21OVFZxME1oWGJjc0NfRnZUOUY3OTY1c3RtdG1SWnBHNTBCZzVFZ1J6WHdhN2ZJdGgzN0FDeUY1LTZBZnh2X0lxQjlfd0xxRmV6NlFnYWFfb0hwUVpBMjltbk5SZE9fQ1RIWmh0UDJCSS1jUWVydmVkXy1LWlpDdGdv?oc=5",
+        "date": "09/25 01:08"
       },
       {
         "type": "neutral",
