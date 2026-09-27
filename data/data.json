@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T13:09:56.368202+00:00",
+  "updatedAt": "2026-09-27T17:51:41.837293+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1354.4,
-        "change": -0.95
+        "value": 1355.28,
+        "change": -0.88
       },
       {
         "name": "KOSPI",
@@ -676,7 +676,7 @@
               1350.36,
               1362.5,
               1367.36,
-              1354.4
+              1355.28
             ]
           }
         ]
@@ -935,11 +935,11 @@
     ],
     "BE": [
       {
-        "type": "positive",
-        "title": "BE Stock Soars To Best Day This Year — Mizuho Upgrades Bloom Energy To 'Outperform,' Sees 48% Upside On Cheap Valuation",
+        "type": "neutral",
+        "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0NMSFZaa0F1TjQ1NWdTeTNkQzJ3dDZNRW4wNHpiUkZsNk05M1NfRlVyRDNKU08xV3FqYWtjeWJnNnZCVnppTzJqdVp0LTZtZk1INHFXd3lhTGN0OGRPVTNDVGh5Sm5pa2dfTDEzeXRCNkpTQjM4eWpTbGpQaEFkRnNsdHA5NzNsNndiQjNxZFE5X2ZSektz?oc=5",
-        "date": "09/27 03:04"
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1dVakhMTW5XX1Y5R3FrUk1jaGpwSG0xSzFkNW5BV1RKNGNZa2xoWGM2ajJmaktvVHhFVzdFaVJZcjNYc0tVRFdlS0JZNUYtaG5QeXRpMlBEOGVXb2lSUUprSVBoOUcxNnd4UjIxOUVWRnoxaTV3ZG0xVE40eVZJMjdHZUFtbkJ6MWo2MUFkMnN0ZEtBdGhMeGxPLW9hc3pJQUtzQXNRcVhPLUxCQnpJaDJQX2MwcU5nQ0N5N2tPRGpsS0ZmM3dBd2xXd2RrcUQ0Z3pubTI1QlZOdDJDZW1Hby1ISDBsRVN0b2xTblp4OVo0OU1KWFg0?oc=5",
+        "date": "09/27 12:41"
       },
       {
         "type": "positive",
@@ -972,13 +972,6 @@
         "date": "09/25 01:00"
       },
       {
-        "type": "negative",
-        "title": "GOOGL Stock Steadies After Worst Drop In A Month As DeepMind Chief Says Gemini 4 Is Coming 'Much Earlier'",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQXBnd2Y5QURFZ0JWYjRwSmc4a2RYUmlnMmMtREZ5eHhxa0VRMnZGemdnMklsZk1OcC1rU05TYnYtNXcxRE50UEtod2pNZE44aUdxRFk3V2YzUFJfNUpNRDhSeHczMTVEdzVMTXgzak0teWJoTFczNm1jVEdMelNXd1VkU3pvQTZVSVhfOC1WaFphZ3lLbEI5ZHBTd24?oc=5",
-        "date": "09/24 13:55"
-      },
-      {
         "type": "neutral",
         "title": "Alphabet Stock: How The Bears In Options Trading Can Take Advantage Of This Search Giant",
         "publisher": "Investor's Business Daily",
@@ -991,22 +984,36 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWJRMVhDUFBwT09QbVNIRFVBdW1SUnRLNm9yZzU5TDBtRnpheXlTTWJvazlOV3czZ0NTNlNfaVB5SmlxMjlfMjE2TG1jSkhuYlNVemIzR091djZUUWVPNjZ6OVRtcGg4WXpnYmg0WGIyWmw5Y1VjZjd3bzExbnlCb0c3N0hnTVVvMlBsaFgtVjlOa21UZFQ4UA?oc=5",
         "date": "09/26 00:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet vs. Apple: Which Consumer AI Tech Stock Has an Edge Now?",
+        "publisher": "Zacks Investment Research",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzJzODBzeUpjSUdIU0szOExtUm16NFNJTm1WTHhGZjhhMkcxWVpaR0RGZS1VeHlyRF90SlpEWjNPcDJYak9HSmpsV1BuZjRMcjRUSjFuR21admlxR2VyazFwWld3dHdLakRoQ3BNWi1TOFBLMEpCRDFDSHdwRy1YT1FhNmJFM2diUlNYcEp4WTBERjZzdXpBRF9WLWdzOHU1Q2tqd2lB?oc=5",
+        "date": "09/26 02:26"
       }
     ],
     "QCOM": [
       {
-        "type": "positive",
-        "title": "What Catalysts Could Drive Qualcomm (QCOM)’s Stock Higher or Lower?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaTFzXzBQTzVfNWgtaEZHZHdrQ0VvUWlUelZzNW5MWFp5R0FqX0ViQjJlVFpiWXRkaFN0VVNycHlFWFI0cG1VSWwtb0JLWXBvXzBINEppc09SbE9GSXlUbE5TaDd5WUN5VW9CdUo4RGpTNDVzaWNaSlV5aV9td09fb2sxT0hDWmNDZENhSG9FMGVwNmR1eFBYY2tOTXZNbmQwcHc?oc=5",
-        "date": "09/27 17:19"
+        "type": "neutral",
+        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
+        "date": "09/27 16:53"
       },
       {
-        "type": "positive",
-        "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUHN4a2VZUDlnNkJ2VkEtUVpoOXVsWGlMcG9Zamd5clVSV3hMeXppVC1JcWllTmxCQjhWN2trQ2huUUZjWV9QSzlhT1ZvMWZnVGRPUm1RRmtiX1ZFc3pYZlI2NE9SQk4zRnZmc29vTFdubHhpU1hDRzQ0cjJELVQtNk1MYUpTaklHcVctXzl3SWlGTW5uaVdKVkdmdmlTVTZKVWNUUlBhUkxFUGxRODMwWkZCWFFwdnlsSkxUajFiTksxSlVjNTl0MWtkcV9FY0V5czJyTUtIMENneDJkSVAySUVjMVpidVVOdDRVSWJhaWdRS3BrUVMweURORkhSR2pE?oc=5",
-        "date": "09/27 07:06"
+        "type": "neutral",
+        "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ1Z5NzdySUVNSnBGZW5od1hrUlNwVnI4dkJ4WGZ6eHFKV3pSZFA3TEttUU05Z2Ytd2I2bDV6Wnhmd19wV1VERXZudFlsWDZtUk9UUEgwMUlzaUliZUVHQU1HaEpvdTNQZTJ1TzZ0SUJuRG1KWmk4UVhnMV83VS1YSDU0eXZiNUQ3Q2NWUlg5VXk1VVVuLXd4UUlCSllrYTlfUTVaa3EtOFg?oc=5",
+        "date": "09/28 02:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclFxbW11YWhyRFhCUFgydm80aWdYaEtGSmtCaU9LMkFxdnlIVGRlb3dpbXktd0dtODFQaWtKVmxKMjhMV045THYzVVRGMFlSRnBpVG9BVmlsWS1xMWliMDJGSzQ5QjNzR09ReGlfUy1ONGllbHRzRi1BZ0t4Nm1SOGFteWRNNEROb0lDTDM0VnFfU3JzQnJDaFlMbG4tMVBUbThPcVNPVVBRMENVSXFj?oc=5",
+        "date": "09/28 02:00"
       },
       {
         "type": "neutral",
@@ -1014,16 +1021,16 @@
         "publisher": "Stock Titan",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakl4TmE5SnNvVURhdjc4c2tmT2ZrLUw3LTYyY1QwY0Y2UU5sS3dTZUZ3M09ZdkF4Y3FtTHpRZzl6Nml0OUZneWJxcXFrWFZVcVRrMThWQjNPOVJ5SXFNQTlhRjU0MV95TThqVzY3TjYyTFpGWkVqRnNKeDZBSFNQTnFUcUJyZGpqeHBpX2Q2MXJ5SXBqMkVF?oc=5",
         "date": "09/26 01:06"
-      },
-      {
-        "type": "negative",
-        "title": "Qualcomm (QCOM) Stock Looks Rich With Cash Flow Doing Most Of The Work",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFN1U2NCUnVSc3hIUzJXYkZrdE92cGVHLXozaE1oWGpQMzI4QzFrejlfSHpNb21Ddnh2OUhMSXNfZTJ0NW9PcTFuaEtOWkJhLTVsLUpMZGVmZnlrVUhoY0p2dVk0V00wU0NXUG1SMUZJZ2dSTFhLSnpXR2Q5UnZJNklqSkFuR1BoTFhWREllazJTVGROSmFDNXFmUHM1Q1JNbURzeXUtNWtKZ3pDT3RWb3d4TU4tSU5fVVpmUnVfcG44eWQxQ25UMFJ2MTB1Y3NkYnfSAdIBQVVfeXFMT0xTdVNjQlJ1UnN4SFMyV2JGa3RPdnBlRy16M2hNaFhqUDMyOEMxa3o5X0h6TW9tQ3Z4djlITElzX2UydDVvT3ExbmhLTlpCYS01bC1KTGRlZmZ5a1VIaGNKdnVZNFdNMFNDV1BtUjFGSWdnUkxYS0p6V0dkOVJ2STZJakpBbkdQaExYVkRJZWsyU1RkTkphQzVxZlBzNUNSTW1Ec3l1LTVrSmd6Q090Vm93eE1OLUlOX1VaZlJ1X3BuOHlkMUNuVDBSdjEwdWNzZGJ3?oc=5",
-        "date": "09/25 20:40"
       }
     ],
     "VRT": [
+      {
+        "type": "negative",
+        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
+        "date": "09/27 11:00"
+      },
       {
         "type": "negative",
         "title": "Vertiv Holdings Co (VRT) Shares Drop Into Securities Probe After Q2 Miss",
@@ -1044,13 +1051,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
         "date": "09/26 04:19"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Stock Up 3.2% but GF Value Says Overval",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0RNeC1sV204WHZqUGgyM2xqYmdTbldBalV4N2owOUR3dFNBSS1kT0Y1Mng3Zk5sQUJmUjFMaXBaT19rY3F2dFpLOFVEQnpQTGd3SFZheFgwUWpzSXNtQVZNS01JNmU1QkVKMHVIdEtYR090RXp2M2UyY0tTaVgwLXpNbFJPcEZVcmU2OHdNaGdRUmJ2dDl0Szk3UXJKSmozd3lvbTNMYzFaR3c5OEdyZ3dCYmF6TTFJ?oc=5",
-        "date": "09/26 06:22"
       }
     ]
   }
