@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T20:35:36.933164+00:00",
+  "updatedAt": "2026-09-27T23:29:51.695176+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1353.42,
-        "change": -1.02
+        "value": 1355.01,
+        "change": -0.9
       },
       {
         "name": "KOSPI",
@@ -609,8 +609,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1542.76,
-              1546.48,
               1535.24,
               1541.73,
               1548.61,
@@ -676,7 +674,7 @@
               1350.36,
               1362.5,
               1367.36,
-              1353.42
+              1355.01
             ]
           }
         ]
@@ -906,13 +904,6 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "This Semiconductor Stock Signal Has Never Been Wrong",
-        "publisher": "Forbes",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaE5ocE5NQ2NpOFVuM1VjUk5TQ1RFZzU0VE91MWl0SlpidTA2cTFMQkRPdVNEUWl0aFBMeERTSkpPTjRlQ0dVQ24yXzRONjM1Q1ZpRjgzWFZlSWQzWl9RZFZ5SzRkOUdOdFNUamIxdnBTS3hLVm5GNTBjZ2lXTDU4eFg1Q3JFeUlENXVRaGJrZ0tuZVVQY0Q4dmFkcjZJeTJ4RDFvbzJsc1g0RmtUdzc4cg?oc=5",
-        "date": "09/24 21:00"
-      },
-      {
-        "type": "neutral",
         "title": "Analysts Keep Hiking Broadcom Price Targets, But AVGO Is Flat - Shorting AVGO Puts Is an Attractive Play",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ0MwRWVVN055SEM1bjNMWmNxWkRBZlVUcjVZX3NkdnNXQXRnYXhlMy1LaGVNX09raFl0SlIxeE9LUlRObzg5Z2xHS3o0bXVrS0xYbUlNY2VlTk5MOF9QQmNmYTBvSGVGYVE3Y2RMdzd3LVZKRlkweEM0UGE1Y2JJZXJnQ0Vwd0hkTTBnUzVRX3BJczdfTUVWVG9uWEE4b2E5UGNjOUFLbVhjRjRKZ2xtYjFVT3lpNkhRaU1XNXlZT19nczdOankyVS1HVTYwUFlKTm5nb3owakpQS0t4Q0E?oc=5",
@@ -926,11 +917,18 @@
         "date": "09/27 16:43"
       },
       {
-        "type": "positive",
-        "title": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat?",
+        "type": "neutral",
+        "title": "Jim Cramer Couldn’t Believe People Didn’t Take Broadcom Inc. (AVGO)’s CEO Seriously",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWVITFJqMFB6NHJHUF9HRHBBYzdsQUhUYS0yb1FjU1VmNGM5cmx4QW1oaDlWQ216Zkk4akJNWV9EUFNBb2ZyMDY3cmRDQ3Nzd1VMcmxlS0prems5VFVwVnRVYnlCV3dMXzVfUGpvRWxIbmlla1l6SUp2eWRyMkFVU3RXTW9BN3VkOTB4ejZNdzdCWXV3akNN?oc=5",
-        "date": "09/26 13:51"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0hpWGlsVDdXampVT3FSd01JcGRqbnhvaXhGSzQ3VHpHWWN0Tmdzam9NWnJXNDQ0ZTFFblFSWnREZEhZbUJDYVNBOTRTczBBRFd0MmlQNkszcnRsTVctNEZqZnc1R1ZaZ28zbTA2UnlWbUtyd1FxVHlGNFZDblh6dTliQ2hVdi1LVzRlMGhHTGd4Rk1iNzlz?oc=5",
+        "date": "09/25 19:02"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Has More Than One Way to Win. Here’s Where I See the Stock Going",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR21xMXdWYnJUV3MxVkVYS0lvMjYwczlRTmREREYyTEJJd19HYUNLaDdqYTMxQmNDaVA2dHhUTUwxTWUyamtOWHBua2g1dU1uaHZieVJYSUtjWkQxSUNqZjZ1Qm1Pa2pyYmRCUS1wVVdadHo4dVNkem9JNzNFM1V4RnJGcHdUY2MyclV2aDcyUC1yOUVNaTl5eUpsNUpsMVVPYjBsS1VPZHpJZWRtN2ExdUc4M2Rfdw?oc=5",
+        "date": "09/27 01:45"
       }
     ],
     "BE": [
@@ -942,9 +940,16 @@
         "date": "09/27 12:41"
       },
       {
+        "type": "positive",
+        "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVJqbk1aUTVxNXFET2RGeTl1WDB6YktCOHI1OS1fTzBVMWxmMlZiMFFldUdsSzlMSUpMOGdEcjZ5V09lM19iUHVpSUJVZFpiaWxUNmZxd2N5VnlfblUwcFR2TTBNNnotLS1rSW8xVHRRTkZwT0xWa2xtWXl3TkVUaUFUWmk1RnF3OTR3YjYwNktBbWdFN2ww?oc=5",
+        "date": "09/25 16:26"
+      },
+      {
         "type": "neutral",
         "title": "Bloom Energy Stock Rebounds: What's Going On?",
-        "publisher": "benzinga.com",
+        "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR05haTNsY29HNW1vWVBQTnkwWTNvTndqUzc0cDc1M0U2RTVaTHlINVFxYmlvbG5ZbVYxZFo5Y1FWbDZDZnBRaTM3T0Y0NDJTOXhodXBzOWJ6cDNfQkV6SVhWaENwMEhnN1ZLUFNDTmVaaDlRTEdXOEF3VEFLZnFhMkYwRFhQUnI5b1liR2JMN3RQd010TFlIaFJQcE4teG9rOU9JZWJB?oc=5",
         "date": "09/26 00:49"
       },
@@ -954,13 +959,6 @@
         "publisher": "Investor's Business Daily",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObkpkbFl3eEY5Wl9lM0JucmVqbGI5bHhTbWNfb1g2dnNGQU1NVURDczQtemtwYmhyVDhHdE0zUEItVGxuUTBhLUpPM0R2bmNWZ1hnRkY4VEQyMHlKaDlrOVlYcmV3ekxJZG11ckp1ZzIzUUotYTJVVy1rb1poTk1aS1huYkQzNVc5Y3lOQl9hQ1VIZw?oc=5",
         "date": "09/26 21:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Stock May Be Reasonable Despite Its Huge 3 Year Run",
-        "publisher": "simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOakxuRlRwSHR0MHhpSUxtSWVydzBfZnJqX0k2NVBVYzlXZjdzRWNCY0w4ZFRTeXFNd1B3cDN3R3g0d1FsT0k1RzEyQ1FkUE1JMGJRTEJkc0lmQWtlLVFfX25wX01FaWxoWVUyNmdiR2NEQ1N0UXpQNVZTNHczb1JGTUxQQnNpTi1GVmdwZ3FYNU9TSXZoNDJMM1BNS2Z2eWVhLVZTRnEtOWhKclhMRkE3X2FUX1NUbWZQT2RieFpOd08wSHhkeVUyWWtLRkXSAdIBQVVfeXFMUEtUa0stQ3labzhIVVAwQVFCbnljUFBTbHJlZ2pIbVN0ZjZSNnlENmt0czB1VGhfYzMwLWpjUmlRUk9FaXZHWERUb2ljR2JKSmNUSWR5Yld4b0M2WUFlcEFEOGdCVExIWmhEYXVodGhJQnUxOGtLWTdXX1FlQmczVFZUQVl3bzh0UFZjN2x1ZVJkdm1RVE14MXFkMXdEZXY0M1I4Sm1mQ0FRSWNoU0JNNnBDMmQzekEwNHNKUmNuNWpnNnFRZ2xfSExOZ1R0TTNwSGFB?oc=5",
-        "date": "09/23 12:45"
       }
     ],
     "GOOGL": [
@@ -973,17 +971,10 @@
       },
       {
         "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "title": "GOOGL Stock: Should You Buy the Best-Performing Magnificent Seven Stock Right Now?",
         "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "09/27 11:41"
-      },
-      {
-        "type": "positive",
-        "title": "GOOGL Stock Inches Up Premarket: Retail Traders Are Buying The Dip After CapEx-Fueled Selloff",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV3JVZy05Smp3ZzlqejNJTzhtaVYzQ1JyMVk0RmZqaDl5T3NmVmZ2VmFFR09OcmtPYngxM0hTWUhMNFdjRG1ERWcyaDJiWV84N2NfTTliUEt6aGxhLWRRLUwzS0RFclJMSmFDRVNCSVJYMXY3MHM0TWRkVkFKbVZ5ellLZWV5bGlxWTc0c0ZKLXFjbE5sWS1wdmxuYmZqX0xFWEFoVEt3NlpwOTRxY2ZZdkpKTEFkQzV2M0M0OVZUOVRGcHhadDdjRWR5NEZPSWxCWXVaX2tSckxsVnhmVlVVUE5aZ0M0UWVRckdBbm1B?oc=5",
-        "date": "09/27 02:20"
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTmVpTE0zd1RjSFd3Q0tQRzFTdEh1dG9vdWNsYVZfb0pJTlYtZzV5bFNDckNXRWFMSzFyZ1hUVTVvVERNYnFSZnZVSHdjNXFTTk9MTElKVWJ3M2dwWnZXTFVtYVhXNktFcmZPQlRacXpsMnVseHJTcnNTM2d5c2FQdWZGOHd3MjZQS0VEZlBwSmFmaHZ4RTVLdzRtejZrSGtHTDRMVG9lV190UldWb0tmbF9reXdySWVPNnFpOHg0WVJPSjltMEltNHhuUFh2MkRSTGY4UDJlWk96eWhpTThmX3EwQ2RRQQ?oc=5",
+        "date": "09/27 21:00"
       },
       {
         "type": "neutral",
@@ -991,6 +982,13 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hTzhHdDM5dXpFSkg2MGFYNXFmZVZDYWF3Rkk2OWhtQzAxVmh5N2NTLUM0dzNWSUFQVnVHZ1MwYmU2blppeUFEZ1pUSEt1WlJEVHQyeE5vR2FGYmlvSDRocEJTMGh4QmVTallNaEctTC0zZTNOMGdVRU4wQm5idw?oc=5",
         "date": "09/25 01:00"
+      },
+      {
+        "type": "positive",
+        "title": "GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDlyaGhHM3ZsRWFsaEJZU0VjY0xJOGg3bjJfUnhneTRWdV9JVmpqaXNQVlpoWldZeDl4TUNfdUhCU1hlRmJraWNEXzhFc19HZHJKVnBVOEU5SXlvR2lUcGNpTkxRRmMzRDJPMXRMbWxiTzhiUlJ1dGlTM0NMdWZEQUNVcloyakJlTDlDdlJCSHhtQnZuN1lWNVJjQ0xDRVM1VERSbnlZLVNUTnd1cEZTVXltSHZyMjQ1djdTVUdoRkUybjNOOXpJelloVnJwYzZDRWZrOGtmd0lHWmpFdmc?oc=5",
+        "date": "09/26 02:25"
       }
     ],
     "QCOM": [
@@ -1048,7 +1046,7 @@
       {
         "type": "negative",
         "title": "How Much Further Could Vertiv Stock Fall?",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
         "date": "09/26 04:19"
       }
