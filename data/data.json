@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T23:29:51.695176+00:00",
+  "updatedAt": "2026-09-28T01:53:06.251047+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1355.01,
-        "change": -0.9
+        "value": 1360.98,
+        "change": -0.47
       },
       {
         "name": "KOSPI",
-        "value": 7080.92,
-        "change": 0.9
+        "value": 6964.37,
+        "change": -1.65
       },
       {
         "name": "KOSDAQ",
-        "value": 844.48,
-        "change": 1.21
+        "value": 857.1,
+        "change": 1.49
       }
     ],
     "groups": [
@@ -674,7 +674,7 @@
               1350.36,
               1362.5,
               1367.36,
-              1355.01
+              1360.98
             ]
           }
         ]
@@ -682,10 +682,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "06/23",
-          "06/24",
-          "06/25",
-          "06/26",
           "06/29",
           "06/30",
           "07/01",
@@ -746,16 +742,13 @@
           "09/18",
           "09/21",
           "09/22",
-          "09/23"
+          "09/23",
+          "09/28"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              8203.84,
-              8471.02,
-              8930.3,
-              8411.21,
               8394.65,
               8476.48,
               8303.41,
@@ -816,16 +809,13 @@
               6894.23,
               7007.72,
               7017.91,
-              7080.92
+              7080.92,
+              6964.37
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              891.52,
-              909.31,
-              887.81,
-              851.37,
               920.57,
               916.18,
               929.35,
@@ -886,7 +876,8 @@
               827.12,
               836.27,
               834.38,
-              844.48
+              844.48,
+              857.1
             ]
           }
         ]
@@ -902,6 +893,13 @@
   },
   "news": {
     "AVGO": [
+      {
+        "type": "neutral",
+        "title": "Broadcom And 2 Top Undervalued Stocks",
+        "publisher": "simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0NsME5kbWp0SFlNRkoyUFN4NFVqZTgtWEpmNXFyQ2psYzNDaXJ1STl5bi1DVGhhRk5fYTMtVFJrQUNrZmFTSGpac0lZS1ljZnc1aTJlN0tkck9wYzU0VlJjMk1xWlFkVkpwZHpKT1NmbnRUNW53TWUwV1BEZW03UGFwRzhncmdvRWRjSUh6TTZvSHFFV0ItbnNEcHRaWFpkTDdUYTFmT01ENXFwTHNN0gG0AUFVX3lxTE1MVEV0YUxVU2FZRVVxLVZ3UzJ6NHA0NmNaeVFsd1VZbnFlVU5SelFxcWlIWUhQZzB0a0doempqa2NuckduM1FXbWcwWmhKRUhYN0tlN3ZHaWI0d2ZnUHF6REpjSFQzX0EwTW9VbXVUOG1ocEpzMWR5cFZ4azlxSU5WSzh6NHFTWWJwN3pFa1ZMbkVfejhnS0xQY3NwM1dGNDdZRVVqWGVUNzQzczNKbVFhMWgteg?oc=5",
+        "date": "09/28 09:44"
+      },
       {
         "type": "neutral",
         "title": "Analysts Keep Hiking Broadcom Price Targets, But AVGO Is Flat - Shorting AVGO Puts Is an Attractive Play",
@@ -922,29 +920,15 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0hpWGlsVDdXampVT3FSd01JcGRqbnhvaXhGSzQ3VHpHWWN0Tmdzam9NWnJXNDQ0ZTFFblFSWnREZEhZbUJDYVNBOTRTczBBRFd0MmlQNkszcnRsTVctNEZqZnc1R1ZaZ28zbTA2UnlWbUtyd1FxVHlGNFZDblh6dTliQ2hVdi1LVzRlMGhHTGd4Rk1iNzlz?oc=5",
         "date": "09/25 19:02"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom Has More Than One Way to Win. Here’s Where I See the Stock Going",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR21xMXdWYnJUV3MxVkVYS0lvMjYwczlRTmREREYyTEJJd19HYUNLaDdqYTMxQmNDaVA2dHhUTUwxTWUyamtOWHBua2g1dU1uaHZieVJYSUtjWkQxSUNqZjZ1Qm1Pa2pyYmRCUS1wVVdadHo4dVNkem9JNzNFM1V4RnJGcHdUY2MyclV2aDcyUC1yOUVNaTl5eUpsNUpsMVVPYjBsS1VPZHpJZWRtN2ExdUc4M2Rfdw?oc=5",
-        "date": "09/27 01:45"
       }
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1dVakhMTW5XX1Y5R3FrUk1jaGpwSG0xSzFkNW5BV1RKNGNZa2xoWGM2ajJmaktvVHhFVzdFaVJZcjNYc0tVRFdlS0JZNUYtaG5QeXRpMlBEOGVXb2lSUUprSVBoOUcxNnd4UjIxOUVWRnoxaTV3ZG0xVE40eVZJMjdHZUFtbkJ6MWo2MUFkMnN0ZEtBdGhMeGxPLW9hc3pJQUtzQXNRcVhPLUxCQnpJaDJQX2MwcU5nQ0N5N2tPRGpsS0ZmM3dBd2xXd2RrcUQ0Z3pubTI1QlZOdDJDZW1Hby1ISDBsRVN0b2xTblp4OVo0OU1KWFg0?oc=5",
-        "date": "09/27 12:41"
-      },
-      {
         "type": "positive",
-        "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVJqbk1aUTVxNXFET2RGeTl1WDB6YktCOHI1OS1fTzBVMWxmMlZiMFFldUdsSzlMSUpMOGdEcjZ5V09lM19iUHVpSUJVZFpiaWxUNmZxd2N5VnlfblUwcFR2TTBNNnotLS1rSW8xVHRRTkZwT0xWa2xtWXl3TkVUaUFUWmk1RnF3OTR3YjYwNktBbWdFN2ww?oc=5",
-        "date": "09/25 16:26"
+        "title": "BE Stock Soars Overnight On S&P 500 Inclusion: Analyst Sees Upside Of Over 28%",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzNBMkZfSmJhb0hNRWtkc3NQZFRZVU1TRzV5V1BIUmtoT1lSTUFjS3JpZVNqMnBqWk51SDVKOExWd21xcE5RQ2RRVUowNWFpVFpTZmVXZm11ZjNERVBNTlhQbWJUZFB2OFNleUhxNTBLNUJFWXF3d2tMU3pocy1PbVdLTUVJcW5iNWdIMDJGcHNDTHZpcFN3QTVSYVhIb3o0ZmRtY094aHZXNEJ4YnpqTHVwT1A4cVlFRW1Cc2xIUHJJLVMwWkp3Q0U4aS11SVVCc05JbW9xaDM2N3Z0?oc=5",
+        "date": "09/27 14:09"
       },
       {
         "type": "neutral",
@@ -952,6 +936,13 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR05haTNsY29HNW1vWVBQTnkwWTNvTndqUzc0cDc1M0U2RTVaTHlINVFxYmlvbG5ZbVYxZFo5Y1FWbDZDZnBRaTM3T0Y0NDJTOXhodXBzOWJ6cDNfQkV6SVhWaENwMEhnN1ZLUFNDTmVaaDlRTEdXOEF3VEFLZnFhMkYwRFhQUnI5b1liR2JMN3RQd010TFlIaFJQcE4teG9rOU9JZWJB?oc=5",
         "date": "09/26 00:49"
+      },
+      {
+        "type": "positive",
+        "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVJqbk1aUTVxNXFET2RGeTl1WDB6YktCOHI1OS1fTzBVMWxmMlZiMFFldUdsSzlMSUpMOGdEcjZ5V09lM19iUHVpSUJVZFpiaWxUNmZxd2N5VnlfblUwcFR2TTBNNnotLS1rSW8xVHRRTkZwT0xWa2xtWXl3TkVUaUFUWmk1RnF3OTR3YjYwNktBbWdFN2ww?oc=5",
+        "date": "09/25 16:26"
       },
       {
         "type": "neutral",
@@ -984,27 +975,27 @@
         "date": "09/25 01:00"
       },
       {
-        "type": "positive",
-        "title": "GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech",
+        "type": "neutral",
+        "title": "META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDlyaGhHM3ZsRWFsaEJZU0VjY0xJOGg3bjJfUnhneTRWdV9JVmpqaXNQVlpoWldZeDl4TUNfdUhCU1hlRmJraWNEXzhFc19HZHJKVnBVOEU5SXlvR2lUcGNpTkxRRmMzRDJPMXRMbWxiTzhiUlJ1dGlTM0NMdWZEQUNVcloyakJlTDlDdlJCSHhtQnZuN1lWNVJjQ0xDRVM1VERSbnlZLVNUTnd1cEZTVXltSHZyMjQ1djdTVUdoRkUybjNOOXpJelloVnJwYzZDRWZrOGtmd0lHWmpFdmc?oc=5",
-        "date": "09/26 02:25"
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd1BKWlBTRDJSZ3dkN2hrbElHaFNmb2kwcmFBUmxXREc0TUtiVnRmcU9pa05jbUlqUFRzWGtYV0ZORlRiR3lFV0FBSE82THZFWl9pVmtoYUlQSVhtc3FNaXJXdUtiUkp3Wld2THY5Y3RxLUUyLTU3cHY5Z0U4ZU44OG5YbjRma25kZndDcjlWZVdadkJGUE9LclZHVTRsTEhaSGRYcWE3RXJYdXRsdmc4dmxGc0s0QlFodUxQNFlUZVFBNU15TmhhNHdOXzRmMmw3T25lVm5LM0p6VjV1WjRYNzQzTzBYZWc0Y193VEYxOA?oc=5",
+        "date": "09/28 10:41"
       }
     ],
     "QCOM": [
-      {
-        "type": "neutral",
-        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
-        "date": "09/27 16:53"
-      },
       {
         "type": "neutral",
         "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ1Z5NzdySUVNSnBGZW5od1hrUlNwVnI4dkJ4WGZ6eHFKV3pSZFA3TEttUU05Z2Ytd2I2bDV6Wnhmd19wV1VERXZudFlsWDZtUk9UUEgwMUlzaUliZUVHQU1HaEpvdTNQZTJ1TzZ0SUJuRG1KWmk4UVhnMV83VS1YSDU0eXZiNUQ3Q2NWUlg5VXk1VVVuLXd4UUlCSllrYTlfUTVaa3EtOFg?oc=5",
         "date": "09/28 02:00"
+      },
+      {
+        "type": "neutral",
+        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
+        "date": "09/27 16:53"
       },
       {
         "type": "positive",
