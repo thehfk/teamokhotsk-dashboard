@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T22:11:26.037938+00:00",
+  "updatedAt": "2026-09-29T02:07:13.289555+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1360.03,
-        "change": 0.41
+        "value": 1359.38,
+        "change": 0.36
       },
       {
         "name": "KOSPI",
-        "value": 7080.92,
-        "change": 0.9
+        "value": 6886.61,
+        "change": -0.05
       },
       {
         "name": "KOSDAQ",
-        "value": 844.48,
-        "change": 1.21
+        "value": 841.38,
+        "change": -0.61
       }
     ],
     "groups": [
@@ -671,7 +671,7 @@
               1362.5,
               1367.36,
               1354.51,
-              1360.03
+              1359.38
             ]
           }
         ]
@@ -739,7 +739,9 @@
           "09/18",
           "09/21",
           "09/22",
-          "09/23"
+          "09/23",
+          "09/28",
+          "09/29"
         ],
         "series": [
           {
@@ -805,7 +807,9 @@
               6894.23,
               7007.72,
               7017.91,
-              7080.92
+              7080.92,
+              6889.74,
+              6886.61
             ]
           },
           {
@@ -871,7 +875,9 @@
               827.12,
               836.27,
               834.38,
-              844.48
+              844.48,
+              846.58,
+              841.38
             ]
           }
         ]
@@ -911,32 +917,32 @@
       {
         "type": "positive",
         "title": "Broadcom Stock Is Back Where It Ended 2025, but Its Earnings Are About 43% Higher. Is It a Buy?",
-        "publisher": "The Motley Fool",
+        "publisher": "fool.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaURBMURTN3dHcHZaT2p4ZmdKZGd4STVpOEp4bmQtVk9CakxYSWlJd05iVzZ2clk4WjRRNFFDUm5TcHZ5TEtZdUJ0akF5YkduMmpXLW5DUjF4NlI3LWI5LUxhNF9hNVpSaUYyTUZIUUJkM3BWNzgyZERnU0prQ0J0eUV3TEVUSUNJdGF6dDNOR216ZVZLcmRXY1J0cFlnTHR2d2ZEMkpkNlhadm1WT1dDZ2lBeHpuME9aX1NmVGNaVG42ajlLU2dLallweVU3bUU?oc=5",
         "date": "09/27 16:43"
       }
     ],
     "BE": [
       {
+        "type": "positive",
+        "title": "BE Stock Slumps Most In Over A Month: This Analyst Says New Fremont Facility Is An Indicator Of Strong Demand",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPamVKYnoyVWlDcVN1bHNidDBjY2JCRDR2MFRLX0lPRmkxX3FsbUhMeVlGcWttM1pCSWNQQm5CSUpnanZySEE1LURtbHBqcDljajV5d3RMYUpBclVfdVV6ZXZPbDJ2aEhqYmtvbXR1ZC01Q3hnY3FIcjYxOHJpNGg1QkRxZEhYcTJaYWVzb2luWWFsRFhUcmdBc2E3SVBKZjJCRVB5OHFGcmFnMWVFQTFRb3JvWm1wcFk3SmhFcXdWamxMMklYLVZhX1A4OFFQWkxobEVaekxKb0RjeTBDQktWNi1zWV9yaXVSdFBVYjhtT2xpbk5DVHF4S3Nyb21zd1RFQnc?oc=5",
+        "date": "09/29 10:32"
+      },
+      {
         "type": "neutral",
         "title": "Why Bloom Energy (BE) Shares Are Sliding Today",
-        "publisher": "stockstory.org",
+        "publisher": "StockStory",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTlqd0tnc0pkUllUWS1ySzRMZUNEUG5mVndKTC1BbU45N3FtNmljRnRBeTlybEp2aFVsU2FCRjE1aDM3dEtTbFM0T0lCdU1Ea3Z5TGs0RGdwc1VqYkowem9SaHZYcmUza3l5UDFPeHNPcDlINDZyeUYxRWxjbWI1WlFGdWxhbl9kYXFmaW9RWlhCa2psakJYbTF1YjNtckhKd25UMVA0cw?oc=5",
         "date": "09/29 02:31"
       },
       {
         "type": "neutral",
         "title": "What's Going On With Bloom Energy Stock Monday?",
-        "publisher": "benzinga.com",
+        "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPalhwUHNoVFM2U25UR3RaMUNLdFRLRlNSdGhrczFCY0UtMTNjN2tGRHBrWDhMS0ppMjN5X0dEam9UekhuUTh5MXJRRE50ekVLZGtGYmh5TUpYS01yc3lUV21jMmFUeGdMcEhCUTVzSURHYnU0SDJoREFNQl95dnNla2RRNVU4X0N0Sm5Pb0FQNTF5ZzBlWVBNQmxiOHdvQ0MzSm5UWm1ybEdDZk1s?oc=5",
         "date": "09/29 02:28"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock Rises Premarket: Retail Dismisses Short-Seller Report As ‘Manipulation’",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHUzbFJkRm9yZ2pYTkh0Q0E1SlAxZTV2ODRUWXF6a1BxbURUUkJ0YnVWLThmNzdSYUFmeVhRbW1OTVJ4bkY1aXMzMmhxb3AtS2l1cV9JWW1aMENBeXdiVHhZdHJIWWhHNS11aUxrSzZnQWNGZnUxbzRiMWZHTmQtMmhOdzd4eE5XdjBBb0FhUndkVDdlQUZ4VExaRzI0Ry1GRExLbExQNnhPc1c4eDBxRjRHWlFCZUY4MHZNdC1lMVJPOWs?oc=5",
-        "date": "09/28 05:00"
       },
       {
         "type": "positive",
@@ -970,13 +976,20 @@
       },
       {
         "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "09/28 09:16"
+        "title": "Alphabet: Buy Before It Cashes In On Its TPUs (NASDAQ:GOOGL)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0ZOZWlzeEEzZ0hnaEs0QmI3Tnk1SmY4azBFQlBJeDd4VkNGd2k0ZzJhcmNqUnRFNG5MNkZDYVZnSlNQTnpTVC1lRjFiQlV6Z1RQYTJvcU5Mbl9Cc2FjX24zUGlSWUh0Ym1BTHM0UUd6R3pzc0F3SjNyNnFEbXlyTmpNaV9nT3FzbFdjRVpGUDdVV1Nrbmc?oc=5",
+        "date": "09/29 11:00"
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "What Is Going on With Qualcomm Stock on Monday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnlPclNVZXNyakF6bDItS2xmYVJpU0ZqZnV5cHZYVW8wY0h5b3FtanhwemFsS0ZTNld5ZGtLMUJhMEY0eUF0dUF5d2Fjd2VMMWpaM05ZdFFQLVdXd1NpQWxnYzJpa1ZwUFlYX3REWk9GdEM1VXg0em9zR3JnTlF5QXJTVmFuOFN4U0J3dTJQbng2TV9ZV3VidUlFUGdtNlNiMFFF?oc=5",
+        "date": "09/29 01:37"
+      },
       {
         "type": "neutral",
         "title": "Why is Qualcomm stock sliding today?",
@@ -985,18 +998,11 @@
         "date": "09/28 23:16"
       },
       {
-        "type": "neutral",
-        "title": "What Is Going on With Qualcomm Stock on Monday?",
-        "publisher": "benzinga.com",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnlPclNVZXNyakF6bDItS2xmYVJpU0ZqZnV5cHZYVW8wY0h5b3FtanhwemFsS0ZTNld5ZGtLMUJhMEY0eUF0dUF5d2Fjd2VMMWpaM05ZdFFQLVdXd1NpQWxnYzJpa1ZwUFlYX3REWk9GdEM1VXg0em9zR3JnTlF5QXJTVmFuOFN4U0J3dTJQbng2TV9ZV3VidUlFUGdtNlNiMFFF?oc=5",
-        "date": "09/29 01:37"
-      },
-      {
         "type": "negative",
         "title": "Why Qualcomm (QCOM) Stock Is Down Today",
         "publisher": "The Globe and Mail",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUJyTTM1aDRpMGJQOEFkWnQzRHJmcExSZDJQME5mbjRJeHlsQTJ4bWh6OXBXelhZbldXT1ZyTC1wRlBTdTgxeUluSk50TDk2MkZfSDhVODhweFAwOHFXNXRIMmNCMGlKS05LcDh1VnFPbWMtZG15RlhVWmo0NXFjMjJ6VG5Pc1MwUGxWT29HWDdiOFJlekF4bWQ3UlczTWhvVHVUcUw1Njh3VTZCZG5vUklackhzbGdfNV9XLVBPVQ?oc=5",
-        "date": "09/29 02:26"
+        "date": "09/29 02:15"
       },
       {
         "type": "neutral",
@@ -1009,6 +1015,13 @@
     "VRT": [
       {
         "type": "neutral",
+        "title": "Vertiv (VRT): A $1.45 Billion Power Bet Lands As Wells Fargo Defends A Premium Multiple",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0lMM1VocGdHRGY0ellHMjdUT254MkVINi1hV2ZmRVJaUDlPX2VPeGdoRnp6OG1CLUJqbkRPWW1ZUWl1bWdibU5YWHdkWE5mMXpubTdMcEpmdnNHdUozTF9UemZaOTRZZDRrWkdMNUotcERwaEgtdEJCcmdIVG9RdnM3MXY1N2Qxd3c4ZHdKWndLQQ?oc=5",
+        "date": "09/29 10:33"
+      },
+      {
+        "type": "neutral",
         "title": "What Did Vertiv Say Before Its Stock Took Off?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1BaRHg4ZGNYNTNISko5b1BxSndKQWM2U29ibkJhbHBFcU1IaVh6LUtjdEQzWjlYX1NrTWhqMnBMYlRfZ1F1UDJpRUZyTWMwZGRIWTZwYlhRSGNKeDdJZVMwUUFkWXBzVnpNUTdPd3dBY2tjMWZ3NTRQc3E4dm1WcVB0WHktbGFOb0ZCaV93REw5WjhvMWxLLV93YjM3WERCMGRxa3ppRUM?oc=5",
@@ -1017,16 +1030,9 @@
       {
         "type": "negative",
         "title": "Vertiv (NYSE:VRT) Shares Down 3.4% - Should You Sell?",
-        "publisher": "MarketBeat",
+        "publisher": "marketbeat.com",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTEdZSW83dWc3cnNlTmwzWm1pU1hrbnhpOTZRRk90NUwwY1A1VjBNS25TTGZJTUh1UkI5TlpTcDRwblFBaUpmTFY4TFNheEhsdkduaXNtOGVDWkZFYjJrN2tvdmlISkI5N1hGMnhBa2s3NE1aODZ1YjBhQ0lCRDh6aXBUS0Utb2trZWZkcXYtRVBzM25sUHhwV09yby03MFZpTTRZYlh5Rlo3Zw?oc=5",
         "date": "09/29 06:58"
-      },
-      {
-        "type": "neutral",
-        "title": "Do Options Traders Know Something About Vertiv Stock We Don't?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHBpNzgwenhjZWluWHNMVUtLaFBmQ1VCNV80aGxDSEpXcGJJY1RmQ19LLXdUclZUeVNTY1ZyRW16b3hWRlVPOUhNbnF2d0RkQnl1OHhjTFJJRDNIdld6OV9SeXZuLUhwZjFqbmNDbjM5OG9zejUyMXMyQUdWVXJZd0xoTlNTQ080cmlhWDEwRnpNQS1Od083NHh5Vm9Ib3dPUHpaVGp3?oc=5",
-        "date": "09/28 22:26"
       },
       {
         "type": "neutral",
