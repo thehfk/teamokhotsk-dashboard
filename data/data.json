@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-10-02T15:11:06.339840+00:00",
+  "updatedAt": "2026-10-02T20:00:25.957373+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7716.15,
-        "change": 0.65
+        "value": 7722.94,
+        "change": 0.74
       },
       {
         "name": "NASDAQ",
-        "value": 27185.81,
-        "change": 1.17
+        "value": 27190.86,
+        "change": 1.19
       },
       {
         "name": "다우존스",
-        "value": 51018.44,
-        "change": 0.18
+        "value": 51177.44,
+        "change": 0.49
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.51,
-        "change": -5.37
+        "value": 15.4,
+        "change": -6.04
       },
       {
         "name": "미국10년금리",
-        "value": 5.24,
-        "change": 0.0
+        "value": 5.28,
+        "change": 0.76
       },
       {
         "name": "원달러환율",
-        "value": 1346.34,
-        "change": -0.77
+        "value": 1343.94,
+        "change": -1.22
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "07/02",
           "07/06",
           "07/07",
           "07/08",
@@ -117,7 +116,6 @@
           {
             "name": "S&P500",
             "data": [
-              7483.24,
               7537.43,
               7503.85,
               7482.71,
@@ -181,13 +179,12 @@
               7670.84,
               7651.54,
               7666.45,
-              7716.15
+              7722.94
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              25832.67,
               26121.16,
               25818.69,
               25870.65,
@@ -251,13 +248,12 @@
               26797.54,
               26861.06,
               26871.6,
-              27185.81
+              27190.86
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              52900.07,
               53055.91,
               52925.15,
               52348.39,
@@ -321,7 +317,7 @@
               51349.92,
               50906.05,
               50926.56,
-              51018.44
+              51177.44
             ]
           }
         ]
@@ -465,7 +461,7 @@
               16.04,
               16.34,
               16.39,
-              15.51
+              15.4
             ]
           }
         ]
@@ -607,7 +603,7 @@
               5.26,
               5.29,
               5.24,
-              5.24
+              5.28
             ]
           },
           {
@@ -679,7 +675,8 @@
               1359.56,
               1350.5,
               1356.84,
-              1346.34
+              1360.59,
+              1343.94
             ]
           }
         ]
@@ -890,11 +887,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 55.6,
-    "BE": 60.5,
-    "GOOGL": 45.3,
-    "QCOM": 54.5,
-    "VRT": 60.3
+    "AVGO": 56.6,
+    "BE": 59.9,
+    "GOOGL": 45.0,
+    "QCOM": 52.9,
+    "VRT": 60.7
   },
   "news": {
     "AVGO": [
@@ -929,18 +926,18 @@
     ],
     "BE": [
       {
+        "type": "positive",
+        "title": "Why Is Bloom Energy Stock (BE) Up Over 13% Today?",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVmNNMk5iUElvN2lGa05GSFdmT0JDaVJhc3NMX0h5VWExVGhFUDY2UVYwbUw3c2x2d2dleXN5VTFsdUVXb1N3bG9SRkV1em5fSVJIdEUzM21GNFFPY0J5VFpJeTJPRGRLU2dsY3R6OXhHTk00TUY1MmNRWFdTSDcxeA?oc=5",
+        "date": "09/30 02:00"
+      },
+      {
         "type": "neutral",
         "title": "Bloom Energy (BE) Stock Still Looks Undervalued After a 24x Run",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYlFhV2ZUejdfM0hDUTFEaG9XbDhyVERxd0pNU0hxNjNTV2NDbWQ1ZjVHd3ZYS0RfVEk5S3p3U3ZCbXRKM3ZIWnBRVUJtc3l5MXVNWFhGakdkTkxVMmtva1J3SFlya25NdEctRHJxQnIwZklLbFZKbnpsZVk2LVlGelBPVGQtQnFFZy03V25nYW5BZDRNVWpkOEp3OA?oc=5",
         "date": "09/30 12:09"
-      },
-      {
-        "type": "positive",
-        "title": "Bloom Energy (NYSE:BE) Stock Surges 14% as a Factory Expansion and Oracle Reassurance Lift Shares",
-        "publisher": "Stocks Down Under",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2cVVnRTUzVnlhanFlRk8wTXRxS1FHc1EydUYtODNLX1NwVS1iZTZ1UjVKUzJRNWczZzJxLWs3NlNoakljWHhVUWN6TjlsZHJwM0JJVUtvdG9yXzRFNUxUVU1ab2ZUa3hacll5bDdKVEZZb3RmakhhS19veDAtdw?oc=5",
-        "date": "09/30 04:07"
       },
       {
         "type": "positive",
@@ -951,19 +948,26 @@
       },
       {
         "type": "positive",
-        "title": "What's Up With the Jump in Bloom Energy Stock?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlhkOUpCMHczQmxVVjUwTUItQjd1aV84NVdGckhHY0tzcGhnc2tLYXVKd1BpQTY4Uy0yQ0NUWC1QZHdUNWQzU0J1SnU2NFp4RDIzSXFXWjl5eWdtR1dJalpFUnVRa2dxSjNFSVZiSEdpQkdXSTZhWTZEaXJ3aGRnY083TU1jSW1fRnh4QkY4bG9BVUpBZ0dmdXJ2OHpNdnJVemVFeE1qOGc?oc=5",
-        "date": "09/29 23:30"
+        "title": "Bloom Energy stock gains on factory expansion, fuel-cell demand outlook (BE:NYSE)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHQ3ZDVsTm4tTVZDNXZyN05XWW5sZmVaYWI3V2xfTFo1TVpWT1JKcXp6bUZiZjZidHVUXzNMNjNNNTgycE0wQlZMVkcxTU1Uc1h2Tm1uc2g3U2dPdm9mbll6R2lzRGZteVlxc2pQWDRlX2g3SVZiYUk4ekxaLTJ2TkJzRUNBTmtMemFFU0RubWFaNUgtYVJwMU5vTFdIODRIQ0FqcUc4UjA1TkRy?oc=5",
+        "date": "09/30 00:48"
       }
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "GOOGL Stock Rises After Gemini 4 Argon Launch, But JPMorgan Says Google Must Reclaim AI Leadership",
+        "type": "neutral",
+        "title": "Alphabet Inc. (GOOGL) Stock Forecasts",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGltd2tZejY1NGJCQmtMVkFrUDdOYVNsYmUtcWRhQTd2WmpsZDlDZnZWNzQ3ZjkwNE1tYXBNU0RDOHpUNlYwZ1pKbFRsT1ZEeG5BbTdGMUhuaWJ1dkxWVEJ3eGFlRnJXTkhvSmNDcjVhOHZhQVBvbkg1OHRfMlB5UHNVYzFBblZtVXd4UThiOF9yNnBk?oc=5",
-        "date": "10/01 21:52"
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0hscUpxN2ZVVWtTbThvaDROM25QR2JnalVuMGxvRzZhRFRXX2hGX0FKYWtMT3FrOWRMOFBBV1dDVjY4Ullla1I1bmp3elJkWXpNbnV2cV9JMW15eGdBcXlackRKamd0ZDljaklDMy1nQ2ZrTjFKLTlMN2VnUUZFZ0dLVGg2RC10NjYwNmtKOA?oc=5",
+        "date": "10/01 21:09"
+      },
+      {
+        "type": "neutral",
+        "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUtaYkxFY2tmUTBJMVlpeFBla1pUNjF1WlRKWnFtTk9EV1hwTlltMm16ZUh1S3R3cWs3UHljeTdNRWhScFg1OUxRSDA0bno4TFdTN0h1bzVRaUE3NDVOdFFpRmJUM2tsREZwUGhIRURTdndaRkFSWGZEY1FtTE42T2k4Sk9aUW9yQnhFVktJTGRRY3liQmtVMl9pVXI?oc=5",
+        "date": "10/01 20:51"
       },
       {
         "type": "positive",
@@ -974,17 +978,10 @@
       },
       {
         "type": "positive",
-        "title": "Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish",
-        "publisher": "Stocks Down Under",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44LTJXSUR0TW04QjFZTFVfbURVRWFGX0hPWk9LcFVvQlNubDl1WlpsSm9rNnh1bnNGQ1B3TmtCV3VpcGw5TWdaLUNsOWxyano2ZnpVNHZYVGhDdklYZV9wZWFGa3ozMEtGTzBTSlFYazNiR0VQNUw1bnFHZVdhSWM?oc=5",
-        "date": "10/02 03:58"
-      },
-      {
-        "type": "neutral",
-        "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUtaYkxFY2tmUTBJMVlpeFBla1pUNjF1WlRKWnFtTk9EV1hwTlltMm16ZUh1S3R3cWs3UHljeTdNRWhScFg1OUxRSDA0bno4TFdTN0h1bzVRaUE3NDVOdFFpRmJUM2tsREZwUGhIRURTdndaRkFSWGZEY1FtTE42T2k4Sk9aUW9yQnhFVktJTGRRY3liQmtVMl9pVXI?oc=5",
-        "date": "10/01 20:51"
+        "title": "GOOGL Stock Rises After Gemini 4 Argon Launch, But JPMorgan Says Google Must Reclaim AI Leadership",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGltd2tZejY1NGJCQmtMVkFrUDdOYVNsYmUtcWRhQTd2WmpsZDlDZnZWNzQ3ZjkwNE1tYXBNU0RDOHpUNlYwZ1pKbFRsT1ZEeG5BbTdGMUhuaWJ1dkxWVEJ3eGFlRnJXTkhvSmNDcjVhOHZhQVBvbkg1OHRfMlB5UHNVYzFBblZtVXd4UThiOF9yNnBk?oc=5",
+        "date": "10/01 21:52"
       }
     ],
     "QCOM": [
@@ -1011,19 +1008,19 @@
       },
       {
         "type": "neutral",
-        "title": "What Is The Case For Waiting On Qualcomm Stock?",
-        "publisher": "trefis.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU09PbWxTajNWekY0dHc3eG90YTgyYXBkcV9IS2NCYVF1YnN5bHFHUFEzOThrTU9kQmhzSlBndE1QQUY0bmtoa0ZRZTBscFlaRWxLQlhNeVJNc2hhZmEwU0xMMHZReGVxT2NNdjNLMVF4SDk2SGg1ZThkR1NfQWNfRjBfY2lEVDZBOFM1TzFSU1RrN3JPV3NSSUgtdElHSTM3Z0lNcDJ2QmJnRW8?oc=5",
-        "date": "10/01 03:51"
+        "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
+        "publisher": "TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVV5TkZHUVhBZVpIblpDbXIzUkJMTjZJbHlDXzFXdkU0cnRmZ0FSMHNPM0h1Y1Rydms0VGxmcmxROF9tTDJkTmpqZ25zSmpIcVhWMTVtc2luS2RqNDhacU1OV2h4QUxFWExoZFNNaGJBRElsTk9LOENISkU3blV4TEpYOFZJMjNsVEdYLTlvMkQ?oc=5",
+        "date": "10/02 22:14"
       }
     ],
     "VRT": [
       {
-        "type": "neutral",
-        "title": "What Are Vertiv Investors Betting On?",
+        "type": "positive",
+        "title": "Is Vertiv Stock's Fall A Bargain Or A Warning?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUk4wRE44WHZTUXplcUdQRTlON0t6SGVqalVfWThaSHcxWHpMREQwVU42U01pLTk5NmhKcnJmZ2tCcmh3SVdNN3A3dWZFa092S2RxY3FONE9adF9DVGFjRzRFNnlENl9ETEIzUmZBUEhsSVc5TGVHaW5OZnByTjl4V2V6bWtqWlh3amRjWDRmRmpXZnM?oc=5",
-        "date": "10/02 02:44"
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblM0d0g5bWJWVHMxWVlSbVF0ODEzMDZPTmRmdEJzR2tBclIwWUp6VExETzF1b2hxRmRlOUVRWWNzUk1aRVhyN0x0bTBBNkp3dlJoMGVpb0w4a3NCalB4Qm5NSDI0NFVlRnZoemk2d09JOV9hVTc5NkxUQ3poVFZpSFhhaXZab2p4VER1X0RsaXFUNFJRS3BHRUhhNmNGR0lJ?oc=5",
+        "date": "10/02 18:05"
       },
       {
         "type": "neutral",
@@ -1035,7 +1032,7 @@
       {
         "type": "neutral",
         "title": "Should You Think About Vertiv Differently Now?",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1NKZXVXN3hPODdRM29VZVBmb0ppZ0JWem5zb0o1RlB1QXlkSzR6LUFBX2FCQ2lZdEJBTC1ramRfbG1Id3gzVjNNNHdlMDhkY0VQcC1ya2xHRnc1QVBuVHVIU2ZHeUtfQkE4QzN1WHNqS0tRVmh4R25jNWtNVVhMNjJxc1Y4UWQ1X1FBV0d5UUg5ZFlkR2ZyUTdybTNkX0I3ZzV1eVpidzk?oc=5",
         "date": "10/01 03:31"
       },
