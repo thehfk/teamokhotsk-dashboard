@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T18:04:05.877806+00:00",
+  "updatedAt": "2026-10-03T21:33:44.707064+00:00",
   "market": {
     "cards": [
       {
@@ -899,25 +899,25 @@
   "news": {
     "AVGO": [
       {
+        "type": "positive",
+        "title": "Prediction: Broadcom Stock Could Be Much Higher by 2027",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHhRZjhoSWRsWUN6SUdyTm14dkVVODIwdmhVdTJkcUQtMGF5Mm15UmpobVdiY3M3OEc3dFZpeXZTc2c3R3o5VXdrWXFES3dxNnVHd2xONzR0M1Q3RFFnSVBRREhYdTNnNkV5TXhQVG9LMTg4VUx5S3pUMi1zRjB2RHBBLXR2MHhBM1c1NkxBU1JqM0RaWTJ2MDMyMWpBN2tpbVQw?oc=5",
+        "date": "10/03 00:30"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom: The Anthropic Panic Looks Overblown",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0VaejEzRWVvRkF5aEh1QnYxR1pqQ0l2b1B5cFhwT3pLVVBjcGtKOVZkd0h5QzZPVk51akRsVFYybzMzaG54SzZZck5pTkMtcEd3b2E5Vy1qN1JubmVCR0hpekRHcW0tSVpMLXE3b25Lems1bXJyTk5MeGt2VERvUTV1Rkg4X1pUaHVVZ0htbVc?oc=5",
+        "date": "10/02 22:00"
+      },
+      {
         "type": "neutral",
         "title": "Is Broadcom a Millionaire-Maker Stock?",
         "publisher": "fool.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkJ0cGJkVDBicndpMm42SlZERmtPNk1VXzcycmt1bUNwVUpib1FGN0o2ZDBIbGZycWpOWHdyT1JOMHN1aENyZXB4czZwdlp5N1gxVnZISHI3UEY2NXh5U0ZYdEQ1MGVTUmMtQXUxOU53akJGZmdhYXVGak1JSXhDbGp5N3EyQUk?oc=5",
         "date": "10/01 23:30"
-      },
-      {
-        "type": "neutral",
-        "title": "UBS Says Buy Broadcom Stock (AVGO) – Here’s What’s Driving the Optimism",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVJpeGVzNXV5QndFR2ZNQzZfUVphc1phakNqR3ZyVW95RUFXcUhFQ2xJUUFzZHUtMnB6QjZLZl9UNUpnYjd0R25sdHYtYzNnekxQT2Q1bE9CU1FVd1djSlZ5T1FSX0RNMzZid3kyVVA3NW93X3lqX3pOalZJZU1OSzlhYjk2MkVMcVJlVTFOOVJyMTZzb19ILWM5Yw?oc=5",
-        "date": "10/03 00:32"
-      },
-      {
-        "type": "neutral",
-        "title": "If You'd Invested $1,000 in Broadcom's 2009 IPO, Here's How Much You'd Have Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWVyUjNtRWdvNGMzX1JUQmpORmJhQVRucF9KV3V2Y2VxVW03dU5meUpHaWhMSlVEbnVHdndOcWhIUzNZQTdBbFlNaE1xT3lnR0otb0pEWmplNkhRdG9KTkgzZFdvSk9OR21HTHZfTzhLWC1TWHp5aGlnaWFaZVN3TmFzTy1kNnl0VVFuV05lcXZUR0prSi1lcDZB?oc=5",
-        "date": "10/03 19:35"
       },
       {
         "type": "neutral",
@@ -973,18 +973,18 @@
         "date": "10/02 23:33"
       },
       {
+        "type": "neutral",
+        "title": "The Trump Administration Is Launching America.gov Using Models From Alphabet and SpaceX. GOOGL Stock Is the Better Buy.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVlo4ZFVtTzdPQWFUaWVzRjdFM2FocmtjdW1vcDBxYTdPZDU1b2VGSWFzcVZvTFFlUEdfX0lwVTZzMTJ2VjhkZGt0cWdycU1qMjNYNkdWNlVRNk5vdVcyUE1rTXo0a3FBWVVIN0F1REp1R0hTY051MEhnN3RXZUVIdndmTjdtZHdEMHY4M25XRnhUdDhVekhoVWREU0ZKMlJuUm1yUGxNWlRGM05ZcXB5R3JGRVBiZFFfXzBxWWU3WUtjb0Q1N1Q4YThxeTJGS2RIcS0yMVF2VUdNckxXUGRHZzBzMjJhb1JTOFVXT3lZQVdXSUU?oc=5",
+        "date": "10/02 21:06"
+      },
+      {
         "type": "positive",
         "title": "Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish",
         "publisher": "Stocks Down Under",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44LTJXSUR0TW04QjFZTFVfbURVRWFGX0hPWk9LcFVvQlNubDl1WlpsSm9rNnh1bnNGQ1B3TmtCV3VpcGw5TWdaLUNsOWxyano2ZnpVNHZYVGhDdklYZV9wZWFGa3ozMEtGTzBTSlFYazNiR0VQNUw1bnFHZVdhSWM?oc=5",
         "date": "10/02 03:33"
-      },
-      {
-        "type": "neutral",
-        "title": "Is Alphabet's Argon AI Model Benchmaxxed? Probably, But The Stock Remains A Buy (GOOG)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPck5Jem9yNDdaWFRjWUxkMks5V1J6dlMzN0g1bU4tM0IxMFJ3SHp3Rl8zY196OTVZUTl1NVVqUWxZb3Y4U3dYTHlpM3g2dFB3ZWdOS3BmRnNaV2tiNlpkUzBLeFp6NmEtS2VTQVEyX0djZUR4bG96RUVCRHZ2VkNtaHlKb1lpcVZpSS00dHpFdmFzQ1Jxdzd4VlRZMEVYblVXaDZ2Zi1yVWJKTGlDX1Zj?oc=5",
-        "date": "10/01 22:50"
       }
     ],
     "QCOM": [
@@ -1005,16 +1005,16 @@
       {
         "type": "neutral",
         "title": "What Is Going on With Qualcomm Stock on Monday?",
-        "publisher": "Benzinga",
+        "publisher": "benzinga.com",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnlPclNVZXNyakF6bDItS2xmYVJpU0ZqZnV5cHZYVW8wY0h5b3FtanhwemFsS0ZTNld5ZGtLMUJhMEY0eUF0dUF5d2Fjd2VMMWpaM05ZdFFQLVdXd1NpQWxnYzJpa1ZwUFlYX3REWk9GdEM1VXg0em9zR3JnTlF5QXJTVmFuOFN4U0J3dTJQbng2TV9ZV3VidUlFUGdtNlNiMFFF?oc=5",
         "date": "09/29 01:37"
       },
       {
         "type": "neutral",
-        "title": "Qualcomm (QCOM) Stock May Be Fully Priced Despite Fresh AI Chip News",
-        "publisher": "Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVHZkMjJkX2FjNW9TclVmQ1ZZYWpPaWtCMDBtV0hQdGJwc3dRNmwxTXFzWVp2dmpydDVwV1hzVHNaQnBZbUdWUEVUbkJ2djc1b1ZIX0VqUHNfQzd3OHVSbEJjUk9ucmcxTGlsYmd6dUpSeml1dzF4MTNCNUNOXzBlN2FCaGtySURVa041Qlhyb0dTUVRmNWhqRkxHLWdCanhCU1NWTGt4T0JvNkp1ZFd4Y24wNEZ0bFAyRDlTWVVsV1c4ZzcyS1llcmwyWTFZQdIB0wFBVV95cUxPTm00WlZGNXZrdmVsYkdvbktGVGVDalR6MERMaEJHZFBqaFk1aURWN1J4c0ZyNl9uWnRVNDFEUEFmN21wS0w2U1dPdnp5THZpcmVxQTdxZjVXT0xvcFNkNGVlb25HNnpsaXZLRDhKZUJVcUVLajg3VXAyMVZxdFU4OXJSWjFGQ1QzaDI5OWNzRjNlZlJmaFUyMEFsM1hGcGtqOE5xQnBZcWdsMFR2YlV5anpVNzVFYm02R1ZEd1hFNXFsSWQtTlhiRS1zMEl6cTF1bG00?oc=5",
-        "date": "10/03 06:35"
+        "title": "What Is The Case For Waiting On Qualcomm Stock?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU09PbWxTajNWekY0dHc3eG90YTgyYXBkcV9IS2NCYVF1YnN5bHFHUFEzOThrTU9kQmhzSlBndE1QQUY0bmtoa0ZRZTBscFlaRWxLQlhNeVJNc2hhZmEwU0xMMHZReGVxT2NNdjNLMVF4SDk2SGg1ZThkR1NfQWNfRjBfY2lEVDZBOFM1TzFSU1RrN3JPV3NSSUgtdElHSTM3Z0lNcDJ2QmJnRW8?oc=5",
+        "date": "10/01 03:51"
       }
     ],
     "VRT": [
