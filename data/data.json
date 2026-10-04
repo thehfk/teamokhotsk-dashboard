@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T00:13:55.122546+00:00",
+  "updatedAt": "2026-10-04T06:06:25.883983+00:00",
   "market": {
     "cards": [
       {
@@ -899,6 +899,20 @@
   "news": {
     "AVGO": [
       {
+        "type": "neutral",
+        "title": "Is Broadcom a Millionaire-Maker Stock?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkJ0cGJkVDBicndpMm42SlZERmtPNk1VXzcycmt1bUNwVUpib1FGN0o2ZDBIbGZycWpOWHdyT1JOMHN1aENyZXB4czZwdlp5N1gxVnZISHI3UEY2NXh5U0ZYdEQ1MGVTUmMtQXUxOU53akJGZmdhYXVGak1JSXhDbGp5N3EyQUk?oc=5",
+        "date": "10/01 23:30"
+      },
+      {
+        "type": "neutral",
+        "title": "UBS Says Buy Broadcom Stock (AVGO) – Here’s What’s Driving the Optimism",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVJpeGVzNXV5QndFR2ZNQzZfUVphc1phakNqR3ZyVW95RUFXcUhFQ2xJUUFzZHUtMnB6QjZLZl9UNUpnYjd0R25sdHYtYzNnekxQT2Q1bE9CU1FVd1djSlZ5T1FSX0RNMzZid3kyVVA3NW93X3lqX3pOalZJZU1OSzlhYjk2MkVMcVJlVTFOOVJyMTZzb19ILWM5Yw?oc=5",
+        "date": "10/03 00:32"
+      },
+      {
         "type": "positive",
         "title": "Prediction: Broadcom Stock Could Be Much Higher by 2027",
         "publisher": "Yahoo Finance",
@@ -911,29 +925,15 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0VaejEzRWVvRkF5aEh1QnYxR1pqQ0l2b1B5cFhwT3pLVVBjcGtKOVZkd0h5QzZPVk51akRsVFYybzMzaG54SzZZck5pTkMtcEd3b2E5Vy1qN1JubmVCR0hpekRHcW0tSVpMLXE3b25Lems1bXJyTk5MeGt2VERvUTV1Rkg4X1pUaHVVZ0htbVc?oc=5",
         "date": "10/02 22:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Is Broadcom a Millionaire-Maker Stock?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkJ0cGJkVDBicndpMm42SlZERmtPNk1VXzcycmt1bUNwVUpib1FGN0o2ZDBIbGZycWpOWHdyT1JOMHN1aENyZXB4czZwdlp5N1gxVnZISHI3UEY2NXh5U0ZYdEQ1MGVTUmMtQXUxOU53akJGZmdhYXVGak1JSXhDbGp5N3EyQUk?oc=5",
-        "date": "10/01 23:30"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom: Get Ready For A Breakout (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUzdJNzM1S2NXRUNPN25GaG5pNWlGRjh4WlZIbXc5WWh1WHVXNTJfV243NWoyXzR4cXZ2T1JtaWpISzM2Q0dyTjVkOS1RVUtwd2d4cldjS2lJSjA3QmJpdXZTRmVlWVR0SUlONnNxdDNvWU9FVHNmTEgyMTI0QWc?oc=5",
-        "date": "10/02 08:29"
       }
     ],
     "BE": [
       {
-        "type": "positive",
-        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
+        "type": "neutral",
+        "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
-        "date": "10/03 01:29"
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1dVakhMTW5XX1Y5R3FrUk1jaGpwSG0xSzFkNW5BV1RKNGNZa2xoWGM2ajJmaktvVHhFVzdFaVJZcjNYc0tVRFdlS0JZNUYtaG5QeXRpMlBEOGVXb2lSUUprSVBoOUcxNnd4UjIxOUVWRnoxaTV3ZG0xVE40eVZJMjdHZUFtbkJ6MWo2MUFkMnN0ZEtBdGhMeGxPLW9hc3pJQUtzQXNRcVhPLUxCQnpJaDJQX2MwcU5nQ0N5N2tPRGpsS0ZmM3dBd2xXd2RrcUQ0Z3pubTI1QlZOdDJDZW1Hby1ISDBsRVN0b2xTblp4OVo0OU1KWFg0?oc=5",
+        "date": "10/04 03:39"
       },
       {
         "type": "neutral",
@@ -966,6 +966,13 @@
         "date": "10/01 20:51"
       },
       {
+        "type": "positive",
+        "title": "GOOGL Stock Rises After Gemini 4 Argon Launch, But JPMorgan Says Google Must Reclaim AI Leadership",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGltd2tZejY1NGJCQmtMVkFrUDdOYVNsYmUtcWRhQTd2WmpsZDlDZnZWNzQ3ZjkwNE1tYXBNU0RDOHpUNlYwZ1pKbFRsT1ZEeG5BbTdGMUhuaWJ1dkxWVEJ3eGFlRnJXTkhvSmNDcjVhOHZhQVBvbkg1OHRfMlB5UHNVYzFBblZtVXd4UThiOF9yNnBk?oc=5",
+        "date": "10/01 21:52"
+      },
+      {
         "type": "neutral",
         "title": "Alphabet: Delivering And Getting Cheaper (NASDAQ:GOOG)",
         "publisher": "Seeking Alpha",
@@ -973,27 +980,20 @@
         "date": "10/02 23:33"
       },
       {
-        "type": "neutral",
-        "title": "The Trump Administration Is Launching America.gov Using Models From Alphabet and SpaceX. GOOGL Stock Is the Better Buy.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVlo4ZFVtTzdPQWFUaWVzRjdFM2FocmtjdW1vcDBxYTdPZDU1b2VGSWFzcVZvTFFlUEdfX0lwVTZzMTJ2VjhkZGt0cWdycU1qMjNYNkdWNlVRNk5vdVcyUE1rTXo0a3FBWVVIN0F1REp1R0hTY051MEhnN3RXZUVIdndmTjdtZHdEMHY4M25XRnhUdDhVekhoVWREU0ZKMlJuUm1yUGxNWlRGM05ZcXB5R3JGRVBiZFFfXzBxWWU3WUtjb0Q1N1Q4YThxeTJGS2RIcS0yMVF2VUdNckxXUGRHZzBzMjJhb1JTOFVXT3lZQVdXSUU?oc=5",
-        "date": "10/02 21:06"
-      },
-      {
         "type": "positive",
-        "title": "GOOGL Stock Rises After Gemini 4 Argon Launch, But JPMorgan Says Google Must Reclaim AI Leadership",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGltd2tZejY1NGJCQmtMVkFrUDdOYVNsYmUtcWRhQTd2WmpsZDlDZnZWNzQ3ZjkwNE1tYXBNU0RDOHpUNlYwZ1pKbFRsT1ZEeG5BbTdGMUhuaWJ1dkxWVEJ3eGFlRnJXTkhvSmNDcjVhOHZhQVBvbkg1OHRfMlB5UHNVYzFBblZtVXd4UThiOF9yNnBk?oc=5",
-        "date": "10/01 21:52"
+        "title": "Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish",
+        "publisher": "Stocks Down Under",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44LTJXSUR0TW04QjFZTFVfbURVRWFGX0hPWk9LcFVvQlNubDl1WlpsSm9rNnh1bnNGQ1B3TmtCV3VpcGw5TWdaLUNsOWxyano2ZnpVNHZYVGhDdklYZV9wZWFGa3ozMEtGTzBTSlFYazNiR0VQNUw1bnFHZVdhSWM?oc=5",
+        "date": "10/02 03:33"
       }
     ],
     "QCOM": [
       {
         "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
+        "title": "QCOM Stock Jumps As Wall Street Embraces Qualcomm's AI Data Center Pivot — Morgan Stanley Says It Was 'Wrong To Be Skeptical'",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "10/03 00:35"
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbVhtMEttQV9EeVpPRDEyR0VmbmFlRm02Y2xGaUptbU9nVkV0SmNqSENpUTB5WDRWX2Jwekg1azBPUnNnYTlPb0RXaEdPWXVEYnJZSDZjWWJuVDJxT2VJbFRMdDBTUUg4bFNqWVdpM09Ram9mZndzWFRRYk4tcHE0WU5PUF9qd1E3YjlLcWFReGI3TERPT2N6UU5Db0ZVRHR2aU1hUU5nUjRGQXhER3JmNmgzT1N4ZG52MmJfWmwzcnFPbjROdUVmZnNfemU?oc=5",
+        "date": "10/04 03:18"
       },
       {
         "type": "negative",
@@ -1005,14 +1005,14 @@
       {
         "type": "neutral",
         "title": "What Is Going on With Qualcomm Stock on Monday?",
-        "publisher": "Benzinga",
+        "publisher": "benzinga.com",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnlPclNVZXNyakF6bDItS2xmYVJpU0ZqZnV5cHZYVW8wY0h5b3FtanhwemFsS0ZTNld5ZGtLMUJhMEY0eUF0dUF5d2Fjd2VMMWpaM05ZdFFQLVdXd1NpQWxnYzJpa1ZwUFlYX3REWk9GdEM1VXg0em9zR3JnTlF5QXJTVmFuOFN4U0J3dTJQbng2TV9ZV3VidUlFUGdtNlNiMFFF?oc=5",
         "date": "09/29 01:37"
       },
       {
         "type": "neutral",
         "title": "What Is The Case For Waiting On Qualcomm Stock?",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU09PbWxTajNWekY0dHc3eG90YTgyYXBkcV9IS2NCYVF1YnN5bHFHUFEzOThrTU9kQmhzSlBndE1QQUY0bmtoa0ZRZTBscFlaRWxLQlhNeVJNc2hhZmEwU0xMMHZReGVxT2NNdjNLMVF4SDk2SGg1ZThkR1NfQWNfRjBfY2lEVDZBOFM1TzFSU1RrN3JPV3NSSUgtdElHSTM3Z0lNcDJ2QmJnRW8?oc=5",
         "date": "10/01 03:51"
       }
@@ -1028,16 +1028,9 @@
       {
         "type": "positive",
         "title": "Is Vertiv Stock’s Fall A Bargain Or A Warning?",
-        "publisher": "trefis.com",
+        "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTFpsZThnN3dfQVd5U0NpV0RPdDFqMmlNakZ3akFwM1NtZUNNSEotRkNOdGJhUHdETUtfbTBmanFOdUhZLXBsMjlzRE9MVFV5WWZkYk9ZekNaSFVjMk0ta1d5akRXR2VUeHh1ellMV2VrdlRZeDY3bHBfNnpzWEZQUjJFcmFId3ZTNGpVTUhOckMyNHJBbVU1LUR1ZkZDUjdOaTkxUlR2SQ?oc=5",
         "date": "10/02 17:56"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Soars 49% YTD: Is This the Right Time to Buy the Stock?",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWFmQm1MSmk2LTA0UF9RckJIbGt5OWE4ZjJYMVB3THFza1lsY3ZiYVFRQ0drclF4QjdJNW1fTWw5cVEtanpXVTJyZVRBSmw1emtNcVlmUW5KNThya3BCb3Vyemp2VkZjdVFnU3FYbnhxMEtBblFKT0pTWUs4My0yV1E4VHhacTZHQmVjd1hTV0swY0sta3F5YnRnYzhYZTduMWFqOTBvWElNMXNBMkJCbVlDWWw2QQ?oc=5",
-        "date": "10/02 00:28"
       },
       {
         "type": "negative",
@@ -1045,6 +1038,13 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONEFEQTB3QTZBVkhhUmFoRWZXcTFWblV2b2ZIV1lVMGFqWUJNYnQ4RHd0U0g0NUdQMDJ6X1hFM2ZqY3MxVzFKUVdrek0tNkVXOElBR1N2aGU4TE1PcnRaOWNDb2lObHp1TklWVWdaLWQ2Sm1QTEhwUjBBQlo1TTkwMVpCZkJxUVpYNHRCclZIeDc2VG1kOFJjeW93bjJ5cEhTcHJIY2pQNmw4Zw?oc=5",
         "date": "10/01 06:50"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv Soars 49% YTD: Is This the Right Time to Buy the Stock?",
+        "publisher": "The Globe and Mail",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbFZBWk51RzhxbW9tVU9Db09rUk5Id1NsQUVfRW9XOFpZZnQ1dnpPMFF3VVFpb2pTNDR3WkNaY2NyeFEtMkpJUVZ2TkNRQTkwRnE5ZzU5UlpkMTMwck00WE9ESWtEYm9VNjJyejJRZ1dXNGhlMkdqZnZTc0xjRUlnLVhudUUyRjNhOTk0RVM4b3FJVE8xNHBDVDZnLVg5V1VWaFZTRWpGVmRHc3Z4N0dCRG02QUJOeF9Hb0dGeGFSMFI4d2ZpWk95NzFYVHlFX1JGWHpnZDI5eUFNcENW?oc=5",
+        "date": "10/02 02:44"
       }
     ]
   }
