@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T20:16:11.919755+00:00",
+  "updatedAt": "2026-10-04T23:20:55.617805+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1342.51,
-        "change": -1.33
+        "value": 1342.89,
+        "change": -1.3
       },
       {
         "name": "KOSPI",
@@ -609,8 +609,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1551.81,
-              1542.13,
               1531.0,
               1528.76,
               1519.86,
@@ -676,7 +674,7 @@
               1350.5,
               1356.84,
               1360.59,
-              1342.51
+              1342.89
             ]
           }
         ]
@@ -945,14 +943,14 @@
       {
         "type": "positive",
         "title": "Bloom Energy (NYSE:BE) Stock Screens Well on High Growth and Improving Fundamentals",
-        "publisher": "Chart Mill",
+        "publisher": "ChartMill",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDJtbVI3enNPa0pjZW1raWZTTjRGUC1SNURJXzg3QzVqbFVuNzlDbEdwT3NhQ0pOM2JMblpwc0xueGU3Vk8wVHEtYWI3Uk5xc1VSNFM1REV0TkgxN3ZQUlpFUV92RVlyZnlkbDVBRUVNdVoyYmlGTk1VOFRuV2FJZE0tY2J1dkZsTHV3WkZWYUNZajRWcUFTVXkzTzVuemE3VFQ5bW9fRU0tWE0tZ25PRXNCSXQzOXF6dUNuNFJ5RVlFT1BoZzF2bkZB?oc=5",
         "date": "09/30 20:10"
       },
       {
         "type": "neutral",
         "title": "Bloom Energy (BE) Stock Looks Reasonable Despite A Very Large Run",
-        "publisher": "simplywall.st",
+        "publisher": "Simply Wall Street",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUjJXMEJjT1RnVjhUd3UxQ0gtTEdSbDFGZmgwY3E1ZW45ZjRCOWV1TTNTdFFQQm41MWZ1a1B2TS04Y19ObUFyX3FldHhXSVlmWmNLY24zYnNUdklrdnVSUmdXcmNTb0tCY0t6SUIwVmdwemtjMk56UmdPLU1wT25DTktDbk96MUVOSlpsbmZaNWQtdlZZOWEtY0Jqd1M5b2NzejdxYWN1WWlXcTlNWGtuTEptaUZFVEtJajhGZkxkYXp1X25OU1lBWlFuUdIB0AFBVV95cUxPQngtUnJjSXFOekVOSUZmRVUwRFpLVG5Scl9QX3Jpc1FHcDVLOWMweXFrTElEZmItU1d1dl9GeVp4eERtbGxRNjNETGkwV1RJd0p3cXh2NV81NXczVEV5UDFXZjY2VzF4Mk5nN2wtYkhzUnJEempBd3d0TVkyeFd4VHZ0X2pMOVVnQk4zV29xZDd6ZVVXd0tzdERPRzRMZllzempLd0VVdkpDcTBtLWFvX3puTHIxVzRGcElCNTdfUVh1bHNxemUwUEJQZ29MN011?oc=5",
         "date": "10/01 19:19"
       }
@@ -960,31 +958,31 @@
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUtaYkxFY2tmUTBJMVlpeFBla1pUNjF1WlRKWnFtTk9EV1hwTlltMm16ZUh1S3R3cWs3UHljeTdNRWhScFg1OUxRSDA0bno4TFdTN0h1bzVRaUE3NDVOdFFpRmJUM2tsREZwUGhIRURTdndaRkFSWGZEY1FtTE42T2k4Sk9aUW9yQnhFVktJTGRRY3liQmtVMl9pVXI?oc=5",
-        "date": "10/01 20:51"
-      },
-      {
-        "type": "positive",
-        "title": "Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish",
-        "publisher": "Stocks Down Under",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44LTJXSUR0TW04QjFZTFVfbURVRWFGX0hPWk9LcFVvQlNubDl1WlpsSm9rNnh1bnNGQ1B3TmtCV3VpcGw5TWdaLUNsOWxyano2ZnpVNHZYVGhDdklYZV9wZWFGa3ozMEtGTzBTSlFYazNiR0VQNUw1bnFHZVdhSWM?oc=5",
-        "date": "10/02 03:33"
+        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "publisher": "tradingkey.com",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+        "date": "10/04 21:29"
       },
       {
         "type": "neutral",
-        "title": "The Trump Administration Is Launching America.gov Using Models From Alphabet and SpaceX. GOOGL Stock Is the Better Buy.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVlo4ZFVtTzdPQWFUaWVzRjdFM2FocmtjdW1vcDBxYTdPZDU1b2VGSWFzcVZvTFFlUEdfX0lwVTZzMTJ2VjhkZGt0cWdycU1qMjNYNkdWNlVRNk5vdVcyUE1rTXo0a3FBWVVIN0F1REp1R0hTY051MEhnN3RXZUVIdndmTjdtZHdEMHY4M25XRnhUdDhVekhoVWREU0ZKMlJuUm1yUGxNWlRGM05ZcXB5R3JGRVBiZFFfXzBxWWU3WUtjb0Q1N1Q4YThxeTJGS2RIcS0yMVF2VUdNckxXUGRHZzBzMjJhb1JTOFVXT3lZQVdXSUU?oc=5",
-        "date": "10/02 21:06"
+        "title": "What Is Going On With Alphabet Stock?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2xIVHlRd2t1SzFEWVBabzFJYzZOUjdhU2NUUVlQbHpjeTBFRzB3dFlTZklXWGFqeXMyWU9HT0lXbk1sSndxRkE1ek1UTzlJb3EtQkpsSXNBZzFEWjVpSWRHM1V2MDZjaktYOHI2bjBQQUtkYlFCNFFoSkhnVDVCNTd6TFg1TGFYYjZXNk5vS2FGOVRQRlVHN1Bib0pXTkE?oc=5",
+        "date": "09/30 22:34"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet stock slips on report of internal doubts over Gemini 4",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2R6Nm1uN2FsMFpFRW9vQzVaMTJKNVNabVFteFpRak9nOHFRQUpURHVJZUNSaXFrWWxjLWxjUXRGb3NWUDEtbDRXNjBDbTdqajhnZ0pxUDZsWklIMW9McU5qWGlNSXRuVHlsU25ZUzVXcnlyanR5WFVDY0xHbklQS0ZIZUdzcElIWkMta0xJZlg5dC1WVl9PMDhtczB6Y3RSVFE?oc=5",
+        "date": "10/01 05:30"
       },
       {
         "type": "positive",
-        "title": "Alphabet shares up in premarket trade after Gemini 4 Argon launch",
-        "publisher": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZjZTcmhfWnRLTkNlYlBxVWIzUWd2NFdFYXBMNXBuSE9fVjZMRVRiX2hvcHhqUnlKUmRFNXBwalRZYmRwTV9jSXN2aktkVjJQQ1ZzRm5JQWZqQjRfUkt0UVY0aWdyMEJub05wQ0JoUnhQdEotR3BENTl0Rm1PbXo3NnFyUlFIajNRNVFjcUxXaXBaSEh3dmJzcDZ5T2lXVEMtdkROOENfY0l3MHJydlc3SGxrcE9yd25kUDNiWkZiOA?oc=5",
-        "date": "10/01 17:28"
+        "title": "GOOGL Stock Inches Up Premarket: Retail Traders Are Buying The Dip After CapEx-Fueled Selloff",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV3JVZy05Smp3ZzlqejNJTzhtaVYzQ1JyMVk0RmZqaDl5T3NmVmZ2VmFFR09OcmtPYngxM0hTWUhMNFdjRG1ERWcyaDJiWV84N2NfTTliUEt6aGxhLWRRLUwzS0RFclJMSmFDRVNCSVJYMXY3MHM0TWRkVkFKbVZ5ellLZWV5bGlxWTc0c0ZKLXFjbE5sWS1wdmxuYmZqX0xFWEFoVEt3NlpwOTRxY2ZZdkpKTEFkQzV2M0M0OVZUOVRGcHhadDdjRWR5NEZPSWxCWXVaX2tSckxsVnhmVlVVUE5aZ0M0UWVRckdBbm1B?oc=5",
+        "date": "10/02 21:57"
       }
     ],
     "QCOM": [
@@ -1019,13 +1017,6 @@
     ],
     "VRT": [
       {
-        "type": "neutral",
-        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
-        "date": "10/04 12:55"
-      },
-      {
         "type": "negative",
         "title": "Behavioral Patterns of VRT and Institutional Flows",
         "publisher": "Stock Traders Daily",
@@ -1033,18 +1024,25 @@
         "date": "10/05 00:50"
       },
       {
-        "type": "neutral",
-        "title": "Is Trending Stock Vertiv Holdings Co. (VRT) a Buy Now?",
+        "type": "positive",
+        "title": "3 Reasons Why Growth Investors Shouldn't Overlook Vertiv (VRT)",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXFSa2tFYVhNc1I5ZW1UaWY4eXBxS1p3cUxvVk5yUjdpNFpXd01oT012T2RVajEyWnBPYkctZTRUOXRFLXhhMkM0aFZKeVlya2xURExrVGdyZlplS0tsRy1NNDZDQ25vbHp5OWJxR1h6VDBsQXRmdHVabkhtMEpXUmlLMm1IQ24wbWlTMnVWQno2LXgxRUpmWTNLOUV3Um8?oc=5",
-        "date": "09/30 21:00"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1VkWnVJLXpqQkpXc1FQY19WMVdkMTZrbHVhNUtyMlJ4LUQwM3Rmamt5X1ptTjUtb3dXQV84bVQ4NjA4VHlFRWtoMHR2SG1fbU1BeHJiX1lZSzh6MElqTnRJOTE5ODFBd0hsZ1pTN21EcUwtaXNCZUdGeWh2VjlwLS1ONjlrUklpV1dpMUkyS2h5bVFMcmF4TzMzQQ?oc=5",
+        "date": "10/01 00:45"
       },
       {
         "type": "positive",
         "title": "Vertiv Soars 49% YTD: Is This the Right Time to Buy the Stock?",
-        "publisher": "es.tradingview.com",
+        "publisher": "TradingView",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVhhU1NDdnZLSldES0pESHVoTjdTTHJreDhqMnBicmdPazJtNEZhYkpRbkNfOU42cEkxSzE5NWpYQ3BoSkNnaWYzQnpOR3hIY1cwZ0FiUEc0Tm1PQ3BZX19acVl0b3JTSTVGZmt3bWxuWmVwMldkWFZOSXNhVGpuaWZiRHpDS25oMDF5RDAyVVQwOHAzT2JZM3ZpUTNlNlY0MXZ6NUY4YVo2NXhyZldWYlFYY18?oc=5",
         "date": "10/02 00:28"
+      },
+      {
+        "type": "negative",
+        "title": "Vertiv (NYSE:VRT) Stock Falls 2.6% - Should You Sell?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONEFEQTB3QTZBVkhhUmFoRWZXcTFWblV2b2ZIV1lVMGFqWUJNYnQ4RHd0U0g0NUdQMDJ6X1hFM2ZqY3MxVzFKUVdrek0tNkVXOElBR1N2aGU4TE1PcnRaOWNDb2lObHp1TklWVWdaLWQ2Sm1QTEhwUjBBQlo1TTkwMVpCZkJxUVpYNHRCclZIeDc2VG1kOFJjeW93bjJ5cEhTcHJIY2pQNmw4Zw?oc=5",
+        "date": "10/01 06:50"
       }
     ]
   }
