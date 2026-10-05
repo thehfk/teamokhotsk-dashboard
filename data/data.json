@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T23:20:55.617805+00:00",
+  "updatedAt": "2026-10-05T02:10:26.854008+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1342.89,
-        "change": -1.3
+        "value": 1344.39,
+        "change": -1.19
       },
       {
         "name": "KOSPI",
@@ -674,7 +674,7 @@
               1350.5,
               1356.84,
               1360.59,
-              1342.89
+              1344.39
             ]
           }
         ]
@@ -898,22 +898,22 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Is Broadcom a Millionaire-Maker Stock?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkJ0cGJkVDBicndpMm42SlZERmtPNk1VXzcycmt1bUNwVUpib1FGN0o2ZDBIbGZycWpOWHdyT1JOMHN1aENyZXB4czZwdlp5N1gxVnZISHI3UEY2NXh5U0ZYdEQ1MGVTUmMtQXUxOU53akJGZmdhYXVGak1JSXhDbGp5N3EyQUk?oc=5",
-        "date": "10/01 23:30"
-      },
-      {
-        "type": "neutral",
         "title": "UBS Says Buy Broadcom Stock (AVGO) – Here’s What’s Driving the Optimism",
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVJpeGVzNXV5QndFR2ZNQzZfUVphc1phakNqR3ZyVW95RUFXcUhFQ2xJUUFzZHUtMnB6QjZLZl9UNUpnYjd0R25sdHYtYzNnekxQT2Q1bE9CU1FVd1djSlZ5T1FSX0RNMzZid3kyVVA3NW93X3lqX3pOalZJZU1OSzlhYjk2MkVMcVJlVTFOOVJyMTZzb19ILWM5Yw?oc=5",
         "date": "10/03 00:32"
       },
       {
+        "type": "neutral",
+        "title": "What a $10,000 Investment Split Between Nvidia and Broadcom Could Be Worth by 2030",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDRzRWg4ajVTNGhGWEUtcHVkTFhNZERlOGtuMjJnWVctd1I4UGVnR1dzN1hVbUJOUmJWaEVFLVljUVRhQ1FXVWdrSk5PV2loZXMyWlNvUzgzVzU1eUJmN2xfYU5HOENnNkxyN21sajdRTXQxZmF5dU9aYk5BN2p3aHlCVDAxSjFsZk9waFNXemQ?oc=5",
+        "date": "10/04 22:25"
+      },
+      {
         "type": "positive",
         "title": "Prediction: Broadcom Stock Could Be Much Higher by 2027",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHhRZjhoSWRsWUN6SUdyTm14dkVVODIwdmhVdTJkcUQtMGF5Mm15UmpobVdiY3M3OEc3dFZpeXZTc2c3R3o5VXdrWXFES3dxNnVHd2xONzR0M1Q3RFFnSVBRREhYdTNnNkV5TXhQVG9LMTg4VUx5S3pUMi1zRjB2RHBBLXR2MHhBM1c1NkxBU1JqM0RaWTJ2MDMyMWpBN2tpbVQw?oc=5",
         "date": "10/03 00:30"
       },
@@ -936,7 +936,7 @@
       {
         "type": "neutral",
         "title": "Bloom Energy (BE) Stock Still Looks Undervalued After a 24x Run",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYlFhV2ZUejdfM0hDUTFEaG9XbDhyVERxd0pNU0hxNjNTV2NDbWQ1ZjVHd3ZYS0RfVEk5S3p3U3ZCbXRKM3ZIWnBRVUJtc3l5MXVNWFhGakdkTkxVMmtva1J3SFlya25NdEctRHJxQnIwZklLbFZKbnpsZVk2LVlGelBPVGQtQnFFZy03V25nYW5BZDRNVWpkOEp3OA?oc=5",
         "date": "09/30 12:09"
       },
@@ -959,7 +959,7 @@
       {
         "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "tradingkey.com",
+        "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
         "date": "10/04 21:29"
       },
@@ -973,7 +973,7 @@
       {
         "type": "neutral",
         "title": "Alphabet stock slips on report of internal doubts over Gemini 4",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2R6Nm1uN2FsMFpFRW9vQzVaMTJKNVNabVFteFpRak9nOHFRQUpURHVJZUNSaXFrWWxjLWxjUXRGb3NWUDEtbDRXNjBDbTdqajhnZ0pxUDZsWklIMW9McU5qWGlNSXRuVHlsU25ZUzVXcnlyanR5WFVDY0xHbklQS0ZIZUdzcElIWkMta0xJZlg5dC1WVl9PMDhtczB6Y3RSVFE?oc=5",
         "date": "10/01 05:30"
       },
@@ -996,7 +996,7 @@
       {
         "type": "negative",
         "title": "Why Qualcomm (QCOM) Stock Is Down Today",
-        "publisher": "Yahoo Finance",
+        "publisher": "finance.yahoo.com",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYUw5cVBxNFE3b000RHF5anNrWE81Nk04T3hQR3N1anctWjBHdGlES0s5Z1ptei1yemdVNFRpM1dBaDB5TWkwV2pGdXBubHpyMWJ6YkhETEdKT21kNHVQYnpvX1FlQjBXWC05MzF4bjFlTjROWXZnX2JXbnprSXEzZFA1cTkwVXl2Tm55bkhIb0hGQ3VyZUQyVg?oc=5",
         "date": "09/29 08:50"
       },
@@ -1017,18 +1017,18 @@
     ],
     "VRT": [
       {
+        "type": "positive",
+        "title": "3 Reasons Why Growth Investors Shouldn't Overlook Vertiv (VRT)",
+        "publisher": "finance.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1VkWnVJLXpqQkpXc1FQY19WMVdkMTZrbHVhNUtyMlJ4LUQwM3Rmamt5X1ptTjUtb3dXQV84bVQ4NjA4VHlFRWtoMHR2SG1fbU1BeHJiX1lZSzh6MElqTnRJOTE5ODFBd0hsZ1pTN21EcUwtaXNCZUdGeWh2VjlwLS1ONjlrUklpV1dpMUkyS2h5bVFMcmF4TzMzQQ?oc=5",
+        "date": "10/01 00:45"
+      },
+      {
         "type": "negative",
         "title": "Behavioral Patterns of VRT and Institutional Flows",
         "publisher": "Stock Traders Daily",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYm9rdnZ5TDJBVGlnOFdJN2QwaW9DSDR6YUhLVmUzclhEc0NoWWxTNUh2cG12U3RDRk94SUxMM1NiVENMWHF3T0Fxcmh4UFZzSVh2UmJwejlfd0swMmVjandXU2xNZ3dqY0NUeDUyVEd0R0dxTndFU05nVkx0TXVFSGZMNS1HNWpNVVNBd0hUWkE3dlZBdGswcWRTcDU0cFJXbWNJaHpiMW5MNnRZR1ctclhUTE1keVdJN3VBdG44U1A3dXR1SmRmQklR?oc=5",
         "date": "10/05 00:50"
-      },
-      {
-        "type": "positive",
-        "title": "3 Reasons Why Growth Investors Shouldn't Overlook Vertiv (VRT)",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1VkWnVJLXpqQkpXc1FQY19WMVdkMTZrbHVhNUtyMlJ4LUQwM3Rmamt5X1ptTjUtb3dXQV84bVQ4NjA4VHlFRWtoMHR2SG1fbU1BeHJiX1lZSzh6MElqTnRJOTE5ODFBd0hsZ1pTN21EcUwtaXNCZUdGeWh2VjlwLS1ONjlrUklpV1dpMUkyS2h5bVFMcmF4TzMzQQ?oc=5",
-        "date": "10/01 00:45"
       },
       {
         "type": "positive",
