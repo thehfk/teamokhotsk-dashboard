@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T23:09:17.184329+00:00",
+  "updatedAt": "2026-10-07T02:32:17.410053+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1337.08,
-        "change": -0.5
+        "value": 1339.64,
+        "change": -0.31
       },
       {
         "name": "KOSPI",
-        "value": 7003.74,
-        "change": 0.46
+        "value": 6859.07,
+        "change": -1.19
       },
       {
         "name": "KOSDAQ",
-        "value": 893.29,
-        "change": -0.11
+        "value": 903.53,
+        "change": -1.78
       }
     ],
     "groups": [
@@ -683,7 +683,7 @@
               1360.59,
               1342.56,
               1343.75,
-              1337.08
+              1339.64
             ]
           }
         ]
@@ -691,7 +691,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "07/06",
           "07/07",
           "07/08",
           "07/09",
@@ -751,13 +750,14 @@
           "09/29",
           "09/30",
           "10/01",
-          "10/02"
+          "10/02",
+          "10/06",
+          "10/07"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              8051.33,
               7656.31,
               7246.79,
               7291.91,
@@ -817,13 +817,14 @@
               6870.81,
               6838.04,
               6971.35,
-              7003.74
+              7003.74,
+              6941.39,
+              6859.07
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              847.07,
               831.23,
               785.0,
               794.0,
@@ -883,7 +884,9 @@
               849.8,
               855.91,
               894.29,
-              893.29
+              893.29,
+              919.92,
+              903.53
             ]
           }
         ]
@@ -901,10 +904,10 @@
     "AVGO": [
       {
         "type": "positive",
-        "title": "Broadcom (AVGO) Eyes Huge AI Revenue Growth, Is The Stock Getting Too Pricey?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGt3bkNmd1FjSkpkT1F0azRjV3hxcWVZY1VidERLeDJQRUkteXlaaFdidlBRTGQycmpTRnpsN3FLOU5mM1AwOFk2M1c1XzN4MjhPZlUzQkJNWkZsYzB4MTY2dm1VeGU4dHB5RVZJdG94T0g3MmNVTE9tWHFxVHFCTEotbXdSZ0pRaXh3VmlLNE15TnJQNWc?oc=5",
-        "date": "10/06 22:05"
+        "title": "Why It’s Time to Load Up on Broadcom Stock Before It Touches $523",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTRTRnd5bzhEVXo1cTE2cGQtZzNvRTh5NlAwUXFoSFlNdE1KbU02TUhUN2hBaUgyOHQyQll0dVZTQ2xRS1lNZXE0QnhoUjg5aVlKcElsS1JXcUpKb3M0UU5OUWdzSkZKRWVmNllsSGVNNy1WZ196Y2hITnpZaS1lRlFRVHNJcE1CMTNhSlpsaG5oanduSTZDaGFyWXNNLVlfbmFLcGVsN2ZUZHM?oc=5",
+        "date": "10/06 02:36"
       },
       {
         "type": "positive",
@@ -914,18 +917,18 @@
         "date": "10/05 21:55"
       },
       {
-        "type": "positive",
-        "title": "Broadcom (NASDAQ:AVGO) Stock Jumps 3.7% - Here's What Happened",
+        "type": "neutral",
+        "title": "Broadcom Inc. $AVGO Stock Sold by Bangor Savings Bank",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2E3ZE1GVGRLR1M5blZDQzd4a1I5QUxpVDFrN28zTkZ0dWVJRDFsNXNNcTFqSlB4ZWZ0WTZ0MFhxdmxZTzk2aHF5Mk40ODRfczAyU1NGMWZjdERRbi0yeUJaN3RoU1FhQkl1bWZHMWdwbHNqYlFYTnU4OGNiRi1udDhKSTRxQTRNNDdrenA3SndGRzFYQTdvX3lGdzVUa2F2RkxoV201Y3ZVOU5kWnVWNHpQSENjdw?oc=5",
-        "date": "10/07 06:29"
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3dNM2Y1R2xBNUdJRTJvMDQzVUhTaTNtR1NiVmh2S1FzOG1KanA4VXk5NzJ6U296NzM0T3h1VjM5UGJYbEpqYVpjWnNlRUc2X0tzMjhKVzlMT1dkd1NIY29rY2l5QU04UExQRkVSNU1mRTRyRF95c1lxTWlXVTJQNDFhSnI0TENDekd2Sm5YR1lVTFdkM0dyVXRiNUVPcFlXYXlIa1hhaG1BamVvUGtlY0Nn?oc=5",
+        "date": "10/07 08:16"
       },
       {
         "type": "neutral",
-        "title": "Broadcom AVGO Stock Targets $400 as Wall Street Raises Chip Sector Targets",
-        "publisher": "FXLeaders",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObkxucFFxWDl6eWRmMGdZQjJrdmJHV252R1ctM0tYdEtiZHlUWmVFY3BDU0dpdTlpQmZaTkRJckpERm9HTEVVRldiM3BvSEM2MHFBRXpCakM4d2ZDR09aNTNvU1VtMndldVhrMVZoR19LMkZDLS1hVm1JRkNQWTYtbThmX0ktYXIyN1hqVU10bFU1VktDTHhocnZvbVR2eEJvcExUOFhpbUdVSXVFaVBwdlZqRFlUNDg?oc=5",
-        "date": "10/07 03:38"
+        "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
+        "date": "10/05 05:34"
       }
     ],
     "BE": [
@@ -945,10 +948,10 @@
       },
       {
         "type": "positive",
-        "title": "BE Stock Soars To Best Day This Year — Mizuho Upgrades Bloom Energy To 'Outperform,' Sees 48% Upside On Cheap Valuation",
+        "title": "BE Stock Soars Overnight On S&P 500 Inclusion: Analyst Sees Upside Of Over 28%",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0NMSFZaa0F1TjQ1NWdTeTNkQzJ3dDZNRW4wNHpiUkZsNk05M1NfRlVyRDNKU08xV3FqYWtjeWJnNnZCVnppTzJqdVp0LTZtZk1INHFXd3lhTGN0OGRPVTNDVGh5Sm5pa2dfTDEzeXRCNkpTQjM4eWpTbGpQaEFkRnNsdHA5NzNsNndiQjNxZFE5X2ZSektz?oc=5",
-        "date": "10/05 01:59"
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzNBMkZfSmJhb0hNRWtkc3NQZFRZVU1TRzV5V1BIUmtoT1lSTUFjS3JpZVNqMnBqWk51SDVKOExWd21xcE5RQ2RRVUowNWFpVFpTZmVXZm11ZjNERVBNTlhQbWJUZFB2OFNleUhxNTBLNUJFWXF3d2tMU3pocy1PbVdLTUVJcW5iNWdIMDJGcHNDTHZpcFN3QTVSYVhIb3o0ZmRtY094aHZXNEJ4YnpqTHVwT1A4cVlFRW1Cc2xIUHJJLVMwWkp3Q0U4aS11SVVCc05JbW9xaDM2N3Z0?oc=5",
+        "date": "10/04 15:22"
       },
       {
         "type": "neutral",
@@ -967,11 +970,11 @@
         "date": "10/05 21:00"
       },
       {
-        "type": "positive",
-        "title": "How Much Upside Is Left In Google Stock?",
+        "type": "neutral",
+        "title": "Google signs 20-year nuclear deal with Constellation Energy to power AI build-out",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQlJJVzdIbkItc1RfVUpKdmVZSlVqU0x2eXZEcVlPVVU3UEZQN1Z3c2RiWG5PWVJqaEkxeHhoQ19EUzgzSXRpcmtzR081WHRzY1htb0xDSF9MbC1KSHpSaUJDZHo2TXFuN19KdjMzZVctYklacUxkbTZsLWxaSXVIUnVLWnVUSm9VQUVTYmcwQlRHN2hqV0dwdnNR?oc=5",
-        "date": "10/06 23:10"
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNEE0MUZFY2hfcDFfV2lLVkVlS01RemkwblUzTUR2VDNOcVp3RGpIQkh5bkdXOS16eXlzeTlwRU03bTFFTHM0MlN0T1VFOTgzcERkMnBDb3FDdFU1N2Zqb05SblJoZEtGTDNqTGwyZjhFWkdUdlhFaU45dVYzelJaTVYwMm5iU2ZlYlJUV1N6ZDFLdVduOUtoMWxhSVpyMFJRd01NNlEwRFFhZzlRcG4wdDEtcjZ0WmJ1dlFjNmV3eEx3NThsQ1Jiam1Bc3JuQkJ0ZUZ6NkNxNFA?oc=5",
+        "date": "10/06 23:37"
       },
       {
         "type": "neutral",
@@ -990,20 +993,6 @@
     ],
     "QCOM": [
       {
-        "type": "positive",
-        "title": "Why It’s Time to Load Up on Qualcomm Stock",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZzJxLVVad1JFV3R1ZjlfN1gwRVdqaVAzNDI0TzVuSFV3bzFnSFhzQjlyMlB0bk5nNzBqOUtlbGZvMi1ITXNiLU9ZM1hlYy1GZTJkNUZadzd4OEdfaUlndk1rMzM2QnpyT2ZWVDY3dDBiYVB3Sm5KMFcxU1UtQnpQcHM1c1dmVXFVdXBFWHJR?oc=5",
-        "date": "10/07 01:06"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3Fxa2RSXy1qeUNZd2xENHNvc2JRUXdtUkxXZ3hzMnlrTHM3ZExSbEZySnNEMDY3ZE1NR28wZTlzRE56Y1JCN254a1dqQ0QzcWJiaEt5ZmJ3WUprUTA2R3Y0R2VXR21UanJHS1AzaTNJTFNFR3kzT3NnRHZWLUhHOG9KR2dEZjhIN01xc0lqME1TYXMwSzNHUDdFWER3anFMZ3pJalFlR01DZWN5a25iZ0Vid0hMcWlUdld1X0FBdXdJbGJZekMxTlZZX2xHZUZmdGk3c1huNlV4NVJxaGEwUEc4ZkNmWmV5bnczMU93Zmwya0E?oc=5",
-        "date": "10/05 03:56"
-      },
-      {
         "type": "neutral",
         "title": "What Should Qualcomm Stock Investors Be Watching Now?",
         "publisher": "Trefis",
@@ -1011,27 +1000,41 @@
         "date": "10/07 02:32"
       },
       {
+        "type": "positive",
+        "title": "Why It’s Time to Load Up on Qualcomm Stock",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZzJxLVVad1JFV3R1ZjlfN1gwRVdqaVAzNDI0TzVuSFV3bzFnSFhzQjlyMlB0bk5nNzBqOUtlbGZvMi1ITXNiLU9ZM1hlYy1GZTJkNUZadzd4OEdfaUlndk1rMzM2QnpyT2ZWVDY3dDBiYVB3Sm5KMFcxU1UtQnpQcHM1c1dmVXFVdXBFWHJR?oc=5",
+        "date": "10/07 01:06"
+      },
+      {
         "type": "negative",
         "title": "Qualcomm (NASDAQ:QCOM) Stock Price Down 2.2% - Here's Why",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHhmSUNqT1lUa0Nvdmd4dHg2aXNiNlZVWUpJcjdMTDVsYV9OLXRueF94eW55MGh1MVBmV0VGaFUxVWpOTVBuZG15Sy1naWpLYm45cjhXRF9PdXlmakJnTF9Sb0pQdUZHMU93alZLY0R1ZW1vaDRDZUM3ZnhZVXRkU2pPRlFfUTJmc09GQjR6R21vMURERmhHbi1UWkhBX1FsSUlCblBNV1BaMWlvSjVV?oc=5",
         "date": "10/06 06:24"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBBU3BPNktYdGo3ODhNa09mazMxb1BQN0dlb1NxWFFXZWo3WFlkeHBSSTUtQnBJT3pfTG9odEhWUkFORUhwZVR3SHR0TTZOM1Q0MWR0eG1YT1F0LTkxSmNES1pxS2I5OWdhT2gxT1BqWEpqUEhfcGxIT3BQSkJGT0N2eXFnOUI1aEc3amFQcmJPSm9nS1E?oc=5",
+        "date": "10/06 00:16"
       }
     ],
     "VRT": [
+      {
+        "type": "neutral",
+        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
+        "date": "10/07 01:12"
+      },
       {
         "type": "neutral",
         "title": "An EVP receives 2,503 and 690 stock units from Vertiv (VRT), vesting from 2027 to 2029.",
         "publisher": "Stock Titan",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUQ4alMwRVVoMkVPd2dXc2tCRS1FeG5ha2RlN2tEOUxCN0IteUNwZUR4TFIyeWM0QUVuVHZVam1zdTZvVVRMZk9wZ25PZUhwZDBpTm15dHRIWkU5MWdXRlNRWjFpeEswWFpENTJTNDg5SVFIVkt0cUZzWjQtdzExc0ZrR1dCS0JwejNYNHA2ZHctOTVjc2xiMlRhWXh0ZmQtXzZEZ0dfdmVaRGtnMHFiUA?oc=5",
         "date": "10/07 05:19"
-      },
-      {
-        "type": "neutral",
-        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
-        "date": "10/05 01:53"
       },
       {
         "type": "neutral",
