@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T02:32:17.410053+00:00",
+  "updatedAt": "2026-10-07T09:31:15.302456+00:00",
   "market": {
     "cards": [
       {
@@ -9,7 +9,7 @@
       },
       {
         "name": "NASDAQ",
-        "value": 27599.89,
+        "value": 27599.79,
         "change": 0.45
       },
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.01,
-        "change": -3.29
+        "value": 15.28,
+        "change": 1.8
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1339.64,
-        "change": -0.31
+        "value": 1338.68,
+        "change": -0.38
       },
       {
         "name": "KOSPI",
-        "value": 6859.07,
-        "change": -1.19
+        "value": 6803.9,
+        "change": -1.98
       },
       {
         "name": "KOSDAQ",
-        "value": 903.53,
-        "change": -1.78
+        "value": 898.43,
+        "change": -2.34
       }
     ],
     "groups": [
@@ -251,7 +251,7 @@
               26871.6,
               27190.86,
               27477.31,
-              27599.89
+              27599.79
             ]
           },
           {
@@ -329,7 +329,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "07/06",
           "07/07",
           "07/08",
           "07/09",
@@ -395,13 +394,13 @@
           "10/01",
           "10/02",
           "10/05",
-          "10/06"
+          "10/06",
+          "10/07"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              15.57,
               16.13,
               16.9,
               15.84,
@@ -467,7 +466,8 @@
               16.39,
               15.31,
               15.52,
-              15.01
+              15.01,
+              15.28
             ]
           }
         ]
@@ -683,7 +683,7 @@
               1360.59,
               1342.56,
               1343.75,
-              1339.64
+              1338.68
             ]
           }
         ]
@@ -819,7 +819,7 @@
               6971.35,
               7003.74,
               6941.39,
-              6859.07
+              6803.9
             ]
           },
           {
@@ -886,7 +886,7 @@
               894.29,
               893.29,
               919.92,
-              903.53
+              898.43
             ]
           }
         ]
@@ -910,28 +910,42 @@
         "date": "10/06 02:36"
       },
       {
+        "type": "neutral",
+        "title": "Prediction: $5,000 Invested in Broadcom Could Be Worth This Much in 2028",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFBxRk4ySFRXZXplT2xvS1VEWnFaekMwMVpRZ09IMnl4U0RUSnE3NkpoTXNsanBQazJhRDlGeXJXNVV3eGp3LUV4Ni1FQm1wd2Z0bm5lcm16UUF2bmlXQnRPcEdEQWd6eHczR1lKLUJudGhiVk1DRDhvaU02RWc3OWM5MFhjdDduY3dVU1VjWnJ4d0hYems5QkhHS0M2dkFOUkFPaDkwbF9XT0dFWC1YejByWWU5S2c?oc=5",
+        "date": "10/06 01:09"
+      },
+      {
         "type": "positive",
-        "title": "Broadcom Stock Jumps Following Reported $42 Billion Financing Deal With Anthropic",
-        "publisher": "TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbDVKOWFrV0w5QUpMcTllV0JULXd4MG5mbXVYVW9GSFBBamN4NDBDcmtIOGczNHNwVHpscHNZSlItTHo1bVowc3p0UXRaRjFLSDY2LVd1TDh2bG1sS19zVmdLazVjZmEwSmRaSlFxYlhfek5sb0ZDbjZPWFR0VXp2cTdB?oc=5",
-        "date": "10/05 21:55"
+        "title": "Broadcom (AVGO) Eyes Huge AI Revenue Growth, Is The Stock Getting Too Pricey?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGt3bkNmd1FjSkpkT1F0azRjV3hxcWVZY1VidERLeDJQRUkteXlaaFdidlBRTGQycmpTRnpsN3FLOU5mM1AwOFk2M1c1XzN4MjhPZlUzQkJNWkZsYzB4MTY2dm1VeGU4dHB5RVZJdG94T0g3MmNVTE9tWHFxVHFCTEotbXdSZ0pRaXh3VmlLNE15TnJQNWc?oc=5",
+        "date": "10/06 22:05"
       },
       {
         "type": "neutral",
-        "title": "Broadcom Inc. $AVGO Stock Sold by Bangor Savings Bank",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3dNM2Y1R2xBNUdJRTJvMDQzVUhTaTNtR1NiVmh2S1FzOG1KanA4VXk5NzJ6U296NzM0T3h1VjM5UGJYbEpqYVpjWnNlRUc2X0tzMjhKVzlMT1dkd1NIY29rY2l5QU04UExQRkVSNU1mRTRyRF95c1lxTWlXVTJQNDFhSnI0TENDekd2Sm5YR1lVTFdkM0dyVXRiNUVPcFlXYXlIa1hhaG1BamVvUGtlY0Nn?oc=5",
-        "date": "10/07 08:16"
-      },
-      {
-        "type": "neutral",
-        "title": "AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZU4xTzM1S21sWGkxUmlndTI4c0l4c3NpNWVNMEZqVnFJMDhLMHFkcUhmZVR6WnoxZExGUDQ5clZIalVmdllWdDY1UGtBa0pFZHhwR0NZbWczU3VEZFVmVS1iaXpGRlQ0SkxIV0R0R1MtS2xUbXdzYWJoUmJQRkJPa3dmaGRnd0prZy1XRkdHTDAxTDc5T2lHX29JWGZNY08zUWtoTFFHVFpvTkpaVzZXZnNmWHhxQjdqS1QyVXFUSTBqMzVUX3ZzLTB3TC1YZFZrT0gzbXE5MFNSWXluM3k3R0tieDJwU1k?oc=5",
-        "date": "10/05 05:34"
+        "title": "Broadcom: When The Story And The Stock Disagree (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZkZXTk5Rd1pPbUJIQzFmQkRxVlBFXzNkeFhVQVB2VURqdkl3WHY0UEdNajZrNmZKMU83OGpxRXczeUZrTVVVN1ZUcHhTUzRkcXU2SnFiLUdsSDlySndlbE45ZTdOd2Y4THc4NEFkMUo5T1pvNGZ0M1NLTjFEcnZ5dlNQci1JZTk3ZVFPaUlERDE?oc=5",
+        "date": "10/07 00:56"
       }
     ],
     "BE": [
+      {
+        "type": "neutral",
+        "title": "Bloom Energy (BE) Moved, So What Is Behind The Attention?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGFONVFZZzBVV2tJMnNqelFiT2loZjUxT28wOFgxZ3c0b1BvRE5UcGpkakdiSl9md0FvWXozMlg0Uzhaek1kWlhhZThiZFlMTlhna0haUWxBNV9TNHF0RnkzbldfU2ZyemxudXhOV200VFRiZTJ6cThXU1hDcXIxZ3p2cGxkank2d0RFdDFwdkdORWJQRm5RNmU0cS1XRUxJN3c?oc=5",
+        "date": "10/07 16:16"
+      },
+      {
+        "type": "positive",
+        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
+        "date": "10/05 07:54"
+      },
       {
         "type": "positive",
         "title": "Bloom Energy (NYSE:BE) Stock Jumps 3.4% on Analyst Upgrade",
@@ -945,20 +959,6 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNG9XVGJ3TzU4NFdsaEQ5c2hrTThZdWN6Vk1oQ21EZEdZS182dWVoV3lzaG5TN19Sa3BwbTRibldma2Etb2thUlNZRTQ2YlFDLUdIVG04T1BlTnhZZXcwaV9ORW15NFA4MllwUUlTYjUxTGxoVENBTkNhVHdRbkEydVBLVXZ1Ml82QjNYNjB0TEYzdWVSRllrZ2VfTnBLY1JINU1xb0h4amp6UGczTEE?oc=5",
         "date": "10/06 23:32"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock Soars Overnight On S&P 500 Inclusion: Analyst Sees Upside Of Over 28%",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzNBMkZfSmJhb0hNRWtkc3NQZFRZVU1TRzV5V1BIUmtoT1lSTUFjS3JpZVNqMnBqWk51SDVKOExWd21xcE5RQ2RRVUowNWFpVFpTZmVXZm11ZjNERVBNTlhQbWJUZFB2OFNleUhxNTBLNUJFWXF3d2tMU3pocy1PbVdLTUVJcW5iNWdIMDJGcHNDTHZpcFN3QTVSYVhIb3o0ZmRtY094aHZXNEJ4YnpqTHVwT1A4cVlFRW1Cc2xIUHJJLVMwWkp3Q0U4aS11SVVCc05JbW9xaDM2N3Z0?oc=5",
-        "date": "10/04 15:22"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Stock Still Looks Undervalued After a 24x Run",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYlFhV2ZUejdfM0hDUTFEaG9XbDhyVERxd0pNU0hxNjNTV2NDbWQ1ZjVHd3ZYS0RfVEk5S3p3U3ZCbXRKM3ZIWnBRVUJtc3l5MXVNWFhGakdkTkxVMmtva1J3SFlya25NdEctRHJxQnIwZklLbFZKbnpsZVk2LVlGelBPVGQtQnFFZy03V25nYW5BZDRNVWpkOEp3OA?oc=5",
-        "date": "09/30 12:09"
       }
     ],
     "GOOGL": [
@@ -974,7 +974,7 @@
         "title": "Google signs 20-year nuclear deal with Constellation Energy to power AI build-out",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNEE0MUZFY2hfcDFfV2lLVkVlS01RemkwblUzTUR2VDNOcVp3RGpIQkh5bkdXOS16eXlzeTlwRU03bTFFTHM0MlN0T1VFOTgzcERkMnBDb3FDdFU1N2Zqb05SblJoZEtGTDNqTGwyZjhFWkdUdlhFaU45dVYzelJaTVYwMm5iU2ZlYlJUV1N6ZDFLdVduOUtoMWxhSVpyMFJRd01NNlEwRFFhZzlRcG4wdDEtcjZ0WmJ1dlFjNmV3eEx3NThsQ1Jiam1Bc3JuQkJ0ZUZ6NkNxNFA?oc=5",
-        "date": "10/06 23:37"
+        "date": "10/06 22:11"
       },
       {
         "type": "neutral",
@@ -1031,24 +1031,24 @@
       },
       {
         "type": "neutral",
-        "title": "An EVP receives 2,503 and 690 stock units from Vertiv (VRT), vesting from 2027 to 2029.",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUQ4alMwRVVoMkVPd2dXc2tCRS1FeG5ha2RlN2tEOUxCN0IteUNwZUR4TFIyeWM0QUVuVHZVam1zdTZvVVRMZk9wZ25PZUhwZDBpTm15dHRIWkU5MWdXRlNRWjFpeEswWFpENTJTNDg5SVFIVkt0cUZzWjQtdzExc0ZrR1dCS0JwejNYNHA2ZHctOTVjc2xiMlRhWXh0ZmQtXzZEZ0dfdmVaRGtnMHFiUA?oc=5",
-        "date": "10/07 05:19"
-      },
-      {
-        "type": "neutral",
         "title": "1 S&P 500 Stock with Exciting Potential and 2 We Brush Off",
         "publisher": "The Globe and Mail",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjVkZnQ2bjNtem8yMDhlbGxWZ25RUEpGbGlWLWtLcV9lSEt6MDlyRUlJZXhFUGR1RExIcTdTaWYwRllqZlBPdWhGVGZBZ0xaUDliLUN1alVDUmFRVHRjZG5DdzY5bTEzcDhpUG1XX1hPUXJZWHhxUzJkSy05V2NuaGd1M0pUMnpYVE9aUFc5S1k5dE9faHdpU3JrdnM3LTFSOXdMbkFxOVdpQVFBcWlYSHBUWUtoVnJ3QVBaRlF1QWMyT3RGaHlBYzd0MFNCR2xxSlNuQVdVc3Q?oc=5",
         "date": "10/05 13:33"
       },
       {
+        "type": "neutral",
+        "title": "An EVP receives 2,503 and 690 stock units from Vertiv (VRT), vesting from 2027 to 2029.",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUQ4alMwRVVoMkVPd2dXc2tCRS1FeG5ha2RlN2tEOUxCN0IteUNwZUR4TFIyeWM0QUVuVHZVam1zdTZvVVRMZk9wZ25PZUhwZDBpTm15dHRIWkU5MWdXRlNRWjFpeEswWFpENTJTNDg5SVFIVkt0cUZzWjQtdzExc0ZrR1dCS0JwejNYNHA2ZHctOTVjc2xiMlRhWXh0ZmQtXzZEZ0dfdmVaRGtnMHFiUA?oc=5",
+        "date": "10/07 05:19"
+      },
+      {
         "type": "positive",
-        "title": "Vertiv (NYSE:VRT) Stock Rating Raised to Strong-Buy at BMO Capital Markets",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdDlYbFRsTmlhVlg3QUEwSVZMV0dtOWNmVVUxVUVhZEo1LU15LWhMdURxUDZDU0pPNWM5QkJUTGcyVlUxdllqVjRtVTVtLUgwbUwwSUZhZzlfWnB6U0V3Q0h1dmRNcVFoNkE3Z2FzOUFVc3BzbVVOMU1YVlpGSmJYU29xdWZ6VTJFTnpSTnRfUjEtT1FJYTFYLU0wdU1jS3ptYTRtWFpGMnptN3o5TWdQald4cG4za3NZaThtUDYwUmxhM3VIbDV5enVTNFBBOUE?oc=5",
-        "date": "10/06 19:49"
+        "title": "BMO initiates Vertiv stock with Outperform on data center growth",
+        "publisher": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdUpkZFNheTZWZVhzR0hMWXFzOTRITHVCM0lTVTVQbDRXVzRJdVdIaHZzVks4SGlGMm9NaVpHdVZ0NU8ySnc3akpoTURCNFg4TkRDb2ZadGk3dFdQV0FuOGZmZ0JKQlQ4WE9fUmN0QjJ0N3lXVnF6eTk2UGJRalpURjBaVU0yNG9Ec2JUNUwzTXhuM3RBNFc2dzJXMzJwSXF5cXFHX292aGV3WVFjclhVbHh5cGlhTk5FT0I2NDdBU2hGUQ?oc=5",
+        "date": "10/05 15:25"
       }
     ]
   }
