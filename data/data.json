@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T22:07:05.653584+00:00",
+  "updatedAt": "2026-10-08T02:06:47.434175+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1339.41,
-        "change": -0.02
+        "value": 1337.27,
+        "change": -0.18
       },
       {
         "name": "KOSPI",
-        "value": 6941.39,
-        "change": -0.89
+        "value": 6782.82,
+        "change": -0.31
       },
       {
         "name": "KOSDAQ",
-        "value": 919.92,
-        "change": 2.98
+        "value": 900.46,
+        "change": 0.23
       }
     ],
     "groups": [
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1528.76,
               1519.86,
               1503.35,
               1505.91,
@@ -684,7 +683,7 @@
               1342.56,
               1343.75,
               1339.74,
-              1339.41
+              1337.27
             ]
           }
         ]
@@ -692,7 +691,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "07/07",
           "07/08",
           "07/09",
           "07/10",
@@ -752,13 +750,14 @@
           "09/30",
           "10/01",
           "10/02",
-          "10/06"
+          "10/06",
+          "10/07",
+          "10/08"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              7656.31,
               7246.79,
               7291.91,
               7475.94,
@@ -818,13 +817,14 @@
               6838.04,
               6971.35,
               7003.74,
-              6941.39
+              6941.39,
+              6803.9,
+              6782.82
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              831.23,
               785.0,
               794.0,
               837.43,
@@ -884,7 +884,9 @@
               855.91,
               894.29,
               893.29,
-              919.92
+              919.92,
+              898.43,
+              900.46
             ]
           }
         ]
@@ -903,16 +905,16 @@
       {
         "type": "positive",
         "title": "Why It’s Time to Load Up on Broadcom Stock Before It Touches $523",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTRTRnd5bzhEVXo1cTE2cGQtZzNvRTh5NlAwUXFoSFlNdE1KbU02TUhUN2hBaUgyOHQyQll0dVZTQ2xRS1lNZXE0QnhoUjg5aVlKcElsS1JXcUpKb3M0UU5OUWdzSkZKRWVmNllsSGVNNy1WZ196Y2hITnpZaS1lRlFRVHNJcE1CMTNhSlpsaG5oanduSTZDaGFyWXNNLVlfbmFLcGVsN2ZUZHM?oc=5",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHBoYWJ0MEZCM281OFVkNHBac0lFdmlXUHhqT2VYZDJpNXpDU2VoYm5Mclh1VVFmS3NSa1VPMUtWdzk2OEloX09qVzlSbUdmOERtSzgweUhqR0daM0gxWG9nNGpySThTc0FuUXJkVVFBWUExV0h3cld2VFF3czlfYk93TFp1TlZXaXJxOVBIUnMzZ0k0dzBZdQ?oc=5",
         "date": "10/06 02:36"
       },
       {
         "type": "neutral",
-        "title": "Broadcom Has A New Problem: Anthropic (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0pEVWJCMVktd0stYUxOQXRZMzVESTFsZEhuUHZ5Q3NOSUJsRmRfb2NiUDRKS3hVRllUcnVjTDgtTnA2TWJCdUtXUDFmc0R6LTdCV1NVTmxIVXBxRWZmVGhVcmJUemM0VEhQRjR0bk0tVUhDTm1xeGItOS0ycV9aNU9xdw?oc=5",
-        "date": "10/06 02:34"
+        "title": "What Are AVGO Stock Investors Betting On?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDhXMm8wVW55VklzZnMtakVveDZXVVN0aEFXTFU3NW1zRTFpLWxZTWtNczlxSzBoU29mSXB6NFZmTngwRnlNQ2pNTmdLQ2FNTU5nUmZuU1ZhdXBsVHhjaUo4Z3owSUxxX2t5SzBONk5sTkVpX1U0N1ZsSkhJQVNJaUo2NXJNSTFSZ0RsYW1BT2thcHhKeWZsMXhNYzhWdGdoWVBr?oc=5",
+        "date": "10/08 07:38"
       },
       {
         "type": "neutral",
@@ -922,11 +924,11 @@
         "date": "10/07 17:37"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom Inc. $AVGO Stock Holdings Lessened by American National Bank & Trust",
+        "type": "positive",
+        "title": "Broadcom Inc. $AVGO Stock Acquired by Cooper Financial Group",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRkNyUlVHRkFLc0FyX24wUkVpZ0o5ck9Ub0dTNnJMUEFpQXB4RHgtblNiaDQ4YVdlOGE0M2xheEZ4cmhKODJMWUktN1V3ZmVrcEstWUhoa2dTX0ZBRHRfcTRQQUFpYW94QTlPa0hRUjQyTlowWFprQ1ZZSTA2bTFpTUxIdWJ4dmdtd2V4NzR0N0pZanR0TWVHcEVpWGhoWkkwanp6ajFVRDRvSFZPUlF6eFdSSXYtV05BYWU0c2VnLVpzQkJnVkpLNlBHOS1kNHM?oc=5",
-        "date": "10/08 02:06"
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNclF3LUZLNUpmSVlrNEVxYVdDYVpOcUhJYzh5RkRibjRGd2FGWkdGeV9FWDEzNnJXb0J1WTFvc1lKM25aSXd5MHNHNW5XREZ1R2RFMGRfTk5sc2ZEQlk1VXE1UUdPYjRib3E0Z21DQXNUR1E1bjBrT0wxM25wcjZuUmlQWjQxMEd0Q212RTd1dW1TWms1QVhOV2ZSa1hfRWlUODE5Tko4a1JQZDBURjBTbEo1dFpkeE9INk93?oc=5",
+        "date": "10/08 08:44"
       }
     ],
     "BE": [
@@ -938,18 +940,18 @@
         "date": "10/08 06:25"
       },
       {
+        "type": "neutral",
+        "title": "Bloom Energy Corporation (BE) Stock Forecasts",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeVI5TWxyN29sZlBFX0Jkbmh6amUzZmd6NWxQcDlsbFAybjZQYTRmejBmOHVtamhBeW1pMkNRakpud2M4YndjWFZxSFh5REU0VGNfcnJnSTFORFd2ZjdGUWFtUklKbkt2QlFzakVpYUJwMnZaYXY4ckNMenRsakh4bkxMRHNybDV6dWV2RmRzRQ?oc=5",
+        "date": "10/08 07:21"
+      },
+      {
         "type": "positive",
         "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
         "date": "10/05 07:54"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Moved, So What Is Behind The Attention?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGFONVFZZzBVV2tJMnNqelFiT2loZjUxT28wOFgxZ3c0b1BvRE5UcGpkakdiSl9md0FvWXozMlg0Uzhaek1kWlhhZThiZFlMTlhna0haUWxBNV9TNHF0RnkzbldfU2ZyemxudXhOV200VFRiZTJ6cThXU1hDcXIxZ3p2cGxkank2d0RFdDFwdkdORWJQRm5RNmU0cS1XRUxJN3c?oc=5",
-        "date": "10/07 16:16"
       },
       {
         "type": "neutral",
@@ -968,13 +970,6 @@
         "date": "10/05 21:00"
       },
       {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Looks Reasonable After Its 157% Five Year Run",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE0zQVRJRXQ3ejhiRDdTaUJhTWdKdUNQVHFEamZQMnVRZDdEa3lEem5lY2xLYmJmaWQ0dktBSDZRbXh2dkl3c2s5bi05SlJhSlVIZU5FcVRvSnJlY0xsQ2laY3ZESTR6YUxlcmZBU0NnbHdhdGdPeGJVSmdLWUxSTlg1VlJ1TkJoTW53R1Jfcw?oc=5",
-        "date": "10/08 05:10"
-      },
-      {
         "type": "positive",
         "title": "How Much Upside Is Left In Google Stock?",
         "publisher": "Trefis",
@@ -987,15 +982,29 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejBNRE83eGhzNG1xclhvdTZvajVZUzFaME8xbkJCNldTaHk3VDVMeEJ2OU9RWW5yNmp1VVZGeU0xdDNLUW5pREs4eHdaYXNwSjFReGZtVFBtRXZoUkhXNjZtcWUwUnFqWVpMMkpvUjdOYWJLa1JPMDlCclFPT2l2cWlaQmoxS2ExbmN2VnVNb1E5ODI5LV9nd3VwV3FHZ201NTdoTVRXR0ppRkdwMmpTMnJyRTZzZTQ?oc=5",
         "date": "10/05 10:45"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Won in Washington and Got Charged in Warsaw. What It Means for GOOGL Stock",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1RDcTFPVTRYMDM5WDdGMC1JUV9Hb1pDanYxeWUtTm5jNC1JZ2w1WlRoanZyVkVIcFVscVhwd25WRWs4YU41ZFZXYUVQUlBaVkF4ckphWmFWR2s5N1dYSGtqb1JRYjRTWHNITklWUDFpaG56QWhsaFM2d2JGWEo0QzRva1V0dVM5MkJ5Y180V1hSWlZuYkZ6N1pEbE9ndG5USFE?oc=5",
+        "date": "10/05 23:42"
       }
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "Qualcomm (QCOM) Stock Looks Fully Valued On Royalty Dispute And License Deals",
+        "type": "positive",
+        "title": "Why Did QUALCOMM (QCOM) Stock Drop After Its Latest Update?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0JiWEJldkFRZVR0VTY1eG10azNfelJsbXlOZ2FYdm1XWUJFRW5ORjc0TmF1QnJXYU9lZ1VtUXNVSTRHYjVCaWJFSEQ1aFdEaXh1NjRMQjJYSjlkVm9FY0xHOFUta3hEcllQallId1RfSGFTVXh0VVRqZVNoTlZQTFJxSVJaT2xVeHl2RDNSMWozbnBnNWZkTkpEYko?oc=5",
-        "date": "10/07 21:16"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHFmUEhJb1ZtSzk5OWJGRXUzeURhSng4RmY4QkxTTUtNZjVyWHVsa1B0T1lFSl9GRXlHakhBTkUwU3hybE5RVThhT0M1NVR1Sm5IV3ptSDUwX3MxN05PX05JWTFkZ1Jmd0NfUzRfR2o2YTloeUtHWFA1Q1BUazkyVzFiVlRxRkc4MWFHWndLbGtyOEZXaGd3?oc=5",
+        "date": "10/08 09:15"
+      },
+      {
+        "type": "neutral",
+        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRoaU1zbVR6WlpQSFVkOHNYMXVkVlZyOU5FQ0RIRGRqaFBDN05BT2FqUy1rOXluX2ZUOG5JdlBrNmI5RlFlY0xWVlFTdXVORWZleWl6MngyNWt1dmVQSHhRdjUzbkRSS2cxRGlUZFNxbFNLV1otV1FWak9vNE5FQlk1SVJDVVJ3dmtybjFPYU01OE93b2pfcThONUxWUktBUEN3dw?oc=5",
+        "date": "10/07 19:45"
       },
       {
         "type": "negative",
@@ -1006,17 +1015,10 @@
       },
       {
         "type": "neutral",
-        "title": "A wearable computer system starts at $1,279. Only paid reservation holders can preorder now.",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUVkam41LXZMS3RfR01zeGlieW5fbUlsRjBwa2tWX01CSzByODNRc1pnQ1hXdnlQZDdWdWF2Y05VUkJGTnhnbE9uT1Z2Y0pWdFF4Z2F6V1o1aWpKTFdUMUVnLWRSVDZXdXE1SjQzNzlXdy1PMWRXZHFEMHFDX3BTZnNpZ0tmbHJnTkRDTFpQZlZBNzVGWXY3TVJFMEI2SU56M2UzbUtTa2ZLWlpWMGJaVE54dTJZTUUtMnN6eGRNYks?oc=5",
-        "date": "10/07 21:16"
-      },
-      {
-        "type": "neutral",
-        "title": "Should Apple License Renewal Require Action From Qualcomm Stock Investors?",
-        "publisher": "Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQjNvSlhkTF9IdFVKOXRVR1hRUUs4YnUxSHpBQzdOM243aEt5b2ttbl80Y2x3eFNTeDNSNWdrcllTOHNrZUViY01aX3AzaVFFY21Tc0xzcUowTEY5a1Jta2puSDZXbUJ2clJNYTRwai1vY211eGhIWWFvTUxqZEhReVpCbEYzUFU5R3ByZldFdk9KaHdIRWhaTkZ4Q0ZLZkRSNjlPaDMwTnU1NXV6b3FHNmJZTl9mMi1vSTJsMlVoZ3B4eWZtbkRWd1YwdDl4Z9IB0wFBVV95cUxOQXh0WGxuSjJhTzN5bUtBSThJejJWMnF5cXVndFR1VTE4emoweE5xcEo2UTNpZmg2bF92UDZMQmV1dkYxNjhjSE5jNU5hMXplS24yNDhzN2hKWkJRVktsSVhoS2loZ0g5M1hNMGJNQ1Q4WnFjM0J1cWE4NGdyaldYN2gwaDFtMVk2dEJqaDRTbkVyak9TWnpUZ0t0dGJZMUw2bjlMVDN1OU9yNjFReVZ6U2I4WTZsTURDZDBUTWotLWl1Wk1CbElScFM0dzhvM2tUcVFF?oc=5",
-        "date": "10/05 14:03"
+        "title": "What Should Qualcomm Stock Investors Be Watching Now?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaldaSEZZR1RTVlFCTTJPZXlyNnVvbmVsNHFRLTl1MFRqck9sOWhaUkNIZm0wcG52YzJEa25Ed1lnM1hSc09VLWZtZE00YVlrNGIwQUtSS2Jmd1VhZzVQdFFxUV95OFl1MGZFb3RYZkpIWE4weENGNkpjU0h2c3JNUW1LUEV0dXZUMDF5YVRZQXBKVkNCU0tvUjk0T3hkSkYzcEdlZ0lWVGVjcEN6SmZrWW5lQQ?oc=5",
+        "date": "10/07 02:32"
       }
     ],
     "VRT": [
@@ -1026,6 +1028,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1VHWS12OFRyTWRZb1JWNUg3YUdVYlBDaFFjNWVmajRUMFdFVS1xeE9PT0FKampGN2EyZWNnNjBzSTQtLUhDX1RyLV8tV3pENnVJZ28yM3pWOWhQUzRVWjAxd3EzUzBtWkppR2NORjlpS2NfbU14OTktc1hPTjJreXg5bFR1OFZ0dmdFMlBYZ05wQ29TaGNwU0Nn?oc=5",
         "date": "10/07 21:14"
+      },
+      {
+        "type": "negative",
+        "title": "How Much Downside Is Left In Vertiv Stock?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVBJNnVtXzlxMTFTZUNKZl9TREZxbXJDT2MtYzBxR2NUN0VnVmh5TGgyLXpVMlZ2ZnFEcnJMVmhNb1ExZUJSbEY4dXUyTjgzbHFtdWNyU0pudlA5SkRFT2thZlJMT0JVdFd2SnBkc0MzbWw2VVhmMU5NUFRreVNwSU1YMDRHaThyMXZDVnZ1U2NPY0pSbXVmaWJQMnhFYjJHbkdR?oc=5",
+        "date": "10/08 06:20"
       },
       {
         "type": "negative",
@@ -1040,13 +1049,6 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb1I0UEt3ZTVBUHhjQ2pPNWlVYUMzRGtuWmJvNkdIeURTM0lHRkQ2aUhLNzlKeG1iNlU5NVN6Ui1CMmF4RWNIcElhYnhoN3lqV3J6Sk5nYWNGby01VmNZWTRVa3ZsQ19ZbGhSc2tEYUdINlM0NVM2b3VQek01UlU0Zm1MTi1CS1FhSlNIM3Q1SFpxOF9EbDNXenRvVEd2blY1ZEozTy1kQTZiTGRZakRV?oc=5",
         "date": "10/08 06:25"
-      },
-      {
-        "type": "negative",
-        "title": "How Much Downside Is Left In Vertiv Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTNkaF9meWptcW82bjlIYkdFX2V4Y2ZNM05DUVQ2ZVVIbktTNFNxV191amlGZmRWWVpQOEN6ak42RFMzMTlVU0xwTVB4V3hGY2JpUUxzbXktblN6ejBQcHVaYkpDSlNxMVdxY2pzS0o0VEFrSzFvUFd3dGdBakY4VTkxYTF3V0h2NGRPd01OQk5TdnFTRUE?oc=5",
-        "date": "10/08 06:20"
       }
     ]
   }
