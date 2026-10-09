@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-10-09T15:23:54.091802+00:00",
+  "updatedAt": "2026-10-09T20:10:13.823877+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7800.58,
-        "change": 0.45
+        "value": 7811.54,
+        "change": 0.59
       },
       {
         "name": "NASDAQ",
-        "value": 27319.45,
-        "change": 0.46
+        "value": 27366.17,
+        "change": 0.64
       },
       {
         "name": "다우존스",
-        "value": 51499.16,
-        "change": 0.52
+        "value": 51654.95,
+        "change": 0.83
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.0,
-        "change": -2.66
+        "value": 14.79,
+        "change": -4.02
       },
       {
         "name": "미국10년금리",
-        "value": 5.28,
-        "change": 0.96
+        "value": 5.24,
+        "change": 0.19
       },
       {
         "name": "원달러환율",
-        "value": 1340.95,
-        "change": 0.14
+        "value": 1340.7,
+        "change": -0.17
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "07/09",
           "07/10",
           "07/13",
           "07/14",
@@ -118,7 +117,6 @@
           {
             "name": "S&P500",
             "data": [
-              7543.64,
               7575.39,
               7515.34,
               7543.59,
@@ -183,13 +181,12 @@
               7818.93,
               7801.77,
               7765.36,
-              7800.58
+              7811.54
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              26206.89,
               26281.61,
               25873.18,
               26107.01,
@@ -254,13 +251,12 @@
               27599.79,
               27538.69,
               27193.34,
-              27319.45
+              27366.17
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              52487.41,
               52637.01,
               52498.64,
               52508.27,
@@ -325,7 +321,7 @@
               51521.28,
               51179.87,
               51231.64,
-              51499.16
+              51654.95
             ]
           }
         ]
@@ -471,7 +467,7 @@
               15.01,
               15.08,
               15.41,
-              15.0
+              14.79
             ]
           }
         ]
@@ -615,7 +611,7 @@
               5.27,
               5.28,
               5.23,
-              5.28
+              5.24
             ]
           },
           {
@@ -687,7 +683,8 @@
               1343.75,
               1339.74,
               1339.08,
-              1340.95
+              1342.99,
+              1340.7
             ]
           }
         ]
@@ -898,21 +895,14 @@
     ]
   },
   "rsi": {
-    "AVGO": 50.7,
-    "BE": 50.5,
-    "GOOGL": 46.3,
-    "QCOM": 29.5,
-    "VRT": 46.6
+    "AVGO": 49.4,
+    "BE": 52.3,
+    "GOOGL": 46.9,
+    "QCOM": 30.6,
+    "VRT": 43.5
   },
   "news": {
     "AVGO": [
-      {
-        "type": "neutral",
-        "title": "Broadcom at $375: It Looks Like the Right Time to Add AVGO Shares",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTnpGdERyMi1BeTlMQThnT3BpdFRkZHhkZ0RnOTFHeVZNZUladVpHNnpEc29wbTVEeHZvWWZlbVRUVWRqZ3lZN2NRU1dzS2ZkNXBMRElHbXJSQ1BBSF9Bc055R2xvZThqUDZveUNJZ2VxRnlqenRJRHI5NWFIUXB4UWFSSkY5aGZfdVI0ZTMwRnl3UHhiYUFn?oc=5",
-        "date": "10/09 21:45"
-      },
       {
         "type": "neutral",
         "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
@@ -929,10 +919,17 @@
       },
       {
         "type": "neutral",
-        "title": "4 stocks to watch on Thursday: AVGO, PLTR, AMZN, and VTRS (SP500:)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjlZdjU0MDlhOWQ3NUhtbW1GdDd2TGZmSG9NdUZ2QmZUNV9pU3lkNjhnR0RyOERnMlVEWEd5YWFXOEMzMHZraTZDWjk2ZGlrZUxPSW54bXRLekZUREJRN3hIM2hMMXdHYlVKSGRpZ2QyVkdCNC1ORG10NThmRUstWUptaXg2dVNBUkZ4RmpOazJ1SEptZkE?oc=5",
-        "date": "10/08 21:42"
+        "title": "Broadcom (AVGO) Stock Looks To Trade At A Discount To Fair Value",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEhES3ZHenc1cTBURlg4cnNteDFvREU0Wjc1NHZaSUs0QVBvSF92Zkl5VGVSaHNfQWMwVGJWNC11Q1AzM3BWRDlIQ0M3S1FxaGdvbTg1dkF1cnZJaFhBS01PcjRoOXR2TTRKOHZhV2x6LUtEQ2xySER3WWN4cTdnS3RuQ2JRUUZlYWNkQWhyeEZUeFZtcHFtRGhrdUU?oc=5",
+        "date": "10/09 07:17"
+      },
+      {
+        "type": "neutral",
+        "title": "Prediction: A $5,000 Investment Split Between Nvidia and Broadcom Will Triple by 2028",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEcwY2tONWdLUVVQNjJjTTFTWHdoNEs3MjU1Wko5QkluSXcxeTBxZGRDcHZFTC1uRE83Wk83N2N4Zk5rbmswdmhYdWItbUNRMWlndjlWVHZoTFFyMkpXQ1dGZVRIek1UYVB2Nm5ocHdTQ1VOS3ZvNl9iRTR3eXp5NnpLWnduRVdxTlhFRzk0TmRGQV92WjlB?oc=5",
+        "date": "10/10 01:21"
       }
     ],
     "BE": [
@@ -952,17 +949,17 @@
       },
       {
         "type": "negative",
-        "title": "Bloom Energy (NYSE:BE) Stock Falls 6.3% - Here's What Happened",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjZPR2Nfb2MwUFVyQUh2YWZfdnBteFBkU1EtbDl6U3FPN19heXhxd0lCNWoxQVd4bElDMFV1S0tMckZyTGxWVnFQRnU1TUtybTM5bTlwS0NsT2MzTlFqcWIwME9MVE9ZWnd2dkttOGpwYXd3UTg4UDF3MEhHbklpNHUxSHJ4dUY2LVRuNkFOXzlkcjVMWmxxQ3ZEUTJDSzZPa2FIaHczRWdJaDN6cEkwN1hPZTNIZw?oc=5",
-        "date": "10/09 06:28"
-      },
-      {
-        "type": "negative",
         "title": "What Did Bloom Energy Stock Investors Miss Before The Run?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE4zOXpfajQzQ1dFWUxwVFN0bXYzV1U4SFctWVR6dlhfQklHMTExeXlFeFg4ckljNDlsVDNtaHFLM1FuY2dFX0drZU8xcHZXZ3gzazhEaUlrdnRseGhrVlVFc19rR1ctWTNJVk52cEhHMXJ0QjFER1U3WjZGZEl1aEtDX1lNb0hKTDFmLUdnUDM0b3B1c1RCQnp6UWQ2cjRFNHlHM1kyUWE1dFR6UUEtaXp4eFpnc1E?oc=5",
         "date": "10/09 00:22"
+      },
+      {
+        "type": "negative",
+        "title": "Bloom Energy (NYSE:BE) Stock Falls 6.3% - Here's What Happened",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjZPR2Nfb2MwUFVyQUh2YWZfdnBteFBkU1EtbDl6U3FPN19heXhxd0lCNWoxQVd4bElDMFV1S0tMckZyTGxWVnFQRnU1TUtybTM5bTlwS0NsT2MzTlFqcWIwME9MVE9ZWnd2dkttOGpwYXd3UTg4UDF3MEhHbklpNHUxSHJ4dUY2LVRuNkFOXzlkcjVMWmxxQ3ZEUTJDSzZPa2FIaHczRWdJaDN6cEkwN1hPZTNIZw?oc=5",
+        "date": "10/09 06:28"
       }
     ],
     "GOOGL": [
@@ -989,10 +986,10 @@
       },
       {
         "type": "positive",
-        "title": "Alphabet’s Chart Is Coiling—and the Fundamentals May Be Ready to Back It Up",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUJlTm81T21VX0pkZmJuSGI5ZXRXZXJfQmptbFBQNDhDcVFnRmxETGtsU2F3Z1hPQkxJVFJNQ0hUWGtQOWtsQTNQNVBIZXVEWWRjbUxaa1d0bURsT0dDbzRqai1IWDVIQWpyUVhKY1JiZklCdU0zM25yVG01cGdhZTJPQWlwUmtsbnZLMmpnSTBFbS1GeTBoYU5icE9USVVidXRIVFAwSWp1LXNGc3E0?oc=5",
-        "date": "10/08 02:19"
+        "title": "3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEtrVWpQOVhsZ1c2RHRTeUFreVpTcl95UWthb19Od0xzWS00dWt3VkdWWDdRVnBxdlZiNm1SNzktNXFJdTFJeGVBQndNU2NDLTY3NkJUQUttZk9MVFExTnhuOXVVdDF2QzA2TzVZVUhWM242RGk0bGZjejd2RjhXM2wzWHBuOGt4UWtjUlFKQ0lZWVFrdW8ySw?oc=5",
+        "date": "10/09 15:37"
       }
     ],
     "QCOM": [
@@ -1004,11 +1001,11 @@
         "date": "10/08 03:59"
       },
       {
-        "type": "neutral",
-        "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
+        "type": "positive",
+        "title": "Why Did QUALCOMM (QCOM) Stock Drop After Its Latest Update?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBBU3BPNktYdGo3ODhNa09mazMxb1BQN0dlb1NxWFFXZWo3WFlkeHBSSTUtQnBJT3pfTG9odEhWUkFORUhwZVR3SHR0TTZOM1Q0MWR0eG1YT1F0LTkxSmNES1pxS2I5OWdhT2gxT1BqWEpqUEhfcGxIT3BQSkJGT0N2eXFnOUI1aEc3amFQcmJPSm9nS1E?oc=5",
-        "date": "10/06 00:16"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHFmUEhJb1ZtSzk5OWJGRXUzeURhSng4RmY4QkxTTUtNZjVyWHVsa1B0T1lFSl9GRXlHakhBTkUwU3hybE5RVThhT0M1NVR1Sm5IV3ptSDUwX3MxN05PX05JWTFkZ1Jmd0NfUzRfR2o2YTloeUtHWFA1Q1BUazkyVzFiVlRxRkc4MWFHWndLbGtyOEZXaGd3?oc=5",
+        "date": "10/08 09:15"
       },
       {
         "type": "negative",
@@ -1018,11 +1015,11 @@
         "date": "10/06 06:24"
       },
       {
-        "type": "positive",
-        "title": "Why Qualcomm Stock Now Looks Poised to Surge Over the Longer Term",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmthZ3ZHYmtvQ0V2Mk1zRDhzWHpONXd6N0xHUktMdFFYNEVzZHY0bXdRTzNnc0h3TTNITlUxVmJwek80MFRiVy11M1VmZHdjRm1nb243MU96WXRjTjN0RFgyUmhoeEVFM3R4aEo0ZjFGLXJSV3RKbVppTmFXbklHTWtTT1JLV2N0RC1aWUw3bmFMSVNWc19aaHVSeDNlUTdwcEV5alRlOVNCbXAxelE?oc=5",
-        "date": "10/09 04:15"
+        "type": "neutral",
+        "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRllOdC1FaVA3QnNoY3hvQkI5RjRDZW1hczJPNlc5azZ2V1lOOURuWXhlWG1PdnYxdVV4TFRBVGJaOGtWaUltUEN1Wi1fYXFtWTZxTGtudEJydTN1RHJmcmVQTjdHR1BNeDJMX2I2LUJrSVVDeTRvY2dTdmdzejhLT0JHUFJ6b0JBbWxQbk84bzdKQVQ5NmxhMkpVeHdJVHY1dUxrTmZuTzBrdw?oc=5",
+        "date": "10/10 04:04"
       }
     ],
     "VRT": [
