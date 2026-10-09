@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-10-09T08:09:38.605985+00:00",
+  "updatedAt": "2026-10-09T15:23:54.091802+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7765.36,
-        "change": -0.47
+        "value": 7800.58,
+        "change": 0.45
       },
       {
         "name": "NASDAQ",
-        "value": 27193.34,
-        "change": -1.25
+        "value": 27319.45,
+        "change": 0.46
       },
       {
         "name": "다우존스",
-        "value": 51231.64,
-        "change": 0.1
+        "value": 51499.16,
+        "change": 0.52
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.25,
-        "change": -1.04
+        "value": 15.0,
+        "change": -2.66
       },
       {
         "name": "미국10년금리",
-        "value": 5.23,
-        "change": -0.95
+        "value": 5.28,
+        "change": 0.96
       },
       {
         "name": "원달러환율",
-        "value": 1339.4,
-        "change": 0.02
+        "value": 1340.95,
+        "change": 0.14
       },
       {
         "name": "KOSPI",
@@ -111,7 +111,8 @@
           "10/05",
           "10/06",
           "10/07",
-          "10/08"
+          "10/08",
+          "10/09"
         ],
         "series": [
           {
@@ -181,7 +182,8 @@
               7773.95,
               7818.93,
               7801.77,
-              7765.36
+              7765.36,
+              7800.58
             ]
           },
           {
@@ -251,7 +253,8 @@
               27477.31,
               27599.79,
               27538.69,
-              27193.34
+              27193.34,
+              27319.45
             ]
           },
           {
@@ -321,7 +324,8 @@
               51267.9,
               51521.28,
               51179.87,
-              51231.64
+              51231.64,
+              51499.16
             ]
           }
         ]
@@ -467,7 +471,7 @@
               15.01,
               15.08,
               15.41,
-              15.25
+              15.0
             ]
           }
         ]
@@ -475,7 +479,6 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "07/08",
           "07/09",
           "07/10",
           "07/13",
@@ -540,13 +543,13 @@
           "10/05",
           "10/06",
           "10/07",
-          "10/08"
+          "10/08",
+          "10/09"
         ],
         "series": [
           {
             "name": "미국10년금리",
             "data": [
-              4.57,
               4.54,
               4.57,
               4.61,
@@ -611,7 +614,8 @@
               5.31,
               5.27,
               5.28,
-              5.23
+              5.23,
+              5.28
             ]
           },
           {
@@ -683,7 +687,7 @@
               1343.75,
               1339.74,
               1339.08,
-              1339.4
+              1340.95
             ]
           }
         ]
@@ -894,14 +898,21 @@
     ]
   },
   "rsi": {
-    "AVGO": 51.4,
-    "BE": 52.3,
-    "GOOGL": 48.9,
-    "QCOM": 48.7,
-    "VRT": 45.5
+    "AVGO": 50.7,
+    "BE": 50.5,
+    "GOOGL": 46.3,
+    "QCOM": 29.5,
+    "VRT": 46.6
   },
   "news": {
     "AVGO": [
+      {
+        "type": "neutral",
+        "title": "Broadcom at $375: It Looks Like the Right Time to Add AVGO Shares",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTnpGdERyMi1BeTlMQThnT3BpdFRkZHhkZ0RnOTFHeVZNZUladVpHNnpEc29wbTVEeHZvWWZlbVRUVWRqZ3lZN2NRU1dzS2ZkNXBMRElHbXJSQ1BBSF9Bc055R2xvZThqUDZveUNJZ2VxRnlqenRJRHI5NWFIUXB4UWFSSkY5aGZfdVI0ZTMwRnl3UHhiYUFn?oc=5",
+        "date": "10/09 21:45"
+      },
       {
         "type": "neutral",
         "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
@@ -918,13 +929,6 @@
       },
       {
         "type": "neutral",
-        "title": "Jim Cramer Told a Broadcom (AVGO) Holder Not to Sell, and Said He Trimmed It Himself",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNk5CdlRwWXdrU3d0dFQzZ2w4dFhPRlJnQ0pxYUhkbm5HMXZ0RWpsdDY0MEh6ZXJIdU43T21yUkVfaXl1ZWJIWEJTWWJDNUNMWHRYNEhHSG9jVW1ySE9sWFdXdnFHbUtIRWwxcmM5QzlvZ1VmY1haWTBIVG1SdDlBUmpmSHJTSENoSHp6WjFEdnNKNHN3aUZXd3lB?oc=5",
-        "date": "10/09 11:31"
-      },
-      {
-        "type": "neutral",
         "title": "4 stocks to watch on Thursday: AVGO, PLTR, AMZN, and VTRS (SP500:)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjlZdjU0MDlhOWQ3NUhtbW1GdDd2TGZmSG9NdUZ2QmZUNV9pU3lkNjhnR0RyOERnMlVEWEd5YWFXOEMzMHZraTZDWjk2ZGlrZUxPSW54bXRLekZUREJRN3hIM2hMMXdHYlVKSGRpZ2QyVkdCNC1ORG10NThmRUstWUptaXg2dVNBUkZ4RmpOazJ1SEptZkE?oc=5",
@@ -933,13 +937,6 @@
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Stock May Be 25% Undervalued As Fuel Cell Project Timing Clouds The Story",
-        "publisher": "Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPejVGeHhIeWx1dWRhRmhMWnVGSF9sR1hBRlJCVFJhSC1rTTNNNF9KZktxajVPVjRNMnkwNGhtaFRHeGYyWDF5ZXdNRnp2TFFKMUtSOTFrR19GdUQ4ZVZUU2Zid1RqNFlXS3RUVTgzenNISFo0UlNXalRVd05RcEstMlRJbDVjRjRJQ2g4MFpYQm5JZVJiOGpGMG1CZF9qRUFwcVhrTVF6SDdwb1FxU1VIdFA2TEU1YWRQeVd1YzZURkQtVko1dFc2QnM5d1rSAdIBQVVfeXFMTmJ2VDRwOVdhUi0zem5uXy16bnRtVEJGNE1pWnZ0a2EzZDZLTmN6WkRzS0htX2xIN0ctWUk4R0Y2S1VLYjdWUmw4SjJwYy04d3BycDNYUk5wbnpxQl9QbTJjOXNaZWlpcGllMVhKNzhxY2xVTmg3S0x4ZzNyT1Q4di0yTndONl8zUGUzcHVXYjZZTzY4N3VmYnVTT01CTmNzWUh5STNEaUZkOGc5T3FmN184d3lSd0NQZUFPc2ZqUEhvNEIzYWNWeTNmQTRtTC1tdWZ3?oc=5",
-        "date": "10/09 06:48"
-      },
-      {
         "type": "positive",
         "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
         "publisher": "Stocktwits",
@@ -947,11 +944,11 @@
         "date": "10/07 20:14"
       },
       {
-        "type": "negative",
-        "title": "What Did Bloom Energy Stock Investors Miss Before The Run?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE4zOXpfajQzQ1dFWUxwVFN0bXYzV1U4SFctWVR6dlhfQklHMTExeXlFeFg4ckljNDlsVDNtaHFLM1FuY2dFX0drZU8xcHZXZ3gzazhEaUlrdnRseGhrVlVFc19rR1ctWTNJVk52cEhHMXJ0QjFER1U3WjZGZEl1aEtDX1lNb0hKTDFmLUdnUDM0b3B1c1RCQnp6UWQ2cjRFNHlHM1kyUWE1dFR6UUEtaXp4eFpnc1E?oc=5",
-        "date": "10/09 00:22"
+        "type": "neutral",
+        "title": "Bloom Energy (BE) Stock May Be 25% Undervalued As Fuel Cell Project Timing Clouds The Story",
+        "publisher": "Simply Wall Street",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPejVGeHhIeWx1dWRhRmhMWnVGSF9sR1hBRlJCVFJhSC1rTTNNNF9KZktxajVPVjRNMnkwNGhtaFRHeGYyWDF5ZXdNRnp2TFFKMUtSOTFrR19GdUQ4ZVZUU2Zid1RqNFlXS3RUVTgzenNISFo0UlNXalRVd05RcEstMlRJbDVjRjRJQ2g4MFpYQm5JZVJiOGpGMG1CZF9qRUFwcVhrTVF6SDdwb1FxU1VIdFA2TEU1YWRQeVd1YzZURkQtVko1dFc2QnM5d1rSAdIBQVVfeXFMTmJ2VDRwOVdhUi0zem5uXy16bnRtVEJGNE1pWnZ0a2EzZDZLTmN6WkRzS0htX2xIN0ctWUk4R0Y2S1VLYjdWUmw4SjJwYy04d3BycDNYUk5wbnpxQl9QbTJjOXNaZWlpcGllMVhKNzhxY2xVTmg3S0x4ZzNyT1Q4di0yTndONl8zUGUzcHVXYjZZTzY4N3VmYnVTT01CTmNzWUh5STNEaUZkOGc5T3FmN184d3lSd0NQZUFPc2ZqUEhvNEIzYWNWeTNmQTRtTC1tdWZ3?oc=5",
+        "date": "10/09 06:48"
       },
       {
         "type": "negative",
@@ -959,9 +956,23 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjZPR2Nfb2MwUFVyQUh2YWZfdnBteFBkU1EtbDl6U3FPN19heXhxd0lCNWoxQVd4bElDMFV1S0tMckZyTGxWVnFQRnU1TUtybTM5bTlwS0NsT2MzTlFqcWIwME9MVE9ZWnd2dkttOGpwYXd3UTg4UDF3MEhHbklpNHUxSHJ4dUY2LVRuNkFOXzlkcjVMWmxxQ3ZEUTJDSzZPa2FIaHczRWdJaDN6cEkwN1hPZTNIZw?oc=5",
         "date": "10/09 06:28"
+      },
+      {
+        "type": "negative",
+        "title": "What Did Bloom Energy Stock Investors Miss Before The Run?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE4zOXpfajQzQ1dFWUxwVFN0bXYzV1U4SFctWVR6dlhfQklHMTExeXlFeFg4ckljNDlsVDNtaHFLM1FuY2dFX0drZU8xcHZXZ3gzazhEaUlrdnRseGhrVlVFc19rR1ctWTNJVk52cEhHMXJ0QjFER1U3WjZGZEl1aEtDX1lNb0hKTDFmLUdnUDM0b3B1c1RCQnp6UWQ2cjRFNHlHM1kyUWE1dFR6UUEtaXp4eFpnc1E?oc=5",
+        "date": "10/09 00:22"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "Meta's Muse Is Running Into The 'Internet's Bouncers.' Why Google Has A Key Advantage.",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzEwWWpmQ1pqTGt4dHFsSHREOWJWSEs5MEZieXR6SnZud3NmeWdJeGNvNUtjQXNrSUZudlZsRHEydXhiTlpTMjcxMzFUTUNQX0RqOFdoOHRoMFh5WDRvMlEyLThUdXRhTXVQbGZYalg5cmtIbUdxMGZRLVVPMDREVnUxOHJWMmZO?oc=5",
+        "date": "10/09 00:07"
+      },
       {
         "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Looks Reasonable After Its 157% Five Year Run",
@@ -982,13 +993,6 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUJlTm81T21VX0pkZmJuSGI5ZXRXZXJfQmptbFBQNDhDcVFnRmxETGtsU2F3Z1hPQkxJVFJNQ0hUWGtQOWtsQTNQNVBIZXVEWWRjbUxaa1d0bURsT0dDbzRqai1IWDVIQWpyUVhKY1JiZklCdU0zM25yVG01cGdhZTJPQWlwUmtsbnZLMmpnSTBFbS1GeTBoYU5icE9USVVidXRIVFAwSWp1LXNGc3E0?oc=5",
         "date": "10/08 02:19"
-      },
-      {
-        "type": "negative",
-        "title": "GOOG, GOOGL Stock Notice: Alphabet Inc. Stock Plummeted 4% after AI Issues Disclosed - Securities Fraud Class Action Filed",
-        "publisher": "Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVVprVEJmWnZtZjEwckJ5QW45VHRaeTFHb2FQeVd2VDdwVUc5YXpsOEVTcFBrRzNKRDFDeXM5NVR3OG9naDh4cmVIVm1GR3diUmtPZTl2ZjUtOUstdFIxVDNEMUpRTlRwS3VNQUsxX3hncUI4R0F3TlE2OVVab2RVYVJaTUtlZEhoWVdhUHRpNWJUdEtpNU5RWE5LdFU3RHpTRmJjaGh0Y3YyWGpEYU9MLWVLNUJnWTRTbGRxY09yeV9uQTNaZGM3aXpPR052cEx5MnNwalBpQ20xM1B2MnVPM1VCUnNLaUdaMGd5NVA2UmRFOTRGV0tDM045RlZObTZKa2tNd3ZMN0M?oc=5",
-        "date": "10/06 18:36"
       }
     ],
     "QCOM": [
@@ -1000,18 +1004,18 @@
         "date": "10/08 03:59"
       },
       {
-        "type": "positive",
-        "title": "Why Did QUALCOMM (QCOM) Stock Drop After Its Latest Update?",
+        "type": "neutral",
+        "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHFmUEhJb1ZtSzk5OWJGRXUzeURhSng4RmY4QkxTTUtNZjVyWHVsa1B0T1lFSl9GRXlHakhBTkUwU3hybE5RVThhT0M1NVR1Sm5IV3ptSDUwX3MxN05PX05JWTFkZ1Jmd0NfUzRfR2o2YTloeUtHWFA1Q1BUazkyVzFiVlRxRkc4MWFHWndLbGtyOEZXaGd3?oc=5",
-        "date": "10/08 09:15"
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBBU3BPNktYdGo3ODhNa09mazMxb1BQN0dlb1NxWFFXZWo3WFlkeHBSSTUtQnBJT3pfTG9odEhWUkFORUhwZVR3SHR0TTZOM1Q0MWR0eG1YT1F0LTkxSmNES1pxS2I5OWdhT2gxT1BqWEpqUEhfcGxIT3BQSkJGT0N2eXFnOUI1aEc3amFQcmJPSm9nS1E?oc=5",
+        "date": "10/06 00:16"
       },
       {
-        "type": "neutral",
-        "title": "How Much Could You Lose In Qualcomm Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3hlRmxNaURwcVdORFpUMGV6Qjd4SGNCTW9KM1BEZ080cWpCQzdxTWQ5X2dSTV9TRmdfVG02TzhIY2xwNzRra3lzUDNNRmRmZ051SHZkVEtVRFM3dFdETHowNllBQ3dpTFM0djh6dXRyWmVhMk40Rkl0RDg4YWhJdGJpLWs1aV9aUkNUS2gxeWZKcDlDb19SM1RZTWNrTERVcDV0aA?oc=5",
-        "date": "10/05 23:54"
+        "type": "negative",
+        "title": "Qualcomm (NASDAQ:QCOM) Stock Price Down 2.2% - Here's Why",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHhmSUNqT1lUa0Nvdmd4dHg2aXNiNlZVWUpJcjdMTDVsYV9OLXRueF94eW55MGh1MVBmV0VGaFUxVWpOTVBuZG15Sy1naWpLYm45cjhXRF9PdXlmakJnTF9Sb0pQdUZHMU93alZLY0R1ZW1vaDRDZUM3ZnhZVXRkU2pPRlFfUTJmc09GQjR6R21vMURERmhHbi1UWkhBX1FsSUlCblBNV1BaMWlvSjVV?oc=5",
+        "date": "10/06 06:24"
       },
       {
         "type": "positive",
@@ -1031,24 +1035,24 @@
       },
       {
         "type": "negative",
-        "title": "Why Vertiv (VRT) Stock Is Down Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdU5oVXgtOF9McGIxakpxYjFHUGJOMVN0VjBVNFROdE5tcU5ILWJPSC1JdzZrdDVBS1lXMHFrVjJiYk9qakV1THpFSmUxeFJxUmEtRDhqYkxsMEEwdGVhUHV6OGV0am9iMzhvQVpZREFrcVZ1My0wTXJPU3lrV2tMeXZ2SnFLS3p1ZDVCcXp2djJwRVlo?oc=5",
-        "date": "10/08 07:40"
-      },
-      {
-        "type": "negative",
         "title": "How Much Downside Is Left In Vertiv Stock?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVBJNnVtXzlxMTFTZUNKZl9TREZxbXJDT2MtYzBxR2NUN0VnVmh5TGgyLXpVMlZ2ZnFEcnJMVmhNb1ExZUJSbEY4dXUyTjgzbHFtdWNyU0pudlA5SkRFT2thZlJMT0JVdFd2SnBkc0MzbWw2VVhmMU5NUFRreVNwSU1YMDRHaThyMXZDVnZ1U2NPY0pSbXVmaWJQMnhFYjJHbkdR?oc=5",
         "date": "10/08 06:20"
       },
       {
-        "type": "positive",
-        "title": "Vertiv: How Much Longer Can Hyperscaler CapEx Support This Growth? (NYSE:VRT)",
+        "type": "neutral",
+        "title": "Here’s How Much You Would Have Made Owning Vertiv Holdings Stock In The Last 5 Years",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONEZ4MVk4aVA2NFRacHdibWstZnlwZnc5cjllWXNqS3liSUVEel9LSTdZd2JXWW9kN3lobi1wNDlzSXNpZi1fQ2xMY0JWM0xXQlhqS1NvSzRTbE8yTUdublF3dnNtVUtCRmwyMkQxMWY3cG43aEZJeGtHZGxvUlBzWndhZnZjcmZ6V2pXZ0xSRks4RC1XeDc0UVdIT3pLQ1BFSXVvbWdobTUzQ1Vqc0JRMDhxcWt4M19GV1RDMmdPaw?oc=5",
+        "date": "10/09 05:15"
+      },
+      {
+        "type": "neutral",
+        "title": "Vertiv Is Compounding Exactly As Expected, And That's The Problem (NYSE:VRT)",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDJ2Y1NfYzdKSXk2WDcycEtISWhkRnF2LVI5U25Pb1EwM09NYWNoZjI4eEZhX0FEaXJpOHlvRmZYWTRKRWo4NGxROVRvU0VuT3ROTV92b3ZYZFRzVkhjWC1YNWZxMm0xNkt1dXR5NXZXUFVLcWI4VVBrWVNsVURKZUQ1WG4yOGEwNDlLODh4SjNlcE9QYVd5SV9rak5ZbVZsbmpxal9HVms?oc=5",
-        "date": "10/06 23:29"
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNENXLTBBeXdpdi1jY1QtN0FHZG4wdXQ1ZDFkMF9hZDNWZlZkdTRPYmZNcm5LTWN4ek9xMkwtSGZLcWVjMjlCTzNXMjJ2Z3UyeXl1VkdyQzBCOEl4M1RRRm1LRmRIQk1iQzJuN1lCRHNlcXRHSEx5ZldyT0JFSjZ2UGRpUFZsSlRsTU1hSTdrMXVXOURKOEZnTUkxWTVYdWxQelZiZXByRQ?oc=5",
+        "date": "10/07 22:56"
       }
     ]
   }
