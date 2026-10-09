@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T01:33:29.154990+00:00",
+  "updatedAt": "2026-10-09T08:09:38.605985+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.41,
-        "change": 2.19
+        "value": 15.25,
+        "change": -1.04
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1342.15,
-        "change": 0.23
+        "value": 1339.4,
+        "change": 0.02
       },
       {
         "name": "KOSPI",
@@ -329,7 +329,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "07/08",
           "07/09",
           "07/10",
           "07/13",
@@ -395,13 +394,13 @@
           "10/05",
           "10/06",
           "10/07",
-          "10/08"
+          "10/08",
+          "10/09"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              16.9,
               15.84,
               15.03,
               17.16,
@@ -467,7 +466,8 @@
               15.52,
               15.01,
               15.08,
-              15.41
+              15.41,
+              15.25
             ]
           }
         ]
@@ -683,7 +683,7 @@
               1343.75,
               1339.74,
               1339.08,
-              1342.15
+              1339.4
             ]
           }
         ]
@@ -903,25 +903,25 @@
   "news": {
     "AVGO": [
       {
-        "type": "positive",
-        "title": "Why It’s Time to Load Up on Broadcom Stock Before It Touches $523",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTRTRnd5bzhEVXo1cTE2cGQtZzNvRTh5NlAwUXFoSFlNdE1KbU02TUhUN2hBaUgyOHQyQll0dVZTQ2xRS1lNZXE0QnhoUjg5aVlKcElsS1JXcUpKb3M0UU5OUWdzSkZKRWVmNllsSGVNNy1WZ196Y2hITnpZaS1lRlFRVHNJcE1CMTNhSlpsaG5oanduSTZDaGFyWXNNLVlfbmFLcGVsN2ZUZHM?oc=5",
-        "date": "10/06 02:36"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom: When The Story And The Stock Disagree (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZkZXTk5Rd1pPbUJIQzFmQkRxVlBFXzNkeFhVQVB2VURqdkl3WHY0UEdNajZrNmZKMU83OGpxRXczeUZrTVVVN1ZUcHhTUzRkcXU2SnFiLUdsSDlySndlbE45ZTdOd2Y4THc4NEFkMUo5T1pvNGZ0M1NLTjFEcnZ5dlNQci1JZTk3ZVFPaUlERDE?oc=5",
-        "date": "10/07 00:56"
-      },
-      {
         "type": "neutral",
         "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTRzRjJ1TVZsblR4YXpPVXAwaHpFT041SWZ4TnZZRllwSDBJYWs2LUJWS2ZnaFdUZ28xSEdkTnR5aEhHQkVFREZldkV5ZnVkRWFlVmwycTV0b2xHbTZQNDVoZEtTX1RxTkFpMGNLcnRqSmNITDZtVTBCZFBac0RWYkd2d2dFWEJ3aEdJblpOUlVlTUNaQzBoaFJGMm1OZw?oc=5",
         "date": "10/08 20:42"
+      },
+      {
+        "type": "neutral",
+        "title": "AVGO Stock Alert: What to Know About Broadcom's $50 Billion Financing Deal for OpenAI Chips",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObU9Wc2xwM1A2RjNZaWJVM0ZLZWl3MGJBZUJhdHc5V3hQZXVKZGQzZUxrMjMyRE1EMGJXVEk0dmpzSGRZeURZc3Q5Nm1wdGkyeEprcXBILU5jNGRIT3lHcEVzVWZMbkpBYXVyZ2w4VktBdnBtRUtLUFFjMWlKc2JlZlQ3YUlHblRSRmJjQWNxelhoOFZBQm9iOGNsaTFWaWNGSXVsX2VWbWtkdmFLSmhDbUxuSTZkVUhrODBSb19XcUxWdmh0OEl0R2lHYlg3dw?oc=5",
+        "date": "10/09 05:53"
+      },
+      {
+        "type": "neutral",
+        "title": "Jim Cramer Told a Broadcom (AVGO) Holder Not to Sell, and Said He Trimmed It Himself",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNk5CdlRwWXdrU3d0dFQzZ2w4dFhPRlJnQ0pxYUhkbm5HMXZ0RWpsdDY0MEh6ZXJIdU43T21yUkVfaXl1ZWJIWEJTWWJDNUNMWHRYNEhHSG9jVW1ySE9sWFdXdnFHbUtIRWwxcmM5QzlvZ1VmY1haWTBIVG1SdDlBUmpmSHJTSENoSHp6WjFEdnNKNHN3aUZXd3lB?oc=5",
+        "date": "10/09 11:31"
       },
       {
         "type": "neutral",
@@ -940,11 +940,11 @@
         "date": "10/09 06:48"
       },
       {
-        "type": "negative",
-        "title": "BE Stock Falls Premarket: Bernstein Says Bloom Energy Is Already Positioned For Broader Power Buildout",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOXRjdnI5UGFhalFPYU9iOXZ5WWsyRE9sNi1ubkdxQXdnVWZvbV9WeXBGVExSazB1bjdfbXJCQ2ktcFFoRnZuTXRNVl9CNXdBcmxRS25QcWtPejBjNkhnSGs1NEtXS3hmU3dJeFUxY2hXRVEyMVc5REQyZXRHaGJQeXoxanRxdThYbFg4dHMzaTR5eHlZbnBQMS13WGNGU3EwZW1r?oc=5",
-        "date": "10/08 17:02"
+        "type": "positive",
+        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
+        "date": "10/07 20:14"
       },
       {
         "type": "negative",
@@ -964,17 +964,17 @@
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "What Is Going on With Alphabet Stock on Thursday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlJtcTRfV2g0VEVIR2JBbjFUeXI3cUNCaF96V2t6S3FwMGRmR1J0eUJQWkRkOG1TQ3laNTVxc2NqS3dTRGUxenY2R251eTh2Xy1sMDRRUGdhanZPdEJZaldNaExvdUlCT2ROWEpPbGViejItSVdOZUhuWHhCRGZLdl9IbWZ5S1FxbFJtTW9HUnVqZHhCMUhDMHdSZjRwUnhuMnFR?oc=5",
-        "date": "10/08 23:24"
-      },
-      {
-        "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Looks Reasonable After Its 157% Five Year Run",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNG9WOExjdmNuX0pMMVJWZEFFbS14WTBZT2RBV0kzRHQxbE5lVFpkNXZkcGJEeENYbHVXOUNXTW9oWC1RVzB3UE8zLXR4R1RkcnF6Skowb2EydkNMY0xqRmhrM2liVEluRTMxT0hUVjBHS24tS1lxSktHU3ZkNU9HLXlUdFIwNm03ZUVXNnFMemdHV085N3daWU1tRWNTclUxMy1DUQ?oc=5",
         "date": "10/08 05:10"
+      },
+      {
+        "type": "neutral",
+        "title": "What Is Going on With Alphabet Stock on Thursday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlJtcTRfV2g0VEVIR2JBbjFUeXI3cUNCaF96V2t6S3FwMGRmR1J0eUJQWkRkOG1TQ3laNTVxc2NqS3dTRGUxenY2R251eTh2Xy1sMDRRUGdhanZPdEJZaldNaExvdUlCT2ROWEpPbGViejItSVdOZUhuWHhCRGZLdl9IbWZ5S1FxbFJtTW9HUnVqZHhCMUhDMHdSZjRwUnhuMnFR?oc=5",
+        "date": "10/08 23:24"
       },
       {
         "type": "positive",
@@ -1000,18 +1000,18 @@
         "date": "10/08 03:59"
       },
       {
-        "type": "neutral",
-        "title": "How Much Could You Lose In Qualcomm Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3hlRmxNaURwcVdORFpUMGV6Qjd4SGNCTW9KM1BEZ080cWpCQzdxTWQ5X2dSTV9TRmdfVG02TzhIY2xwNzRra3lzUDNNRmRmZ051SHZkVEtVRFM3dFdETHowNllBQ3dpTFM0djh6dXRyWmVhMk40Rkl0RDg4YWhJdGJpLWs1aV9aUkNUS2gxeWZKcDlDb19SM1RZTWNrTERVcDV0aA?oc=5",
-        "date": "10/05 23:54"
-      },
-      {
         "type": "positive",
         "title": "Why Did QUALCOMM (QCOM) Stock Drop After Its Latest Update?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHFmUEhJb1ZtSzk5OWJGRXUzeURhSng4RmY4QkxTTUtNZjVyWHVsa1B0T1lFSl9GRXlHakhBTkUwU3hybE5RVThhT0M1NVR1Sm5IV3ptSDUwX3MxN05PX05JWTFkZ1Jmd0NfUzRfR2o2YTloeUtHWFA1Q1BUazkyVzFiVlRxRkc4MWFHWndLbGtyOEZXaGd3?oc=5",
         "date": "10/08 09:15"
+      },
+      {
+        "type": "neutral",
+        "title": "How Much Could You Lose In Qualcomm Stock?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3hlRmxNaURwcVdORFpUMGV6Qjd4SGNCTW9KM1BEZ080cWpCQzdxTWQ5X2dSTV9TRmdfVG02TzhIY2xwNzRra3lzUDNNRmRmZ051SHZkVEtVRFM3dFdETHowNllBQ3dpTFM0djh6dXRyWmVhMk40Rkl0RDg4YWhJdGJpLWs1aV9aUkNUS2gxeWZKcDlDb19SM1RZTWNrTERVcDV0aA?oc=5",
+        "date": "10/05 23:54"
       },
       {
         "type": "positive",
