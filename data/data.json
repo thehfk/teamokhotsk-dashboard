@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T00:07:26.622441+00:00",
+  "updatedAt": "2026-10-10T06:05:58.002353+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1340.02,
-        "change": -0.22
+        "value": 1340.9,
+        "change": -0.16
       },
       {
         "name": "KOSPI",
@@ -684,7 +684,7 @@
               1339.74,
               1339.08,
               1342.99,
-              1340.02
+              1340.9
             ]
           }
         ]
@@ -895,11 +895,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 51.4,
-    "BE": 52.3,
-    "GOOGL": 48.9,
-    "QCOM": 48.7,
-    "VRT": 45.5
+    "AVGO": 49.4,
+    "BE": 52.4,
+    "GOOGL": 46.9,
+    "QCOM": 30.6,
+    "VRT": 43.5
   },
   "news": {
     "AVGO": [
@@ -926,26 +926,26 @@
       },
       {
         "type": "neutral",
-        "title": "Prediction: A $5,000 Investment Split Between Nvidia and Broadcom Will Triple by 2028",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEcwY2tONWdLUVVQNjJjTTFTWHdoNEs3MjU1Wko5QkluSXcxeTBxZGRDcHZFTC1uRE83Wk83N2N4Zk5rbmswdmhYdWItbUNRMWlndjlWVHZoTFFyMkpXQ1dGZVRIek1UYVB2Nm5ocHdTQ1VOS3ZvNl9iRTR3eXp5NnpLWnduRVdxTlhFRzk0TmRGQV92WjlB?oc=5",
-        "date": "10/10 01:21"
+        "title": "4 stocks to watch on Thursday: AVGO, PLTR, AMZN, and VTRS (SP500:)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjlZdjU0MDlhOWQ3NUhtbW1GdDd2TGZmSG9NdUZ2QmZUNV9pU3lkNjhnR0RyOERnMlVEWEd5YWFXOEMzMHZraTZDWjk2ZGlrZUxPSW54bXRLekZUREJRN3hIM2hMMXdHYlVKSGRpZ2QyVkdCNC1ORG10NThmRUstWUptaXg2dVNBUkZ4RmpOazJ1SEptZkE?oc=5",
+        "date": "10/08 21:42"
       }
     ],
     "BE": [
+      {
+        "type": "neutral",
+        "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1dVakhMTW5XX1Y5R3FrUk1jaGpwSG0xSzFkNW5BV1RKNGNZa2xoWGM2ajJmaktvVHhFVzdFaVJZcjNYc0tVRFdlS0JZNUYtaG5QeXRpMlBEOGVXb2lSUUprSVBoOUcxNnd4UjIxOUVWRnoxaTV3ZG0xVE40eVZJMjdHZUFtbkJ6MWo2MUFkMnN0ZEtBdGhMeGxPLW9hc3pJQUtzQXNRcVhPLUxCQnpJaDJQX2MwcU5nQ0N5N2tPRGpsS0ZmM3dBd2xXd2RrcUQ0Z3pubTI1QlZOdDJDZW1Hby1ISDBsRVN0b2xTblp4OVo0OU1KWFg0?oc=5",
+        "date": "10/10 00:31"
+      },
       {
         "type": "positive",
         "title": "Bloom Energy (NYSE:BE) Stock Jumps 2.7% - What's Next?",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGI2WkRsc21RN1hkYW1ocFRKcFNod251bHBGUHZHY1lMR0hoV2tjZmw4UklFX0twcnRGVTlYQmFTczl0VllrRHFXMUttM3VycHRrb3NiSlEzU3lnMm9OMi1QRDRQVGI3UkpkMXg0MktJWEk1ZDB0MWtEREw3MTdCZDlkQXVJZ2hLQ0FkXzBKVmNwWEhhNVB1ZGZuZWVRQU1va0tfdVoyX3FNQQ?oc=5",
         "date": "10/10 06:46"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
-        "date": "10/07 20:14"
       },
       {
         "type": "neutral",
@@ -955,11 +955,11 @@
         "date": "10/09 06:48"
       },
       {
-        "type": "neutral",
-        "title": "Amundi TW-US HY Bd-ND AUD Hdg (0P0001LUIL.BE) Stock Forum & Discussion",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0SmtRSjNYUk1tYlhQMnJxSUk4NWVsRktKVnJWRXdyMkp2OElpUDl6NFZMbkhGQzFydGwxWnJKTTdqYlpTeUVodHpXRkFUcDZnMjc2aWcwbHhNVTdtMVplRUpRbktta1VTaHlJ?oc=5",
-        "date": "10/09 15:03"
+        "type": "negative",
+        "title": "What Did Bloom Energy Stock Investors Miss Before The Run?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE4zOXpfajQzQ1dFWUxwVFN0bXYzV1U4SFctWVR6dlhfQklHMTExeXlFeFg4ckljNDlsVDNtaHFLM1FuY2dFX0drZU8xcHZXZ3gzazhEaUlrdnRseGhrVlVFc19rR1ctWTNJVk52cEhHMXJ0QjFER1U3WjZGZEl1aEtDX1lNb0hKTDFmLUdnUDM0b3B1c1RCQnp6UWQ2cjRFNHlHM1kyUWE1dFR6UUEtaXp4eFpnc1E?oc=5",
+        "date": "10/09 00:22"
       }
     ],
     "GOOGL": [
@@ -969,13 +969,6 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEtrVWpQOVhsZ1c2RHRTeUFreVpTcl95UWthb19Od0xzWS00dWt3VkdWWDdRVnBxdlZiNm1SNzktNXFJdTFJeGVBQndNU2NDLTY3NkJUQUttZk9MVFExTnhuOXVVdDF2QzA2TzVZVUhWM242RGk0bGZjejd2RjhXM2wzWHBuOGt4UWtjUlFKQ0lZWVFrdW8ySw?oc=5",
         "date": "10/09 15:37"
-      },
-      {
-        "type": "neutral",
-        "title": "Meta's Muse Is Running Into The 'Internet's Bouncers.' Why Google Has A Key Advantage.",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzEwWWpmQ1pqTGt4dHFsSHREOWJWSEs5MEZieXR6SnZud3NmeWdJeGNvNUtjQXNrSUZudlZsRHEydXhiTlpTMjcxMzFUTUNQX0RqOFdoOHRoMFh5WDRvMlEyLThUdXRhTXVQbGZYalg5cmtIbUdxMGZRLVVPMDREVnUxOHJWMmZO?oc=5",
-        "date": "10/09 00:07"
       },
       {
         "type": "positive",
@@ -990,6 +983,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNG9WOExjdmNuX0pMMVJWZEFFbS14WTBZT2RBV0kzRHQxbE5lVFpkNXZkcGJEeENYbHVXOUNXTW9oWC1RVzB3UE8zLXR4R1RkcnF6Skowb2EydkNMY0xqRmhrM2liVEluRTMxT0hUVjBHS24tS1lxSktHU3ZkNU9HLXlUdFIwNm03ZUVXNnFMemdHV085N3daWU1tRWNTclUxMy1DUQ?oc=5",
         "date": "10/08 05:10"
+      },
+      {
+        "type": "neutral",
+        "title": "What Is Going on With Alphabet Stock on Thursday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlJtcTRfV2g0VEVIR2JBbjFUeXI3cUNCaF96V2t6S3FwMGRmR1J0eUJQWkRkOG1TQ3laNTVxc2NqS3dTRGUxenY2R251eTh2Xy1sMDRRUGdhanZPdEJZaldNaExvdUlCT2ROWEpPbGViejItSVdOZUhuWHhCRGZLdl9IbWZ5S1FxbFJtTW9HUnVqZHhCMUhDMHdSZjRwUnhuMnFR?oc=5",
+        "date": "10/08 23:24"
       }
     ],
     "QCOM": [
@@ -1003,16 +1003,9 @@
       {
         "type": "neutral",
         "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUFSdFNRYUMxUV9iTnNhRllnWFA1YUNLTWlCekwzLW9GZVdyTTl2UFpWc1RSek0wZTE5SzN0WWE0aTQwTzB3Tk4xV2JZTEN6VVkyYmVTN1p0Y3NKb1NMMmYxT0d4UW1JTmVpMjEwd0ZLUEtNMXhkV1N4MWNkejVFX0ltaXlILXRoTHlHUl9LSzZXQ0xKazZjTTZDbzZvNUF2MnNRZXFpNG9BUmVkUmFjaHY5eEpHaGhJdVE?oc=5",
-        "date": "10/10 08:12"
-      },
-      {
-        "type": "positive",
-        "title": "Why Did QUALCOMM (QCOM) Stock Drop After Its Latest Update?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHFmUEhJb1ZtSzk5OWJGRXUzeURhSng4RmY4QkxTTUtNZjVyWHVsa1B0T1lFSl9GRXlHakhBTkUwU3hybE5RVThhT0M1NVR1Sm5IV3ptSDUwX3MxN05PX05JWTFkZ1Jmd0NfUzRfR2o2YTloeUtHWFA1Q1BUazkyVzFiVlRxRkc4MWFHWndLbGtyOEZXaGd3?oc=5",
-        "date": "10/08 09:15"
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1l3d2FFQ3Y0M0xEMzhwMlF2UFVkTW4zN3pIazBkS2VMSk5QcFNuRXp4RGNLT29iWHlyazhLTnowdTNfMFBvN1FTUHRsU2F1LWxmRExqcXhqWXc0ektSSzljWUZDLU1ORWdveTJiNVVqRjJxa3F0WTdnQmV1ZmI0bkMtblZralNPT2F3OEZHWk5laTRmam5SNVpUc2xxUHc?oc=5",
+        "date": "10/10 08:13"
       },
       {
         "type": "negative",
@@ -1020,6 +1013,13 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHhmSUNqT1lUa0Nvdmd4dHg2aXNiNlZVWUpJcjdMTDVsYV9OLXRueF94eW55MGh1MVBmV0VGaFUxVWpOTVBuZG15Sy1naWpLYm45cjhXRF9PdXlmakJnTF9Sb0pQdUZHMU93alZLY0R1ZW1vaDRDZUM3ZnhZVXRkU2pPRlFfUTJmc09GQjR6R21vMURERmhHbi1UWkhBX1FsSUlCblBNV1BaMWlvSjVV?oc=5",
         "date": "10/06 06:24"
+      },
+      {
+        "type": "positive",
+        "title": "Why It’s Time to Load Up on Qualcomm Stock",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZzJxLVVad1JFV3R1ZjlfN1gwRVdqaVAzNDI0TzVuSFV3bzFnSFhzQjlyMlB0bk5nNzBqOUtlbGZvMi1ITXNiLU9ZM1hlYy1GZTJkNUZadzd4OEdfaUlndk1rMzM2QnpyT2ZWVDY3dDBiYVB3Sm5KMFcxU1UtQnpQcHM1c1dmVXFVdXBFWHJR?oc=5",
+        "date": "10/07 01:06"
       }
     ],
     "VRT": [
