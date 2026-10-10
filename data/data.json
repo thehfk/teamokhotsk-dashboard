@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T06:05:58.002353+00:00",
+  "updatedAt": "2026-10-10T12:46:46.663441+00:00",
   "market": {
     "cards": [
       {
@@ -934,18 +934,18 @@
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1dVakhMTW5XX1Y5R3FrUk1jaGpwSG0xSzFkNW5BV1RKNGNZa2xoWGM2ajJmaktvVHhFVzdFaVJZcjNYc0tVRFdlS0JZNUYtaG5QeXRpMlBEOGVXb2lSUUprSVBoOUcxNnd4UjIxOUVWRnoxaTV3ZG0xVE40eVZJMjdHZUFtbkJ6MWo2MUFkMnN0ZEtBdGhMeGxPLW9hc3pJQUtzQXNRcVhPLUxCQnpJaDJQX2MwcU5nQ0N5N2tPRGpsS0ZmM3dBd2xXd2RrcUQ0Z3pubTI1QlZOdDJDZW1Hby1ISDBsRVN0b2xTblp4OVo0OU1KWFg0?oc=5",
-        "date": "10/10 00:31"
-      },
-      {
         "type": "positive",
         "title": "Bloom Energy (NYSE:BE) Stock Jumps 2.7% - What's Next?",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGI2WkRsc21RN1hkYW1ocFRKcFNod251bHBGUHZHY1lMR0hoV2tjZmw4UklFX0twcnRGVTlYQmFTczl0VllrRHFXMUttM3VycHRrb3NiSlEzU3lnMm9OMi1QRDRQVGI3UkpkMXg0MktJWEk1ZDB0MWtEREw3MTdCZDlkQXVJZ2hLQ0FkXzBKVmNwWEhhNVB1ZGZuZWVRQU1va0tfdVoyX3FNQQ?oc=5",
         "date": "10/10 06:46"
+      },
+      {
+        "type": "negative",
+        "title": "BE Stock Falls Premarket: Bernstein Says Bloom Energy Is Already Positioned For Broader Power Buildout",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZlAtd1NTdmVuN2RrT1RrWDZaVEdBTHI2TUtYUkY0Wkw2bGRQQl9KM3lzdDBfV0RHQXNJNkVYNGI5Nk5ybVQwcklrRGlzRmV4a0xnWktUOFQ5bENzcWlKdmEtXzRYMkJHdUVqcTVBeVNveFJvS01CYlJCTkw3ZTRXdjlNQmVzTUpjaFZpNnBweXFWRzZYaG95ci0wM0l0TmFWZEt3and0YkVXeFVlbnNmVTRGSy1maTViVzdNYXRiU1M0dlh0Wm11cW5Nd2dKRkx6a2tXN09kZUl0RlUtQXI2R21SdER6eUVybmFSZTJIVy1fQ0stRHQ1Nw?oc=5",
+        "date": "10/09 22:34"
       },
       {
         "type": "neutral",
@@ -971,11 +971,11 @@
         "date": "10/09 15:37"
       },
       {
-        "type": "positive",
-        "title": "Alphabet: A 'Strong Buy' Due To Its AI Compute Scale",
+        "type": "neutral",
+        "title": "Alphabet Is A Fortress Stock, Built To Survive (NASDAQ:GOOGL)",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2NIMklsSC0xQzVfZFJ5QXhXUFhHeEhKWGpQTDJFZmg4NklMaDhQQ2pqbTRTel9hcXEtcTlKT2gxUnYwOWVpbi1XTWM2dDh4Q3A1dENwQnN5MldCd1o3QzE5bTFFSGJQeUxYekpkQk5kajdqbjkwRkFwRVFwNnlPVDZWNUllc1c2OF9BdlRNY3RSWGtGSmc?oc=5",
-        "date": "10/09 15:35"
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdmo3ZVJzOXA5MmhkMXpUbC1zLWgtaVBEcjVEbHMtdDViZHN3aWxidVJyNHpmQ3VwMkNyOUotdDQ2V1d2NExUdUd0ZVBZamJoMmZjUG9oMmpYOHhPNzhtV2ZudW1CczIwamtzdWJnTlprdzhzeUdBaEJXUGF4alZYbjJ0aGJoQ192OXhZZUNySQ?oc=5",
+        "date": "10/10 20:07"
       },
       {
         "type": "neutral",
@@ -1003,9 +1003,16 @@
       {
         "type": "neutral",
         "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUFSdFNRYUMxUV9iTnNhRllnWFA1YUNLTWlCekwzLW9GZVdyTTl2UFpWc1RSek0wZTE5SzN0WWE0aTQwTzB3Tk4xV2JZTEN6VVkyYmVTN1p0Y3NKb1NMMmYxT0d4UW1JTmVpMjEwd0ZLUEtNMXhkV1N4MWNkejVFX0ltaXlILXRoTHlHUl9LSzZXQ0xKazZjTTZDbzZvNUF2MnNRZXFpNG9BUmVkUmFjaHY5eEpHaGhJdVE?oc=5",
+        "date": "10/10 08:12"
+      },
+      {
+        "type": "positive",
+        "title": "Why Did QUALCOMM (QCOM) Stock Drop After Its Latest Update?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1l3d2FFQ3Y0M0xEMzhwMlF2UFVkTW4zN3pIazBkS2VMSk5QcFNuRXp4RGNLT29iWHlyazhLTnowdTNfMFBvN1FTUHRsU2F1LWxmRExqcXhqWXc0ektSSzljWUZDLU1ORWdveTJiNVVqRjJxa3F0WTdnQmV1ZmI0bkMtblZralNPT2F3OEZHWk5laTRmam5SNVpUc2xxUHc?oc=5",
-        "date": "10/10 08:13"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHFmUEhJb1ZtSzk5OWJGRXUzeURhSng4RmY4QkxTTUtNZjVyWHVsa1B0T1lFSl9GRXlHakhBTkUwU3hybE5RVThhT0M1NVR1Sm5IV3ptSDUwX3MxN05PX05JWTFkZ1Jmd0NfUzRfR2o2YTloeUtHWFA1Q1BUazkyVzFiVlRxRkc4MWFHWndLbGtyOEZXaGd3?oc=5",
+        "date": "10/08 09:15"
       },
       {
         "type": "negative",
@@ -1013,13 +1020,6 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHhmSUNqT1lUa0Nvdmd4dHg2aXNiNlZVWUpJcjdMTDVsYV9OLXRueF94eW55MGh1MVBmV0VGaFUxVWpOTVBuZG15Sy1naWpLYm45cjhXRF9PdXlmakJnTF9Sb0pQdUZHMU93alZLY0R1ZW1vaDRDZUM3ZnhZVXRkU2pPRlFfUTJmc09GQjR6R21vMURERmhHbi1UWkhBX1FsSUlCblBNV1BaMWlvSjVV?oc=5",
         "date": "10/06 06:24"
-      },
-      {
-        "type": "positive",
-        "title": "Why It’s Time to Load Up on Qualcomm Stock",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZzJxLVVad1JFV3R1ZjlfN1gwRVdqaVAzNDI0TzVuSFV3bzFnSFhzQjlyMlB0bk5nNzBqOUtlbGZvMi1ITXNiLU9ZM1hlYy1GZTJkNUZadzd4OEdfaUlndk1rMzM2QnpyT2ZWVDY3dDBiYVB3Sm5KMFcxU1UtQnpQcHM1c1dmVXFVdXBFWHJR?oc=5",
-        "date": "10/07 01:06"
       }
     ],
     "VRT": [
