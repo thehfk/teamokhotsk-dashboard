@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T10:36:45.077456+00:00",
+  "updatedAt": "2026-10-11T16:27:21.424731+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1340.9,
-        "change": -0.16
+        "value": 1340.02,
+        "change": -0.22
       },
       {
         "name": "KOSPI",
@@ -684,7 +684,7 @@
               1339.74,
               1339.08,
               1342.99,
-              1340.9
+              1340.02
             ]
           }
         ]
@@ -905,40 +905,40 @@
     "AVGO": [
       {
         "type": "neutral",
+        "title": "AVGO Stock Alert: What to Know About Broadcom's $50 Billion Financing Deal for OpenAI Chips",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObU9Wc2xwM1A2RjNZaWJVM0ZLZWl3MGJBZUJhdHc5V3hQZXVKZGQzZUxrMjMyRE1EMGJXVEk0dmpzSGRZeURZc3Q5Nm1wdGkyeEprcXBILU5jNGRIT3lHcEVzVWZMbkpBYXVyZ2w4VktBdnBtRUtLUFFjMWlKc2JlZlQ3YUlHblRSRmJjQWNxelhoOFZBQm9iOGNsaTFWaWNGSXVsX2VWbWtkdmFLSmhDbUxuSTZkVUhrODBSb19XcUxWdmh0OEl0R2lHYlg3dw?oc=5",
+        "date": "10/09 05:53"
+      },
+      {
+        "type": "neutral",
+        "title": "Jim Cramer Told a Broadcom (AVGO) Holder Not to Sell, and Said He Trimmed It Himself",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNk5CdlRwWXdrU3d0dFQzZ2w4dFhPRlJnQ0pxYUhkbm5HMXZ0RWpsdDY0MEh6ZXJIdU43T21yUkVfaXl1ZWJIWEJTWWJDNUNMWHRYNEhHSG9jVW1ySE9sWFdXdnFHbUtIRWwxcmM5QzlvZ1VmY1haWTBIVG1SdDlBUmpmSHJTSENoSHp6WjFEdnNKNHN3aUZXd3lB?oc=5",
+        "date": "10/11 02:08"
+      },
+      {
+        "type": "neutral",
+        "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTRzRjJ1TVZsblR4YXpPVXAwaHpFT041SWZ4TnZZRllwSDBJYWs2LUJWS2ZnaFdUZ28xSEdkTnR5aEhHQkVFREZldkV5ZnVkRWFlVmwycTV0b2xHbTZQNDVoZEtTX1RxTkFpMGNLcnRqSmNITDZtVTBCZFBac0RWYkd2d2dFWEJ3aEdJblpOUlVlTUNaQzBoaFJGMm1OZw?oc=5",
+        "date": "10/08 20:42"
+      },
+      {
+        "type": "neutral",
         "title": "Broadcom (AVGO) Stock Looks To Trade At A Discount To Fair Value",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEhES3ZHenc1cTBURlg4cnNteDFvREU0Wjc1NHZaSUs0QVBvSF92Zkl5VGVSaHNfQWMwVGJWNC11Q1AzM3BWRDlIQ0M3S1FxaGdvbTg1dkF1cnZJaFhBS01PcjRoOXR2TTRKOHZhV2x6LUtEQ2xySER3WWN4cTdnS3RuQ2JRUUZlYWNkQWhyeEZUeFZtcHFtRGhrdUU?oc=5",
         "date": "10/09 07:17"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom: The Market Is Likely Looking At OpenAI/Anthropic All Wrong",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmJCV2dPeXdlWmFwR1dpS0xjV29BUHpQd1dtM2lJY2JYZ0dISDZSX1BKakZPZHd5aTEybkdlaHBzNUV0U0x6M1k2bHZVQ0NLYXAycFJoRzBBOVJwWXlBVjJuVnlEQkpNNENaMjkwWWNNRi0xc1FYcmNPSmZ0NDczcS1tVXRrYVVxZ2o4em9mTHRvN1NBM3JmYTNBYWVnek1qVzRZ?oc=5",
-        "date": "10/09 21:12"
-      },
-      {
-        "type": "neutral",
-        "title": "What's Going On With Broadcom Stock Friday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMVJWVERXWXBuOURnOHA2UHFLSTR2QmhGVE50ZkFsNkVEdDVCOWhIZkt6LVZvVm9RX0Y1eVQ3QU1CVXV0VHBhS3ByT0k4d1lmWG1VWmYxQ3lINll4TC1ZMnBsbm03N1RfVmo2RExSU21kMU9hVkFIWjZHczRpODJvNEhRU2Y4WDRBQlNGZE9Ic2Z1d2d1REswd3h3VFA?oc=5",
-        "date": "10/09 21:10"
-      },
-      {
-        "type": "positive",
-        "title": "Broadcom’s AI Revenue Is Tripling, but the Stock Has Lagged. Is It Time to Load Up?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1plVExnQ2ppcU9fQlpCdFp0SDNsSzRoTXF2S0NsSzFVakUzSE5mdkJfMTM3Y1JMTWtTeUR5UDducUgxVDI4eTFwbmdLYTRDLWtMNXN1WUU4MURLMWJDYUNqYVNjZ2p5SW5ac2JUSEpIUl8wN2VvLTVWVWxELWFFeUR5dVdMQ3RfSW1qeWJCeGhELWVnejZGLXNwQzdITGtp?oc=5",
-        "date": "10/10 23:43"
       }
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
+        "type": "positive",
+        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1dVakhMTW5XX1Y5R3FrUk1jaGpwSG0xSzFkNW5BV1RKNGNZa2xoWGM2ajJmaktvVHhFVzdFaVJZcjNYc0tVRFdlS0JZNUYtaG5QeXRpMlBEOGVXb2lSUUprSVBoOUcxNnd4UjIxOUVWRnoxaTV3ZG0xVE40eVZJMjdHZUFtbkJ6MWo2MUFkMnN0ZEtBdGhMeGxPLW9hc3pJQUtzQXNRcVhPLUxCQnpJaDJQX2MwcU5nQ0N5N2tPRGpsS0ZmM3dBd2xXd2RrcUQ0Z3pubTI1QlZOdDJDZW1Hby1ISDBsRVN0b2xTblp4OVo0OU1KWFg0?oc=5",
-        "date": "10/10 02:36"
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
+        "date": "10/07 20:14"
       },
       {
         "type": "neutral",
@@ -964,18 +964,18 @@
     ],
     "GOOGL": [
       {
+        "type": "neutral",
+        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+        "date": "10/11 10:05"
+      },
+      {
         "type": "positive",
         "title": "GOOGL Stock Tops Retail Pick Over AMZN, META, MSFT For Next 12 Months – But META Leads Wall Street Upside",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGVsMkU4dmFpU2llWVgtRUJQSWJTdkxnZFZSZnRvUENRYVFEb1dCYldsTFNpVFowS092TUhMcWFsczY5MngydkpNX005MDl3MThpdUFhRjFsNE1zZmJTVWI1dWl3VDBCQjZMc2w1QVl5TWIyT091aWdCVURxTGFVdUR6MlpENXVKZnIxbGxlckJfZUQ5LWxibnA1Ymc2U1p4SEZtYmI2bFdDQzNsWGlKSzJjVVVXaEFTOFhBMkYwWQ?oc=5",
         "date": "10/11 07:18"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "10/11 01:56"
       },
       {
         "type": "neutral",
@@ -994,6 +994,13 @@
     ],
     "QCOM": [
       {
+        "type": "neutral",
+        "title": "Qualcomm (QCOM) Stock Looks Fully Priced After A New Patent Deal",
+        "publisher": "Simply Wall Street",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLVJMNG95TnNFcVQ4RE1hbjJHRm9ab1lDSmIydlhJVzFWeUg3RTFvZVk3bTV6WGNrdXo5SDVwQUZ2NHpQdkhNX3lwSVdHQmEwbFZvcVFhbTRLQ2dmbmtReTV6NjRRYVp0NFZlbkJ4bWxOTjBkT05ic1NReTZVb04yMldwbUhuQ1F0SU9pN1lSTXNLTG9XRTlOd3otUjM0R3UweTM4b2hGT3AzQjd1LWVETlNDOEhiTUNfVHVTYkNiY1pUTkFIdFNXOVZsaW8yUdIB0wFBVV95cUxQajZnT1pLNnlxZEJ0VEdvRUpjVjR5MXdseDlrcnlJMFlFOW8yVlpZcHFMSGJCQlZ5c0N3WXJtWW1aRzVxbTJfblByeDVld2FVdEgwblYtclJ2MjRXWDR3b0tUSVBKWmtoU2c5MTNpU1FnYVl0cHVTMGRhZGhsYXpORUwyMGpvUFlBdnRHRndjUnkxeWZCWWxNeUp5LU16RExOR0w0aVZBOFBYTFRPeGtMb1NBUWdUNTZJajU3TDFMYUg3NUtzSldETDJkMTZZZDBQTDk0?oc=5",
+        "date": "10/11 20:34"
+      },
+      {
         "type": "positive",
         "title": "QCOM Stock Jumps 15% After-Hours — Massive AI Revenue Targets And Meta Deal Power Qualcomm Rally",
         "publisher": "Stocktwits",
@@ -1008,18 +1015,11 @@
         "date": "10/09 04:15"
       },
       {
-        "type": "neutral",
-        "title": "How Much Could You Lose In Qualcomm Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3hlRmxNaURwcVdORFpUMGV6Qjd4SGNCTW9KM1BEZ080cWpCQzdxTWQ5X2dSTV9TRmdfVG02TzhIY2xwNzRra3lzUDNNRmRmZ051SHZkVEtVRFM3dFdETHowNllBQ3dpTFM0djh6dXRyWmVhMk40Rkl0RDg4YWhJdGJpLWs1aV9aUkNUS2gxeWZKcDlDb19SM1RZTWNrTERVcDV0aA?oc=5",
-        "date": "10/05 23:54"
-      },
-      {
-        "type": "negative",
-        "title": "Qualcomm (NASDAQ:QCOM) Stock Price Down 2.2% - Here's Why",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHhmSUNqT1lUa0Nvdmd4dHg2aXNiNlZVWUpJcjdMTDVsYV9OLXRueF94eW55MGh1MVBmV0VGaFUxVWpOTVBuZG15Sy1naWpLYm45cjhXRF9PdXlmakJnTF9Sb0pQdUZHMU93alZLY0R1ZW1vaDRDZUM3ZnhZVXRkU2pPRlFfUTJmc09GQjR6R21vMURERmhHbi1UWkhBX1FsSUlCblBNV1BaMWlvSjVV?oc=5",
-        "date": "10/06 06:24"
+        "type": "positive",
+        "title": "Why Did QUALCOMM (QCOM) Stock Drop After Its Latest Update?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUHFmUEhJb1ZtSzk5OWJGRXUzeURhSng4RmY4QkxTTUtNZjVyWHVsa1B0T1lFSl9GRXlHakhBTkUwU3hybE5RVThhT0M1NVR1Sm5IV3ptSDUwX3MxN05PX05JWTFkZ1Jmd0NfUzRfR2o2YTloeUtHWFA1Q1BUazkyVzFiVlRxRkc4MWFHWndLbGtyOEZXaGd3?oc=5",
+        "date": "10/08 09:15"
       }
     ],
     "VRT": [
@@ -1046,10 +1046,10 @@
       },
       {
         "type": "neutral",
-        "title": "1 S&P 500 Stock with Exciting Potential and 2 We Brush Off",
-        "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjVkZnQ2bjNtem8yMDhlbGxWZ25RUEpGbGlWLWtLcV9lSEt6MDlyRUlJZXhFUGR1RExIcTdTaWYwRllqZlBPdWhGVGZBZ0xaUDliLUN1alVDUmFRVHRjZG5DdzY5bTEzcDhpUG1XX1hPUXJZWHhxUzJkSy05V2NuaGd1M0pUMnpYVE9aUFc5S1k5dE9faHdpU3JrdnM3LTFSOXdMbkFxOVdpQVFBcWlYSHBUWUtoVnJ3QVBaRlF1QWMyT3RGaHlBYzd0MFNCR2xxSlNuQVdVc3Q?oc=5",
-        "date": "10/05 13:33"
+        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
+        "date": "10/10 03:17"
       }
     ]
   }
