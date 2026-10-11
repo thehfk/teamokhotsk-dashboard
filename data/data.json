@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T20:27:36.010826+00:00",
+  "updatedAt": "2026-10-11T23:49:20.271143+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1340.02,
-        "change": -0.22
+        "value": 1341.54,
+        "change": -0.11
       },
       {
         "name": "KOSPI",
@@ -617,8 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1503.35,
-              1505.91,
               1498.48,
               1497.7,
               1487.88,
@@ -684,7 +682,7 @@
               1339.74,
               1339.08,
               1342.99,
-              1340.02
+              1341.54
             ]
           }
         ]
@@ -904,13 +902,6 @@
   "news": {
     "AVGO": [
       {
-        "type": "neutral",
-        "title": "Broadcom (AVGO) Stock Looks To Trade At A Discount To Fair Value",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEhES3ZHenc1cTBURlg4cnNteDFvREU0Wjc1NHZaSUs0QVBvSF92Zkl5VGVSaHNfQWMwVGJWNC11Q1AzM3BWRDlIQ0M3S1FxaGdvbTg1dkF1cnZJaFhBS01PcjRoOXR2TTRKOHZhV2x6LUtEQ2xySER3WWN4cTdnS3RuQ2JRUUZlYWNkQWhyeEZUeFZtcHFtRGhrdUU?oc=5",
-        "date": "10/09 07:17"
-      },
-      {
         "type": "positive",
         "title": "Broadcom: Growth Reliance On OpenAI And Anthropic Becomes Concerning (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
@@ -919,33 +910,33 @@
       },
       {
         "type": "neutral",
+        "title": "AVGO Stock Alert: What to Know About Broadcom's $50 Billion Financing Deal for OpenAI Chips",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObU9Wc2xwM1A2RjNZaWJVM0ZLZWl3MGJBZUJhdHc5V3hQZXVKZGQzZUxrMjMyRE1EMGJXVEk0dmpzSGRZeURZc3Q5Nm1wdGkyeEprcXBILU5jNGRIT3lHcEVzVWZMbkpBYXVyZ2w4VktBdnBtRUtLUFFjMWlKc2JlZlQ3YUlHblRSRmJjQWNxelhoOFZBQm9iOGNsaTFWaWNGSXVsX2VWbWtkdmFLSmhDbUxuSTZkVUhrODBSb19XcUxWdmh0OEl0R2lHYlg3dw?oc=5",
+        "date": "10/09 05:53"
+      },
+      {
+        "type": "neutral",
+        "title": "Jim Cramer Told a Broadcom (AVGO) Holder Not to Sell, and Said He Trimmed It Himself",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNk5CdlRwWXdrU3d0dFQzZ2w4dFhPRlJnQ0pxYUhkbm5HMXZ0RWpsdDY0MEh6ZXJIdU43T21yUkVfaXl1ZWJIWEJTWWJDNUNMWHRYNEhHSG9jVW1ySE9sWFdXdnFHbUtIRWwxcmM5QzlvZ1VmY1haWTBIVG1SdDlBUmpmSHJTSENoSHp6WjFEdnNKNHN3aUZXd3lB?oc=5",
+        "date": "10/09 11:31"
+      },
+      {
+        "type": "neutral",
         "title": "What's Going On With Broadcom Stock Friday?",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMVJWVERXWXBuOURnOHA2UHFLSTR2QmhGVE50ZkFsNkVEdDVCOWhIZkt6LVZvVm9RX0Y1eVQ3QU1CVXV0VHBhS3ByT0k4d1lmWG1VWmYxQ3lINll4TC1ZMnBsbm03N1RfVmo2RExSU21kMU9hVkFIWjZHczRpODJvNEhRU2Y4WDRBQlNGZE9Ic2Z1d2d1REswd3h3VFA?oc=5",
         "date": "10/09 21:10"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom at $375: It Looks Like the Right Time to Add AVGO Shares",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTnpGdERyMi1BeTlMQThnT3BpdFRkZHhkZ0RnOTFHeVZNZUladVpHNnpEc29wbTVEeHZvWWZlbVRUVWRqZ3lZN2NRU1dzS2ZkNXBMRElHbXJSQ1BBSF9Bc055R2xvZThqUDZveUNJZ2VxRnlqenRJRHI5NWFIUXB4UWFSSkY5aGZfdVI0ZTMwRnl3UHhiYUFn?oc=5",
-        "date": "10/09 21:45"
       }
     ],
     "BE": [
       {
-        "type": "positive",
-        "title": "BE Stock Soars 10% After-Hours On Beating Q2 Expectations, Raised 2026 Revenue Outlook; CEO Says Order Backlog Outpacing Revenue",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFlwOHFwQ3lPSGs4VGlHYnBwMTJHTktLU3Q4dlZvVVlnR0VUOEpqVWZtQ3VobnUzcFZYVWtLcVVGREw0Y3l1RW9qME5OSkRrbkozYzBmYmRxUU5pbjZuRDNsZ3pmSGtNNng2NDFiWEVYSzFLUklrR0NlaldjNlQ5c1ViOHV0NXRmVG5NNGFObHpuTU9XT3FrOGVYelh1TTNsOG84Snc5VGctZGtENmtQQkVWa1M4UFE?oc=5",
-        "date": "10/07 20:14"
-      },
-      {
         "type": "neutral",
-        "title": "(1522824.BE) Stock Forum & Discussion - Yahoo Finance",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvRkhvZmtUcHkyRmpZRGRSOW9nWkxTNFlKWWU1RUNENU5Sdk9DckQ3dFNiZEc1MDBjbW5DaUJXdklpdUpMdVdvMElLeXB2bHg5bEl5US1GVGxTM3A2ZHducWFXOVJ0NHc?oc=5",
-        "date": "10/11 14:44"
+        "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1dVakhMTW5XX1Y5R3FrUk1jaGpwSG0xSzFkNW5BV1RKNGNZa2xoWGM2ajJmaktvVHhFVzdFaVJZcjNYc0tVRFdlS0JZNUYtaG5QeXRpMlBEOGVXb2lSUUprSVBoOUcxNnd4UjIxOUVWRnoxaTV3ZG0xVE40eVZJMjdHZUFtbkJ6MWo2MUFkMnN0ZEtBdGhMeGxPLW9hc3pJQUtzQXNRcVhPLUxCQnpJaDJQX2MwcU5nQ0N5N2tPRGpsS0ZmM3dBd2xXd2RrcUQ0Z3pubTI1QlZOdDJDZW1Hby1ISDBsRVN0b2xTblp4OVo0OU1KWFg0?oc=5",
+        "date": "10/10 02:36"
       },
       {
         "type": "neutral",
@@ -960,6 +951,13 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE4zOXpfajQzQ1dFWUxwVFN0bXYzV1U4SFctWVR6dlhfQklHMTExeXlFeFg4ckljNDlsVDNtaHFLM1FuY2dFX0drZU8xcHZXZ3gzazhEaUlrdnRseGhrVlVFc19rR1ctWTNJVk52cEhHMXJ0QjFER1U3WjZGZEl1aEtDX1lNb0hKTDFmLUdnUDM0b3B1c1RCQnp6UWQ2cjRFNHlHM1kyUWE1dFR6UUEtaXp4eFpnc1E?oc=5",
         "date": "10/09 00:22"
+      },
+      {
+        "type": "positive",
+        "title": "Bloom Energy (NYSE:BE) Stock Jumps 2.7% - What's Next?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGI2WkRsc21RN1hkYW1ocFRKcFNod251bHBGUHZHY1lMR0hoV2tjZmw4UklFX0twcnRGVTlYQmFTczl0VllrRHFXMUttM3VycHRrb3NiSlEzU3lnMm9OMi1QRDRQVGI3UkpkMXg0MktJWEk1ZDB0MWtEREw3MTdCZDlkQXVJZ2hLQ0FkXzBKVmNwWEhhNVB1ZGZuZWVRQU1va0tfdVoyX3FNQQ?oc=5",
+        "date": "10/10 06:46"
       }
     ],
     "GOOGL": [
