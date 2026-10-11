@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T23:58:02.387556+00:00",
+  "updatedAt": "2026-10-11T03:58:21.786287+00:00",
   "market": {
     "cards": [
       {
@@ -904,18 +904,11 @@
   "news": {
     "AVGO": [
       {
-        "type": "neutral",
-        "title": "Jim Cramer Told a Broadcom (AVGO) Holder Not to Sell, and Said He Trimmed It Himself",
+        "type": "positive",
+        "title": "Broadcom’s AI Revenue Is Tripling, but the Stock Has Lagged. Is It Time to Load Up?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNk5CdlRwWXdrU3d0dFQzZ2w4dFhPRlJnQ0pxYUhkbm5HMXZ0RWpsdDY0MEh6ZXJIdU43T21yUkVfaXl1ZWJIWEJTWWJDNUNMWHRYNEhHSG9jVW1ySE9sWFdXdnFHbUtIRWwxcmM5QzlvZ1VmY1haWTBIVG1SdDlBUmpmSHJTSENoSHp6WjFEdnNKNHN3aUZXd3lB?oc=5",
-        "date": "10/09 11:31"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom (AVGO) Stock Looks To Trade At A Discount To Fair Value",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEhES3ZHenc1cTBURlg4cnNteDFvREU0Wjc1NHZaSUs0QVBvSF92Zkl5VGVSaHNfQWMwVGJWNC11Q1AzM3BWRDlIQ0M3S1FxaGdvbTg1dkF1cnZJaFhBS01PcjRoOXR2TTRKOHZhV2x6LUtEQ2xySER3WWN4cTdnS3RuQ2JRUUZlYWNkQWhyeEZUeFZtcHFtRGhrdUU?oc=5",
-        "date": "10/09 07:17"
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1plVExnQ2ppcU9fQlpCdFp0SDNsSzRoTXF2S0NsSzFVakUzSE5mdkJfMTM3Y1JMTWtTeUR5UDducUgxVDI4eTFwbmdLYTRDLWtMNXN1WUU4MURLMWJDYUNqYVNjZ2p5SW5ac2JUSEpIUl8wN2VvLTVWVWxELWFFeUR5dVdMQ3RfSW1qeWJCeGhELWVnejZGLXNwQzdITGtp?oc=5",
+        "date": "10/10 23:43"
       },
       {
         "type": "neutral",
@@ -930,6 +923,13 @@
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTRzRjJ1TVZsblR4YXpPVXAwaHpFT041SWZ4TnZZRllwSDBJYWs2LUJWS2ZnaFdUZ28xSEdkTnR5aEhHQkVFREZldkV5ZnVkRWFlVmwycTV0b2xHbTZQNDVoZEtTX1RxTkFpMGNLcnRqSmNITDZtVTBCZFBac0RWYkd2d2dFWEJ3aEdJblpOUlVlTUNaQzBoaFJGMm1OZw?oc=5",
         "date": "10/08 20:42"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Broadcom Stock Took a Dive Today",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZjlhMXFRWFdlOVRoblNwNjNiR3g5YklkN1FaakxRb0tkcEtsT1dkX3czTlVoRjd3ekdKbXkwY3NaT2NlZHl1OGFHOUt3dDBhYlNBeGx2cUhvTmN0andEdXlWdzMwQUpRek04a3gxd0taZDN5Vl9QUVUyOXN2ZWhOaldkYlYxQQ?oc=5",
+        "date": "10/09 07:45"
       }
     ],
     "BE": [
@@ -944,8 +944,8 @@
         "type": "neutral",
         "title": "Could Bloom Energy Stock Be Your Ticket to Generational Wealth?",
         "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUDFJNFAxaGFha0JvNHAtSUQ4SFhFSExjNFJzdzl5UUVhaTI2WGJUOEdsZGZOQTd6QTZpclFvOFhzT1hLS1RRRkk4WEd2ZDlLX2pCMW9GTi12ZDFwZG9USUFzZUJXZlRPc1gtMWZVTVhOMHRfSzE0a3VyRGNoaTJtR0Y2cVlrbE9EMEZSN05TVHBoTTJxWm9NYm9SWldlWFZRM0RkVTBaeTZ5dVlPSXgtck9yN2E0SGZPUEtXS3lncFp3bXhPQ05TZng5enJaV0RkU1lGRzVzTXROS2t3cUpLOVFzZw?oc=5",
-        "date": "10/10 23:14"
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc2xaVWJoVEdBU1BwbFBBWjA3clRPVHhkYTVDc3l0NUlfbEE2dG51MzZDTlNhdlFhaG1WSEdQdjdYV25fd1dmdS0zZTUxdWJ3amlTdGRtc204TERwYmZoQWhhR0loYzlIWjdZYWlrQVZkZ0pTWW10d0dMMTNHYVFuNk5PajhsNVZWZjVwT0U4SDBxTFhGRWZIYTQ5TzlmaFRtTmEtYmc5dV83elpGdk5WV3lKakxqNWF0bUdBRVFoV3pjNzBVVFEwa21wbTJMM25DR05aS2FnZFo2TVB3bXV4Rw?oc=5",
+        "date": "10/10 23:05"
       },
       {
         "type": "neutral",
@@ -955,11 +955,11 @@
         "date": "10/09 06:48"
       },
       {
-        "type": "neutral",
-        "title": "(3980538.BE) Stock Forum & Discussion",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VR1ZFNmVJcTJSd2tnc19kWnBvYXNNT1h3d18zZDZEbFJCaUpsN0pjdzktOFY2VU94SmtaNjFreTFPRWQ4bVgwd20tWnVzXzdhV1AzX0I3ZDdicUg0NGdSeERNcjFPbTg?oc=5",
-        "date": "10/10 13:00"
+        "type": "negative",
+        "title": "What Did Bloom Energy Stock Investors Miss Before The Run?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE4zOXpfajQzQ1dFWUxwVFN0bXYzV1U4SFctWVR6dlhfQklHMTExeXlFeFg4ckljNDlsVDNtaHFLM1FuY2dFX0drZU8xcHZXZ3gzazhEaUlrdnRseGhrVlVFc19rR1ctWTNJVk52cEhHMXJ0QjFER1U3WjZGZEl1aEtDX1lNb0hKTDFmLUdnUDM0b3B1c1RCQnp6UWQ2cjRFNHlHM1kyUWE1dFR6UUEtaXp4eFpnc1E?oc=5",
+        "date": "10/09 00:22"
       }
     ],
     "GOOGL": [
@@ -979,10 +979,10 @@
       },
       {
         "type": "positive",
-        "title": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
+        "title": "3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
         "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUE03VVBaUEgxQ1ZTM3QzdEF2OXZtOThnNjZ5Z1dOS2pGVWZ5WGd4LS01SmhuY0RNOS11b2VzTjFKV1JFLThRSnJJVTlJeFp1eUZHeW5DQTdZNjU2S3hTSUZrZURvU3RsX256ZEZXeWUwWmFpelpOUl9hUGFzRDNWWXo2WFVjUGpuRmVmTGQ2NlBqN1Z6VUowSg?oc=5",
-        "date": "10/10 14:00"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEtrVWpQOVhsZ1c2RHRTeUFreVpTcl95UWthb19Od0xzWS00dWt3VkdWWDdRVnBxdlZiNm1SNzktNXFJdTFJeGVBQndNU2NDLTY3NkJUQUttZk9MVFExTnhuOXVVdDF2QzA2TzVZVUhWM242RGk0bGZjejd2RjhXM2wzWHBuOGt4UWtjUlFKQ0lZWVFrdW8ySw?oc=5",
+        "date": "10/09 15:37"
       },
       {
         "type": "neutral",
@@ -1024,6 +1024,13 @@
     ],
     "VRT": [
       {
+        "type": "neutral",
+        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
+        "date": "10/10 03:17"
+      },
+      {
         "type": "negative",
         "title": "Why Vertiv (VRT) Stock Is Down Today",
         "publisher": "Yahoo Finance",
@@ -1043,13 +1050,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTNkaF9meWptcW82bjlIYkdFX2V4Y2ZNM05DUVQ2ZVVIbktTNFNxV191amlGZmRWWVpQOEN6ak42RFMzMTlVU0xwTVB4V3hGY2JpUUxzbXktblN6ejBQcHVaYkpDSlNxMVdxY2pzS0o0VEFrSzFvUFd3dGdBakY4VTkxYTF3V0h2NGRPd01OQk5TdnFTRUE?oc=5",
         "date": "10/08 06:20"
-      },
-      {
-        "type": "negative",
-        "title": "Vertiv (NYSE:VRT) Stock Falls 2.6% - Here's What Happened",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb1I0UEt3ZTVBUHhjQ2pPNWlVYUMzRGtuWmJvNkdIeURTM0lHRkQ2aUhLNzlKeG1iNlU5NVN6Ui1CMmF4RWNIcElhYnhoN3lqV3J6Sk5nYWNGby01VmNZWTRVa3ZsQ19ZbGhSc2tEYUdINlM0NVM2b3VQek01UlU0Zm1MTi1CS1FhSlNIM3Q1SFpxOF9EbDNXenRvVEd2blY1ZEozTy1kQTZiTGRZakRV?oc=5",
-        "date": "10/08 06:25"
       }
     ]
   }
