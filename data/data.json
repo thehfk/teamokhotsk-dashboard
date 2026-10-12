@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:49:20.271143+00:00",
+  "updatedAt": "2026-10-12T03:16:35.505277+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1341.54,
-        "change": -0.11
+        "value": 1333.73,
+        "change": -0.69
       },
       {
         "name": "KOSPI",
-        "value": 6625.93,
-        "change": -2.62
+        "value": 6464.27,
+        "change": -2.44
       },
       {
         "name": "KOSDAQ",
-        "value": 892.27,
-        "change": -0.69
+        "value": 860.7,
+        "change": -3.54
       }
     ],
     "groups": [
@@ -682,7 +682,7 @@
               1339.74,
               1339.08,
               1342.99,
-              1341.54
+              1333.73
             ]
           }
         ]
@@ -690,9 +690,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "07/08",
-          "07/09",
-          "07/10",
           "07/13",
           "07/14",
           "07/15",
@@ -751,15 +748,13 @@
           "10/02",
           "10/06",
           "10/07",
-          "10/08"
+          "10/08",
+          "10/12"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              7246.79,
-              7291.91,
-              7475.94,
               6806.93,
               6856.83,
               7284.41,
@@ -818,15 +813,13 @@
               7003.74,
               6941.39,
               6803.9,
-              6625.93
+              6625.93,
+              6464.27
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              785.0,
-              794.0,
-              837.43,
               799.36,
               783.98,
               829.43,
@@ -885,7 +878,8 @@
               893.29,
               919.92,
               898.43,
-              892.27
+              892.27,
+              860.7
             ]
           }
         ]
@@ -953,41 +947,41 @@
         "date": "10/09 00:22"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy (NYSE:BE) Stock Jumps 2.7% - What's Next?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGI2WkRsc21RN1hkYW1ocFRKcFNod251bHBGUHZHY1lMR0hoV2tjZmw4UklFX0twcnRGVTlYQmFTczl0VllrRHFXMUttM3VycHRrb3NiSlEzU3lnMm9OMi1QRDRQVGI3UkpkMXg0MktJWEk1ZDB0MWtEREw3MTdCZDlkQXVJZ2hLQ0FkXzBKVmNwWEhhNVB1ZGZuZWVRQU1va0tfdVoyX3FNQQ?oc=5",
-        "date": "10/10 06:46"
+        "type": "neutral",
+        "title": "(1522824.BE) Stock Forum & Discussion - Yahoo Finance",
+        "publisher": "Yahoo! Finance Canada",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvRkhvZmtUcHkyRmpZRGRSOW9nWkxTNFlKWWU1RUNENU5Sdk9DckQ3dFNiZEc1MDBjbW5DaUJXdklpdUpMdVdvMElLeXB2bHg5bEl5US1GVGxTM3A2ZHducWFXOVJ0NHc?oc=5",
+        "date": "10/11 14:44"
       }
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "Alphabet Is A Fortress Stock, Built To Survive (NASDAQ:GOOGL)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdmo3ZVJzOXA5MmhkMXpUbC1zLWgtaVBEcjVEbHMtdDViZHN3aWxidVJyNHpmQ3VwMkNyOUotdDQ2V1d2NExUdUd0ZVBZamJoMmZjUG9oMmpYOHhPNzhtV2ZudW1CczIwamtzdWJnTlprdzhzeUdBaEJXUGF4alZYbjJ0aGJoQ192OXhZZUNySQ?oc=5",
-        "date": "10/10 20:07"
+        "type": "positive",
+        "title": "GOOGL Stock Tops Retail Pick Over AMZN, META, MSFT For Next 12 Months – But META Leads Wall Street Upside",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGVsMkU4dmFpU2llWVgtRUJQSWJTdkxnZFZSZnRvUENRYVFEb1dCYldsTFNpVFowS092TUhMcWFsczY5MngydkpNX005MDl3MThpdUFhRjFsNE1zZmJTVWI1dWl3VDBCQjZMc2w1QVl5TWIyT091aWdCVURxTGFVdUR6MlpENXVKZnIxbGxlckJfZUQ5LWxibnA1Ymc2U1p4SEZtYmI2bFdDQzNsWGlKSzJjVVVXaEFTOFhBMkYwWQ?oc=5",
+        "date": "10/12 00:02"
       },
       {
         "type": "neutral",
-        "title": "Alphabet Introduces Gemini Agent—Can It Trigger a Breakout?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzNBTmpBU0YwLWRYZDBEdDg5T1d1VzdNQnAtSDFvWVNFMC1sQndxVklfNDJmRjBtMjVZTWRxRWJ6N0hrZm5ZNnpPOU16VHpJVUpnWkJFVEFJd1g4aFRyWHpNMmJLTm5OQzd4bENTRXhuang4V05iRVVHNVF3NUp1Y01ybnZSU05OMzFvSUk5Nm11VVI0ZXl4Qkt3?oc=5",
-        "date": "10/10 01:38"
+        "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+        "date": "10/11 21:57"
       },
       {
         "type": "positive",
-        "title": "Is Alphabet Stock Priced Right Against Its Peers?",
+        "title": "Alphabet (NASDAQ: GOOGL) stock price forecast: Analysts see 22% upside",
+        "publisher": "Beinsure",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTV9QSml6MTdaUHJzdThNUG1NaTllZDBPS3gwemUtOG15dWdEMzRjNjlVdUxuZ0N0TU80SVd2bm5mX3pJMjJYblBEanBUcmtaaVJ6SG12STdmQVRORVdLOGxvb3JJaXVrM0R0Y0hDMDdzM1hOY3IxZUc4Z3BzcDdlREN3?oc=5",
+        "date": "10/12 04:56"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet (GOOGL) Stock Looks Reasonable After Its 157% Five Year Run",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmZ2cm1CTm5vMkdUVk1aRjhTcUpPLUY3Q25jZzhyeDduUmNlTXBMVzVIdThSRGFXNzN3QVBER0dWQnpmRWgtWDZIdGRqbVRCY0pIWlJtZ2xETGpsSXNHeHBwYld4alI4THY1NzZjRlZiUUdRVGZKclBtYTlwaU0tbHZobTd5STVHeXl1Y0haeWRJYXFNb1NiYm5kNG5jSlQ5X0E?oc=5",
-        "date": "10/09 22:30"
-      },
-      {
-        "type": "positive",
-        "title": "3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEtrVWpQOVhsZ1c2RHRTeUFreVpTcl95UWthb19Od0xzWS00dWt3VkdWWDdRVnBxdlZiNm1SNzktNXFJdTFJeGVBQndNU2NDLTY3NkJUQUttZk9MVFExTnhuOXVVdDF2QzA2TzVZVUhWM242RGk0bGZjejd2RjhXM2wzWHBuOGt4UWtjUlFKQ0lZWVFrdW8ySw?oc=5",
-        "date": "10/09 15:37"
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNG9WOExjdmNuX0pMMVJWZEFFbS14WTBZT2RBV0kzRHQxbE5lVFpkNXZkcGJEeENYbHVXOUNXTW9oWC1RVzB3UE8zLXR4R1RkcnF6Skowb2EydkNMY0xqRmhrM2liVEluRTMxT0hUVjBHS24tS1lxSktHU3ZkNU9HLXlUdFIwNm03ZUVXNnFMemdHV085N3daWU1tRWNTclUxMy1DUQ?oc=5",
+        "date": "10/08 05:10"
       }
     ],
     "QCOM": [
@@ -1022,11 +1016,11 @@
     ],
     "VRT": [
       {
-        "type": "negative",
-        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
+        "type": "neutral",
+        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
-        "date": "10/11 08:45"
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
+        "date": "10/11 23:00"
       },
       {
         "type": "negative",
@@ -1037,17 +1031,17 @@
       },
       {
         "type": "negative",
+        "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
+        "date": "10/11 07:08"
+      },
+      {
+        "type": "negative",
         "title": "How Much Downside Is Left In Vertiv Stock?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVBJNnVtXzlxMTFTZUNKZl9TREZxbXJDT2MtYzBxR2NUN0VnVmh5TGgyLXpVMlZ2ZnFEcnJMVmhNb1ExZUJSbEY4dXUyTjgzbHFtdWNyU0pudlA5SkRFT2thZlJMT0JVdFd2SnBkc0MzbWw2VVhmMU5NUFRreVNwSU1YMDRHaThyMXZDVnZ1U2NPY0pSbXVmaWJQMnhFYjJHbkdR?oc=5",
         "date": "10/08 06:20"
-      },
-      {
-        "type": "neutral",
-        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
-        "date": "10/10 03:17"
       }
     ]
   }
