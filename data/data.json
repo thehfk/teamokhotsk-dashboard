@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:08:49.081872+00:00",
+  "updatedAt": "2026-10-13T09:36:10.463718+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.21,
-        "change": 2.49
+        "value": 15.38,
+        "change": 1.12
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1337.62,
-        "change": -0.4
+        "value": 1340.98,
+        "change": -0.15
       },
       {
         "name": "KOSPI",
-        "value": 5955.22,
-        "change": -6.72
+        "value": 6035.35,
+        "change": -5.46
       },
       {
         "name": "KOSDAQ",
-        "value": 807.96,
-        "change": -4.86
+        "value": 837.03,
+        "change": -1.43
       }
     ],
     "groups": [
@@ -394,7 +394,8 @@
           "10/07",
           "10/08",
           "10/09",
-          "10/12"
+          "10/12",
+          "10/13"
         ],
         "series": [
           {
@@ -465,7 +466,8 @@
               15.08,
               15.41,
               14.84,
-              15.21
+              15.21,
+              15.38
             ]
           }
         ]
@@ -678,7 +680,7 @@
               1339.74,
               1339.08,
               1342.99,
-              1337.62
+              1340.98
             ]
           }
         ]
@@ -812,7 +814,7 @@
               6803.9,
               6625.93,
               6384.24,
-              5955.22
+              6035.35
             ]
           },
           {
@@ -878,7 +880,7 @@
               898.43,
               892.27,
               849.19,
-              807.96
+              837.03
             ]
           }
         ]
@@ -896,40 +898,40 @@
     "AVGO": [
       {
         "type": "neutral",
+        "title": "Broadcom CEO Identifies Massive Capital Constraints as AI Scales Fast",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjR5Skc2SE8yTDcybXE3TGxJcHZxcV9kNlVpWXQ4SHBjQ250QTE0Z09WTERXYlhDNXJjbE02NE90ZkJGNEFyY3FZbzZrVzNTeUtXWjVRUUI2SmZjZWJ2cXp2S0h6cHlTdHlhSGwyS0Y1b2NYU205VG9oZzczRnBDUldpQ2lNeFl3X2V0RWFzcjdhV253ZFVsYXdsR1EtQUdzeGdWb1hn?oc=5",
+        "date": "10/12 23:55"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Stock: The More Google Designs, The More It May Need Hock Tan (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU01WSlh0VEczQjVXSmFLUzNTd0pQYThjQzFNZENzMWhKRUt2S0cwVGp1Wko1NDFkbXhaenlPbVJ4c0pwLS1fVS1lOXdHOHF2V21yeFZjeGQtaDFsX1ZfX2JZcEZrVkVkeGZJWXBQci0zSFBpVGRnVmEtSzEtOHZ4aHNDMW9sb2xMclJVWGhhdDhiZE05cV9lT3ZtNnI4eHFrTFZFODNhUVNZeGZHY3d6NUt3X2ZLWDFpanljbHpaY2dJSUxHNnp1OENkNWxZQQ?oc=5",
+        "date": "10/13 18:19"
+      },
+      {
+        "type": "neutral",
         "title": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWFZZl9HS0NyR1M3ejBYZFFIcEo2UTl5UE9Fb0pVa3V1SmlwZ0M5V1EyY2MwVGxxTmprdE1pRjFwSXpyM0tyNTBOZWtpX1hvanZ2X3E1aE80X2N1cVpGblA5YzNBc01HWm0yM3c0TDl0RkZrRlVIdWE3bTVDRlNoY1V1NEhOZERndTZBem9yRlFjUU44N2l3aQ?oc=5",
-        "date": "10/13 05:41"
+        "date": "10/13 12:22"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom CEO says capital will be biggest constraint for AI development: report (AVGO:NASDAQ)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXRONlVZdTk5M3huSVIwUnZlOXc4bjRJcGVIZDlrLUNZeXBEV0ZRYVVFTnNXUmxGV1M0ZDJOU2lPVDVFT3lCeEhuNG1jLV9KdktZajJqc1BxSGdZNElVVWlLSXhfVHpBVDNPZGVBa1AzYTd2Wmc0Sk9zckM4ajRUVW5YbnIyWExSOXZMSEx3dDlidHE4UEMzS1dEcmcyaUFkS3FiR045T2RrVmRYQ25FMjNMdjVPRVk?oc=5",
-        "date": "10/12 18:20"
-      },
-      {
-        "type": "neutral",
-        "title": "Here's What a $10,000 Investment in Broadcom Stock Could Be Worth in 5 Years. (Hint: It Could Be 1 of the Best AI Stocks to Buy Today.)",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3hrNnVmY00wWFdHMmI1bThaOG1paGZSU0hKVzBENHNGa3NJVngyZ0RReGpyOFBhbFFLcXpvanlrWEVnUWRpdzRVQXpONF9CQ0pCRW95Uy1WZUZtMEEtOU5Tbk9oMVZOWjZkd044MDBmWmJmNFpDSnFXQXV6T0h5NDNZSHYwUTJEWW1zS0c5Zw?oc=5",
-        "date": "10/11 00:20"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom (AVGO) CEO Criticizes Gambling Mindset Among AI Investors",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDFKbWxiX0d6Um14YnA1OW1SQmtNWHUzSlFnd3otVmltVTZfOE9ST0NYUzBpRG1LWnhNWTFLSDVwYjFBRnJKeWU1U2RlSmJNVEdwTHJHdG5waTF1WmhXNEM4VVZtYXFLTWxBa3ZoT1hPTEdGMXE4NEtIVWtSaTNVMmx3NzJhQmxYRnBkbEQ4LU9iZ2xhT1o5ZFJ3?oc=5",
-        "date": "10/13 00:50"
+        "type": "positive",
+        "title": "Broadcom’s AI Revenue Is Tripling, but the Stock Has Lagged. Is It Time to Load Up?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1plVExnQ2ppcU9fQlpCdFp0SDNsSzRoTXF2S0NsSzFVakUzSE5mdkJfMTM3Y1JMTWtTeUR5UDducUgxVDI4eTFwbmdLYTRDLWtMNXN1WUU4MURLMWJDYUNqYVNjZ2p5SW5ac2JUSEpIUl8wN2VvLTVWVWxELWFFeUR5dVdMQ3RfSW1qeWJCeGhELWVnejZGLXNwQzdITGtp?oc=5",
+        "date": "10/10 23:43"
       }
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "At 5 p.m. Eastern on Oct. 22, Bloom Energy management will discuss third-quarter results.",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGg1LTd3WGpFNGluLWRwenRJTXZEaG1Wb1BrckkzRmEzc2dmeVJsbkdMcDFHYW1HTHN0NTFES0V6TzNNUGhvdFNha0htWUxkZnEzeEJBWUI0aWo3OThfVl9lZGZpcFhrVkNJbUJ3SGNqMGxfU29CZmRnb0dudjF3eVoyRkFyNmlvZzVXdUNJS0ZMTGcxMWQzcGxrWWxKSEZmSzBWNFhzSW41ajIwOHBaS0o3RHZDS2o1?oc=5",
-        "date": "10/12 19:00"
+        "type": "negative",
+        "title": "Bloom Energy Corp (BE) Stock Down 6.5% but Still Overvalued -- G",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmQ0TVhPaUpDVnRSQ1pEVWtza2FsYkJiR1JUZWpJQk5HT04wOXNfT2Y3d01IeWxSUFFNRDlQa0o0ajhQN2VyNHlVSk1HMG1iUWU0bzdDYnNfVWw1WWJEMFFrVkRCTWh6Y016N1BxVHYwb3F1RkJiV0RzdUh2dWJnLXJVRGtmTkF6SkJ5b3NVOEhuSWpiY2dRWWxPZFVWMDdTWmNPclczRWhTRHdMQnc?oc=5",
+        "date": "10/13 06:32"
       },
       {
         "type": "negative",
@@ -939,27 +941,34 @@
         "date": "10/13 06:57"
       },
       {
-        "type": "negative",
-        "title": "Bloom Energy Corp (BE) Stock Down 6.5% but Still Overvalued -- G",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmQ0TVhPaUpDVnRSQ1pEVWtza2FsYkJiR1JUZWpJQk5HT04wOXNfT2Y3d01IeWxSUFFNRDlQa0o0ajhQN2VyNHlVSk1HMG1iUWU0bzdDYnNfVWw1WWJEMFFrVkRCTWh6Y016N1BxVHYwb3F1RkJiV0RzdUh2dWJnLXJVRGtmTkF6SkJ5b3NVOEhuSWpiY2dRWWxPZFVWMDdTWmNPclczRWhTRHdMQnc?oc=5",
-        "date": "10/13 06:31"
-      },
-      {
         "type": "neutral",
         "title": "Bloom Energy: Even Doubling Output Leaves The Stock Overvalued (NYSE:BE)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakpIRkdZMjFSQ0cyMU5YendkX0VRcVJ0R0ZqRXJvZHYwZGo0aHBoSEwzV253MWppZ2RLTk90dlZHcmlfZUVkejd0RVVwU3NFUnVZd2JpSHBRY21OTE9yX2J6SnQ1dWg1UU9BZmFwNGE0Q3F4c0t3SnZldTE3VUluX2ItSmoyOGRKSlBESDNlaVRTcFczY1dMRTEtdEF1bnhzZEF6SA?oc=5",
         "date": "10/13 04:41"
+      },
+      {
+        "type": "neutral",
+        "title": "At 5 p.m. Eastern on Oct. 22, Bloom Energy management will discuss third-quarter results.",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGg1LTd3WGpFNGluLWRwenRJTXZEaG1Wb1BrckkzRmEzc2dmeVJsbkdMcDFHYW1HTHN0NTFES0V6TzNNUGhvdFNha0htWUxkZnEzeEJBWUI0aWo3OThfVl9lZGZpcFhrVkNJbUJ3SGNqMGxfU29CZmRnb0dudjF3eVoyRkFyNmlvZzVXdUNJS0ZMTGcxMWQzcGxrWWxKSEZmSzBWNFhzSW41ajIwOHBaS0o3RHZDS2o1?oc=5",
+        "date": "10/12 19:00"
       }
     ],
     "GOOGL": [
       {
         "type": "positive",
-        "title": "GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech",
+        "title": "GOOGL Stock Inches Up Premarket: Retail Traders Are Buying The Dip After CapEx-Fueled Selloff",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDlyaGhHM3ZsRWFsaEJZU0VjY0xJOGg3bjJfUnhneTRWdV9JVmpqaXNQVlpoWldZeDl4TUNfdUhCU1hlRmJraWNEXzhFc19HZHJKVnBVOEU5SXlvR2lUcGNpTkxRRmMzRDJPMXRMbWxiTzhiUlJ1dGlTM0NMdWZEQUNVcloyakJlTDlDdlJCSHhtQnZuN1lWNVJjQ0xDRVM1VERSbnlZLVNUTnd1cEZTVXltSHZyMjQ1djdTVUdoRkUybjNOOXpJelloVnJwYzZDRWZrOGtmd0lHWmpFdmc?oc=5",
-        "date": "10/13 01:59"
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV3JVZy05Smp3ZzlqejNJTzhtaVYzQ1JyMVk0RmZqaDl5T3NmVmZ2VmFFR09OcmtPYngxM0hTWUhMNFdjRG1ERWcyaDJiWV84N2NfTTliUEt6aGxhLWRRLUwzS0RFclJMSmFDRVNCSVJYMXY3MHM0TWRkVkFKbVZ5ellLZWV5bGlxWTc0c0ZKLXFjbE5sWS1wdmxuYmZqX0xFWEFoVEt3NlpwOTRxY2ZZdkpKTEFkQzV2M0M0OVZUOVRGcHhadDdjRWR5NEZPSWxCWXVaX2tSckxsVnhmVlVVUE5aZ0M0UWVRckdBbm1B?oc=5",
+        "date": "10/13 07:17"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet (GOOGL) Stock Looks Reasonable After Its 157% Five Year Run",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNG9WOExjdmNuX0pMMVJWZEFFbS14WTBZT2RBV0kzRHQxbE5lVFpkNXZkcGJEeENYbHVXOUNXTW9oWC1RVzB3UE8zLXR4R1RkcnF6Skowb2EydkNMY0xqRmhrM2liVEluRTMxT0hUVjBHS24tS1lxSktHU3ZkNU9HLXlUdFIwNm03ZUVXNnFMemdHV085N3daWU1tRWNTclUxMy1DUQ?oc=5",
+        "date": "10/08 05:10"
       },
       {
         "type": "positive",
@@ -974,13 +983,6 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQURPMVNWSzBzMXpjbVZ2RkRuOGJQaFpEeUdKRlZxOGg0SXJmZmJ6Vk5vQ29HWVVyVnRSTXVLcXI5cjg0b0NOWmV5SllmaDc0YjhKbTlhLV9haS1QNkNMa0x4SXprbmNKRUVmV0VoUGRtNk5HbmlzRWN6VVNaajRUaWZvYU9WbGpiR3lGTkZ1by13OEVvUm5WMGszcGptN3d3eE9zZnFPeVB1cnZwUEpoTXVEdUZkbU0?oc=5",
         "date": "10/13 05:45"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Draws Bipartisan Privacy Scrutiny Over $10 Million Data Purchase",
-        "publisher": "Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlNab202M2JGaWtJZ25QNUYyTzY1dTRsYk5PSm1qNXZYcloxUUFNNWdqbF9WT0NPa0lxaW1vbHg0dUwyTVhqcnJ1cUJrY0wwZEQ2aFdzcnRPaWRzdVBtNzFzLVk1Y1VZbmF0VDBEYWp2UW94QVliLVZzUVctU3J0eWlSRVR3ZEI5VHpQRzltaUtPcmhMa1BfNUVRLXJPWm0tdlBUbEJJTDNwN1A1R0NFV0NPclZaQ2NXbF96dlJOS3IxQnPSAcgBQVVfeXFMTjRSTmFQNWNGWDZNUzJ5emphdXFxVEFYT0lFVTA0eHl1R3V0VDRHdjY4UWxGaklJcHY3NTR3RkdMaUVZYUozdVhHeDAwQjhyMXhiZjR2QWkyZ2ZrYk5jOFZSMlp3YkFZMV9sNFdMa2w5ek1neU5uaTdxTzJIUFBITW9HVHdjRjZTMGljUVJjeEQ0SS1nMHBuNDQ0UUgzSDNnb3J0cHlTM19ubU1hdEtkaFFDTEJPbGhXem5sQjh5VVEweW13UDlzX0Y?oc=5",
-        "date": "10/13 08:40"
       }
     ],
     "QCOM": [
@@ -992,25 +994,25 @@
         "date": "10/11 21:27"
       },
       {
-        "type": "positive",
-        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
-        "date": "10/12 14:01"
+        "type": "neutral",
+        "title": "Qualcomm Incorporated (NASDAQ:QCOM) Stock Has Average Target Price of $204.10",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ3dtZk5yUG1LTHF0ZjBFZC1jOW85OUs3MmpOck5lSklfZEJwUEM4QmRkcWpTdVZuaWdGbW9PenhpbllybWJMMS0tbVVzUXJhOUlLWVpiV1oyek1mYVdQUldiU0xTM1J0SXpFYkRpMk0yV1F6djRtSVhZQ0tWWVRKUUFnOFNrQlYyMWg2WG5neHlOQjdhcEoxRUlaOUdYY3h2QXNVcW9IWGJqcUhEZERCYzNHQ2tLT3VNWERpMEd6bGh2RFFSTGhJNjk5QlpvbDBGVnY4?oc=5",
+        "date": "10/13 15:58"
       },
       {
         "type": "neutral",
-        "title": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
-        "publisher": "TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iMWFlcWNlVV9oRHo5TUM3c2loU3l3aG50dDA1aHROUFV4UHVvSkVac2hOM09BV1Utd0FVOGtNY3NIUkhxeTZ6RFB2SEFScUxweWtZc2l0YWFJMkN4eTJJclIwZEoxZEJ3Z3JfY25OWVFqUEJfOGJtYVBOVXo?oc=5",
-        "date": "10/12 22:07"
+        "title": "What Changed In Qualcomm’s Story?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWlZQy1vV2JQTGd2aUNsQWlkTkFqblVndjkyZmRIUmdqanhxU21ZQTRScDBQcnhLekNjdVF0d2hCeENGcURrYTZ3WXhTS2ZmMDFXc0ZmdmZ6ZHdIYTI4dHNNM1Uyb1pnOExqclY3X1I2eUhPaTR5czFPQlpiR05YcVdDQTR0XzBWRXh2Y1lTbGNrLVRZeU1j?oc=5",
+        "date": "10/13 06:55"
       },
       {
         "type": "positive",
-        "title": "Why Qualcomm Stock Now Looks Poised to Surge Over the Longer Term",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmthZ3ZHYmtvQ0V2Mk1zRDhzWHpONXd6N0xHUktMdFFYNEVzZHY0bXdRTzNnc0h3TTNITlUxVmJwek80MFRiVy11M1VmZHdjRm1nb243MU96WXRjTjN0RFgyUmhoeEVFM3R4aEo0ZjFGLXJSV3RKbVppTmFXbklHTWtTT1JLV2N0RC1aWUw3bmFMSVNWc19aaHVSeDNlUTdwcEV5alRlOVNCbXAxelE?oc=5",
-        "date": "10/09 04:15"
+        "title": "MRVL Stock Jumps Overnight: MU, QCOM Boost Outweigh CFO’s Share Sale",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHcxOGxLUW9ISnBmUGJKQ212TXYwamxvbElFYXNGbTlRZEltRXB4SzNxNWVrUE42T2hFQmxJckNSSUtKMF80OU5BRzV1Nnc2Ymp5UlhCOEZZYkxLcGMtdndyRXRvSGtMR3NXdFIwVzlRdFg3bGNjd25lTmMwc2dMeUhjczBNRzQtU2ZIcy1oXzRDSW04cER2eG9Kc2FnZkc1cTFBZzZzTjJ4bFVXdWlHaktJdm9nMDdBYjJ1czNlN1pHaWJ0anBKU3h3?oc=5",
+        "date": "10/13 03:59"
       }
     ],
     "VRT": [
@@ -1029,11 +1031,11 @@
         "date": "10/13 06:47"
       },
       {
-        "type": "neutral",
-        "title": "Here is What to Know Beyond Why Vertiv Holdings Co. (VRT) is a Trending Stock",
+        "type": "negative",
+        "title": "Why Vertiv (VRT) Stock Is Down Today",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODFkRkFTNTltOXlTZWpJRFZLT1N6bEkwbUF2cDdHUXBNRnNEUVJRdlIyMENESm1KNGRCRGM2SlF6cVRMc01pM1lWNXNaNE43R182bXZqQUVnTnJkLVM3a25XMi1qd2dVV2dFZTF1dFJkdXRjd0R0RWZLb0otckNONGtzSDNpQUVMcmtuLWtDUFhpbThGRFduVWVWTEQ?oc=5",
-        "date": "10/12 21:00"
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdU5oVXgtOF9McGIxakpxYjFHUGJOMVN0VjBVNFROdE5tcU5ILWJPSC1JdzZrdDVBS1lXMHFrVjJiYk9qakV1THpFSmUxeFJxUmEtRDhqYkxsMEEwdGVhUHV6OGV0am9iMzhvQVpZREFrcVZ1My0wTXJPU3lrV2tMeXZ2SnFLS3p1ZDVCcXp2djJwRVlo?oc=5",
+        "date": "10/08 07:40"
       },
       {
         "type": "positive",
