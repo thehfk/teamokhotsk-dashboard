@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T05:37:17.403365+00:00",
+  "updatedAt": "2026-10-14T10:50:47.727931+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 15.27,
-        "change": 0.39
+        "value": 15.28,
+        "change": 0.07
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1338.08,
-        "change": 0.3
+        "value": 1335.68,
+        "change": 0.12
       },
       {
         "name": "KOSPI",
-        "value": 6080.56,
-        "change": 0.75
+        "value": 6008.81,
+        "change": -0.44
       },
       {
         "name": "KOSDAQ",
-        "value": 832.74,
-        "change": -0.51
+        "value": 823.88,
+        "change": -1.57
       }
     ],
     "groups": [
@@ -329,7 +329,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "07/13",
           "07/14",
           "07/15",
           "07/16",
@@ -395,13 +394,13 @@
           "10/08",
           "10/09",
           "10/12",
-          "10/13"
+          "10/13",
+          "10/14"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              17.16,
               16.5,
               15.67,
               16.73,
@@ -467,7 +466,8 @@
               15.41,
               14.84,
               15.21,
-              15.27
+              15.27,
+              15.28
             ]
           }
         ]
@@ -683,7 +683,7 @@
               1342.99,
               1340.84,
               1334.13,
-              1338.08
+              1335.68
             ]
           }
         ]
@@ -817,7 +817,7 @@
               6625.93,
               6384.24,
               6035.35,
-              6080.56
+              6008.81
             ]
           },
           {
@@ -883,7 +883,7 @@
               892.27,
               849.19,
               837.03,
-              832.74
+              823.88
             ]
           }
         ]
@@ -901,10 +901,17 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare?",
+        "title": "Broadcom’s CEO Just Compared AI Investors to Gamblers",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWFZZl9HS0NyR1M3ejBYZFFIcEo2UTl5UE9Fb0pVa3V1SmlwZ0M5V1EyY2MwVGxxTmprdE1pRjFwSXpyM0tyNTBOZWtpX1hvanZ2X3E1aE80X2N1cVpGblA5YzNBc01HWm0yM3c0TDl0RkZrRlVIdWE3bTVDRlNoY1V1NEhOZERndTZBem9yRlFjUU44N2l3aQ?oc=5",
-        "date": "10/13 12:22"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNclBQZ2ZvM1ZvUXAtZ08wZG16dVhkZEpXM1p6TTFxX2dVbkRNUHlmclZGT3VfNUpxcUlrYTdFQ3I2OXpMb01OLWNoUkpBMkJPSWs1NndRNUtnUFRvSk1heHJxTjJYaTgzeWhRZ2pQM1NuM1dIV1RkVnUtbDNsQ3AtRktqNHBVRDlnZllwSUxia2FIeVMzY1Z2cmFn?oc=5",
+        "date": "10/13 21:15"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom vs. Nvidia: The AI Revolution Is Big Enough for Both. Here's the Better Buy.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEhXdzJLdExDUTJPQ0VTYmJvZEhqWkRYYVdXa2tKUF81a3pScUZsSTVlbFJ1cklXRElFMlM0bjJNRHAxVEZuaUp1NUl1YWlaa3g5ZkVvWnRjTkU3LXR5Y0J6MjFPMWNsS3k2YzVlTE4tVGNqWWJtMk5zMjZQQ0JkdTJ2bXE0bHRHRlo4Y0VxN0M2Sk11RzFEdQ?oc=5",
+        "date": "10/13 21:14"
       },
       {
         "type": "neutral",
@@ -919,13 +926,6 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3E0dTRiZks3SnpQSDBMeFZ0WngzSHlpUmxWLUYyMjdSZXFnQi11a0ZLY09GYlYzaVRyUXladlduR3Brb2ozZlo4cERQM0tZc2lQd285LVI4MXkyN3J4UUlQUVJZU2ZLTDhYN2Z3ME9CeElZVHRTVmZDMUZIWDU1NmppQldlWXQ1V3ZpUVVXdmFmREVVc0ZiLUczTlR4dzA?oc=5",
         "date": "10/13 18:34"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom vs. Nvidia: The AI Revolution Is Big Enough for Both. Here's the Better Buy.",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEhXdzJLdExDUTJPQ0VTYmJvZEhqWkRYYVdXa2tKUF81a3pScUZsSTVlbFJ1cklXRElFMlM0bjJNRHAxVEZuaUp1NUl1YWlaa3g5ZkVvWnRjTkU3LXR5Y0J6MjFPMWNsS3k2YzVlTE4tVGNqWWJtMk5zMjZQQ0JkdTJ2bXE0bHRHRlo4Y0VxN0M2Sk11RzFEdQ?oc=5",
-        "date": "10/13 21:14"
       }
     ],
     "BE": [
@@ -937,11 +937,11 @@
         "date": "10/14 13:33"
       },
       {
-        "type": "positive",
-        "title": "Fund Update: New $23.4M $BE stock position opened by Czech National Bank",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlkzcS1UT1k3Rk5MeXh0LTcxV24tVFBWckZ6TFhUOW9VSnJ3S1RQM1l3ZHNIamZPTFMzUnhOOFVHSnZoUHNBXzdOVm40S01XbEE2d18xS3dqQmpHdzhCVG02ajJ5VXlYa1VwS0Q1N1Nab215T3RncGhkR2s5cmRvWlJaS2RsZWlYV1dPSWRESUVpLTVGcVhjSXh2LWJLelVWWmhxRkhBdURNNzZDVmtjdw?oc=5",
-        "date": "10/13 20:40"
+        "type": "neutral",
+        "title": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1dVakhMTW5XX1Y5R3FrUk1jaGpwSG0xSzFkNW5BV1RKNGNZa2xoWGM2ajJmaktvVHhFVzdFaVJZcjNYc0tVRFdlS0JZNUYtaG5QeXRpMlBEOGVXb2lSUUprSVBoOUcxNnd4UjIxOUVWRnoxaTV3ZG0xVE40eVZJMjdHZUFtbkJ6MWo2MUFkMnN0ZEtBdGhMeGxPLW9hc3pJQUtzQXNRcVhPLUxCQnpJaDJQX2MwcU5nQ0N5N2tPRGpsS0ZmM3dBd2xXd2RrcUQ0Z3pubTI1QlZOdDJDZW1Hby1ISDBsRVN0b2xTblp4OVo0OU1KWFg0?oc=5",
+        "date": "10/14 10:39"
       },
       {
         "type": "neutral",
@@ -960,18 +960,18 @@
     ],
     "GOOGL": [
       {
+        "type": "positive",
+        "title": "GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDlyaGhHM3ZsRWFsaEJZU0VjY0xJOGg3bjJfUnhneTRWdV9JVmpqaXNQVlpoWldZeDl4TUNfdUhCU1hlRmJraWNEXzhFc19HZHJKVnBVOEU5SXlvR2lUcGNpTkxRRmMzRDJPMXRMbWxiTzhiUlJ1dGlTM0NMdWZEQUNVcloyakJlTDlDdlJCSHhtQnZuN1lWNVJjQ0xDRVM1VERSbnlZLVNUTnd1cEZTVXltSHZyMjQ1djdTVUdoRkUybjNOOXpJelloVnJwYzZDRWZrOGtmd0lHWmpFdmc?oc=5",
+        "date": "10/14 06:46"
+      },
+      {
         "type": "negative",
         "title": "Does the Risk-Reward Profile Still Favor Alphabet (GOOGL) Investors?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGtfZlBWeU1jU0g5SGhWaks3ZF9wQlV2dEc3d0t4OEZFRE96enlGWmhYYnVqUzB2MG1CY01mTmtZbFR0bldEejdvaHc2Z3JqYWp0d291VmU2WUFIaVpTbGpKRFY5TkotSWstUmQtYUhXcFpoZzZJNkJjdExjRFRwQ2VLa25RR2NITUg2SU16enlTM3BhbXNlZnpJVQ?oc=5",
         "date": "10/14 06:14"
-      },
-      {
-        "type": "positive",
-        "title": "GOOGL Stock Gains Over 5%: Google Locks Major Long-Term Solar Power Deal With RWE — Retail Sees An AI Infrastructure Play",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNdzdiVGMyV2JkbVZWM3c3cTQ1YlFMQUxGOXQ1Wk9YMUNVSlFGWDFhQXBkZzhmWFlUeTA2UGtqUjhSVXJ2bFlvZVhqMGpCZHlFRVhpb2F4TnI0bjJ2bHV2Y1ZobXUyWWRfTGxMS0tNUHhpVl9BS1h5YmwzU3hVMzE2RE5LVk9lNUVaMWh4TndrN3JMNUZJcmFtOHJKWmZ2NDNWVHlXZDJ5ZW1QQU5WYl9ZZEU2RU53YnpHQV9rQ0NzQXpneDFRM19PYzY0Nm52VVU3b1h5T0Jfd0lVZ1UyTTE0b3A3Nld4dHdGZVJLYURDSVBBOV83VG1jdmEzM2hjbkZYVklFaGNCa0JtVF9xZ0wtUy1qQkZhRUw3?oc=5",
-        "date": "10/13 23:38"
       },
       {
         "type": "neutral",
@@ -998,17 +998,17 @@
       },
       {
         "type": "neutral",
-        "title": "How Much Of Qualcomm Stock Rides On One Business?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVhUYnBwWnJ3LTljUHM2cGljcVVBUXhPX0o3LWE1dEJ2cFk4T1RZUHREVHEtLXpMeGdWS3pjZ1lEa3VHamttblUxMTRrdGI5UmVsb1h5a01fUzg1Rk9kOW1mR2RlQ19QRTJQSVNiRGdJc05RVldUblhNcDVyMHpHV1VCUUE2SWx3djlnc2t3RWlMajdtRGtHTFlzOF82RzNMYk0tZVo3NmdlVmlWTmc?oc=5",
-        "date": "10/14 01:24"
-      },
-      {
-        "type": "neutral",
         "title": "Is Qualcomm (QCOM) a Good or Bad Investment at Today’s Price?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY29RQ3ZMQTQxNlFlZWxKMENZUW1Bc1lTbjZvU0RvSGpnYzhhSy02anctNzhhUTV4ODVMQ1FkajM4bm9yNk1oR2tDc3ExMjlTNVVXRnNlZnAtbjJHYThDVmdlMDIwa25QYlp4NXVLdm1TUTY0Z0ZCU0o5aGZqakFqYnhNb2M4ZkV2NlJWRXd4UmE2N0xNM1BUckg1Tm9jTEk?oc=5",
         "date": "10/14 03:19"
+      },
+      {
+        "type": "neutral",
+        "title": "How Much Of Qualcomm Stock Rides On One Business?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVhUYnBwWnJ3LTljUHM2cGljcVVBUXhPX0o3LWE1dEJ2cFk4T1RZUHREVHEtLXpMeGdWS3pjZ1lEa3VHamttblUxMTRrdGI5UmVsb1h5a01fUzg1Rk9kOW1mR2RlQ19QRTJQSVNiRGdJc05RVldUblhNcDVyMHpHV1VCUUE2SWx3djlnc2t3RWlMajdtRGtHTFlzOF82RzNMYk0tZVo3NmdlVmlWTmc?oc=5",
+        "date": "10/14 01:24"
       },
       {
         "type": "neutral",
@@ -1028,24 +1028,24 @@
       },
       {
         "type": "neutral",
+        "title": "Vertiv Holdings Co (VRT) stock price, news, quote and history",
+        "publisher": "Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lVjRQaXFDdUhrV1JmVUtvcktrZ0w5aWV2T2VfT25STkdKVEdFTWJXLUlTZVYwbHV2bGgyOFVqeGNRZG5RS0YtQ3BFZ1pjeEFYdWJ1cXg1aE9uV0xaVzVVTA?oc=5",
+        "date": "10/12 18:54"
+      },
+      {
+        "type": "neutral",
         "title": "Vertiv (VRT) Stock May Be Fully Priced After Investor Rights Probe",
         "publisher": "Simply Wall Street",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNC0zeHlsV0toZ0k5eUdiRXNKY3hzZ2dnNlRhdXZKY2twNnB1X1JhOXhMRWZvdHFQdWdnblRhSkc5WjBfODNZVUZCRlZwOGtDUUFVZzlXTmNhOXdOdk9RTFhPZm5jWk9LeVQ5UWZDUjFDMXJkNUEyTlNHTFR0UE9NUjJWR1JkcnhqQnl0VVBlZzdBN0xuQTRNWW5ueVlydVRXYlQ2aXMwNC1OeUVvMEMyM1hIalJfWkV3cUF3eEtDaDA5VlBxYmRLdnpmZWphQ0R1QUtWQmdB0gHbAUFVX3lxTE8xc0lmRElZNGNYZU9TMW1ndU5nUXgxZWhHNjYydmRGYm9jb3V5WWpXOVRIeXRtRU1IRUNQMzFreGdqSXB0bWhWOGhGSmdyMFZSM2x0MFRPay13aFc1dElCZk0yYi1VdUJTSzZXOXdqUF9LZEJfVHotVGhTT21MbmhrNDBRVnBMb3A5ekw0dTRsM2p6MlcxcmpoNkRWS0xjcnpMblIyWFhNMG0zZUJKYWg3TTE4Skw0TXNOUWVLTFBBM21fYVVHa3hPX0FHNnBZaEMyMnI5ODhhVXlPRQ?oc=5",
         "date": "10/13 05:41"
       },
       {
-        "type": "neutral",
-        "title": "Vertiv Holdings Co (VRT) stock price, news, quote and history",
-        "publisher": "Yahoo Finance Australia",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55clR5YUw0YjQ1MFd0X2VsWC1FS2lvNjFZX0w3XzR3ZGlmUXY1eDJHd09qWHY2enBLMEJDSnZmQjNWcnJ5bFZCTWlmM3k3YUszN3kxVjNZQ1ZDLVl3QzA1ZQ?oc=5",
-        "date": "10/12 13:31"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv Holdings Co. $VRT Shares Bought by Perpetual Ltd",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0FtNHhzQUllUzJjNUZQNWRXTVhvOWZFeGhxZmlVa1FaTFVBM0lFblBreW1MbVFZcThBcnk0N2pNbWlPaHcwTkp0eGVUbWdsX3V5M0pyQ0VjUnhOZldObnBSd25UUFhmMmVZRlZtMUZzcHFCcDRTVlh6WW82aDRPWW5PTi0wd3lKb052VEg5RmF2dG1OWVJ4TVBINkhmeUJBNGRiY3F5VXZzbDlSRHhneVF0RXg?oc=5",
-        "date": "10/13 20:33"
+        "type": "negative",
+        "title": "How Much Further Could Vertiv Stock Fall?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
+        "date": "09/25 16:00"
       }
     ]
   }
