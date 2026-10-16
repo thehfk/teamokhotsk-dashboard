@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T22:46:21.771604+00:00",
+  "updatedAt": "2026-10-16T00:53:32.964093+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1341.19,
-        "change": 0.14
+        "value": 1345.14,
+        "change": 0.43
       },
       {
         "name": "KOSPI",
-        "value": 6008.81,
-        "change": -0.44
+        "value": 5638.46,
+        "change": 1.52
       },
       {
         "name": "KOSDAQ",
-        "value": 823.88,
-        "change": -1.57
+        "value": 780.02,
+        "change": -5.32
       }
     ],
     "groups": [
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1487.88,
               1486.2,
               1478.85,
               1487.39,
@@ -684,7 +683,7 @@
               1334.13,
               1340.31,
               1339.35,
-              1341.19
+              1345.14
             ]
           }
         ]
@@ -692,7 +691,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "07/15",
           "07/16",
           "07/20",
           "07/21",
@@ -751,13 +749,14 @@
           "10/08",
           "10/12",
           "10/13",
-          "10/14"
+          "10/14",
+          "10/15",
+          "10/16"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              7284.41,
               6820.6,
               6516.27,
               6747.95,
@@ -816,13 +815,14 @@
               6625.93,
               6384.24,
               6035.35,
-              6008.81
+              6008.81,
+              5554.22,
+              5638.46
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              829.43,
               791.84,
               749.64,
               753.34,
@@ -881,7 +881,8 @@
               892.27,
               849.19,
               837.03,
-              823.88
+              823.88,
+              780.02
             ]
           }
         ]
@@ -890,10 +891,10 @@
   },
   "rsi": {
     "AVGO": 45.5,
-    "BE": 34.5,
+    "BE": 42.8,
     "GOOGL": 56.7,
     "QCOM": 24.4,
-    "VRT": 23.1
+    "VRT": 34.3
   },
   "news": {
     "AVGO": [
@@ -913,26 +914,33 @@
       },
       {
         "type": "neutral",
-        "title": "ChatGPT Sells Broadcom (AVGO) and Buys This Online Retailer",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUZCVU83MzdPNy1wWVRUcVJKXy1BYnZfZkw5aE1yNlZ5Y0VyanJyZTJyMUFNSDJCSEVYREpZNU5LYkN0ZzgyMWxHS0dDMFV4Z0JmeE5ZX29XNVN0QmJPQjVEbW9SNU9BUHVwajAzNHRBajlnay1LZkM0WGpZRjIzWUNQOWx1bHpISzFKRUkwNUo5dmZjLXBYLXFKT0tfUQ?oc=5",
-        "date": "10/12 22:44"
+        "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVVRSkprWFJzUXJEY01lZENlWkNqMDZyVzJzYkNSYXpmYzhTMGwzZFV3eTdzdFFTZ3A3d0Z5RzJ6SkV1SGlZR0xadjRjVkVsRU80bk53bVdldXktRVhtQzVVYUt6X3JMVGRkYVQ2VTVNN05iMkRXNWRMZXJGZ2JYamUxUC10NW1yYzdwNTFpVmJLUktRS3hyTA?oc=5",
+        "date": "10/15 01:00"
       },
       {
         "type": "neutral",
-        "title": "Broadcom Inc. $AVGO Stock: Weil Company Inc. Grows Position",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUDF0MEJSS1Jrc1JDUWFhOTNsRjU0NV9jWjJDTHZ2Vk5JVEhieTNwUV9fV3hBS3pXcV9LSHBkUjJ1OVZ0TVlYRDI0VUZscjNLN0VRUG1ZaENnaEczQy15SDJKM3BIY1NVbjYyOFYzdU1GY0RKVnVqblhaQXlRVXNad21IRlRKeDZWVm1XR3k2bUtsREFaelJmT2tFcUZPT0c1cTBQM2xTajhFMnYzMjI4a3ZwZG9lVWc?oc=5",
-        "date": "10/15 17:54"
+        "title": "One Stock Could Benefit as AI Spending Moves Beyond Nvidia",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjE2aEl4U3hLUVp1cVE4blhFb3FoNjB0NHN3V19vTHdTeV9qdThVdE5aRGdiSmhZMnNhSUI5b0haTzhvZzBsR016V0N4NFRnM0FEZnFMc29oRnBwWGdMQXNYcU5Bb0lTYU5pNnM2emx0ZWFCcHlvNkt1YVBJZWlfR09Md1VGQW1icGMzYkJwVmllM3FGekFEVkhuM01pdXNJeWpWWA?oc=5",
+        "date": "10/14 21:45"
       }
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google",
+        "type": "positive",
+        "title": "Bloom Energy (BE) Stock Dips While Market Gains: Key Facts",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWdXNWdNWmo3NGlpRUllSlhfeVk2clF1bVZPQkNVWDcwVENlQWxkSmZvV25ZUk5GU1ROWU1qSUVrSHdBV1Y2SE9EWWVObHVybjZkTTVaWWtBbkV4ekRpeWRCYXh0MmpoRU1sbUdvMUNIUEhyeVZLVDBhWWEzWXpRaEJGVUFtZHV4d0NoZGoyU0pBNXJEYW1DVE13?oc=5",
-        "date": "10/15 14:52"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW1Nd0kwalMwYUR1OEdWbmhXYXFQNTlmVUNvZUptZVBDZXlVZ3M4Wk1sekNFVlkwZ3JEQ2EyZHJwUXRpdDFCV254YzctUVVlNDZKVF9rWXhDcEJvRjkxM3N5MjBrTkc4QkRMalBVSWRNTmY1T1Jza1lydGlYMmtaOGpWQkowZno3WUNoN21nbWZyZ1cyMGYxc01R?oc=5",
+        "date": "10/16 06:15"
+      },
+      {
+        "type": "positive",
+        "title": "Bloom Energy (BE) Stock Could Be A Bargain On Cash Flow Expectations",
+        "publisher": "Simply Wall Street",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVRlMS1zbzFTT0JiQXMxWGs1bW9KUG82YXJiLXRYb2ptdVYwUV84c0NVbUhyUG52bUFEQkdSU0pGZTRETzVJTFVyZHlKb3hfa1B2SWZZNjlaeHZRVEZrdlF4QWZydUt4d2ZISlRLaXRtdVNwODd0eUlPU0NVYW9ZSmRPZE9wMTl0YTdaRDV5aU1YM051b2pPWXJmdzVxUG1LUjU1QlNjeTgwR3l5QVZKelV3V0sxSmFrSGxjT0NrVUUyTlFsTDlmc0pHOXnSAdIBQVVfeXFMUDBsbUFjUUhKU09VeXNZLWxjWnJWYVJxcFQ0RFFFdnpmanhDT1RBeGY1UVBFZUhramdjcWVRRkZnOWVINlpqd3RJbTVxSlFNWW1BM1lCUU5zcWZTd0VKS0hhZl8wRVlMMmVNSFZsWVVHNkpHSnViV1JEeGVvQXpmQ2w1Qy1haWNpbzR2dktBeG9aYnBOcnJORHB6SHR3UXJzZjJfOGotQ3hNckdLclVNSS1qWlA2eTBJczdsY0ZCa1FUdXlvM1lKSkdEUlFoNHRlY3BB?oc=5",
+        "date": "10/16 09:46"
       },
       {
         "type": "positive",
@@ -940,13 +948,6 @@
         "publisher": "Quiver Quantitative",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOHh3NGJMWnVaaC1FNGE0Z01GaHR3WjF3cjlIVFpPNnF2MXo2dHhBTDMtcElUaTdSTkpYN2ZJRHV5V0hReXlVQTZvS3M0NjVjOUdhTk5RVExyVEpzaDF2TmVvWnk1N1JuYmt5WkpFVDhZRDNtWF9FUXFIc1RpTGZZLUpEdHpEV1RyWFZIQ2piclExWi1xaUpIMVZxRnpXNHFzWHJsUEdWRWVucmxMVVBZc0FsOWpnWjNVQUNGWXlLN0JCYWtfbnY1bUJtS3Z3c0JKbmFBRHNZSEc5WXRmaWc?oc=5",
         "date": "10/16 00:43"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy Corporation $BE Stock Bought by Elemental Capital Partners LLC",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQVpVN0VmblNWYWFKel9UQzhEQ1pGOFI1UHJUeG1laFM5VU96dERzcEplQlFaNVhpV3lpalZ1dG5PczFvY24weEtoU1lxdFZqN25lZU45dkZQZmMzYno0aWhyZVdrZEVqQkRWeEJhNXp6aXRkVC1pSjcyTlotN19GZ1d3RjBXNGVMamc2d1dfcjF5enBOc08yNnJiMnl1MnRmS2Z1YktyMnlqc0dVeVdkNXBacXVwQ0kyTkFKOC1iRHpuVjVOV0JLR2Y1WXlSYjhf?oc=5",
-        "date": "10/15 16:38"
       },
       {
         "type": "positive",
@@ -1002,11 +1003,11 @@
         "date": "10/15 17:47"
       },
       {
-        "type": "neutral",
-        "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
+        "type": "negative",
+        "title": "Why Qualcomm (QCOM) Stock Is Down Today",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3VYYnpOcklLUTlBMXpHcThzRXQ1OUM4eDl1b3pnZHhZU2hsMTVZZzk2WkJNQW5Jc3lCNGNuWkJ1M25wUnZWUENGbzktTDZmUXBRNklORWE4Z0RhOXlFQkJEcDZZUFpoMFNBUFdiSC1ZYkxoYklUMUNhZS1uUDB1R3h4NlBUR1RJMjM3OHhUdGtqNDNOM0lB?oc=5",
-        "date": "10/15 15:16"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYUw5cVBxNFE3b000RHF5anNrWE81Nk04T3hQR3N1anctWjBHdGlES0s5Z1ptei1yemdVNFRpM1dBaDB5TWkwV2pGdXBubHpyMWJ6YkhETEdKT21kNHVQYnpvX1FlQjBXWC05MzF4bjFlTjROWXZnX2JXbnprSXEzZFA1cTkwVXl2Tm55bkhIb0hGQ3VyZUQyVg?oc=5",
+        "date": "09/28 16:00"
       },
       {
         "type": "neutral",
@@ -1026,17 +1027,17 @@
       },
       {
         "type": "neutral",
+        "title": "VERTIV HOLDINGS CO (VRT.NE) Stock Price, News, Quote & History",
+        "publisher": "Yahoo! Finance Canada",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41M1ZwN0xjWmZ0a2Y0eEZNVndNelVDNUQ0X21HN3MyVWlyM2k0R0dDTlZFRXZNUER4NDBCd1djYUJ0V2prNndOVUJNUS11MUNWTWFYQWlFdnpzTHdKalk5WmRZQQ?oc=5",
+        "date": "10/16 01:32"
+      },
+      {
+        "type": "neutral",
         "title": "AI infrastructure stocks tumble amid inflation, debt worries (VRT:NYSE)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNS1mRlFDcXBnQlhXaEwzYmszN2QzY0ttOGt1SllLdERkWVMxV2tDaWZuOUI2V1kwX2ZocXlmMERRWWsybHhIbE1uOFd4MHB4NC1fZnFQOF8xblQza2Q3ODBOcVpMNDBIZnZKRHN0cVluS0MzUU1YUmxwcE5NMi1fRXlDOWI0TEdyR1hWXzBzcW5tNjFXVGZmaTZjNGpIZw?oc=5",
         "date": "10/16 04:18"
-      },
-      {
-        "type": "negative",
-        "title": "Why Vertiv (VRT) Stock Is Down Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdU5oVXgtOF9McGIxakpxYjFHUGJOMVN0VjBVNFROdE5tcU5ILWJPSC1JdzZrdDVBS1lXMHFrVjJiYk9qakV1THpFSmUxeFJxUmEtRDhqYkxsMEEwdGVhUHV6OGV0am9iMzhvQVpZREFrcVZ1My0wTXJPU3lrV2tMeXZ2SnFLS3p1ZDVCcXp2djJwRVlo?oc=5",
-        "date": "10/07 16:00"
       },
       {
         "type": "neutral",
