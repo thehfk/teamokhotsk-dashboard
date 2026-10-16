@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-10-16T09:59:21.968346+00:00",
+  "updatedAt": "2026-10-16T14:36:37.223745+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7744.06,
-        "change": 0.33
+        "value": 7740.58,
+        "change": -0.04
       },
       {
         "name": "NASDAQ",
-        "value": 26713.03,
-        "change": 0.08
+        "value": 26546.52,
+        "change": -0.62
       },
       {
         "name": "다우존스",
-        "value": 52177.69,
-        "change": 1.08
+        "value": 52350.48,
+        "change": 0.33
       },
       {
         "name": "공포지수 VIX",
-        "value": 16.06,
-        "change": -2.43
+        "value": 16.14,
+        "change": -1.94
       },
       {
         "name": "미국10년금리",
         "value": 5.09,
-        "change": -1.93
+        "change": 0.0
       },
       {
         "name": "원달러환율",
-        "value": 1330.48,
-        "change": -0.66
+        "value": 1333.56,
+        "change": -0.43
       },
       {
         "name": "KOSPI",
@@ -111,7 +111,8 @@
           "10/12",
           "10/13",
           "10/14",
-          "10/15"
+          "10/15",
+          "10/16"
         ],
         "series": [
           {
@@ -181,7 +182,8 @@
               7807.24,
               7805.45,
               7718.94,
-              7744.06
+              7744.06,
+              7740.58
             ]
           },
           {
@@ -251,7 +253,8 @@
               27245.9,
               27204.38,
               26692.87,
-              26713.03
+              26713.03,
+              26546.52
             ]
           },
           {
@@ -321,7 +324,8 @@
               51850.55,
               51670.1,
               51621.48,
-              52177.69
+              52177.69,
+              52350.48
             ]
           }
         ]
@@ -467,7 +471,7 @@
               15.27,
               16.87,
               16.46,
-              16.06
+              16.14
             ]
           }
         ]
@@ -475,7 +479,6 @@
       {
         "name": "환율 / 금리",
         "labels": [
-          "07/15",
           "07/16",
           "07/17",
           "07/20",
@@ -540,13 +543,13 @@
           "10/12",
           "10/13",
           "10/14",
-          "10/15"
+          "10/15",
+          "10/16"
         ],
         "series": [
           {
             "name": "미국10년금리",
             "data": [
-              4.55,
               4.57,
               4.54,
               4.6,
@@ -611,6 +614,7 @@
               5.24,
               5.22,
               5.19,
+              5.09,
               5.09
             ]
           },
@@ -683,7 +687,7 @@
               1334.13,
               1340.31,
               1339.35,
-              1330.48
+              1333.56
             ]
           }
         ]
@@ -891,14 +895,21 @@
     ]
   },
   "rsi": {
-    "AVGO": 45.5,
-    "BE": 34.5,
-    "GOOGL": 56.7,
-    "QCOM": 24.4,
-    "VRT": 23.1
+    "AVGO": 44.3,
+    "BE": 39.7,
+    "GOOGL": 53.6,
+    "QCOM": 34.0,
+    "VRT": 26.0
   },
   "news": {
     "AVGO": [
+      {
+        "type": "negative",
+        "title": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think (AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE5QempUSld4MWlNT3BfRzJIWm9HMG1SZjUtS0R5cjEzQ3lKVUZtVFo1UUwxUXFnSkFlSkd2NFhTczBpb2h0ZTlRdVZkVmtnRVhsZHJDSFJZdjhpenlRUlFCZG54NDJlbS1LWmpfQ0dsaDlqVUY4a0NlQzROWUwtVk02dXZxYkVoNFR1SmNra3k4dTg1ZG9aaTlyN1BfRlVTalZZRW40Z3F0U2ZFa3VuQV9xVXJDcjZNNi1QN3o0YlJ0Sml5N0tJ?oc=5",
+        "date": "10/16 20:25"
+      },
       {
         "type": "negative",
         "title": "Will AI Spending Warning Change Broadcom (AVGO) Narrative",
@@ -908,24 +919,17 @@
       },
       {
         "type": "neutral",
-        "title": "Why Broadcom Is My Largest Stock Holding Today (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUC1lNFBsa2dySjhMZVRmSnh4Q0lQVGJqalRGSXVmamtxX25MeDRJaXF5NnVMcDNLR3dIZUxKMmgtZV92Zk9qRUxodkN0N250U05yVk05YmhzaDQ4MWo0NXVUWEVOMDR3bW91VFE5QUVPRlBCXzQxT0c2dmdHZmVRQmhkbVpjN1I0NFdaTmdzZHI?oc=5",
-        "date": "10/15 16:41"
-      },
-      {
-        "type": "neutral",
         "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVVRSkprWFJzUXJEY01lZENlWkNqMDZyVzJzYkNSYXpmYzhTMGwzZFV3eTdzdFFTZ3A3d0Z5RzJ6SkV1SGlZR0xadjRjVkVsRU80bk53bVdldXktRVhtQzVVYUt6X3JMVGRkYVQ2VTVNN05iMkRXNWRMZXJGZ2JYamUxUC10NW1yYzdwNTFpVmJLUktRS3hyTA?oc=5",
         "date": "10/15 01:00"
       },
       {
-        "type": "negative",
-        "title": "Why Is Broadcom Stock Falling on Wednesday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWFVdHRTV2d3UVIxNEQ4RHFfdmY0dHQzZzdvbnkzYUszMUVHV2ZYaFh4Q292R3lZOUUxdkNiSmVRdzg4bnM1cFZDNFk3T04xV3VTYmU3Sl91eXNzWWlUVk5jSE14bmpFU0hXLWZWbkw1Z2dLcjVrY0FhV09yaFpXT29LRDd2dFVyZUdwZ21LVHIzX1pyd1gyUUJqV1JDR2xSREtXYzJR?oc=5",
-        "date": "10/15 03:09"
+        "type": "neutral",
+        "title": "A $10,000 Broadcom investment in 2016 now pays $1,991 a year in dividends",
+        "publisher": "TheStreet",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkVHYzFmUW8wdEhHcTdmQUFUM1ozRVVCVjMtZ29PbHhQY0lZLVRUb0Jpb3czM1JsMzl1aThKQUlNaExEaTRPSEw0b3RjLVpZaWhua1JFdlRfeFBOYkNPTzlyemszeFRhQk84cWZSNndEbmtzRnNoemVNaE5nMkZQbVM0dDBFTWVYOUdpRGNsY3lQUFIxeUR3cnpUN2F5QnA1djdKMmIxRQ?oc=5",
+        "date": "10/15 04:17"
       }
     ],
     "BE": [
@@ -952,10 +956,10 @@
       },
       {
         "type": "neutral",
-        "title": "Bloom Energy Corporation $BE Shares Acquired by State of Alaska Department of Revenue",
+        "title": "11,398 Bloom Energy Corporation $BE Shares Acquired by NFSG Corp",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUzVtcm9kTGFmUFFxV25vZEprZVp6SG1FMXhlV2FNZ3k4eUhlNEpoQmstcVdWVThDaGd6ZXFSMmtld2p0SXVuajFkR0NpU1Flc3ZpcnNoMk1pZkd1NkRQZnE0VHJSVk1EN25YQUllcmdsa0NJODlpUWVqRUphVTNGdDVsTmVjNmJZTGE2bVZDVDAzYWo1bm5wT3FkLUNlVEwyUFdrWW5YLUVXNU5sVDhJSGJjREc5c21BaU91WDNZYTdnTHRJUjdfcWluVWpKWWdvSmtxTzM5dkllZ3M3X1E?oc=5",
-        "date": "10/16 18:19"
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTzMxTGVQbVNRMGl1M2I3TkFGZzJ6RmZNc1d3dDRxWXUyaE9TSDBXR2lYSE51R0RNdlB0SG5GQXZjSXB1Ym4wd3hVY1I2LURKaU5rWDJxOUJDaTFua194WTJSWTFjLWZ6cUMzZ3M4V0EzcFVjMDEyUElWNjZ2ekt3VjJSU2d1UVdxMURaTE9TaUJ3WjR0WkpZR2NqaTNTT1VGVkRnd2d3dnlWNFR6TVpaVXBvOHNjWVRVVWdtNUlBWFQ?oc=5",
+        "date": "10/16 19:01"
       }
     ],
     "GOOGL": [
@@ -1024,7 +1028,7 @@
         "title": "Vertiv Holdings Co (VRT) Stock Price, News, Quote & History",
         "publisher": "Yahoo! Finance Canada",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LT1pWN19FaU1Ec3psd2ZLLW5VTkpOQktrZWZ1ekt5Mzk3aFRuQ2stUE00LXlyRlNvZnFXdXlxVU1DQ0lrX1Y2NENMUVRQamVE?oc=5",
-        "date": "10/14 18:51"
+        "date": "10/14 23:05"
       },
       {
         "type": "neutral",
@@ -1035,17 +1039,17 @@
       },
       {
         "type": "neutral",
-        "title": "Vertiv Holdings Co. $VRT Shares Purchased by First Citizens Bank & Trust Co.",
+        "title": "6,872 Vertiv Holdings Co. $VRT Shares Acquired by NFSG Corp",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMHVoRFpKa3A1NGNEckh3dUpubXdFWThtVWlSbm1ZXzAwWDdqWWFFTjJnalV1Qzg5OFRiQWZSLW5fMUhjUUF1NzNJUk1sZWo4X1NldEdsV2FZRmZGaFNxdGNYcEJnRjNsMGZwV0VmeVRjMHQ3a1NwT21sNzVmaDBrSllwZEh4VFczUER4ejJxNy1MR1FGbnhkekhQTjZKOFRpcUE1dEFnVWJyaXF6MVRDVGRockE0MXk2ZTRLQUxiTElWUGMxa2REVm5hOTM?oc=5",
-        "date": "10/16 17:05"
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRndNNzBWNS1pRk8wakIwaDBTVTF3V1NTQXF1c21rSlBTM1Rka0k2aklUdXpXd0t3eF9NWkNfRVNMekZId2lZNHhQcGxfZzY0a0NkSHBaRVgyak1vb2x3bUFjNV9hNzlmTnJFWUJaWC1SRTJ0bzMtVkR4cG1tMFFsc19RSktJR0xockQtclpJelpETUxOTC11SWhXNXp4cFA1TVN1NU1tdWNHNE9kNHpBMmZ0OThQazhG?oc=5",
+        "date": "10/16 19:01"
       },
       {
         "type": "neutral",
-        "title": "Vertiv Holdings Co (VRT) stock price, news, quote and history",
-        "publisher": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lVjRQaXFDdUhrV1JmVUtvcktrZ0w5aWV2T2VfT25STkdKVEdFTWJXLUlTZVYwbHV2bGgyOFVqeGNRZG5RS0YtQ3BFZ1pjeEFYdWJ1cXg1aE9uV0xaVzVVTA?oc=5",
-        "date": "10/16 18:32"
+        "title": "Vertiv (VRT) Stock May Be Fully Priced After Investor Rights Probe",
+        "publisher": "Simply Wall Street",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNC0zeHlsV0toZ0k5eUdiRXNKY3hzZ2dnNlRhdXZKY2twNnB1X1JhOXhMRWZvdHFQdWdnblRhSkc5WjBfODNZVUZCRlZwOGtDUUFVZzlXTmNhOXdOdk9RTFhPZm5jWk9LeVQ5UWZDUjFDMXJkNUEyTlNHTFR0UE9NUjJWR1JkcnhqQnl0VVBlZzdBN0xuQTRNWW5ueVlydVRXYlQ2aXMwNC1OeUVvMEMyM1hIalJfWkV3cUF3eEtDaDA5VlBxYmRLdnpmZWphQ0R1QUtWQmdB0gHbAUFVX3lxTE8xc0lmRElZNGNYZU9TMW1ndU5nUXgxZWhHNjYydmRGYm9jb3V5WWpXOVRIeXRtRU1IRUNQMzFreGdqSXB0bWhWOGhGSmdyMFZSM2x0MFRPay13aFc1dElCZk0yYi1VdUJTSzZXOXdqUF9LZEJfVHotVGhTT21MbmhrNDBRVnBMb3A5ekw0dTRsM2p6MlcxcmpoNkRWS0xjcnpMblIyWFhNMG0zZUJKYWg3TTE4Skw0TXNOUWVLTFBBM21fYVVHa3hPX0FHNnBZaEMyMnI5ODhhVXlPRQ?oc=5",
+        "date": "10/13 05:41"
       }
     ]
   }
