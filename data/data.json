@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T16:01:35.757425+00:00",
+  "updatedAt": "2026-10-17T18:38:44.249835+00:00",
   "market": {
     "cards": [
       {
@@ -969,17 +969,10 @@
       },
       {
         "type": "neutral",
-        "title": "Here Are the 3 Magnificent Seven Stocks I'd Buy Today",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFVkS0xLN09GUzNaal9ySFBXTkxDZ3JvSk9EZm44ZGVzUjVLSUduNEcyUWJuaU1rX3pBQlk3YS1YMDlVd1pnMU5EcE8yWHlEVFc1MkJUSEVCMi1FUXZhVjJOVTcwa2FPRUM4RmtCZ19lQVF6UFJtc3p2RVdreFd0VjBuZ3ppSGtGdmRZTWpvSnU1U1pLX3k1YQ?oc=5",
-        "date": "10/16 07:41"
-      },
-      {
-        "type": "neutral",
         "title": "Does the AI Selloff Put Alphabet's Breakout in Doubt?",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkJzVHBFSFdudmdkamVxbFJDbDhzSjBEWlRsUkZ5ZkpoNi1saG9pV2NOMkIzejF5T1k0TU40SkRETTlwZEJ5dG94U1dtR1pGYUVzUHpMVmN1ZkxzNkJZdWhmTmtIaEo3MVFaY0JsQ18yeWxjWGk1TFgxTWRhWkJTVERjVW11Y2ptM0ZvS1FwYmJZQQ?oc=5",
-        "date": "10/17 23:05"
+        "date": "10/17 23:07"
       },
       {
         "type": "positive",
@@ -987,6 +980,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2RaOGFBSEJIMUNPRmFzN2djQmNqa1M1Zl84T0M0bV9EWTAzNE5qUGJrSzBHODE2ajZDZUpxSE5RMXpYQmZWYkk2SUNuRnZrNVZOdkxZclNpY1M0Ni1sNW96N2tLRDVQcGpmTC1Gd3lqZnpnSTQxZnpEVnpHdGh6SWZRaGlSLW9HS1pxeVdoSjdJNW9iQVFUQ1Fxd1RhRFlPekdjbw?oc=5",
         "date": "10/14 19:30"
+      },
+      {
+        "type": "positive",
+        "title": "Prediction: Alphabet Stock Is Going to Soar After Oct. 28",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaFlsSXh3Z2NyZnQ4LWgxckpldGMxR05EaVNHYVJ5OXV0cXoxa0RGdGxqam9PSkt2QW1fVTU4eVgxOVpfV2tBQXpnelAwQlBsT2EtWnZYcDR2OHhaMnMxSXpfUDh5OVJMdUZ1YjRJTDFWY1NXSXNQRW92ekdLaVRvcnFPTW14TkhqQVd6d1hqVmRweExNR2xZ?oc=5",
+        "date": "10/14 21:09"
       }
     ],
     "QCOM": [
@@ -1006,10 +1006,10 @@
       },
       {
         "type": "neutral",
-        "title": "CEO's family trust acquires 19,053 Qualcomm (QCOM) shares and delivers or withholds 8,232 shares.",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkFsazRoZjRNMHhMNzY2NWRJY2haV3JqQ3NFQ3NKcG10Zm0wRXpKdXJaQi1IeGxPWS0wZUlRazZ4Y200MmRmaTFQZDFUUGtrMVZIaVNTcUJYTUhXME04aUpWXzhJQ2xnQ2xMalNpeXI5YVkyWmlZTmdxczBsS3pUczQ2YlVsalA4Q20xSVE2SC1ORlI4SWI0VGRWeGtMSmFVR0FVbkVSZHdsb200Z0E?oc=5",
-        "date": "10/17 05:49"
+        "title": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTk0Vm9jZnZRLTZCbU9Oa0ZYTFVhdURibWwtRjNsMjRKWHh3OEhEQW5XWjVvZGJyOWgtOW5VajlFQVJWVnF2U3BDVnZJNEJPQWVrNHZwQnVCaFAtQkRUNW5UVDBjcXM2TDVxdktObjgxNHoza1pEb2k1T0JwaW9OMi1FSGgzQlBvblR2b1VLMm9GTVFqREJqRw?oc=5",
+        "date": "10/12 22:00"
       },
       {
         "type": "neutral",
@@ -1025,7 +1025,7 @@
         "title": "Vertiv Holdings Co (VRT) stock price, news, quote and history",
         "publisher": "Yahoo Finance Australia",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQcXdFSmhEN1hFSUtDZ0hkSUVXc0llSVFMOEJEajc0aDl2UWM5bDlUNXpUS1VBZmVOUDZMa1MwZjJndlhXcmpuQmx0TkNzMmkz?oc=5",
-        "date": "10/17 00:42"
+        "date": "10/17 03:06"
       },
       {
         "type": "neutral",
