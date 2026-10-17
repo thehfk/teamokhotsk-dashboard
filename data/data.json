@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T21:49:36.355562+00:00",
+  "updatedAt": "2026-10-17T00:02:57.103794+00:00",
   "market": {
     "cards": [
       {
@@ -889,11 +889,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 40.1,
-    "BE": 36.9,
-    "GOOGL": 47.7,
-    "QCOM": 29.7,
-    "VRT": 23.4
+    "AVGO": 45.5,
+    "BE": 34.5,
+    "GOOGL": 56.7,
+    "QCOM": 24.4,
+    "VRT": 23.1
   },
   "news": {
     "AVGO": [
@@ -966,10 +966,10 @@
       },
       {
         "type": "positive",
-        "title": "Why Is Alphabet (GOOGL) Pushing Gemini 4 Argon Into Enterprise Workflows Worldwide?",
+        "title": "Premarket Movers: DELL Slides After Barclays Downgrade, NOW And GOOGL Rise On Analyst Updates",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaDc2QklEbjJsbndOVWdoTDV3T1Q4VTZxdktnS3dMb3JiMUtHZE4zVlRWOGVUR01CdXVYUU8zN3MtbFRLZks4eDh5Vnk2WVJQM2N5T2Y3Qy1LelNTWC03WE1Xb3FPUU9wVzVuZ1NycXpycU81Qzh6cUZhMjU4aUVsWHBxLVlkSDNXejNXSnVrYXJyOTUxbnFQamZzTTZSQQ?oc=5",
-        "date": "10/17 04:11"
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2RaOGFBSEJIMUNPRmFzN2djQmNqa1M1Zl84T0M0bV9EWTAzNE5qUGJrSzBHODE2ajZDZUpxSE5RMXpYQmZWYkk2SUNuRnZrNVZOdkxZclNpY1M0Ni1sNW96N2tLRDVQcGpmTC1Gd3lqZnpnSTQxZnpEVnpHdGh6SWZRaGlSLW9HS1pxeVdoSjdJNW9iQVFUQ1Fxd1RhRFlPekdjbw?oc=5",
+        "date": "10/14 19:30"
       },
       {
         "type": "positive",
@@ -1039,11 +1039,11 @@
         "date": "10/13 05:41"
       },
       {
-        "type": "negative",
-        "title": "How Much Further Could Vertiv Stock Fall?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
-        "date": "09/25 16:00"
+        "type": "positive",
+        "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
+        "date": "10/15 04:45"
       }
     ]
   }
