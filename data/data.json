@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T21:08:29.176085+00:00",
+  "updatedAt": "2026-10-17T23:14:35.008994+00:00",
   "market": {
     "cards": [
       {
@@ -902,6 +902,13 @@
     "AVGO": [
       {
         "type": "neutral",
+        "title": "Jim Cramer Sees a Telling Change in Broadcom’s (AVGO) Stock",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTVrVkpTdDRQU3luYldpWXlpX1kzOGZ5enpLclNReFh4Y3hwWW5FS3NqRURoNzFQOXZIYjVhVURXQmZuTUUwSWVIUkR2cE1vN2VJY1F4OWdGLUtMWEhEajVkWnBZYXZqeEVxUGQwd2pDeUlWZGpIZHM0cGxFRXBILTdFNmU5REtGc2FwLWUwd2x1Z1lhd2NFaDJKQQ?oc=5",
+        "date": "10/18 07:35"
+      },
+      {
+        "type": "neutral",
         "title": "Broadcom: Trading At A 37% Discount To My Fair Value (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVFSdGJkcFJhNXNPZU1wZEtiM2xDZU1XTWRpYVl6M3hTU3BvbWFIUW5wbTMwTEFzcjZXWWtPQThqUEtkZWpybGpSWVQzbEZOUExPLTh2cTFNQU1pblQyZ0xQaGVSWjdzT29KNnZ1d2pDczdhdV9HNEVQOUZDT05HQjdHVDBESDhyYjFnMXFYZmtYcW8zNzBzVDNKZ3NKS2p3?oc=5",
@@ -909,17 +916,10 @@
       },
       {
         "type": "negative",
-        "title": "Broadcom Falls 4% as CEO Hock Tan’s Capital Warning Hangs Over AI Chips; Marvell Drops 4%",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT01feV8tRDBQQklNM1dRT09RMm1JU0REVmhyUUstLVRMZmVPb3c1dlQ1eWxPbFJnQUxjVFRqM0YtX3NBSEw1ZERQOHJWWXk1a1dzN19mTXVlRnVXMXZ5WmlTLXVJV2xvMDlsdGlKNHhLaVdWYmtXQ1VmWi1laHJ2UEY2SWxZc2UwNWJMNG1vVlg4bE03?oc=5",
-        "date": "10/17 03:02"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVVRSkprWFJzUXJEY01lZENlWkNqMDZyVzJzYkNSYXpmYzhTMGwzZFV3eTdzdFFTZ3A3d0Z5RzJ6SkV1SGlZR0xadjRjVkVsRU80bk53bVdldXktRVhtQzVVYUt6X3JMVGRkYVQ2VTVNN05iMkRXNWRMZXJGZ2JYamUxUC10NW1yYzdwNTFpVmJLUktRS3hyTA?oc=5",
-        "date": "10/15 01:00"
+        "title": "Why Is Broadcom Stock Falling on Wednesday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWFVdHRTV2d3UVIxNEQ4RHFfdmY0dHQzZzdvbnkzYUszMUVHV2ZYaFh4Q292R3lZOUUxdkNiSmVRdzg4bnM1cFZDNFk3T04xV3VTYmU3Sl91eXNzWWlUVk5jSE14bmpFU0hXLWZWbkw1Z2dLcjVrY0FhV09yaFpXT29LRDd2dFVyZUdwZ21LVHIzX1pyd1gyUUJqV1JDR2xSREtXYzJR?oc=5",
+        "date": "10/15 03:09"
       },
       {
         "type": "neutral",
@@ -975,11 +975,11 @@
         "date": "10/17 23:07"
       },
       {
-        "type": "positive",
-        "title": "Premarket Movers: DELL Slides After Barclays Downgrade, NOW And GOOGL Rise On Analyst Updates",
+        "type": "neutral",
+        "title": "META, TTD, SNAP, GOOGL, BMBL, WDAY Stocks Get New UBS Targets Amid AI And Ad Shifts",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2RaOGFBSEJIMUNPRmFzN2djQmNqa1M1Zl84T0M0bV9EWTAzNE5qUGJrSzBHODE2ajZDZUpxSE5RMXpYQmZWYkk2SUNuRnZrNVZOdkxZclNpY1M0Ni1sNW96N2tLRDVQcGpmTC1Gd3lqZnpnSTQxZnpEVnpHdGh6SWZRaGlSLW9HS1pxeVdoSjdJNW9iQVFUQ1Fxd1RhRFlPekdjbw?oc=5",
-        "date": "10/14 19:30"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGNNOXM4bG5laDJkTnQ2d0NqbURmUVYxdTRNbzE3SWxkSHlZR1JldlhDZEd6Yk9keEJFUjAxQjJHakI1SkR3QTZQcTR4aTIzX19SVERHYjZ2Vl9yeVktODhEVTdPcEVmQVc4QkFuTDNJZkNidmF6UG5sdmhIMXNKaWZiOU9nNjBlX0twZFYwXzFiYW1iZk0w?oc=5",
+        "date": "10/14 22:11"
       },
       {
         "type": "positive",
@@ -998,18 +998,18 @@
         "date": "10/17 12:02"
       },
       {
-        "type": "neutral",
-        "title": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTk0Vm9jZnZRLTZCbU9Oa0ZYTFVhdURibWwtRjNsMjRKWHh3OEhEQW5XWjVvZGJyOWgtOW5VajlFQVJWVnF2U3BDVnZJNEJPQWVrNHZwQnVCaFAtQkRUNW5UVDBjcXM2TDVxdktObjgxNHoza1pEb2k1T0JwaW9OMi1FSGgzQlBvblR2b1VLMm9GTVFqREJqRw?oc=5",
-        "date": "10/12 22:00"
-      },
-      {
         "type": "positive",
         "title": "QCOM Stock Drops Nearly 8% After Hours — Qualcomm’s Q3 EPS Misses, Weak Q4 Outlook Overshadows Revenue Beat",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN1VSVzNDdDAxeFdoQmJFY3dVMExzdHVCSEtvWkpNendQNWtVOWM4NFNIYTZHM1RZZzJBQ0dmRmQ3QVZpdVF5LUNhNkUzSWl1dzBOTHZqRTZiTXlWbmc0d2N4eDB5YVN5UkEtTTZLS0IxWWNNczVZNkY3QmJJb29Hd2JEMHhUcXljakY4X1lrZ3N1ZnRwS0ZDblF0Qi1hV1VVdWt2alh4YTB6OGxYbFdGR1pqeG0zbzkzazA3NUtKQ1k4UkV0MHhOcmNkbmRDYm1pNGRsUGNHS2FxQ1BMTzFabVNlM2wySUtMVVo2ZGZuc1VoT29zb2taNWdmX3VsTm9ZeFhZ?oc=5",
         "date": "10/15 08:14"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTk0Vm9jZnZRLTZCbU9Oa0ZYTFVhdURibWwtRjNsMjRKWHh3OEhEQW5XWjVvZGJyOWgtOW5VajlFQVJWVnF2U3BDVnZJNEJPQWVrNHZwQnVCaFAtQkRUNW5UVDBjcXM2TDVxdktObjgxNHoza1pEb2k1T0JwaW9OMi1FSGgzQlBvblR2b1VLMm9GTVFqREJqRw?oc=5",
+        "date": "10/12 22:00"
       },
       {
         "type": "positive",
@@ -1022,10 +1022,17 @@
     "VRT": [
       {
         "type": "neutral",
-        "title": "Vertiv Holdings Co (VRT) stock price, news, quote and history",
-        "publisher": "Yahoo Finance Australia",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQcXdFSmhEN1hFSUtDZ0hkSUVXc0llSVFMOEJEajc0aDl2UWM5bDlUNXpUS1VBZmVOUDZMa1MwZjJndlhXcmpuQmx0TkNzMmkz?oc=5",
-        "date": "10/17 05:14"
+        "title": "Vertiv Holdings Co (VRT) Stock Price, News, Quote & History",
+        "publisher": "Yahoo! Finance Canada",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LT1pWN19FaU1Ec3psd2ZLLW5VTkpOQktrZWZ1ekt5Mzk3aFRuQ2stUE00LXlyRlNvZnFXdXlxVU1DQ0lrX1Y2NENMUVRQamVE?oc=5",
+        "date": "10/17 06:32"
+      },
+      {
+        "type": "positive",
+        "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
+        "date": "10/17 14:11"
       },
       {
         "type": "neutral",
@@ -1040,13 +1047,6 @@
         "publisher": "Simply Wall Street",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNC0zeHlsV0toZ0k5eUdiRXNKY3hzZ2dnNlRhdXZKY2twNnB1X1JhOXhMRWZvdHFQdWdnblRhSkc5WjBfODNZVUZCRlZwOGtDUUFVZzlXTmNhOXdOdk9RTFhPZm5jWk9LeVQ5UWZDUjFDMXJkNUEyTlNHTFR0UE9NUjJWR1JkcnhqQnl0VVBlZzdBN0xuQTRNWW5ueVlydVRXYlQ2aXMwNC1OeUVvMEMyM1hIalJfWkV3cUF3eEtDaDA5VlBxYmRLdnpmZWphQ0R1QUtWQmdB0gHbAUFVX3lxTE8xc0lmRElZNGNYZU9TMW1ndU5nUXgxZWhHNjYydmRGYm9jb3V5WWpXOVRIeXRtRU1IRUNQMzFreGdqSXB0bWhWOGhGSmdyMFZSM2x0MFRPay13aFc1dElCZk0yYi1VdUJTSzZXOXdqUF9LZEJfVHotVGhTT21MbmhrNDBRVnBMb3A5ekw0dTRsM2p6MlcxcmpoNkRWS0xjcnpMblIyWFhNMG0zZUJKYWg3TTE4Skw0TXNOUWVLTFBBM21fYVVHa3hPX0FHNnBZaEMyMnI5ODhhVXlPRQ?oc=5",
         "date": "10/13 05:41"
-      },
-      {
-        "type": "positive",
-        "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
-        "date": "10/15 04:45"
       }
     ]
   }
