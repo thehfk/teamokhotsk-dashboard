@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T12:35:29.253965+00:00",
+  "updatedAt": "2026-10-17T16:01:35.757425+00:00",
   "market": {
     "cards": [
       {
@@ -902,17 +902,17 @@
     "AVGO": [
       {
         "type": "negative",
-        "title": "Broadcom Falls 4% as CEO Hock Tan’s Capital Warning Hangs Over AI Chips; Marvell Drops 4%",
+        "title": "Broadcom Inc. (AVGO) Falls More Steeply Than Broader Market: What Investors Need to Know",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT01feV8tRDBQQklNM1dRT09RMm1JU0REVmhyUUstLVRMZmVPb3c1dlQ1eWxPbFJnQUxjVFRqM0YtX3NBSEw1ZERQOHJWWXk1a1dzN19mTXVlRnVXMXZ5WmlTLXVJV2xvMDlsdGlKNHhLaVdWYmtXQ1VmWi1laHJ2UEY2SWxZc2UwNWJMNG1vVlg4bE03?oc=5",
-        "date": "10/17 03:02"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWRYUTNxSlRMa2VXWEcxWm10VHh4WGtaVUdaQjNrWU91UURTNEtwV1U4UTRaZkxhQjNmNWNXand4N0xpUURCSjdEUlNJNnJMZi0zNXVOMU0yOUdxVjJfeml0SFZ2Y2VLLXpwSThvQ1Q2NEVjOUFxMWVnMWFhLXJDV3VLZlA0Unc5cy00dUt5SHZZQkhiUXE2bw?oc=5",
+        "date": "10/17 05:45"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think (AVGO)",
+        "type": "neutral",
+        "title": "Broadcom: Trading At A 37% Discount To My Fair Value (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE5QempUSld4MWlNT3BfRzJIWm9HMG1SZjUtS0R5cjEzQ3lKVUZtVFo1UUwxUXFnSkFlSkd2NFhTczBpb2h0ZTlRdVZkVmtnRVhsZHJDSFJZdjhpenlRUlFCZG54NDJlbS1LWmpfQ0dsaDlqVUY4a0NlQzROWUwtVk02dXZxYkVoNFR1SmNra3k4dTg1ZG9aaTlyN1BfRlVTalZZRW40Z3F0U2ZFa3VuQV9xVXJDcjZNNi1QN3o0YlJ0Sml5N0tJ?oc=5",
-        "date": "10/16 20:25"
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVFSdGJkcFJhNXNPZU1wZEtiM2xDZU1XTWRpYVl6M3hTU3BvbWFIUW5wbTMwTEFzcjZXWWtPQThqUEtkZWpybGpSWVQzbEZOUExPLTh2cTFNQU1pblQyZ0xQaGVSWjdzT29KNnZ1d2pDczdhdV9HNEVQOUZDT05HQjdHVDBESDhyYjFnMXFYZmtYcW8zNzBzVDNKZ3NKS2p3?oc=5",
+        "date": "10/17 21:00"
       },
       {
         "type": "neutral",
@@ -931,18 +931,18 @@
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "Bloom Energy Corporation $BE Stock Acquired by Assenagon Asset Management S.A.",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXpQMGRwaEVMTnI1WUNzNjk5RGJKZS1BVC1wUF9Fd0g2Z0xHX1l1VHJ3LUtLMXVPVGpFXzU0UG00Q2tuRXRTZ2tkVHEzMVVBRWtfZUZWRGZnU01OcVZzdVdyQloxaW5oalBUN3NsdjhxWWF5UWhod1RQdlE5dzgtTEt0anpLVzhNNlB0eUwxSEN5OW96Tkw5VjV3MExmcHpSVVZNNlZpTnNrazItNnVsOV9Wa04tbWNZVjdCTzVRUzAzMWhNTTJUS3htYklJZmpzOHc?oc=5",
-        "date": "10/17 16:37"
-      },
-      {
         "type": "positive",
         "title": "Bloom Energy (BE) Stock Dips While Market Gains: Key Facts",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW1Nd0kwalMwYUR1OEdWbmhXYXFQNTlmVUNvZUptZVBDZXlVZ3M4Wk1sekNFVlkwZ3JEQ2EyZHJwUXRpdDFCV254YzctUVVlNDZKVF9rWXhDcEJvRjkxM3N5MjBrTkc4QkRMalBVSWRNTmY1T1Jza1lydGlYMmtaOGpWQkowZno3WUNoN21nbWZyZ1cyMGYxc01R?oc=5",
         "date": "10/16 06:15"
+      },
+      {
+        "type": "neutral",
+        "title": "Bloom Energy Corporation $BE Stock Acquired by Assenagon Asset Management S.A.",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXpQMGRwaEVMTnI1WUNzNjk5RGJKZS1BVC1wUF9Fd0g2Z0xHX1l1VHJ3LUtLMXVPVGpFXzU0UG00Q2tuRXRTZ2tkVHEzMVVBRWtfZUZWRGZnU01OcVZzdVdyQloxaW5oalBUN3NsdjhxWWF5UWhod1RQdlE5dzgtTEt0anpLVzhNNlB0eUwxSEN5OW96Tkw5VjV3MExmcHpSVVZNNlZpTnNrazItNnVsOV9Wa04tbWNZVjdCTzVRUzAzMWhNTTJUS3htYklJZmpzOHc?oc=5",
+        "date": "10/17 16:37"
       },
       {
         "type": "neutral",
@@ -975,18 +975,18 @@
         "date": "10/16 07:41"
       },
       {
+        "type": "neutral",
+        "title": "Does the AI Selloff Put Alphabet's Breakout in Doubt?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkJzVHBFSFdudmdkamVxbFJDbDhzSjBEWlRsUkZ5ZkpoNi1saG9pV2NOMkIzejF5T1k0TU40SkRETTlwZEJ5dG94U1dtR1pGYUVzUHpMVmN1ZkxzNkJZdWhmTmtIaEo3MVFaY0JsQ18yeWxjWGk1TFgxTWRhWkJTVERjVW11Y2ptM0ZvS1FwYmJZQQ?oc=5",
+        "date": "10/17 23:05"
+      },
+      {
         "type": "positive",
         "title": "Premarket Movers: DELL Slides After Barclays Downgrade, NOW And GOOGL Rise On Analyst Updates",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2RaOGFBSEJIMUNPRmFzN2djQmNqa1M1Zl84T0M0bV9EWTAzNE5qUGJrSzBHODE2ajZDZUpxSE5RMXpYQmZWYkk2SUNuRnZrNVZOdkxZclNpY1M0Ni1sNW96N2tLRDVQcGpmTC1Gd3lqZnpnSTQxZnpEVnpHdGh6SWZRaGlSLW9HS1pxeVdoSjdJNW9iQVFUQ1Fxd1RhRFlPekdjbw?oc=5",
         "date": "10/14 19:30"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet’s YouTube Is Preparing to Launch a Audiobook Feature to Compete with Spotify. GOOGL Stock Could Get a Boost.",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXlSRWVIdkx3YndrQ1pFcjItY3B3ZkU2YTkzSklRN0htTW9leDhnSkd6czZZZ1NNbFY5dElSbmlIeUxPaWNFUnNDNWhWS2NzV2RGZU5ycVBvbFoyb0RJeE5oRFQyd1pKTXA1eWpXQnpZQVQ2SzJ1VUxETUgwamRNcVhJanRqbG5vRWJDNHdxeTBPNzhYRGg1VElUTTlQRUt0RkE?oc=5",
-        "date": "10/15 18:46"
       }
     ],
     "QCOM": [
@@ -998,11 +998,11 @@
         "date": "10/17 12:02"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
+        "type": "positive",
+        "title": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb3p4WjA3U3FJZXpjWjNJbm1wZFFHa0IzYlJnRE4xNkFvRUczUkxjZ2x4aWRRRW5FamFHRjVNNlM4eUh3S1E2bzJzZTN1YlptQ0ZWQUM1eEpOMGFrMHprVWZEOFJkTGdBSW5PNDJlalUzNEowMmktNTFJX3hSdXRtc3d0RzljcUpXLWVUUFAyZUViR1FzTFE1SzBDSjlUX1hNN0xGS0dxd0ZWRE5jZ0FJMnlFVWZOUkplZ0hQM0xNcjdwRTF3ZFEtYVh6Vi1DX0FkSEVrWlp3dFhJNFYtb0JCcDJybkw5SlpkYnFqLUEyckZheTBzbVNV?oc=5",
-        "date": "10/17 08:19"
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZnBkUllaNU5SbGNWNjQ2NVpKZlF6bFFuRGV5QklhVHVkQzB3cGpMMF9BUFV3OXlxRXJqZXgtdS1jS1Fuby1HTWV3TzRLNWNZdmlQZ1VxWk02WExOTkU2amYyUUtsZjVhNTl5RXNfRThRa2NneERHdFdGOFhDWWd3bUhySEZwRmdXNTZ4Zlo0N29OY2t6cEtyc0NJSVhGRTl3WjE1V3UtaVRpZ05EbThTekVwYmltbHhWSnd2MmdoRHdRV3R0MU81anB0RWFfdmQyc2NTRXpzemZLQlF2dDJqSGx5Z0F1ekVoMFBmZ1F2Qlo5MXFIX2ZPMEktWQ?oc=5",
+        "date": "10/17 10:49"
       },
       {
         "type": "neutral",
@@ -1022,17 +1022,17 @@
     "VRT": [
       {
         "type": "neutral",
+        "title": "Vertiv Holdings Co (VRT) stock price, news, quote and history",
+        "publisher": "Yahoo Finance Australia",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQcXdFSmhEN1hFSUtDZ0hkSUVXc0llSVFMOEJEajc0aDl2UWM5bDlUNXpUS1VBZmVOUDZMa1MwZjJndlhXcmpuQmx0TkNzMmkz?oc=5",
+        "date": "10/17 00:42"
+      },
+      {
+        "type": "neutral",
         "title": "Vertiv Holdings Co. $VRT Stock: Annex Advisory Services LLC Raises Holdings",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3FpSERleEdwYWh0UEhMV0t2U1FOcGRGSTl4LXBtVkdsNWxFXzB6cUpiQ3VMbDdjaVVCZXJ4Q09oMFFKOTFoS2FXbzFITkRYcDdJVnZGT0l1RzJFbEFSVE1RNlpNSTVrY21pWmJqVDNsaHJ5T1UybWdQckJQY1ozTlh1bzZWd0tIQ0xMQXJXeXZubU84a3hzR0NOcXVKWjJXbmpHVnVHcFRmaFlVTThEaS1BZWJYR19LREFpcTA3WWV1TXE5cUFyMUpkT1RpZw?oc=5",
         "date": "10/17 16:37"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv Holdings, LLC (VRT) Stock forecasts",
-        "publisher": "Yahoo Finance Australia",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0lFRGEwcVI3OFdxN3RjTjZKTFRVT2VEN1o2ZnNjdmlkX3Q4QjIzZFFqRFZBMDFKY2diTFUybG91NXQ4aFJKcHgxblh0c0loekxSWDRBNk1yRXBtTHRjazZrOUhON0tHWHJfaWdRd3RNbHY4UHJadkpURjJzeDM5bmd6dGdSeUktaUFKYm5neHQwVkk?oc=5",
-        "date": "10/17 08:27"
       },
       {
         "type": "neutral",
