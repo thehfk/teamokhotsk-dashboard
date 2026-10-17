@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T00:02:57.103794+00:00",
+  "updatedAt": "2026-10-17T04:44:44.289410+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1334.2,
-        "change": -0.5
+        "value": 1329.6,
+        "change": -0.85
       },
       {
         "name": "KOSPI",
-        "value": 5554.22,
-        "change": -7.57
+        "value": 5668.05,
+        "change": 2.05
       },
       {
         "name": "KOSDAQ",
-        "value": 760.82,
-        "change": -7.65
+        "value": 794.78,
+        "change": 4.46
       }
     ],
     "groups": [
@@ -684,7 +684,7 @@
               1340.31,
               1339.35,
               1340.95,
-              1334.2
+              1329.6
             ]
           }
         ]
@@ -751,7 +751,8 @@
           "10/12",
           "10/13",
           "10/14",
-          "10/15"
+          "10/15",
+          "10/16"
         ],
         "series": [
           {
@@ -816,7 +817,8 @@
               6384.24,
               6035.35,
               6008.81,
-              5554.22
+              5554.22,
+              5668.05
             ]
           },
           {
@@ -881,7 +883,8 @@
               849.19,
               837.03,
               823.88,
-              760.82
+              760.82,
+              794.78
             ]
           }
         ]
@@ -889,20 +892,20 @@
     ]
   },
   "rsi": {
-    "AVGO": 45.5,
-    "BE": 34.5,
-    "GOOGL": 56.7,
-    "QCOM": 24.4,
-    "VRT": 23.1
+    "AVGO": 40.1,
+    "BE": 36.9,
+    "GOOGL": 47.7,
+    "QCOM": 29.7,
+    "VRT": 23.4
   },
   "news": {
     "AVGO": [
       {
         "type": "negative",
-        "title": "Will AI Spending Warning Change Broadcom (AVGO) Narrative",
+        "title": "Broadcom Inc. (AVGO) Falls More Steeply Than Broader Market: What Investors Need to Know",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1k3cjRjd2hzNWtEbXF4TGlHS1YxSHY5SWdGeUhVSWZtaW9wYkFlNUZsVy15bzNGZ21mWHN3WDJyWFNCRGNSSGYzQ0xyNEZyVnFHR2ZtM1hXSlBlSGE3anFSMzdIdzczNW5BQnBBU0JQLUtJckkxZjQta2EwYUZLY1FDaExncXEyR3A5Vkc5TUx5cHB2Y3NrakdlYUFpeVFEb3c?oc=5",
-        "date": "10/16 12:13"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWRYUTNxSlRMa2VXWEcxWm10VHh4WGtaVUdaQjNrWU91UURTNEtwV1U4UTRaZkxhQjNmNWNXand4N0xpUURCSjdEUlNJNnJMZi0zNXVOMU0yOUdxVjJfeml0SFZ2Y2VLLXpwSThvQ1Q2NEVjOUFxMWVnMWFhLXJDV3VLZlA0Unc5cy00dUt5SHZZQkhiUXE2bw?oc=5",
+        "date": "10/17 05:45"
       },
       {
         "type": "negative",
@@ -989,6 +992,13 @@
     "QCOM": [
       {
         "type": "neutral",
+        "title": "Should You Buy Qualcomm Stock For Its Cash?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYk90ZFZ1RnRrRDhSUDZKQ2R0SlhsRnl0NEVVTEUxY0hwYnJ5cnR5RVhOdXRfdzJQLVU2WDM3TzFxQ0ZORVBYN1lwMV9WZDJCSVNFc2d4SVRRWXdISU42QVVhSGNTQU9hMFljMl9JaWN4cGRDUWtQc2dRN3dzeFNZQUhLdDZVUDBzMFdreTVpZjFWcUtKeXJCNm84U2VIV05NZ05tMHZ3?oc=5",
+        "date": "10/17 12:02"
+      },
+      {
+        "type": "neutral",
         "title": "CEO's family trust acquires 19,053 Qualcomm (QCOM) shares and delivers or withholds 8,232 shares.",
         "publisher": "Stock Titan",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkFsazRoZjRNMHhMNzY2NWRJY2haV3JqQ3NFQ3NKcG10Zm0wRXpKdXJaQi1IeGxPWS0wZUlRazZ4Y200MmRmaTFQZDFUUGtrMVZIaVNTcUJYTUhXME04aUpWXzhJQ2xnQ2xMalNpeXI5YVkyWmlZTmdxczBsS3pUczQ2YlVsalA4Q20xSVE2SC1ORlI4SWI0VGRWeGtMSmFVR0FVbkVSZHdsb200Z0E?oc=5",
@@ -1003,17 +1013,10 @@
       },
       {
         "type": "positive",
-        "title": "QCOM Stock Drops 2% — Qualcomm Reportedly Plans Chip Price Hikes Amid Rising Supply Costs",
+        "title": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDZkMGpmNlVtcmRaVDlNeFk1YzZKbkJiTldKcmJORWl5ZjlESHdMRWQ2Q2pYQjAyQzByX0tKTDV1bGNuNF9GZHc2cVNhWUJ3d0Iydm1zaXV2S0tLbXM4YWVGR0JvNkZaNDhLU2pkSF8wVlhzdXhFMThwRUxmREFIQ1d3c1FCVjI5MGZwUFNFSzRrRXZuYkVoQlhqdHdTVE5FdE05MUtOQS1yajZWWllvNWhSbGJZVjJaeDNUUFdSbFZfOUlTajdaSzZKSQ?oc=5",
-        "date": "10/15 03:20"
-      },
-      {
-        "type": "neutral",
-        "title": "How Much Could You Lose In Qualcomm Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3hlRmxNaURwcVdORFpUMGV6Qjd4SGNCTW9KM1BEZ080cWpCQzdxTWQ5X2dSTV9TRmdfVG02TzhIY2xwNzRra3lzUDNNRmRmZ051SHZkVEtVRFM3dFdETHowNllBQ3dpTFM0djh6dXRyWmVhMk40Rkl0RDg4YWhJdGJpLWs1aV9aUkNUS2gxeWZKcDlDb19SM1RZTWNrTERVcDV0aA?oc=5",
-        "date": "10/05 16:00"
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZnBkUllaNU5SbGNWNjQ2NVpKZlF6bFFuRGV5QklhVHVkQzB3cGpMMF9BUFV3OXlxRXJqZXgtdS1jS1Fuby1HTWV3TzRLNWNZdmlQZ1VxWk02WExOTkU2amYyUUtsZjVhNTl5RXNfRThRa2NneERHdFdGOFhDWWd3bUhySEZwRmdXNTZ4Zlo0N29OY2t6cEtyc0NJSVhGRTl3WjE1V3UtaVRpZ05EbThTekVwYmltbHhWSnd2MmdoRHdRV3R0MU81anB0RWFfdmQyc2NTRXpzemZLQlF2dDJqSGx5Z0F1ekVoMFBmZ1F2Qlo5MXFIX2ZPMEktWQ?oc=5",
+        "date": "10/16 15:39"
       }
     ],
     "VRT": [
@@ -1023,13 +1026,6 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalpyT0V2R2Q1eTZvbXFUcHJUQ3I4bnlkRWxCZDAzSGlJTllvZDFaaFdKV3dlaTlGSmpHeWlRQnVZVzNzQnh5T3M5TzBrSUtvWUpZclR6U0F6UFVvLWstM0l2VFl2SVlkbHd3Uk1Za09WQkt4VWR5Z09UcUxCYXNoYzAwMFRQWWV6WVlxOVVINEJZcjEya0ZJTTJLUzI3U3VmbUppRzNUNmdJemlwalI4?oc=5",
         "date": "10/17 06:07"
-      },
-      {
-        "type": "neutral",
-        "title": "Here is What to Know Beyond Why Vertiv Holdings Co. (VRT) is a Trending Stock",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODFkRkFTNTltOXlTZWpJRFZLT1N6bEkwbUF2cDdHUXBNRnNEUVJRdlIyMENESm1KNGRCRGM2SlF6cVRMc01pM1lWNXNaNE43R182bXZqQUVnTnJkLVM3a25XMi1qd2dVV2dFZTF1dFJkdXRjd0R0RWZLb0otckNONGtzSDNpQUVMcmtuLWtDUFhpbThGRFduVWVWTEQ?oc=5",
-        "date": "10/12 21:00"
       },
       {
         "type": "neutral",
@@ -1044,6 +1040,13 @@
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
         "date": "10/15 04:45"
+      },
+      {
+        "type": "negative",
+        "title": "How Much Further Could Vertiv Stock Fall?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
+        "date": "09/25 16:00"
       }
     ]
   }
