@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T18:38:44.249835+00:00",
+  "updatedAt": "2026-10-17T21:08:29.176085+00:00",
   "market": {
     "cards": [
       {
@@ -901,13 +901,6 @@
   "news": {
     "AVGO": [
       {
-        "type": "negative",
-        "title": "Broadcom Inc. (AVGO) Falls More Steeply Than Broader Market: What Investors Need to Know",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWRYUTNxSlRMa2VXWEcxWm10VHh4WGtaVUdaQjNrWU91UURTNEtwV1U4UTRaZkxhQjNmNWNXand4N0xpUURCSjdEUlNJNnJMZi0zNXVOMU0yOUdxVjJfeml0SFZ2Y2VLLXpwSThvQ1Q2NEVjOUFxMWVnMWFhLXJDV3VLZlA0Unc5cy00dUt5SHZZQkhiUXE2bw?oc=5",
-        "date": "10/17 05:45"
-      },
-      {
         "type": "neutral",
         "title": "Broadcom: Trading At A 37% Discount To My Fair Value (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
@@ -915,11 +908,11 @@
         "date": "10/17 21:00"
       },
       {
-        "type": "neutral",
-        "title": "A $10,000 Broadcom investment in 2016 now pays $1,991 a year in dividends",
-        "publisher": "TheStreet",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkVHYzFmUW8wdEhHcTdmQUFUM1ozRVVCVjMtZ29PbHhQY0lZLVRUb0Jpb3czM1JsMzl1aThKQUlNaExEaTRPSEw0b3RjLVpZaWhua1JFdlRfeFBOYkNPTzlyemszeFRhQk84cWZSNndEbmtzRnNoemVNaE5nMkZQbVM0dDBFTWVYOUdpRGNsY3lQUFIxeUR3cnpUN2F5QnA1djdKMmIxRQ?oc=5",
-        "date": "10/15 04:17"
+        "type": "negative",
+        "title": "Broadcom Falls 4% as CEO Hock Tan’s Capital Warning Hangs Over AI Chips; Marvell Drops 4%",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT01feV8tRDBQQklNM1dRT09RMm1JU0REVmhyUUstLVRMZmVPb3c1dlQ1eWxPbFJnQUxjVFRqM0YtX3NBSEw1ZERQOHJWWXk1a1dzN19mTXVlRnVXMXZ5WmlTLXVJV2xvMDlsdGlKNHhLaVdWYmtXQ1VmWi1laHJ2UEY2SWxZc2UwNWJMNG1vVlg4bE03?oc=5",
+        "date": "10/17 03:02"
       },
       {
         "type": "neutral",
@@ -927,6 +920,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVVRSkprWFJzUXJEY01lZENlWkNqMDZyVzJzYkNSYXpmYzhTMGwzZFV3eTdzdFFTZ3A3d0Z5RzJ6SkV1SGlZR0xadjRjVkVsRU80bk53bVdldXktRVhtQzVVYUt6X3JMVGRkYVQ2VTVNN05iMkRXNWRMZXJGZ2JYamUxUC10NW1yYzdwNTFpVmJLUktRS3hyTA?oc=5",
         "date": "10/15 01:00"
+      },
+      {
+        "type": "neutral",
+        "title": "A $10,000 Broadcom investment in 2016 now pays $1,991 a year in dividends",
+        "publisher": "TheStreet",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkVHYzFmUW8wdEhHcTdmQUFUM1ozRVVCVjMtZ29PbHhQY0lZLVRUb0Jpb3czM1JsMzl1aThKQUlNaExEaTRPSEw0b3RjLVpZaWhua1JFdlRfeFBOYkNPTzlyemszeFRhQk84cWZSNndEbmtzRnNoemVNaE5nMkZQbVM0dDBFTWVYOUdpRGNsY3lQUFIxeUR3cnpUN2F5QnA1djdKMmIxRQ?oc=5",
+        "date": "10/15 04:17"
       }
     ],
     "BE": [
@@ -945,18 +945,18 @@
         "date": "10/17 16:37"
       },
       {
-        "type": "neutral",
-        "title": "A $10,000 gift will help fund equipment and training for Central Texas responders.",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdVlubDFub1VWM2g2dnpGRGxXR3o2RkRScFpndGRGaW9YcGc2c2VILWpQMVB5NzVleG5FWjJZQURQVE43WU12dlFWZXR2ZnJudUdYM1hGMXZpZDJkZEt6WjM3VUlFbjFyWkR3aG9fT2YwUWJwc2JWTWlUTTliUFVlSWZnTFpURlREN25CUEE5MVFfZ0ZlVnZSY2lmRll6UjFuNkdQczl3VWR1cXplUDRTVW1wS2s?oc=5",
-        "date": "10/17 05:41"
+        "type": "positive",
+        "title": "Bloom Energy (BE) Stock Could Be A Bargain On Cash Flow Expectations",
+        "publisher": "Simply Wall Street",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVRlMS1zbzFTT0JiQXMxWGs1bW9KUG82YXJiLXRYb2ptdVYwUV84c0NVbUhyUG52bUFEQkdSU0pGZTRETzVJTFVyZHlKb3hfa1B2SWZZNjlaeHZRVEZrdlF4QWZydUt4d2ZISlRLaXRtdVNwODd0eUlPU0NVYW9ZSmRPZE9wMTl0YTdaRDV5aU1YM051b2pPWXJmdzVxUG1LUjU1QlNjeTgwR3l5QVZKelV3V0sxSmFrSGxjT0NrVUUyTlFsTDlmc0pHOXnSAdIBQVVfeXFMUDBsbUFjUUhKU09VeXNZLWxjWnJWYVJxcFQ0RFFFdnpmanhDT1RBeGY1UVBFZUhramdjcWVRRkZnOWVINlpqd3RJbTVxSlFNWW1BM1lCUU5zcWZTd0VKS0hhZl8wRVlMMmVNSFZsWVVHNkpHSnViV1JEeGVvQXpmQ2w1Qy1haWNpbzR2dktBeG9aYnBOcnJORHB6SHR3UXJzZjJfOGotQ3hNckdLclVNSS1qWlA2eTBJczdsY0ZCa1FUdXlvM1lKSkdEUlFoNHRlY3BB?oc=5",
+        "date": "10/16 09:46"
       },
       {
         "type": "positive",
-        "title": "BE Stock Recovers After Monday Slide On Analyst Support: Peers FCEL, PLUG Edge Higher",
+        "title": "BE Stock Rises Overnight After Oracle Reaffirms Project Jupiter Role: Analyst Hikes Price Target On Gaining Market Acceptance Ahead Of Q3 Results",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUVgtdkMtU0xQWHNPdmRCTi1HdFJXWWo3Zl93a2lodDFoUEM2TmZzTXV3MlVwZU9MeVdaNk9sdXBTN2pidHI2NUZvbW14UUFFZW9lcE5HSERtYTVQSUJCS2d1LXRGTVlQMl9zYXdfOHZjNzJwT1piYWdUYmwxUDEyWjI2Vkx5UHRRbnRMdWkxbkNVMXhqOUlFQTRYczNSdFI4M0Z2cm1xVXNjdWZHaDdod1pYNDdJb3pqWV9RMUt5cUlwX0xBa0tNRklybTRZZHBjR3Z0WDNCblVtTlJ3UmVRSg?oc=5",
-        "date": "10/17 05:34"
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOYXg3YmlyVGhEWVRLSHlJYTBYU2QwS29pS05IWnhOTlVpQTRtdldfNGU1V1FiamJ6cDFnbl82dHBSQ2NoVWdhZXh6MjF2Rzh1LVRneGFxaEJHY2hVUWdrem5FNHNTSFhIMU1sY3Z5Vk5Temt2QmNKSE8wTWs0RUhMN19rVEZEbHVjejhVaEFMX01TSTZMVVQ2RWwyQTlPSVc4VF9FS0huLUJSUGZkU3NmRU9xOU5uU1U0YTRYQ3ExQmZOOFBDNFprMkthdlk5N3JqX2d2b0JiZFFyVzJwVW9kYlVER1JiY21RSXZEbXFsNkt5Ylp6WlhYc2E2dG05M1FCLTNSMHRWcG5iMHQtZUVZaWtVVURiYk9lX0s4dzV1YXF1dDlzMGxmN1R0QnRvc09lelE?oc=5",
+        "date": "10/16 16:01"
       }
     ],
     "GOOGL": [
@@ -983,10 +983,10 @@
       },
       {
         "type": "positive",
-        "title": "Prediction: Alphabet Stock Is Going to Soar After Oct. 28",
+        "title": "Prediction: Alphabet Will Soar After Oct. 28",
         "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaFlsSXh3Z2NyZnQ4LWgxckpldGMxR05EaVNHYVJ5OXV0cXoxa0RGdGxqam9PSkt2QW1fVTU4eVgxOVpfV2tBQXpnelAwQlBsT2EtWnZYcDR2OHhaMnMxSXpfUDh5OVJMdUZ1YjRJTDFWY1NXSXNQRW92ekdLaVRvcnFPTW14TkhqQVd6d1hqVmRweExNR2xZ?oc=5",
-        "date": "10/14 21:09"
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSF9KeUFDRENsZTc0bFBiVkRXNk0ycjJycjFkRFZzYVF2U2RRVG5xS053Wno5MG5Eb04wQzZTOXJsVXM3dnhuR1ZQVkhpaDRMcFNWMTI4dXVPQlZMRlFpaWg5LUV6YWN5QU41SmFnekdwdy1PTElNVHM5Qk0zZUJDZHJyTUhTZGx5SEhPR0NlWGh5aWM?oc=5",
+        "date": "10/15 09:00"
       }
     ],
     "QCOM": [
@@ -998,13 +998,6 @@
         "date": "10/17 12:02"
       },
       {
-        "type": "positive",
-        "title": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZnBkUllaNU5SbGNWNjQ2NVpKZlF6bFFuRGV5QklhVHVkQzB3cGpMMF9BUFV3OXlxRXJqZXgtdS1jS1Fuby1HTWV3TzRLNWNZdmlQZ1VxWk02WExOTkU2amYyUUtsZjVhNTl5RXNfRThRa2NneERHdFdGOFhDWWd3bUhySEZwRmdXNTZ4Zlo0N29OY2t6cEtyc0NJSVhGRTl3WjE1V3UtaVRpZ05EbThTekVwYmltbHhWSnd2MmdoRHdRV3R0MU81anB0RWFfdmQyc2NTRXpzemZLQlF2dDJqSGx5Z0F1ekVoMFBmZ1F2Qlo5MXFIX2ZPMEktWQ?oc=5",
-        "date": "10/17 10:49"
-      },
-      {
         "type": "neutral",
         "title": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
         "publisher": "Yahoo Finance",
@@ -1012,11 +1005,18 @@
         "date": "10/12 22:00"
       },
       {
-        "type": "neutral",
-        "title": "Qualcomm (NASDAQ:QCOM) Stock: Insider Ann Chaplin Sells 1,827 Shares",
+        "type": "positive",
+        "title": "QCOM Stock Drops Nearly 8% After Hours — Qualcomm’s Q3 EPS Misses, Weak Q4 Outlook Overshadows Revenue Beat",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN1VSVzNDdDAxeFdoQmJFY3dVMExzdHVCSEtvWkpNendQNWtVOWM4NFNIYTZHM1RZZzJBQ0dmRmQ3QVZpdVF5LUNhNkUzSWl1dzBOTHZqRTZiTXlWbmc0d2N4eDB5YVN5UkEtTTZLS0IxWWNNczVZNkY3QmJJb29Hd2JEMHhUcXljakY4X1lrZ3N1ZnRwS0ZDblF0Qi1hV1VVdWt2alh4YTB6OGxYbFdGR1pqeG0zbzkzazA3NUtKQ1k4UkV0MHhOcmNkbmRDYm1pNGRsUGNHS2FxQ1BMTzFabVNlM2wySUtMVVo2ZGZuc1VoT29zb2taNWdmX3VsTm9ZeFhZ?oc=5",
+        "date": "10/15 08:14"
+      },
+      {
+        "type": "positive",
+        "title": "Qualcomm (NASDAQ:QCOM) Stock Price Up 3.3% - Time to Buy?",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGNhWnNRTG9QM2ZGcktRUjA4c0I5eHlLVlI2OENIM19aYXotbXlrLURlVWNKb19XZTZpSV9CMXBHcXNmS1ZGSWR5NUpQVmRteGJwNFhWdzBvaDEwb3NQTzVFWVlPbkhFRGNObG9SOXVxNXpGUm9yWjNiNWpCZ1NWNXpIWHRuTEFvTUNmMTA3RU43OUlhSE1tT2ptVWdZempTWnJuLVktZkFoMU1YMmpiZnRDbDRCczA2Sl9oZlVfRXdzeVJi?oc=5",
-        "date": "10/17 06:17"
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPczJnVEszVzRvYUdidjd0c0tPcmVrSW05RC0tN0FDVFB3YXpBZXFnV1o3S19kQUJ6TFNycHE4ZnRSZ1RxNk9zNi1VZU0tYThwNjdxcWllODVSMlIwVHBIYVV2TXo4MzJkZ09fcTNwamNWS0licDhNWXNIQ2ZuR0IzLXhvTUxnZmFFNFI3VWdyTXdjelpJWTVyU1ZVdkFFS3hwc0R1WFFpNDdHamVkVDkw?oc=5",
+        "date": "10/16 06:33"
       }
     ],
     "VRT": [
@@ -1025,7 +1025,7 @@
         "title": "Vertiv Holdings Co (VRT) stock price, news, quote and history",
         "publisher": "Yahoo Finance Australia",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQcXdFSmhEN1hFSUtDZ0hkSUVXc0llSVFMOEJEajc0aDl2UWM5bDlUNXpUS1VBZmVOUDZMa1MwZjJndlhXcmpuQmx0TkNzMmkz?oc=5",
-        "date": "10/17 03:06"
+        "date": "10/17 05:14"
       },
       {
         "type": "neutral",
