@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T14:43:57.163988+00:00",
+  "updatedAt": "2026-10-18T17:40:04.101910+00:00",
   "market": {
     "cards": [
       {
@@ -908,11 +908,11 @@
         "date": "10/18 07:35"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom: Trading At A 37% Discount To My Fair Value (NASDAQ:AVGO)",
+        "type": "negative",
+        "title": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think (AVGO)",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVFSdGJkcFJhNXNPZU1wZEtiM2xDZU1XTWRpYVl6M3hTU3BvbWFIUW5wbTMwTEFzcjZXWWtPQThqUEtkZWpybGpSWVQzbEZOUExPLTh2cTFNQU1pblQyZ0xQaGVSWjdzT29KNnZ1d2pDczdhdV9HNEVQOUZDT05HQjdHVDBESDhyYjFnMXFYZmtYcW8zNzBzVDNKZ3NKS2p3?oc=5",
-        "date": "10/17 21:00"
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE5QempUSld4MWlNT3BfRzJIWm9HMG1SZjUtS0R5cjEzQ3lKVUZtVFo1UUwxUXFnSkFlSkd2NFhTczBpb2h0ZTlRdVZkVmtnRVhsZHJDSFJZdjhpenlRUlFCZG54NDJlbS1LWmpfQ0dsaDlqVUY4a0NlQzROWUwtVk02dXZxYkVoNFR1SmNra3k4dTg1ZG9aaTlyN1BfRlVTalZZRW40Z3F0U2ZFa3VuQV9xVXJDcjZNNi1QN3o0YlJ0Sml5N0tJ?oc=5",
+        "date": "10/16 20:25"
       },
       {
         "type": "negative",
@@ -939,6 +939,13 @@
       },
       {
         "type": "positive",
+        "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQTFwQkloci1KN080Sk0tTFgzZTFoSmo2QlRYUm55aWxlTXpyZElNZGFlQU5sUzhPcThSLU5wWnBibm9lUG4xMjZIZ0JIZFZ0c0tCaXRJVFNzS25XUUY1MGN2ZDRLS1dVdFRuNGxDczZJQkhQTFE3Q2RRQjY1cTBEWUQzenRGOGZhNFQ2MzVmNWpnMmdZbDJsaVN2VDdNdVR2OFlHY0NuTUl6djg5aWZGTnZiYXpnSTlvc1hRc0Qxazd4endvZkFIcnBpNmprUQ?oc=5",
+        "date": "10/18 13:01"
+      },
+      {
+        "type": "positive",
         "title": "Bloom Energy (BE) Stock Could Be A Bargain On Cash Flow Expectations",
         "publisher": "Simply Wall Street",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMGxtQWNRSEpTT1V5c1ktbGNaclZhUnFwVDREUUV2emZqeENPVEF4ZjVRUEVlSGtqZ2NxZVFGRmc5ZUg2Wmp3dEltNXFKUU1ZbUEzWUJRTnNxZlN3RUpLSGFmXzBFWUwyZU1IVmxZVUc2SkdKdWJXUkR4ZW9BemZDbDVDLWFpY2lvNHZ2S0F4b1picE5yck5EcHpIdHdRcnNmMl84ai1DeE1yR0tyVU1JLWpaUDZ5MElzN2xjRkJrUVR1eW8zWUpKR0RSUWg0dGVjcEHSAdIBQVVfeXFMUDBsbUFjUUhKU09VeXNZLWxjWnJWYVJxcFQ0RFFFdnpmanhDT1RBeGY1UVBFZUhramdjcWVRRkZnOWVINlpqd3RJbTVxSlFNWW1BM1lCUU5zcWZTd0VKS0hhZl8wRVlMMmVNSFZsWVVHNkpHSnViV1JEeGVvQXpmQ2w1Qy1haWNpbzR2dktBeG9aYnBOcnJORHB6SHR3UXJzZjJfOGotQ3hNckdLclVNSS1qWlA2eTBJczdsY0ZCa1FUdXlvM1lKSkdEUlFoNHRlY3BB?oc=5",
@@ -950,36 +957,29 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkkycEVkeS12cE5VaTN3a2JSaUJwczJmNEdtaUVBZlItZDk3WmFXZjhTVmFBcTlBMkJqVEg2RGhUazV0bUpVbWRZOU1odUs3T29VelN2X3JCcHNCb2VITXRfQ3Rzb05SZ2k3TWY2VlJSVUJYd0dLYV9LVDRHaG5EUzQtZjZXSmZpYzJaT3NrU09CSTRlcXVRQWFma01MTnVuQlRpbGxjQ2FPTXlzQW5v?oc=5",
         "date": "10/17 06:48"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock Rises Overnight After Oracle Reaffirms Project Jupiter Role: Analyst Hikes Price Target On Gaining Market Acceptance Ahead Of Q3 Results",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOYXg3YmlyVGhEWVRLSHlJYTBYU2QwS29pS05IWnhOTlVpQTRtdldfNGU1V1FiamJ6cDFnbl82dHBSQ2NoVWdhZXh6MjF2Rzh1LVRneGFxaEJHY2hVUWdrem5FNHNTSFhIMU1sY3Z5Vk5Temt2QmNKSE8wTWs0RUhMN19rVEZEbHVjejhVaEFMX01TSTZMVVQ2RWwyQTlPSVc4VF9FS0huLUJSUGZkU3NmRU9xOU5uU1U0YTRYQ3ExQmZOOFBDNFprMkthdlk5N3JqX2d2b0JiZFFyVzJwVW9kYlVER1JiY21RSXZEbXFsNkt5Ylp6WlhYc2E2dG05M1FCLTNSMHRWcG5iMHQtZUVZaWtVVURiYk9lX0s4dzV1YXF1dDlzMGxmN1R0QnRvc09lelE?oc=5",
-        "date": "10/16 16:01"
       }
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "Gemini 3.8 Flash Lifted GOOGL 0.7%, Scored 59 on AA [2026]",
-        "publisher": "shattered.io",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ua2t4dFNtR2pURTBaQXVDMnJtX3RSano5ZmFHRUZVZ1ltaEJwM2g1UWJwb1ZoTHA0dUxYbS1qWlRhSGVNSFZtcjRLR25IelRBdmZxV2dkd3VScDJva2JnSmJIQ25CbjVHMnhLVWtSY2I3a3hQY0E?oc=5",
-        "date": "10/18 10:05"
+        "type": "negative",
+        "title": "Alphabet’s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1ZnUC1Rb1U2dGlJckdTZEVQRl9VZ2trQXY1U0ZJQWswZVJ2SElrNzFRVXdlRDdRSDRLUGs1OVhxU3J1RTFzc3puM3I1eGRhZEd5bDdMLS1FWWxZRXktV1RtYzZvZ01aZmlzWXRscjRxMm1ZQXhLVDlOdTNTRU8yWUpXa2J3VFZNandjbjJEclA?oc=5",
+        "date": "10/18 23:39"
       },
       {
         "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
-        "date": "10/18 00:58"
+        "date": "10/18 12:30"
       },
       {
         "type": "neutral",
-        "title": "Why Alphabet Inc. (GOOG) Dipped More Than Broader Market Today",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGRPZDNGT1VGbG9XcFhNQzgyZjdTTlBKZmFEcEtlTmwtT0pjYnhMNmg1U29rbzdRNXB0c1d6YWxRQUVneEsyaVh1Z0x3WW1TUy16X3Rjanl2dldyWnBfbW52cnJuNHNKNDNXamJsdG5RTlkzYXNzcXI3SEFVQklCVnVZZktsSVdGZzRyeFVNMlNqWnVfMlR6bQ?oc=5",
-        "date": "10/15 05:45"
+        "title": "Gemini 3.8 Flash Lifted GOOGL 0.7%, Scored 59 on AA [2026]",
+        "publisher": "shattered.io",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ua2t4dFNtR2pURTBaQXVDMnJtX3RSano5ZmFHRUZVZ1ltaEJwM2g1UWJwb1ZoTHA0dUxYbS1qWlRhSGVNSFZtcjRLR25IelRBdmZxV2dkd3VScDJva2JnSmJIQ25CbjVHMnhLVWtSY2I3a3hQY0E?oc=5",
+        "date": "10/18 10:05"
       },
       {
         "type": "neutral",
@@ -1012,11 +1012,11 @@
         "date": "09/28 16:00"
       },
       {
-        "type": "neutral",
-        "title": "$Qualcomm (QCOM.US)$ $Marvell Technology (MRVL.US)$ $Microsoft (MSFT.US)$",
-        "publisher": "Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkoyTHNLZ1AtZE10dEh1Vy1WeWZpQ3RBaVkydVNDN0xybFh3dlhteE03TzlFU2x2OWdvMGF3V0dNelp0VExWSGpDSmFtalhhSVk4S3pPNExwVUsyWlpUd0hhNnp4bzh0Z2JFOGpBalVvTjdxakVtQkVxWC00YXlHdmh2Tk81NTJXWVZZaDVia3U0a3Z0aUNTYTZNSTZMbDhQM1paYkthdndRdnhIMGNGNXR2N3p4dw?oc=5",
-        "date": "10/18 21:03"
+        "type": "positive",
+        "title": "Qualcomm (NASDAQ:QCOM) Stock Price Up 3.3% - Time to Buy?",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPczJnVEszVzRvYUdidjd0c0tPcmVrSW05RC0tN0FDVFB3YXpBZXFnV1o3S19kQUJ6TFNycHE4ZnRSZ1RxNk9zNi1VZU0tYThwNjdxcWllODVSMlIwVHBIYVV2TXo4MzJkZ09fcTNwamNWS0licDhNWXNIQ2ZuR0IzLXhvTUxnZmFFNFI3VWdyTXdjelpJWTVyU1ZVdkFFS3hwc0R1WFFpNDdHamVkVDkw?oc=5",
+        "date": "10/16 06:33"
       }
     ],
     "VRT": [
@@ -1035,18 +1035,18 @@
         "date": "10/18 16:17"
       },
       {
-        "type": "neutral",
-        "title": "Here is What to Know Beyond Why Vertiv Holdings Co. (VRT) is a Trending Stock",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODFkRkFTNTltOXlTZWpJRFZLT1N6bEkwbUF2cDdHUXBNRnNEUVJRdlIyMENESm1KNGRCRGM2SlF6cVRMc01pM1lWNXNaNE43R182bXZqQUVnTnJkLVM3a25XMi1qd2dVV2dFZTF1dFJkdXRjd0R0RWZLb0otckNONGtzSDNpQUVMcmtuLWtDUFhpbThGRFduVWVWTEQ?oc=5",
-        "date": "10/12 21:00"
-      },
-      {
         "type": "negative",
         "title": "How Much Further Could Vertiv Stock Fall?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
         "date": "09/25 16:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Here is What to Know Beyond Why Vertiv Holdings Co. (VRT) is a Trending Stock",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODFkRkFTNTltOXlTZWpJRFZLT1N6bEkwbUF2cDdHUXBNRnNEUVJRdlIyMENESm1KNGRCRGM2SlF6cVRMc01pM1lWNXNaNE43R182bXZqQUVnTnJkLVM3a25XMi1qd2dVV2dFZTF1dFJkdXRjd0R0RWZLb0otckNONGtzSDNpQUVMcmtuLWtDUFhpbThGRFduVWVWTEQ?oc=5",
+        "date": "10/12 21:00"
       }
     ]
   }
