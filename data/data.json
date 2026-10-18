@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T11:27:44.352335+00:00",
+  "updatedAt": "2026-10-18T14:43:57.163988+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1329.6,
-        "change": -0.85
+        "value": 1334.2,
+        "change": -0.5
       },
       {
         "name": "KOSPI",
@@ -684,7 +684,7 @@
               1340.31,
               1339.35,
               1340.95,
-              1329.6
+              1334.2
             ]
           }
         ]
@@ -916,17 +916,17 @@
       },
       {
         "type": "negative",
-        "title": "Broadcom Falls 4% as CEO Hock Tan's Capital Warning Hangs Over AI Chips; Marvell Drops 4%",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHE5YjRkQnVyTUw0NnFHNE9FZEQwOHM5S3NSYkVNeXMycGFmcG15SVVVQlBHM1RTTy1vRnp1eHFGbUlpeFBEOERhVDdjM0Fnd0hndFVnTWZXTFA5YTRQTDRmTW9UMEdNOGZHMjhCSHZ6ZlIxZ1NhdnpUYXlrMHVvNnJTamJaLS1tQlNneV85c2NSN0pGb1ViMXJweHl3WkJGaThSaHpERURXUTU1OVhTZjlEYzVXMFl6YTZ5XzZaY3lHMjhBamVtag?oc=5",
-        "date": "10/17 03:02"
-      },
-      {
-        "type": "negative",
         "title": "Capital Over Chips: Broadcom CEO Warns Financing Costs Could Slow AI Expansion",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVlJDU2cxNTdUUlNaeDlOTUM3Z29ZeGhXcjZQNVZtckE5QmtlRWlLNHBKUEVNZEpfYUdQNXBNR1pXOWVhX2NfeFAzUXZBbFlvQ0tKTkNBWmhiQmhTM2pMaHJnd0pWdTNBbm5QZk1RZ3Qwc21nVm5tRkRQY1NUSGhvNG5iVWJrdlJlTUhJWHFaM3pyWkpYWXRrbFVBZlFTbHdSN0xpaERCQVVMWXRjVDZXQVFkS3BQaEJhRU9lbWdZTnFZRUp3VGkxQldB?oc=5",
         "date": "10/15 21:42"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom Inc. (AVGO) Falls More Steeply Than Broader Market: What Investors Need to Know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWRYUTNxSlRMa2VXWEcxWm10VHh4WGtaVUdaQjNrWU91UURTNEtwV1U4UTRaZkxhQjNmNWNXand4N0xpUURCSjdEUlNJNnJMZi0zNXVOMU0yOUdxVjJfeml0SFZ2Y2VLLXpwSThvQ1Q2NEVjOUFxMWVnMWFhLXJDV3VLZlA0Unc5cy00dUt5SHZZQkhiUXE2bw?oc=5",
+        "date": "10/17 05:45"
       }
     ],
     "BE": [
@@ -992,17 +992,17 @@
     "QCOM": [
       {
         "type": "neutral",
+        "title": "Why Is QCOM Stock Rising Premarket?",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3pYNndEZVpQVVpPVVl3N1d5NUhrcTN3TC1Xc182eXZsbG0ySURmVVdrbWwwWkFYQjg5ekRzcnhITGJkNWZXS2JQSkRkQTlBOVo3Zy1VbURRaGI2ZC1sdlBCWTdRQ1NRR3ZLWVdpU1V4RFNxTzZZcktqNmdzeEsycUh3dkF0eVN5Q1kzaFk0aXZyTm15UVRqTFN4R1d4N0k?oc=5",
+        "date": "10/17 23:35"
+      },
+      {
+        "type": "neutral",
         "title": "Should You Buy Qualcomm Stock For Its Cash?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYk90ZFZ1RnRrRDhSUDZKQ2R0SlhsRnl0NEVVTEUxY0hwYnJ5cnR5RVhOdXRfdzJQLVU2WDM3TzFxQ0ZORVBYN1lwMV9WZDJCSVNFc2d4SVRRWXdISU42QVVhSGNTQU9hMFljMl9JaWN4cGRDUWtQc2dRN3dzeFNZQUhLdDZVUDBzMFdreTVpZjFWcUtKeXJCNm84U2VIV05NZ05tMHZ3?oc=5",
         "date": "10/17 12:02"
-      },
-      {
-        "type": "negative",
-        "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb3p4WjA3U3FJZXpjWjNJbm1wZFFHa0IzYlJnRE4xNkFvRUczUkxjZ2x4aWRRRW5FamFHRjVNNlM4eUh3S1E2bzJzZTN1YlptQ0ZWQUM1eEpOMGFrMHprVWZEOFJkTGdBSW5PNDJlalUzNEowMmktNTFJX3hSdXRtc3d0RzljcUpXLWVUUFAyZUViR1FzTFE1SzBDSjlUX1hNN0xGS0dxd0ZWRE5jZ0FJMnlFVWZOUkplZ0hQM0xNcjdwRTF3ZFEtYVh6Vi1DX0FkSEVrWlp3dFhJNFYtb0JCcDJybkw5SlpkYnFqLUEyckZheTBzbVNV?oc=5",
-        "date": "10/17 11:40"
       },
       {
         "type": "negative",
@@ -1012,11 +1012,11 @@
         "date": "09/28 16:00"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm (NASDAQ:QCOM) Stock Price Up 3.3% - Time to Buy?",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPczJnVEszVzRvYUdidjd0c0tPcmVrSW05RC0tN0FDVFB3YXpBZXFnV1o3S19kQUJ6TFNycHE4ZnRSZ1RxNk9zNi1VZU0tYThwNjdxcWllODVSMlIwVHBIYVV2TXo4MzJkZ09fcTNwamNWS0licDhNWXNIQ2ZuR0IzLXhvTUxnZmFFNFI3VWdyTXdjelpJWTVyU1ZVdkFFS3hwc0R1WFFpNDdHamVkVDkw?oc=5",
-        "date": "10/16 06:33"
+        "type": "neutral",
+        "title": "$Qualcomm (QCOM.US)$ $Marvell Technology (MRVL.US)$ $Microsoft (MSFT.US)$",
+        "publisher": "Moomoo",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkoyTHNLZ1AtZE10dEh1Vy1WeWZpQ3RBaVkydVNDN0xybFh3dlhteE03TzlFU2x2OWdvMGF3V0dNelp0VExWSGpDSmFtalhhSVk4S3pPNExwVUsyWlpUd0hhNnp4bzh0Z2JFOGpBalVvTjdxakVtQkVxWC00YXlHdmh2Tk81NTJXWVZZaDVia3U0a3Z0aUNTYTZNSTZMbDhQM1paYkthdndRdnhIMGNGNXR2N3p4dw?oc=5",
+        "date": "10/18 21:03"
       }
     ],
     "VRT": [
@@ -1035,18 +1035,18 @@
         "date": "10/18 16:17"
       },
       {
+        "type": "neutral",
+        "title": "Here is What to Know Beyond Why Vertiv Holdings Co. (VRT) is a Trending Stock",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODFkRkFTNTltOXlTZWpJRFZLT1N6bEkwbUF2cDdHUXBNRnNEUVJRdlIyMENESm1KNGRCRGM2SlF6cVRMc01pM1lWNXNaNE43R182bXZqQUVnTnJkLVM3a25XMi1qd2dVV2dFZTF1dFJkdXRjd0R0RWZLb0otckNONGtzSDNpQUVMcmtuLWtDUFhpbThGRFduVWVWTEQ?oc=5",
+        "date": "10/12 21:00"
+      },
+      {
         "type": "negative",
         "title": "How Much Further Could Vertiv Stock Fall?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
         "date": "09/25 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv (VRT) Stock May Be Fully Priced After Investor Rights Probe",
-        "publisher": "Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNC0zeHlsV0toZ0k5eUdiRXNKY3hzZ2dnNlRhdXZKY2twNnB1X1JhOXhMRWZvdHFQdWdnblRhSkc5WjBfODNZVUZCRlZwOGtDUUFVZzlXTmNhOXdOdk9RTFhPZm5jWk9LeVQ5UWZDUjFDMXJkNUEyTlNHTFR0UE9NUjJWR1JkcnhqQnl0VVBlZzdBN0xuQTRNWW5ueVlydVRXYlQ2aXMwNC1OeUVvMEMyM1hIalJfWkV3cUF3eEtDaDA5VlBxYmRLdnpmZWphQ0R1QUtWQmdB0gHbAUFVX3lxTE8xc0lmRElZNGNYZU9TMW1ndU5nUXgxZWhHNjYydmRGYm9jb3V5WWpXOVRIeXRtRU1IRUNQMzFreGdqSXB0bWhWOGhGSmdyMFZSM2x0MFRPay13aFc1dElCZk0yYi1VdUJTSzZXOXdqUF9LZEJfVHotVGhTT21MbmhrNDBRVnBMb3A5ekw0dTRsM2p6MlcxcmpoNkRWS0xjcnpMblIyWFhNMG0zZUJKYWg3TTE4Skw0TXNOUWVLTFBBM21fYVVHa3hPX0FHNnBZaEMyMnI5ODhhVXlPRQ?oc=5",
-        "date": "10/13 05:41"
       }
     ]
   }
