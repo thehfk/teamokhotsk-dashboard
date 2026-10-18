@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T19:51:11.135525+00:00",
+  "updatedAt": "2026-10-18T22:02:42.241607+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1334.2,
-        "change": -0.5
+        "value": 1334.66,
+        "change": -0.47
       },
       {
         "name": "KOSPI",
@@ -684,7 +684,7 @@
               1340.31,
               1339.35,
               1340.95,
-              1334.2
+              1334.66
             ]
           }
         ]
@@ -902,10 +902,10 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Jim Cramer Sees a Telling Change in Broadcom’s (AVGO) Stock",
+        "title": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTVrVkpTdDRQU3luYldpWXlpX1kzOGZ5enpLclNReFh4Y3hwWW5FS3NqRURoNzFQOXZIYjVhVURXQmZuTUUwSWVIUkR2cE1vN2VJY1F4OWdGLUtMWEhEajVkWnBZYXZqeEVxUGQwd2pDeUlWZGpIZHM0cGxFRXBILTdFNmU5REtGc2FwLWUwd2x1Z1lhd2NFaDJKQQ?oc=5",
-        "date": "10/18 07:35"
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhmRkFFRXNKbDlwZWRfOFFtMENONVMxS2cwQzIwTW1YclhtZ3VjZHVneXVSTk4zUmFYdUpreEoyZEpOclZ4WHZNeDQ3YUpZb0lPUkhEZXZOY2Nnb09LaGZpSVUtQ0ROM2t0aUx3Y0Q5My1GNWxYdlZIMXI1cGZ0dEJHTS1wVnQyWlVYcVJjQTZnVjNOM0o0U19yWUZaOTU3QkE?oc=5",
+        "date": "10/18 23:34"
       },
       {
         "type": "negative",
@@ -923,10 +923,10 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
+        "title": "Jim Cramer Sees a Telling Change in Broadcom’s (AVGO) Stock",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhmRkFFRXNKbDlwZWRfOFFtMENONVMxS2cwQzIwTW1YclhtZ3VjZHVneXVSTk4zUmFYdUpreEoyZEpOclZ4WHZNeDQ3YUpZb0lPUkhEZXZOY2Nnb09LaGZpSVUtQ0ROM2t0aUx3Y0Q5My1GNWxYdlZIMXI1cGZ0dEJHTS1wVnQyWlVYcVJjQTZnVjNOM0o0U19yWUZaOTU3QkE?oc=5",
-        "date": "10/18 23:34"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTVrVkpTdDRQU3luYldpWXlpX1kzOGZ5enpLclNReFh4Y3hwWW5FS3NqRURoNzFQOXZIYjVhVURXQmZuTUUwSWVIUkR2cE1vN2VJY1F4OWdGLUtMWEhEajVkWnBZYXZqeEVxUGQwd2pDeUlWZGpIZHM0cGxFRXBILTdFNmU5REtGc2FwLWUwd2x1Z1lhd2NFaDJKQQ?oc=5",
+        "date": "10/18 07:35"
       }
     ],
     "BE": [
@@ -986,7 +986,7 @@
         "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSUxIOE01VFloYzVGaHo3NHpmTjA3T3RfeGE5aG5DaHdzVldtNkJ2LVVlVlREVkV6RXY5T216UzhTZGoyajNWdnExUV9mSlB2aGNoSDctMG9qVzdLT0YwUGZFOTBQdVFYdkFZVDFMTldGQmw1MnhZdVRyQ2JIWGllUkNXTjFSOTVrZEZHeEpyN2RibjFkWW1fdVVPaUFlRGdDeFd2RGduN1lsdzdnaEp1LVdfUldscTdxRmN1bmtEQkxVUFhGLW01cjJsOHNqb1h4UnFtbmcxZi05WEFKN3lyQWtxaFI3YnBhbFZtX19BTzJhYUJ6d1Rzbmp3?oc=5",
-        "date": "10/17 07:47"
+        "date": "10/17 02:36"
       }
     ],
     "QCOM": [
