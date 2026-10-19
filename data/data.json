@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:59:04.485357+00:00",
+  "updatedAt": "2026-10-19T10:32:44.106693+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 19.99,
-        "change": 21.45
+        "value": 18.67,
+        "change": -6.6
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1330.15,
-        "change": -0.81
+        "value": 1330.64,
+        "change": -0.77
       },
       {
         "name": "KOSPI",
-        "value": 5700.49,
-        "change": 0.57
+        "value": 5768.01,
+        "change": 1.76
       },
       {
         "name": "KOSDAQ",
-        "value": 797.89,
-        "change": 0.39
+        "value": 808.89,
+        "change": 1.78
       }
     ],
     "groups": [
@@ -329,8 +329,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "07/16",
-          "07/17",
           "07/20",
           "07/21",
           "07/22",
@@ -395,14 +393,13 @@
           "10/13",
           "10/14",
           "10/15",
-          "10/16"
+          "10/16",
+          "10/19"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              16.73,
-              18.77,
               18.65,
               17.05,
               16.64,
@@ -467,7 +464,8 @@
               15.27,
               16.87,
               16.46,
-              19.99
+              19.99,
+              18.67
             ]
           }
         ]
@@ -682,7 +680,7 @@
               1340.31,
               1339.35,
               1340.95,
-              1330.15
+              1330.64
             ]
           }
         ]
@@ -816,7 +814,7 @@
               6008.81,
               5554.22,
               5668.05,
-              5700.49
+              5768.01
             ]
           },
           {
@@ -882,7 +880,7 @@
               823.88,
               760.82,
               794.78,
-              797.89
+              808.89
             ]
           }
         ]
@@ -914,20 +912,27 @@
       },
       {
         "type": "neutral",
-        "title": "Jim Cramer Sees a Telling Change in Broadcom’s (AVGO) Stock",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTVrVkpTdDRQU3luYldpWXlpX1kzOGZ5enpLclNReFh4Y3hwWW5FS3NqRURoNzFQOXZIYjVhVURXQmZuTUUwSWVIUkR2cE1vN2VJY1F4OWdGLUtMWEhEajVkWnBZYXZqeEVxUGQwd2pDeUlWZGpIZHM0cGxFRXBILTdFNmU5REtGc2FwLWUwd2x1Z1lhd2NFaDJKQQ?oc=5",
-        "date": "10/18 07:35"
+        "title": "What's Going On With Broadcom Stock Monday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUVkQkY2d1FWSkdVdFhhVWRZWHJlLThsWnlFS3N2NmVjRXVpV0d6YmZxRXB5SG52XzQxejhLT0RqcHhwbklmNXhaNG9qaUR1ejBQRzhnR0JjMlN2LTZIOUNkbjVxRmhoOGljSUlsTVgwaU1UOVJyZkFGSkdxM3dIZ1pHQ3BqaXVTcTl6dVJwNlAwMTduRV96QmlXZWw?oc=5",
+        "date": "10/19 19:08"
       },
       {
         "type": "neutral",
-        "title": "Broadcom: Market Misunderstanding Is Baffling, But Don't Be Fooled (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWVlVXZfX0pRaDVFRVdZM0xGNHd6MHZGQnM1M1k2UTc2Y21vVk82OTZ1OE4tTVJabDQ3Mms5alkycVdhdjh1TW4wR2VUX2U3eEExWWRzeGdyRm1JZmM2eDZaN3hQZDNLY0drOGViczlKS1RyNGR5Z290aXFrb3lxeHdzSm13OHlSRWV0MEpmRmtDWlJtWUViZnRUbTFrMVVyWE9wSzkyZw?oc=5",
-        "date": "10/18 22:54"
+        "title": "Here's What $10,000 Invested in Broadcom Will Be Worth by 2028",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVFZVGhnS2N1VHRDdFdsZUNkU3pFcnNvM0ZHZEtTdk5DYVBabzV5SDB3SURsNlZ6T2VOVnVWbUNOanZjcEI3a1Roc0hibnhDUEdibjBPd0JQV0lJYlVDYTV2aWpBZlVDX21FcXNFV1ZiU1BhNnY4VUczWEVpQmdWVGYwb29JTm1WaDlwblB1U1pyY2dtWlJ2aA?oc=5",
+        "date": "10/18 01:48"
       }
     ],
     "BE": [
+      {
+        "type": "positive",
+        "title": "BE Stock Jumps Premarket Into Earnings Week: Retail Bets On 40% Pop As Wall Street Eyes Strong Q3 Growth",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWRDNUM2S3JlM0Fad29TYm03cGtwZVI3SmRicHdFam5HblRrdlV0UVI2b0RKUzhfRVJaR0o2Y0RnX1VOcFJNOUlUeW1fdGE2OGl5QW5xREg3V1g3dDVaaDFIWWZlRy1kU3Rfa21WZVNiTlpUVEFuY0NVVW5fcGlkaGNCbGV3bTc4NG1OVWZRcV80bWpoWURXUEUyd205djcxbk8yZVkxZ2ZaQWhRa2Z4enNRZENaTGJLR19QcW5ldjNJeE5EcDJtamNSWQ?oc=5",
+        "date": "10/19 17:24"
+      },
       {
         "type": "neutral",
         "title": "Bloom Energy (BE) Stock May Be 34% Undervalued After Jersey Patch Deal",
@@ -941,13 +946,6 @@
         "publisher": "Simply Wall Street",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVRlMS1zbzFTT0JiQXMxWGs1bW9KUG82YXJiLXRYb2ptdVYwUV84c0NVbUhyUG52bUFEQkdSU0pGZTRETzVJTFVyZHlKb3hfa1B2SWZZNjlaeHZRVEZrdlF4QWZydUt4d2ZISlRLaXRtdVNwODd0eUlPU0NVYW9ZSmRPZE9wMTl0YTdaRDV5aU1YM051b2pPWXJmdzVxUG1LUjU1QlNjeTgwR3l5QVZKelV3V0sxSmFrSGxjT0NrVUUyTlFsTDlmc0pHOXnSAdIBQVVfeXFMUDBsbUFjUUhKU09VeXNZLWxjWnJWYVJxcFQ0RFFFdnpmanhDT1RBeGY1UVBFZUhramdjcWVRRkZnOWVINlpqd3RJbTVxSlFNWW1BM1lCUU5zcWZTd0VKS0hhZl8wRVlMMmVNSFZsWVVHNkpHSnViV1JEeGVvQXpmQ2w1Qy1haWNpbzR2dktBeG9aYnBOcnJORHB6SHR3UXJzZjJfOGotQ3hNckdLclVNSS1qWlA2eTBJczdsY0ZCa1FUdXlvM1lKSkdEUlFoNHRlY3BB?oc=5",
         "date": "10/16 09:46"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock Rises Overnight After Oracle Reaffirms Project Jupiter Role: Analyst Hikes Price Target On Gaining Market Acceptance Ahead Of Q3 Results",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOYXg3YmlyVGhEWVRLSHlJYTBYU2QwS29pS05IWnhOTlVpQTRtdldfNGU1V1FiamJ6cDFnbl82dHBSQ2NoVWdhZXh6MjF2Rzh1LVRneGFxaEJHY2hVUWdrem5FNHNTSFhIMU1sY3Z5Vk5Temt2QmNKSE8wTWs0RUhMN19rVEZEbHVjejhVaEFMX01TSTZMVVQ2RWwyQTlPSVc4VF9FS0huLUJSUGZkU3NmRU9xOU5uU1U0YTRYQ3ExQmZOOFBDNFprMkthdlk5N3JqX2d2b0JiZFFyVzJwVW9kYlVER1JiY21RSXZEbXFsNkt5Ylp6WlhYc2E2dG05M1FCLTNSMHRWcG5iMHQtZUVZaWtVVURiYk9lX0s4dzV1YXF1dDlzMGxmN1R0QnRvc09lelE?oc=5",
-        "date": "10/18 07:10"
       },
       {
         "type": "negative",
@@ -973,11 +971,11 @@
         "date": "10/18 12:30"
       },
       {
-        "type": "neutral",
-        "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
+        "type": "negative",
+        "title": "GOOGL Stock Falls 5% As Google’s Flagship AI Model Reportedly Runs Behind Schedule — Why Retail Traders Aren’t Worried",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSUxIOE01VFloYzVGaHo3NHpmTjA3T3RfeGE5aG5DaHdzVldtNkJ2LVVlVlREVkV6RXY5T216UzhTZGoyajNWdnExUV9mSlB2aGNoSDctMG9qVzdLT0YwUGZFOTBQdVFYdkFZVDFMTldGQmw1MnhZdVRyQ2JIWGllUkNXTjFSOTVrZEZHeEpyN2RibjFkWW1fdVVPaUFlRGdDeFd2RGduN1lsdzdnaEp1LVdfUldscTdxRmN1bmtEQkxVUFhGLW01cjJsOHNqb1h4UnFtbmcxZi05WEFKN3lyQWtxaFI3YnBhbFZtX19BTzJhYUJ6d1Rzbmp3?oc=5",
-        "date": "10/17 02:36"
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU2RCSy04MzlsSzRqMGRwa0kxS0d6OGhfY0pacTNXM19MU3RyeFoyWWtDTnRBS2dkMUxXTXI0N2NPdElBLVBZUlozaEdkV2ZVZzdBT1l1RU5Yd3RZd25uZ2hrRHBXS1k0a1VqRW5wM3JCb2pYV1BVVkI1ZjdPei1kbFpVdURoejY3a09TQ1JzcFlHd2R6cDFwNTcwYjlyTVNjZ1lEbFpPV1dpSWY5SndwMmFzV0tkUWdwTkNqX2V6V1FRcy1vXzMwb0h4SzdnQXQ4d1NPa1Q4YW8wS0dvbHhMZGJvenZPMVlJWEpZdGhmTi1LZ1ZDWnBJUkMwUkdvTzBf?oc=5",
+        "date": "10/18 00:14"
       },
       {
         "type": "positive",
@@ -1020,24 +1018,17 @@
     "VRT": [
       {
         "type": "neutral",
-        "title": "VRT Stock Is Rising Today – What’s The Deal With Strategic Thermal Labs About?",
+        "title": "Vertiv Holdings, LLC (VRT) Stock Forecasts",
+        "publisher": "Yahoo! Finance Canada",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFQ3ZW56SWVZZnBsNE12THNVamR3OGQxQjIybk1pNmNHcTZHcGE1RlQzaUVBU2pJN05jcEZWSkhkbmg4ZUVzdDM4b1dpMVMxSWZEVmRGWTRQdG5MbE81akNILTdaR1prNHVVSzFPQm9jVVoySUR6djN5Zlc3anRqQ1hIUmlSclA0SkVyTHlPeGQ3bUts?oc=5",
+        "date": "10/19 11:43"
+      },
+      {
+        "type": "positive",
+        "title": "VRT Stock Heads For Worst Week In 4 Years After Revenue Miss – But This Analyst Still Sees 68% Upside As CEO Defends AI Demand",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3k0ZmxORFAxSy0zSDB0S0xqeURpUTBGSzNlNHFXVTdxZEk3SU43QVpQN2hPemFRdldFeWdrU3daS0h6YlItS1Yxb2lxdldRMmViVW9wQjgxSzBwU21ReF80aVdZRmJRSlF0VzNMSzhLMVJmMkczTGI1Ulh4Mk5IcDBpX1VmWHJneXhCcFN5RF9acEFTV2hqN2NnNll0MHlrYTRoWFY3akkwaV84bDJYQlJraFZIODZLQ2dQQWFkWnJRdGR2VzJpaW92WWRPMUs1bE1Cdk9B?oc=5",
-        "date": "10/16 13:36"
-      },
-      {
-        "type": "neutral",
-        "title": "VRT Oct 2026 212.500 call (VRT261023C00212500) stock price, news, quote and history",
-        "publisher": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xb1d3TDdqSnB2N3FrbWZwWUtSaGRTSWZJMlVDSjZvdjZNbmpDakUxV21XcFJEZmgydmFvRkZlY2hpSUM5MkhVb3B2dmttWG9Rb3dpaDBlMXo5eVBKOUh0a2dVRE8?oc=5",
-        "date": "10/19 02:09"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv Holdings Co. $VRT Stock: Annex Advisory Services LLC Raises Holdings",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3FpSERleEdwYWh0UEhMV0t2U1FOcGRGSTl4LXBtVkdsNWxFXzB6cUpiQ3VMbDdjaVVCZXJ4Q09oMFFKOTFoS2FXbzFITkRYcDdJVnZGT0l1RzJFbEFSVE1RNlpNSTVrY21pWmJqVDNsaHJ5T1UybWdQckJQY1ozTlh1bzZWd0tIQ0xMQXJXeXZubU84a3hzR0NOcXVKWjJXbmpHVnVHcFRmaFlVTThEaS1BZWJYR19LREFpcTA3WWV1TXE5cUFyMUpkT1RpZw?oc=5",
-        "date": "10/17 16:37"
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXZZbDNtZmM1YnZnWHZMTzZ0MkxTMXRvSFdOTnhPNFlYVEdfcEdVTUh3Z2N6RTFGaUw5NGhjM0pvc2lEdHNmc2d6MkhmUW5scDJ5bENuWGZ2LXZfZkE1ODB3VW9UY3JSd196eFc0YTVIT09EbkxmTm1Vdjd4YTlLeFJGb2dPOUtjYUszQTAxbEllZUhqclR0ZnBNbS1lQ1N3MjJXN2tpZ2V3ZnRFbTM4YXhQaUtsOWxFYWxvYlFFZ1BDOFhvMm0xOTl2MTF1R3hCTUdTT19XcUFWRWt4VVBrRHJ3RkNjbnRXZzdrdWI0NXl1dGpzWEg2bUJ3cEgySnBrMGd5bWFOWTF4SnZ2ZlNSR0VFTE5qQQ?oc=5",
+        "date": "10/18 02:31"
       },
       {
         "type": "negative",
@@ -1045,6 +1036,13 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
         "date": "09/25 16:00"
+      },
+      {
+        "type": "negative",
+        "title": "Vertiv (NYSE:VRT) Stock Falls 4% on Analyst Downgrade",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalpyT0V2R2Q1eTZvbXFUcHJUQ3I4bnlkRWxCZDAzSGlJTllvZDFaaFdKV3dlaTlGSmpHeWlRQnVZVzNzQnh5T3M5TzBrSUtvWUpZclR6U0F6UFVvLWstM0l2VFl2SVlkbHd3Uk1Za09WQkt4VWR5Z09UcUxCYXNoYzAwMFRQWWV6WVlxOVVINEJZcjEya0ZJTTJLUzI3U3VmbUppRzNUNmdJemlwalI4?oc=5",
+        "date": "10/17 06:07"
       }
     ]
   }
