@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:02:42.241607+00:00",
+  "updatedAt": "2026-10-19T00:17:48.416092+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1334.66,
-        "change": -0.47
+        "value": 1333.68,
+        "change": -0.54
       },
       {
         "name": "KOSPI",
@@ -617,8 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1486.2,
-              1478.85,
               1487.39,
               1475.01,
               1479.72,
@@ -684,7 +682,7 @@
               1340.31,
               1339.35,
               1340.95,
-              1334.66
+              1333.68
             ]
           }
         ]
@@ -692,7 +690,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "07/16",
           "07/20",
           "07/21",
           "07/22",
@@ -758,7 +755,6 @@
           {
             "name": "KOSPI",
             "data": [
-              6820.6,
               6516.27,
               6747.95,
               6797.7,
@@ -824,7 +820,6 @@
           {
             "name": "KOSDAQ",
             "data": [
-              791.84,
               749.64,
               753.34,
               751.09,
@@ -915,18 +910,18 @@
         "date": "10/16 20:25"
       },
       {
-        "type": "negative",
-        "title": "Capital Over Chips: Broadcom CEO Warns Financing Costs Could Slow AI Expansion",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVlJDU2cxNTdUUlNaeDlOTUM3Z29ZeGhXcjZQNVZtckE5QmtlRWlLNHBKUEVNZEpfYUdQNXBNR1pXOWVhX2NfeFAzUXZBbFlvQ0tKTkNBWmhiQmhTM2pMaHJnd0pWdTNBbm5QZk1RZ3Qwc21nVm5tRkRQY1NUSGhvNG5iVWJrdlJlTUhJWHFaM3pyWkpYWXRrbFVBZlFTbHdSN0xpaERCQVVMWXRjVDZXQVFkS3BQaEJhRU9lbWdZTnFZRUp3VGkxQldB?oc=5",
-        "date": "10/15 21:42"
-      },
-      {
         "type": "neutral",
         "title": "Jim Cramer Sees a Telling Change in Broadcom’s (AVGO) Stock",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTVrVkpTdDRQU3luYldpWXlpX1kzOGZ5enpLclNReFh4Y3hwWW5FS3NqRURoNzFQOXZIYjVhVURXQmZuTUUwSWVIUkR2cE1vN2VJY1F4OWdGLUtMWEhEajVkWnBZYXZqeEVxUGQwd2pDeUlWZGpIZHM0cGxFRXBILTdFNmU5REtGc2FwLWUwd2x1Z1lhd2NFaDJKQQ?oc=5",
         "date": "10/18 07:35"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Crashed From $495 To $328 - I'm Buying The Sell-Off (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZExOaHFFbUV0Uk9VblN3blBEVzhhY3ZINUd0ZUstQmw0RXRpdGY1QjNaS0F6QUphTUtUMFhYcldINUZ3RDhmM3hCNkR5QUViT0NVS1huMGdGZng1Q3BZV2RVM24wODcwOVRFdVA5OEVMbDllREw5R0l2bU9xc0UxQW9XeVp0YTFheG1kS1N0b2VKU1RtWDk0T19rT2s?oc=5",
+        "date": "10/18 22:30"
       }
     ],
     "BE": [
@@ -936,13 +931,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYnlOWUd0OUFkVVpsdTNvTG1ib2gzTE5iREF2V1dTM1VjVnRLUlJUcUt4Sm1zMDhZQ2s3OXFCR3cxaDV1amFTLUJBbVBGOFR0Wk9Nak1pdjlYWHFWZC1vcE1Fa0VnTTNRMmRRSnFnN2c5UlF5Nmh1ZlN0R09McWszVGkza21tbjB4VXdFaEhHWGxHM0tv?oc=5",
         "date": "10/14 13:33"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQTFwQkloci1KN080Sk0tTFgzZTFoSmo2QlRYUm55aWxlTXpyZElNZGFlQU5sUzhPcThSLU5wWnBibm9lUG4xMjZIZ0JIZFZ0c0tCaXRJVFNzS25XUUY1MGN2ZDRLS1dVdFRuNGxDczZJQkhQTFE3Q2RRQjY1cTBEWUQzenRGOGZhNFQ2MzVmNWpnMmdZbDJsaVN2VDdNdVR2OFlHY0NuTUl6djg5aWZGTnZiYXpnSTlvc1hRc0Qxazd4endvZkFIcnBpNmprUQ?oc=5",
-        "date": "10/18 13:01"
       },
       {
         "type": "positive",
@@ -957,6 +945,13 @@
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkkycEVkeS12cE5VaTN3a2JSaUJwczJmNEdtaUVBZlItZDk3WmFXZjhTVmFBcTlBMkJqVEg2RGhUazV0bUpVbWRZOU1odUs3T29VelN2X3JCcHNCb2VITXRfQ3Rzb05SZ2k3TWY2VlJSVUJYd0dLYV9LVDRHaG5EUzQtZjZXSmZpYzJaT3NrU09CSTRlcXVRQWFma01MTnVuQlRpbGxjQ2FPTXlzQW5v?oc=5",
         "date": "10/17 06:48"
+      },
+      {
+        "type": "positive",
+        "title": "Gainesville Fire Rescue responds to about 32,000 calls a year. Bloom donated $10,000 to the firefighters' organization.",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTnFDcGhtS2tQWjUycDZmTzVpNndnYW1xY3dCUDdHbUc1UUJmc3oyTVdWTWl5Nm1SSjhhcjFCaVJYRk9jLUwzWFlQaVY0Uk0yNGRNTEo0VzhRNzVIVVJ1cEw4cXkzVkNnTVNwakdrOHdybVB1T18xNmhMQXpoRmh3NlhvRmotRVFOUFdUNjVLSEN5SmFWakF5bXhRRmdQSDE5RW5jV25iQklTcUtTQ0taTzlBVGZqTjI0?oc=5",
+        "date": "10/17 05:33"
       }
     ],
     "GOOGL": [
@@ -976,26 +971,26 @@
       },
       {
         "type": "neutral",
-        "title": "Gemini 3.8 Flash Lifted GOOGL 0.7%, Scored 59 on AA [2026]",
-        "publisher": "shattered.io",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ua2t4dFNtR2pURTBaQXVDMnJtX3RSano5ZmFHRUZVZ1ltaEJwM2g1UWJwb1ZoTHA0dUxYbS1qWlRhSGVNSFZtcjRLR25IelRBdmZxV2dkd3VScDJva2JnSmJIQ25CbjVHMnhLVWtSY2I3a3hQY0E?oc=5",
-        "date": "10/18 10:05"
-      },
-      {
-        "type": "neutral",
         "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSUxIOE01VFloYzVGaHo3NHpmTjA3T3RfeGE5aG5DaHdzVldtNkJ2LVVlVlREVkV6RXY5T216UzhTZGoyajNWdnExUV9mSlB2aGNoSDctMG9qVzdLT0YwUGZFOTBQdVFYdkFZVDFMTldGQmw1MnhZdVRyQ2JIWGllUkNXTjFSOTVrZEZHeEpyN2RibjFkWW1fdVVPaUFlRGdDeFd2RGduN1lsdzdnaEp1LVdfUldscTdxRmN1bmtEQkxVUFhGLW01cjJsOHNqb1h4UnFtbmcxZi05WEFKN3lyQWtxaFI3YnBhbFZtX19BTzJhYUJ6d1Rzbmp3?oc=5",
         "date": "10/17 02:36"
+      },
+      {
+        "type": "positive",
+        "title": "Alphabet Stock Can Soar 22%, J.P. Morgan Says. Why Google Can Defy AI Fears.",
+        "publisher": "Barron's",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91SExKR1JKUTMxSEpGTGxMYkRCX1ZIQ0wwd25pcEJVZ29pc2ZRdlZqN2N6ZHZYdWpVRV9TQkRKUGFwZk4tZFlPMmNQVHFUc25XRTd5YU9QUHVGTm5TQmpRczBYN3ROVjNnUGVQblg2akJKYVJTcG9RQnNLaUY?oc=5",
+        "date": "10/16 02:48"
       }
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "Why Is QCOM Stock Rising Premarket?",
+        "type": "positive",
+        "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3pYNndEZVpQVVpPVVl3N1d5NUhrcTN3TC1Xc182eXZsbG0ySURmVVdrbWwwWkFYQjg5ekRzcnhITGJkNWZXS2JQSkRkQTlBOVo3Zy1VbURRaGI2ZC1sdlBCWTdRQ1NRR3ZLWVdpU1V4RFNxTzZZcktqNmdzeEsycUh3dkF0eVN5Q1kzaFk0aXZyTm15UVRqTFN4R1d4N0k?oc=5",
-        "date": "10/17 23:35"
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkM4c2wtZTFfcU9jaW1saWZvaFZVaVNWNlhJbjdNdzJjSGVjckN4N2dDam9CYXZ4SktMR1o4MThSWnZ0M3JfbEo5dnN1LVd6WU5XeDNEdFctaC1zZ09jbE0zcUt1ZXlvTlJwelBvT0s0cmFYbjE1NjQ3aWludXBSNzlUd2xYSzViVVBnYTNtZFByTDdyUEthZjMySDhqNk5BREp1RkhMZDFWZ3BLXzBfOGtSbFQzZnpOaTRXNEhoT0NRdlM3bm44SDNhQ2gzdF9z?oc=5",
+        "date": "10/18 12:58"
       },
       {
         "type": "neutral",
@@ -1035,18 +1030,18 @@
         "date": "10/18 16:17"
       },
       {
+        "type": "neutral",
+        "title": "Vertiv Holdings, LLC (VRT) Stock forecasts",
+        "publisher": "Yahoo Finance Australia",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObTV6OUFrTi00UVJZUDZkX1RwRktjdjJVR0tNNkNJanZ4YjRwc1dvRHBaRjE4NXU2YXBBVkZuOE9UTjlPVHJtUFF0MW5HSFFsY0NXSWtYTlhIU29TSEpMZlJvajMwaEdZa0VIeUFBVS1QMlQwSnZpQVdmc2REazJQQnhCVkJqOFZadzNZVWp2NEh6SXVH?oc=5",
+        "date": "10/18 09:00"
+      },
+      {
         "type": "negative",
         "title": "How Much Further Could Vertiv Stock Fall?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZwNGNiWHdKOHlKZ0tjWWZ2T0V2MXZ1TlZnUWNsSFJBTnRJNnNreEpUbGVOTVpWd2VFcXROZV9PdjRVZDJpcDVWY3ROWFZOb25FN1E3Z1BpQXRkeVJzdXFUN1NqZHNCZElsVVZla1BLRExscEtLQ2FUVllEdjZPby1fU0pSeGdOeDhvcTA5NHNaQUZyaDVpWWFuZjNmU3UzSnc?oc=5",
         "date": "09/25 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv (VRT) Stock May Be Fully Priced After Investor Rights Probe",
-        "publisher": "Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNC0zeHlsV0toZ0k5eUdiRXNKY3hzZ2dnNlRhdXZKY2twNnB1X1JhOXhMRWZvdHFQdWdnblRhSkc5WjBfODNZVUZCRlZwOGtDUUFVZzlXTmNhOXdOdk9RTFhPZm5jWk9LeVQ5UWZDUjFDMXJkNUEyTlNHTFR0UE9NUjJWR1JkcnhqQnl0VVBlZzdBN0xuQTRNWW5ueVlydVRXYlQ2aXMwNC1OeUVvMEMyM1hIalJfWkV3cUF3eEtDaDA5VlBxYmRLdnpmZWphQ0R1QUtWQmdB0gHbAUFVX3lxTE8xc0lmRElZNGNYZU9TMW1ndU5nUXgxZWhHNjYydmRGYm9jb3V5WWpXOVRIeXRtRU1IRUNQMzFreGdqSXB0bWhWOGhGSmdyMFZSM2x0MFRPay13aFc1dElCZk0yYi1VdUJTSzZXOXdqUF9LZEJfVHotVGhTT21MbmhrNDBRVnBMb3A5ekw0dTRsM2p6MlcxcmpoNkRWS0xjcnpMblIyWFhNMG0zZUJKYWg3TTE4Skw0TXNOUWVLTFBBM21fYVVHa3hPX0FHNnBZaEMyMnI5ODhhVXlPRQ?oc=5",
-        "date": "10/13 05:41"
       }
     ]
   }
