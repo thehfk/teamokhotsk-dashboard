@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:17:48.416092+00:00",
+  "updatedAt": "2026-10-19T04:59:04.485357+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1333.68,
-        "change": -0.54
+        "value": 1330.15,
+        "change": -0.81
       },
       {
         "name": "KOSPI",
-        "value": 5668.05,
-        "change": 2.05
+        "value": 5700.49,
+        "change": 0.57
       },
       {
         "name": "KOSDAQ",
-        "value": 794.78,
-        "change": 4.46
+        "value": 797.89,
+        "change": 0.39
       }
     ],
     "groups": [
@@ -682,7 +682,7 @@
               1340.31,
               1339.35,
               1340.95,
-              1333.68
+              1330.15
             ]
           }
         ]
@@ -749,7 +749,8 @@
           "10/13",
           "10/14",
           "10/15",
-          "10/16"
+          "10/16",
+          "10/19"
         ],
         "series": [
           {
@@ -814,7 +815,8 @@
               6035.35,
               6008.81,
               5554.22,
-              5668.05
+              5668.05,
+              5700.49
             ]
           },
           {
@@ -879,7 +881,8 @@
               837.03,
               823.88,
               760.82,
-              794.78
+              794.78,
+              797.89
             ]
           }
         ]
@@ -903,11 +906,11 @@
         "date": "10/18 23:34"
       },
       {
-        "type": "negative",
-        "title": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think (AVGO)",
+        "type": "neutral",
+        "title": "Broadcom Crashed From $495 To $328 - I'm Buying The Sell-Off (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE5QempUSld4MWlNT3BfRzJIWm9HMG1SZjUtS0R5cjEzQ3lKVUZtVFo1UUwxUXFnSkFlSkd2NFhTczBpb2h0ZTlRdVZkVmtnRVhsZHJDSFJZdjhpenlRUlFCZG54NDJlbS1LWmpfQ0dsaDlqVUY4a0NlQzROWUwtVk02dXZxYkVoNFR1SmNra3k4dTg1ZG9aaTlyN1BfRlVTalZZRW40Z3F0U2ZFa3VuQV9xVXJDcjZNNi1QN3o0YlJ0Sml5N0tJ?oc=5",
-        "date": "10/16 20:25"
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZExOaHFFbUV0Uk9VblN3blBEVzhhY3ZINUd0ZUstQmw0RXRpdGY1QjNaS0F6QUphTUtUMFhYcldINUZ3RDhmM3hCNkR5QUViT0NVS1huMGdGZng1Q3BZV2RVM24wODcwOVRFdVA5OEVMbDllREw5R0l2bU9xc0UxQW9XeVp0YTFheG1kS1N0b2VKU1RtWDk0T19rT2s?oc=5",
+        "date": "10/18 22:30"
       },
       {
         "type": "neutral",
@@ -918,10 +921,10 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom Crashed From $495 To $328 - I'm Buying The Sell-Off (NASDAQ:AVGO)",
+        "title": "Broadcom: Market Misunderstanding Is Baffling, But Don't Be Fooled (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZExOaHFFbUV0Uk9VblN3blBEVzhhY3ZINUd0ZUstQmw0RXRpdGY1QjNaS0F6QUphTUtUMFhYcldINUZ3RDhmM3hCNkR5QUViT0NVS1huMGdGZng1Q3BZV2RVM24wODcwOVRFdVA5OEVMbDllREw5R0l2bU9xc0UxQW9XeVp0YTFheG1kS1N0b2VKU1RtWDk0T19rT2s?oc=5",
-        "date": "10/18 22:30"
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWVlVXZfX0pRaDVFRVdZM0xGNHd6MHZGQnM1M1k2UTc2Y21vVk82OTZ1OE4tTVJabDQ3Mms5alkycVdhdjh1TW4wR2VUX2U3eEExWWRzeGdyRm1JZmM2eDZaN3hQZDNLY0drOGViczlKS1RyNGR5Z290aXFrb3lxeHdzSm13OHlSRWV0MEpmRmtDWlJtWUViZnRUbTFrMVVyWE9wSzkyZw?oc=5",
+        "date": "10/18 22:54"
       }
     ],
     "BE": [
@@ -940,18 +943,18 @@
         "date": "10/16 09:46"
       },
       {
+        "type": "positive",
+        "title": "BE Stock Rises Overnight After Oracle Reaffirms Project Jupiter Role: Analyst Hikes Price Target On Gaining Market Acceptance Ahead Of Q3 Results",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOYXg3YmlyVGhEWVRLSHlJYTBYU2QwS29pS05IWnhOTlVpQTRtdldfNGU1V1FiamJ6cDFnbl82dHBSQ2NoVWdhZXh6MjF2Rzh1LVRneGFxaEJHY2hVUWdrem5FNHNTSFhIMU1sY3Z5Vk5Temt2QmNKSE8wTWs0RUhMN19rVEZEbHVjejhVaEFMX01TSTZMVVQ2RWwyQTlPSVc4VF9FS0huLUJSUGZkU3NmRU9xOU5uU1U0YTRYQ3ExQmZOOFBDNFprMkthdlk5N3JqX2d2b0JiZFFyVzJwVW9kYlVER1JiY21RSXZEbXFsNkt5Ylp6WlhYc2E2dG05M1FCLTNSMHRWcG5iMHQtZUVZaWtVVURiYk9lX0s4dzV1YXF1dDlzMGxmN1R0QnRvc09lelE?oc=5",
+        "date": "10/18 07:10"
+      },
+      {
         "type": "negative",
         "title": "Bloom Energy (NYSE:BE) Stock Price Down 6.2% - Here's Why",
         "publisher": "MarketBeat",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkkycEVkeS12cE5VaTN3a2JSaUJwczJmNEdtaUVBZlItZDk3WmFXZjhTVmFBcTlBMkJqVEg2RGhUazV0bUpVbWRZOU1odUs3T29VelN2X3JCcHNCb2VITXRfQ3Rzb05SZ2k3TWY2VlJSVUJYd0dLYV9LVDRHaG5EUzQtZjZXSmZpYzJaT3NrU09CSTRlcXVRQWFma01MTnVuQlRpbGxjQ2FPTXlzQW5v?oc=5",
         "date": "10/17 06:48"
-      },
-      {
-        "type": "positive",
-        "title": "Gainesville Fire Rescue responds to about 32,000 calls a year. Bloom donated $10,000 to the firefighters' organization.",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTnFDcGhtS2tQWjUycDZmTzVpNndnYW1xY3dCUDdHbUc1UUJmc3oyTVdWTWl5Nm1SSjhhcjFCaVJYRk9jLUwzWFlQaVY0Uk0yNGRNTEo0VzhRNzVIVVJ1cEw4cXkzVkNnTVNwakdrOHdybVB1T18xNmhMQXpoRmh3NlhvRmotRVFOUFdUNjVLSEN5SmFWakF5bXhRRmdQSDE5RW5jV25iQklTcUtTQ0taTzlBVGZqTjI0?oc=5",
-        "date": "10/17 05:33"
       }
     ],
     "GOOGL": [
@@ -987,10 +990,10 @@
     "QCOM": [
       {
         "type": "positive",
-        "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
+        "title": "QCOM Stock Drops Nearly 8% After Hours — Qualcomm’s Q3 EPS Misses, Weak Q4 Outlook Overshadows Revenue Beat",
         "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkM4c2wtZTFfcU9jaW1saWZvaFZVaVNWNlhJbjdNdzJjSGVjckN4N2dDam9CYXZ4SktMR1o4MThSWnZ0M3JfbEo5dnN1LVd6WU5XeDNEdFctaC1zZ09jbE0zcUt1ZXlvTlJwelBvT0s0cmFYbjE1NjQ3aWludXBSNzlUd2xYSzViVVBnYTNtZFByTDdyUEthZjMySDhqNk5BREp1RkhMZDFWZ3BLXzBfOGtSbFQzZnpOaTRXNEhoT0NRdlM3bm44SDNhQ2gzdF9z?oc=5",
-        "date": "10/18 12:58"
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN1VSVzNDdDAxeFdoQmJFY3dVMExzdHVCSEtvWkpNendQNWtVOWM4NFNIYTZHM1RZZzJBQ0dmRmQ3QVZpdVF5LUNhNkUzSWl1dzBOTHZqRTZiTXlWbmc0d2N4eDB5YVN5UkEtTTZLS0IxWWNNczVZNkY3QmJJb29Hd2JEMHhUcXljakY4X1lrZ3N1ZnRwS0ZDblF0Qi1hV1VVdWt2alh4YTB6OGxYbFdGR1pqeG0zbzkzazA3NUtKQ1k4UkV0MHhOcmNkbmRDYm1pNGRsUGNHS2FxQ1BMTzFabVNlM2wySUtMVVo2ZGZuc1VoT29zb2taNWdmX3VsTm9ZeFhZ?oc=5",
+        "date": "10/19 02:52"
       },
       {
         "type": "neutral",
@@ -1024,17 +1027,17 @@
       },
       {
         "type": "neutral",
-        "title": "59,054 Vertiv Holdings Co. $VRT Shares Bought by Assenagon Asset Management S.A.",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVlVxSzFaRDI3d0twbFo3Si1sNjd4TGRXS3gwMkNkdjBYMVJEelh2Mkdlbld5Ry0xYTJKSHJHVWxZOGNteVFQSGxHQXJOWFowdVB0d0hfRGpFUlJCZEJxRUpiMGZ1SHpBc21vanFpQmRIY0tQSUF3WllyVURBUi1JYnJwVHBvN3dqMkFlWm9iNDVjWk45MWpnckNRaGZnN2p5R0k2d1FXZGdLWk0tQ0tyc3RjUkhhTEhhYzlzNmlUaVBSN3VHM0o1MnY3a0l3aHdvb2c?oc=5",
-        "date": "10/18 16:17"
+        "title": "VRT Oct 2026 212.500 call (VRT261023C00212500) stock price, news, quote and history",
+        "publisher": "Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xb1d3TDdqSnB2N3FrbWZwWUtSaGRTSWZJMlVDSjZvdjZNbmpDakUxV21XcFJEZmgydmFvRkZlY2hpSUM5MkhVb3B2dmttWG9Rb3dpaDBlMXo5eVBKOUh0a2dVRE8?oc=5",
+        "date": "10/19 02:09"
       },
       {
         "type": "neutral",
-        "title": "Vertiv Holdings, LLC (VRT) Stock forecasts",
-        "publisher": "Yahoo Finance Australia",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObTV6OUFrTi00UVJZUDZkX1RwRktjdjJVR0tNNkNJanZ4YjRwc1dvRHBaRjE4NXU2YXBBVkZuOE9UTjlPVHJtUFF0MW5HSFFsY0NXSWtYTlhIU29TSEpMZlJvajMwaEdZa0VIeUFBVS1QMlQwSnZpQVdmc2REazJQQnhCVkJqOFZadzNZVWp2NEh6SXVH?oc=5",
-        "date": "10/18 09:00"
+        "title": "Vertiv Holdings Co. $VRT Stock: Annex Advisory Services LLC Raises Holdings",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3FpSERleEdwYWh0UEhMV0t2U1FOcGRGSTl4LXBtVkdsNWxFXzB6cUpiQ3VMbDdjaVVCZXJ4Q09oMFFKOTFoS2FXbzFITkRYcDdJVnZGT0l1RzJFbEFSVE1RNlpNSTVrY21pWmJqVDNsaHJ5T1UybWdQckJQY1ozTlh1bzZWd0tIQ0xMQXJXeXZubU84a3hzR0NOcXVKWjJXbmpHVnVHcFRmaFlVTThEaS1BZWJYR19LREFpcTA3WWV1TXE5cUFyMUpkT1RpZw?oc=5",
+        "date": "10/17 16:37"
       },
       {
         "type": "negative",
