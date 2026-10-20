@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-10-20T15:28:01.984142+00:00",
+  "updatedAt": "2026-10-20T19:28:42.900599+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7718.5,
-        "change": 0.36
+        "value": 7708.31,
+        "change": 0.23
       },
       {
         "name": "NASDAQ",
-        "value": 26480.59,
-        "change": 0.19
+        "value": 26413.93,
+        "change": -0.06
       },
       {
         "name": "다우존스",
-        "value": 52451.98,
-        "change": 0.94
+        "value": 52438.48,
+        "change": 0.91
       },
       {
         "name": "공포지수 VIX",
-        "value": 18.01,
-        "change": -2.33
+        "value": 17.45,
+        "change": -5.37
       },
       {
         "name": "미국10년금리",
-        "value": 5.11,
-        "change": -0.58
+        "value": 5.12,
+        "change": -0.39
       },
       {
         "name": "원달러환율",
-        "value": 1327.56,
-        "change": -0.44
+        "value": 1325.68,
+        "change": -0.58
       },
       {
         "name": "KOSPI",
@@ -183,7 +183,7 @@
               7744.06,
               7659.44,
               7690.73,
-              7718.5
+              7708.31
             ]
           },
           {
@@ -254,7 +254,7 @@
               26713.03,
               26140.03,
               26430.89,
-              26480.59
+              26413.93
             ]
           },
           {
@@ -325,7 +325,7 @@
               52177.69,
               52002.41,
               51966.03,
-              52451.98
+              52438.48
             ]
           }
         ]
@@ -471,7 +471,7 @@
               16.46,
               19.99,
               18.44,
-              18.01
+              17.45
             ]
           }
         ]
@@ -615,7 +615,7 @@
               5.09,
               5.1,
               5.14,
-              5.11
+              5.12
             ]
           },
           {
@@ -687,7 +687,7 @@
               1339.35,
               1340.95,
               1333.43,
-              1327.56
+              1325.68
             ]
           }
         ]
@@ -895,11 +895,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 42.6,
+    "AVGO": 42.0,
     "BE": 28.3,
-    "GOOGL": 47.8,
-    "QCOM": 37.0,
-    "VRT": 20.3
+    "GOOGL": 45.1,
+    "QCOM": 40.2,
+    "VRT": 19.6
   },
   "news": {
     "AVGO": [
@@ -926,13 +926,20 @@
       },
       {
         "type": "positive",
-        "title": "FedEx will keep using Broadcom software to support its computer systems.",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ2doS1JrRUp1ODRBbXlUYlBVXzVYZDk2SzVNa1lNczMxZWVXSVJwdUVwMGt6OU1jOFpXM0Uzb2xFZnBNYjlvckRfQWRYVklNcTBPMXlXVkRnX01pVWNYM09ua3dLYjRMVThlYmxtdFhEZzZYNlFwaDdjZ21VN0NVUnR3bjdWenctbFYxdVhvZ202Qm1RdUx5S19pOTI1Z3JxZU03ZmdNVHFQZURfa280TEQwd29meVR6M3JLeUJ0ZEg?oc=5",
-        "date": "10/20 22:00"
+        "title": "Fund Update: 504,316 BROADCOM (AVGO) shares added to Cardano Risk Management B.V. portfolio",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZXVtZkk4eDF6QUN1c1dxRnYxTVVIRmN4MFU2OWdEblJpT296MVc3OGFIY0dEd1QyeF9HMTFZdjFiUE9qaTZUWGVma1dIcGl3LW8yTi1FN2x2MWFRV0xMUG1zdnQzUnNNY3JoUzdUZlRNRnJkV0VYVmNRcHpMSEpRaC1JNFM1c09NcHEzOFZZLXNWQ2J6cEdob2hyV3laWGVpbVFNaERWMmxCUmNFaml3M0xmU1YxSU9HOTNYVE53eDJTV0Z6TmtUTEJnNDI?oc=5",
+        "date": "10/20 22:30"
       }
     ],
     "BE": [
+      {
+        "type": "neutral",
+        "title": "Bloom Energy Stock Slides: What's Going On?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTE5VMUtfeXUyYlVPQVBvaEcwN0RvSWlKRDRZQVhkcUd4UXVOR3F1a3p6US1Ga2pzMGVzcTk0RWJfdmpBdTl4SXpWMEwzNjNwTkFaSjF1a0FQcUkyT2VSa2JRanZsNE9WTHhROTVkYU5HTDZWZXoxNjVYNWl1WWRoX2todW45VnFtdTZjRmJLRUo1T2hDSTRGNGtJY19NR3c5ZWh3?oc=5",
+        "date": "10/21 03:49"
+      },
       {
         "type": "neutral",
         "title": "BE Stock Slips Overnight: Bloom Energy’s Valuation In Focus Ahead Of Q3 Earnings",
@@ -948,18 +955,11 @@
         "date": "10/20 08:28"
       },
       {
-        "type": "positive",
-        "title": "BE Stock Jumps Premarket Into Earnings Week: Retail Bets On 40% Pop As Wall Street Eyes Strong Q3 Growth",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWRDNUM2S3JlM0Fad29TYm03cGtwZVI3SmRicHdFam5HblRrdlV0UVI2b0RKUzhfRVJaR0o2Y0RnX1VOcFJNOUlUeW1fdGE2OGl5QW5xREg3V1g3dDVaaDFIWWZlRy1kU3Rfa21WZVNiTlpUVEFuY0NVVW5fcGlkaGNCbGV3bTc4NG1OVWZRcV80bWpoWURXUEUyd205djcxbk8yZVkxZ2ZaQWhRa2Z4enNRZENaTGJLR19QcW5ldjNJeE5EcDJtamNSWQ?oc=5",
-        "date": "10/19 17:21"
-      },
-      {
-        "type": "positive",
-        "title": "BE Stock Adds 3% After Oracle Signals Project Jupiter 'Moving Quickly'",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZWpLOTYyNUo0d0RZVy1aaWc2UlZ5WnM4Y2Z3MzJMbi1jdEpNZWVrejB1emtLTnhISzVDMXo3dE9OcmY1TEdXdFhDbWtZOFp3Rm0zeU1QQ1AyMmdNSVRBY0xmNER4WUdYT25WVzh3SzlaVzRESGI3ZGdtQ0Zzck12U2NVLUJ3X1RFdzZaeU5XUTU1bGpiRXc?oc=5",
-        "date": "10/20 04:50"
+        "type": "neutral",
+        "title": "Bloom Energy (NYSE:BE) Share Price, Forecast & Analysis",
+        "publisher": "Stocks Down Under",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yb1pIYUU3bVQxQ1hTYjQ5RGUxckN5ODJoeVVDT29zd1Y0WHhHNE5pNGduSVhmdUJXS3d0RUtuRkU1ZUYtb1hfN1FoVi1tUkowdW5DdE9KbjBfdGk0WGc?oc=5",
+        "date": "10/21 04:21"
       }
     ],
     "GOOGL": [
@@ -994,42 +994,35 @@
     ],
     "QCOM": [
       {
+        "type": "negative",
+        "title": "Qualcomm Cuts Global Workforce Following Performance Focused Employee Reviews",
+        "publisher": "TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONl8tMlNBeU9WamxWWE1LSUE2SGdKX01Ud1ZtWmZfbW1NTG56MXdCeko4YlJ5NnNYQW1IQ2tlcHBFVGJ6b1g0UVJpMGFxNjI3NjU0SnNjaGdRczdLQ2NFQU5NUy1EZWJYNC1GeEhhbmxBSWdPd2Jicy1yMUs1OVdtSWllbUR2d1pV?oc=5",
+        "date": "10/21 00:12"
+      },
+      {
         "type": "positive",
-        "title": "Qualcomm Incorporated $QCOM Stock: Novem Group Cuts Stake",
+        "title": "TD Cowen Forecasts Strong Price Appreciation for Qualcomm (NASDAQ:QCOM) Stock",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGZmc1lsZjBVdGZRakpLaVpZTXJWZHFvTzFobWFfd01qdXlGRVI3S1FUX2FPdThpUUtyeTdsU0ZfazhMVms2NWRNNUhrSkwxbkc4VHV3bTRqNl9heGoyZmlCMEZ2Z2JYT2NudF9qRkZlQzdLbGJ2RUt2amM0UWNkWWhDc2ROYWZreVZYR2EzOXFBM081dWVWS2lmTE9lTjRfWDNkU085bnNQZk1pMXQ0ZldCa2VOcWs?oc=5",
-        "date": "10/20 08:42"
-      },
-      {
-        "type": "positive",
-        "title": "Lobbying Update: $610,000 of QUALCOMM INCORPORATED lobbying was just disclosed",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc2tLVk5ObTFfZGw2eDNUakpDZ2FWbFo3MFlKa0o3aUlwOXh2QnJzMWFPQzFSWFJEc01yTTFJSzlZMXRSaUU2VUE5blY1Z3RZV1FwU1FqQTdGX1FxSDdRa0hsdWdqQll6N3ppZTgxWTl6c0Y5SWdrN2R0aHM5SmZ0cFVScENwTFZyYVlBcWJUeTBmbm8zOTY1UERtWGprU3V4MllRRi0tQW12WVN5MkhHdE9kbDJ3M25N?oc=5",
-        "date": "10/20 10:13"
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFplWFVGbFJOMm11ZFhoT3hMNGFBX3cwcFhIV3FjbWNqUThnRnMyMlU5dTRmbUg3SXZHZDh4R3FSeXRBMS0tTUhYZjc5Y0VVNXEyY3ZwaWFrTGRsMGtXU29KeXFlYUJ6ZjlXSmlEY0h3Vngtd2ItRlkwbGlHd1pBejFBODZjcmc2WVR0dFFvZ1FrRGZYb1pJMXNabm5iczdxSzl2NjFkY21KN1FJc1UtYzFudHJlQlNlWHIxZFowNU83em9FeVdIQ0V1N0Z1d3ZyVDFv?oc=5",
+        "date": "10/20 21:09"
       },
       {
         "type": "negative",
-        "title": "Qualcomm Stock Slips as Report Reveals Possible November Layoffs",
+        "title": "Qualcomm Stock Climbs as Report Reveals Possible November Layoffs",
         "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0U3aXhydy1XRm1STm5oMENyd1NzeFZPLU5oQ2xrOTduMUo4MXc1OFM4OXItUUgwT3hwOG8ydWc0RUxzckkzTmdybUFKVmsyNUduWkNpWFNSTWswTml4R3BrS1J6R3RUak4ydUtaTjhTZDdUbW5vdUtrUEp0Z2M5Ry1jRHhCLW1NR2xnMmVPRHg3LUxSaUdSY0VXSmhVUzlpWmtFcWwySmo1N2R6UGtNVFF2WDRiRGZnY3VVclNNVW5EQQ?oc=5",
-        "date": "10/20 22:02"
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS0ZVNkNpTUZjNzNRLWtaaU9EdFpxRzRIamtXQ2d1S2JwY3h5cU1qMjZDalFtbHhZbFFPalhpS0ppanl0a3pGeXJ6ejc5ejRuMnYzRVhfRHktZ1pXNndJYVE0TmkzMDdCR05UNHpKNEVyMmstX2NIc3J5b3g4OGhyWHRuTjJYeW1aYXFmWm1SVGNoNE1kNGJnT1NraVIxam1xYVdYNnpYc1N3WEcwRG1ITC1ocEp2Zk1HUERCVWVHbDNicXM?oc=5",
+        "date": "10/21 01:08"
       },
       {
         "type": "negative",
-        "title": "Qualcomm Stock Slips as Report Reveals Possible November Layoffs",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVBHaGdTcXJBNG9aQ0VqaF9tSHdQNlh5OXdKN3N5TV85bGdPM1NNX3FJc3pkVVZhcmRSdDZLZl9Od3FQRGxTNV91RFdBLXVFTVJacU90Y3hHUW44NV9xc1FoREhlRGc4djVXXzc5OUo2elpUOUJFdmh3US1tX25RZDhLU2tPWTJQaTZ6ZmtGdnd2bmw3aW5XVW5pOEVfMGdtUDNRUy1R?oc=5",
-        "date": "10/20 21:34"
+        "title": "Qualcomm Plans Global Layoffs Starting November",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRkQwdXdST1NWckRsX1VqOU93aWlOR0Utb3drSEZremo0ajZaVnYxbEQwUlJSNnAtYkM4SVMwdUh3TU1zY3FBanNNQ0tXckN1TUF0dkRHMzdDalJndkJNQWhVa05LYXV3SXFWaG16ZlBfUDhOY2R2RklGeFkzVEV2cm1iaUV6UHYyNEZUbTEybE56cVVWSElkZDltWUFvVmdRclJWaFNIWDVXSURx?oc=5",
+        "date": "10/21 01:27"
       }
     ],
     "VRT": [
-      {
-        "type": "neutral",
-        "title": "Vertiv Holdings Co (VRT) Stock Price, News, Quote & History",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LT1pWN19FaU1Ec3psd2ZLLW5VTkpOQktrZWZ1ekt5Mzk3aFRuQ2stUE00LXlyRlNvZnFXdXlxVU1DQ0lrX1Y2NENMUVRQamVE?oc=5",
-        "date": "10/19 06:54"
-      },
       {
         "type": "negative",
         "title": "A 10-Day Losing Streak Has Vertiv Stock Down 19%",
@@ -1050,6 +1043,13 @@
         "publisher": "TIKR.com",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2F6cWlTQ0VFRU5VX2Jsc2FWZExYWTNrRHJBdVlNSTFVX3EtdkFBMG5BYzZDM21YSWd4UkE2SDhMbUVobjM1dW5aS1k2NjdXdWtqTFdDaFRzS3FvTEEyWWdiNzBXcjN2TXZSTU9nd1VoR3B5amhVVm9ic2JOdTE0RTNmYVhFQ0dBUmZTd3Z5dE5vY3h1?oc=5",
         "date": "10/20 18:33"
+      },
+      {
+        "type": "positive",
+        "title": "Vertiv Stock Falls 11 Days, Analysts See 54% Upside - Vertiv Holdings (NYSE:VRT)",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZy1oWl95dFcyWVBfY0lJZFVieXd4MkJEQWtqYzc1bGF6TTM5WUU2VVNzemh2ZkRUNURfd1B6M3cxUWpjSEV0VktBYWt5Q1Bjd3ZYT0NuZTEtb0tsZ1VRYUtvQlZFUDR4U3NFZnVURnpiVGdmTWIwMjUzNVowTmxkSGpFVjBhSXFOUVB5UHNHbHJ4MHlDOThVeVpkdWhhanVLbkxwZnQxS3FEc1U?oc=5",
+        "date": "10/21 04:16"
       }
     ]
   }
