@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:48:50.862573+00:00",
+  "updatedAt": "2026-10-20T05:32:15.835519+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1325.58,
-        "change": -0.59
+        "value": 1327.38,
+        "change": -0.45
       },
       {
         "name": "KOSPI",
-        "value": 5646.1,
-        "change": -0.39
+        "value": 5550.81,
+        "change": -3.77
       },
       {
         "name": "KOSDAQ",
-        "value": 791.72,
-        "change": -0.39
+        "value": 785.74,
+        "change": -2.86
       }
     ],
     "groups": [
@@ -679,7 +679,7 @@
               1339.35,
               1340.95,
               1333.43,
-              1325.58
+              1327.38
             ]
           }
         ]
@@ -747,6 +747,7 @@
           "10/14",
           "10/15",
           "10/16",
+          "10/19",
           "10/20"
         ],
         "series": [
@@ -813,7 +814,8 @@
               6008.81,
               5554.22,
               5668.05,
-              5646.1
+              5768.01,
+              5550.81
             ]
           },
           {
@@ -879,7 +881,8 @@
               823.88,
               760.82,
               794.78,
-              791.72
+              808.89,
+              785.74
             ]
           }
         ]
@@ -887,14 +890,21 @@
     ]
   },
   "rsi": {
-    "AVGO": 40.1,
-    "BE": 36.9,
-    "GOOGL": 47.7,
-    "QCOM": 29.7,
-    "VRT": 23.4
+    "AVGO": 40.3,
+    "BE": 25.9,
+    "GOOGL": 53.3,
+    "QCOM": 35.3,
+    "VRT": 18.4
   },
   "news": {
     "AVGO": [
+      {
+        "type": "positive",
+        "title": "AVGO Stock Edges Up Overnight After 10-Year Docomo Deal, But Retail Stays On Edge Over CEO’s AI ‘Casino’ Remarks",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWZBUTlvY3ROM3o0cXNvTHRTN2U0MEdFclRnMEo4aGhmYm5uNzdqSG9KYXpRWEpLUHA3eWVWWm94QmdjUDBoZDF5b2JWM2NsTjJybXRMa1lNU1RhQ1JraUZtUnkzMzJUajdHRlg0TWpDMUJUWWdwd2FDWl81VUloWGRrczZkN1draVY1WV9WTTE5VDNCTUVvOGtn?oc=5",
+        "date": "10/20 12:08"
+      },
       {
         "type": "neutral",
         "title": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
@@ -911,17 +921,10 @@
       },
       {
         "type": "neutral",
-        "title": "Is AVGO Stock A Buy Right Now?",
-        "publisher": "Forbes",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0l1OUtaQlhYbE1ILWZnbkZqbmxISFhpYlVmQVM3ZWtLYllzdWNOZm9VUngtejgzLXFWbmoyZEp5Q2pYdk1YVXBvblFZczVaRFU3a0diOHF6OHpGY2dYSjRla0h1YTAyaDVNSlRlcXFWSFhHbVJ1czdBU0pRZnB0RVpmNWtYYUJWaUlKNm5jM1BBZw?oc=5",
-        "date": "10/19 21:28"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think (AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE5QempUSld4MWlNT3BfRzJIWm9HMG1SZjUtS0R5cjEzQ3lKVUZtVFo1UUwxUXFnSkFlSkd2NFhTczBpb2h0ZTlRdVZkVmtnRVhsZHJDSFJZdjhpenlRUlFCZG54NDJlbS1LWmpfQ0dsaDlqVUY4a0NlQzROWUwtVk02dXZxYkVoNFR1SmNra3k4dTg1ZG9aaTlyN1BfRlVTalZZRW40Z3F0U2ZFa3VuQV9xVXJDcjZNNi1QN3o0YlJ0Sml5N0tJ?oc=5",
-        "date": "10/16 20:25"
+        "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2l1RTh5SXRoaVI4ci05eDRHUWpJdG54TU1HbkRRRlc5Y1ctdDI1VG9tN1BXTS1keVJOZndJX1BfN3hrWUNfX1dVMi1HVjhDREIyRlNvdEt2VnJnWlMzaElOTkRLN2hRbkNLQ2QzbVJ4c25scnFHV3E4NVFKdWMtRUI0dVVSSGl3SW04b3hVTkppVExz?oc=5",
+        "date": "10/18 09:20"
       }
     ],
     "BE": [
@@ -933,11 +936,11 @@
         "date": "10/20 04:50"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy (NYSE:BE) Stock Jumps 2.1% on Analyst Upgrade",
+        "type": "neutral",
+        "title": "Bloom Energy Corporation $BE Stock: Kercheville Advisors LLC Boosts Holdings",
         "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamFfWkR1cmNOT0FCeDhWdzFGOEc1aE84cG1PcmxlTHR0eWxwdXpFcERRcUw0VWtpYVN0Y3dVaUNuZEU5VHIxdkt0Y3RvVGQzSjRaeWNRYlZWcHFwWnl0OGFQY2VzSF9CcGpnMWMtRmZoaVV2bHJLXzUxRHdpLTk5UWxsX0UwMnZXZmpJNzZLN0tSZlBMdEw1SEFsV0hhX05pcng5aHFKbjlvanBMeXlBT3ltUTA?oc=5",
-        "date": "10/20 06:33"
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM085VUVPblNHeTRBSzVjUFJEemRqS1pUd2x2MDJxUU8tR1Y1N296RHZHdFk0NUt0cHpjVjZFOEY0dTJrdEw0US1vTFhsd0hwTlRSZmNEa0RmQjg3bGFMSGYyQXc1RWI5N29HUW5lMVNHZmJubThIQW5WeTBtQ0lIcTFEeGlzVm1CdXI3RUVUMHBrV2lhOEpCdjJ3TUhhQ2lBZXA3VkRLSjFaLTlaY2pWZzhvNGFjZjFLNGdJVDU2T2ZkWkVGTUFfWTJaY3k0Slk2?oc=5",
+        "date": "10/20 08:28"
       },
       {
         "type": "positive",
@@ -970,18 +973,18 @@
         "date": "10/18 00:14"
       },
       {
-        "type": "negative",
-        "title": "Alphabet Q3 Preview: I’m Not Adding Before Q3 (Rating Downgrade) (NASDAQ:GOOG)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVpBT3FzX3FPOVdqa1dRYUJzeXBMdElfZkdxbFUzT0NaMlZhT2JxQjhwbXI3NG04d0w3dlp2S3VPSXNlWV9WYXFiaTNUMTBRS2NDc3dGMjM0SXdwX2lDMXVsQnFlMGh2eThDeHFWQ2V5QmgySmcwQXY3MEpZVGFPVDRPTTk5bncydEpQaFB5cER6V0VINkdDUlZBal9EWkxKWHFv?oc=5",
-        "date": "10/20 00:20"
-      },
-      {
         "type": "neutral",
         "title": "Gemini 3.8 Flash Lifted GOOGL 0.7%, Scored 59 on AA [2026]",
         "publisher": "shattered.io",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ua2t4dFNtR2pURTBaQXVDMnJtX3RSano5ZmFHRUZVZ1ltaEJwM2g1UWJwb1ZoTHA0dUxYbS1qWlRhSGVNSFZtcjRLR25IelRBdmZxV2dkd3VScDJva2JnSmJIQ25CbjVHMnhLVWtSY2I3a3hQY0E?oc=5",
         "date": "10/18 10:05"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet Q3 Preview: I’m Not Adding Before Q3 (Rating Downgrade) (NASDAQ:GOOG)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVpBT3FzX3FPOVdqa1dRYUJzeXBMdElfZkdxbFUzT0NaMlZhT2JxQjhwbXI3NG04d0w3dlp2S3VPSXNlWV9WYXFiaTNUMTBRS2NDc3dGMjM0SXdwX2lDMXVsQnFlMGh2eThDeHFWQ2V5QmgySmcwQXY3MEpZVGFPVDRPTTk5bncydEpQaFB5cER6V0VINkdDUlZBal9EWkxKWHFv?oc=5",
+        "date": "10/20 00:20"
       }
     ],
     "QCOM": [
@@ -993,18 +996,18 @@
         "date": "10/20 08:42"
       },
       {
+        "type": "positive",
+        "title": "Lobbying Update: $610,000 of QUALCOMM INCORPORATED lobbying was just disclosed",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc2tLVk5ObTFfZGw2eDNUakpDZ2FWbFo3MFlKa0o3aUlwOXh2QnJzMWFPQzFSWFJEc01yTTFJSzlZMXRSaUU2VUE5blY1Z3RZV1FwU1FqQTdGX1FxSDdRa0hsdWdqQll6N3ppZTgxWTl6c0Y5SWdrN2R0aHM5SmZ0cFVScENwTFZyYVlBcWJUeTBmbm8zOTY1UERtWGprU3V4MllRRi0tQW12WVN5MkhHdE9kbDJ3M25N?oc=5",
+        "date": "10/20 10:13"
+      },
+      {
         "type": "neutral",
         "title": "The One Number Qualcomm Stock Investors Should Watch",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS29NVUk1LWNnY1pXTFJIS2lrRGYxQ2tmVUtsSWJGVTBNbUlVWFg2aHl5dkhzblFmQXVFT0hpV1BOblFXXzFia2ZfOGdhS2F4TEQzYmVxZFBCbnV0VVg4Zy00TUJKV2dSaTlENm9KRUhfSl9vY2htUkhIWWdJaFNHMVZaX0xRVWtia1B4b25ybUg0enF2TmNiRkhyVUFwemRWQmpEQW1RYnptVDVRNlBLZDd1WQ?oc=5",
         "date": "10/19 20:30"
-      },
-      {
-        "type": "positive",
-        "title": "QCOM Stock Drops Nearly 8% After Hours — Qualcomm’s Q3 EPS Misses, Weak Q4 Outlook Overshadows Revenue Beat",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN1VSVzNDdDAxeFdoQmJFY3dVMExzdHVCSEtvWkpNendQNWtVOWM4NFNIYTZHM1RZZzJBQ0dmRmQ3QVZpdVF5LUNhNkUzSWl1dzBOTHZqRTZiTXlWbmc0d2N4eDB5YVN5UkEtTTZLS0IxWWNNczVZNkY3QmJJb29Hd2JEMHhUcXljakY4X1lrZ3N1ZnRwS0ZDblF0Qi1hV1VVdWt2alh4YTB6OGxYbFdGR1pqeG0zbzkzazA3NUtKQ1k4UkV0MHhOcmNkbmRDYm1pNGRsUGNHS2FxQ1BMTzFabVNlM2wySUtMVVo2ZGZuc1VoT29zb2taNWdmX3VsTm9ZeFhZ?oc=5",
-        "date": "10/19 02:52"
       },
       {
         "type": "negative",
