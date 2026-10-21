@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T20:45:59.789801+00:00",
+  "updatedAt": "2026-10-21T23:47:49.661052+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1326.09,
-        "change": 0.16
+        "value": 1326.87,
+        "change": 0.22
       },
       {
         "name": "KOSPI",
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1475.01,
               1479.72,
               1475.63,
               1474.04,
@@ -684,7 +683,7 @@
               1333.43,
               1330.0,
               1323.94,
-              1326.09
+              1326.87
             ]
           }
         ]
@@ -915,18 +914,18 @@
         "date": "10/20 23:08"
       },
       {
-        "type": "positive",
-        "title": "Broadcom: Upgrading To Buy, Even After I Cut Management's Numbers (NASDAQ:AVGO)",
+        "type": "neutral",
+        "title": "Broadcom: Once-In-A-Decade Opportunity (NASDAQ:AVGO)",
         "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXdHUnFWeV9neDk0NU1NcjVjVGl4UnpiaXRNWlZiUFV4RmRVMk1OTEFIcDlWbkg3WHpscWVJaHBMcUZmdzRRT1ZJM2EyTjNYX3ZoWjVnZ0hrbHRTb0h1ODVJRWxheERFU0xFaEEwbkZNWE1ja3B0bU9jdzVVaWVkenJtbHZNLXVDS0N6cXcwN3dFTXNOaUpTSXNJNGNOWjJsaUt5aUxB?oc=5",
-        "date": "10/21 22:28"
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0NFMkN1ZDJkU0xwcHJ4ZTVsZ2JweFRkV1RuenlJV1NnbHFIYWNBd3hGZzJPUXgyMlJienJIWkc5cnhDWm5yUDZoT0Ywc21YYk10WkZuNjdzUWRKSlVSWHgyaHNwR0tHNTE5aVBkTWcteXZwZTdDLXpOQU1MdVJzY0xkeUI?oc=5",
+        "date": "10/20 22:01"
       },
       {
         "type": "positive",
         "title": "AVGO Stock Edges Up Overnight After 10-Year Docomo Deal, But Retail Stays On Edge Over CEO’s AI ‘Casino’ Remarks",
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUlDZnc3Vm9HV3NPcjVZQUlDWDJ2VUFFNlAxcmE3Z3VCWk5faUdkT2V5LU1vcThmVmRhdGhlaHdITWNGemowZi1hY2FSbk5SRGRQVWNKMXNzOHpMZk82RTlrdEkzdXEzMGNfc2NEdjF1OEFaWXJBYXc2clltdzRPaVpyQ2JhNG1YMFBqSTJ2TW1qTXphSVpoT0wzcG9VakFRNHhRTUcxVUZCMU9JWFJxdS1QbUZIdVlTRWxIR3lpakFFbGZUVGJNR1NlRQ?oc=5",
-        "date": "10/20 02:55"
+        "date": "10/20 12:08"
       }
     ],
     "BE": [
@@ -976,17 +975,17 @@
       },
       {
         "type": "neutral",
-        "title": "Wall Street Continues to Systematically Undervalue Alphabet, So I Continue to Buy",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU0U4RF9hSEI1Tm80VTBQQ01MUUNNcFRJRkg1YXBOVTJXamN5Qk45UDYxTk1nS2VOYVRET3ljUnMwcGdvZEhDUHFLYUQxWGx5bFozcTFwOS1HRXNCSTVmX05FRmJaS2diUkdNTk0xVTRGR1g1Qm9VeEEtWFMtVmFBdGs2ZHlWRi1XSXBGNmFPTEJ6NUpKNXh0RmsyRFdCQUdvcG1hM2JwSlBTWjIyV2VTNXBwMUpiQVZ1ZUtBX3VmNlQxZw?oc=5",
-        "date": "10/22 01:45"
-      },
-      {
-        "type": "neutral",
         "title": "If Alphabet Does This on Oct. 28, the Stock Could Skyrocket",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFlMOFY1SGZCOGprMnZTZjBDYVZNemRFTGoxY0U2d2JIWmoxX2pva21rZTJTakpUcTlicnlMZ19kVl9IY3pHRkNybG84czhITmNwQ2R5R3RMXzN5MWdsNGs2RmtIemFFY2tuSUJXeGtaakF3VlJaRXJVZjRRaTZCTlhPUC1lX2x1bDAycXVKYU1IQ19JV2Rscg?oc=5",
         "date": "10/21 20:53"
+      },
+      {
+        "type": "neutral",
+        "title": "Wall Street Continues to Systematically Undervalue Alphabet, So I Continue to Buy",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU0U4RF9hSEI1Tm80VTBQQ01MUUNNcFRJRkg1YXBOVTJXamN5Qk45UDYxTk1nS2VOYVRET3ljUnMwcGdvZEhDUHFLYUQxWGx5bFozcTFwOS1HRXNCSTVmX05FRmJaS2diUkdNTk0xVTRGR1g1Qm9VeEEtWFMtVmFBdGs2ZHlWRi1XSXBGNmFPTEJ6NUpKNXh0RmsyRFdCQUdvcG1hM2JwSlBTWjIyV2VTNXBwMUpiQVZ1ZUtBX3VmNlQxZw?oc=5",
+        "date": "10/22 01:45"
       }
     ],
     "QCOM": [
@@ -999,40 +998,40 @@
       },
       {
         "type": "positive",
-        "title": "Qualcomm (QCOM): Automotive Growth Meets Pressure on Handset Earnings",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkE0cUZmNWljdExGalhpdWxvWXNGTUZzNUFTSlNGYjMwWUxZR3RxSGMtbGZ0dVNaZjd4RnlYVzBVNm4xNFBtTmN2Z1VFblVsbkJ1VGQ1WnlVZm53Z1dFN0VWLUpSNXVXR3haSURDMV9kOTFfel9yZi1qb2JLWlc1ZGpwbm0teEVSalk2TmE4MzJkZjZjNHljNEtXVk5PVnM?oc=5",
-        "date": "10/21 22:58"
+        "title": "Qualcomm (NASDAQ:QCOM) Stock Price Up 1.3% - Here's Why",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3lsc2ZZSGdZVFZJZGlFZkkyV25vRmc1WVY4dUxaVHhHbHBzUlpTd0VxR283czl3ZjZSWVU5eTRZbkVySURyRGI3bXd1M1gzM05qWV9HelUyMFkzNGxPTVM3NGFZT1k5ZE9WMTJ3Y1Fub3hZN1JyUmhReUQ4am9Jc2c4eENhYzNteXhGbnQ1cTZUb3ZuUG1PVTktNHJwYWlKU3gzUmNYSkg2RW1G?oc=5",
+        "date": "10/22 06:29"
       },
       {
         "type": "neutral",
-        "title": "Qualcomm Incorporated $QCOM Stock Bought by Robinson Value Management Ltd.",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQlhzZnh6N0psdGxGLWprX1B3bENPbzRDbmlfSWkzdTZlNWt5X3V1ZmNMb19pTWFCRks4d05zTDNnS2N1aFgzUTd4TDVZZVdRVEJuanJCbFdkVHBWbVNvdVBrMEZ3bGZNeDVxNzUxN1BYNExMNV9RVFk5b0lZUDlSOE1EOV9VbXJ2NFdBYlRMczlUUE9pYUpRX0pncU10dWNsSWY2OW5DXzBKcEhObG1pMGdkakU1d3lIRWljNUYtNzBqYTlwMGFRNzhuaXZKUQ?oc=5",
-        "date": "10/21 18:39"
+        "title": "QCOM Stock Suffers 3-Day Slide: Short Seller Flags ‘Hidden’ Anthropic Partnership Code — Then Finds Deal Wasn’t Real",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDNKZDVaS1FMdWExQTFpYU9xaUFVM0hHSlZSdFlJRnFxYldjVTZXWDVsUHZaZmVxMXRrVVUzZTFibzBYakdtb3l5cmxVbGFyVmhLcVA4cGt3cHJSRzFHa0Z6dnN0aEJmS2hYTHNtczR1NjdsdjhPUTlFN2U4bW5tXzNGOE5fNm5LNjU1cTNCbk4tQUhocy0yMHB2R2JiRGpfalNianJTLS1DS0F4dlJHZFJuYzJjay1j?oc=5",
+        "date": "10/21 10:15"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm Cuts Global Workforce Following Performance Focused Employee Reviews",
-        "publisher": "TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONl8tMlNBeU9WamxWWE1LSUE2SGdKX01Ud1ZtWmZfbW1NTG56MXdCeko4YlJ5NnNYQW1IQ2tlcHBFVGJ6b1g0UVJpMGFxNjI3NjU0SnNjaGdRczdLQ2NFQU5NUy1EZWJYNC1GeEhhbmxBSWdPd2Jicy1yMUs1OVdtSWllbUR2d1pV?oc=5",
-        "date": "10/21 00:12"
+        "type": "positive",
+        "title": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVlhVmwtMzY3VXU0T0Y4c0M1MUNpeE9pZE1GaWhBd0pSTTBoWEdJOXJSNVlOMDZRQk9aQ0N5R05VMFlHbUsyUUJfM003Z3d3R0JtTXYtM3ZPZGgwWTVjcTRYQ2QyMDNnZExhNWlHTTlkVV9rQWpnUTgyQ2tCZS0yTEtHbVlHRlE3QTZfM3N3a2V4enZIMlY3NHVn?oc=5",
+        "date": "10/21 23:30"
       }
     ],
     "VRT": [
       {
         "type": "positive",
         "title": "Vertiv (VRT) stock is up, what you need to know",
-        "publisher": "StockStory",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUl9MSUQ1cHRBVXB6V3hhY00tdGhVeVhGREd0RlVqQ0MxV3JDQ2JqZDI5b0liMkprQzFVN3g4TEN1akRkMUE1Y183VEg4Tmc1OTdkOFAwamRZUnVZeDM4QndaMEJuZUtON002Q2NRdjVORWhnV2VuTHpKV3MyRXZXdV9PckcwTWY2MzF5OVI4a2dPVDZyRkNFODJQSTlaa3BOS1M1anJNQWM?oc=5",
-        "date": "10/22 02:08"
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbGtid05STllNcFZlWEpjemZvS1pWakxTQnIzc080U3FtQVRzWl84dEhvTkhla2dnVGtTMDAwVlo3QkM2Z2xWTER3RkMwMWoyNmtKRDRHcC1zVVVhNW5hVlB4ejB1Slp3V3F1cm1TQW1NbE5uazJQRFgyZDU3NzdON181VjJQXzd0anVnSVF6NA?oc=5",
+        "date": "10/22 05:54"
       },
       {
-        "type": "neutral",
-        "title": "What Changed For Vertiv Stock, And What Did Not?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEJFMVRpdjRCZEltRGRkUTBZanRNRHZYVVZhWGdhUGFJSGRHSi02b0xvVEtQMWlsNFRud0Jpc2xBb252X3VmVElISW9fbXRVV1QwckJoOGRlb2RVWnFJaWhkLUQ4Y2I1ckV4U0s2OGdZUlNRTEh3eFpTZGhaekdBc3lVTm5ZZGwxSlFLRVZONXljSjNqOTVMQg?oc=5",
-        "date": "10/21 22:55"
+        "type": "positive",
+        "title": "Is Vertiv Stock’s Fall A Bargain Or A Warning?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTFpsZThnN3dfQVd5U0NpV0RPdDFqMmlNakZ3akFwM1NtZUNNSEotRkNOdGJhUHdETUtfbTBmanFOdUhZLXBsMjlzRE9MVFV5WWZkYk9ZekNaSFVjMk0ta1d5akRXR2VUeHh1ellMV2VrdlRZeDY3bHBfNnpzWEZQUjJFcmFId3ZTNGpVTUhOckMyNHJBbVU1LUR1ZkZDUjdOaTkxUlR2SQ?oc=5",
+        "date": "10/02 16:00"
       },
       {
         "type": "neutral",
