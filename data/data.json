@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T22:30:22.418684+00:00",
+  "updatedAt": "2026-10-21T01:07:37.149230+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1326.19,
-        "change": -0.29
+        "value": 1326.68,
+        "change": -0.25
       },
       {
         "name": "KOSPI",
-        "value": 5768.01,
-        "change": 1.76
+        "value": 5728.55,
+        "change": -0.68
       },
       {
         "name": "KOSDAQ",
-        "value": 808.89,
-        "change": 1.78
+        "value": 794.88,
+        "change": -1.73
       }
     ],
     "groups": [
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1487.39,
               1475.01,
               1479.72,
               1475.63,
@@ -684,7 +683,7 @@
               1340.95,
               1333.43,
               1330.0,
-              1326.19
+              1326.68
             ]
           }
         ]
@@ -692,7 +691,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "07/20",
           "07/21",
           "07/22",
           "07/23",
@@ -752,13 +750,13 @@
           "10/14",
           "10/15",
           "10/16",
-          "10/19"
+          "10/19",
+          "10/21"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              6516.27,
               6747.95,
               6797.7,
               7096.89,
@@ -818,13 +816,13 @@
               6008.81,
               5554.22,
               5668.05,
-              5768.01
+              5768.01,
+              5728.55
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              749.64,
               753.34,
               751.09,
               790.28,
@@ -884,7 +882,8 @@
               823.88,
               760.82,
               794.78,
-              808.89
+              808.89,
+              794.88
             ]
           }
         ]
@@ -892,20 +891,20 @@
     ]
   },
   "rsi": {
-    "AVGO": 41.8,
-    "BE": 28.2,
-    "GOOGL": 46.2,
-    "QCOM": 39.0,
-    "VRT": 19.7
+    "AVGO": 40.3,
+    "BE": 25.9,
+    "GOOGL": 53.3,
+    "QCOM": 35.3,
+    "VRT": 18.4
   },
   "news": {
     "AVGO": [
       {
-        "type": "neutral",
-        "title": "Broadcom (AVGO), What Is Behind The Fresh Attention?",
+        "type": "negative",
+        "title": "Broadcom’s Time is Nearing as Neocloud Risk Jolts Nvidia",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRTVzVHdQbU5jRDRKeVE5bkF1MDVOZ1ktVmVjU2VqeExOaHYweko2dTViZU91WHlfZkh3WjQ0eWgtNXBPVC1zQXVmU29nY2tlZEM1VnNOZHdPcHFSNkZRcjlSdmxjbVBZVkpfRWJoWWR5U3VLMFY5bjltTGZFRUdrdmpwUnl2S3VCNmFMdWZfV1kwNW5fdnY1SWZONFA2MWlOb2c?oc=5",
-        "date": "10/20 23:08"
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1BtWlZSWUJKemxTMUlncjBhZV92cDFOVXM3NDU0Q2MwRzQ0RURaTkFNaXhCMGFkV2VUTEN0QkdrdzlXWmFERDNtQmJFZXczYWVWamZYNjVIcHFwckpFSWF1VzhMLUdMc0NOQkRLbnY1YkdUaEFuVEZuS2pPRHlEUkpELVJSVGdSLTN2NzRZaUZPQ2MzZmNGVUEzd1JBWVIyR3c?oc=5",
+        "date": "10/20 01:45"
       },
       {
         "type": "neutral",
@@ -923,10 +922,10 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom’s (AVGO) Sell-Off Is Starting to Look Like an Overreaction",
+        "title": "Why AI Chip Stocks Nvidia, Broadcom, and Micron Climb After Hours — and What Wall Street Sees Next",
         "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakY5dmVDak5RYmxqOEUxWkNmY1c3VEpoSXptbXFzcEpKWEdRcWwxUkJ1ek83b2Jocjg1YURqNDlsWDJGYmFYN1hJZWdUYWxVb1ZLZWRROXNsYXJ1Rlo1THpvNktDX050YlZYOUF2cVVJVWVIeThsMTdqLVJQeVpVQm9xd1lVMlJPYWVGdG51dVlWZ1BVVEZKdFlB?oc=5",
-        "date": "10/20 22:01"
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUt4dWVaOGwyRzZ1Tms5SXRGaWdGbDFza29nNlJyMUFiTzE1aFJ0MkxGNGthbkdPZVpRNS1iTmlraVRVMDVVRVhac19rcDUweEEwV291WDJDaVFzSGRtVGxWY09HVTMyMTIwNlI4bl9IbzJBcmVWSG80aUVlcHJZbFdJYzN1WVBnLVllSmdHa1R0UE9tVWtiMnZ0a043V2wzaVBwLUZrN2Y1eVhTR0NNVXhpYmVaa3NQS2VRTXdtd2pBdw?oc=5",
+        "date": "10/21 08:45"
       }
     ],
     "BE": [
@@ -972,7 +971,7 @@
         "title": "Microsoft vs. Alphabet: Is GOOGL’s Cloud Growth Worth More Than Investors Think?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGFiZVk2X0FnVmNBOGV0RXY3VERVTFZGTVpfakU2VTdkX1NwS3dhM1NTdkJXT1hQV05oazVjc2pFdjU4eWgtVjZfTFpGdWIwT0pSQlhlVWthVG15U1JKTFR5ZVpkREFnUFFBM2pkcVNzdnBQVlFHQWVjQTRlVG1aMmJ5T3kwMzNSWFJHYll6emlvMEhLYXFLTDQ4NDlkSmM?oc=5",
-        "date": "10/19 22:38"
+        "date": "10/20 19:38"
       },
       {
         "type": "positive",
@@ -994,7 +993,7 @@
         "type": "negative",
         "title": "Qualcomm (QCOM) Stock Looks Reasonable With Cash Flow In Focus",
         "publisher": "Simply Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaURyZTVsbWRTN0dJZGdiRFFHU0hkSzdRRmh0TV9rSmRRZ05tWDRHRjBFdEVvVm05WDVYbmZDdHNGZndYRkw2UnJkTDVRc2dDOF9oTEtLRWFhRlNCelZHWlQyUkFobzM3VmV1YjBIdWFNc0M1REYtR1pub3F2N2FxTXVCZUYtNV9LTnZOVThwSjFpanMzUWVHZnpCTmVNSkJqMUt4SWhJNzUtZVlGa0pWaVhwM0YtaXZaQVVyYVJUNFF5ZlpCRWZ3MzRYRUxPUdIB0wFBVV95cUxQeXpWN05UNjUtWE1QNURSMmJ2R3VUVlBGdzhTeENxU3B1VUx5VXBRdEpGbkttTGM4YjNmNUdXUXpDSHNxeUVydEpkZTFYVXRTM19LeDRIVkNiZ3dHWGVxVVRoUGNkSTdDYVlvRTAxTk4zNDZVN1lRVk15T1JJMjFIb1hYMGJfRzJKZE15Z3Z5MmFWQ3JxbzBaVk5NNzlxMWMwSFFTWW5HTnp5Qk96TE5xSzRpVFJyOTloUERadTBZTTVtSzd0VnVFajJubTB6YWpRR3BB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeXpWN05UNjUtWE1QNURSMmJ2R3VUVlBGdzhTeENxU3B1VUx5VXBRdEpGbkttTGM4YjNmNUdXUXpDSHNxeUVydEpkZTFYVXRTM19LeDRIVkNiZ3dHWGVxVVRoUGNkSTdDYVlvRTAxTk4zNDZVN1lRVk15T1JJMjFIb1hYMGJfRzJKZE15Z3Z5MmFWQ3JxbzBaVk5NNzlxMWMwSFFTWW5HTnp5Qk96TE5xSzRpVFJyOTloUERadTBZTTVtSzd0VnVFajJubTB6YWpRR3BB0gHTAUFVX3lxTFB5elY3TlQ2NS1YTVA1RFIyYnZHdVRWUEZ3OFN4Q3FTcHVVTHlVcFF0SkZuS21MYzhiM2Y1R1dRekNIc3F5RXJ0SmRlMVhVdFMzX0t4NEhWQ2Jnd0dYZXFVVGhQY2RJN0NhWW9FMDFOTjM0NlU3WVFWTXlPUkkyMUhvWFgwYl9HMkpkTXlndnkyYVZDcnFvMFpWTk03OXExYzBIUVNZbkdOenlCT3pMTnFLNGlUUnI5OWhQRFp1MFlNNW1LN3RWdUVqMm5tMHphalFHcEE?oc=5",
         "date": "10/21 06:53"
       },
       {
@@ -1005,18 +1004,18 @@
         "date": "10/21 00:12"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm To Reportedly Conduct Global Layoffs In Performance-Driven Overhaul",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcjBEbEJ4QmpRSVUtb0c4ZDFCaUx3V2xURTFLRmJ5Q3AxMUEzbkc3djN1QzQxUXZad0UtU3kxN3duSGpYeG01Q0tIZXo0ajJCSzNueVhYWUYtYldXTU9ZS3ZVYWcyN2hmTlZsVlRmZ0ZYdFdmeEpSalVQcEFrMVFsNDhEc2FhZ292V2tQdVNCNG1Lc0gwbllEeUdOZV9lUXM1OWhweTBqSlZ2Ymc?oc=5",
-        "date": "10/21 03:07"
+        "type": "positive",
+        "title": "Qualcomm (QCOM) Beats Stock Market Upswing: What Investors Need to Know",
+        "publisher": "Yahoo Finance Australia",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUhDUktjYmFvYlo1QzdTQ0JsYVJXOExiaDRfVWFEcDFjMlk1Z1JPUHJiV2VWTVJlem9OMHp1UjdnWk9XNTdrcHFUUkFIXzNZRXpfZXh1S2I0Vk0yeXRoUnJTdjBkMlpNbTZGdXU0WVI3RS1rQlBabmViQ3JBdmhTM2pKcy04SDF4?oc=5",
+        "date": "10/21 05:45"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm (NASDAQ:QCOM) Shares Climb 1.3% on Analyst Upgrade",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLV9hRUt6N0V5T1EzLWlVMXFCbnA2N1JhUE51UUNGU0poYjJsWFdnd2htNG15TlhlTFhnMDlrYUZuY2swWmlxaUxBNmlGeS1ib21qdFJCRnV0WHhVVjNnbVFuV3NzU284Rlh2dkFXRXFVdnNvQWRQMlRfY1JLNWpOeW1yel9yd0ZONVVUb01sOGFKUHpBTnBjZmlrb1ZDQU5iVkhrbWs4RE5DbnVrZjR3OUZBOVRYUQ?oc=5",
-        "date": "10/21 06:05"
+        "type": "neutral",
+        "title": "CFO proposes selling 2,500 compensation shares at Qualcomm (QCOM).",
+        "publisher": "Stock Titan",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdUM3bVBOZWNVbkhoQ2NITHh3WGlnNWtBdnhfQnRLbjNqcTE3cUFVVk5WcUF6Q0JRVi1iV3Nia0JCX1lBZE5zdEZpdGlzVlJGSU83c2hPQmRkYllpeHF1clU1TjdNbXFuUlVDOEoxUmRBc0w5TzE4dEJOU0lkQ0RXT05FNUJZclN2YnRiQ0dyQzhETjZuaDhJ?oc=5",
+        "date": "10/21 06:43"
       }
     ],
     "VRT": [
