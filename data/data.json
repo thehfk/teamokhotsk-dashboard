@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-23T19:22:17.185420+00:00",
+  "updatedAt": "2026-10-23T22:25:37.142517+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7629.57,
-        "change": -0.44
+        "value": 7623.68,
+        "change": -0.52
       },
       {
         "name": "NASDAQ",
-        "value": 25975.61,
-        "change": -0.13
+        "value": 25955.34,
+        "change": -0.21
       },
       {
         "name": "다우존스",
-        "value": 52279.95,
-        "change": -1.11
+        "value": 52215.16,
+        "change": -1.23
       },
       {
         "name": "공포지수 VIX",
-        "value": 19.69,
-        "change": 3.47
+        "value": 19.45,
+        "change": 2.21
       },
       {
         "name": "미국10년금리",
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1324.75,
-        "change": -0.06
+        "value": 1323.66,
+        "change": -0.18
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "07/23",
           "07/24",
           "07/27",
           "07/28",
@@ -118,7 +117,6 @@
           {
             "name": "S&P500",
             "data": [
-              7408.3,
               7411.98,
               7413.18,
               7428.78,
@@ -183,13 +181,12 @@
               7712.57,
               7757.17,
               7663.43,
-              7629.57
+              7623.68
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              25137.69,
               24975.82,
               24932.08,
               24876.91,
@@ -254,13 +251,12 @@
               26424.82,
               26702.86,
               26008.86,
-              25975.61
+              25955.34
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              51711.65,
               51947.25,
               52210.08,
               52747.32,
@@ -325,7 +321,7 @@
               52495.88,
               52856.09,
               52867.98,
-              52279.95
+              52215.16
             ]
           }
         ]
@@ -471,7 +467,7 @@
               17.31,
               16.68,
               19.03,
-              19.69
+              19.45
             ]
           }
         ]
@@ -687,7 +683,8 @@
               1330.0,
               1323.94,
               1325.59,
-              1324.75
+              1325.99,
+              1323.66
             ]
           }
         ]
@@ -895,11 +892,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 29.0,
-    "BE": 22.6,
-    "GOOGL": 27.1,
-    "QCOM": 43.6,
-    "VRT": 11.7
+    "AVGO": 28.6,
+    "BE": 22.7,
+    "GOOGL": 26.4,
+    "QCOM": 43.8,
+    "VRT": 11.2
   },
   "news": {
     "AVGO": [
@@ -942,10 +939,17 @@
       },
       {
         "type": "neutral",
-        "title": "Stocks to watch after hours: WDC, BE, and NEM",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnBYU3ZmMTdjeTZjeGNISDVJV1NDaF8tMEI0WF9lNmNBaldRVHlvTnl6cmIxRUVyeWI5SkMtU1lobmpYLXN6eVVrNVphUC1GT2loVEJyeGZzSVdqUUY1bGxqeklOUUVUbTZKZTJ4b3FrMW9FWDZCVFlCeE83OVcxQ3VOQmVPeGc?oc=5",
-        "date": "10/23 05:25"
+        "title": "Bloom Energy Stock Slides: What's Going On?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTE5VMUtfeXUyYlVPQVBvaEcwN0RvSWlKRDRZQVhkcUd4UXVOR3F1a3p6US1Ga2pzMGVzcTk0RWJfdmpBdTl4SXpWMEwzNjNwTkFaSjF1a0FQcUkyT2VSa2JRanZsNE9WTHhROTVkYU5HTDZWZXoxNjVYNWl1WWRoX2todW45VnFtdTZjRmJLRUo1T2hDSTRGNGtJY19NR3c5ZWh3?oc=5",
+        "date": "10/21 03:49"
+      },
+      {
+        "type": "positive",
+        "title": "Bloom Energy Sinks 9% as Pre-Earnings Rally Reverses; FuelCell Drops 6%, Plug Power Falls 3%",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMVR4VlFQVHFQTERCNmpHSlg0X3o4Y1d4ejlDcjU2RGJDdDFGbHhlNHpfTTVEOW11MUlWbXFLYVVvWkJ1TXVobUpzem9qZDdzUUdOQUt4a2tLWlllTEI3S0RJc3EzakZTcXdJbVduZ24xSHdmcWZqWlZpZjJVT3BwWnlEQjBfd2VDUlpBeUFOdUtTLTQ?oc=5",
+        "date": "10/23 02:07"
       },
       {
         "type": "neutral",
@@ -953,22 +957,15 @@
         "publisher": "TradingView",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc19Ta0dSM3UyeGZFYkNtd0FUNEp3ODdnaWVFWXh4Q2gwU2ZkT2JlQUJLRF84U3RhNkZHemxLMXROU0s0bHlzU0d0S1djR2FYNTI2eS1iRGFfRUFvR0xwSmMzYlpUWE5POXdFejRoVnhMc2ZvU3d5N0FfYlRReC05Mnh5UGtrNW1oc1ozWE9UaEpOQ2gwakZfclF6azVDb0I0RFdkVWUwNVliMXh3bHFtSlRuQ05uZ1FpOXJJaktFVGlGci0yRFVGQjFfT2x1SVU3UjhMcVREU0FBcl9GQ1lEOF93?oc=5",
         "date": "10/23 22:53"
-      },
-      {
-        "type": "positive",
-        "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
-        "date": "10/24 02:49"
       }
     ],
     "GOOGL": [
       {
         "type": "neutral",
         "title": "If Alphabet Does This on Oct. 28, the Stock Could Skyrocket",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFlMOFY1SGZCOGprMnZTZjBDYVZNemRFTGoxY0U2d2JIWmoxX2pva21rZTJTakpUcTlicnlMZ19kVl9IY3pHRkNybG84czhITmNwQ2R5R3RMXzN5MWdsNGs2RmtIemFFY2tuSUJXeGtaakF3VlJaRXJVZjRRaTZCTlhPUC1lX2x1bDAycXVKYU1IQ19JV2Rscg?oc=5",
-        "date": "10/21 20:53"
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXUtakRiMFA4U0UxQzRVclFQUEhIS3BYeUtRMDU0ajVvcG50T2tlNzdqenp5S1YyeG13bzJMNFBBYkZyVW5taXE0bzhBcGRhODA1NHZhQzBIRTVEZnFjSTFCZng0M19HOENtcDRfTnZhRDlBeFRUdW5ZdHRMQ2doWlhDQ1dVRjVCRjVPUWxadFpzUXk4cmc?oc=5",
+        "date": "10/21 20:13"
       },
       {
         "type": "neutral",
@@ -985,11 +982,11 @@
         "date": "10/22 10:16"
       },
       {
-        "type": "neutral",
-        "title": "One Reason Alphabet Stock Looks Better Than Its Price",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONW5HLXkwV3BPTnFqLWlUR0pGNDRnQUJRc3lWOWhRZExSclVsZ3R2RWU5dmtvaGJyUHhHbjZuay1ZamtEWnVJemc4VW5CdC1kVzY3a1p3aTkyS0xGMUF0V3BRQ0I2N3hZaXFPNXVnZzRYdTVqMWJENTFQUS11UEowWnN5WFlDdXhrbUY4SVRLSXAyTE5RWmhzRi1DQ3lRbUJ4V19hQlR0NFU3aDRjdGJfalhqN2NoZw?oc=5",
-        "date": "10/22 23:00"
+        "type": "negative",
+        "title": "Banking giant cuts Google stock price target by 12%",
+        "publisher": "Finbold",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oMWh2OEhFNm5TbmhUNXFIbVd3bHdmSW50cnUzN0VRUHVOcTRFYTFkTHF3QXZ0Y2xKSjRzNWtyVGlNVlg1NEpqUklmRWMwR3N0QXJoN2Y4LTZDOXNXQ3RTRmtvN0MyVHZNNVFLZW0tMkNUWUluLUlxOHk2VQ?oc=5",
+        "date": "10/22 21:04"
       }
     ],
     "QCOM": [
@@ -1038,18 +1035,18 @@
         "date": "10/02 16:00"
       },
       {
+        "type": "negative",
+        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today | VRT Stock News",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
+        "date": "10/23 00:33"
+      },
+      {
         "type": "positive",
         "title": "Vertiv Holdings Co. (VRT) Stock Sinks As Market Gains: What You Should Know",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWpEd3VLbnJ4OFVDd2FXYmlzT0ZzWkpNY2taSUdqekxhVGJfYi1MMXRKOGxWRjFTYnRFQk1BbjJrM0FSWDY5UkF5SDk4eXlRUkl1a0s4QTI0MXh2LXpOVW1laVdIeG4zU2JXX3VMMmp0b2tSRU1xMllBdFBRUmtJVlM1UlV3d21wa2ExQXpCaWw2VmxENkZCcw?oc=5",
         "date": "10/21 05:45"
-      },
-      {
-        "type": "neutral",
-        "title": "Vertiv Holdings Co. (NYSE:VRT) Stock Rated \"Moderate Buy\" by Wall Street Brokerages",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa3EyUmVfR0l5UmpoZUF3U0twNkQtanpEdURrMXhmMnF4YkFXMFI1ekc3Nk9pTUFYUjNMSktJLUlmN0EwNVBNdjB3cWYwQU04OXExQzlWZTBYekc3ZFJ2ejFmSzg4T2ROT0duVUlMOXppRXRrektMNXJ5aEt5b3JzZEd4RW95cjhpeE9HcXltM2EzY0JnSlllcHFJYUgxUzBJOE51WTlIOHRId2RyYW5KbTZnXzZaalo2dmJDTFVwaDNIdWFvU0NSS3dKTDRCbTM4LVNlRWlyVlhBdw?oc=5",
-        "date": "10/23 15:44"
       }
     ]
   }
