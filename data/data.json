@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T21:47:18.764018+00:00",
+  "updatedAt": "2026-10-23T00:14:45.822519+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1325.4,
-        "change": -0.01
+        "value": 1325.58,
+        "change": -0.0
       },
       {
         "name": "KOSPI",
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1479.72,
               1475.63,
               1474.04,
               1458.01,
@@ -684,7 +683,7 @@
               1330.0,
               1323.94,
               1325.59,
-              1325.4
+              1325.58
             ]
           }
         ]
@@ -692,7 +691,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "07/22",
           "07/23",
           "07/24",
           "07/27",
@@ -758,7 +756,6 @@
           {
             "name": "KOSPI",
             "data": [
-              6797.7,
               7096.89,
               6690.62,
               6755.75,
@@ -824,7 +821,6 @@
           {
             "name": "KOSDAQ",
             "data": [
-              751.09,
               790.28,
               748.22,
               764.86,
@@ -892,11 +888,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 34.2,
-    "BE": 26.0,
-    "GOOGL": 32.3,
-    "QCOM": 35.2,
-    "VRT": 13.1
+    "AVGO": 47.0,
+    "BE": 36.0,
+    "GOOGL": 46.5,
+    "QCOM": 44.6,
+    "VRT": 24.3
   },
   "news": {
     "AVGO": [
@@ -923,26 +919,26 @@
       },
       {
         "type": "neutral",
-        "title": "Prediction: Broadcom Stock Could Crush the S&P 500 Through 2030",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnlidnJ3N3RMdFZOWlZPY3JMcENnVVFfQTBuZjkxbk4wdGRVeGpjcTBMMTFORkNvR1htb2htVzZxemFWbENxU3ExaGhoMWhBODhuT0IxU28ydWtRWF9iSEJXZEVhUDRKbVhVbUVSU2dpcWNpVFVmTXkwZGhCQ1J0TzBxWUVhMmRfbVFyWGgyT0pmdGhBYXRnT3R6M1RiaUJGb05WRE9tcU4?oc=5",
-        "date": "10/23 01:00"
+        "title": "Broadcom Vs. Micron: Which Semiconductor Stock Wins the AI Sell-Off?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenRYb0ZkS0VsT0RPOU1XaHpxRE15Mk5kbVIwVXFTN2lQVFY2Z3p4c2pfdnJNd21xZlVTRmV0aFp3dUJhaF83c0tadHI5VVZuSGRrclpNcm44NDFUTms5ZkEwMFZIaGhmZkNxSWZUVk9Vc0xfODFKdGh6MWtSb2RaSm5kNFB0bE1u?oc=5",
+        "date": "10/20 00:13"
       }
     ],
     "BE": [
       {
         "type": "positive",
-        "title": "Bloom Energy Stock Drops Despite Strong Earnings",
+        "title": "1 Thing in Bloom Energy’s Strong Earnings That May Be Dragging the Stock Down",
         "publisher": "Barron's",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzdWdkU2NHRQTlJJYjNmcXNLLW1tblU5MGNjTmNHcExlM043OXF2azFWVG1BajRTV2gxY0htLU5YbGpnak9JZG1EQVluRXhzX3dlZ1hNQXRlY3hyMlRXV3hVUVBUaDF1YXZrYlQ1clZ2aGwtRFJXbDZJREQ1VG5feQ?oc=5",
-        "date": "10/23 05:32"
+        "date": "10/23 07:17"
       },
       {
-        "type": "positive",
-        "title": "BE Stock Leads Energy Rally After SpaceX CEO Elon Musk Says AI’s Real Constraint Is Power And Cooling, Not Chips",
+        "type": "negative",
+        "title": "BE Stock Drops After-Hours: Bloom Energy Q4 Guidance Comes Above Estimates, But Negative Cash Flows In Q3 Dampen Sentiment",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcktJeVpOa1VISTJBZTlPdGNGdmtJNVZZOEFpT0RYamFxU3F5N3lXMkJFWmJPa0lWUFc0ZGhNajYyQ21IRkpXX0Z5RDY3T1pfbmF0dHpCZ282WFlIRmw4MEp0OUctN28xYWtkbEE1bzJ3Mzd4ektFMFBCTTk5d2E3bk1zRThwMGZKWVdyNXcxTFZldw?oc=5",
-        "date": "10/21 10:23"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeThaR0tjNm1LUFRXaVpIb2VUQ21SRXJmRk4wWUlmQjBPRXNfUzNSUmJybm5tb1VYRmt3dFNBWGFfWnhyN1hsT0hGM19rSkh1bHZBZFZVU2k2ZHlmZ3JHS0VUblVUcHdxTTQ1a2x3S0pRUVVWcmtCMGplbkRqWXF1V2RWOTkwbW5fdEhkcUVFVlN5YjRNYXVlWTJqUQ?oc=5",
+        "date": "10/23 06:47"
       },
       {
         "type": "neutral",
@@ -961,18 +957,18 @@
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Alphabet (GOOGL) vs. MSFT and AMZN: Can AI Investments and Google Cloud Growth Unlock a 26% Upside?",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0FrNG5mMVh6NDc3T1gzZlQ4SUtBcWFkNVFBYUd1ZmllY3RJZGxFaHdaNUZGbW5yc3lkcWZKSTFaeENaemxDSzFmMXBsRkZqeU9NbWZLZTZ5STFsbEtfamo5OUtzWHVycUtVMGZmZVBVWjBRLWxtclpsWHEzcVdXZUdjOU0wd3hoV1NiUzNwTUFYZzNRV2dZ?oc=5",
-        "date": "10/23 05:26"
-      },
-      {
         "type": "neutral",
         "title": "Google Hits Major Quantum Breakthrough. This Could Be a Game-Changer for GOOGL Stock.",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1RiSHJLQ3VMeXVXZnpxWktxY3cwbG1Bb1J5Zkp3VjB1dHJvNTVia2I3ZkpGWVpOcmpJMDF2M1RXSEY5YUdvem9ERTJOTWJPUjVPc3lOYWFEUkc3YkY2cFh3NDFRSnVxTVFCWTlJcjdKQkxhSl9yLU8wRFRSWEJtdktEYXU2V3dqZVBTU2NHQW83bzlZU2RLUlNLMy01M0poZEhGaHpRWXFkNFlHSTFPYjFHTlh0TVBxTHlOQm1HNDNCdGxaT1E?oc=5",
         "date": "10/22 20:38"
+      },
+      {
+        "type": "negative",
+        "title": "Alphabet (GOOGL) Stock Looks Below Fair Value After AI Spending Plans",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXJqRWlqNkRWekQ3dkJteHJzSjRZZlZvTkJjU3FDQ0kwRzlaQWNqWXRqaVFPQzZJemVXajRrYVBaWUtrSUpVNHZuQjZFdjdNOWIwVUVpSzVpSnUwdF9SUXJXWnVwUjZMMTVrWWJ1WEg2STNjTDRkdTJuLWZ3SWYyQ2lrRDBObHphRUQxSU16M0c5WW9SVTlsWkVCYWNBUQ?oc=5",
+        "date": "10/22 10:16"
       },
       {
         "type": "neutral",
