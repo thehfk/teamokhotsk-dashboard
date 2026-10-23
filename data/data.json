@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T00:14:45.822519+00:00",
+  "updatedAt": "2026-10-23T05:06:00.239633+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1325.58,
-        "change": -0.0
+        "value": 1325.22,
+        "change": -0.03
       },
       {
         "name": "KOSPI",
-        "value": 5735.66,
-        "change": 3.29
+        "value": 5485.88,
+        "change": -0.87
       },
       {
         "name": "KOSDAQ",
-        "value": 792.76,
-        "change": 1.38
+        "value": 744.7,
+        "change": -2.54
       }
     ],
     "groups": [
@@ -683,7 +683,7 @@
               1330.0,
               1323.94,
               1325.59,
-              1325.58
+              1325.22
             ]
           }
         ]
@@ -750,7 +750,9 @@
           "10/16",
           "10/19",
           "10/20",
-          "10/21"
+          "10/21",
+          "10/22",
+          "10/23"
         ],
         "series": [
           {
@@ -815,7 +817,9 @@
               5668.05,
               5768.01,
               5552.74,
-              5735.66
+              5735.66,
+              5533.77,
+              5485.88
             ]
           },
           {
@@ -880,7 +884,9 @@
               794.78,
               808.89,
               781.97,
-              792.76
+              792.76,
+              764.1,
+              744.7
             ]
           }
         ]
@@ -888,11 +894,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 47.0,
-    "BE": 36.0,
-    "GOOGL": 46.5,
-    "QCOM": 44.6,
-    "VRT": 24.3
+    "AVGO": 34.2,
+    "BE": 26.0,
+    "GOOGL": 32.3,
+    "QCOM": 35.2,
+    "VRT": 13.1
   },
   "news": {
     "AVGO": [
@@ -902,6 +908,13 @@
         "publisher": "TipRanks",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakY5dmVDak5RYmxqOEUxWkNmY1c3VEpoSXptbXFzcEpKWEdRcWwxUkJ1ek83b2Jocjg1YURqNDlsWDJGYmFYN1hJZWdUYWxVb1ZLZWRROXNsYXJ1Rlo1THpvNktDX050YlZYOUF2cVVJVWVIeThsMTdqLVJQeVpVQm9xd1lVMlJPYWVGdG51dVlWZ1BVVEZKdFlB?oc=5",
         "date": "10/20 22:01"
+      },
+      {
+        "type": "positive",
+        "title": "Broadcom (AVGO) Stock Could Be A Bargain Following Its 5.7x Run",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0pkbDJfd2tRRTJVNlZaSEp5czdMVnR1cC15azJLeHliV2I0OE1BYUhvN1RVa2FYczd2U2dVckFuMWdDdFBqN0ktOUktTEZuMDFfcGt5WU1Md1JGVzRaRzF3VF90aGdjclZDZ1c0T0RQVkgzMVVYOEtvUEl0cXY0MGVYSjVrTmM4RGkyYWctMEJiWk9oUWRvWDlaYy1QS0E?oc=5",
+        "date": "10/23 10:10"
       },
       {
         "type": "positive",
@@ -916,29 +929,22 @@
         "publisher": "Traders Union",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOREJjdjMxR0xpdUdBODNwU0x5eUUzazhvZ3kxQVdDNzV0OHFMVDhrVXZyYjZrUFV3MU40b2hxUUhUNUZZMmtrX0NXT0ZLeGUtM1h0SDhvVWlCWjZHczBOMnBMeUg3NVh5UGpGNVZzUkl6Wm9mWEhqa1V0eC1YbWVCb1gwbVZXYTlheUMxTnlBaw?oc=5",
         "date": "10/23 02:02"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom Vs. Micron: Which Semiconductor Stock Wins the AI Sell-Off?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenRYb0ZkS0VsT0RPOU1XaHpxRE15Mk5kbVIwVXFTN2lQVFY2Z3p4c2pfdnJNd21xZlVTRmV0aFp3dUJhaF83c0tadHI5VVZuSGRrclpNcm44NDFUTms5ZkEwMFZIaGhmZkNxSWZUVk9Vc0xfODFKdGh6MWtSb2RaSm5kNFB0bE1u?oc=5",
-        "date": "10/20 00:13"
       }
     ],
     "BE": [
-      {
-        "type": "positive",
-        "title": "1 Thing in Bloom Energy’s Strong Earnings That May Be Dragging the Stock Down",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzdWdkU2NHRQTlJJYjNmcXNLLW1tblU5MGNjTmNHcExlM043OXF2azFWVG1BajRTV2gxY0htLU5YbGpnak9JZG1EQVluRXhzX3dlZ1hNQXRlY3hyMlRXV3hVUVBUaDF1YXZrYlQ1clZ2aGwtRFJXbDZJREQ1VG5feQ?oc=5",
-        "date": "10/23 07:17"
-      },
       {
         "type": "negative",
         "title": "BE Stock Drops After-Hours: Bloom Energy Q4 Guidance Comes Above Estimates, But Negative Cash Flows In Q3 Dampen Sentiment",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeThaR0tjNm1LUFRXaVpIb2VUQ21SRXJmRk4wWUlmQjBPRXNfUzNSUmJybm5tb1VYRmt3dFNBWGFfWnhyN1hsT0hGM19rSkh1bHZBZFZVU2k2ZHlmZ3JHS0VUblVUcHdxTTQ1a2x3S0pRUVVWcmtCMGplbkRqWXF1V2RWOTkwbW5fdEhkcUVFVlN5YjRNYXVlWTJqUQ?oc=5",
         "date": "10/23 06:47"
+      },
+      {
+        "type": "positive",
+        "title": "1 Thing in Bloom Energy’s Strong Earnings That May Be Dragging the Stock Down",
+        "publisher": "Barron's",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzdWdkU2NHRQTlJJYjNmcXNLLW1tblU5MGNjTmNHcExlM043OXF2azFWVG1BajRTV2gxY0htLU5YbGpnak9JZG1EQVluRXhzX3dlZ1hNQXRlY3hyMlRXV3hVUVBUaDF1YXZrYlQ1clZ2aGwtRFJXbDZJREQ1VG5feQ?oc=5",
+        "date": "10/23 07:17"
       },
       {
         "type": "neutral",
@@ -948,27 +954,34 @@
         "date": "10/23 05:25"
       },
       {
-        "type": "neutral",
-        "title": "Bloom Energy Q3 Preview: Analysts Expect Top Nancy Pelosi Holding to Grow Revenue 102% (CORRECTED)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWHhHZDc2VnVJVGFYUDd3bXgzWWhPQVVaRF9lS19DM0RROFAyTU02a3ZDYkRlZVUxQWJfVlk0MC10Z3ZzUlQwcUIxZ2ZQNGpGb0NScFVGSnI5S09ZN1NEaFZFQ1FNbnBXMDR6eHFza0NYdjhDdHIzeHU1RnI5bkpuYzR2NjZXSjVtT0tDRVVFUGlNRHdxUmg2endIQVhhckRRQWFYN05IVmRrM1JWMUlwb3JrTm1BSHFPVnc1SUtDSFUtYmo5RTFQQ2VZaE9NS1d2MUQxMERkdm5FTFRRbTYxeA?oc=5",
-        "date": "10/22 04:00"
+        "type": "positive",
+        "title": "BE Stock Is Up More Than 174% In 2026: Why This Analyst Sees Further 9% Upside",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWUtWckN5UlgtUzVYSFdpZnRJNWxtb3BoblJGUTBrWWN5RjVYRFA0Q2hOTGpRcmpmZDJOYUd2aVFYN2I5ZUVwZ2FsVGItLWJoZlJYOWlUNFcwS3BrWG1UVll1bUl0YldkRzZ6QV9PVW5HMkE4dVgtV3hzOHQtSXdPU3QybDI1dVlDUGJXcndYOU5rb0t4ejYzWkxkLTBmYnpORnVYNVpxTEJsSUtUTmdBQ3Z1UFZ5MTg2ZkZoMDQ0Skl5c2ZxNjJDT3lPSUlIU0ZFRlE?oc=5",
+        "date": "10/22 13:23"
       }
     ],
     "GOOGL": [
       {
         "type": "neutral",
         "title": "Google Hits Major Quantum Breakthrough. This Could Be a Game-Changer for GOOGL Stock.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1RiSHJLQ3VMeXVXZnpxWktxY3cwbG1Bb1J5Zkp3VjB1dHJvNTVia2I3ZkpGWVpOcmpJMDF2M1RXSEY5YUdvem9ERTJOTWJPUjVPc3lOYWFEUkc3YkY2cFh3NDFRSnVxTVFCWTlJcjdKQkxhSl9yLU8wRFRSWEJtdktEYXU2V3dqZVBTU2NHQW83bzlZU2RLUlNLMy01M0poZEhGaHpRWXFkNFlHSTFPYjFHTlh0TVBxTHlOQm1HNDNCdGxaT1E?oc=5",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzNGQnEyWElKb295R25GazNPTEUzbnpCX0NwM0Zwang4WTVNdGtIaEwybWVCME85MkdOb2l5WVM3TzZ4S2NKVWJJVXpTNjlzZnJzdkUycE1WU2VIM1kzcnJZZDZfYjFBZS1GRklDeTVodnlmTUZXNmh2clowZTBUY3lZUzRMSzdUbVRDcXpXMDVKNlRuNV9zcmpnaEo3NVBhcUtKeQ?oc=5",
         "date": "10/22 20:38"
       },
       {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock Looks Below Fair Value After AI Spending Plans",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXJqRWlqNkRWekQ3dkJteHJzSjRZZlZvTkJjU3FDQ0kwRzlaQWNqWXRqaVFPQzZJemVXajRrYVBaWUtrSUpVNHZuQjZFdjdNOWIwVUVpSzVpSnUwdF9SUXJXWnVwUjZMMTVrWWJ1WEg2STNjTDRkdTJuLWZ3SWYyQ2lrRDBObHphRUQxSU16M0c5WW9SVTlsWkVCYWNBUQ?oc=5",
-        "date": "10/22 10:16"
+        "type": "neutral",
+        "title": "GOOGL Stock Earnings Preview: What to Expect From Alphabet’s Q3 2026 Report",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWRlS3ZaSjlQcGNVdmhtaGcyb1VvQ1JqTGhCa2hXczBIdTVTSU9yNmxxZ1h6U2JhRmJSQVd4Sm1lTm5yUVdaTjVUMHB0dXdtanRibWRtN3FlZ3h6NFc4YWRIY0FMejdsWFcxSmRERk5Jd1lETGJybWl5VEpxeWxhZEhYZUhLcU11cmR3dWVITzZZOWxPdGYxRU9pTl9waFBmSHlIOE02dGN6Zm9yQkNIbWxST05feUZM?oc=5",
+        "date": "10/20 19:35"
+      },
+      {
+        "type": "neutral",
+        "title": "What Makes Google Stock A Buy?",
+        "publisher": "Forbes",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOclVhNnUyczBENXloSW80S2xicDc3cmMyaURFT2ZlODY5bDdxQkZrekVGVkU2bDhQRG5SVDF6VEFXNkVYYmw5X0RGVnhpN0E4V3ZnLVN0dWhCMkpiWVZJR0ppVTVQQ0I1SzIzVU1VdEJHT2k3Y01MYlQ2ZTNHVzZRSENOUGM2bmFrb19BYnhfUzBQQQ?oc=5",
+        "date": "10/22 23:43"
       },
       {
         "type": "neutral",
@@ -976,13 +989,6 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFlMOFY1SGZCOGprMnZTZjBDYVZNemRFTGoxY0U2d2JIWmoxX2pva21rZTJTakpUcTlicnlMZ19kVl9IY3pHRkNybG84czhITmNwQ2R5R3RMXzN5MWdsNGs2RmtIemFFY2tuSUJXeGtaakF3VlJaRXJVZjRRaTZCTlhPUC1lX2x1bDAycXVKYU1IQ19JV2Rscg?oc=5",
         "date": "10/21 20:53"
-      },
-      {
-        "type": "neutral",
-        "title": "Wall Street Continues to Systematically Undervalue Alphabet, So I Continue to Buy",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU0U4RF9hSEI1Tm80VTBQQ01MUUNNcFRJRkg1YXBOVTJXamN5Qk45UDYxTk1nS2VOYVRET3ljUnMwcGdvZEhDUHFLYUQxWGx5bFozcTFwOS1HRXNCSTVmX05FRmJaS2diUkdNTk0xVTRGR1g1Qm9VeEEtWFMtVmFBdGs2ZHlWRi1XSXBGNmFPTEJ6NUpKNXh0RmsyRFdCQUdvcG1hM2JwSlBTWjIyV2VTNXBwMUpiQVZ1ZUtBX3VmNlQxZw?oc=5",
-        "date": "10/22 01:45"
       }
     ],
     "QCOM": [
@@ -1002,17 +1008,17 @@
       },
       {
         "type": "neutral",
-        "title": "QCOM Stock Suffers 3-Day Slide: Short Seller Flags ‘Hidden’ Anthropic Partnership Code — Then Finds Deal Wasn’t Real",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDNKZDVaS1FMdWExQTFpYU9xaUFVM0hHSlZSdFlJRnFxYldjVTZXWDVsUHZaZmVxMXRrVVUzZTFibzBYakdtb3l5cmxVbGFyVmhLcVA4cGt3cHJSRzFHa0Z6dnN0aEJmS2hYTHNtczR1NjdsdjhPUTlFN2U4bW5tXzNGOE5fNm5LNjU1cTNCbk4tQUhocy0yMHB2R2JiRGpfalNianJTLS1DS0F4dlJHZFJuYzJjay1j?oc=5",
-        "date": "10/21 10:15"
-      },
-      {
-        "type": "neutral",
         "title": "The One Number Qualcomm Stock Investors Should Watch",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS29NVUk1LWNnY1pXTFJIS2lrRGYxQ2tmVUtsSWJGVTBNbUlVWFg2aHl5dkhzblFmQXVFT0hpV1BOblFXXzFia2ZfOGdhS2F4TEQzYmVxZFBCbnV0VVg4Zy00TUJKV2dSaTlENm9KRUhfSl9vY2htUkhIWWdJaFNHMVZaX0xRVWtia1B4b25ybUg0enF2TmNiRkhyVUFwemRWQmpEQW1RYnptVDVRNlBLZDd1WQ?oc=5",
         "date": "10/19 20:30"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm Announces Quarterly Cash Dividend",
+        "publisher": "Qualcomm",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPczlEMG9uTk16bnZrUGE2eFc2bkREbVlaX2RfR0hwclRtLTFZczBoX1lVUVdRZUJRcmRtR2FKTm9pVXJzWDB2T3ZkRE8td2dJWFU0UzZNQ1VidTBBSjA3R0Rva1Jka1pXb09tZ3dlLUpiY3VNMnJ3RnRiREYtY2JIeEVwRmJQTjhFSVVlNWlEeVpRd0xRdDBmWk8tZDI2UE5XLU5SWERMc2NESGRwNW1KOTlHdFpUZjNiVGIwTEpZd3VTZVBMUXp5aU5tc25uVllkT3daSUxxTQ?oc=5",
+        "date": "10/22 08:35"
       }
     ],
     "VRT": [
@@ -1024,18 +1030,18 @@
         "date": "10/22 05:54"
       },
       {
-        "type": "negative",
-        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today | VRT Stock News",
-        "publisher": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
-        "date": "10/23 00:33"
-      },
-      {
         "type": "positive",
         "title": "Is Vertiv Stock’s Fall A Bargain Or A Warning?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTFpsZThnN3dfQVd5U0NpV0RPdDFqMmlNakZ3akFwM1NtZUNNSEotRkNOdGJhUHdETUtfbTBmanFOdUhZLXBsMjlzRE9MVFV5WWZkYk9ZekNaSFVjMk0ta1d5akRXR2VUeHh1ellMV2VrdlRZeDY3bHBfNnpzWEZQUjJFcmFId3ZTNGpVTUhOckMyNHJBbVU1LUR1ZkZDUjdOaTkxUlR2SQ?oc=5",
         "date": "10/02 16:00"
+      },
+      {
+        "type": "negative",
+        "title": "Why Vertiv Holdings (VRT) Stock Is Down Today | VRT Stock News",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcElzSmtKVExnTFhDRE9TTFh4dFBmZ1AzZ1p1cHhWS1IxQkJvSU5RMk5ubjd0MmpSMnJrckFjOWhwVV9MMUFFeXJHZG5qQXRRRnE5aHlCdWs1OEs2RVU1ekk3QTBZZzN1SjZzS1ZORHhYd2FIN3BpbVc3d1VOMFA0bXZXUWp1SkJXR2c?oc=5",
+        "date": "10/23 00:33"
       },
       {
         "type": "positive",
