@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:05:30.233163+00:00",
+  "updatedAt": "2026-10-24T19:35:50.284022+00:00",
   "market": {
     "cards": [
       {
@@ -904,25 +904,18 @@
   "news": {
     "AVGO": [
       {
-        "type": "positive",
-        "title": "Broadcom’s AI Revenue Surges 221%, But is Growth Becoming Too Dependent on AI Spending?",
+        "type": "neutral",
+        "title": "Prediction: Broadcom Stock Could Crush the S&P 500 Through 2030",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX081U0VMOFZKZFNTRFladkVFU3FoVy00amNrbHlKaVNxemp1X2hsb3A3bjV3WURTd0hQLWRRcDlwSVIycEw5NEp1ZTFMUU9LSVRUVVIyRmw1eXBKVU1qQ09aWHBFMDNQZzJWa09UeHFTQXQ4SWhiT2EzR29UOGdpUWlNeW4xUGh4OVBrMjAyTFg3MVp4OTBlbkd3?oc=5",
-        "date": "10/22 00:25"
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWExVGxQbDI2NDJLbVNWM0VJQzgtalVnMi0yX1RtRTA3dnIzczJLTk1nTXJHdk12SmJUeVozRHpOQWFLX1ZjeUlybWZKdVBic2NCcHFVbXR3MUlJZk9qeEpiUXVqSFJrZ3hoV3lLbE5jZUdZeFpnNnk2UGN4Vkl2N0lTWENMeFk5dVBZVHBvUXB6MnBVbmZObmtBR0lLbm00UGxrUQ?oc=5",
+        "date": "10/23 01:00"
       },
       {
         "type": "neutral",
         "title": "2 Unloved Stocks of 2026 to Consider Buying Now",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXRXc1huejVBeW1GaFpiQkpPa19HM0pmdzBzZzktb0UyZWg1a08tOFZ4UmZkdU5BSVN1bU55UG9INld0dDFlTDBnTno4dWR1UjVXY2xnZnRENXQzb3ZSTUpwdkhmRzFRTmRLS0pieW9xU2ZBeUlPQjB3NzFFQXVHUXliZm5xZ0l6M3NIU2hLREdKY0My?oc=5",
-        "date": "10/24 19:23"
-      },
-      {
-        "type": "positive",
-        "title": "Broadcom (AVGO) Stock Could Be A Bargain Following Its 5.7x Run",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0pkbDJfd2tRRTJVNlZaSEp5czdMVnR1cC15azJLeHliV2I0OE1BYUhvN1RVa2FYczd2U2dVckFuMWdDdFBqN0ktOUktTEZuMDFfcGt5WU1Md1JGVzRaRzF3VF90aGdjclZDZ1c0T0RQVkgzMVVYOEtvUEl0cXY0MGVYSjVrTmM4RGkyYWctMEJiWk9oUWRvWDlaYy1QS0E?oc=5",
-        "date": "10/23 10:10"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUh0ekZoTUVZZjRxVHhxXzAyam5WcXRGdkQyMWlMOUZxdVRRdmxOODc3TzI5YV9fWjZ0cFJiQXRrcm0taVJDamF4dmJpZ3IwMnNBZDU3XzR0MHM2ZHd5NGZpOHZka3dtN3B5ckl3U3N2V1FWLXlSQWV5TGtybDJOT2ZBUjBpaE5xZ2NQVjN6QUJXNWxvZ2xRMEk0SQ?oc=5",
+        "date": "10/24 18:43"
       },
       {
         "type": "neutral",
@@ -930,6 +923,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0VTd2R1Q3ZwWlJZdFpRaXNmOTlFaGk0OXNMaWk0cWJhSXZqS3JESXNoLWVpaU1FWk1ZSFBWR1dsU3AtX2piazhnbnJNdGxMUHd6UVBwaVZoajd2b1l3T1RVcUFIRFBnX3UxYkJRamhjbXQzZWFaVzJZbjNJeENvSWNubDNFQWR5TGhoczg5a0dUZnVJRFkwYw?oc=5",
         "date": "10/24 01:00"
+      },
+      {
+        "type": "positive",
+        "title": "Broadcom’s AI Revenue Surges 221%, But is Growth Becoming Too Dependent on AI Spending?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX081U0VMOFZKZFNTRFladkVFU3FoVy00amNrbHlKaVNxemp1X2hsb3A3bjV3WURTd0hQLWRRcDlwSVIycEw5NEp1ZTFMUU9LSVRUVVIyRmw1eXBKVU1qQ09aWHBFMDNQZzJWa09UeHFTQXQ4SWhiT2EzR29UOGdpUWlNeW4xUGh4OVBrMjAyTFg3MVp4OTBlbkd3?oc=5",
+        "date": "10/22 00:25"
       }
     ],
     "BE": [
@@ -942,10 +942,10 @@
       },
       {
         "type": "positive",
-        "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
-        "date": "10/24 03:43"
+        "title": "Bloom Energy: Not Pricing In Capacity Upside",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmozN0VBUGlNMkNoVXl4RVctNHpTUTY5Y2RKbm1fdllubVNWQ00tQWlSSWs3Mk9xQ3phbHdhUXFId1RLaXh5YjMzMUp1XzlacHJJSVhhV0pPX1RRVVN4S2ptVEI3WGdPWHFjT0pLV1BiVm8wWU5FV250SHk1OXFPcXZvOVVjTGZoRnhSdg?oc=5",
+        "date": "10/24 23:00"
       },
       {
         "type": "neutral",
@@ -956,13 +956,20 @@
       },
       {
         "type": "positive",
-        "title": "BE Stock Is Up More Than 174% In 2026: Why This Analyst Sees Further 9% Upside",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWUtWckN5UlgtUzVYSFdpZnRJNWxtb3BoblJGUTBrWWN5RjVYRFA0Q2hOTGpRcmpmZDJOYUd2aVFYN2I5ZUVwZ2FsVGItLWJoZlJYOWlUNFcwS3BrWG1UVll1bUl0YldkRzZ6QV9PVW5HMkE4dVgtV3hzOHQtSXdPU3QybDI1dVlDUGJXcndYOU5rb0t4ejYzWkxkLTBmYnpORnVYNVpxTEJsSUtUTmdBQ3Z1UFZ5MTg2ZkZoMDQ0Skl5c2ZxNjJDT3lPSUlIU0ZFRlE?oc=5",
-        "date": "10/22 13:23"
+        "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
+        "date": "10/24 03:43"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "Google Hits Major Quantum Breakthrough. This Could Be a Game-Changer for GOOGL Stock.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1RiSHJLQ3VMeXVXZnpxWktxY3cwbG1Bb1J5Zkp3VjB1dHJvNTVia2I3ZkpGWVpOcmpJMDF2M1RXSEY5YUdvem9ERTJOTWJPUjVPc3lOYWFEUkc3YkY2cFh3NDFRSnVxTVFCWTlJcjdKQkxhSl9yLU8wRFRSWEJtdktEYXU2V3dqZVBTU2NHQW83bzlZU2RLUlNLMy01M0poZEhGaHpRWXFkNFlHSTFPYjFHTlh0TVBxTHlOQm1HNDNCdGxaT1E?oc=5",
+        "date": "10/22 20:38"
+      },
       {
         "type": "neutral",
         "title": "If Alphabet Does This on Oct. 28, the Stock Could Skyrocket",
@@ -976,13 +983,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVN6MDc4a3piaVFsaE1vcUZFR0dzTk1lQ1VZMDdvU28zWlFLY0E4ZUxvbGJrdGw4dllmc0hDOEhpVWpHUDBpaE9DcU5waThIMmlZMHhibjBaejNSMUpaY1FxZ3VZUHdqb2RzVk5mLVFuUnk1TlZMWHFXcFhLeEZhS0RuNnpjbml4M2pVYWx4R0JTbUJ4Rmt4Tkh3?oc=5",
         "date": "10/23 22:13"
-      },
-      {
-        "type": "neutral",
-        "title": "Google Hits Major Quantum Breakthrough. This Could Be a Game-Changer for GOOGL Stock.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1RiSHJLQ3VMeXVXZnpxWktxY3cwbG1Bb1J5Zkp3VjB1dHJvNTVia2I3ZkpGWVpOcmpJMDF2M1RXSEY5YUdvem9ERTJOTWJPUjVPc3lOYWFEUkc3YkY2cFh3NDFRSnVxTVFCWTlJcjdKQkxhSl9yLU8wRFRSWEJtdktEYXU2V3dqZVBTU2NHQW83bzlZU2RLUlNLMy01M0poZEhGaHpRWXFkNFlHSTFPYjFHTlh0TVBxTHlOQm1HNDNCdGxaT1E?oc=5",
-        "date": "10/22 20:38"
       },
       {
         "type": "neutral",
@@ -1009,17 +1009,17 @@
       },
       {
         "type": "neutral",
-        "title": "Qualcomm Incorporated $QCOM Stock Sold by Private Wealth Partners LLC",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUtCb0tpSzQzYTg2MjBzTUROb2FERXpjdDFUcm1JUkVEUUo2VlF0a3pHQVMzcU1Jb25HeWp5TkpZcjV0TEY1WUREWXdYRVRkaHNUYTBvSUlWYWttR0dHZk9ybWdieWhfN2tIR2JYd1EyUE9RdThNb3hmR2szTURYTDlRMFNVaXJNZTZxR2lzcGZyVFp1eVJYWm8yWXBheFVCQTkzd3pQWDVrQ3RCQzdDYWNTRkZ3NlFKbk1BdnZiV3YzRHRIdm4tbA?oc=5",
-        "date": "10/24 23:13"
-      },
-      {
-        "type": "neutral",
         "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0xobllNdGRnRnpFUWtQYlh3dlRLeUE5RWtfVUZ5VkhPeHNrLVJUUjJNa3RVM1VtMlp4Z1IyZjFUdlNCV1c3cmxCc19BcjVWYXBoWUR1cjR0RE9PYV9STkpheGw0VVdSaUNGVlFMc1hJVzlIVVQ3U0tqbXF2QkNTWG4zZE1ZZ2M5TzRxcGxCUmJDOEVZNFM2Z0pVN2l2M3pzVW5DTTU1QzRFWGlCaUVHYmowMUV4YjA?oc=5",
         "date": "09/30 16:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm Incorporated $QCOM Stock Sold by Private Wealth Partners LLC",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUtCb0tpSzQzYTg2MjBzTUROb2FERXpjdDFUcm1JUkVEUUo2VlF0a3pHQVMzcU1Jb25HeWp5TkpZcjV0TEY1WUREWXdYRVRkaHNUYTBvSUlWYWttR0dHZk9ybWdieWhfN2tIR2JYd1EyUE9RdThNb3hmR2szTURYTDlRMFNVaXJNZTZxR2lzcGZyVFp1eVJYWm8yWXBheFVCQTkzd3pQWDVrQ3RCQzdDYWNTRkZ3NlFKbk1BdnZiV3YzRHRIdm4tbA?oc=5",
+        "date": "10/24 23:13"
       }
     ],
     "VRT": [
@@ -1045,11 +1045,11 @@
         "date": "10/02 16:00"
       },
       {
-        "type": "neutral",
-        "title": "Vertiv Holdings Co (VRT) stock price, news, quote and history",
-        "publisher": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91emsxS0pQN1BHS3VLbEprTDNuT1NTWHhKWmJHcm5Jb1VRV3JGRlNKTnU1MWlsMG1vV2p2MzJmSEZ4dnpIbGF5YmNzQmszVF9F?oc=5",
-        "date": "10/23 01:58"
+        "type": "positive",
+        "title": "Vertiv (VRT) stock is up, what you need to know",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbGtid05STllNcFZlWEpjemZvS1pWakxTQnIzc080U3FtQVRzWl84dEhvTkhla2dnVGtTMDAwVlo3QkM2Z2xWTER3RkMwMWoyNmtKRDRHcC1zVVVhNW5hVlB4ejB1Slp3V3F1cm1TQW1NbE5uazJQRFgyZDU3NzdON181VjJQXzd0anVnSVF6NA?oc=5",
+        "date": "10/22 05:54"
       }
     ]
   }
