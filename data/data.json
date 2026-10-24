@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:52:26.114373+00:00",
+  "updatedAt": "2026-10-24T05:12:16.434128+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1323.66,
-        "change": -0.18
+        "value": 1325.4,
+        "change": -0.04
       },
       {
         "name": "KOSPI",
-        "value": 5533.77,
-        "change": -3.52
+        "value": 5550.3,
+        "change": 0.3
       },
       {
         "name": "KOSDAQ",
-        "value": 764.1,
-        "change": -3.62
+        "value": 751.69,
+        "change": -1.62
       }
     ],
     "groups": [
@@ -684,7 +684,7 @@
               1323.94,
               1325.59,
               1325.99,
-              1323.66
+              1325.4
             ]
           }
         ]
@@ -752,7 +752,8 @@
           "10/19",
           "10/20",
           "10/21",
-          "10/22"
+          "10/22",
+          "10/23"
         ],
         "series": [
           {
@@ -818,7 +819,8 @@
               5768.01,
               5552.74,
               5735.66,
-              5533.77
+              5533.77,
+              5550.3
             ]
           },
           {
@@ -884,7 +886,8 @@
               808.89,
               781.97,
               792.76,
-              764.1
+              764.1,
+              751.69
             ]
           }
         ]
@@ -892,57 +895,57 @@
     ]
   },
   "rsi": {
-    "AVGO": 34.2,
-    "BE": 26.0,
-    "GOOGL": 32.3,
-    "QCOM": 35.2,
-    "VRT": 13.1
+    "AVGO": 28.6,
+    "BE": 22.7,
+    "GOOGL": 26.4,
+    "QCOM": 43.8,
+    "VRT": 11.2
   },
   "news": {
     "AVGO": [
       {
+        "type": "positive",
+        "title": "Broadcom (AVGO) Stock Could Be A Bargain Following Its 5.7x Run",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0pkbDJfd2tRRTJVNlZaSEp5czdMVnR1cC15azJLeHliV2I0OE1BYUhvN1RVa2FYczd2U2dVckFuMWdDdFBqN0ktOUktTEZuMDFfcGt5WU1Md1JGVzRaRzF3VF90aGdjclZDZ1c0T0RQVkgzMVVYOEtvUEl0cXY0MGVYSjVrTmM4RGkyYWctMEJiWk9oUWRvWDlaYy1QS0E?oc=5",
+        "date": "10/23 10:10"
+      },
+      {
         "type": "neutral",
-        "title": "Broadcom’s (AVGO) Sell-Off Is Starting to Look Like an Overreaction",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakY5dmVDak5RYmxqOEUxWkNmY1c3VEpoSXptbXFzcEpKWEdRcWwxUkJ1ek83b2Jocjg1YURqNDlsWDJGYmFYN1hJZWdUYWxVb1ZLZWRROXNsYXJ1Rlo1THpvNktDX050YlZYOUF2cVVJVWVIeThsMTdqLVJQeVpVQm9xd1lVMlJPYWVGdG51dVlWZ1BVVEZKdFlB?oc=5",
+        "title": "AMD or Broadcom: If I Could Only Own 1 AI Chip Stock Through 2030, Here's My Pick",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0VTd2R1Q3ZwWlJZdFpRaXNmOTlFaGk0OXNMaWk0cWJhSXZqS3JESXNoLWVpaU1FWk1ZSFBWR1dsU3AtX2piazhnbnJNdGxMUHd6UVBwaVZoajd2b1l3T1RVcUFIRFBnX3UxYkJRamhjbXQzZWFaVzJZbjNJeENvSWNubDNFQWR5TGhoczg5a0dUZnVJRFkwYw?oc=5",
+        "date": "10/24 01:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Prediction: Broadcom Stock Could Crush the S&P 500 Through 2030",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnlidnJ3N3RMdFZOWlZPY3JMcENnVVFfQTBuZjkxbk4wdGRVeGpjcTBMMTFORkNvR1htb2htVzZxemFWbENxU3ExaGhoMWhBODhuT0IxU28ydWtRWF9iSEJXZEVhUDRKbVhVbUVSU2dpcWNpVFVmTXkwZGhCQ1J0TzBxWUVhMmRfbVFyWGgyT0pmdGhBYXRnT3R6M1RiaUJGb05WRE9tcU4?oc=5",
+        "date": "10/23 01:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom: Once-In-A-Decade Opportunity (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0NFMkN1ZDJkU0xwcHJ4ZTVsZ2JweFRkV1RuenlJV1NnbHFIYWNBd3hGZzJPUXgyMlJienJIWkc5cnhDWm5yUDZoT0Ywc21YYk10WkZuNjdzUWRKSlVSWHgyaHNwR0tHNTE5aVBkTWcteXZwZTdDLXpOQU1MdVJzY0xkeUI?oc=5",
         "date": "10/20 22:01"
-      },
-      {
-        "type": "neutral",
-        "title": "AVGO Oct 2026 367.500 call (AVGO261026C00367500) stock price, news, quote and history",
-        "publisher": "Yahoo Finance Singapore",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFRrbVBPeHZ4RUNhTjVnWndmRGhGcnYwSDF0bFF5eU5HR3ljZ1lteVdPYUJhWHBNTHFQQ2xZV3BOTi14aHFOLXlfdkxqeVl0M1NmbEZadlE0RTdVUVJDNUtzczVWZw?oc=5",
-        "date": "10/24 09:33"
-      },
-      {
-        "type": "neutral",
-        "title": "AVGO Oct 2026 290.000 put (AVGO261026P00290000) stock price, news, quote and history",
-        "publisher": "Yahoo Finance Singapore",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GUjBqQ3h1WTZqV0lJQVNJS2xGRTRiRTlYRHNBWFpvZUtzOWwtRGR3blhuVGZYVmtlV1JCU2VBYlFRMGgzOEZOdWdVT2xiRWF3YjRFd0JSeHNlWVZFdHRiVGl3Z0xNUQ?oc=5",
-        "date": "10/24 09:33"
-      },
-      {
-        "type": "neutral",
-        "title": "AVGO Oct 2026 420.000 call (AVGO261026C00420000) stock price, news, quote and history",
-        "publisher": "Yahoo Finance Singapore",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBycW9BaV9hRjFlZjJNREptcDF2ZWViN2FidVFyU3hLVFEwd0pUNk0yRGdQQVQ2a3BmSWNfeHdPUVhQeUV1OXZwcTR6VXJIMEJ4RjBZZGlRS0QxRGFyMUp4RHluWW1jUQ?oc=5",
-        "date": "10/24 09:33"
       }
     ],
     "BE": [
       {
-        "type": "negative",
-        "title": "BE Stock Drops After-Hours: Bloom Energy Q4 Guidance Comes Above Estimates, But Negative Cash Flows In Q3 Dampen Sentiment",
+        "type": "positive",
+        "title": "BE Stock Extends Dip Overnight: Retail Bulls Hold Firm As CEO Says Power Demand Will 'Skyrocket' Beyond AI",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeThaR0tjNm1LUFRXaVpIb2VUQ21SRXJmRk4wWUlmQjBPRXNfUzNSUmJybm5tb1VYRmt3dFNBWGFfWnhyN1hsT0hGM19rSkh1bHZBZFZVU2k2ZHlmZ3JHS0VUblVUcHdxTTQ1a2x3S0pRUVVWcmtCMGplbkRqWXF1V2RWOTkwbW5fdEhkcUVFVlN5YjRNYXVlWTJqUQ?oc=5",
-        "date": "10/23 06:47"
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS1R5T0JEblZrN0ZhV0ZScm5ZMDJ0TGZsaWlWcTNYWDlqbE5nMW9rM016SklKYXNVQThNZDNVQWliZnZTYVRwN3h0akRzX0hSQXpRXzlSYWNvdXcyOFFicEFteGo2Y0VlMTRUd0NJYmVQaEoxdEFIRnhZb3Z6UzJRVUwtbWNjZ2ZWZVpMQ3hsczBlUVRLQ3c?oc=5",
+        "date": "10/23 10:12"
       },
       {
         "type": "neutral",
-        "title": "Bloom Energy Stock Slides: What's Going On?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTE5VMUtfeXUyYlVPQVBvaEcwN0RvSWlKRDRZQVhkcUd4UXVOR3F1a3p6US1Ga2pzMGVzcTk0RWJfdmpBdTl4SXpWMEwzNjNwTkFaSjF1a0FQcUkyT2VSa2JRanZsNE9WTHhROTVkYU5HTDZWZXoxNjVYNWl1WWRoX2todW45VnFtdTZjRmJLRUo1T2hDSTRGNGtJY19NR3c5ZWh3?oc=5",
-        "date": "10/21 03:49"
+        "title": "Stocks to watch after hours: WDC, BE, and NEM",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnBYU3ZmMTdjeTZjeGNISDVJV1NDaF8tMEI0WF9lNmNBaldRVHlvTnl6cmIxRUVyeWI5SkMtU1lobmpYLXN6eVVrNVphUC1GT2loVEJyeGZzSVdqUUY1bGxqeklOUUVUbTZKZTJ4b3FrMW9FWDZCVFlCeE83OVcxQ3VOQmVPeGc?oc=5",
+        "date": "10/23 05:25"
       },
       {
         "type": "positive",
@@ -961,11 +964,11 @@
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "If Alphabet Does This on Oct. 28, the Stock Could Skyrocket",
+        "type": "positive",
+        "title": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXUtakRiMFA4U0UxQzRVclFQUEhIS3BYeUtRMDU0ajVvcG50T2tlNzdqenp5S1YyeG13bzJMNFBBYkZyVW5taXE0bzhBcGRhODA1NHZhQzBIRTVEZnFjSTFCZng0M19HOENtcDRfTnZhRDlBeFRUdW5ZdHRMQ2doWlhDQ1dVRjVCRjVPUWxadFpzUXk4cmc?oc=5",
-        "date": "10/21 20:13"
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnYtdmdRMm4wZFI5MzNBaFRmQkotSlFQZEJicWFaYUstMHphSmE3dDhNeWVKUmtpSGdUQlFnYlVrSnh1QXl5bGo2aHhRUFhhSi1DRzZTWUs3VjY3a1gxcEFPR3hxQXhCQk1fUHdyVTNMX2tCazBWY3l4U3c3RUswQ1NTQ2ZZWTVXeHJmWUF4eGRmYS04T05kamxoa3R2YnM?oc=5",
+        "date": "10/24 01:51"
       },
       {
         "type": "neutral",
@@ -975,34 +978,34 @@
         "date": "10/22 20:38"
       },
       {
-        "type": "negative",
-        "title": "Alphabet (GOOGL) Stock Looks Below Fair Value After AI Spending Plans",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXJqRWlqNkRWekQ3dkJteHJzSjRZZlZvTkJjU3FDQ0kwRzlaQWNqWXRqaVFPQzZJemVXajRrYVBaWUtrSUpVNHZuQjZFdjdNOWIwVUVpSzVpSnUwdF9SUXJXWnVwUjZMMTVrWWJ1WEg2STNjTDRkdTJuLWZ3SWYyQ2lrRDBObHphRUQxSU16M0c5WW9SVTlsWkVCYWNBUQ?oc=5",
-        "date": "10/22 10:16"
+        "type": "neutral",
+        "title": "One Reason Alphabet Stock Looks Better Than Its Price",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONW5HLXkwV3BPTnFqLWlUR0pGNDRnQUJRc3lWOWhRZExSclVsZ3R2RWU5dmtvaGJyUHhHbjZuay1ZamtEWnVJemc4VW5CdC1kVzY3a1p3aTkyS0xGMUF0V3BRQ0I2N3hZaXFPNXVnZzRYdTVqMWJENTFQUS11UEowWnN5WFlDdXhrbUY4SVRLSXAyTE5RWmhzRi1DQ3lRbUJ4V19hQlR0NFU3aDRjdGJfalhqN2NoZw?oc=5",
+        "date": "10/22 23:00"
       },
       {
-        "type": "positive",
-        "title": "GOOGL Stock Gains After-Hours As Alphabet Is Set To Replace Verizon In Dow Jones — Retail Eyes ‘$400’ Level",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUnlnbV95S2Q0dndkQkxnQmJWa1pPanMzdEtoWlUyLU42OHFFYTBCS3ZpdnVueGFva2lieldySFlIN3VzeGM1YXhSOVItOUtFMTQzTXdsbkdYbEVFc2dXMDNfTllLbmxONnQ2dHVqaTFwSXhDWEZpQVhHWmI3MmJkZmhXeHFJU3FKUHBxX3dGaWotNjJvTFBveDE5ZVd6NW9GdXplMXdkWVJ1anVMQ3EzOWJTLXdUTXpWSDJYdmxJWC1LT3EtczNkTFNrdFAwMVFHSUxlTmwwYlhub09zZElhSFFSLVM?oc=5",
-        "date": "10/21 10:11"
+        "type": "negative",
+        "title": "Banking giant cuts Google stock price target by 12%",
+        "publisher": "Finbold",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oMWh2OEhFNm5TbmhUNXFIbVd3bHdmSW50cnUzN0VRUHVOcTRFYTFkTHF3QXZ0Y2xKSjRzNWtyVGlNVlg1NEpqUklmRWMwR3N0QXJoN2Y4LTZDOXNXQ3RTRmtvN0MyVHZNNVFLZW0tMkNUWUluLUlxOHk2VQ?oc=5",
+        "date": "10/22 21:04"
       }
     ],
     "QCOM": [
-      {
-        "type": "positive",
-        "title": "What Would It Take For Qualcomm Stock To Move Higher?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFhQcjZTQm0xc2ZTNlZ2WFE5Z2ZLc290dGRReEpucTdsa0xqay1sWTVLdEJlc0lHaW9NWVFqcTFVbHpoY2huVEFNU1pjYjlpV3FqWnc5cmIyVUZvTV9VTXBlcE5lOTdXUzlKb2ZXdnVRd0lOZm5BQzRoU2dmaWNqRlJUS2pLeU9LelNXaXlsR2U1eGFxOVh4aDdyZ1RnVGJ0QVlCRDBEdjV6a2g3QUxfTlpLZw?oc=5",
-        "date": "10/23 17:52"
-      },
       {
         "type": "negative",
         "title": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamVrTTBka1JGMU1MdzR5Ujh2NGVFZU9lZkEyM3BqNk52N3pQQWRJV3F3a0VBQ0ZtbFAzUVZ1bHVaV3NrejZlRmhtZ3p6RnpKMFZzTEl4bVdRd29Fb1Z0YWYzZmdZUnU3dnBmQ2QxNjVGUkZrNk41R3ZtaC14UGtCc3E3UFFFRFFXbFVxUEc2NHpISHFJUEF2VnZMOHRyYWZCZmZV?oc=5",
         "date": "10/24 02:32"
+      },
+      {
+        "type": "positive",
+        "title": "What Would It Take For Qualcomm Stock To Move Higher?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFhQcjZTQm0xc2ZTNlZ2WFE5Z2ZLc290dGRReEpucTdsa0xqay1sWTVLdEJlc0lHaW9NWVFqcTFVbHpoY2huVEFNU1pjYjlpV3FqWnc5cmIyVUZvTV9VTXBlcE5lOTdXUzlKb2ZXdnVRd0lOZm5BQzRoU2dmaWNqRlJUS2pLeU9LelNXaXlsR2U1eGFxOVh4aDdyZ1RnVGJ0QVlCRDBEdjV6a2g3QUxfTlpLZw?oc=5",
+        "date": "10/23 17:52"
       },
       {
         "type": "neutral",
@@ -1021,11 +1024,11 @@
     ],
     "VRT": [
       {
-        "type": "positive",
-        "title": "Vertiv (VRT) stock is up, what you need to know",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbGtid05STllNcFZlWEpjemZvS1pWakxTQnIzc080U3FtQVRzWl84dEhvTkhla2dnVGtTMDAwVlo3QkM2Z2xWTER3RkMwMWoyNmtKRDRHcC1zVVVhNW5hVlB4ejB1Slp3V3F1cm1TQW1NbE5uazJQRFgyZDU3NzdON181VjJQXzd0anVnSVF6NA?oc=5",
-        "date": "10/22 05:54"
+        "type": "neutral",
+        "title": "Vertiv Holdings Co (VRT) stock price, news, quote and history",
+        "publisher": "Yahoo Finance Singapore",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aWVUyb2FOTEZ1NkxQczdPY01XblR5TmlwOTdURm0tY2NLT2hJRmQxVGNSZmRqMHZIU0ZRYWVvRU5LSWpkZ3YtcTg0SUhSeGJR?oc=5",
+        "date": "10/22 13:52"
       },
       {
         "type": "positive",
@@ -1042,11 +1045,11 @@
         "date": "10/21 05:45"
       },
       {
-        "type": "neutral",
-        "title": "Investors Heavily Search Vertiv Holdings Co. (VRT): Here is What You Need to Know",
+        "type": "positive",
+        "title": "Vertiv (VRT) stock is up, what you need to know",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQUNCenN5MWhsT1lOejRwSW1FWE9NMWNMbWw5a0NFeThIemk4WW9iSEpxWEd3bEZkTkdhZTg4cGlGdFVQQUhLX1NLY2Nrek0tUDQ5TnNNWTk4RHVuUlB3VlprNHM2LVlFckZLYm9ISjh1RE84b3dIWWNOQ3o5VmE3Sl9XdHdkWVBvb25heXQwYnY3MnA2WTVxZ3lIOTd3dmoyUkNxNmpUbmw?oc=5",
-        "date": "10/23 21:00"
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbGtid05STllNcFZlWEpjemZvS1pWakxTQnIzc080U3FtQVRzWl84dEhvTkhla2dnVGtTMDAwVlo3QkM2Z2xWTER3RkMwMWoyNmtKRDRHcC1zVVVhNW5hVlB4ejB1Slp3V3F1cm1TQW1NbE5uazJQRFgyZDU3NzdON181VjJQXzd0anVnSVF6NA?oc=5",
+        "date": "10/22 05:54"
       }
     ]
   }
