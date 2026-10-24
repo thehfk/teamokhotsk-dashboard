@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T19:35:50.284022+00:00",
+  "updatedAt": "2026-10-24T22:06:21.505732+00:00",
   "market": {
     "cards": [
       {
@@ -906,8 +906,8 @@
       {
         "type": "neutral",
         "title": "Prediction: Broadcom Stock Could Crush the S&P 500 Through 2030",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWExVGxQbDI2NDJLbVNWM0VJQzgtalVnMi0yX1RtRTA3dnIzczJLTk1nTXJHdk12SmJUeVozRHpOQWFLX1ZjeUlybWZKdVBic2NCcHFVbXR3MUlJZk9qeEpiUXVqSFJrZ3hoV3lLbE5jZUdZeFpnNnk2UGN4Vkl2N0lTWENMeFk5dVBZVHBvUXB6MnBVbmZObmtBR0lLbm00UGxrUQ?oc=5",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnlidnJ3N3RMdFZOWlZPY3JMcENnVVFfQTBuZjkxbk4wdGRVeGpjcTBMMTFORkNvR1htb2htVzZxemFWbENxU3ExaGhoMWhBODhuT0IxU28ydWtRWF9iSEJXZEVhUDRKbVhVbUVSU2dpcWNpVFVmTXkwZGhCQ1J0TzBxWUVhMmRfbVFyWGgyT0pmdGhBYXRnT3R6M1RiaUJGb05WRE9tcU4?oc=5",
         "date": "10/23 01:00"
       },
       {
@@ -934,11 +934,18 @@
     ],
     "BE": [
       {
-        "type": "negative",
-        "title": "Why Bloom Energy (BE) shares are falling today",
+        "type": "positive",
+        "title": "BE Stock Sees Worst Single-Day Fall In 3 Months — Jefferies Trims Price Target, Flags Lack Of Updates On Its Largest Opportunity With Oracle",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQazhjbUVYS1E4ekJoVUJqTnR2aFlGMXVVWHlYb0RZSzdYSVpIaDBWTVEzU0N3TFRONmVidDFfdnNhUkZHQllfQ0VlN0NJcWczVjM0NEhwY0NDZWlDWGh5alNXMk55TDJfTlkyZVRYYlVtb1pjWjF0TjdOMDlCaFZUUmJRelk3Z1pyU3JFUmp2SW9xbFdRQ0ZzaGNzYU8?oc=5",
-        "date": "10/24 12:36"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHFNOWRBS2JyWWppcHVGNTRqT3JjZTVPT3RadC1UdS1TUHFjVlhpQU9CX3h3Y2FtWFJmcmtYMUp6SHhiOXV0c1ktdDI3MV9EUTdKZVF5cVM0RTYzSDBxdGFXM01RN01zZzZLVkgwRlBaVEdNalZtUl9aWElJajcwQVNYY3JzTFNJOF83WS00bk5rR3NCWWNz?oc=5",
+        "date": "10/24 16:31"
+      },
+      {
+        "type": "positive",
+        "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
+        "date": "10/24 03:43"
       },
       {
         "type": "positive",
@@ -953,13 +960,6 @@
         "publisher": "Stocktwits",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM3hzN1Z1MWtiTWV6Zm8yVVZsYVRjenh4ZEFjLWZXUE5xTl80NEdvWGx5MW5DN3lsMlJ5c1VGaTNCSm1vWThWQUk0YVNqbnJLenIzLUtQNWdLeW9DdlZpM013dF94aGx3YjRSbFhYSGh2OHJBM0wxU19JWm9zc2J2V21sQ3ptSFhfSUR1c1ZiTWpRZ1BVaE04UWFjNGs1SHBvT3hZOVlqTWo0VTJqMXJCVXBPZTY3Q3NuQkZVRG9NU1ByZ3BJTXhoalYzSG02U0NmVHJULUdMX3pGU2hxMkNPa25fbktwZw?oc=5",
         "date": "10/24 03:19"
-      },
-      {
-        "type": "positive",
-        "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
-        "date": "10/24 03:43"
       }
     ],
     "GOOGL": [
@@ -985,11 +985,11 @@
         "date": "10/23 22:13"
       },
       {
-        "type": "neutral",
-        "title": "One Reason Alphabet Stock Looks Better Than Its Price",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONW5HLXkwV3BPTnFqLWlUR0pGNDRnQUJRc3lWOWhRZExSclVsZ3R2RWU5dmtvaGJyUHhHbjZuay1ZamtEWnVJemc4VW5CdC1kVzY3a1p3aTkyS0xGMUF0V3BRQ0I2N3hZaXFPNXVnZzRYdTVqMWJENTFQUS11UEowWnN5WFlDdXhrbUY4SVRLSXAyTE5RWmhzRi1DQ3lRbUJ4V19hQlR0NFU3aDRjdGJfalhqN2NoZw?oc=5",
-        "date": "10/22 23:00"
+        "type": "negative",
+        "title": "Banking giant cuts Google stock price target by 12%",
+        "publisher": "Finbold",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oMWh2OEhFNm5TbmhUNXFIbVd3bHdmSW50cnUzN0VRUHVOcTRFYTFkTHF3QXZ0Y2xKSjRzNWtyVGlNVlg1NEpqUklmRWMwR3N0QXJoN2Y4LTZDOXNXQ3RTRmtvN0MyVHZNNVFLZW0tMkNUWUluLUlxOHk2VQ?oc=5",
+        "date": "10/22 21:04"
       }
     ],
     "QCOM": [
@@ -1016,10 +1016,10 @@
       },
       {
         "type": "neutral",
-        "title": "Qualcomm Incorporated $QCOM Stock Sold by Private Wealth Partners LLC",
-        "publisher": "MarketBeat",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUtCb0tpSzQzYTg2MjBzTUROb2FERXpjdDFUcm1JUkVEUUo2VlF0a3pHQVMzcU1Jb25HeWp5TkpZcjV0TEY1WUREWXdYRVRkaHNUYTBvSUlWYWttR0dHZk9ybWdieWhfN2tIR2JYd1EyUE9RdThNb3hmR2szTURYTDlRMFNVaXJNZTZxR2lzcGZyVFp1eVJYWm8yWXBheFVCQTkzd3pQWDVrQ3RCQzdDYWNTRkZ3NlFKbk1BdnZiV3YzRHRIdm4tbA?oc=5",
-        "date": "10/24 23:13"
+        "title": "Qualcomm Announces Quarterly Cash Dividend",
+        "publisher": "Qualcomm",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPczlEMG9uTk16bnZrUGE2eFc2bkREbVlaX2RfR0hwclRtLTFZczBoX1lVUVdRZUJRcmRtR2FKTm9pVXJzWDB2T3ZkRE8td2dJWFU0UzZNQ1VidTBBSjA3R0Rva1Jka1pXb09tZ3dlLUpiY3VNMnJ3RnRiREYtY2JIeEVwRmJQTjhFSVVlNWlEeVpRd0xRdDBmWk8tZDI2UE5XLU5SWERMc2NESGRwNW1KOTlHdFpUZjNiVGIwTEpZd3VTZVBMUXp5aU5tc25uVllkT3daSUxxTQ?oc=5",
+        "date": "10/22 08:35"
       }
     ],
     "VRT": [
@@ -1046,10 +1046,10 @@
       },
       {
         "type": "positive",
-        "title": "Vertiv (VRT) stock is up, what you need to know",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbGtid05STllNcFZlWEpjemZvS1pWakxTQnIzc080U3FtQVRzWl84dEhvTkhla2dnVGtTMDAwVlo3QkM2Z2xWTER3RkMwMWoyNmtKRDRHcC1zVVVhNW5hVlB4ejB1Slp3V3F1cm1TQW1NbE5uazJQRFgyZDU3NzdON181VjJQXzd0anVnSVF6NA?oc=5",
-        "date": "10/22 05:54"
+        "title": "Vertiv Soars 49% YTD: Is This the Right Time to Buy the Stock?",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVhhU1NDdnZLSldES0pESHVoTjdTTHJreDhqMnBicmdPazJtNEZhYkpRbkNfOU42cEkxSzE5NWpYQ3BoSkNnaWYzQnpOR3hIY1cwZ0FiUEc0Tm1PQ3BZX19acVl0b3JTSTVGZmt3bWxuWmVwMldkWFZOSXNhVGpuaWZiRHpDS25oMDF5RDAyVVQwOHAzT2JZM3ZpUTNlNlY0MXZ6NUY4YVo2NXhyZldWYlFYY18?oc=5",
+        "date": "10/01 16:00"
       }
     ]
   }
