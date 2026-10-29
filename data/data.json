@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T03:28:25.095124+00:00",
+  "updatedAt": "2026-10-29T10:18:24.324063+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 16.91,
-        "change": -3.48
+        "value": 17.02,
+        "change": 0.65
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1334.44,
-        "change": 0.58
+        "value": 1338.46,
+        "change": 0.88
       },
       {
         "name": "KOSPI",
-        "value": 5882.81,
-        "change": -2.16
+        "value": 5937.66,
+        "change": -1.24
       },
       {
         "name": "KOSDAQ",
-        "value": 751.88,
-        "change": -2.52
+        "value": 753.23,
+        "change": -2.34
       }
     ],
     "groups": [
@@ -329,7 +329,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "07/28",
           "07/29",
           "07/30",
           "07/31",
@@ -395,13 +394,13 @@
           "10/23",
           "10/26",
           "10/27",
-          "10/28"
+          "10/28",
+          "10/29"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              18.21,
               20.66,
               17.09,
               15.99,
@@ -467,7 +466,8 @@
               19.45,
               18.39,
               17.52,
-              16.91
+              16.91,
+              17.02
             ]
           }
         ]
@@ -683,7 +683,7 @@
               1321.76,
               1324.77,
               1326.81,
-              1334.44
+              1338.46
             ]
           }
         ]
@@ -819,7 +819,7 @@
               5469.47,
               5638.34,
               6012.44,
-              5882.81
+              5937.66
             ]
           },
           {
@@ -886,7 +886,7 @@
               727.21,
               743.83,
               771.28,
-              751.88
+              753.23
             ]
           }
         ]
@@ -904,17 +904,17 @@
     "AVGO": [
       {
         "type": "positive",
+        "title": "INTC, AMD, AVGO, MU Decline On Samsung’s Profit Miss, Lighter Capex From Microsoft, Alphabet",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2ZMRUR5SGxXOExveVpWbURvMjlSc3lCcmIyN3EydF9CSjRkTVpTR1N1YkowTTlJVnE1RnBTSk1DNzBVV0hjRkFGNE9KbGFHSTBaN1o2MmNDaDlZbk1HRDh6Ui15WngzWjloUmJ4U3BWcllmNF9GYWc2WXk5c0d1c293bXZkNWptcXl4eVFrY0NGU0k?oc=5",
+        "date": "10/29 16:02"
+      },
+      {
+        "type": "positive",
         "title": "Why Broadcom Is the Big Anthropic IPO Winner. The Stock Jumps on Buy Upgrade.",
         "publisher": "Barron's",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHdzX3JsU3hKY3Bxa3ZMM1R2ZThPS21vTnE4Mllid1pLSVJPakxoNndGVGhUMGZMZzE3NU1YeUU1X3JfRmJLSFZsMnQ3UVdaV1h5cFhrN0FrSFp4RXpGa3p0cXhHZTd6QVNFYUttZG1yMlZVX3ptMkUtN0VZOFNnbnVBX0k?oc=5",
         "date": "10/28 02:50"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom Inc. (AVGO) Laps the Stock Market: Here's Why",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXY3enBIMUt0UlJfSWJQR1NFQUpidzMzOWFwUFY3TTZxRVVlTElpMnU3bmRaOGhfZGtINTZhajlBSEIxa2pVNDVRSnlMOElENWxCU3Qyeko3SDhqZlhxMFN3clJwUndPYVJVMW94UU43RTJ1Ulc5eE1yMEMyRnl0b0poYkYyM0VxZEZMTWxMOGdETnpVeWx6cQ?oc=5",
-        "date": "10/29 05:45"
       },
       {
         "type": "neutral",
@@ -934,6 +934,13 @@
     "BE": [
       {
         "type": "neutral",
+        "title": "Bloom Energy Corporation (BE) Stock Forecasts",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmRNQmNvT3ZfOEtUcEg3VVVuNlh5Y0ZZc3VLcTJ5WC1wSnkxc244RmNiZ1g3QkJRN0luMV9rek5QcjFNR200eG1Jb1dzbkVHcUREdXFLQWM2bU9xVUlDTk5SNFZ4ejRCbnZXS2FEdHo0Y3p3VTA2WWthTXlmc0h1UDJJU3ZaRG5kNVY0Z1NYdw?oc=5",
+        "date": "10/29 12:46"
+      },
+      {
+        "type": "neutral",
         "title": "Should You Buy The Dip In Bloom Energy Stock?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWXlNZERKbWF3Y0FzakJLNGFQTFI0TkRzQURMUVE4bVdKNFlLME9OT202WGotNktINnBUVml1ZFFfRXUzM1h4THRjMW0tNnFDMHU5eHN3c0RNOEYwbnNHZ3IzMXI2Zy0wQmN3eE9vdzhDdWNOcnBoQ2dSa1ZITlRZRFJkRjdYTlU0QUY0MjZjX0p0WkVPbUZtUFlpbkNjWmw4TG94bmt3?oc=5",
@@ -941,54 +948,47 @@
       },
       {
         "type": "negative",
-        "title": "BE Stock Drops After-Hours: Bloom Energy Q4 Guidance Comes Above Estimates, But Negative Cash Flows In Q3 Dampen Sentiment",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeThaR0tjNm1LUFRXaVpIb2VUQ21SRXJmRk4wWUlmQjBPRXNfUzNSUmJybm5tb1VYRmt3dFNBWGFfWnhyN1hsT0hGM19rSkh1bHZBZFZVU2k2ZHlmZ3JHS0VUblVUcHdxTTQ1a2x3S0pRUVVWcmtCMGplbkRqWXF1V2RWOTkwbW5fdEhkcUVFVlN5YjRNYXVlWTJqUQ?oc=5",
-        "date": "10/23 06:47"
+        "title": "Bloom Energy Corporation $BE Stock: Sigma Planning Corp Cuts Position",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmx4QVRURHlkVExyU3ZUdXZfU0V1ZU15TWQ0R3ZWLWNRUWxkakwxUHJOMW12cUFReXZTa1R5VE5JTEVfOHFWWkRSNjBseFoxRnViNDZzSENLbS1GQW5Rc3k1dTc1ZHg4R2gzTXBsZnVoS0ZBakhiQ2xlQldHMHJhVjFJdVJRTVJNbmFDYmFxTjE3clNYdG1yRG5IMnVHOFZDUmdWenphR3BsWWlpUFBfVHh6ekQwU08yUnRxNXpwMThCOWREaHRN?oc=5",
+        "date": "10/29 18:26"
       },
       {
-        "type": "positive",
-        "title": "BE Stock Is Up More Than 174% In 2026: Why This Analyst Sees Further 9% Upside",
-        "publisher": "Stocktwits",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX0RSaU9WemFYSERsYThNdnpXSjZLUGwwYjNSTDJxbVR2MEFWOEc5U0ZQdGpMT2l1TWVHeTFyNmZuZWt1ZmNIckl2TWN2eVJzTV9TNm1ObXREZWtSWGRPVG8tNURGaEotYUFycjRhYmRYbmthcUlFNnpHRFl2ZXVVTFFLMU9VREkyV2Z3aHViRi1FM0JZak9nUTZrMmNXZVo2TDdIbVZvWHY2YXlYN242eWdueG5fa1JkNW9oRUtoVWJsNDZHVHlqNWhLYTl3bF9pZWlmYkhn?oc=5",
-        "date": "10/22 04:13"
-      },
-      {
-        "type": "positive",
-        "title": "Bloom Energy Corp (BE) Stock Up 7.2% but GF Value Says Overvalued -- GF Score: 69/100",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZTRxQzh2SFFvcldBeFpOQkViby01VFEwS1daWFRSYmNhLXc4c3M1RFY2cTRMUDloSld4Z2cwM3NkcTNjY2pWeHQwRF9EMFN2MzB3SWxYNC1YdkhJTW1pOER5X0V3Y1ZrTUNjUktZc0FsR0QwOEJrekVhOVdCbDlkM3NJQnRHTG9mem1fSWRXNzQ3YlB6dHVBaDFLRlBjeVY0d1dvWDYyS0FMYWZDM1BTQnlncC1VZw?oc=5",
-        "date": "10/28 07:30"
+        "type": "neutral",
+        "title": "BE stock trades at $223.675 with mixed daily outlook",
+        "publisher": "The Cryptonomist",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYjNJckotMHBLbF9xSnFYeElCaGx3NnEyTHBKZkdxYzBnb1hZeGNDeFRVbnpPU3NsMnhvSzJRSmlfUEpvZWdIRlRXVlNnOV9vdVZBTlNfdzBIQ1hVME1ybGNOcWNtOHNsVHJvTnFFZDB4bzN5OWtHdWdGMW1zU2ZCTUpENVB4MHl4?oc=5",
+        "date": "10/29 01:09"
       }
     ],
     "GOOGL": [
       {
-        "type": "positive",
-        "title": "Alphabet Is Only Up 3% This Year: Will Today’s Earnings Report Make or Break GOOGL Stock?",
+        "type": "neutral",
+        "title": "Google stock gets shredded after earnings—here's 2 reasons why investors hated the quarter",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYmU2Z1dER3pLQWR1eDlQSWhZM0tfLXZudVlibTZhbi01d21mQjdqcGJ3Nm5TalowMDc3eWtGNUlXbGtuMlUybHk1Qk5pYzg5WHpNUXlZSm1DVXNreGVYUkc5Yjg2UzQ2TkZGTVZPWTRhOW02R3pVd2laTjNVbUFlSGVaZHZOUGJtVnFKbW1tdUJYWU5iMW9tNWE0NA?oc=5",
-        "date": "10/29 03:54"
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObUdnZkYxXzBTRmhYR29adzI1M0oxMjZMU1VhX2F0cFpEdkFGNnd3Sk42Y21QZXVNLXA5NTJiQmlXZUpFVWhFNlptbjQyYWR0a09jRUZCZGdoVDJnTGlrOWthVE5qaXhCQkI4a0tWVzV1bTg4dGx6b3YwbUtWUk03UDRjdlh3Nlppd3FiVTgwVUlNSXdfaWdKR0hpTnJuVS1CRENOTGhSN05RbXlpaFdaZG5uOC1HMU1zTWJ1MnFjN1hVUEpubGpnaEZoQmRMdVBzSG1Wcmk2NGdHTmpWWkdxYS1scW54elU?oc=5",
+        "date": "10/29 18:01"
       },
       {
         "type": "neutral",
-        "title": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Chipotle, ServiceNow, Fortinet & more",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONDlMUjZncndlZ2hNVG9mUTRSQmV0VEt3SzRteS1zLTF1SWtjekNyNW1sUE1jSmYyWjRRQXF4NFRRNmZRMkN4eTJQR00tb0NzWU1IaS03UWp2ZWVSNlB0UmRzRVZYZUhTeUtQT3h1TW1uS0pLWlJSdjBoZWZadXNJLVAteGZUS25RX2pJMnBab3dQa0NlMm5QbXRpX0c3aVZz?oc=5",
-        "date": "10/29 06:09"
-      },
-      {
-        "type": "negative",
-        "title": "Google stock plunges as Q3 sales fall short of expectations",
+        "title": "Why Microsoft stock isn't getting crushed like Google stock after its earnings report",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNW1ndVA2aDB3NVhNVkpCbWloU01zYzhkZ3U1RzIyeVlYVkNVcU5SMmk0WmZobnpyQ2lwMkdHdER4eVJUak00RkZwenFxdnZGNWpvNjl4WTFnQ3phWU4xYVRQdW9iNHlIc2ppYUVka3d3VEtKZE05aTU5Y1cxVDV6MDBydTUtWHNrb0pXTE1STmYweWRFaXA5a0xjQmZrOWkwTFYzTDR6TUlNbmhRSW5EWS14Ym54Zmk4M3VN?oc=5",
-        "date": "10/29 06:46"
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNl90cjBzWjNJM3p0T0tXLXc1aXVuTThBNXg1blZUZTRfV2xXbXJrN3hzOVVPX2czZEliMkNZYVo4UGxyVndhOUo1X2hXUnd1VklTTmlMTmYwZzMtUWhJUlBQeXVjM2dZT25qNlh4cGQwNmxUWHMybzBzR3ZOLXd4TldVSkVlZXZxZWF5MEdGY1JSUWJ1Nzd6Sk5mMVBNb2VVeGpjbGJxMWo2dkpYbmpUTGJSbFF6MGF6SHNFOG5kdEtpZEFBZXFzYU14OE0xYXp1VXdUTWJhMkIwSjNsSm1MUFVn?oc=5",
+        "date": "10/29 18:33"
+      },
+      {
+        "type": "neutral",
+        "title": "META_TITLE_QUOTE",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cTBUdmJTdWRuVFN1QjQxcDh1ZzMtcElOUHNJck5hcVpNSXNzbE9yYjFOakNHMzBDa3Z6ektnUEV4MkYyU1FkNzZ3TXM1S3M?oc=5",
+        "date": "10/29 12:33"
       },
       {
         "type": "negative",
-        "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses",
-        "publisher": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl94WE51TlQ2Q2dVVTBDNlZZbzF5Mk02UjZRaEJwQnhoM1lGX0dWODk3b1RwZDB1SDVHYmYtOUQzaWJyTEc0ZXlTNmpyQU50WVhaQUpJX3dyMkVFbmgyVXJFVy1fb21TQUxEOXFIWmtzdFEyYVk5SkU3ZGF4LTdnN0EyTlo1NklicFg4TzlpSHYwRE9VYzdUUTZ4N0ZLaG9XWUs1Nm5vM3FfSktn?oc=5",
-        "date": "10/29 09:19"
+        "title": "Google Cloud Revenue Just Grew 103%, so Why Is the Stock Falling?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUERPSWhaVXdhcHRLTWg1TmgtMGM3ajU4bnctMHh0aGd0bWpuZGhDOEZaUThEX1ZyVnJqR2d4ZHFYcE5zNm1DSDRCaUxkSHBxc0h2NzJUbFRUZ0xCT2ZIZUpHMDhOV1NweW95b1FZRGp0bjAwUzl1SFVnVUd5N1V4aG5LVzM2RERzUGx5dVJoRjZRaVl3dkZLX2lRaFFmQ2RQUlM3cGpJLUg?oc=5",
+        "date": "10/29 09:03"
       }
     ],
     "QCOM": [
@@ -1008,17 +1008,17 @@
       },
       {
         "type": "neutral",
-        "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0xobllNdGRnRnpFUWtQYlh3dlRLeUE5RWtfVUZ5VkhPeHNrLVJUUjJNa3RVM1VtMlp4Z1IyZjFUdlNCV1c3cmxCc19BcjVWYXBoWUR1cjR0RE9PYV9STkpheGw0VVdSaUNGVlFMc1hJVzlIVVQ3U0tqbXF2QkNTWG4zZE1ZZ2M5TzRxcGxCUmJDOEVZNFM2Z0pVN2l2M3pzVW5DTTU1QzRFWGlCaUVHYmowMUV4YjA?oc=5",
-        "date": "09/30 16:00"
+        "title": "Qualcomm Incorporated $QCOM Shares Acquired by Park Avenue Securities LLC",
+        "publisher": "MarketBeat",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUEhNUk9kblpDOW5LYWREUy1LSzM2RUVlaFFDOTllRVUxSmx1eXZpNkdTWGY0SE9PQUYtQ001cnVESk9pZU14TTRsN3FOTHlmTW1SVHBKc0lwYkdhMUNGVk54NkNGNVJQZlR4ektWVGFGeHZXbW9DU1BPalBZTWZZMlBDMW5QTmYxS2k5dFVmZDZDQzYzbUphOVRpWnYzcXl1VUxEMjNVVkVEamh4TlVKWWxzUjZQVUhPOWdwZlZnSUtZRGJzSW1nN1E2NkxyQQ?oc=5",
+        "date": "10/29 18:22"
       },
       {
-        "type": "positive",
-        "title": "QCOM Stock Technicals: Gains 2.54% on Tuesday, Testing Key Resistance",
-        "publisher": "JournalArta",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFB0WUxPVVBaNXBWUlJ6TEIzVzVUREZSajc0bmR1czU0bE1BXzN5bmFuV2hLZnpBMVRmMnd4aURxRTFFTkY2T3pNRDdReGYySVhfbjhJYUFMMXZpaE5ycUpiS2Zxb3pROVBXalZodUF6b1ZMZXJCOEh3VWt3MWYzMnVaRG1FX0lPaFlrRkNDMGQxNklxNzNuM1J4b0pMVVlPczRTcEJGckw?oc=5",
-        "date": "10/28 17:00"
+        "type": "negative",
+        "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3JpUHlJWVliYnRfalFjNTkwakdJSVlEWU5tQXNmb0pXUGhsaUJMVlVhdTZJelJEWmZhbkI0N2kzSE9iTnJmOTJ2RDZzN2lRVzczYzNHb1NmSWE1bEl5LUtuOURQYXVQZnl6czZFSnJjTS13WGlwbFgweUZlR2tSNkprZnJ4UGc0aFFGMm5tU08xNGFNZFUwcHBYeHU4emRMSC1N?oc=5",
+        "date": "10/25 10:11"
       }
     ],
     "VRT": [
@@ -1038,10 +1038,10 @@
       },
       {
         "type": "neutral",
-        "title": "Vertiv Holdings, LLC (VRT) Stock Forecasts",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMU1Ga1B6V2VxMU1rUlFrci1zVXd3VUFpMFVkYVotLUNFT2VuQVRJZnE5ZExRTXBWNUo3MnZTX3JDSl8yaDJWcG5GLTkzZFhSeUhKTWJvV3lMMmszWHdDNGlibzVxN2xaVnhpVUprMmRUR0ZGdEhRSjctVFVXZUZ3V2hlUDNKQmhMaWNtOXhDcE1aMzA?oc=5",
-        "date": "10/29 12:16"
+        "title": "What Vertiv (VRT) Said on Its Q3 Earnings Call",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmdLUlhQYmhrYmc2ekFWZkQtckU4SEJQSzhHU29qbEVYZWEzZHdkZ24zRDl4V09Ldkk1SHRlVmNUNjZEcC04M1dobUtfYjkzUVFWRE45cGN3TnJNWkdZc2lQcl9EUEZ0eXU1TkFrQjRCd0hLMzN1WElYYVZ3RDFnNVdLRkJYZkZpdENUbHdQTXJDekI5ZUlz?oc=5",
+        "date": "10/29 17:04"
       },
       {
         "type": "positive",
