@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:24:42.343738+00:00",
+  "updatedAt": "2026-10-31T22:38:09.691487+00:00",
   "market": {
     "cards": [
       {
@@ -911,6 +911,13 @@
       },
       {
         "type": "neutral",
+        "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1NtNDhrUEFBbFdrX19WUERHbmoxX0xmOTcxRk9QbDUxY1ZtZ1VQb3REb3VWX0xjd2NnQWxxZXEtTmFWMTdLbVFvNENVazlhTVgtVWJEMmExV0lNUUVxcmUxSzROQUFOcWhqMkE3SHJGVnF3WVUyMHZVXzVOUzU1Qll6U01wODdwdnRlM0hmSkdtWGlhbWJn?oc=5",
+        "date": "10/30 09:53"
+      },
+      {
+        "type": "neutral",
         "title": "Broadcom’s $63B Anthropic Deal Could Be The One That Finally Gets it Into Gear",
         "publisher": "24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmZjaE9fT25ocVdmSEtMWktfZF9YSlFEc3d6SW12RFM1UWoybS1KMk92ZHJnVTNfQzI3SF9jZ1dQcW9aYk5sQ09wZ2RlUmh0MUx5d2M2aFZ1TW1BZy0wS2s1U25NR2JWMEtkSDBJakdkV0laUjVVTWd1dS13MGdJMkFva1dRbFhueTJ3ai1wLWlrLUlrdE9fcUI2RDFLNzNwQUY2am5WYXg4SFVEUktWU29peUZZTXFUZnhJbA?oc=5",
@@ -922,22 +929,15 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVZkMU5qbkxfa1dpOFJEcndGQkl6dlVpV2xKWUtHOVRfMllfbWpmaXRfZ1J0UGZ2TTRxQm5KQk52eFZiUXh2UDRuYkFPQnlCeS1aclo5MHdmN1pqUWJwN3BZckI0cG1LR1ZnRkVzeHRwVnNIMXZ4cHgxTmxQb1hnSmx1NmxTX2JNbGZITW5yMXRqLXVhQnhobmNraTIySEkwcWZsR05kV3VQUjVPMWc?oc=5",
         "date": "10/30 22:29"
-      },
-      {
-        "type": "neutral",
-        "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1NtNDhrUEFBbFdrX19WUERHbmoxX0xmOTcxRk9QbDUxY1ZtZ1VQb3REb3VWX0xjd2NnQWxxZXEtTmFWMTdLbVFvNENVazlhTVgtVWJEMmExV0lNUUVxcmUxSzROQUFOcWhqMkE3SHJGVnF3WVUyMHZVXzVOUzU1Qll6U01wODdwdnRlM0hmSkdtWGlhbWJn?oc=5",
-        "date": "10/30 09:53"
       }
     ],
     "BE": [
       {
         "type": "negative",
-        "title": "BE Stock Drops After-Hours: Bloom Energy Q4 Guidance Comes Above Estimates, But Negative Cash Flows In Q3 Dampen Sentiment",
+        "title": "Is Bloom Energy (BE) Stock Cheap After AI Demand And Cash Flow Concerns?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeThaR0tjNm1LUFRXaVpIb2VUQ21SRXJmRk4wWUlmQjBPRXNfUzNSUmJybm5tb1VYRmt3dFNBWGFfWnhyN1hsT0hGM19rSkh1bHZBZFZVU2k2ZHlmZ3JHS0VUblVUcHdxTTQ1a2x3S0pRUVVWcmtCMGplbkRqWXF1V2RWOTkwbW5fdEhkcUVFVlN5YjRNYXVlWTJqUQ?oc=5",
-        "date": "10/22 16:00"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOXJadnJYQUN3YmhMS2xBbjNudWo4WEhyVW9iTmZJSzJHUkctNWlXNXR3ZzNvbnlldXRaRDg0VV9CODB2TGZwY0o5NVJObGJrZzN5NVZ3dnVJbzZMaWFMc2d0MndaendUUDdMWVE4MVQ4TmVNaElyTGN0bkE1UDZ6Ujd6WGNSaERVSGNrVkNWSEpycWJKNUVj?oc=5",
+        "date": "10/28 14:10"
       },
       {
         "type": "negative",
@@ -948,33 +948,26 @@
       },
       {
         "type": "neutral",
+        "title": "BE Stock Extends Selloff After Q3 Print, But Morgan Stanley Sees A Production Ramp Ahead",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM3hzN1Z1MWtiTWV6Zm8yVVZsYVRjenh4ZEFjLWZXUE5xTl80NEdvWGx5MW5DN3lsMlJ5c1VGaTNCSm1vWThWQUk0YVNqbnJLenIzLUtQNWdLeW9DdlZpM013dF94aGx3YjRSbFhYSGh2OHJBM0wxU19JWm9zc2J2V21sQ3ptSFhfSUR1c1ZiTWpRZ1BVaE04UWFjNGs1SHBvT3hZOVlqTWo0VTJqMXJCVXBPZTY3Q3NuQkZVRG9NU1ByZ3BJTXhoalYzSG02U0NmVHJULUdMX3pGU2hxMkNPa25fbktwZw?oc=5",
+        "date": "10/24 03:19"
+      },
+      {
+        "type": "neutral",
         "title": "Should You Buy The Dip In Bloom Energy Stock?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWXlNZERKbWF3Y0FzakJLNGFQTFI0TkRzQURMUVE4bVdKNFlLME9OT202WGotNktINnBUVml1ZFFfRXUzM1h4THRjMW0tNnFDMHU5eHN3c0RNOEYwbnNHZ3IzMXI2Zy0wQmN3eE9vdzhDdWNOcnBoQ2dSa1ZITlRZRFJkRjdYTlU0QUY0MjZjX0p0WkVPbUZtUFlpbkNjWmw4TG94bmt3?oc=5",
         "date": "10/29 09:38"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy (NYSE:BE) - Stock Analysis",
-        "publisher": "Simply Wall St",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BTzQ0bjFmaENESkgyS0QwWWRlSTJwelhSeTRWMndvZjlRU0FMbUoxSWZKXzFKWXAxNkQ2Ty1DS1JrdmJMc0VpXzU0V0M2Z0d5QnJkajJ4V1NxZWhvNVdIVXJ2Y3RYYkVhTXFJdUFlRXR3bEZU?oc=5",
-        "date": "10/29 16:00"
       }
     ],
     "GOOGL": [
       {
         "type": "negative",
-        "title": "Alphabet heads for a $500 billion drop in market value, the biggest in its history",
+        "title": "Google stock plunges as Q3 sales fall short of expectations",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0pfRGxYakdFTWU5eXlYYTd5cGVuVmpzMDFiMDBuX2ZOQVB5aFV1Qmk1dEhXQWwtSVNtU2ZOSTNfVDMxS2NoMUpTbmJ3a0hYOGtvOGJldXlkU3k2N3djaVhDMUNGN0g5Q1J2SzRXMkhXbzI3MUxqd2t5SEszX0JEZWZPUmRSd3VZQmYyZzZZeDNvY0hKaExMcnNTbHhzeTItckpZaEJmbWxodHVla2FKTTN4cmdFY2VjWk96cjdwLUtjX3FMRmZwLVp3SHJiX2xNajBR?oc=5",
-        "date": "10/29 22:48"
-      },
-      {
-        "type": "neutral",
-        "title": "Yes, Alphabet Stock Got Hammered. No, We’re Not Selling.",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FSDJJcUY4c1h5RV9Xc0tUVVNrak9BaTNXZTVpc2l1STRPWGVYNk5VbnA2aEpaMGV0ejNGY2ZPSmIyaXNKLUNiT1V5MDVJUnR2blBQRGM1Z2JLcFRRbDBRcDk3TWt6V3owQl9ZcHRySDE1emRVQ1E?oc=5",
-        "date": "10/31 23:43"
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNW1ndVA2aDB3NVhNVkpCbWloU01zYzhkZ3U1RzIyeVlYVkNVcU5SMmk0WmZobnpyQ2lwMkdHdER4eVJUak00RkZwenFxdnZGNWpvNjl4WTFnQ3phWU4xYVRQdW9iNHlIc2ppYUVka3d3VEtKZE05aTU5Y1cxVDV6MDBydTUtWHNrb0pXTE1STmYweWRFaXA5a0xjQmZrOWkwTFYzTDR6TUlNbmhRSW5EWS14Ym54Zmk4M3VN?oc=5",
+        "date": "10/29 06:46"
       },
       {
         "type": "neutral",
@@ -982,6 +975,13 @@
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUppRjFUM21sNjBPYkRRekFkZ2E3VWNfaWNTeC1CSGlSYW9DNVhlTEJxRHQ4MGZvQkRCVmdiTDgxMklEOV9HZElEcndIQjVMZ19zalp6LWtySnZsYmtRc3JRS1F4N1ZLV0ladUJpM1pDakRseWFhek9VUXFHZEEtWmk4R3UzODBta3l2QnFGemJBdUdRazlrLTNaN1ZDd2pXZ0thSVQtLU5Td9IBrwFBVV95cUxPb05XV1FZTmhTaGFKRnJqdnVUOEZ4ZHR6dlU5RUpTUFFPei1aMFBBQzFaY1BLMWljVEt3VzFIcTNqYUhRWjBMc1JVOTRNRThEZzk5NC1oSWZBSTk0eEhBRnNocmtiLXRhenBvNHVscFpWcnRBemZ4WmRmcGxXYld2NXZOeG1IOWlGbnoxVDFXMFlDUUxsSkpNNkRfc25iSXNTSUxOMi1xRnRDOVRRUlRz?oc=5",
         "date": "10/31 01:41"
+      },
+      {
+        "type": "neutral",
+        "title": "Google stock's historically bad day raises fears of AI bubble popping",
+        "publisher": "NBC News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjg1ckNTT3R0aUxzR05RZEN2LUZYempyTkl6UW5aVUJZbjdxODAtb19za0NCdnd0ZnNVRHJMSV8yUmdDWkkwUTAtc2hmdjVPZjAyTzQ3cEhaQUFyNmJ1YkhDNG04Wl9LdWI1TVZwa3l1T0pQMmtUbXNzSnhxOWlCQmRPNGFnaFBDLTlrbzFkVTBNdFJzQWFlSjhOR1g5WUlJUi1JWFRyNlpFekNTZjMxVjln?oc=5",
+        "date": "10/30 11:44"
       },
       {
         "type": "positive",
@@ -1007,18 +1007,18 @@
         "date": "10/29 22:13"
       },
       {
-        "type": "positive",
-        "title": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLTBCQjFCeV9uWDFFbGlPVGRwbWFjU1UtUGlWenBzUVNlS1ZnMnRfYWU5aGVNenhoUFN4aGhJLTBhSkRjNUJRVUxreU9MTjdTOXFlckt0Y2JScXA2bDZqaHkwV2RSbmtUWjVBMzVWblFYTGhKSm1BaENxV1Nod2pVNElROW5keVQtR1E4dlFGVDZidGZtQmxQWkxKa3Z0RldaX1NLSTRDWnFLVHlySmNBNG8xSGhmMkdLSEo4ZXVnRS1OWmlFNjJoNU94bzMxTW4yR2cwVW13Z2pxVzZTTmtvbk5sYWYtaWhvXzAyag?oc=5",
-        "date": "10/31 06:44"
-      },
-      {
         "type": "neutral",
         "title": "Qualcomm Earnings Preview: Its $15B AI Target Still Doesn't Justify Today's Prices",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnlHQ3pwOC10Yjdkem45NTNjcUdEczljVEw0Z2VCTFY5d2g2ckItbEdmbE1aZ2djQXlVVzhuOEVGdExrN1ZiR2RFN3A0ZU1oVjhCd2dVYjhyOGhVbXZ4cFlWbERjUFBNbHJKTWxjSncxU1o0OWZzQlJVTS1TT01pcldLNEo3Y3pHMmp1Qm1PMGpsRVdiclBRWGdpQmstMGpuSmtwdFRxdWN4LUZRc3F6ckZEb29mbEdNNTNN?oc=5",
         "date": "10/31 23:37"
+      },
+      {
+        "type": "positive",
+        "title": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLTBCQjFCeV9uWDFFbGlPVGRwbWFjU1UtUGlWenBzUVNlS1ZnMnRfYWU5aGVNenhoUFN4aGhJLTBhSkRjNUJRVUxreU9MTjdTOXFlckt0Y2JScXA2bDZqaHkwV2RSbmtUWjVBMzVWblFYTGhKSm1BaENxV1Nod2pVNElROW5keVQtR1E4dlFGVDZidGZtQmxQWkxKa3Z0RldaX1NLSTRDWnFLVHlySmNBNG8xSGhmMkdLSEo4ZXVnRS1OWmlFNjJoNU94bzMxTW4yR2cwVW13Z2pxVzZTTmtvbk5sYWYtaWhvXzAyag?oc=5",
+        "date": "10/31 06:44"
       }
     ],
     "VRT": [
