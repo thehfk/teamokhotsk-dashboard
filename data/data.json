@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T23:13:36.837458+00:00",
+  "updatedAt": "2026-11-02T02:37:59.848942+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1333.28,
-        "change": -0.35
+        "value": 1342.98,
+        "change": 0.37
       },
       {
         "name": "KOSPI",
-        "value": 5730.74,
-        "change": -3.48
+        "value": 5822.55,
+        "change": 1.6
       },
       {
         "name": "KOSDAQ",
-        "value": 724.38,
-        "change": -3.83
+        "value": 731.26,
+        "change": 0.95
       }
     ],
     "groups": [
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1420.6,
               1435.7,
               1428.5,
               1428.43,
@@ -683,7 +682,7 @@
               1326.81,
               1340.34,
               1337.98,
-              1333.28
+              1342.98
             ]
           }
         ]
@@ -691,8 +690,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "07/30",
-          "07/31",
           "08/03",
           "08/04",
           "08/05",
@@ -752,14 +749,13 @@
           "10/27",
           "10/28",
           "10/29",
-          "10/30"
+          "10/30",
+          "11/02"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              5593.56,
-              6595.45,
               6257.45,
               6358.95,
               6598.26,
@@ -819,14 +815,13 @@
               5638.34,
               6012.44,
               5937.66,
-              5730.74
+              5730.74,
+              5822.55
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              644.78,
-              719.76,
               737.35,
               780.72,
               799.59,
@@ -886,7 +881,8 @@
               743.83,
               771.28,
               753.23,
-              724.38
+              724.38,
+              731.26
             ]
           }
         ]
@@ -904,10 +900,10 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Broadcom’s $63B Anthropic Deal Could Be The One That Finally Gets it Into Gear",
+        "title": "History Says Now Is the Perfect Time to Buy Broadcom Stock",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmVpQ0ozRnJKNmtzNEpwN3E1RUpjTHM0LWFGQm90U1hJUGhyOHVZNGl1cEN2RkF5bHdDSnRwM3BqTkNhMi12bDV1MWhRcGtzQXFkcUQ0cGQ1VWp4dkhIV3FWM1dnV3lHZWdrUUdWQVdVeTRUbUo1MGRlLWVWS2N3azhCSTkwU2ZENURxc2VXWnhvWkRHSjZ3STlJeFg0NzA?oc=5",
-        "date": "10/30 20:15"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGNVQ0xlNWwtaUw5UTI1blZqQmo4bmN3QUVORTFjc1dtc1FyVjFGd0xWREM5aEZ3N1BDaWJLbTNyVFpQczB2UHhMTUhGQTJlS0ZCcS03UXlOczBZUldaMldNNXFaODZPVGN1MUFoMTFjdXpnVFNvdzhpdlVrNkg3MzdLWHctc2hRUTFOMDVsTFpaeDZ6X191YTNR?oc=5",
+        "date": "10/31 02:35"
       },
       {
         "type": "positive",
@@ -918,47 +914,47 @@
       },
       {
         "type": "neutral",
-        "title": "History Says Now Is the Perfect Time to Buy Broadcom Stock",
+        "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid",
         "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMTVGWlJpWkJjbTlSWEpoZV9oRDA5ai01VXlacXBXaGhaTjRmRnRTQ0VVSEsyR3ZZQWpjdzAyNjM5ZjBrdzY2Um41WTZBNmdKQmZacGNJMFBXRUl1cmNoajNGUmxnYXNXdms1U0NNWWc5cl9hQkxpYU1JWjF5Yi15T195bEZQNkpXUnFCLTNpWWloMFpXOGc?oc=5",
-        "date": "10/31 03:15"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1NtNDhrUEFBbFdrX19WUERHbmoxX0xmOTcxRk9QbDUxY1ZtZ1VQb3REb3VWX0xjd2NnQWxxZXEtTmFWMTdLbVFvNENVazlhTVgtVWJEMmExV0lNUUVxcmUxSzROQUFOcWhqMkE3SHJGVnF3WVUyMHZVXzVOUzU1Qll6U01wODdwdnRlM0hmSkdtWGlhbWJn?oc=5",
+        "date": "10/30 09:53"
       },
       {
-        "type": "negative",
-        "title": "Why Are Chip Stocks AMD, NVDA, and AVGO Falling in Pre-Market Trading Today, Oct. 30?",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREhCOFNheDJMZWJJY25icUZSOGJRN3lSSjBncjRMTzA5dFpXZ3dycjBtd3lILUQ0WjBNdS05VVVYZDQ0V01pcmlHTmR0WDRFT0d0a3c2Tm5qOVdpMllGVERmdlRPZ3d0cE1JT2dXYWVSUnNldmdNZE5aOTZCVUJQc1B1aUM3UDlhZndyWm5MeU1QaHZLWks2S19ocXNvdG5NbDBGaHB0cFpoWWZVd0E?oc=5",
-        "date": "10/30 19:55"
+        "type": "neutral",
+        "title": "Broadcom’s $63B Anthropic Deal Could Be The One That Finally Gets it Into Gear",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmZjaE9fT25ocVdmSEtMWktfZF9YSlFEc3d6SW12RFM1UWoybS1KMk92ZHJnVTNfQzI3SF9jZ1dQcW9aYk5sQ09wZ2RlUmh0MUx5d2M2aFZ1TW1BZy0wS2s1U25NR2JWMEtkSDBJakdkV0laUjVVTWd1dS13MGdJMkFva1dRbFhueTJ3ai1wLWlrLUlrdE9fcUI2RDFLNzNwQUY2am5WYXg4SFVEUktWU29peUZZTXFUZnhJbA?oc=5",
+        "date": "10/30 21:15"
       }
     ],
     "BE": [
       {
         "type": "negative",
-        "title": "BE Stock Drops After-Hours: Bloom Energy Q4 Guidance Comes Above Estimates, But Negative Cash Flows In Q3 Dampen Sentiment",
+        "title": "Is Bloom Energy (BE) Stock Cheap After AI Demand And Cash Flow Concerns?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeThaR0tjNm1LUFRXaVpIb2VUQ21SRXJmRk4wWUlmQjBPRXNfUzNSUmJybm5tb1VYRmt3dFNBWGFfWnhyN1hsT0hGM19rSkh1bHZBZFZVU2k2ZHlmZ3JHS0VUblVUcHdxTTQ1a2x3S0pRUVVWcmtCMGplbkRqWXF1V2RWOTkwbW5fdEhkcUVFVlN5YjRNYXVlWTJqUQ?oc=5",
-        "date": "10/22 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Should You Buy The Dip In Bloom Energy Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWXlNZERKbWF3Y0FzakJLNGFQTFI0TkRzQURMUVE4bVdKNFlLME9OT202WGotNktINnBUVml1ZFFfRXUzM1h4THRjMW0tNnFDMHU5eHN3c0RNOEYwbnNHZ3IzMXI2Zy0wQmN3eE9vdzhDdWNOcnBoQ2dSa1ZITlRZRFJkRjdYTlU0QUY0MjZjX0p0WkVPbUZtUFlpbkNjWmw4TG94bmt3?oc=5",
-        "date": "10/29 09:38"
-      },
-      {
-        "type": "neutral",
-        "title": "Is Bloom Energy Stock a Buy Right Now in November (2026)?",
-        "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVdyU0FubTU1RlJVRFlZc1pBVGtZTXFEdWpoOWxZbGxMT2lBb0tfWmhTbm03ZWdab3NndzNGSVZWeEVzNkZLNkZ5YjJrSDl6RG9xemhmNWJkWXVzQjg5YjA0U0tPRml3cGVGUkNXSUJDS2ZIUmJaT2pLRHdYNGZ5RUFuREM4eGJGYWZEX0hsajBvV1VESzBvbWFHSU9NRThMVWFWOUpLUFRLeEpfalBqVDZUQl9vUWpTZzJUWXpwakJJTGZJaG1ZWEV1RUZoS2RNRW43RjF3?oc=5",
-        "date": "11/01 23:10"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOXJadnJYQUN3YmhMS2xBbjNudWo4WEhyVW9iTmZJSzJHUkctNWlXNXR3ZzNvbnlldXRaRDg0VV9CODB2TGZwY0o5NVJObGJrZzN5NVZ3dnVJbzZMaWFMc2d0MndaendUUDdMWVE4MVQ4TmVNaElyTGN0bkE1UDZ6Ujd6WGNSaERVSGNrVkNWSEpycWJKNUVj?oc=5",
+        "date": "10/28 14:10"
       },
       {
         "type": "positive",
-        "title": "Bloom Energy Corp (BE) Stock Up 7.2% but GF Value Says Overvalued -- GF Score: 69/100",
-        "publisher": "GuruFocus",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZTRxQzh2SFFvcldBeFpOQkViby01VFEwS1daWFRSYmNhLXc4c3M1RFY2cTRMUDloSld4Z2cwM3NkcTNjY2pWeHQwRF9EMFN2MzB3SWxYNC1YdkhJTW1pOER5X0V3Y1ZrTUNjUktZc0FsR0QwOEJrekVhOVdCbDlkM3NJQnRHTG9mem1fSWRXNzQ3YlB6dHVBaDFLRlBjeVY0d1dvWDYyS0FMYWZDM1BTQnlncC1VZw?oc=5",
-        "date": "10/28 07:30"
+        "title": "BE Stock Soars Overnight On S&P 500 Inclusion: Analyst Sees Upside Of Over 28%",
+        "publisher": "Stocktwits",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzNBMkZfSmJhb0hNRWtkc3NQZFRZVU1TRzV5V1BIUmtoT1lSTUFjS3JpZVNqMnBqWk51SDVKOExWd21xcE5RQ2RRVUowNWFpVFpTZmVXZm11ZjNERVBNTlhQbWJUZFB2OFNleUhxNTBLNUJFWXF3d2tMU3pocy1PbVdLTUVJcW5iNWdIMDJGcHNDTHZpcFN3QTVSYVhIb3o0ZmRtY094aHZXNEJ4YnpqTHVwT1A4cVlFRW1Cc2xIUHJJLVMwWkp3Q0U4aS11SVVCc05JbW9xaDM2N3Z0?oc=5",
+        "date": "11/01 06:28"
+      },
+      {
+        "type": "negative",
+        "title": "Why Quinshon Judkins' stock may be down despite 2-TD performance",
+        "publisher": "ESPN",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd205V1ZLcmdrWF9pTmRzcXNYdHREMDdnUnlLM1FaSktuVU9IaTZpZDNvNEZUME9UcVBDd0dHQ2ctZHF4dkF0V0lPb1NxckVMY2ZCeGdYT0lNSG5YUF90T2s1ZU5KNEl6LVQ0S2lYTTlCV3NXSzVjc0kta2I1czE5V0MyX1dHbzU4U3FaRnhXYmQ1OHd1TUhMUmpSRkRFUQ?oc=5",
+        "date": "10/30 23:53"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Buying Bloom Energy Stock After Its Post-Earnings Selloff Could Be a Good Idea",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkhDSGloaWlpVWt5aXdpWE5hTmZSblRfajZYSGhpTHhwWlotZEpfTU9mblB2QldvSVZwbTZVWlZ6ckZmVUVsbGoycWR4ZjNIVDFpRTlUMHRLcERRazFuM1ZfcDlmNFBTdFJaTGNrejVhald6Sk1ZTlNaenYwRTV3TWRIX1dpMHAyVnQ1d2VUd3hINmZRczd1VjBhU0thcGQtQVZzeTdiUVdTRFF0eEZPNmR6Z19WNFd5M1BkQWMyRmd1UzZS?oc=5",
+        "date": "10/31 03:07"
       }
     ],
     "GOOGL": [
@@ -970,25 +966,25 @@
         "date": "11/02 02:08"
       },
       {
+        "type": "neutral",
+        "title": "Google stock's historically bad day raises fears of AI bubble popping",
+        "publisher": "NBC News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjg1ckNTT3R0aUxzR05RZEN2LUZYempyTkl6UW5aVUJZbjdxODAtb19za0NCdnd0ZnNVRHJMSV8yUmdDWkkwUTAtc2hmdjVPZjAyTzQ3cEhaQUFyNmJ1YkhDNG04Wl9LdWI1TVZwa3l1T0pQMmtUbXNzSnhxOWlCQmRPNGFnaFBDLTlrbzFkVTBNdFJzQWFlSjhOR1g5WUlJUi1JWFRyNlpFekNTZjMxVjln?oc=5",
+        "date": "10/30 11:44"
+      },
+      {
+        "type": "negative",
+        "title": "Markets spooked as Google reports $1 trillion+ AI bill, negative cash flow",
+        "publisher": "Mashable",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WM08weHBqNXRpcThSTEtwWHl6Ny1haWI2bEllTDROU2djVW1PdkowdXJQRG5rY0Y1cEVnVU1xWFZtVUFmUktlRk9iTDd1RXJCUEJjaDh0WDVBczVUVE9xVUtjNDAzRGVWUW9PckdVTW1mWXhxYnQzVDlfX1c?oc=5",
+        "date": "11/02 08:29"
+      },
+      {
         "type": "positive",
         "title": "Alphabet shares record their worst day ever, shedding $500 billion in value",
         "publisher": "NBC News",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMndTLS04T1FTZGdERGZVOVpOcThYTkNlT0FHUnp4TF9lVU52SDlfYlY3VzZubGxkcDdwWDQxbUlpcDUzUjN1RF9qRXBfbzlTaEsydXlNMnpIRjJldVpOdWdVdVBUZ2c5aVRZS094c01NZk9aZGVUcl9WZlhzdG4yNHRCVEpfajlTX3NYVmlpdzRPQQ?oc=5",
         "date": "10/30 05:33"
-      },
-      {
-        "type": "negative",
-        "title": "Why Google Stock Is Down Today",
-        "publisher": "WSJ",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUJtOXg0WlhZcldMLVAwOFdmQ1BBRnZQUW1GdWQ5SDQ4Z3Bid21QRlhQUk1WZnVTREZkQzZCdmZOcU1tLXQ4QkhnOF9WLWpIUGdmNG50NV9rdnIzeFR0NllJUlBUU3JjaHBfTUhmRmRXXzkwN1d5V09QQjNCOHdhRHdpUDMxVklXV1dqTGF0OGhIS1dLbmExZ1MxTWtweVF4U21vRVFUZHl4RU5Nd09GczZUSk1iMjdtbVVWMjgzSTlSaERRa1NqdFM5aWtibTNVRVBF?oc=5",
-        "date": "10/30 04:26"
-      },
-      {
-        "type": "positive",
-        "title": "Alphabet Inc. Q3 2026 Earnings: Live Updates of $GOOGL Earnings Call, Stock Forecast",
-        "publisher": "TheStreet",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbVB6OVl6WklEZzBwZzI4a3hPQVBCWHlGYTc2RE5yS2ZWc08zV2FEdm9wWFRwS1B3bmYzbk1LTmRFc2U0eGxWZW5lQ3NDNGd2RWtkbk5TUDBfdGJuMWd5dk43MkZlVU5KNXlBU3dPS09wd2p0WlRZMmFodmRLZ2Y2Y0xtYW5FMXgzOF9EMzZHYzk?oc=5",
-        "date": "10/29 04:20"
       }
     ],
     "QCOM": [
