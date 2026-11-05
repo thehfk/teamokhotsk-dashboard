@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T03:14:39.624094+00:00",
+  "updatedAt": "2026-11-05T11:16:21.622428+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 16.61,
-        "change": -20.26
+        "value": 16.81,
+        "change": 1.2
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1343.88,
-        "change": 0.07
+        "value": 1342.99,
+        "change": 0.01
       },
       {
         "name": "KOSPI",
-        "value": 5485.67,
-        "change": -3.49
+        "value": 5383.8,
+        "change": -5.28
       },
       {
         "name": "KOSDAQ",
-        "value": 689.47,
-        "change": -3.56
+        "value": 678.41,
+        "change": -5.11
       }
     ],
     "groups": [
@@ -329,7 +329,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "08/04",
           "08/05",
           "08/06",
           "08/07",
@@ -395,13 +394,13 @@
           "10/30",
           "11/02",
           "11/03",
-          "11/04"
+          "11/04",
+          "11/05"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              16.5,
               15.81,
               15.15,
               14.9,
@@ -467,7 +466,8 @@
               19.42,
               21.15,
               20.83,
-              16.61
+              16.61,
+              16.81
             ]
           }
         ]
@@ -683,7 +683,7 @@
               1325.52,
               1344.81,
               1342.9,
-              1343.88
+              1342.99
             ]
           }
         ]
@@ -819,7 +819,7 @@
               5859.08,
               5648.79,
               5683.8,
-              5485.67
+              5383.8
             ]
           },
           {
@@ -886,7 +886,7 @@
               734.36,
               704.39,
               714.95,
-              689.47
+              678.41
             ]
           }
         ]
@@ -918,17 +918,17 @@
       },
       {
         "type": "neutral",
-        "title": "Markets Discount Broadcom (AVGO) on MediaTek TPU Rumors, But Management’s Targets Tell Another Story",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHlMUG1YeXZ0ZGVWQ25rc3E2eXpkQmExYXpjbGMyRVdsczBOSGtPcEJ2NElIZjMyaFI5VXJqRHBHV1lpcURZNE5zUWJUaEctUFZGcWNGVHlTS191bGtjMFFwZjhJQ0ZIY2xGVzk0MWF2S0VLZ2VYYXFwbDB1MDJNZ1Y3ZXd0SUxCT1F3MDdSa2doaXJYcXNrSWdXZ1Q3Z3N4NjhrNGZwOA?oc=5",
-        "date": "11/05 00:44"
+        "title": "Buy the Dip or Wait? Three Scenarios That Could Shape Broadcom Stock Through 2028",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGZZTHZHQXZNUk9UTkFmVDBWd0hYNjBJOW52blIxSzFmQ2xQbGJFZ251azc3SVlVQldMNWZucC02cTNSZzdqaFRJMU93YU15LW1fa2dOZU1KS3FUUTVZLURNUHdFWU1tZDE0TnI2bUQ2ODZ4cklhNFFDR0RBVXJCYi01RDlxTkxaaVdYMk9wQUZUcTNDcm9JSnVMUHF1X0ZvNzRPVHpzMzFHN2NIZG15dE85VnBSS1lGeDNENFdBNy1yQQ?oc=5",
+        "date": "11/05 00:33"
       },
       {
         "type": "neutral",
-        "title": "Buy the Dip or Wait? Three Scenarios That Could Shape Broadcom Stock Through 2028",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDlvczV0OU95UFRQc1IzY29kX0Zyem15cWVxUGpodFJBbW1BOGhVUWtvLThmejlPYlpOeFNxbUF5M1JBc081dnhndTl4dUxtT3hNU2s0by1URzY1Yjh4aGtQbTVsWWFMUUxObzN0aUtBZFM3bEVvUWhwb2lmbUFrSVhwRXUxbDhBcXFTdFR0d3p6T2VDem5ySA?oc=5",
-        "date": "11/05 00:33"
+        "title": "Is Broadcom Stock a Buy After Marvell's $115 Billion Deal?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDJ6Ny1ISUNUamR3UW9KLTg1RGRldEhXaVg5bFhVYmFDSWEyVFNNUG1wSHd1MFRyUDNreVE5bDNvcGRmTF9wUl9oZEJqMDQ1d3RlY0ZzSnFrZVk4UmE0eDdJR0t2eEstdnhPUVNqd0hVaVF5MjVTbHBqS3V5aWdSM0xMa0FWQlhYQmZhSS1QbFdCaUIxb2NwRlFsSkNFMXFnaDh6UQ?oc=5",
+        "date": "11/05 10:23"
       }
     ],
     "BE": [
@@ -963,18 +963,18 @@
     ],
     "GOOGL": [
       {
-        "type": "negative",
-        "title": "Good News Or Bad? Wall Street Lowers The Revenue Bar For Google Search",
-        "publisher": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXFmV3NncXdwZnhIbTZmUGJOM2hWUkhHeVdySTRlY3hnRjVVMzk5bVYyN2R1Mk8xbm0xanV0TGVxMFN5UW9haTZhcFpaQXpIc2o1SDBqTThOOVlsMmJKMzVxMTBZRXFnVlZLbTREdW1PeTczbV9CQzExZDBSY2dwakh3d0gyQWRCQzVCY0VydFVkajRfbGliejB4aERfbHV3ckJTM3h5aUZlcmFFc3NMS05zdU1vaFlSdXZv?oc=5",
-        "date": "11/03 22:12"
-      },
-      {
         "type": "positive",
         "title": "Why Investors Should Load Up on Google Stock Now",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTNoNEU2R0cydldLR0FILW9YNWc5cFRTUXA1bDR0MUNiUGZ5V3FqX2IxWFBNbVowVFN1Q3NwbzhTd0poSUpNSE9WTi1aX0lfb21tcHpEZnR3NDVxTGFsWW5KSlVMSlAxS3FrNnhJT3lkMHBZNHlzczdEOW13LUVJbHdWT2p6TWh1WUlOU3pIeGNDbkV4c0dZ?oc=5",
         "date": "11/04 02:24"
+      },
+      {
+        "type": "negative",
+        "title": "Good News Or Bad? Wall Street Lowers The Revenue Bar For Google Search",
+        "publisher": "Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXFmV3NncXdwZnhIbTZmUGJOM2hWUkhHeVdySTRlY3hnRjVVMzk5bVYyN2R1Mk8xbm0xanV0TGVxMFN5UW9haTZhcFpaQXpIc2o1SDBqTThOOVlsMmJKMzVxMTBZRXFnVlZLbTREdW1PeTczbV9CQzExZDBSY2dwakh3d0gyQWRCQzVCY0VydFVkajRfbGliejB4aERfbHV3ckJTM3h5aUZlcmFFc3NMS05zdU1vaFlSdXZv?oc=5",
+        "date": "11/03 22:12"
       },
       {
         "type": "negative",
@@ -1007,18 +1007,18 @@
         "date": "11/05 08:40"
       },
       {
+        "type": "neutral",
+        "title": "Qualcomm (QCOM) Stock Stays Hard To Call Despite Fresh 5G Network News",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFh4M2huMXVDMFRPaE5SV2ZLSU8tWXVja3E5VXVnZlRzbV9VZWlOVTcyS1c4ZDc0amp6QjBteUw1bURMYXRyYzNkTkwwRS1rOV9iYzlNRnd5QzBzNmswNUhhcmVGWlZLT3B0NWFOQTJzRF9ia0UtSEgzazhaR1JRUmNVNGtCRG5DYUlUa3V1aHV0ZWY1YXlhMDVsYw?oc=5",
+        "date": "11/05 16:15"
+      },
+      {
         "type": "positive",
         "title": "Qualcomm Stock Down 8% Post Earnings Beat: The Market Lost Its Mind (NASDAQ:QCOM)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjczdW9tY0R2SDJqMHRIOFliQS1sZUtYeGJFbFlCeHhicVQ1Sy16am9yMXR0SDJMdlFhdFBvSmd3MElkRlh1NjRONkhyejJWMW5Mc0xURW9CTjh2QXk3R0xoOUxSUmJvSE1jZU83Sl9pS1prOUlCR2g5Vm1wWE1laV9KNUtCM3N2Q3FmbXhKYm9mNS1GckJONE04ZE81RWhUTENVUWxVZXJycnZjN0pUbnFKSTY?oc=5",
         "date": "11/05 08:15"
-      },
-      {
-        "type": "neutral",
-        "title": "Nvidia Isn’t the Only AI Winner. Qualcomm May Be the Next Stock to Watch",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1Z2c3dUQ1VRT0gyTHp1OW95RGxRQzBZVldKb3drUVJ1V1NkaExYcUw1c1VSTVdENU1tQTdVLVVhd2JvQ2tfR2pZeXR3T2JQMWVzaHJyTU4zbmdPZ2E3VmVYcDlPNDZJSzZnLVJVSzBCOTRTMjNNNl92M3ZWaE44R1dWa2ZoTjEySmlYZGtn?oc=5",
-        "date": "11/03 00:33"
       }
     ],
     "VRT": [
@@ -1038,17 +1038,17 @@
       },
       {
         "type": "positive",
-        "title": "Why Is Vertiv Stock Going Up?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSWNPSFBwTUUybUZud0FVXzJWWlQzam5mQUVjUHVraV92aHBZemtLcFFSX1VJTmh2SUJGcnN3TTZRc1pTWjVqcjhFOW1McVZDNkNlY3RvNE5ER1FBRTdld3BHLTdiQl83SHdvVlo0SGc2RjExRTFvWjJ0VGM5RDI4QjhzU3E1cmxmN01KMWNGQTVhZw?oc=5",
-        "date": "11/04 22:07"
-      },
-      {
-        "type": "positive",
         "title": "Vertiv: AI Panic Creates Golden Buying Opportunity (Rating Upgrade) (NYSE:VRT)",
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVFlOHZoQ2d4Q3docWplb3dWWHN6TDZxTTA5NWJpZ1FQNHVrUmF4aE1nOWhWdGNjSVd4Tnc5ZHd4VzB5QkNxOGZlN1Z3U0gtRlltWVVuRzd6UTBYcVN3aG5iZjdJcHg4MEQ0aFNzTlhDNGdDc3pGZDJtN050Xzg4eDlBdEdBSFRVWTZ5NEpDVmVSU2d6WDRjMVBFNEpLOWV1YnlkQVVaWXZzUHk2TWxWMw?oc=5",
         "date": "11/03 12:49"
+      },
+      {
+        "type": "neutral",
+        "title": "How Has Vertiv's Story Changed?",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUNwNUtlc1NIWDlfR3VpR0pOaUk5b3hEV2d6VFd1bG5lU1dLSEY4Z0paYjdHVTlWUVNUZGtQUEdYZW1hWURxaTVPSkl6ck9ZQTNuWVppT0Q1amNnMXB5bGtRLWtXMXpMR3RyZ1N3enBJZVFUd0g5MHRXdmVldU5TUEVfMDhVa3A0dHlUbkZLTQ?oc=5",
+        "date": "11/04 20:53"
       }
     ]
   }
