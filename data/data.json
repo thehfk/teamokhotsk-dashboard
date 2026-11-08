@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T18:34:48.916849+00:00",
+  "updatedAt": "2026-11-08T22:35:18.434543+00:00",
   "market": {
     "cards": [
       {
@@ -29,7 +29,7 @@
       },
       {
         "name": "원달러환율",
-        "value": 1363.37,
+        "value": 1363.46,
         "change": 0.52
       },
       {
@@ -683,7 +683,7 @@
               1342.9,
               1340.07,
               1356.34,
-              1363.37
+              1363.46
             ]
           }
         ]
@@ -903,13 +903,6 @@
   "news": {
     "AVGO": [
       {
-        "type": "positive",
-        "title": "Broadcom Stock Has Lost Nearly 40% From Its Record. I'd Buy It Now.",
-        "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSnRScjZITGJLaGl0TmtGTmVyNUxSVTVXajBVRXVQRWlNaFVqMG93QlZGWG91OFBVWVR5MTJWWjZubmxndU1yYkhIY29oWDRaejhMUzMwRTVIV1IzR2dHRmlnbFpWZzAya1NjdTZielRlbDZBenUzOGttOW45WFZBT09qdlBXZ0dqWllrLWlyY0dXOHVPODh3ZHNNS3kwSFNGa1E0T2xxNHpfREZWZEpuUl9vQXdTNURmZ1dSaC1Fb2dneEtvTU5qUVRVZ1RBc2FPZkJJdWlvZGlfNFVCNk5nZU5R?oc=5",
-        "date": "11/09 01:08"
-      },
-      {
         "type": "negative",
         "title": "Broadcom Is Still Down 22% in the Past Month: Is AVGO Stock Really on a Road to Recovery?",
         "publisher": "Yahoo Finance",
@@ -917,18 +910,25 @@
         "date": "11/07 05:03"
       },
       {
-        "type": "positive",
-        "title": "Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks — But Sells CRWV, AVGO, LLY",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdGRjNGtJZWtaa2tROENNbEc5ZU1BYmRQSHNsU283YzhnbGZud1BuTjlXN3VBN05EdFhwN28tYjJZZ2p4OUZaZ2UxamlnYzkxWkNfWlM0MTYyeUZNMUtzWmZCUzBLSnhiWDZHQ3R5dktQREJ1emI1UXVjM01qLTZaR3BQeTc1Tjk0c1ZmWEZHZTk5c3hpdTJXMmZDcDh2cjZNeUlmY3gxSS1YWWt5TE1PcHQ5WHljMVlWUWpiWmF2cnE5bVozOHgzeGd2UGZ0RUkxNTFXY3lYYmxkSHRYeGJZdWs0dw?oc=5",
-        "date": "11/07 15:00"
+        "type": "neutral",
+        "title": "Congressman Swaps One Chip Stock for Another: Here Are the Moves - Broadcom (NASDAQ:AVGO), Micron Technol",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDk2bmI4Ui1sRTVTcVdfY1JEVmVyODBqRjZ1YlFDYkJGQU9maHVyVGhvaWE4Z2JUal9ZSXlwb1JFUC16aWNIbXVwa1ZlRDNQYTdsczZSdjFvYVpBWGxmNEtDVS0wVG9JUmhKT2JwQUdNekk1VUJ5V0d5YnB3ZnhzVDBkYzYwYXJoMmNST3h4aGxtMFJLckRJRjZ6UWZvYi1iekxETmRpVldFQjdqU2tmUndHOXhYaVNl?oc=5",
+        "date": "11/06 23:49"
       },
       {
         "type": "neutral",
-        "title": "AVGO Nov 2026 317.500 call (AVGO261109C00317500) stock price, news, quote and history",
-        "publisher": "Yahoo Finance Singapore",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lNUxzX0ozajJVRXIwOUhON0tyd0s3MWJhZ05aVWl3MzFmemJmRDN5TFpoLVBWekxrajhIbWRJdVhlRHdoRjB0b0pVYWlJY2JzejRqd0RXOWNjRDNtSEpVVHllbTlNUQ?oc=5",
-        "date": "11/09 03:20"
+        "title": "What Just Happened To Broadcom Stock?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZW1UU253cTRjVENEYkprYlktVnkzZ1BybzNwSkVzSllzREp0MjlaRWs3cDF2U1VES0xmcUNxeVoxQ2NTNjBCT2xWSHctU0Zjci1ic2otV2RjNnE1X25lMUcyT01GZ1JhRW1tWTdwdWFaenNSYTlwbks5bF9Md1JYc3Y0cGZrTF9ibW04b1BwRUNZcG1FbUpYV0U4Q3hKQQ?oc=5",
+        "date": "11/06 22:20"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Stock Could Be Approaching a Major Turning Point. Here’s the Price Target",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVR0a0N6N29WSGlqOWRRblBRWUt6THJNQ3JHTmpkZUJsYWJ1NnJjNV9yV25sb1ltSHBCcjE5X1ZSUTlHWTRpa0hJbUZkRGVEdktiZjE4U2hvSG54N1ZKSkZ4a3FFQUpqSFhHdGY1Vng4NjhKZjhDaFFHaDRVUEQxS2JIaDg0aWpKSERHN1ppTGdZMmw3N05PNDJyLVVRM1I5b3JzTHRzYTFxdE1mR1lYeHJ2bGsxRklOdzJ2VVExenV6Zw?oc=5",
+        "date": "11/05 22:03"
       }
     ],
     "BE": [
@@ -971,6 +971,13 @@
       },
       {
         "type": "neutral",
+        "title": "Cathie Wood buys $17.2 million of tumbling tech stock",
+        "publisher": "TheStreet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOW9iSXVjVmpRTVZvenpFZEhlaFZxZVBMU0pvdlpUVlZaQ3Z4Yk4zSG10SkRkazVEaUxhYUtuNlc4VHNpeGp3Z1FGb2ZsSUpBbmJlNk1IeTB6a3VXa0oyYWZLX0Y5enJVWVIxaTIwOC1ZSlVvUEJCdVNfcW15VUhRM25Tamw4c0E4Z3FmeVdmZ1RSdTZhOS1kckVlbmVxRzJ5eC1ETlVnYU9NRjdNams4?oc=5",
+        "date": "11/09 06:06"
+      },
+      {
+        "type": "neutral",
         "title": "Why Is Everyone Talking About Alphabet Stock?",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2NmMm1pRExrWjZCdzNKc3d5UGgyRGxzaDlueFdIQVdIaWxHWUEzNnFiaVVhcWJjemEzcWR4bktUZldUY1owanRObEt1NG0ydmlabzhMd0pJR0xYTnRDZlVOdG5TaENQWHVwdG9SWk1fTldQRkVxWkhMUUZTWjd2MXVoN3lsTW85TW85aUJvWTQ?oc=5",
@@ -982,13 +989,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGUwTUFsMVZQeEZPSnFCZ3dnMDZNTVNFeGVXelVQN1ZtcFo3SnY2dzdmSHhIM2J2OGgwRXZScGYxajZuSDNQd3ZvTGdrMDU5QWNEdWhXM0hnb1lPMmNoQ3ZST0lTcnVDRllVRnpwWG9VdWxxQ1I5R0w5Q3BsZ0NaMkJ1b0FRc05nZnRWdFRhdFBBYVg3aEkwSWd4NlktZw?oc=5",
         "date": "11/06 07:31"
-      },
-      {
-        "type": "neutral",
-        "title": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0kwZFpaaFJEZzh1aS12bE1lOHFZcHhiY1VvTXFyUEI4UmlSNU95d1BrX25RWlN4SFJ4a0JVZEd2a3d4RG83NFZPZ0JUclZZcFZtTHNkaG1wRmxqemRNa0l2dGVjVC1XbExEbWV6Y05HeWxGT2paeFl3SzhfWWN0RlRrWERoSE4yeWQxdDl0dU8?oc=5",
-        "date": "11/06 10:20"
       }
     ],
     "QCOM": [
@@ -1015,10 +1015,10 @@
       },
       {
         "type": "neutral",
-        "title": "QUALCOMM Incorporated (QCOM) stock price, news, quote and history",
-        "publisher": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pQ1BnY2hBbVVnTEVEZVN0T2QtOTVtd0RJSk9yZTZFOERNYjZJRFNzbTNzeDl4ZWVmdzZTcURyRG90X2MzSl9XelJoM1JIUmdjamc?oc=5",
-        "date": "11/05 19:04"
+        "title": "Qualcomm (QCOM) Stock Stays Hard To Call Despite Fresh 5G Network News",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFh4M2huMXVDMFRPaE5SV2ZLSU8tWXVja3E5VXVnZlRzbV9VZWlOVTcyS1c4ZDc0amp6QjBteUw1bURMYXRyYzNkTkwwRS1rOV9iYzlNRnd5QzBzNmswNUhhcmVGWlZLT3B0NWFOQTJzRF9ia0UtSEgzazhaR1JRUmNVNGtCRG5DYUlUa3V1aHV0ZWY1YXlhMDVsYw?oc=5",
+        "date": "11/05 16:15"
       }
     ],
     "VRT": [
@@ -1027,7 +1027,7 @@
         "title": "Vertiv Holdings Co (VRT) Stock Price, News, Quote & History",
         "publisher": "Yahoo! Finance Canada",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LT1pWN19FaU1Ec3psd2ZLLW5VTkpOQktrZWZ1ekt5Mzk3aFRuQ2stUE00LXlyRlNvZnFXdXlxVU1DQ0lrX1Y2NENMUVRQamVE?oc=5",
-        "date": "11/08 04:24"
+        "date": "11/07 06:42"
       },
       {
         "type": "negative",
