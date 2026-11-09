@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:35:18.434543+00:00",
+  "updatedAt": "2026-11-09T02:13:27.170040+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1363.46,
-        "change": 0.52
+        "value": 1356.58,
+        "change": 0.02
       },
       {
         "name": "KOSPI",
-        "value": 5059.69,
-        "change": -6.02
+        "value": 5136.91,
+        "change": 1.53
       },
       {
         "name": "KOSDAQ",
-        "value": 644.27,
-        "change": -5.03
+        "value": 646.45,
+        "change": 0.34
       }
     ],
     "groups": [
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1422.3,
               1407.0,
               1417.31,
               1412.18,
@@ -683,7 +682,7 @@
               1342.9,
               1340.07,
               1356.34,
-              1363.46
+              1356.58
             ]
           }
         ]
@@ -691,8 +690,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "08/06",
-          "08/07",
           "08/10",
           "08/11",
           "08/12",
@@ -752,14 +749,13 @@
           "11/03",
           "11/04",
           "11/05",
-          "11/06"
+          "11/06",
+          "11/09"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              6296.38,
-              6258.77,
               6299.66,
               6345.53,
               6579.04,
@@ -819,14 +815,13 @@
               5648.79,
               5683.8,
               5383.8,
-              5059.69
+              5059.69,
+              5136.91
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              801.67,
-              798.81,
               854.47,
               857.84,
               858.91,
@@ -886,7 +881,8 @@
               704.39,
               714.95,
               678.41,
-              644.27
+              644.27,
+              646.45
             ]
           }
         ]
@@ -910,41 +906,41 @@
         "date": "11/07 05:03"
       },
       {
+        "type": "positive",
+        "title": "Broadcom Stock Has Lost Nearly 40% From Its Record. I'd Buy It Now.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUVhSFBQaFczNnBiUHdKOUp3RG9MbF9LY1FReEsxY2tWclVGUTNEYjNVeVpLSzBiRGFhSVRBbjlFYjZka2tFTWhIVlMtQ2h4NDk0Qy1UcjlVdkJiVTQtaDZIVFdSTUdzVXVfam1USF9JOTZXemRMS2ppTUpoMjd3QVVXcTZoYTJKMlFndzMyeUdpSm1WYTlxS2tTUUc3cXY1ckdKVnRxemRRZE0?oc=5",
+        "date": "11/09 00:23"
+      },
+      {
         "type": "neutral",
-        "title": "Congressman Swaps One Chip Stock for Another: Here Are the Moves - Broadcom (NASDAQ:AVGO), Micron Technol",
+        "title": "Broadcom: The Midterm Selloff Is A Gift (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGt1dlp1WVRKU1VKNXJENnR0eWQ2RXM3N3ZhLU5YT214NV9XRmEzQVM0SFNjTjFoTURrVFU0TEVkcnFORHNqU2RIbUtVZEpRdC1hTlFJSTQ3LVZBaHlDRVZZUWNhQ0c5RTkxTW1UaU5RUFV0N0ZsVnZmQlRJdFJzRXp6aGhzdw?oc=5",
+        "date": "11/07 02:41"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Stock Is Surging Friday: What's Going On?",
         "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDk2bmI4Ui1sRTVTcVdfY1JEVmVyODBqRjZ1YlFDYkJGQU9maHVyVGhvaWE4Z2JUal9ZSXlwb1JFUC16aWNIbXVwa1ZlRDNQYTdsczZSdjFvYVpBWGxmNEtDVS0wVG9JUmhKT2JwQUdNekk1VUJ5V0d5YnB3ZnhzVDBkYzYwYXJoMmNST3h4aGxtMFJLckRJRjZ6UWZvYi1iekxETmRpVldFQjdqU2tmUndHOXhYaVNl?oc=5",
-        "date": "11/06 23:49"
-      },
-      {
-        "type": "neutral",
-        "title": "What Just Happened To Broadcom Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZW1UU253cTRjVENEYkprYlktVnkzZ1BybzNwSkVzSllzREp0MjlaRWs3cDF2U1VES0xmcUNxeVoxQ2NTNjBCT2xWSHctU0Zjci1ic2otV2RjNnE1X25lMUcyT01GZ1JhRW1tWTdwdWFaenNSYTlwbks5bF9Md1JYc3Y0cGZrTF9ibW04b1BwRUNZcG1FbUpYV0U4Q3hKQQ?oc=5",
-        "date": "11/06 22:20"
-      },
-      {
-        "type": "neutral",
-        "title": "Broadcom Stock Could Be Approaching a Major Turning Point. Here’s the Price Target",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVR0a0N6N29WSGlqOWRRblBRWUt6THJNQ3JHTmpkZUJsYWJ1NnJjNV9yV25sb1ltSHBCcjE5X1ZSUTlHWTRpa0hJbUZkRGVEdktiZjE4U2hvSG54N1ZKSkZ4a3FFQUpqSFhHdGY1Vng4NjhKZjhDaFFHaDRVUEQxS2JIaDg0aWpKSERHN1ppTGdZMmw3N05PNDJyLVVRM1I5b3JzTHRzYTFxdE1mR1lYeHJ2bGsxRklOdzJ2VVExenV6Zw?oc=5",
-        "date": "11/05 22:03"
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRWJuSWtPLWQ1LTdiX1hUbDY1TXM1UXJKRnpOMDhBTldfV1F4dmFjOHVzamdBRnF3RVBLY0ZCeXRsQWtQWlE2NThERWNEV2JIaDlzMldPQVlFYnd0Z2ljUERkSkxKZWdTM2VkcHlJbXU0Y1pFakxWS3NadEw5V3JpUGpwcUJMOWpBMUN5S3luc0QyWEdJWmx0WVFIZGpVei1IV1E?oc=5",
+        "date": "11/06 23:17"
       }
     ],
     "BE": [
-      {
-        "type": "neutral",
-        "title": "Bloom Energy Corporation (BE) Stock Price, News, Quote & History",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZQzhHNDg0c3IxTlhoRUlJVkxPOTVHd2tUVDdsSmtHRi1qY1BzdnNhY0lIY24wSFZ2dWdOWWJkdXNhSDBjWjRzem00RHFuYlk?oc=5",
-        "date": "11/06 22:18"
-      },
       {
         "type": "neutral",
         "title": "symbol__ Stock Quote Price and Forecast",
         "publisher": "CNN",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04ejU2SUQyV194ZFNDaHY4RFJ3R3E1Sm53bzRndWdCeGRNZ3BxU0dGVjJGQmpIRW9QVlphdmw1WndWS1RzT2xKbFREejNPUQ?oc=5",
         "date": "11/07 06:15"
+      },
+      {
+        "type": "neutral",
+        "title": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnFIV3FYUEllNUQyYTY2US1aMDFmdkY0aVcwU1ZZMWtadGtqaU5sXzRITzJSYnpzc005Q0RGWWlqWkhFWTBjY3BIaTZ3Rjd0Q1J4X29kNDloSnc5UWw4anRXclIwaEQ1ZEd1eTVaZTczcjROeHJpT3B6Y09DWUp6OHpLX29veEQyRFFWZHlzYmR3OE5QTjI4?oc=5",
+        "date": "11/08 04:50"
       },
       {
         "type": "neutral",
@@ -1008,17 +1004,17 @@
       },
       {
         "type": "positive",
+        "title": "Starlink Deal Adds Yet Another Growth Engine for Qualcomm Stock",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeW1MbkE3OFcwaFctek9xQ0VpWEViYUE0V2RMQnlwbzZERzRCYk5HZGQ2ZHpQdHlqZTUtUnpNUnRRMXpmN2hxWWdhdFdINzZ2QUFIM1NNeXppRDB5WUt6LWxLbWRqSUtIWU9oNHVQZzJHZk16R2p5dzRuak5uRzBicEI1R2FhdTE2VFEtUllxSUtTa0lOMmJuTUpKZHlnWFVtaXJBaDV1UnR0MFk?oc=5",
+        "date": "11/09 08:31"
+      },
+      {
+        "type": "positive",
         "title": "Why Qualcomm Stock Fell 9% Despite Beating Earnings Estimates",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEdfU3lVVFNnUG10eUlCZHZOOGlEVm5HNVJYUTNDa19nUGt0N0lscjJmYmhCN2FuLUFMUmlTRzA0LVd1NzlzdXVqSjBpazVKWFJSQ0Z5VlZudjd4U2loT2lObWlGWnFldkVlRkl6WUFwXzltSkRhWFpvU1pkdFUtdmhrZkc3ZVVpS2pta1ByWGJsaDZfZUVGdg?oc=5",
         "date": "11/09 00:14"
-      },
-      {
-        "type": "neutral",
-        "title": "Qualcomm (QCOM) Stock Stays Hard To Call Despite Fresh 5G Network News",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFh4M2huMXVDMFRPaE5SV2ZLSU8tWXVja3E5VXVnZlRzbV9VZWlOVTcyS1c4ZDc0amp6QjBteUw1bURMYXRyYzNkTkwwRS1rOV9iYzlNRnd5QzBzNmswNUhhcmVGWlZLT3B0NWFOQTJzRF9ia0UtSEgzazhaR1JRUmNVNGtCRG5DYUlUa3V1aHV0ZWY1YXlhMDVsYw?oc=5",
-        "date": "11/05 16:15"
       }
     ],
     "VRT": [
@@ -1027,7 +1023,7 @@
         "title": "Vertiv Holdings Co (VRT) Stock Price, News, Quote & History",
         "publisher": "Yahoo! Finance Canada",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LT1pWN19FaU1Ec3psd2ZLLW5VTkpOQktrZWZ1ekt5Mzk3aFRuQ2stUE00LXlyRlNvZnFXdXlxVU1DQ0lrX1Y2NENMUVRQamVE?oc=5",
-        "date": "11/07 06:42"
+        "date": "11/08 10:53"
       },
       {
         "type": "negative",
