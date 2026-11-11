@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T23:36:07.370005+00:00",
+  "updatedAt": "2026-11-11T03:45:14.363858+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1342.31,
-        "change": -1.5
+        "value": 1335.48,
+        "change": -0.62
       },
       {
         "name": "KOSPI",
-        "value": 5018.85,
-        "change": -0.81
+        "value": 5334.45,
+        "change": 1.82
       },
       {
         "name": "KOSDAQ",
-        "value": 638.97,
-        "change": -0.82
+        "value": 698.1,
+        "change": 4.57
       }
     ],
     "groups": [
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1407.0,
               1417.31,
               1412.18,
               1416.46,
@@ -683,7 +682,8 @@
               1340.07,
               1356.34,
               1362.7,
-              1342.31
+              1343.84,
+              1335.48
             ]
           }
         ]
@@ -691,7 +691,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "08/10",
           "08/11",
           "08/12",
           "08/13",
@@ -751,13 +750,14 @@
           "11/04",
           "11/05",
           "11/06",
-          "11/09"
+          "11/09",
+          "11/10",
+          "11/11"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              6299.66,
               6345.53,
               6579.04,
               6813.34,
@@ -817,13 +817,14 @@
               5683.8,
               5383.8,
               5059.69,
-              5018.85
+              5018.85,
+              5239.13,
+              5334.45
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              854.47,
               857.84,
               858.91,
               861.37,
@@ -883,7 +884,9 @@
               714.95,
               678.41,
               644.27,
-              638.97
+              638.97,
+              667.61,
+              698.1
             ]
           }
         ]
@@ -901,24 +904,24 @@
     "AVGO": [
       {
         "type": "neutral",
-        "title": "Google's latest TPUs show Broadcom remains central: JPM",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeks4NDNSdllISEVENW5kdFptbTVZVWRJWXNQeXZuanF6QTU3T2ZFSW9VSkRFeVFKMGpBNlVLeW5uSTlKZVY1V3NzZzBrQmFQVV9tU19UOTY2SmJFSTFlTjYyZVVYcUlCMlZGaXlZOUxsVWR2ZlNsN2JCNlRPTHhPSjZzUlYxQWVIYzJPWUtGdkNJNzRuSVE?oc=5",
-        "date": "11/11 03:14"
-      },
-      {
-        "type": "positive",
-        "title": "Broadcom: Despite Two Fearful Narratives, Big Healthy Upside (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnF4bHpDTF9EY1htTVItQVJfX3JqV2JudEtXaUkwcXlSNk5jMzJEc2Z3MVZmZGI1ZG1SRU9yYTB2VGtxYUdMNF90d18tV01HbUVkSzJObzFiTnFOVXNFZGJsdExhNldXMlFvVmtRcjdDVmY3ZGllUE1iWm9lN3d4dkpVZjA4VzBlSEszV0hrS1RHekdLNVBZNHlrQ1djQ2RL?oc=5",
-        "date": "11/10 00:25"
-      },
-      {
-        "type": "neutral",
         "title": "What's Going On With Broadcom Stock Tuesday?",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEx0WVNfZ3BRUUMwdFN1cWhfVUphRmdFVU1wTnd4SDk0TDVMYzR1SkcydFJ2VFc5eWxvVzNHbHJFSjJoa2hNQkVYbXlVd3VvZEtRb2RtSzdLTHdMMVFyaXFrNWo0bFRuOXdPaUQ1TDJ2Sm1NbXptc2ltMmstTGpvRERlMXIwTmF2d2M4UVBWc3RpbzI4SUtfY0tLZzlHdUk?oc=5",
         "date": "11/10 19:31"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom Just Had Its Best Day in Nearly a Year, Back Above $1.5 Trillion",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzdtNnUxQllkOGl5bktYQkdsekhTeXlyMl9zWmEtazJ0dk9YODZTSk1aaTB5aHpsNEIwOUZBVGduX3EwT3dUakZDeGdhN1VyalVfeTVHY1pXMWhtZ0R5R0s1SmZCUXJnRW9QTm1iYjM5U0NUcnBFME9tX0FTVklxVEJadVU3cmduazdHRkxoWDVldnQ3TUE?oc=5",
+        "date": "11/10 22:53"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom climbs 9% amid AI and chip stock rebound (AVGO:NASDAQ)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2gzZTlaR3hLRkkzdUl6bV90LWtqWnFVUy1BOHRyRHRlZHJKZ0RwdVNNTFRZdFhsek81NzVkOVZ6aUw2a2lHY2plRFFRZW1oU05XbC1sNjVocUVpYTB2WVhwVUF3aDlpVGRNLXdOWjNxeDVyc1M3Q2VERVB4SmttZkJTVlM0b0xZT0pWdGhfanRldFR5clVKRXVR?oc=5",
+        "date": "11/10 06:36"
       },
       {
         "type": "neutral",
@@ -930,25 +933,11 @@
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnFIV3FYUEllNUQyYTY2US1aMDFmdkY0aVcwU1ZZMWtadGtqaU5sXzRITzJSYnpzc005Q0RGWWlqWkhFWTBjY3BIaTZ3Rjd0Q1J4X29kNDloSnc5UWw4anRXclIwaEQ1ZEd1eTVaZTczcjROeHJpT3B6Y09DWUp6OHpLX29veEQyRFFWZHlzYmR3OE5QTjI4?oc=5",
-        "date": "11/08 04:50"
-      },
-      {
-        "type": "neutral",
-        "title": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUNoa2xleV9WTzNrYTZISDNVMjhnN29DU1UwdFJUNWRxdy1mdGU5d0FKN2xiME5USlRwdE9GOVlLQmRUeVJERWpjMTkxa2FodnQ0dTBkeHE2d1ZoWEo1ZXQtWDZtT29rTXZIQW1FWl8xb1JpTmJ0UnpTbHRMcTNONjVDMnBDT0FfQkhydFV0X3czMlEtaXctUw?oc=5",
-        "date": "11/08 04:30"
-      },
-      {
-        "type": "negative",
-        "title": "Why Is Bloom Energy Stock Falling on Tuesday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTAtU20tOEVpbzJySl9xOTF4cHA5V3RMcTlpSC15eHo1T19STEpMTWVRbFluY0FiMXlZTWZIa2U4MUxBY2NRSFNGb240TzJEeW85dDFrU0ZxM2VaV0cxT3E4S09fQXNRM2o1UEFIT1JqT1FXLXR2d3Z2V2FRYUZSYXVWbzQzZVUxY1VsaWk0cWRWNGVVRFB0ekRmTFAtWHMta01rUkUzMS0?oc=5",
-        "date": "11/10 23:18"
+        "type": "positive",
+        "title": "Bloom Energy Will Save The AI Data Center Boom And Soar",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0VvQ1QwY2dmeHloNlFfSjY1cWhlalFLQ2M4V3E2VXQ3RldqeUJqVldHeWFua3hib0pDUlB0eVd6U296eDYtczRncFZib0RyWEVLS3RlTGRXUDJlMGJjNkUxa1hENVFWU1p6MzdndU50Y3FtU2oxdUFUMWExaUM4Unc2WnVjNXRBZUNxWjNjQ3Z1OTY2a1BB?oc=5",
+        "date": "11/09 13:22"
       },
       {
         "type": "positive",
@@ -956,6 +945,20 @@
         "publisher": "GuruFocus",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFE0MmQzeUxCT2ZMWFRMZnBXSlU4RmNZek5hTDFNcTQxX3UyeEdxOXVqWm01UlVIMHI0WUlieHAtaDhmWU1sM0M1aEdVMllnV3EtN2c3SFphdWdQQWFEVkowSksyVWtJZWpnNnRTTVcyYjNPcUdGVzRzMzBvQzlyNFRZUUhZb0dBYk1NcmdFeVhmV0RnUXJmVFJZU00xTjkxTVRIVUZLWng4VkZ4SEVERFptdzQ4QmkyZmU5NmlR?oc=5",
         "date": "11/11 01:39"
+      },
+      {
+        "type": "positive",
+        "title": "Bloom Energy Stock Soars: What's Going On?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnE3dFoxbmZiLUh4V1RSeGN5RENFUFhteEhKcGUybkg3VDlyUWJycHVZY0l2Y0Q5UEJ1SVBmWWJJc3oyTnRSZTNMUjRIMGdsdWxMRkVRZ2VsTmRHSFFmVE53MzNYZ1Y1RTRXNW9ROEJ3UWJZN2JXTTQzYTE2U1RmSl9IUkEwUEhUV3hSUk91cUFRUjNCY2VGVFVxal9mZ0Z3ekE?oc=5",
+        "date": "11/10 00:25"
+      },
+      {
+        "type": "neutral",
+        "title": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnFIV3FYUEllNUQyYTY2US1aMDFmdkY0aVcwU1ZZMWtadGtqaU5sXzRITzJSYnpzc005Q0RGWWlqWkhFWTBjY3BIaTZ3Rjd0Q1J4X29kNDloSnc5UWw4anRXclIwaEQ1ZEd1eTVaZTczcjROeHJpT3B6Y09DWUp6OHpLX29veEQyRFFWZHlzYmR3OE5QTjI4?oc=5",
+        "date": "11/08 04:50"
       }
     ],
     "GOOGL": [
@@ -974,11 +977,11 @@
         "date": "11/10 14:04"
       },
       {
-        "type": "neutral",
-        "title": "JPMorgan Just Removed Alphabet From Its Analyst Focus List",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHZrYmZUTGhmZFo2ZU9Lc1Y4QlktWVB0UG1rZkJ0ZTNXbTd1TThsd3JDbWVHdktOdGdMM0d6SHFuNE5EZ20zVmtRcy1uczFrVGhvQkZXek1QcWNWYjFpbUdKYXRIUmxCaVBtNHBmUXZ4SkZfRHRzbjhkUDR4UUc0dFAzcFJFMWcyVHNrTk80bnZVYkxMeUd2dFVPeHJsWmJHZENCTUZ3?oc=5",
-        "date": "11/10 01:40"
+        "type": "positive",
+        "title": "Alphabet Stocks Rise 0.34% as Google Lines Up $10 Billion Anthro",
+        "publisher": "GuruFocus",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUllPMWduWk9TaktEbkZTQ2lXQTRQNzRBd0dXT0poc19JR3V1eG1tZlhvMWFDN2pTZHFmUnFmRFlWcUoyTEpXQ1dzX1Rsa2taMXlRUEhObHprWFoyOGxsSzRDVktlTXFhZndpLXR6ODFfYnZIN1JTc0ZxdnRGamNzdmx5RkRKV1JVNVYxUmQwbkprVDgwSzMwZVJHTGFLaUttNnQxQlh6WXBEQ0ltcEZ4LUd1cXZRYktxR0E?oc=5",
+        "date": "11/11 03:30"
       },
       {
         "type": "neutral",
@@ -1011,11 +1014,11 @@
         "date": "11/10 16:43"
       },
       {
-        "type": "positive",
-        "title": "Prediction: This Underrated Semiconductor Stock Will Jump 187% in 3 Years",
-        "publisher": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQckh5aXNCLUV5bVZXT0hlNWJKb04wSWNuZzZpSlN4SDJOaEgxVExDRmZOcWJ1Z05hejZFeHVvSkRfQ3NYUHRnVnlQeDNHY0ZCWC1JZE16U2NnM2tpT3E3RFNSRXc2QVg5Tk5lUC1od3ZOdWVMR1BpT2ZGWnhVWGRST0dodUU5SXYwVnVWVkZmYTBBR09hSF9SMUd1eWtYeDZqUGNTaDdrS0haU3Uta2I4blp4UXp3VklFSkRERGJZMkxsaFVpTEF0Y01DOW5DLVJuTGVVRkp2Mjg2RVp1cjAwYzhCZndlM3NVUnZFclZGUQ?oc=5",
-        "date": "11/11 06:20"
+        "type": "neutral",
+        "title": "SpaceX Delivered Fantastic News for Qualcomm Stock Investors",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFVIVVJPMkVzckJvdU55OVN1LWVrRjJSa09hVEhxWG5lVFJOMHdaQWoyYzdsX0JoWm5WZ1o1QVVVajNDRFdJc3dVQXFnRFFJQk1UVHg0S1pKbFo3ZFRlTDJ0dDN4LVNicENaYk5UQmk1cXZzMjFRZEwyRUtZbDRjeHVCQXZEZ04zazBneDBPWDcweHdOd3dKaW1IalU2MXhDUUFiLUVR?oc=5",
+        "date": "11/06 21:30"
       }
     ],
     "VRT": [
