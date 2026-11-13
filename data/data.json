@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:47:57.752908+00:00",
+  "updatedAt": "2026-11-13T03:01:37.544130+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1334.51,
-        "change": -0.55
+        "value": 1331.58,
+        "change": -0.35
       },
       {
         "name": "KOSPI",
-        "value": 5375.36,
-        "change": 2.6
+        "value": 5431.89,
+        "change": 1.67
       },
       {
         "name": "KOSDAQ",
-        "value": 705.1,
-        "change": 5.62
+        "value": 720.22,
+        "change": 3.4
       }
     ],
     "groups": [
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1412.18,
               1416.46,
               1416.85,
               1415.37,
@@ -683,7 +682,8 @@
               1362.7,
               1343.84,
               1341.91,
-              1334.51
+              1336.26,
+              1331.58
             ]
           }
         ]
@@ -691,7 +691,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "08/12",
           "08/13",
           "08/14",
           "08/18",
@@ -751,13 +750,14 @@
           "11/06",
           "11/09",
           "11/10",
-          "11/11"
+          "11/11",
+          "11/12",
+          "11/13"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              6579.04,
               6813.34,
               6977.94,
               6869.83,
@@ -817,13 +817,14 @@
               5059.69,
               5018.85,
               5239.13,
-              5375.36
+              5375.36,
+              5342.73,
+              5431.89
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              858.91,
               861.37,
               864.65,
               834.2,
@@ -883,7 +884,9 @@
               644.27,
               638.97,
               667.61,
-              705.1
+              705.1,
+              696.53,
+              720.22
             ]
           }
         ]
@@ -915,17 +918,17 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom: Jensen Huang's Resignation Is A $2 Trillion Game Changer (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONUNrRjNYRndObU1GVFZCaVgzWWhmWXBMbDB5UXBTNEtEcnJKa2NvU21LZ3ZXNFhvQ1JhUHMtU1RsM2E0UkJLQ2J3T3NIYTVJcXZBenN6N1ZRMXYyYjdYSzRmM3FxSXZxQ2tmMEJGMmVIeHViMExCUU80anh6cGdBbGFYTmxyRF9KNm8xOEVzX05kMGM?oc=5",
-        "date": "11/13 02:37"
+        "title": "Why Broadcom Stock Rallied Thursday Morning",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdEhnMXZYSVd0MTFzbnVCNU01aFRwTjlHWnFRaFIxa2xRaW4yOTN1WElnZmxLYlJCMXF5SWhwWWxvRmlDd3NycGlJbGhWWl9EZnF4YlFic0h4TjlWWlJndnFMUXVBVHRSZEpEYUxkdHNIMmVQX3hzcWNsMXFqcGljR2Z3cHk5TTcyN1VtOWVmZw?oc=5",
+        "date": "11/13 04:47"
       },
       {
         "type": "neutral",
-        "title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom - Broadcom (NASDAQ",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObTFTMVpaa04yajI5ay1ta1lWaWtQX0ZCb29TTTRkRS1QdlVoMzVLckpMS3ZnWWJkTlptbHp4c01XR1lvMEFwcW9IWDNxWFQxeldlZ2hLejhZS00zX2VTNE9mV1ZncElVclk0N1FBTFdOZHN0ZlppbUNPSS02TlgtZjdpcUlNZzl0a1BJcVhpMm0zeVQzNVNGb3RKN0RpQmJFRWtUU0w1SVYwdTNEMElSXw?oc=5",
-        "date": "11/12 09:25"
+        "title": "Jensen Huang Just Resigned From Nvidia. If You Have $5,000, These Are the 3 Tech Stocks to Buy",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWlPa2h0eS1BMjZfb2x3QVhJZ1RfbVFxMGxBelN0UlFoRXhMb2dDM2d2eHZKLWV4bHJqal9ZeWJvaUwyUy1xcE94VzBGNmN2SDA2Tnc3Zm5NSlhqQjNtTGkxZnVxeGFRYXN4eHgzRXZGcm5TSHhoSUs2QlBSbGVrZ19CUmZmQV9GSkh5WTQwXzNGWEpkcTNLUXFYeUo4Q1NpcF9VcHJXUWkxRnBIWVFrR0VBbDYzemxsclBwUE9IS3hzSUIwZkQzdlpR?oc=5",
+        "date": "11/13 00:17"
       }
     ],
     "BE": [
@@ -952,10 +955,10 @@
       },
       {
         "type": "positive",
-        "title": "Fuel cells are set to supply NTT data center projects worldwide in a Bloom Energy deal.",
-        "publisher": "Stock Titan",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU01IY2V6Ukd3MXFrNEROczA4aXVmQWk4VGczXzkxZ0xFQUNzOGVhMm1iRVU3WHVFajhBOFVDQTdSUV9OeTdSR3pSZlk4STB6Y2l6QWRzYldrMzAzVXNUYUpQeExQN21ULXZtZEhwZ2F3c3FuMzQ4aG9zUVNsS3pNcHZLUWR1aVJiSzJaS2ZtemRDOWVaWU5wR3BiSEVQanF2WFJNNGZYRmRwbjlMOE5McXJNRDA?oc=5",
-        "date": "11/12 21:11"
+        "title": "Bloom Energy Surges 15% as CoreWeave's Results Lift AI Power Stocks; FuelCell Energy Climbs 5%, Plug Power Dips",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0lOLWQ3LWw0UERYLW1XY3F0c2kzdzNFdmxGZEZ5SnYwR05IbnVla3dGeGNNQTVGd3N3YWd2cTFOYlBXS25jU255R0VHSWpGbERXeUI1YnhuWVB4RU9LYmcyd1pwX25JZWt5UHRLM0NhUFhZRUctb1RyN1R1TnF6S0hZVVVadUVRWVlZQThKajJCU2xQT3VWMkVLbEM4M1ZaQjU3VE9EUTBQdzRtVTI0a21FZzZnejJsS1gzZGtvZXZrUnY5UUZ5RDlkRVd6VUhhYzA4TmoteS01TndOaDhTdDZXbUk?oc=5",
+        "date": "11/12 01:02"
       }
     ],
     "GOOGL": [
@@ -965,6 +968,13 @@
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEdUUHd6WEdOZFlVRm5COXRVN0hLSXVyLXdzVTVhMjlibmdqMXJPRlp3WWJHc3NaWDlmcWRrUmJwNmJuNzFJLUt3Vm5PUXYxczM3bE9Calh5SXJRVk5JcGZTQVJZMXNsM1hOeVBHclFwQnM3U3JRS1NlaHZKWUNEaTd0Xzg2eVlYbW9NR3VwRnA0cElsNkJ6SS1PUUVZcnZINEdmbFZaZjJzLUN3R2ZrT9IBtgFBVV95cUxNOFBzMVVuSWFXcUcwMjU1NmJjdFh1NUF6emJWdldFSHBuYkVtR0Q4OTV5NWtRZXVqNlpiVTZEeFVOVWVoQzl2ZEJaaXRyaUw5bWRfR2ZCN2xkVnp6b1RQdGxhc2I2VUl4UUNvTzZ0TzFhMkh1d3Y2bXZBbWVuSnRQbFM3OEQyYzZidDBDRmpYTVlINTZzX25nbWJKVUxDNFJvUXoxZkE3c0pKaG1mSm1WVFpzdXBqQQ?oc=5",
         "date": "11/11 03:15"
+      },
+      {
+        "type": "negative",
+        "title": "How Low Can Alphabet Stock Go?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWpKUC0xMEFyM0pIMmVDVmN1SGQ0a3dDRng4XzFsOHVQM3paeVMwdkhibDMxdGNsS1Y4cTV1M3FvS2s5Y3RjV0pOTHBjajZIRzFQMFZDeDk0YjVMZzVFb0hicl9obTdQMzU4REUzQWlzWjFxclNjYWxTWGJUSFlvQjB1WXdQeE8wc3daTHByaWpaNU92RFE?oc=5",
+        "date": "11/13 00:58"
       },
       {
         "type": "neutral",
@@ -979,13 +989,6 @@
         "publisher": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTN0ZFFuYnkxVXlPYXZLZDRONDYwMFhEbjRxWkdBdnVETmQyeWpwTEZ5b0hqSEs0ckJ1S1pTWDdYTTcyakpyWFhRcW05WWpVaUpPalUyU200Mm5NNHNWdUtFSzN4VzdTMGZ5NjBzUTlnVzFYSGFRS29PRXJOVTlueQ?oc=5",
         "date": "11/10 14:04"
-      },
-      {
-        "type": "neutral",
-        "title": "If I Could Buy Just 1 Stock in November and Hold for 5 Years, It Would Be Alphabet",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVm5PRDJuVlBqSFU1UUhVTnhCTnlVZ2lLQi1scXYzd1ZDbVA3T0pEQU56X0o5MzgtbjhpMV9jVHBvS2RHY2RRZ0dkTHR4clFCVXFSdEtoUDRqb2xma1VydURDZjEySVB3dFloSE5Zc25hMkVvZ3ZnTzNsQzJYTGFYSlMzMDNRbUpnbV9wdTYycW1zY19SNnhHUg?oc=5",
-        "date": "11/10 11:30"
       }
     ],
     "QCOM": [
@@ -1021,17 +1024,17 @@
     "VRT": [
       {
         "type": "neutral",
+        "title": "Vertiv Holdings, LLC (VRT) Stock Forecasts",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWtzZHk2QlhaNXIyd3BYV3VqYno5MW5paGZPVkNsalVlRFZBNGhmbVlDNDdXUW5qTlhwT29tUUMyWXBVM01IZVo4MFk3bkN2Z0FuVHdDLWI4ZlBvaTFtWC1sZ2tUUC1FWFhoYzY5eG5sQkpCb0VoZnBfS3lOeW1fOE9tOENMS2xYSjJoSw?oc=5",
+        "date": "11/13 11:11"
+      },
+      {
+        "type": "neutral",
         "title": "Why Is Vertiv Stock Rising?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYk1fZ3NxVE9rZmEySFNBNmtVTzc0S0NrMFJwSW9EUnNVUS0yVzZvSXRDODl6MVJMTXBMbndaNWtNazVGS3JDaFlaZ0lRSUlhUVBSbDRkWWFEZ2pLRU0tdlVFUUUzOTRCTDdWaDNNT3kzZC1NVHV4OU13Y2cyNFkwWDRjTE55c19meHMyVGdNUQ?oc=5",
         "date": "11/13 00:16"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Debuts PowerNexus MV UPS For AI Data Centers",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEN5LVZSNFpmUTh1VElDcHFiZ2JkaWNfZXM3OXFWNEZ3SmE3RUplbFRrWjB0dWhseE5ERk1ZemN4VC1KbWRubmpHNXB6dEg4QjFJNEFtZ3lTaEpYdkxUZjBTWW9Ic0ZTWjg5Y1VyZk83SDdvZEI0Rmo2OERRTDJIekpCeUhXcmtGT3NLTWtTVDR5dWgtVGRRMA?oc=5",
-        "date": "11/13 06:11"
       },
       {
         "type": "neutral",
