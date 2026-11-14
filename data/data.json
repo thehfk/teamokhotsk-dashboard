@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-11-13T18:37:21.984011+00:00",
+  "updatedAt": "2026-11-14T00:02:19.062463+00:00",
   "market": {
     "cards": [
       {
         "name": "S&P500",
-        "value": 7545.85,
-        "change": -0.61
+        "value": 7561.67,
+        "change": -0.4
       },
       {
         "name": "NASDAQ",
-        "value": 25094.29,
-        "change": -1.07
+        "value": 25136.27,
+        "change": -0.91
       },
       {
         "name": "다우존스",
-        "value": 52269.56,
-        "change": -0.05
+        "value": 52347.55,
+        "change": 0.1
       },
       {
         "name": "공포지수 VIX",
-        "value": 19.73,
-        "change": 5.51
+        "value": 19.3,
+        "change": 3.21
       },
       {
         "name": "미국10년금리",
-        "value": 5.14,
-        "change": 0.78
+        "value": 5.15,
+        "change": 0.98
       },
       {
         "name": "원달러환율",
-        "value": 1336.54,
-        "change": 0.02
+        "value": 1333.78,
+        "change": -0.19
       },
       {
         "name": "KOSPI",
@@ -47,7 +47,6 @@
       {
         "name": "미국 시장",
         "labels": [
-          "08/13",
           "08/14",
           "08/17",
           "08/18",
@@ -118,7 +117,6 @@
           {
             "name": "S&P500",
             "data": [
-              7798.99,
               7785.76,
               7745.06,
               7691.76,
@@ -183,13 +181,12 @@
               7520.93,
               7619.38,
               7592.4,
-              7545.85
+              7561.67
             ]
           },
           {
             "name": "NASDAQ",
             "data": [
-              26803.03,
               26729.16,
               26644.91,
               26289.71,
@@ -254,13 +251,12 @@
               25065.87,
               25466.19,
               25366.09,
-              25094.29
+              25136.27
             ]
           },
           {
             "name": "다우존스",
             "data": [
-              53839.99,
               53732.41,
               53459.78,
               53343.4,
@@ -325,7 +321,7 @@
               52231.89,
               52486.49,
               52297.09,
-              52269.56
+              52347.55
             ]
           }
         ]
@@ -471,7 +467,7 @@
               19.46,
               17.49,
               18.7,
-              19.73
+              19.3
             ]
           }
         ]
@@ -615,13 +611,12 @@
               4.98,
               5.0,
               5.1,
-              5.14
+              5.15
             ]
           },
           {
             "name": "원달러환율",
             "data": [
-              1416.46,
               1416.85,
               1415.37,
               1414.73,
@@ -687,7 +682,7 @@
               1343.84,
               1341.91,
               1336.26,
-              1336.54
+              1333.78
             ]
           }
         ]
@@ -895,14 +890,21 @@
     ]
   },
   "rsi": {
-    "AVGO": 54.4,
-    "BE": 46.9,
+    "AVGO": 54.6,
+    "BE": 47.0,
     "GOOGL": 38.4,
-    "QCOM": 45.6,
-    "VRT": 50.4
+    "QCOM": 45.8,
+    "VRT": 50.6
   },
   "news": {
     "AVGO": [
+      {
+        "type": "negative",
+        "title": "Broadcom Stock (AVGO) Falls Nearly 7% Thanks to a Downgrade and Price Target Cut",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYi15VW80MTdpcFBvTlEtU1NTTWk0NGRWUUs2eTJpS2tkbHR0VGVBdFltTS15eWpSRjRuVFRXQ0tuSVVOTlNEQ0ZKMlo4Z2MwYnpBbUEyY1g0VEl2cUFKYXpmVXNHSnR0UWZ6NW5ybjF6U3ZwX2xxdkJiMUdOVzAzc2YyOThvN05OOC1ZRVItSXNfQ3JtWUJYbElzZmhuUmRUOGc?oc=5",
+        "date": "11/14 01:11"
+      },
       {
         "type": "neutral",
         "title": "Why Has Ark Invest Repeatedly Added to Broadcom (AVGO)? Its Big Ideas Report Offers a Clue",
@@ -923,13 +925,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObE9Hcm5TWkh4aUExY0lHX3lHc01ER2hueDJGcXFaOXlxaTU0eW00OWdTUm51UWpNNUlRXzN5bGNsZ3NBQVVhNVlaMEVfbHVnRlVLWGxpZElSVjVPX3lHcXQ3Y2ZYTWxXZWtNVGt4SXhMYVlhR1MxNmJsT05TSFFfc2RGUDBIY1dkOUtua01JUVZ5Q0dvajVxTm9rYXZfVU1ZalRTeVg4UWdhdVhVSUczeDVB?oc=5",
         "date": "11/12 20:25"
-      },
-      {
-        "type": "neutral",
-        "title": "AVGO Nov 2026 357.500 call (AVGO261113C00357500) Stock Price, News, Quote & History",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbDN3dVNrMlZLdTlmX2k1QUxZOThMci1nLW1Wc1JNSWRvNC1RakE0blpneFBtajlHMU1BajVhZWotVDdiaE4wNnBOS3cybXlwdVp6czU0QkVhUTVYajBrRm04YzE2QQ?oc=5",
-        "date": "11/14 03:13"
       }
     ],
     "BE": [
@@ -941,34 +936,34 @@
         "date": "11/12 10:38"
       },
       {
-        "type": "neutral",
-        "title": "What Changed For Bloom Energy Stock, And What Did Not?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXJ2UHc1a1VXME1KaVpXdVpRQnQ0TlEzRF9PdEZOU3ltbXNBLWpFVGktMGtBTUJLSWJhUzlTMDhib1hUdzJPV1pCaEpSVnNqTEV0cGoxWFF0eElhS3ZabVNqWmlMdmtEZ1ZZNmhyck5wTmZ1SjJnWFVXVjN3Rkt4cm1uU0FPaGM4ZlRHZVlLUUVLVDZiM1FxTVdLVzEtdGNJZHMtZzh5dkhscXlTQnREYg?oc=5",
-        "date": "11/12 22:25"
+        "type": "negative",
+        "title": "Bloom Energy Corp Stock (BE) Moved Down by 5.03% on Nov 13: What Investors Need To Know",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGt1LWp0ZlctcHRfaXdYMVN2MXV4UjRIczNtQ2hnci1BUEpPdHpQY1BzdDU2TFdWSjNWYWphUGh6NmZzRVl0MUFSZ0NUemprTWg3a3lhUy1EaTNfS050NkpqdDkxWFpWSWF0WjlNUGluUEdTV2RaMV9KX1AwYUJzT0VlOUZCVFdM?oc=5",
+        "date": "11/14 04:15"
       },
       {
         "type": "neutral",
-        "title": "Why Is Bloom Energy Stock Surging Wednesday? - Bloom Energy (NYSE:BE)",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWVEd1ZBdXFDVTB4b2RSbVpJWGNHem1uZl9obm5Tck9TRGpjaWZTT1h1MzFhQktVajJqYW5oN00yVTU5WWlxTU15Z0J0ak5WV1I5dmZJeWNIN1UtRzZfNV82YnVjcW5VdkNEQjkwaTFRaXhlb2VOeDF2QUZGSlpjeDJKaFFIZVhVOGRtSk13TkI3RTJUUTNQXzlYV0QtRGhoSUdCVHNfOA?oc=5",
-        "date": "11/11 21:20"
+        "title": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnFIV3FYUEllNUQyYTY2US1aMDFmdkY0aVcwU1ZZMWtadGtqaU5sXzRITzJSYnpzc005Q0RGWWlqWkhFWTBjY3BIaTZ3Rjd0Q1J4X29kNDloSnc5UWw4anRXclIwaEQ1ZEd1eTVaZTczcjROeHJpT3B6Y09DWUp6OHpLX29veEQyRFFWZHlzYmR3OE5QTjI4?oc=5",
+        "date": "11/08 04:50"
       },
       {
         "type": "positive",
-        "title": "Bloom Energy Surges 15% as CoreWeave's Results Lift AI Power Stocks; FuelCell Energy Climbs 5%, Plug Power Dips",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0lOLWQ3LWw0UERYLW1XY3F0c2kzdzNFdmxGZEZ5SnYwR05IbnVla3dGeGNNQTVGd3N3YWd2cTFOYlBXS25jU255R0VHSWpGbERXeUI1YnhuWVB4RU9LYmcyd1pwX25JZWt5UHRLM0NhUFhZRUctb1RyN1R1TnF6S0hZVVVadUVRWVlZQThKajJCU2xQT3VWMkVLbEM4M1ZaQjU3VE9EUTBQdzRtVTI0a21FZzZnejJsS1gzZGtvZXZrUnY5UUZ5RDlkRVd6VUhhYzA4TmoteS01TndOaDhTdDZXbUk?oc=5",
-        "date": "11/12 01:02"
+        "title": "Can Bloom Energy Stock Jump 50%?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWxobWlqLUdkV2wyTEVkUTl0R3ZybDBrYzNSaFozZUVBc0FKbGRveTE1djU2c1NUXzdwbG5JLTU3NzhGaGp2M3FmMW9WX1hacEVpVXUzNDFMTWl0RmhHdHJkR2FUanJIcFl2QzRwOG1sLWdLdWIzSmRrLWZKV2F3c25kYm9kdlpjZVJQX2p6MGtkZ1dYMFE?oc=5",
+        "date": "11/14 04:25"
       }
     ],
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "Alphabet Inc. (GOOGL) Stock Forecasts",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeXNlSDUwMFFaQTBTTm9sY3g1Szd6dGNxdjRER19VRjQ3V2xmblQ5NFBFekxnckVkOFI4NVl4Z0gybi1xRzNjN0N0VmdzR05tTEpaWlUyVVZLdEE3Z2c0S3hFbUdmTkpGTDhmdmJRSV9peWJsVnhNM3V2dmlhbzk5SGFmZVAtdTFSRld1RzdxLUpCU2lIUWJub1BhblNoQQ?oc=5",
-        "date": "11/14 01:05"
+        "title": "Should You Buy Alphabet Stock Now That Google Will Let Customers Run Its AI Chips in Their Own Data Centers?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbVNibFJDOERyT3YyOGk0aFZBeS1DX3RaZFV3SmFlbGlRcnQtUmhBakxZN25HUmhvaHJyeGJFUHpsVnlMd3JwYmVPTnBZbnhaVEJrQzQxZHY2R3dFamd4aUppT2M2bXltOF95d05oSGhxek95RTkzTkxmS1ZwTVdjWG4zX3NtRXRsRjFJZ0dXMmVKNHM4aUlfalhSaV9qazgxd2JZSmZFVl9OU1NubnlEVktReDZwLThiN3BFRXdzR21xNHdpMms1N0hsZ01ZZnd2T3NMeHgtcU9aSVNmS0dHWklGZ3Q?oc=5",
+        "date": "11/13 10:44"
       },
       {
         "type": "neutral",
@@ -995,13 +990,6 @@
     "QCOM": [
       {
         "type": "neutral",
-        "title": "What's Going On With Qualcomm Stock Friday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkdrdU5GQTV6clJrMGZUNmVvRTI4MnNkYk5BLU1oR1FnSWp0WTMzUE9qeHIyRG5UMHgzTW4xMGE3aG9LUGRnWDA5eFdNQm9GTnljLTlTeEswdmQwbXo3RUUyWnpsVkU5TDdhZ0JqQ0lzeUI3MW5yR1g1eFNnaFpsUGhUMk1hQzdDazV5VmhjUFBITWQ5SjJCa1NB?oc=5",
-        "date": "11/14 00:52"
-      },
-      {
-        "type": "neutral",
         "title": "QCOM Stock Quote Price and Forecast",
         "publisher": "CNN",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52VnR0d3VPWXJhalFveVBJNVU1VlRpQk0wQTNxVTFmLWhmc1NrUXhaeWVoUWQ4ZktCYWJtOUhKWi1sNUVvOWZrbGRGT2RVeDlY?oc=5",
@@ -1015,11 +1003,18 @@
         "date": "11/12 23:21"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
-        "publisher": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdnBhYm1hakZ1aldQNm80ZGNKSmUtY1JqWHVZem5QZE1DVE00UmZfeldSNWJ6b0FOekhBQzlPbWJPRC0zclJQMGVxaWFiOGtSWWxGSVUzVXl3RU9lLWJNN3kxR19iZEpQV2NjM2F4aTFiWkg4bzhoRF9mQzJjZzDSAYQBQVVfeXFMT19QY1RERExyM2ZhYTBmU1hLNXJhWlo2UEJmMGEyR0lIVzVfQWFGcWRLMmtaSk5lM2N6N3N6NUh4TW9HN3FtUENWdWtleTFFVzVWN01EODExQUlXMXdXcTlnckEwcXA3S2tZSVFVM2lqNGtrR285NXVzLXYyaWRycXF1TnV1?oc=5",
-        "date": "11/04 17:00"
+        "type": "neutral",
+        "title": "What's Going On With Qualcomm Stock Friday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkdrdU5GQTV6clJrMGZUNmVvRTI4MnNkYk5BLU1oR1FnSWp0WTMzUE9qeHIyRG5UMHgzTW4xMGE3aG9LUGRnWDA5eFdNQm9GTnljLTlTeEswdmQwbXo3RUUyWnpsVkU5TDdhZ0JqQ0lzeUI3MW5yR1g1eFNnaFpsUGhUMk1hQzdDazV5VmhjUFBITWQ5SjJCa1NB?oc=5",
+        "date": "11/14 00:52"
+      },
+      {
+        "type": "neutral",
+        "title": "Your Qualcomm Stock Thesis Has One Loose End",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmxVYXpGSjBOSkc3OGZmdzQ4djQxdGtMdFpHemEyUVpRZVRLbElaTGlPTDlZczRwVFJDckEyeHdJYXQ4V0pEMGRhTHI0RHYxN3A2eU5Ma1RVYmhDUE52cGhxaHhDZ2FvYnN6TTc5bUM4Z19QNWREVWZXSnc0dkVZQUtNLTFBNFhHbFNNQWp6MkFxUl9jaTdGdUNGTHZiLTJQc0toeVhwbEM?oc=5",
+        "date": "11/13 20:08"
       }
     ],
     "VRT": [
@@ -1029,6 +1024,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXNfMzJxMUcxZVVOc255QkN4Rks5NWFRb29wS21HdVdMRXBEUXVLRVZQU2RxVW5sS0lQLVZwRGg0S1pNTlI3QkxkVzQ4V1NYQlp4NkdkX3d3U0pjbm1HUXFoZnBJZzgzSU5OaEdROGxmd3piSE9NSk0zZ2Myb0Nod2lMNHU3am1aNE8xVzYtTVg1NzNfenhiOEpidWk?oc=5",
         "date": "11/13 23:53"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Should Vertiv Stock Holders Keep Watching This Number?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1lhMVlFZWtKYTlreE1TT21yaEV4WmVfbm1VUFE2NmI2RWNmdld1S0FfVjZVV3QwNXVNX29ORFFuMTFRNVM5UTRCNXBaREprQUFNdWluNThPeVczRUxTMFEwejNick5LdFRJUlpKcmNncWdxYkZBaDRVaVVpTlB5MmFkakRoUDN6b1ZjN3RfWUZUNTVtTlh0X2QyblV1ZlZJTkI1TnUzUkljTnhZU2RhNG9NdEpRN2pr?oc=5",
+        "date": "11/14 07:46"
       },
       {
         "type": "positive",
@@ -1043,13 +1045,6 @@
         "publisher": "Quantisnow",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVC1qRnpTR0txZVYta0d6aVJDSU1NYXJLeUtiTHJlR09tSGoybm13LXJRR0ZXZFdXZklneWNKbWF2RWR2NzEzNHFlNkNFRmR1bUM3bE12R1YwSmllaTR6RlpTVkJYaDVhS1A1anFpazBiRHJQVUxwV1E2WmtELWp1SU9kZw?oc=5",
         "date": "11/13 20:36"
-      },
-      {
-        "type": "neutral",
-        "title": "The Reason To Buy Vertiv Stock Today",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFlMR2l4a2VOWm9OSnNHTjRpNWpvVzJudEQ1WmZ4ampYeFJrT3FTUnZ2MEpVc2hWb2VkQlEzS20tR21PR0xnRVViY1BmT3BFcXM4by1Jd2FjYTZWdHJGQ2ZwMHp0MklmSThod3Izb1dDSmxTeGEyRTZHT0ZNNDdjdHVvV3k3VkRMZ01Sd0N4RmxhT25fZjBWdjVHcHk?oc=5",
-        "date": "11/12 06:48"
       }
     ]
   }
