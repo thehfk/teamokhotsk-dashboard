@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T09:40:00.849572+00:00",
+  "updatedAt": "2026-11-15T16:42:07.588130+00:00",
   "market": {
     "cards": [
       {
@@ -918,17 +918,17 @@
       },
       {
         "type": "negative",
-        "title": "Broadcom (AVGO) Stock Week Ahead: Options Flow Braces for a 6.7% Swing by Friday",
-        "publisher": "Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEJVOXpLZjZDRmRJUmI3RkNQaFVHaUtsZ2lfUnVVa053djRnaUlKS1ZTVzdTblRwQl85SW5McjlQMlE0eVcyWl9TRG1sYkxkbHphUjJJYk1qVWxJdkxOcDhqYXJTQkIyUUM3U2lDWVNWaXYzeFRWdWlaaU5MZ0Etc0V3RzBXV2wyb2xJMV9lQkFuMko0dElQZTNzZEtBVUNuMEt2bmxFQjFXUDJvc0FN?oc=5",
-        "date": "11/14 23:18"
-      },
-      {
-        "type": "negative",
         "title": "This Analyst Just Downgraded Broadcom Stock. Here's Why.",
         "publisher": "Barchart.com",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeno5SFhRM1N2YjdfZ1NsWTB1dS1JbEhlSFBNLXpRZ2VWcXhRZE5yMXhhcjFKdjdUVWk1ekJ4ajZnREE1VDJLaGE0ZU5RcVFmN25jZ3piME5pSE5pQVBWMUZRZHdmT2U3MFkwM3BUdUlDR21kVmxhZ3piOG9QVkF4VzBXTUpKLWZTOEplbzA0QW9wa2lTN0tpZlQ2RkFDeXc?oc=5",
         "date": "11/14 03:43"
+      },
+      {
+        "type": "negative",
+        "title": "Broadcom Inc Stock (AVGO) Opened Down by 4.37% on Nov 13: A Full Analysis",
+        "publisher": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWG9CVFhtemtHQmtIaWxGZWttTVY3TWg5SGl6MEVQRERmMk9CcG1jWDA4ZTBibTdwY1hwRFUtVmlKRjZYWF90SFRheVZYUElEVEVzZVdDWjR5SkR4OGR1ajNYb0k1bDlJS2dvWFBpNmFGR0lWbmE2VTdPaHdvS2tEZEl3eVhKOWttdUtj?oc=5",
+        "date": "11/13 23:47"
       }
     ],
     "BE": [
@@ -944,14 +944,7 @@
         "title": "Is Bloom Energy (BE) Stock Cheap After AI Demand And Cash Flow Concerns?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOXJadnJYQUN3YmhMS2xBbjNudWo4WEhyVW9iTmZJSzJHUkctNWlXNXR3ZzNvbnlldXRaRDg0VV9CODB2TGZwY0o5NVJObGJrZzN5NVZ3dnVJbzZMaWFMc2d0MndaendUUDdMWVE4MVQ4TmVNaElyTGN0bkE1UDZ6Ujd6WGNSaERVSGNrVkNWSEpycWJKNUVj?oc=5",
-        "date": "10/28 16:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy Corporation (BE) Stock Forecasts",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1lGTklsajZJZU5CWnFyVWFJdTNFUVd2bkszM2h6TU5PSWxIYVNvX2hOcTV0WVA0THJQMjZtSWZ6c0RrYTVJYzdweWk0Zk1WaFZzWW9YZzRtMWl3RXliWUktRkdkTlREVUc5THMxYzh1d2pQS1NIallIYlZ2QUdIZXZhUmcxMEk5RTc3SQ?oc=5",
-        "date": "11/14 10:59"
+        "date": "10/27 16:00"
       },
       {
         "type": "neutral",
@@ -959,9 +952,23 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQjhhVnk1NG1xXzlURGZzS0tSTC1Qdk5Vb25weTUwcVRieGgxSXFLOVEySjhOdnpWcG5fU25ZVmtvd0pTMzRDREJCU05mRDdDblB2VFR4LTZRbWtpUHFUV2U4UmNiMVFDVEpXekpFamRqSVpYdXdEUl90RGhnaVlfSUZacUlNR0p2T3FNVm5HYzhzMUZZd3Y2b3p3?oc=5",
         "date": "10/30 16:00"
+      },
+      {
+        "type": "neutral",
+        "title": "Bloom Energy Corporation (BE) Stock Forecasts",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1lGTklsajZJZU5CWnFyVWFJdTNFUVd2bkszM2h6TU5PSWxIYVNvX2hOcTV0WVA0THJQMjZtSWZ6c0RrYTVJYzdweWk0Zk1WaFZzWW9YZzRtMWl3RXliWUktRkdkTlREVUc5THMxYzh1d2pQS1NIallIYlZ2QUdIZXZhUmcxMEk5RTc3SQ?oc=5",
+        "date": "11/14 10:59"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "GOOGL Stock Quote Price and Forecast",
+        "publisher": "CNN",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UbkhMMngyaG5RbUxmS1ZGOGtMZGpWMi1GZWM4TGdVUV9kT0wwRjhITEVWVERVZnY4ekZhU0lFbWtMNWhjZGpJdm1iek5wS0lrZUE?oc=5",
+        "date": "11/15 19:24"
+      },
       {
         "type": "negative",
         "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
@@ -982,13 +989,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlRyeDhYRHNIeWxaZHR6S0R0eFZudlBGQm1GY2VmdmtHNVpkNlJDdENocVlvLUZxeTBQcUUyZWZNN21ORE1KVHIzdjIwZ0ZHU3JnbkFCdUFjSjRnbkM2LXBWbWZVbFhSU1R4YkFWdTAyUHFna0haaHhiRDlneHdvcUk5U0RjWEtPRjNyN3FLU2J3cjlZRU80SVF1amxZRms?oc=5",
         "date": "11/13 01:13"
-      },
-      {
-        "type": "neutral",
-        "title": "Not Apple. Not Microsoft. This \"Magnificent Seven\" Stock Is My Top Tech Buy for 2027.",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWNhYlYtWnlJenk2Q183VXRuWTVsT3gtTm1nRndwcDNIVDlZRUxXT0J3dnZFRUV0LS13ZGJIT2k0WGptMk8yVWdvSFRabjY1OF8xMWRNZ1dPWTdsSzJEZ1U4YW13WEJkN1NwNjVETGZ2cnpvdlUyc0ExbEN3aGEtaFVGZEFtLWpVeTkwaGl1X1ZkdVVXYlE?oc=5",
-        "date": "11/13 23:05"
       }
     ],
     "QCOM": [
@@ -1000,18 +1000,18 @@
         "date": "11/12 23:21"
       },
       {
-        "type": "neutral",
-        "title": "QUALCOMM Incorporated (QCOM) Stock Price, Quote, News & Analysis",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zaFhLa01JN0hPZWI5ZHAyMmNVcEQzY2ZuNk9qZE01ZVowSWFEcjZOQm9rZWY2WmloMHNzS0ViSlBaekw5d05jeFBka04?oc=5",
-        "date": "11/13 17:00"
-      },
-      {
         "type": "negative",
         "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdnBhYm1hakZ1aldQNm80ZGNKSmUtY1JqWHVZem5QZE1DVE00UmZfeldSNWJ6b0FOekhBQzlPbWJPRC0zclJQMGVxaWFiOGtSWWxGSVUzVXl3RU9lLWJNN3kxR19iZEpQV2NjM2F4aTFiWkg4bzhoRF9mQzJjZzDSAYQBQVVfeXFMT19QY1RERExyM2ZhYTBmU1hLNXJhWlo2UEJmMGEyR0lIVzVfQWFGcWRLMmtaSk5lM2N6N3N6NUh4TW9HN3FtUENWdWtleTFFVzVWN01EODExQUlXMXdXcTlnckEwcXA3S2tZSVFVM2lqNGtrR285NXVzLXYyaWRycXF1TnV1?oc=5",
         "date": "11/04 17:00"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Qualcomm Stock Friday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkdrdU5GQTV6clJrMGZUNmVvRTI4MnNkYk5BLU1oR1FnSWp0WTMzUE9qeHIyRG5UMHgzTW4xMGE3aG9LUGRnWDA5eFdNQm9GTnljLTlTeEswdmQwbXo3RUUyWnpsVkU5TDdhZ0JqQ0lzeUI3MW5yR1g1eFNnaFpsUGhUMk1hQzdDazV5VmhjUFBITWQ5SjJCa1NB?oc=5",
+        "date": "11/14 00:52"
       },
       {
         "type": "neutral",
@@ -1031,6 +1031,13 @@
       },
       {
         "type": "positive",
+        "title": "Is Vertiv Stock a Buy After Its Earnings Beat?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnN5UWpVUWVLSllpVUFsRWgzTktCZjdxVEFOWjZRbHVtMDNyeDI5Y3BCdXZfUmlxLTJ4WlRCRnJvdUxpczhMVWhKei11Zm9yZmpwNXlaSks4Vk5PbFlWdDc3bEE0ejROTmlmd0RwT0tHb1hYbVVDOV9HcjgxczA2Y2NpSWJDdTh6X08tc2R0ZTVmQQ?oc=5",
+        "date": "11/15 19:23"
+      },
+      {
+        "type": "positive",
         "title": "Vertiv Shares Rise 3.36% After Hours - SOFTBANK GRP UNSP/ADR by Softbank Group Corp (OTC:SFTBY), JPMorgan",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHpERXZpdk9idDdBMFZHR3RxTWtuSXBsM3h3V1RxTFJwUmFOQ3E1VHBYaDlNeHhtLTJlMTZRYllzS2pnOHhRVHNua1JEbEFwX1BoYWswNEItLWF1SDQxd01iS1hoeTlUVmlWazZYYTdRaHRqbjM4SUNtR2ZvbWZQZ2ZQUWVGZE4wcmRvUGx4SHVoZXczeGlSOWpTU3BqQUFxVkJhcC1PQWZnd0E0Y2RmRmw0T0hJbjBBSnRaWklyZw?oc=5",
@@ -1042,13 +1049,6 @@
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFlMR2l4a2VOWm9OSnNHTjRpNWpvVzJudEQ1WmZ4ampYeFJrT3FTUnZ2MEpVc2hWb2VkQlEzS20tR21PR0xnRVViY1BmT3BFcXM4by1Jd2FjYTZWdHJGQ2ZwMHp0MklmSThod3Izb1dDSmxTeGEyRTZHT0ZNNDdjdHVvV3k3VkRMZ01Sd0N4RmxhT25fZjBWdjVHcHk?oc=5",
         "date": "11/12 06:48"
-      },
-      {
-        "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Debuts PowerNexus MV UPS For AI Data Centers",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEN5LVZSNFpmUTh1VElDcHFiZ2JkaWNfZXM3OXFWNEZ3SmE3RUplbFRrWjB0dWhseE5ERk1ZemN4VC1KbWRubmpHNXB6dEg4QjFJNEFtZ3lTaEpYdkxUZjBTWW9Ic0ZTWjg5Y1VyZk83SDdvZEI0Rmo2OERRTDJIekpCeUhXcmtGT3NLTWtTVDR5dWgtVGRRMA?oc=5",
-        "date": "11/13 06:11"
       }
     ]
   }
