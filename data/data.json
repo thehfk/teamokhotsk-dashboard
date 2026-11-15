@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T16:42:07.588130+00:00",
+  "updatedAt": "2026-11-15T21:24:41.033865+00:00",
   "market": {
     "cards": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "name": "원달러환율",
-        "value": 1336.2,
-        "change": 0.18
+        "value": 1334.98,
+        "change": 0.09
       },
       {
         "name": "KOSPI",
@@ -683,7 +683,7 @@
               1341.91,
               1336.26,
               1333.78,
-              1336.2
+              1334.98
             ]
           }
         ]
@@ -911,17 +911,10 @@
       },
       {
         "type": "neutral",
-        "title": "Why Broadcom Stock Dove Today",
+        "title": "Why Broadcom Stock Rallied Thursday Morning",
         "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pd0JzVG5vMHNWU1djeEhmNGpfNFg0VHkwMTN1RkpzWjkyVkt2SzRhd2pqcWdOYlhGekJIb21majJkeGduYk5nUlVVRlJuM2hoY2F5djFSc2Z3N2t3SWEzM0hhMTR3dUZCZm5rUDQ0RlVHMmxjQU1XeGtmcy0?oc=5",
-        "date": "11/14 03:00"
-      },
-      {
-        "type": "negative",
-        "title": "This Analyst Just Downgraded Broadcom Stock. Here's Why.",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeno5SFhRM1N2YjdfZ1NsWTB1dS1JbEhlSFBNLXpRZ2VWcXhRZE5yMXhhcjFKdjdUVWk1ekJ4ajZnREE1VDJLaGE0ZU5RcVFmN25jZ3piME5pSE5pQVBWMUZRZHdmT2U3MFkwM3BUdUlDR21kVmxhZ3piOG9QVkF4VzBXTUpKLWZTOEplbzA0QW9wa2lTN0tpZlQ2RkFDeXc?oc=5",
-        "date": "11/14 03:43"
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdEhnMXZYSVd0MTFzbnVCNU01aFRwTjlHWnFRaFIxa2xRaW4yOTN1WElnZmxLYlJCMXF5SWhwWWxvRmlDd3NycGlJbGhWWl9EZnF4YlFic0h4TjlWWlJndnFMUXVBVHRSZEpEYUxkdHNIMmVQX3hzcWNsMXFqcGljR2Z3cHk5TTcyN1VtOWVmZw?oc=5",
+        "date": "11/13 04:47"
       },
       {
         "type": "negative",
@@ -929,6 +922,13 @@
         "publisher": "TradingKey",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWG9CVFhtemtHQmtIaWxGZWttTVY3TWg5SGl6MEVQRERmMk9CcG1jWDA4ZTBibTdwY1hwRFUtVmlKRjZYWF90SFRheVZYUElEVEVzZVdDWjR5SkR4OGR1ajNYb0k1bDlJS2dvWFBpNmFGR0lWbmE2VTdPaHdvS2tEZEl3eVhKOWttdUtj?oc=5",
         "date": "11/13 23:47"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom (AVGO) Stock Gets A Fresh AI Opening After Rival CEO Exit",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWjNBV1NrLTRUZWw0djhqX3NyT3dLTll6ZlN3V2l5aWhxZGFXX29ROHlnTFA5WUZqX1dsQVpnNklCbFUwdzNDbFgzRUZTTHpramktUHNZdnl1N2VkVmR3ci1Wamdrc1l6UkVKbjh3VnotcnRUcVNvdU1qc21ScUp5d0JsVGhfeVlLV3VaeFk2UHhMcEx2TVFkdzhB?oc=5",
+        "date": "11/13 16:10"
       }
     ],
     "BE": [
@@ -984,11 +984,11 @@
         "date": "11/13 10:44"
       },
       {
-        "type": "neutral",
-        "title": "Alphabet (GOOGL) Just Moved, What Is Driving Attention Now?",
+        "type": "negative",
+        "title": "Why Did Alphabet (GOOGL) Shares Fall After Its $500 Billion Value Wipeout?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlRyeDhYRHNIeWxaZHR6S0R0eFZudlBGQm1GY2VmdmtHNVpkNlJDdENocVlvLUZxeTBQcUUyZWZNN21ORE1KVHIzdjIwZ0ZHU3JnbkFCdUFjSjRnbkM2LXBWbWZVbFhSU1R4YkFWdTAyUHFna0haaHhiRDlneHdvcUk5U0RjWEtPRjNyN3FLU2J3cjlZRU80SVF1amxZRms?oc=5",
-        "date": "11/13 01:13"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWljZDdUS0l6cHpEVmtJYWlLNm5IdFN0RnV6ZmhuLThjODQ4aXhiQl95UE1Pa3ptY1pGRUVrQm5EWVh0SzN5aEVaUF9rUjVBU1YyZHhtMlBRem45b01lY3IwdFZkdmNxWU9LcWVEQTZTM2hjcWVrdmJaRDZDaFlzUWFHVlBNNjBSS0tJQ1MyMk8wazVMLVRCTFJB?oc=5",
+        "date": "11/01 16:00"
       }
     ],
     "QCOM": [
@@ -998,6 +998,13 @@
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlI5UWRXei1OUkJWZ0xoaFlJREh4bzRSSnJydWZKUnRVOGFWcEVEV3NTSFJTcTc3MjdpUXhHZXJoRkV5TS1CREU1U1pPMUUzY3pCRS1UX1VZNGNLWmxuZWFfdnNUX1lodkRSNldBeEhXelNOeGEwamNPTUVMbjNmT1F0czBrc1VsXzI1MnBqb0NlTlQzZGR5YmNqZ2tJS0NhdVdTX2IyMXI4RjRkX1VPSTY1a3A0RmhYMW1WWlFRcFNLbzM3TVhN?oc=5",
         "date": "11/12 23:21"
+      },
+      {
+        "type": "negative",
+        "title": "Qualcomm (QCOM) Stock May Be Fairly Valued Following New 5G Network Deal",
+        "publisher": "Simply Wall St",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLTZ4RDYyUDZyc0xfWFFlVDdGdV82TE1RX2xreFdSdkdKYTI4Ulo4bmNtRnBCR3M1YWRDMG0wclJyeFplaGRfRzlQNVp5aENDNjEtMFRNMmhwZnZtS2NDd0Jrdnd2MG5wR184TW8zZk1uWWVjcjlFN3ZCbm5RcHJIRFZNSU5YYmVGNTE4WGVUYS1zRUtTVXV5QnFxYXRvQklEa19Ec3VXMTlxTExRYjR3U1RZWURwU0tqUEdpVTF5dFhCT2xaZUp5cHJRZXhGUdIB0wFBVV95cUxPSVYwV1NxQm9mZmxKRGhvQTFsZDZEUE9oMmlxWlZVbnFRaWtWYUtLUmNacWtOcDRPWVhvZXFNR2ZLb0pWeVlEeVVFejYzVjJQZEVoclRVcnN5TGdMdFlNeGRXbUdkRjBRalNMZEtZbTlXS0dya25yRWF2N1lvZW54Y25NOWljU080Nk5GeDlnTmliZEpkRHo4RU5lREFKZXJhSkdKV0V1V0tTc19JZTZMZGxCbFNvRmw2N1FiRk13X3lpUjk2LVU2eUdESVpNeW53UmlZ?oc=5",
+        "date": "11/16 04:21"
       },
       {
         "type": "negative",
@@ -1012,13 +1019,6 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkdrdU5GQTV6clJrMGZUNmVvRTI4MnNkYk5BLU1oR1FnSWp0WTMzUE9qeHIyRG5UMHgzTW4xMGE3aG9LUGRnWDA5eFdNQm9GTnljLTlTeEswdmQwbXo3RUUyWnpsVkU5TDdhZ0JqQ0lzeUI3MW5yR1g1eFNnaFpsUGhUMk1hQzdDazV5VmhjUFBITWQ5SjJCa1NB?oc=5",
         "date": "11/14 00:52"
-      },
-      {
-        "type": "neutral",
-        "title": "How Much Should One Number Worry Qualcomm Stock Holders?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV09VWjFuaFdJdkVGNXBqajlGaGFOUGNRVkpnZFdWc2pIRzJmVzBLcGZyQ1VSbmZ2VHBKMVF3cXN4ZnBPOGJ3a0JMcy1oX2dtbUZXUEtXT2NRWHgweUlmMGZMbmV0U1kwU0ZQaTVXT2EwSmkwNFpYUkVQUUVlX29LY182bVByMVVCQ2Z2bjBYZjNWa19SYmhQTW5ZYm9xT2RCVDdqTzBpOEpYZmRxdTd3dXptdFVZVmM?oc=5",
-        "date": "11/12 23:46"
       }
     ],
     "VRT": [
@@ -1044,11 +1044,11 @@
         "date": "11/13 15:18"
       },
       {
-        "type": "neutral",
-        "title": "The Reason To Buy Vertiv Stock Today",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFlMR2l4a2VOWm9OSnNHTjRpNWpvVzJudEQ1WmZ4ampYeFJrT3FTUnZ2MEpVc2hWb2VkQlEzS20tR21PR0xnRVViY1BmT3BFcXM4by1Jd2FjYTZWdHJGQ2ZwMHp0MklmSThod3Izb1dDSmxTeGEyRTZHT0ZNNDdjdHVvV3k3VkRMZ01Sd0N4RmxhT25fZjBWdjVHcHk?oc=5",
-        "date": "11/12 06:48"
+        "type": "positive",
+        "title": "Vertiv (VRT) Stock Price And Q3 Earnings Part Ways After Margin Surge",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVhTejZTRXF5S1dyNHlyOWFjSERLQmxkLWJXWjBKbmlrZUlhU0RCSVlIS04tcldYNXZ2Mm5xa2kzeTNFUF8td0VmUWZTRDlxTWtOXzYxeVJySHUwaXgxZENNRlRjMm50MFdXekd3RndDbWNuZEFlRVdhREZMOTUzWmRWU2JqUXZDOTFPM1BhRW1WVUpw?oc=5",
+        "date": "10/30 16:00"
       }
     ]
   }
