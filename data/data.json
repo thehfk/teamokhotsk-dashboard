@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T21:24:41.033865+00:00",
+  "updatedAt": "2026-11-16T01:12:14.221695+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1334.98,
+        "value": 1334.93,
         "change": 0.09
       },
       {
         "name": "KOSPI",
-        "value": 5290.53,
-        "change": -0.98
+        "value": 5287.3,
+        "change": -0.06
       },
       {
         "name": "KOSDAQ",
-        "value": 699.66,
-        "change": 0.45
+        "value": 690.01,
+        "change": -1.38
       }
     ],
     "groups": [
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1416.85,
               1415.37,
               1414.73,
               1413.58,
@@ -683,7 +682,7 @@
               1341.91,
               1336.26,
               1333.78,
-              1334.98
+              1334.93
             ]
           }
         ]
@@ -691,8 +690,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "08/13",
-          "08/14",
           "08/18",
           "08/19",
           "08/20",
@@ -752,14 +749,13 @@
           "11/10",
           "11/11",
           "11/12",
-          "11/13"
+          "11/13",
+          "11/16"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              6813.34,
-              6977.94,
               6869.83,
               6471.17,
               6852.58,
@@ -819,14 +815,13 @@
               5239.13,
               5375.36,
               5342.73,
-              5290.53
+              5290.53,
+              5287.3
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              861.37,
-              864.65,
               834.2,
               824.46,
               840.89,
@@ -886,7 +881,8 @@
               667.61,
               705.1,
               696.53,
-              699.66
+              699.66,
+              690.01
             ]
           }
         ]
@@ -911,10 +907,10 @@
       },
       {
         "type": "neutral",
-        "title": "Why Broadcom Stock Rallied Thursday Morning",
+        "title": "Why Broadcom Stock Dove Today",
         "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdEhnMXZYSVd0MTFzbnVCNU01aFRwTjlHWnFRaFIxa2xRaW4yOTN1WElnZmxLYlJCMXF5SWhwWWxvRmlDd3NycGlJbGhWWl9EZnF4YlFic0h4TjlWWlJndnFMUXVBVHRSZEpEYUxkdHNIMmVQX3hzcWNsMXFqcGljR2Z3cHk5TTcyN1VtOWVmZw?oc=5",
-        "date": "11/13 04:47"
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pd0JzVG5vMHNWU1djeEhmNGpfNFg0VHkwMTN1RkpzWjkyVkt2SzRhd2pqcWdOYlhGekJIb21majJkeGduYk5nUlVVRlJuM2hoY2F5djFSc2Z3N2t3SWEzM0hhMTR3dUZCZm5rUDQ0RlVHMmxjQU1XeGtmcy0?oc=5",
+        "date": "11/14 03:00"
       },
       {
         "type": "negative",
@@ -971,10 +967,10 @@
       },
       {
         "type": "negative",
-        "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
+        "title": "Why Did Alphabet (GOOGL) Shares Fall After Its $500 Billion Value Wipeout?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjBvMllSQlJudFZhTlFkYjQ3ZERqakZkV2I2Sm1iVXhlRnNkZnFSSjdUWTloaVlaMDc5OXNXTFlxV1VxUnl0Q0JqME5iNlZRbk80Q1p3d25nMGJyRVltXzZjdWh6V2R5LVltSHFWTFR6d2VaTklmaHZhOVNDX3pQcHpnT0R4TTZ5N0tZRnNB?oc=5",
-        "date": "11/15 08:03"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWljZDdUS0l6cHpEVmtJYWlLNm5IdFN0RnV6ZmhuLThjODQ4aXhiQl95UE1Pa3ptY1pGRUVrQm5EWVh0SzN5aEVaUF9rUjVBU1YyZHhtMlBRem45b01lY3IwdFZkdmNxWU9LcWVEQTZTM2hjcWVrdmJaRDZDaFlzUWFHVlBNNjBSS0tJQ1MyMk8wazVMLVRCTFJB?oc=5",
+        "date": "11/01 16:00"
       },
       {
         "type": "neutral",
@@ -985,13 +981,20 @@
       },
       {
         "type": "negative",
-        "title": "Why Did Alphabet (GOOGL) Shares Fall After Its $500 Billion Value Wipeout?",
+        "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWljZDdUS0l6cHpEVmtJYWlLNm5IdFN0RnV6ZmhuLThjODQ4aXhiQl95UE1Pa3ptY1pGRUVrQm5EWVh0SzN5aEVaUF9rUjVBU1YyZHhtMlBRem45b01lY3IwdFZkdmNxWU9LcWVEQTZTM2hjcWVrdmJaRDZDaFlzUWFHVlBNNjBSS0tJQ1MyMk8wazVMLVRCTFJB?oc=5",
-        "date": "11/01 16:00"
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjBvMllSQlJudFZhTlFkYjQ3ZERqakZkV2I2Sm1iVXhlRnNkZnFSSjdUWTloaVlaMDc5OXNXTFlxV1VxUnl0Q0JqME5iNlZRbk80Q1p3d25nMGJyRVltXzZjdWh6V2R5LVltSHFWTFR6d2VaTklmaHZhOVNDX3pQcHpnT0R4TTZ5N0tZRnNB?oc=5",
+        "date": "11/15 08:03"
       }
     ],
     "QCOM": [
+      {
+        "type": "neutral",
+        "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
+        "publisher": "Yahoo! Finance Canada",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
+        "date": "11/14 05:13"
+      },
       {
         "type": "negative",
         "title": "Qualcomm CEO on tech stock meltdown: 'There is no AI correction' for us",
@@ -1001,24 +1004,17 @@
       },
       {
         "type": "negative",
-        "title": "Qualcomm (QCOM) Stock May Be Fairly Valued Following New 5G Network Deal",
-        "publisher": "Simply Wall St",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLTZ4RDYyUDZyc0xfWFFlVDdGdV82TE1RX2xreFdSdkdKYTI4Ulo4bmNtRnBCR3M1YWRDMG0wclJyeFplaGRfRzlQNVp5aENDNjEtMFRNMmhwZnZtS2NDd0Jrdnd2MG5wR184TW8zZk1uWWVjcjlFN3ZCbm5RcHJIRFZNSU5YYmVGNTE4WGVUYS1zRUtTVXV5QnFxYXRvQklEa19Ec3VXMTlxTExRYjR3U1RZWURwU0tqUEdpVTF5dFhCT2xaZUp5cHJRZXhGUdIB0wFBVV95cUxPSVYwV1NxQm9mZmxKRGhvQTFsZDZEUE9oMmlxWlZVbnFRaWtWYUtLUmNacWtOcDRPWVhvZXFNR2ZLb0pWeVlEeVVFejYzVjJQZEVoclRVcnN5TGdMdFlNeGRXbUdkRjBRalNMZEtZbTlXS0dya25yRWF2N1lvZW54Y25NOWljU080Nk5GeDlnTmliZEpkRHo4RU5lREFKZXJhSkdKV0V1V0tTc19JZTZMZGxCbFNvRmw2N1FiRk13X3lpUjk2LVU2eUdESVpNeW53UmlZ?oc=5",
-        "date": "11/16 04:21"
-      },
-      {
-        "type": "negative",
         "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdnBhYm1hakZ1aldQNm80ZGNKSmUtY1JqWHVZem5QZE1DVE00UmZfeldSNWJ6b0FOekhBQzlPbWJPRC0zclJQMGVxaWFiOGtSWWxGSVUzVXl3RU9lLWJNN3kxR19iZEpQV2NjM2F4aTFiWkg4bzhoRF9mQzJjZzDSAYQBQVVfeXFMT19QY1RERExyM2ZhYTBmU1hLNXJhWlo2UEJmMGEyR0lIVzVfQWFGcWRLMmtaSk5lM2N6N3N6NUh4TW9HN3FtUENWdWtleTFFVzVWN01EODExQUlXMXdXcTlnckEwcXA3S2tZSVFVM2lqNGtrR285NXVzLXYyaWRycXF1TnV1?oc=5",
         "date": "11/04 17:00"
       },
       {
-        "type": "neutral",
-        "title": "What's Going On With Qualcomm Stock Friday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkdrdU5GQTV6clJrMGZUNmVvRTI4MnNkYk5BLU1oR1FnSWp0WTMzUE9qeHIyRG5UMHgzTW4xMGE3aG9LUGRnWDA5eFdNQm9GTnljLTlTeEswdmQwbXo3RUUyWnpsVkU5TDdhZ0JqQ0lzeUI3MW5yR1g1eFNnaFpsUGhUMk1hQzdDazV5VmhjUFBITWQ5SjJCa1NB?oc=5",
-        "date": "11/14 00:52"
+        "type": "negative",
+        "title": "Qualcomm (QCOM) Stock May Be Fairly Valued Following New 5G Network Deal",
+        "publisher": "Simply Wall St",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLTZ4RDYyUDZyc0xfWFFlVDdGdV82TE1RX2xreFdSdkdKYTI4Ulo4bmNtRnBCR3M1YWRDMG0wclJyeFplaGRfRzlQNVp5aENDNjEtMFRNMmhwZnZtS2NDd0Jrdnd2MG5wR184TW8zZk1uWWVjcjlFN3ZCbm5RcHJIRFZNSU5YYmVGNTE4WGVUYS1zRUtTVXV5QnFxYXRvQklEa19Ec3VXMTlxTExRYjR3U1RZWURwU0tqUEdpVTF5dFhCT2xaZUp5cHJRZXhGUdIB0wFBVV95cUxPSVYwV1NxQm9mZmxKRGhvQTFsZDZEUE9oMmlxWlZVbnFRaWtWYUtLUmNacWtOcDRPWVhvZXFNR2ZLb0pWeVlEeVVFejYzVjJQZEVoclRVcnN5TGdMdFlNeGRXbUdkRjBRalNMZEtZbTlXS0dya25yRWF2N1lvZW54Y25NOWljU080Nk5GeDlnTmliZEpkRHo4RU5lREFKZXJhSkdKV0V1V0tTc19JZTZMZGxCbFNvRmw2N1FiRk13X3lpUjk2LVU2eUdESVpNeW53UmlZ?oc=5",
+        "date": "11/16 04:21"
       }
     ],
     "VRT": [
@@ -1044,11 +1040,11 @@
         "date": "11/13 15:18"
       },
       {
-        "type": "positive",
-        "title": "Vertiv (VRT) Stock Price And Q3 Earnings Part Ways After Margin Surge",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVhTejZTRXF5S1dyNHlyOWFjSERLQmxkLWJXWjBKbmlrZUlhU0RCSVlIS04tcldYNXZ2Mm5xa2kzeTNFUF8td0VmUWZTRDlxTWtOXzYxeVJySHUwaXgxZENNRlRjMm50MFdXekd3RndDbWNuZEFlRVdhREZMOTUzWmRWU2JqUXZDOTFPM1BhRW1WVUpw?oc=5",
-        "date": "10/30 16:00"
+        "type": "neutral",
+        "title": "The Reason To Buy Vertiv Stock Today",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFlMR2l4a2VOWm9OSnNHTjRpNWpvVzJudEQ1WmZ4ampYeFJrT3FTUnZ2MEpVc2hWb2VkQlEzS20tR21PR0xnRVViY1BmT3BFcXM4by1Jd2FjYTZWdHJGQ2ZwMHp0MklmSThod3Izb1dDSmxTeGEyRTZHT0ZNNDdjdHVvV3k3VkRMZ01Sd0N4RmxhT25fZjBWdjVHcHk?oc=5",
+        "date": "11/12 06:48"
       }
     ]
   }
