@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T01:46:49.228808+00:00",
+  "updatedAt": "2026-11-18T09:28:16.601844+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 25.46,
-        "change": 11.13
+        "value": 23.86,
+        "change": -6.28
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1329.08,
-        "change": -0.49
+        "value": 1331.11,
+        "change": -0.34
       },
       {
         "name": "KOSPI",
-        "value": 5046.67,
-        "change": -1.06
+        "value": 5067.44,
+        "change": 1.99
       },
       {
         "name": "KOSDAQ",
-        "value": 661.14,
-        "change": -0.68
+        "value": 662.81,
+        "change": 1.96
       }
     ],
     "groups": [
@@ -329,7 +329,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "08/17",
           "08/18",
           "08/19",
           "08/20",
@@ -395,13 +394,13 @@
           "11/12",
           "11/13",
           "11/16",
-          "11/17"
+          "11/17",
+          "11/18"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              15.19,
               15.84,
               14.89,
               16.01,
@@ -467,7 +466,8 @@
               18.7,
               19.3,
               22.91,
-              25.46
+              25.46,
+              23.86
             ]
           }
         ]
@@ -683,7 +683,7 @@
               1333.78,
               1333.25,
               1335.67,
-              1329.08
+              1331.11
             ]
           }
         ]
@@ -752,6 +752,7 @@
           "11/12",
           "11/13",
           "11/16",
+          "11/17",
           "11/18"
         ],
         "series": [
@@ -819,7 +820,8 @@
               5342.73,
               5290.53,
               5100.5,
-              5046.67
+              4968.48,
+              5067.44
             ]
           },
           {
@@ -886,7 +888,8 @@
               696.53,
               699.66,
               665.65,
-              661.14
+              650.06,
+              662.81
             ]
           }
         ]
@@ -894,11 +897,11 @@
     ]
   },
   "rsi": {
-    "AVGO": 47.7,
-    "BE": 39.5,
-    "GOOGL": 31.4,
-    "QCOM": 40.6,
-    "VRT": 44.9
+    "AVGO": 47.3,
+    "BE": 35.7,
+    "GOOGL": 27.3,
+    "QCOM": 40.3,
+    "VRT": 33.9
   },
   "news": {
     "AVGO": [
@@ -918,17 +921,17 @@
       },
       {
         "type": "neutral",
-        "title": "Broadcom vs. Nvidia: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM21RZnFIZlRKZ283MTNwZGhGWXZtR2pKcTBIMHFjdnJaczA0TFg2aVJzVTNhYU9HR3lQOTF2b0lEZTE5Wl9ndzB1NW9rU2dycElmeXQ5Y1RId3drTkxMWmpmZTlyWFRTMFY1cEt3ck9neFhZQzlfQUVwVlpSSTRTNTNuSFpjdDAyRV9WXzdLaU5FbmdnZjl0RThqeXhLaEFkVENaVkNhZ3R5anY0NjkwOWdzRENyY0tBM0NISGxEVjlOTmJjR2V4UDRR?oc=5",
-        "date": "11/17 09:02"
-      },
-      {
-        "type": "neutral",
         "title": "What's Going On With Broadcom Stock Monday?",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZExEWlRSemZHajB3RkZzaHRZOVpxWW5veXZVVlk2Q0ZOY21kMHhPbV9pbkt0OE5INmktakpadVczeVNiMVVEZmdYakZUSm05cjlNWG5RNnVzOEozMENyLWp2bmpaYkRjN3hqRVZGT0JTZklkQ05LVnA1YXdHdjhIRGFmUzFnb3MwNVpxVDc4b3pRSUs3dS1fTDBTdU5fQQ?oc=5",
         "date": "11/16 23:08"
+      },
+      {
+        "type": "neutral",
+        "title": "Broadcom vs. Nvidia: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM21RZnFIZlRKZ283MTNwZGhGWXZtR2pKcTBIMHFjdnJaczA0TFg2aVJzVTNhYU9HR3lQOTF2b0lEZTE5Wl9ndzB1NW9rU2dycElmeXQ5Y1RId3drTkxMWmpmZTlyWFRTMFY1cEt3ck9neFhZQzlfQUVwVlpSSTRTNTNuSFpjdDAyRV9WXzdLaU5FbmdnZjl0RThqeXhLaEFkVENaVkNhZ3R5anY0NjkwOWdzRENyY0tBM0NISGxEVjlOTmJjR2V4UDRR?oc=5",
+        "date": "11/17 09:02"
       }
     ],
     "BE": [
@@ -971,10 +974,10 @@
       },
       {
         "type": "neutral",
-        "title": "GOOG Stock Quote Price and Forecast",
-        "publisher": "CNN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tN3FRTUJqdzR0OHRfby0zMld6YVhBbml5OFV4SlVRejVlVDhnVDd1YVVReGw2UWFvR2YzeEdxV0I1bUFQRXRjeWhyMkZHLW9N?oc=5",
-        "date": "11/15 17:02"
+        "title": "Why HSBC Says You Should Buy Google Stock Right Now",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkIyQWEzX2puaXByUkhuajU2WTBGU1RLWk01UFlSamFVYTJXNHBST2Y0M0JnR0ZHcjNSZXd3TmkwLTdCcmRlSjBnMDdoUmpXSGVjTWZaNHNJcU8wbDVTdXpzZ0hGN1NJd3Q3c3Z2YzVqVmFkUER4S045Q3Z6UnkzWHdHUE9OYmprTzF1YzNmUy1vbDhzRDM1amhuVQ?oc=5",
+        "date": "11/17 03:41"
       },
       {
         "type": "neutral",
@@ -1008,26 +1011,26 @@
       },
       {
         "type": "negative",
-        "title": "Qualcomm stock extends downward move as sellers stay in control",
-        "publisher": "Traders Union",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFNuZ1ptZWJCVnVyN2pwZDNsb1ZCTk5waUxTRGtVeFMwWnVEa1BwcWNLQTNZUHhGREZxRUFqNm8zaHNsb2JnbGVkdnZvbHc2Wm44WXF5WDl4VXZxSnY4cDU2OFlvWWVGOUd6c0Z5UkxEM3dxVWtSTXNOVG1VbzlBdFY4bDFIX29KekRfeXhJTQ?oc=5",
-        "date": "11/18 01:07"
-      },
-      {
-        "type": "negative",
         "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
         "publisher": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdnBhYm1hakZ1aldQNm80ZGNKSmUtY1JqWHVZem5QZE1DVE00UmZfeldSNWJ6b0FOekhBQzlPbWJPRC0zclJQMGVxaWFiOGtSWWxGSVUzVXl3RU9lLWJNN3kxR19iZEpQV2NjM2F4aTFiWkg4bzhoRF9mQzJjZzDSAYQBQVVfeXFMT19QY1RERExyM2ZhYTBmU1hLNXJhWlo2UEJmMGEyR0lIVzVfQWFGcWRLMmtaSk5lM2N6N3N6NUh4TW9HN3FtUENWdWtleTFFVzVWN01EODExQUlXMXdXcTlnckEwcXA3S2tZSVFVM2lqNGtrR285NXVzLXYyaWRycXF1TnV1?oc=5",
         "date": "11/04 17:00"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Qualcomm Stock Friday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkdrdU5GQTV6clJrMGZUNmVvRTI4MnNkYk5BLU1oR1FnSWp0WTMzUE9qeHIyRG5UMHgzTW4xMGE3aG9LUGRnWDA5eFdNQm9GTnljLTlTeEswdmQwbXo3RUUyWnpsVkU5TDdhZ0JqQ0lzeUI3MW5yR1g1eFNnaFpsUGhUMk1hQzdDazV5VmhjUFBITWQ5SjJCa1NB?oc=5",
+        "date": "11/14 00:52"
       }
     ],
     "VRT": [
       {
         "type": "neutral",
-        "title": "Vertiv Holdings Co (VRT) Built An AI Infrastructure Test Lab Ahead Of New Chips",
+        "title": "Vertiv Holdings, LLC (VRT) Stock Forecasts",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMW9kaWxON1hkaEk5NTROUGRlWWt3bmN6aWczdTItU3B5MUp0WmVyZFVoQ1pLODdUelhNM0ktLUFSS1V0WGpTNTNZVFpPX3VaallGVkJMZmpRNmdmMllSZ0hZcWhuWjVMcFV3c3NBNnpDbjktcWJNbUphTFQ2QlJhLTBfbVE0VVdVcXB5akdHN2o4VkRsalVZ?oc=5",
-        "date": "11/18 00:12"
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWlpMRngzT29IdnFOMlF4WFN3ZXRfUE1SNVo4a25iYmZ1aE5JRTVDQVpFQ1lpMVY0SFl4azIzS3ZBZEt6RGMwSlB2R1ZTWlgyMDlPV1IwU0RGSExiazdSLW1QUFk0VF8xbm50Qm94M0Z0aUh5S2RWMDVBczdvVjVSRUNoMVlFdDJHbHBMcw?oc=5",
+        "date": "11/18 14:24"
       },
       {
         "type": "negative",
@@ -1045,10 +1048,10 @@
       },
       {
         "type": "neutral",
-        "title": "Why Vertiv’s Big AI Data Center Power Breakthrough Couldn’t Save the Stock Today",
-        "publisher": "Barron's",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRFpmbUxqdnpWYVN1N2xudExRaVdDN3NWWmt5UTl3N212dkV6X29iX2VOdXFod2swLXhaWUVPaXpfclpUYjRWbVZQY2xiOHBuWU40eW5ueXI5U2lRWFJGZnd6MzVrb2hoRk8xNEphcHJDRFJEOHdvYTIwTDVySE1veWYyUzN4aUdoZE1zUnMzVQ?oc=5",
-        "date": "11/18 03:08"
+        "title": "Vertiv Holdings Co (VRT) Built An AI Infrastructure Test Lab Ahead Of New Chips",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMW9kaWxON1hkaEk5NTROUGRlWWt3bmN6aWczdTItU3B5MUp0WmVyZFVoQ1pLODdUelhNM0ktLUFSS1V0WGpTNTNZVFpPX3VaallGVkJMZmpRNmdmMllSZ0hZcWhuWjVMcFV3c3NBNnpDbjktcWJNbUphTFQ2QlJhLTBfbVE0VVdVcXB5akdHN2o4VkRsalVZ?oc=5",
+        "date": "11/18 00:12"
       }
     ]
   }
