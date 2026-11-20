@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T23:41:36.903709+00:00",
+  "updatedAt": "2026-11-20T04:52:13.706605+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1333.67,
-        "change": 0.05
+        "value": 1337.21,
+        "change": 0.51
       },
       {
         "name": "KOSPI",
-        "value": 5067.44,
-        "change": 1.99
+        "value": 4874.22,
+        "change": -5.13
       },
       {
         "name": "KOSDAQ",
-        "value": 662.81,
-        "change": 1.96
+        "value": 652.49,
+        "change": -1.56
       }
     ],
     "groups": [
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1413.58,
               1389.4,
               1390.79,
               1384.98,
@@ -683,7 +682,8 @@
               1333.25,
               1335.67,
               1333.01,
-              1333.67
+              1330.4,
+              1337.21
             ]
           }
         ]
@@ -691,7 +691,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "08/19",
           "08/20",
           "08/21",
           "08/24",
@@ -752,13 +751,14 @@
           "11/13",
           "11/16",
           "11/17",
-          "11/18"
+          "11/18",
+          "11/19",
+          "11/20"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              6471.17,
               6852.58,
               6912.95,
               6696.96,
@@ -819,13 +819,14 @@
               5290.53,
               5100.5,
               4968.48,
-              5067.44
+              5067.44,
+              5137.89,
+              4874.22
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              824.46,
               840.89,
               801.94,
               813.33,
@@ -886,7 +887,8 @@
               699.66,
               665.65,
               650.06,
-              662.81
+              662.81,
+              652.49
             ]
           }
         ]
@@ -895,10 +897,10 @@
   },
   "rsi": {
     "AVGO": 55.5,
-    "BE": 39.8,
+    "BE": 36.3,
     "GOOGL": 44.5,
     "QCOM": 48.0,
-    "VRT": 35.2
+    "VRT": 34.4
   },
   "news": {
     "AVGO": [
@@ -925,10 +927,10 @@
       },
       {
         "type": "neutral",
-        "title": "Why Broadcom Stock Took a Wild Ride on Thursday",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPck1ZSTBSV013X2hGUm1XaHZ6Q3BmcXdsTUt2U3FJTF81Y0JkakNPVU9mYmZKX3NlWnVYZWxMaWxUNngwcjFmMkhJYTRvWS1zV1R0Y0ZoQmNGcmljX3FWcmRsRUNjdElQNjVSbFNiWjkwLVNKb254WmZnMHEtbzU2emYzbzdRUGdidkh4c2NsS2ZjRDJL?oc=5",
-        "date": "11/20 04:41"
+        "title": "One AI Catalyst Could Change This Stock’s Entire 2030 Forecast",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVpTenhmTW1Nc1FTM0dTd1J2WFZTMWFFZkw0WTlwcW1oX2hqV0lOS21QbjNYdmgzU09vSXlTYnEzcjN3R3BlZ1JKX0xobEFfMzRPSndsdUZiSGozQ0JjMEdlSFdPTHdSYjEyV3pHT1Z6TjFPSHpCbnZiaTNKcURISXJFZ2FTaUFNYjNMcWlyMXVOOG1RZzNkejZ5bF82VGRSdVVWNHpvcy0?oc=5",
+        "date": "11/19 23:03"
       }
     ],
     "BE": [
@@ -940,18 +942,18 @@
         "date": "11/18 13:22"
       },
       {
-        "type": "neutral",
-        "title": "Why Is Bloom Energy Stock Surging Thursday?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0txZ252TGZXNW9ReG5ZdzlxamFicm5pX2RRRkVqR3c0QV9QV0VoTlk3cTMwQ2ExQ3RaUzd2Q19TX2Ffbzl4TnNUOW9vWUxaOEZDOEJlOVpXQ3FaTmIxSVJDeXlHQ19YTDEzQWl3aV9QR0F2LXJ0bG0tNzVrbkh1R3plNEhWQy14ZEdydEE4MU9vMGhmd3NJZ0ctZGRaMm9Lb2RDUWd3?oc=5",
-        "date": "11/19 21:15"
-      },
-      {
         "type": "negative",
         "title": "How Low Could Bloom Energy Stock Go From Here?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnh5YXRfVFhvNjFjQmZFbUxhTnc5NEZrcEtlUGJBTGNLRjZVdjMxTUhybkl1S0ptMld0V0tEZ3RiMVFDQkR3enJSeXhDOHlHalFKUmZvSkk2RVkzWDgyVEo0T1FrcHNudDBfUWNLb0hRLS1wX2dzdVJWSFROb0JUelEzMVF6MjFJRnRNU1VieHAzUGpKZ2ZsS2pXdEF3bTBLS0RiZGI0RQ?oc=5",
         "date": "11/17 19:06"
+      },
+      {
+        "type": "neutral",
+        "title": "Why Is Bloom Energy Stock Surging Thursday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0txZ252TGZXNW9ReG5ZdzlxamFicm5pX2RRRkVqR3c0QV9QV0VoTlk3cTMwQ2ExQ3RaUzd2Q19TX2Ffbzl4TnNUOW9vWUxaOEZDOEJlOVpXQ3FaTmIxSVJDeXlHQ19YTDEzQWl3aV9QR0F2LXJ0bG0tNzVrbkh1R3plNEhWQy14ZEdydEE4MU9vMGhmd3NJZ0ctZGRaMm9Lb2RDUWd3?oc=5",
+        "date": "11/19 21:15"
       },
       {
         "type": "neutral",
@@ -963,13 +965,6 @@
     ],
     "GOOGL": [
       {
-        "type": "neutral",
-        "title": "Billionaires Walk Away From Alphabet in Q3 - Hedge Funds Google ‘How to Sell’ and Hit Enter",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXZTZTloS1R1S25oYk4zWmlNLWZQT1Zudi1hYl9rUEVpSU0wbjFCQW5xSEpoNTQxam9nVDBxQVN5ZUpnbWQtUkRPaHBhaFdtMmZ4bzR2aHNlWVpWRmV4VGVBMGxRaEdaZmFaSXIwdllMU1hlVDRMZjBNNDZzbEN0YmNJNl93UHhZQWVWVDJ2aS0ySjVWMzczQlFrNVVlUQ?oc=5",
-        "date": "11/19 01:31"
-      },
-      {
         "type": "positive",
         "title": "Alphabet Stock Is Jumping. 2 Reasons the Comeback Starts Now.",
         "publisher": "Barron's",
@@ -977,11 +972,11 @@
         "date": "11/20 00:09"
       },
       {
-        "type": "positive",
-        "title": "Why Isn’t Alphabet Stock Taking Off After Reporting Record Cloud Growth?",
+        "type": "neutral",
+        "title": "Alphabet (GOOGL) Stock Could Be 47% Undervalued As AI Spending Fears Bite",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNczRFYUN1ZC01a2hTT29CdmNSSFZFeVBKdW11Sm9FTEZWa0l5UC11emJGcWZSNExwSlBZcFc1ZmU4V0JUVHRJZmhsSXB2cDhncV9QckVuMF94T0F4a2UxeDBXMW9qSXkzU2QwdUhJNnBvWEtzUjFlUmlzWjUzeFBMUW1rRXdDN2lSR3N6RnA0MGtGSG8?oc=5",
-        "date": "11/19 05:07"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1ZWV245S1M1R2I2RVIyNHprYlZwcGN1eGlRWE9ZNTJYd0Q3V2xyb0FFZWdNcFRhVHVPVUtKdEdrYmd4bDlNbkRkdTNFazJLUU1wS0g1WlVFd3U3YU1pbkl4R09QVmFkVEZYMTNjU1FJbnU0bGY5Mk9zNWxFcWV2Y0h1aDF1aGlnYjBmNk53LU5TaHVwdTBmRjd3?oc=5",
+        "date": "11/19 12:27"
       },
       {
         "type": "neutral",
@@ -989,6 +984,43 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzhJZS01TjVTR1hTOUs5TTVxYzcwT1hOZ2xvV1ZMczBtTGpyRHVVaFFadG9mLUxPN1NGSW9sSl8xNHZDeWdUVFdheVZiQktxMXQ0bThsU2lpSjdUU0VUM1lHTTl0ZGFEVGp1LU1RcUtuTkZBcWR5SERfR2pIMUxCSWVScnc2cXZ6el9uQWdXaG4wdC1mUUluUmxGdmt4R0JTOTVhMlVR?oc=5",
         "date": "11/20 01:30"
+      },
+      {
+        "type": "neutral",
+        "title": "Billionaires Walk Away From Alphabet in Q3 - Hedge Funds Google ‘How to Sell’ and Hit Enter",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXZTZTloS1R1S25oYk4zWmlNLWZQT1Zudi1hYl9rUEVpSU0wbjFCQW5xSEpoNTQxam9nVDBxQVN5ZUpnbWQtUkRPaHBhaFdtMmZ4bzR2aHNlWVpWRmV4VGVBMGxRaEdaZmFaSXIwdllMU1hlVDRMZjBNNDZzbEN0YmNJNl93UHhZQWVWVDJ2aS0ySjVWMzczQlFrNVVlUQ?oc=5",
+        "date": "11/19 01:31"
+      }
+    ],
+    "QCOM": [
+      {
+        "type": "negative",
+        "title": "Qualcomm (QCOM) Stock May Be Below Fair Value After AI Revenue Targets",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV1M0Y1JxQ1gxVzdreUN5U0pfN3ZwNUlZeHFidWdZampuQkY1blJva1dmb29fRk5SM3FQQm42Z2VSd1p6UlZ1a2xveDRhYWFKeWxINU41N0JPdWlHN1pock9uVzdKdmNDbldVX3Y2Z3FfSW9uN3UweWxRMV9KbXRlSGVjbXpBZFd1eWxfTG1za2ZKTThqdjN2SzN3?oc=5",
+        "date": "11/19 17:10"
+      },
+      {
+        "type": "neutral",
+        "title": "What's Going On With Qualcomm Stock Thursday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSkR0WlhUdktFajZ1T3RSSjlrNkhTNVlRLWJLYTVqSjQzUDF0ekFjR19LaVd5WWRUb09YcmJNaXNCUEJVckliLWtiRGk2ZV9zQmRxblJCZU5NOXgtT1J6dFItY2Q5czlFTWJ4dGlWZ1A4a204bmdYUXhkelVvNDk3Q2dMWEZRWHd4bWpzdkhWWTJadHhCdm5vZnZPeFd6UTQ?oc=5",
+        "date": "11/20 01:09"
+      },
+      {
+        "type": "positive",
+        "title": "Can Qualcomm Stock Jump 40%?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXh4el9tUjZtUDBVQkhiVkhHWVFxVF9ybWtKREdWc2NxZ0hQNFNnUkdQOVVBbUVQMzVSVERCMkM2TUZ3aUNOTWZSYnp1S2pMdGVsYzVjLTRuc0tOcFYyOWVLUmJ2bTl6TGNKOXdadHFIYnc1LTN5c0ViQ0wxNzltSGdaelY0NmVtb1JEV1dodEs?oc=5",
+        "date": "11/17 20:41"
+      },
+      {
+        "type": "negative",
+        "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdnBhYm1hakZ1aldQNm80ZGNKSmUtY1JqWHVZem5QZE1DVE00UmZfeldSNWJ6b0FOekhBQzlPbWJPRC0zclJQMGVxaWFiOGtSWWxGSVUzVXl3RU9lLWJNN3kxR19iZEpQV2NjM2F4aTFiWkg4bzhoRF9mQzJjZzDSAYQBQVVfeXFMT19QY1RERExyM2ZhYTBmU1hLNXJhWlo2UEJmMGEyR0lIVzVfQWFGcWRLMmtaSk5lM2N6N3N6NUh4TW9HN3FtUENWdWtleTFFVzVWN01EODExQUlXMXdXcTlnckEwcXA3S2tZSVFVM2lqNGtrR285NXVzLXYyaWRycXF1TnV1?oc=5",
+        "date": "11/04 17:00"
       }
     ],
     "VRT": [
