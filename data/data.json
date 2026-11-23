@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T23:19:54.564552+00:00",
+  "updatedAt": "2026-11-23T03:51:14.746792+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1345.68,
-        "change": 0.82
+        "value": 1348.78,
+        "change": 1.05
       },
       {
         "name": "KOSPI",
-        "value": 4869.96,
-        "change": -5.21
+        "value": 4676.65,
+        "change": -3.97
       },
       {
         "name": "KOSDAQ",
-        "value": 645.68,
-        "change": -5.71
+        "value": 631.42,
+        "change": -2.21
       }
     ],
     "groups": [
@@ -329,7 +329,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "08/20",
           "08/21",
           "08/24",
           "08/25",
@@ -341,7 +340,6 @@
           "09/02",
           "09/03",
           "09/04",
-          "09/07",
           "09/08",
           "09/09",
           "09/10",
@@ -401,7 +399,6 @@
           {
             "name": "공포지수 VIX",
             "data": [
-              16.01,
               15.13,
               15.85,
               15.45,
@@ -413,7 +410,6 @@
               15.2,
               14.32,
               14.53,
-              15.3,
               15.72,
               16.46,
               17.84,
@@ -617,7 +613,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1390.79,
               1384.98,
               1380.76,
               1381.49,
@@ -683,7 +678,7 @@
               1333.01,
               1330.4,
               1334.79,
-              1345.68
+              1348.78
             ]
           }
         ]
@@ -691,8 +686,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "08/20",
-          "08/21",
           "08/24",
           "08/25",
           "08/26",
@@ -753,14 +746,13 @@
           "11/17",
           "11/18",
           "11/19",
-          "11/20"
+          "11/20",
+          "11/23"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              6852.58,
-              6912.95,
               6696.96,
               6742.74,
               6808.21,
@@ -821,14 +813,13 @@
               4968.48,
               5067.44,
               5137.89,
-              4869.96
+              4869.96,
+              4676.65
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              840.89,
-              801.94,
               813.33,
               827.15,
               826.87,
@@ -889,7 +880,8 @@
               650.06,
               662.81,
               684.81,
-              645.68
+              645.68,
+              631.42
             ]
           }
         ]
@@ -904,36 +896,6 @@
     "VRT": 33.1
   },
   "news": {
-    "AVGO": [
-      {
-        "type": "negative",
-        "title": "Broadcom Stock Plunges 12% and Loses $191 Billion After a Report That Google Cut Its Plans for Broadcom AI Chips",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXk3QlQ5N3lvZVU3b3czRFo4bjlaMXF1aGpsRlRXb3pocTZjQzE2Ukk5b09mYXZCS2Fzd21tc0VFc3BReUwxYTNDXzZmaDF5NERNMldkRVFzUUpqcUIydW1xakxvb0xsOXd1alJnbkh6bTh3RC1BdjdVdjUwNjAwQnV5M1hfVkc5aEhuV1k5akdCc1ZUSjI0T2FVSm8?oc=5",
-        "date": "11/21 04:13"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom sinks 12% as Google trims 2027 TPU orders, tech stocks drop (AVGO:NASDAQ)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWF5NzJzdFdvXzZhdmg3cjhhWng1Rnk4WmQtQVZfZTVLaDVjaDV6QXBoX1N2cEdRUnFXWmlmZjJwRUhzc2wyZkhxZkhpamxaelN0R2xSdXNwSFgtMTFxU0RLWjJBblhHWlNiZ1BmNUpnbG0tSzV5aFZOVC03Z1JqcWVQZmVMQ2VKM2V3RzNFYjhyLXNtUTdoS1JXR21raUh2RHBXbnI2QQ?oc=5",
-        "date": "11/21 06:25"
-      },
-      {
-        "type": "negative",
-        "title": "Broadcom Stock Plunges Over 11% As Semiconductor Selloff Hits Tech Giants",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTRLUzJxY1M1Z3FxejVaU1l6WGp3WkVwV1Y3bm52QUNTa0g1YVFFMGloNndSQ0hwbkxWNnA1a2E0MU4zWFZiNTRiZ0EwcDNrSjJvNDNYVVpabFctY0w4M2tYTF9NYl9kN1JoTXNHTnVBMmhCTkltNlRhbXRLUEdTWGtzWEV0UjZVcmZONUhIMFQxSGo2eDIwaXVfZ3BjcE4xaHhvRGlZZEdCbWFMdWdJQmVWRnF0RjNrMDVHNWJ0eV9CY0U?oc=5",
-        "date": "11/21 02:37"
-      },
-      {
-        "type": "neutral",
-        "title": "Why It’s Time to Buy the Pullback in Broadcom Stock",
-        "publisher": "Barchart.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVJpeFV5WGM4Q1d1dDBER29MX3RUOFlQRE1zZkpkbnM0eW9ZYzU3UlhCTkMxY0hLb3RHZEduZUptS0tITHZSaFd6Um9NWTJ3UkFRcDNQVXdrUWFiLWl5Rk1TYmNVT3oxckxROEp0Mlc5TEY0RDBRcWpFZ3V6dHRvYS0tRkNKV0poc1pKV3M1WjJDMExRQzI5SXNn?oc=5",
-        "date": "11/22 06:30"
-      }
-    ],
     "BE": [
       {
         "type": "neutral",
@@ -944,24 +906,24 @@
       },
       {
         "type": "negative",
-        "title": "7 Red Days In A Row: Bloom Energy Stock Is Down 32%",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmNDcUY3OTNyd3JjSzRkcnJlVkpiWlNyNVRvQzVqS0hNT29VWmFhU0RCVTR0dWl6eTlPUmh6Unp6U0dJcWVZanJtVmEtYkJ0c2ZJcWg3TldQZUFoT0JsdEQ0bHVoRUlDVGpLazBTOXRJT2FJaUZTbzBjczVwMl9ZWUd5ZDBnNjNIRUUwRi01MGZFSFZFZXNRTVBjTVRVSWNLeGdscG5abGVvNDFT?oc=5",
-        "date": "11/21 18:05"
-      },
-      {
-        "type": "negative",
         "title": "Bloom Energy Stock Has Crashed Nearly 60%. Is It a Once-in-a-Decade Opportunity at $145, or Should You Keep Waiting for a Bigger Drop?",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQb0w5NEw4UW1hdEdhX1RfNEVFTXp2UEduV3B4ZmlUdkVnTVp6dW9vY2llQjZJVFN6TmpxdFNCUXlua0hpc05oQzZYdzljbkk5RklTN21WVUFwX2U4UjR2SDREUWF2Y1BzMVlIckpnNmRla1BVU1REYkJacTF2LVdfNUNoUTdJTnRTeHgwWEpjaUpWYXh1WmhMRGJqaENydExVc2duZWM2bkdPcGxZM3dkN2Y3NlRtZzZLcWZtVkFveXZoOGgxcEZkTGxmRUdneVlGMmpVRi1GWUktSFhnMDJOZWgteHhPSXBpUTZNcXNzeEpuMmxXb19HRXZlQkQ5a2dzdHZmcV93?oc=5",
         "date": "11/22 23:16"
       },
       {
-        "type": "positive",
-        "title": "Bloom Energy Is Down 25% in a Month as BMO Upgrades to Outperform, Trims Target to $230: What's Next for BE Stock?",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQkJVOFduQUFMYXNuRk5nVHhtU2VfVjF5eVNvV2h1VXQyeXQwOFoxVnMtbGNaNW5PS2lKRW9acXlTLU5UdTVlRlZ1MjVKaHp4ZzZvUFV1TlFETDQxQWpod1FlOEtkRHVBZFd1eWNEZERPTXE1ZFdGdGtiMmFyam1MSGRpZ1l4SjZodkwwVklqQ2lEVTFaNnpGWDd1ZlI5UU01aUk2N2wzd0NJbHdQWkxRV0NnbmdnVlFuNnlMWFEzUm4xM3k4c0lJaFRDcG1lNjZxN2NESXFqTXFOYnp1WmdTX0U3TkkteWs?oc=5",
-        "date": "11/20 02:09"
+        "type": "negative",
+        "title": "7 Red Days In A Row: Bloom Energy Stock Is Down 32%",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmNDcUY3OTNyd3JjSzRkcnJlVkpiWlNyNVRvQzVqS0hNT29VWmFhU0RCVTR0dWl6eTlPUmh6Unp6U0dJcWVZanJtVmEtYkJ0c2ZJcWg3TldQZUFoT0JsdEQ0bHVoRUlDVGpLazBTOXRJT2FJaUZTbzBjczVwMl9ZWUd5ZDBnNjNIRUUwRi01MGZFSFZFZXNRTVBjTVRVSWNLeGdscG5abGVvNDFT?oc=5",
+        "date": "11/21 18:05"
+      },
+      {
+        "type": "neutral",
+        "title": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Can Be a Winner.",
+        "publisher": "Barron's",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmpOMXJzMGNocjdPcFdMSUl6aGwzaDZzOWUxVXBFeTRaQVRFM2ZYZGZYYmV2Vl9INFowdG85bU50UUpNUF9BRVZ0Z3d6VkM1b0pWdHVyMXYwUEZlaGhQUW1sT282TUhsNEVadXljV0VaZzljd2tmQkVIa280UGNLYUhNQm9na3dvWWhWWjg1d0RlTWZ0V2FwMG1R?oc=5",
+        "date": "11/04 17:00"
       }
     ],
     "GOOGL": [
@@ -988,26 +950,19 @@
       },
       {
         "type": "positive",
-        "title": "U.S. Stock Market Movement | Google (GOOGL.US) Gains Over 2% as HBM Procurement Adjustments Save Approximately $50 Billion",
-        "publisher": "Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN21mUVZQcTU0T21EelJpMDFBdGI0YW9UYU1OcWxzVVhpUHFsbUV4U0xoX3cwV1l3VU9XbWZGMUxuWnhUcFRZbVZrSXRFdXJKT1RXUGRaMjNsaUc3XzlVcGVYTkNKcE12NHdPcjJEMWwtTWRVNGZ6Nndma0VnNHFiTDRLbko2UmV4Y2ZMQjdJcTFUVWROY0JvTjJPLWg4WWhp?oc=5",
-        "date": "11/21 00:34"
+        "title": "Alphabet: A 30% Decline From All-Time High Is Probably Not Enough",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOalhXYnVhM1VkOUVHWjR5VFZRRkRTVjl5bzBIUHJWc2VVOXotWWk3a2RWYlYtSDFBWmh1bnh0bmU3bTR5NjVIVzFRV1M3Q0VJZnVjQjZHRUYwWGZtVC0xa3RFa0VuZHl0Mk01OVpUblZaUjh4eVNVd3JrMTFvaHp4eVlyWENrSmliSjhqQ2YwM0FIUUR3Vm5YX1Q3Q09HdGh3c3NMYi0tek8yRmpuQlVqSXl3aWY3OFRVZDB4TA?oc=5",
+        "date": "11/20 19:57"
       }
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
-        "date": "11/22 04:42"
-      },
-      {
-        "type": "neutral",
-        "title": "QCOM Stock Quote Price and Forecast",
-        "publisher": "CNN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52VnR0d3VPWXJhalFveVBJNVU1VlRpQk0wQTNxVTFmLWhmc1NrUXhaeWVoUWQ4ZktCYWJtOUhKWi1sNUVvOWZrbGRGT2RVeDlY?oc=5",
-        "date": "11/21 08:12"
+        "type": "negative",
+        "title": "Qualcomm (QCOM) Stock May Be Below Fair Value After AI Revenue Targets",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV1M0Y1JxQ1gxVzdreUN5U0pfN3ZwNUlZeHFidWdZampuQkY1blJva1dmb29fRk5SM3FQQm42Z2VSd1p6UlZ1a2xveDRhYWFKeWxINU41N0JPdWlHN1pock9uVzdKdmNDbldVX3Y2Z3FfSW9uN3UweWxRMV9KbXRlSGVjbXpBZFd1eWxfTG1za2ZKTThqdjN2SzN3?oc=5",
+        "date": "11/19 17:10"
       },
       {
         "type": "positive",
@@ -1022,6 +977,13 @@
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSkR0WlhUdktFajZ1T3RSSjlrNkhTNVlRLWJLYTVqSjQzUDF0ekFjR19LaVd5WWRUb09YcmJNaXNCUEJVckliLWtiRGk2ZV9zQmRxblJCZU5NOXgtT1J6dFItY2Q5czlFTWJ4dGlWZ1A4a204bmdYUXhkelVvNDk3Q2dMWEZRWHd4bWpzdkhWWTJadHhCdm5vZnZPeFd6UTQ?oc=5",
         "date": "11/20 01:09"
+      },
+      {
+        "type": "negative",
+        "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+        "publisher": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdnBhYm1hakZ1aldQNm80ZGNKSmUtY1JqWHVZem5QZE1DVE00UmZfeldSNWJ6b0FOekhBQzlPbWJPRC0zclJQMGVxaWFiOGtSWWxGSVUzVXl3RU9lLWJNN3kxR19iZEpQV2NjM2F4aTFiWkg4bzhoRF9mQzJjZzDSAYQBQVVfeXFMT19QY1RERExyM2ZhYTBmU1hLNXJhWlo2UEJmMGEyR0lIVzVfQWFGcWRLMmtaSk5lM2N6N3N6NUh4TW9HN3FtUENWdWtleTFFVzVWN01EODExQUlXMXdXcTlnckEwcXA3S2tZSVFVM2lqNGtrR285NXVzLXYyaWRycXF1TnV1?oc=5",
+        "date": "11/04 17:00"
       }
     ],
     "VRT": [
