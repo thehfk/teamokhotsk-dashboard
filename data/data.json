@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T01:22:35.627944+00:00",
+  "updatedAt": "2026-11-24T11:13:43.589287+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 26.62,
-        "change": -25.83
+        "value": 28.65,
+        "change": 7.63
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1345.99,
-        "change": 0.12
+        "value": 1342.52,
+        "change": -0.13
       },
       {
         "name": "KOSPI",
-        "value": 5036.94,
-        "change": 3.43
+        "value": 5006.03,
+        "change": 6.32
       },
       {
         "name": "KOSDAQ",
-        "value": 668.95,
-        "change": 3.6
+        "value": 665.88,
+        "change": 4.79
       }
     ],
     "groups": [
@@ -394,7 +394,8 @@
           "11/18",
           "11/19",
           "11/20",
-          "11/23"
+          "11/23",
+          "11/24"
         ],
         "series": [
           {
@@ -465,7 +466,8 @@
               24.56,
               28.44,
               35.89,
-              26.62
+              26.62,
+              28.65
             ]
           }
         ]
@@ -679,7 +681,7 @@
               1330.4,
               1334.79,
               1344.31,
-              1345.99
+              1342.52
             ]
           }
         ]
@@ -748,6 +750,7 @@
           "11/18",
           "11/19",
           "11/20",
+          "11/23",
           "11/24"
         ],
         "series": [
@@ -815,7 +818,8 @@
               5067.44,
               5137.89,
               4869.96,
-              5036.94
+              4708.54,
+              5006.03
             ]
           },
           {
@@ -882,7 +886,8 @@
               662.81,
               684.81,
               645.68,
-              668.95
+              635.45,
+              665.88
             ]
           }
         ]
@@ -890,27 +895,27 @@
     ]
   },
   "rsi": {
-    "AVGO": 46.0,
-    "BE": 35.8,
-    "GOOGL": 40.5,
-    "QCOM": 42.4,
-    "VRT": 33.1
+    "AVGO": 45.8,
+    "BE": 38.4,
+    "GOOGL": 51.2,
+    "QCOM": 50.5,
+    "VRT": 36.2
   },
   "news": {
     "AVGO": [
-      {
-        "type": "positive",
-        "title": "Broadcom Inc Stock (AVGO) Closed Up by 3.00% on Nov 23: Drivers Behind the Movement",
-        "publisher": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFRZSk11VFhuWVNEbEJxdVU4VU1pM0drOEw1U1o3OVF6aWlpT0hLQWdYR1JxSXcwd0RtVmpGaXpBa2VXbmlTdEgtUGpncm9wSGN6bnl6TDF6VkFGUVRJTzQ3SHNZSFVsMHJXUVF1aXVfejkzUTlxeHZqUXliVFZsaGhRUldfZUlKVHhV?oc=5",
-        "date": "11/24 06:16"
-      },
       {
         "type": "negative",
         "title": "Broadcom (AVGO) Faces Reported AI Chip Order Cut From A Major Customer",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNam9zYmNqUncyd2Y0XzJwNXppbm02NmRPaE5SS0VwVFlScmFLRGQwTjBJQlhuTnIySk15SWVKRmxuaGNwRWk2UGdmN08xenBpbDVqeXRJSWpVdi0wVkMzVDdMZWdvcERCb3FmdHN4VWZHVlE1VnFzY01idlVQNVhHR29BQkFvbkdIRHI4RGhLeUR6UkdXR3NqeUtlQQ?oc=5",
         "date": "11/23 00:08"
+      },
+      {
+        "type": "positive",
+        "title": "Broadcom Stock Rises After Jensen Huang's Reinstatement to Nvidia's Board",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGdjNFFEX09IcTVZdldhOG1HVG9zNER4dGtWZy1sRHNmNzNvWGNpanFUbExMTTl2eWpSR1hxcHZLUE9vZXpzRC10TGo2eVdSSHpoZXJ0MDVEX1NrdTQxemNiUVdOX3I4SUhSQ1FjelRuZWR4OGdyQ2ZRdGVlVndsSUpmNVJqdEpaUS1TaFZNcFZnWDJoS2pnOFIxTkk3OWdwX2RESUFrTWdIeXFreW1EbFprdlllN1RSUlJhbjF0cW9fSUx5S1hpcjFfVEg?oc=5",
+        "date": "11/24 02:32"
       },
       {
         "type": "positive",
@@ -929,35 +934,42 @@
     ],
     "BE": [
       {
+        "type": "positive",
+        "title": "BE Stock Clocks Best Gains In Nearly 5 Months: Bloom Energy Bears Dominate Sentiment But Bulls Smell A Comeback: ‘AI Buildout Is Only 15%’",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORWg1blk4cHo4TWZrVGR2Z3FUeFl1YjdKSGF0ekFoMWVpOTkwWlhBU2FYR24tZWpsdjBUZnU3NklfczNLeng3VjI4YjFQbGJyMFRwVVg2d3RRNHB6eDF5RWM0U3pyeVVSTGVsRThsUFhZaHZ6QXNXZU40SzBEOFBZY0p6emdKb1o0VEJ0WEtoTXNPLVZ3LVR4ek5rUQ?oc=5",
+        "date": "11/24 12:31"
+      },
+      {
+        "type": "positive",
+        "title": "BE Stock Clocks Best Gains In Nearly 5 Months: Bloom Energy Bears Dominate Sentiment But Bulls Smell A Comeback: ‘AI Buildout Is Only 15%’",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQckhKSjhsNTIzQTYxUWV6NkJ6Y3FyZnBVVGdoRmctdWo2LUpYMkh1YjVpX0E4ZGtTWExzSkZ6OGxMT0k3Y3NRVFFGMDBzaktxc2UwWTdmQUJvMktPbjZMVnFHVlh0YTl5dzNRaFA5VGF4WS1QWTlfenpKa2xsS1otQnd0dERpczJEVUtMSHlvVms4enV6cFlidHh6R1JHckFsR0FhNVFBUkNIb1M4eGNMYkttUXd4T0Q5X0ZKSXYyRkdLOFV4MGNqdG1ZWEhFRlVHNW1UUV9JRUdaSWlsbzNBaUxKMHl1TWFORmpKQUJSWFg3a1lhMU5MN2l5eTdiWXlWbWtCM0V3UVg2Y0ZlUkVyX0xJWFowUm1BWXpPczVHcw?oc=5",
+        "date": "11/24 12:03"
+      },
+      {
+        "type": "positive",
+        "title": "Why Bloom Energy (BE) Stock Is Up Today",
+        "publisher": "Quiver Quantitative",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3d2dEMxemdJQkhLS1VIUVNaSFozamxpSjF2S0ppQXVVbWw2MVFUUTlxOXYzd3Q4ZW1zZDVuTzFaQ0ItclRNYW9SQjFvdmNDdmZvYjE0Rm91c1l5Q25kNnhZeFc0cGx0YWRiSlB3Q1lRNXJBc05ERnF0SXhTU3FmdnpB?oc=5",
+        "date": "11/24 03:31"
+      },
+      {
         "type": "neutral",
         "title": "What Moved Bloom Energy Stock?",
         "publisher": "Trefis",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0JHUVJzbWVjWkhOWmRMTGJuRl9acDlHdU0xY3hmNmhQUVVINGEtNUo4U3NnS1FrX1l2cEZlTG12OUFreDg1dU1xOHB1NGFUYlJBR2tFRFdlQXl5dU8yTHRiNXRzbVAwY21pekRmOWYtRkNfeExfYTM5N3gzU1dLeXAtUlJUR0N1U2tkaWhKaXFTZw?oc=5",
         "date": "11/23 16:05"
-      },
-      {
-        "type": "neutral",
-        "title": "Bloom Energy Stock In Focus After California Power Deal",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTU9kNVVlVXptUUhLQ1BxX2ZuTVdTTGY3NVN6bDF4Q0VpOGF1Uzl0T0h1ZnhEZ0Rfc0hpdUtoVVZGYlBnX1NJOFJ2UFM5OXNSblhicVh5RVR4ZHdrRUtiY1hJSEhaNGhhb2ZkNHpMYmEzWktfQ0hIN192bWxxeHlmTEkyb0Rrc1ZMWThudzR0OWZUOUdUMjQxa19JRDVjNDFhcFE?oc=5",
-        "date": "11/04 17:00"
-      },
-      {
-        "type": "negative",
-        "title": "Bloom Energy Stock Has Crashed Nearly 60%. Is It a Once-in-a-Decade Opportunity at $145, or Should You Keep Waiting for a Bigger Drop?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQb0w5NEw4UW1hdEdhX1RfNEVFTXp2UEduV3B4ZmlUdkVnTVp6dW9vY2llQjZJVFN6TmpxdFNCUXlua0hpc05oQzZYdzljbkk5RklTN21WVUFwX2U4UjR2SDREUWF2Y1BzMVlIckpnNmRla1BVU1REYkJacTF2LVdfNUNoUTdJTnRTeHgwWEpjaUpWYXh1WmhMRGJqaENydExVc2duZWM2bkdPcGxZM3dkN2Y3NlRtZzZLcWZtVkFveXZoOGgxcEZkTGxmRUdneVlGMmpVRi1GWUktSFhnMDJOZWgteHhPSXBpUTZNcXNzeEpuMmxXb19HRXZlQkQ5a2dzdHZmcV93?oc=5",
-        "date": "11/22 23:16"
-      },
-      {
-        "type": "positive",
-        "title": "Bloom Energy leads industrial stocks higher as Huang’s Nvidia return fuels AI rally (BE:NYSE)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdm4zMW5NeDQzbHdVQU1EUXRPNEw1WHJuenNNdWZUT2Q2MGtJRnBTUDhaQTlwZ01FME5URzZYbWhKSGdTcDJ4TXc0ZnVETDdOSHd0dU1TNjJ2MW95bFVEVkU0a3BKbzk2dmJ6Um9SMjk2OVc1WmlxRnU0ekwtZ216OFJXaUpSYVhuS2RrZ2pENTVEVzI3WEJFaW1xUElJVUVSZ0pwOUVVMzZFY2xYSXBHSHZlYmY4bzdKNzV0bUhR?oc=5",
-        "date": "11/24 00:28"
       }
     ],
     "GOOGL": [
+      {
+        "type": "neutral",
+        "title": "GOOGL Stock Quote Price and Forecast",
+        "publisher": "CNN",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UbkhMMngyaG5RbUxmS1ZGOGtMZGpWMi1GZWM4TGdVUV9kT0wwRjhITEVWVERVZnY4ekZhU0lFbWtMNWhjZGpJdm1iek5wS0lrZUE?oc=5",
+        "date": "11/21 17:01"
+      },
       {
         "type": "neutral",
         "title": "Alphabet (GOOGL) Stock Gets Fair Value Trim As Analysts Weigh AI Spending And Monetization",
@@ -967,40 +979,33 @@
       },
       {
         "type": "neutral",
+        "title": "Alphabet Vs Meta: Which Stock Is The Better Buy?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb3RxakNEejI1NUwtVDNCenVSQjV5X2VqUU5PdU1PVzJnVmxIdVl1RUdQOXFwSTJrbXlrclNfNmhsRnFOOG5DSnFOaWJHcmxlU0NfbVo2QUN6YjI5Q3Bjb2RQdk1QNGRnWF90bHVnanlvZWptT2RmVkN0SW5JX2xpQWJvd3hIVkRKX0FtU3BFalZXQ0NnaXFsUWVEbkFvNmZqa0hnSjZsc0dXYmd3?oc=5",
+        "date": "11/24 18:06"
+      },
+      {
+        "type": "neutral",
         "title": "Alphabet Stock Pops: What's Going On?",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1RxLWU5d3g3QTUxMk1LUm5fRjhnYlJ6UnVVb2VMVmtOemZFU0RGUjBaQVpwYkUwa052R0pFUFZReE00RWRxdjB1UnlROE5VNS1CVDVuSEhLdThDeElCVmd0bGYwS01yX1g1QXlWeE1FZV9OaWNCWXlraXd2ZmQ2SlJJdkhOMlR3WjllY2I2NDl5RXFWOFgtVXl1aw?oc=5",
         "date": "11/24 04:19"
-      },
-      {
-        "type": "positive",
-        "title": "Why Is Google Stock Up Today? Alphabet Jumps 6.3% as Nvidia's Huang Return Sparks AI Rally",
-        "publisher": "Around Prague",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMk80VUp2ZGs5bVJLVG55OVJ5VnhwRXNvY1I0RGloZzBvRTlfRWVQZGpFeVdGbmIwbzlyWnJGSnQtdWY5a3JOTWVPWG4yVVlGT25BSGxFUl9Jb2VNczlTYnlpSXFuT05pN2ZiQndudm9zTVk4bEN2M3RRZVM2am56a2hQQ1BaVDJwYm40YjFNbngxck11UEd1eDVtakFjTEhqX1JBYTR1cWljeTNNMmtJUVl3RHI?oc=5",
-        "date": "11/24 07:51"
-      },
-      {
-        "type": "positive",
-        "title": "Alphabet rises 6% as broad market rally lifts shares (GOOG:NASDAQ)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVWhOYkM3RENzRGRqaGJWR1o2THE0eGFBZHlpRHBiWWU4SjRUejJpZkVJZkhsenB6SmM4UDVOWUp5anJ2cWpVSkd1cktRZ0J5Y2VwNFYxd1dpYlY5NFEzQTdteWFsUlJIRDBZbmkxaUROaDlEcFVTTWpXQUdDNW9ab1VpQkVuRDhUbHQzWWFoWkVjTU82MWs5T3dlME9TUQ?oc=5",
-        "date": "11/24 07:23"
       }
     ],
     "QCOM": [
       {
-        "type": "neutral",
-        "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History",
-        "publisher": "Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
-        "date": "11/22 00:24"
+        "type": "negative",
+        "title": "Qualcomm (QCOM) Stock May Be Below Fair Value After AI Revenue Targets",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV1M0Y1JxQ1gxVzdreUN5U0pfN3ZwNUlZeHFidWdZampuQkY1blJva1dmb29fRk5SM3FQQm42Z2VSd1p6UlZ1a2xveDRhYWFKeWxINU41N0JPdWlHN1pock9uVzdKdmNDbldVX3Y2Z3FfSW9uN3UweWxRMV9KbXRlSGVjbXpBZFd1eWxfTG1za2ZKTThqdjN2SzN3?oc=5",
+        "date": "11/19 17:10"
       },
       {
         "type": "positive",
-        "title": "Qualcomm climbs 10%, pulled higher by broad tech rally (QCOM:NASDAQ)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEJQam1TaUpZMFpVMmdvSk41N29rWkFDblB0MXd6NU9zczlrYklrUXVFczFuQjI3dmdleC1nWmY0RVdKOUgwdzcwYXNBN3hRZmNQeFpyMXFFbjRQQUNoemlDSXVkZzhYRDZHcnY0ckNDUDdndzBGNkFCNldJcHdiV0w5QjFxaUN0ZFc0UmszYy1hSjZN?oc=5",
-        "date": "11/24 06:21"
+        "title": "Qualcomm stock rises as automotive chip business growth and dividends support sentiment",
+        "publisher": "Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXU1YmNObjlSbDFmanEzM0pvRHBqZkRGSzV5Wm5CaEZUMEVtTlVzdG1OekU1YnIwYWI3Xzg1UVJRR29Bc3RvQU5MVmFnVE1OSVpoejVfX1RXOXNlZ0dPdl9Md1RERGV3R0ZCZEJqSHNOVkhSa3N0YXNYeUs3SFF5NlpET2loNl9jc1JOZ0hKYw?oc=5",
+        "date": "11/24 01:18"
       },
       {
         "type": "positive",
@@ -1010,11 +1015,11 @@
         "date": "11/21 04:22"
       },
       {
-        "type": "negative",
-        "title": "Qualcomm Is Down 42% and SK hynix Has Plunged 48% Amid the AI Sell-Off. Which Is the Better Stock to Buy for 2027?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRnRaam9SS0ppeW1YUV9VWGVwVHBuSEdkblJrN1VwRWwzQm5PdGw1cW9iX283NWx4T3hobmZLaC1BMDByVEcxbVRYQllMWWJqYVFMWmhMcHl3SEZEb09wX0Z4U3g4Rmlyc0xQTG0wTjN0VGk1aDZXdElyd0hYVVlVYUV3N1ZEazdQX2dSVl93aVI4TmFsMmhjeERBcTlqQlNOaDFpWjdXV0NpWno3VXFSMUlzTjJQaDVIV0syQzZxT0xUdGNPbUw2UU16ME96cnFUUGZLU2RTcHhXeGU3cWFqenY0TUF1UHBuS1VQTm1raWtZcV9GWVE?oc=5",
-        "date": "11/23 19:00"
+        "type": "positive",
+        "title": "Qualcomm climbs 10%, pulled higher by broad tech rally (QCOM:NASDAQ)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEJQam1TaUpZMFpVMmdvSk41N29rWkFDblB0MXd6NU9zczlrYklrUXVFczFuQjI3dmdleC1nWmY0RVdKOUgwdzcwYXNBN3hRZmNQeFpyMXFFbjRQQUNoemlDSXVkZzhYRDZHcnY0ckNDUDdndzBGNkFCNldJcHdiV0w5QjFxaUN0ZFc0UmszYy1hSjZN?oc=5",
+        "date": "11/24 06:21"
       }
     ],
     "VRT": [
@@ -1033,18 +1038,18 @@
         "date": "11/23 16:16"
       },
       {
-        "type": "negative",
-        "title": "Vertiv downgraded by Robert W. Baird with a new price target",
-        "publisher": "Quantisnow",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGpWWkxaU0dhUXA1ZFJoUjJMMWNHSFhZWGl2QTVGQTluVGR2b29mdUNSNTFVXy1kS3lVaGdjczhWaE8tZGp6azJSSkxtc3pSSnF5dTZKZlJWdzJxSlV5VEZLekQ4eWpWUHQ5UVZVTjlvNlJKdHBzaXptNzRaOHB6VnVQQkNyRlZkUVdBdE1tVFZYcHRWc0w0UHN4WQ?oc=5",
-        "date": "11/23 21:50"
-      },
-      {
         "type": "positive",
         "title": "Why is Vertiv stock rocketing higher today",
         "publisher": "The Globe and Mail",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU3NqbWN4ek1teXZQNEJEMWRMWmwtT0RUblhnNHFHYnpqVFB6LXBDS1hMeVlhdS1GeUhOaVlObjNYM2sySXVNYzFtZ2w2U2dBZnE2RkYtdVRFWXdYRnA2MzdZbjBNRHZfUXdsTF9hYU1iMUViREsyVFVpR0I4UmFlcjV4SmxoTThvT1BpdUxVRXRXRFBKVXBhUTRpYVU1dWRWU0Q4RXdGSmI3clY4eW9pWUhrRjdBdHZLb3RxVjhrTnp0WUdq?oc=5",
         "date": "11/24 04:43"
+      },
+      {
+        "type": "negative",
+        "title": "Vertiv downgraded by Robert W. Baird with a new price target",
+        "publisher": "Quantisnow",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGpWWkxaU0dhUXA1ZFJoUjJMMWNHSFhZWGl2QTVGQTluVGR2b29mdUNSNTFVXy1kS3lVaGdjczhWaE8tZGp6azJSSkxtc3pSSnF5dTZKZlJWdzJxSlV5VEZLekQ4eWpWUHQ5UVZVTjlvNlJKdHBzaXptNzRaOHB6VnVQQkNyRlZkUVdBdE1tVFZYcHRWc0w0UHN4WQ?oc=5",
+        "date": "11/23 21:50"
       }
     ]
   }
