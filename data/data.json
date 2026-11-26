@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:14:53.447690+00:00",
+  "updatedAt": "2026-11-26T15:30:45.427045+00:00",
   "market": {
     "cards": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "공포지수 VIX",
-        "value": 28.29,
-        "change": 7.32
+        "value": 26.79,
+        "change": -5.3
       },
       {
         "name": "미국10년금리",
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1342.57,
-        "change": -0.01
+        "value": 1343.74,
+        "change": 0.08
       },
       {
         "name": "KOSPI",
-        "value": 4773.89,
-        "change": 1.63
+        "value": 4697.51,
+        "change": -6.16
       },
       {
         "name": "KOSDAQ",
-        "value": 665.27,
-        "change": 2.25
+        "value": 650.64,
+        "change": -2.29
       }
     ],
     "groups": [
@@ -329,7 +329,6 @@
       {
         "name": "공포지수 VIX",
         "labels": [
-          "08/25",
           "08/26",
           "08/27",
           "08/28",
@@ -395,13 +394,13 @@
           "11/20",
           "11/23",
           "11/24",
-          "11/25"
+          "11/25",
+          "11/26"
         ],
         "series": [
           {
             "name": "공포지수 VIX",
             "data": [
-              15.45,
               15.21,
               14.51,
               14.43,
@@ -467,7 +466,8 @@
               35.89,
               26.62,
               26.36,
-              28.29
+              28.29,
+              26.79
             ]
           }
         ]
@@ -683,7 +683,7 @@
               1344.31,
               1341.02,
               1342.65,
-              1342.57
+              1343.74
             ]
           }
         ]
@@ -752,8 +752,7 @@
           "11/20",
           "11/23",
           "11/24",
-          "11/25",
-          "11/26"
+          "11/25"
         ],
         "series": [
           {
@@ -820,8 +819,7 @@
               4869.96,
               4708.54,
               5006.03,
-              4697.51,
-              4773.89
+              4697.51
             ]
           },
           {
@@ -888,8 +886,7 @@
               645.68,
               635.45,
               665.88,
-              650.64,
-              665.27
+              650.64
             ]
           }
         ]
@@ -913,6 +910,13 @@
         "date": "11/24 20:20"
       },
       {
+        "type": "neutral",
+        "title": "Broadcom: The Google Scare Is Overdone",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdUF3VUlRdS04S09Pd1UwaWlMaXdtX2gyREFGQ1MyTmNEa19tT2J6MnctTEl5ejZqdjFaMkhfdVhMVTdzSV9KTFBQVFpBZlQza05fenQzWVdCWlMzWndoOXhFci0xNUJqdmJsVUVEaU12anR1cTlLcktQWTBMVTRIY3EwTTk?oc=5",
+        "date": "11/26 18:37"
+      },
+      {
         "type": "negative",
         "title": "Why Is Broadcom Stock Falling on Wednesday?",
         "publisher": "Benzinga",
@@ -920,18 +924,11 @@
         "date": "11/25 23:01"
       },
       {
-        "type": "negative",
-        "title": "Broadcom After The TPU Scare: A 16x Stock With $98 Billion Wall Street Is Missing (NASDAQ:AVGO)",
-        "publisher": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGMzQmlSdmVoWTZqU1pQNURlV3JhbUQ4WjhvUU9Da2ViMmduQ2twV0pzSEIzSXZfdGMydmJXX2xzc0tFTkZIdWJVYmZ0WXhBNW85OWpULW94V2tYZ2o2SUNCV2Y5RVNJYWIzWFR3NzZwa0tGNXNxMTdDbkY4dFBTNjVCaUVTYVNDallMQ2VCcUlNaHNFMnowb3E3cllEUnlUcGdjdFdiUGhlVG02S2J6RVVVVjJvVjZkY211aA?oc=5",
-        "date": "11/24 21:45"
-      },
-      {
         "type": "positive",
-        "title": "MRVL vs. AVGO: Which AI Chip Stock Has More Upside Ahead of Earnings?",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2FQQXNCQVd2MjdFaWYyNXhJRnZuWnItMjdSSXRGbzRxM0FPVUFpY3lsZXpSSmoxNkR0RXRiRHlZNlBZYTdoOENncVJIeUt5amItMDJmTFdhM1pmMUQtVTFyZEhJeGwtR1NwU29RMVBoX3F1UWlHZHkzMm9OTmNFeC03QmN3VjhLYjF5YWlMTEFreGtIZnVpU0pFNVY?oc=5",
-        "date": "11/25 22:04"
+        "title": "Broadcom Stock Could Have 70% Upside, Analysts Say. What AVGO’s Valuation Reveals.",
+        "publisher": "Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU12d00yZVNmZjZIb0JjZmlGb3NpUUl0RGhNUEdYLS01TTJ4R1NoYmNWcElseFlTZy0zYm1hQm9kM1lyN3R1ZE5DNkJQdmE3ZXNwa0lxT09BYkJVQUVPWV9zN2x1cVhLaEZwZC00VGVqVlh2Y1EtUl9IcUltNUEyMVR4MFMtZmhWNFlIR2tlZjhMZnZabDV0YlM5X3ptRlF5VnhQZFhqTmVITXRJOUJRLXFaMmtjVjE1VmFiQjN3?oc=5",
+        "date": "11/25 05:10"
       }
     ],
     "BE": [
@@ -957,27 +954,20 @@
         "date": "11/25 23:59"
       },
       {
-        "type": "neutral",
-        "title": "What Moved Bloom Energy Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0JHUVJzbWVjWkhOWmRMTGJuRl9acDlHdU0xY3hmNmhQUVVINGEtNUo4U3NnS1FrX1l2cEZlTG12OUFreDg1dU1xOHB1NGFUYlJBR2tFRFdlQXl5dU8yTHRiNXRzbVAwY21pekRmOWYtRkNfeExfYTM5N3gzU1dLeXAtUlJUR0N1U2tkaWhKaXFTZw?oc=5",
-        "date": "11/23 16:05"
+        "type": "negative",
+        "title": "Bloom Energy Tumbles 11% Despite Morgan Stanley Reiterating $335 Target; FuelCell Energy Drops 7%, Plug Power Falls 6%",
+        "publisher": "24/7 Wall St.",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPem11U0E0T085N3RIZzlyZ2JYMGVmanc4WXJKbXM2bFVCQVVFZGtQemNGWkx1MjNrUTdLbG5fOWN3eWNZMThySjdnLTZjbUdSQVhLdE81OWxVNWhfTUZMMWNZbGRPenk4ZWpNZ2lQb1hCRE5MMW1HTDlrTFduQUxRcF82QUEzY0ZHTWFMS3hGY19vQ1psY2YzSFZ1a0xTOGxnbnhvVE5jTTVFQm9hT19iaVFtT0RoSjFrblpndmZwYkhKUWlYdmhaSFBnSkJYZUllYWV2Z3JIcXc0R0pobGhwdXlQX05jb2JmVElUVg?oc=5",
+        "date": "11/26 00:55"
       }
     ],
     "GOOGL": [
       {
         "type": "neutral",
-        "title": "Alphabet (GOOGL) Expands AI Search With Wallet Data",
+        "title": "What's Wrong With Alphabet Stock?",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSThiNzctTzdySGZNYlM1bWNra1lQbXNMclhNZm5kR3NtaFdsOXNiOTBPN2F3LVhWb08wdXZPVkxEU015Mkk3M2FTQkg3c3ZrS2dXN1E0NlVWcjJBdjlkUEJhSHd1MzFrTUY2M0wxVDFJLXpzbHpOcUxKbkJ3UmtrUDQzdy1obi1CSHBuMzNSYWVnX2xzMGIwWUJHWFA?oc=5",
-        "date": "11/25 01:10"
-      },
-      {
-        "type": "neutral",
-        "title": "Alphabet Stock Slips: What's Going On?",
-        "publisher": "Benzinga",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONzV3WFpHQl90VnFfWjdzeTQ5VVNhMkVaNVFzTHZfZWE4VGd6UFNzNHF0Y2JsbkJqMVNod05lLWZIUlVXUEtKY0ctQ2kycXRwSVVscVpvcjhlNlplXzhkYVlKbHd6ZmJ0UWFXLTNHSEpBbXkyVFFkWFdXN01TT054SUNndVNJbW9uT2lOLTZJTlQ3Vlh2d1VNbU5lRVc?oc=5",
-        "date": "11/26 01:12"
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWGtyZUtZdW5NNDFiSnVqeFN2NkJXVk5IbDdyR04xLTFTUVlUbWRVRF9xNjZRdk96Sk5NeDBkZnVGWURkX0E4emsyd2tmRlg1b1BZc2toWk16WXY4V09OaGN1ZVp1YTR0bXo2amo0WXEtb0huRGJiUmZxUGxFNnN2Tk5nMHNkZkdxNUNWLS1hYzd2VzgwaUE?oc=5",
+        "date": "11/23 22:06"
       },
       {
         "type": "neutral",
@@ -985,6 +975,13 @@
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLXV6TXZPNHNaNm9MZHpYY0dpOS1GZUFQaHVtSUpMNTFORUZSUldyTkZqY2lmYlJWVzJEV0d5WjhLUHBHUUZtUktTOHFRMVhEZlAwc0FNV3V5cEt0YjltaGowOGwzRlVqZVRnWXNqcGNGaTVPc3hkMlpNVFNfZjd2YXVEamVPMHEzX2FacTJzUWhsUmhJQkFacFhkQnlNQTNDQWlkS183RnlqckRqdWdNWVM4WFFfdG1UeHhmNDR3bjRFMkplQUk1N1RYdFQ4S29YMzJEbENMZXdMbTNZb1ZOZ1pVdjUxR2ZtdDEySg?oc=5",
         "date": "11/26 01:17"
+      },
+      {
+        "type": "neutral",
+        "title": "Alphabet Stock Slips: What's Going On?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONzV3WFpHQl90VnFfWjdzeTQ5VVNhMkVaNVFzTHZfZWE4VGd6UFNzNHF0Y2JsbkJqMVNod05lLWZIUlVXUEtKY0ctQ2kycXRwSVVscVpvcjhlNlplXzhkYVlKbHd6ZmJ0UWFXLTNHSEpBbXkyVFFkWFdXN01TT054SUNndVNJbW9uT2lOLTZJTlQ3Vlh2d1VNbU5lRVc?oc=5",
+        "date": "11/26 01:12"
       },
       {
         "type": "neutral",
@@ -1003,18 +1000,18 @@
         "date": "11/26 05:22"
       },
       {
-        "type": "neutral",
-        "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVUtalhPRzVFUWt3VF9jazc3M0R6MXJpeTdEQXlBU3A2d1U2SXNWQ1h4TE9IUUhqSzlqS1ZTQWRYR1EySGpFX0FtYmF5TGE0M0FSVU5EbW5ObFY3UE1ZZFM0aVpjenJzZW1yRHEtSUZVRVg5N2ZFbzJ3eFBTdlpPb2xsZ0J6YVM4NEZ2UklITlVWdjBCNTgyVXpqaW5zd245T21zUm8tTklCNnBTcm1KU0hVVzBwTktCSTJBWg?oc=5",
-        "date": "11/26 06:00"
-      },
-      {
         "type": "positive",
         "title": "Is QUALCOMM (QCOM) A Bargain After Its AI Conference Boost?",
         "publisher": "Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnNCS1Q2eVFRdE5JYnBWM2puS1hJMXFfYl9nRElWeVlFSEtPRUdUdXB0V1NvY2dGME5tNk0xOVdXZ0ozdHA0bGZXdXlZVlpFbm8tSTJyUFJFV1hOcnlIcV9ZeFpMOXpPODBGa1dKSGFUMnc4SFlseEgzQ3hOWUxkWExmR0FOdTdVSGxCTU9JUDlWcnNJOG82NEFNS3VQX09EVUE?oc=5",
         "date": "11/25 01:12"
+      },
+      {
+        "type": "neutral",
+        "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVUtalhPRzVFUWt3VF9jazc3M0R6MXJpeTdEQXlBU3A2d1U2SXNWQ1h4TE9IUUhqSzlqS1ZTQWRYR1EySGpFX0FtYmF5TGE0M0FSVU5EbW5ObFY3UE1ZZFM0aVpjenJzZW1yRHEtSUZVRVg5N2ZFbzJ3eFBTdlpPb2xsZ0J6YVM4NEZ2UklITlVWdjBCNTgyVXpqaW5zd245T21zUm8tTklCNnBTcm1KU0hVVzBwTktCSTJBWg?oc=5",
+        "date": "11/26 06:00"
       },
       {
         "type": "positive",
@@ -1026,11 +1023,11 @@
     ],
     "VRT": [
       {
-        "type": "neutral",
-        "title": "Vertiv Holdings, LLC (VRT) Stock Forecasts",
+        "type": "positive",
+        "title": "Vertiv (VRT) Stock Looks Like A Bargain On Cash Flow",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONUJnbHZaMDhzLTVWMWw1MmlVcl9qaU9iaURucno3bHM3WlR0WXF1bFcxenVxdXB4cGk4NjBtaTZDUkx3dkkzZFpueFg4N1M3ZS05eGUyQmI4eUw4dHJHb3hDM3A0b0trSHh6M2V0RFhiZXhubUlzUUVUWl9XWm1IZ2U4UWZOaURhQXFmNHk4aw?oc=5",
-        "date": "11/26 07:58"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1RkQzVwOUgxcGRCa1RsTW56Y255TVQ0NjJZYzhhQWp3ZHdubE5HWU8tSkFFV1FGNzkxZ2ZEWGE2b2QwWnY1UzUyTGlYQmphbWZ5MzF4MmozN1loN2RrWGFBa2VpTEo3S3B6X1N3cU1XdENfTXQ3THhJdXpweGh4VVJ5cEtWWmk2dWw2b2UySVI4Vm9CVThoMnZndw?oc=5",
+        "date": "11/24 00:08"
       },
       {
         "type": "negative",
@@ -1041,17 +1038,17 @@
       },
       {
         "type": "neutral",
-        "title": "Vertiv Just Raised Its Dividend 60%, but the AI Stock Still Yields Only 0.23%",
-        "publisher": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbV9KU3BUREVEeXVwZHRqR0RYSkRTSmdKUzcyUFJwTFNxYklpMWtJSnRwZGVQZ3lsYzB1STJ1a1B5SURxVWJGblBYemMxSXI3N3R4eGh0X3YyeElxaGtlcWx4b2djNEhwdkN6S254R0xfbHZLWGJIZWFHNU0xUDhVaHl6ZzVDWExvWWdsOW5pOV91bXVLSTZlV2FVVktLdDRmYjI0Nm5wcXVfQWY4cS00Tk9QajREVHZFVUE?oc=5",
-        "date": "11/25 21:47"
+        "title": "Vertiv Holdings, LLC (VRT) Stock Forecasts",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONUJnbHZaMDhzLTVWMWw1MmlVcl9qaU9iaURucno3bHM3WlR0WXF1bFcxenVxdXB4cGk4NjBtaTZDUkx3dkkzZFpueFg4N1M3ZS05eGUyQmI4eUw4dHJHb3hDM3A0b0trSHh6M2V0RFhiZXhubUlzUUVUWl9XWm1IZ2U4UWZOaURhQXFmNHk4aw?oc=5",
+        "date": "11/26 07:58"
       },
       {
-        "type": "positive",
-        "title": "Vertiv (VRT) Stock Looks Like A Bargain On Cash Flow",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1RkQzVwOUgxcGRCa1RsTW56Y255TVQ0NjJZYzhhQWp3ZHdubE5HWU8tSkFFV1FGNzkxZ2ZEWGE2b2QwWnY1UzUyTGlYQmphbWZ5MzF4MmozN1loN2RrWGFBa2VpTEo3S3B6X1N3cU1XdENfTXQ3THhJdXpweGh4VVJ5cEtWWmk2dWw2b2UySVI4Vm9CVThoMnZndw?oc=5",
-        "date": "11/24 00:08"
+        "type": "negative",
+        "title": "Vertiv downgraded by Robert W. Baird with a new price target",
+        "publisher": "Quantisnow",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGpWWkxaU0dhUXA1ZFJoUjJMMWNHSFhZWGl2QTVGQTluVGR2b29mdUNSNTFVXy1kS3lVaGdjczhWaE8tZGp6azJSSkxtc3pSSnF5dTZKZlJWdzJxSlV5VEZLekQ4eWpWUHQ5UVZVTjlvNlJKdHBzaXptNzRaOHB6VnVQQkNyRlZkUVdBdE1tVFZYcHRWc0w0UHN4WQ?oc=5",
+        "date": "11/23 21:50"
       }
     ]
   }
