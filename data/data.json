@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:24:39.777890+00:00",
+  "updatedAt": "2026-11-26T05:14:53.447690+00:00",
   "market": {
     "cards": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "name": "원달러환율",
-        "value": 1343.51,
-        "change": 0.19
+        "value": 1342.57,
+        "change": -0.01
       },
       {
         "name": "KOSPI",
-        "value": 5006.03,
-        "change": 6.32
+        "value": 4773.89,
+        "change": 1.63
       },
       {
         "name": "KOSDAQ",
-        "value": 665.88,
-        "change": 4.79
+        "value": 665.27,
+        "change": 2.25
       }
     ],
     "groups": [
@@ -617,7 +617,6 @@
           {
             "name": "원달러환율",
             "data": [
-              1380.76,
               1381.49,
               1383.49,
               1380.45,
@@ -683,7 +682,8 @@
               1334.79,
               1344.31,
               1341.02,
-              1343.51
+              1342.65,
+              1342.57
             ]
           }
         ]
@@ -691,7 +691,6 @@
       {
         "name": "한국 시장",
         "labels": [
-          "08/25",
           "08/26",
           "08/27",
           "08/28",
@@ -752,13 +751,14 @@
           "11/19",
           "11/20",
           "11/23",
-          "11/24"
+          "11/24",
+          "11/25",
+          "11/26"
         ],
         "series": [
           {
             "name": "KOSPI",
             "data": [
-              6742.74,
               6808.21,
               6912.37,
               6788.88,
@@ -819,13 +819,14 @@
               5137.89,
               4869.96,
               4708.54,
-              5006.03
+              5006.03,
+              4697.51,
+              4773.89
             ]
           },
           {
             "name": "KOSDAQ",
             "data": [
-              827.15,
               826.87,
               837.65,
               838.41,
@@ -886,7 +887,9 @@
               684.81,
               645.68,
               635.45,
-              665.88
+              665.88,
+              650.64,
+              665.27
             ]
           }
         ]
@@ -910,34 +913,34 @@
         "date": "11/24 20:20"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom (AVGO) Is About to Report Q4 Earnings. Who Owns the Chipmaker Ahead of It?",
-        "publisher": "TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTNwV250NUEwVkhyRlM1YlNZTGhySWJqd1VxUnFKV3FEM3BJOC1mcVNjZ2NCT1g3NGpneXhic1Foa1A4UmRlN1JiMVUtZDdpN0ZTQ3hVMXhCWnhUdF8yVFpQdi0zTF9IX0U2aG1YUUdNeUhGeTI0TlFNZE5yNGN1UGZLMXk3WmhIM0ZZbkIwWkEzS2s5eml3Q0V0eVZXZHZYVWx5cE13MkJ1eEJXR3c?oc=5",
-        "date": "11/25 00:51"
+        "type": "negative",
+        "title": "Why Is Broadcom Stock Falling on Wednesday?",
+        "publisher": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMTNoT0c2MEFQeU4zcGFrNDRZSFZyRWNnRnh2V2dPVTUwTW9sc09XdWlqSTFOMS1zLXo3dG8ySnEtaDdhdEw1NC00bFVGTjZ2MUxfSmY4bGplX1RUU2hUenJUN21vZ1FsMVVPN0tZa2o3VWFVQUstWU5DSi1FdXBwLVVodU1CTEdSQ2J3TFhvc0VDdWowRVVySFRwV1R6d1dPV0VKdTdsdTE?oc=5",
+        "date": "11/25 23:01"
       },
       {
         "type": "negative",
-        "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5",
-        "date": "11/25 06:03"
+        "title": "Broadcom After The TPU Scare: A 16x Stock With $98 Billion Wall Street Is Missing (NASDAQ:AVGO)",
+        "publisher": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGMzQmlSdmVoWTZqU1pQNURlV3JhbUQ4WjhvUU9Da2ViMmduQ2twV0pzSEIzSXZfdGMydmJXX2xzc0tFTkZIdWJVYmZ0WXhBNW85OWpULW94V2tYZ2o2SUNCV2Y5RVNJYWIzWFR3NzZwa0tGNXNxMTdDbkY4dFBTNjVCaUVTYVNDallMQ2VCcUlNaHNFMnowb3E3cllEUnlUcGdjdFdiUGhlVG02S2J6RVVVVjJvVjZkY211aA?oc=5",
+        "date": "11/24 21:45"
       },
       {
-        "type": "neutral",
-        "title": "Broadcom Bought $1 Billion Worth of Anthropic’s IPO, and It Has Tens of Billions More Riding on Its Success.",
-        "publisher": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXRCdVZpWEpOWmFoY01TWW5faGI4SHlSTHc2SFEzMEhfdS1ucjltcUpzejRzTlNIakFvMEotbEpxYTlMLWxSbjRQaHhBOGM3a0dBdW0zRWdDLWJSS1lZTjJxcXI2aHJPNEVDYmFVcjVPWEwtanRrSVNfQ1ZCYjJIMDVRaDRaSlBqRk5YaC10VFZ6eTc3bU9wZVlVWG1UN1JhUWFYRUJnSVM1QlhsdTdJMXZ4eXRzcVFvcktqYW9TZnpsZnQ4MUtOSk8yUQ?oc=5",
-        "date": "11/25 20:00"
+        "type": "positive",
+        "title": "MRVL vs. AVGO: Which AI Chip Stock Has More Upside Ahead of Earnings?",
+        "publisher": "TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2FQQXNCQVd2MjdFaWYyNXhJRnZuWnItMjdSSXRGbzRxM0FPVUFpY3lsZXpSSmoxNkR0RXRiRHlZNlBZYTdoOENncVJIeUt5amItMDJmTFdhM1pmMUQtVTFyZEhJeGwtR1NwU29RMVBoX3F1UWlHZHkzMm9OTmNFeC03QmN3VjhLYjF5YWlMTEFreGtIZnVpU0pFNVY?oc=5",
+        "date": "11/25 22:04"
       }
     ],
     "BE": [
       {
-        "type": "neutral",
-        "title": "Bloom Energy (BE) Stock Could Be Overvalued On Fresh AI Power News",
+        "type": "positive",
+        "title": "BE Stock Slumps After AI-Driven Gains: This Analyst Sees ‘An Attractive Entry Point’",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSjRJNElFaF9iU093bEtla0ZlNnVYSmJlZWJCUWVtOXh0MDEwUmRFUmZGZEtseXg2WENQYXFiZm9EZ2E2Q25LYXpSb1hQUzBvbl9rYVV0QnpBVDJLLW5YTE5DLW9udGtDZ2thcURxTFlwLWpVLWt5U2IxWE1zQmRiYWp4bjhFQUxMWmplaXA0U09JUmtnbzhhbGJONzI3RTRLX0E?oc=5",
-        "date": "11/25 16:10"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXY2SmNaeXJLd2NyYWV5cXFuamVWOUhJWEpzWTFwU1JrVm56NEN5ZEZXNklET0R6WlZ6R05FYlBWM2E1ajNvM2VqdGxtNnZvNGc1M1NXVVZUTzZyMm5wM2c2anhCOE1iWF9qRW54VnB2UlkwVlBjcW9HTHBONHJIY0hVajlwcjJrTXJ4OG5yRmprdGRaNVBRaw?oc=5",
+        "date": "11/25 12:53"
       },
       {
         "type": "negative",
@@ -947,18 +950,18 @@
         "date": "11/25 18:07"
       },
       {
-        "type": "neutral",
-        "title": "What Moved Bloom Energy Stock?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0JHUVJzbWVjWkhOWmRMTGJuRl9acDlHdU0xY3hmNmhQUVVINGEtNUo4U3NnS1FrX1l2cEZlTG12OUFreDg1dU1xOHB1NGFUYlJBR2tFRFdlQXl5dU8yTHRiNXRzbVAwY21pekRmOWYtRkNfeExfYTM5N3gzU1dLeXAtUlJUR0N1U2tkaWhKaXFTZw?oc=5",
-        "date": "11/23 16:05"
-      },
-      {
         "type": "negative",
         "title": "Why Is Bloom Energy Stock Falling on Wednesday?",
         "publisher": "Benzinga",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3JFQTREMmJTSTU2N0V0RFJVc1BkMDAzNFBlUkpLX0NsZTFJUEpZU0VUb2ZtazJSNjk1aTJwTjRNTWxyYVQ4Y2ZmdDJXTkRCU0Y3b2tLMTE1SHF1QlhodjlmdHlManVObUkzT0RFNFh0ODZKSElBcDN3Vm5WaEZvaEx1bjBkU08zUFg2QjNKS1JxNFZzVFZjY05jOGQ3dkVUZjhrTklmYmtrWXc?oc=5",
         "date": "11/25 23:59"
+      },
+      {
+        "type": "neutral",
+        "title": "What Moved Bloom Energy Stock?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0JHUVJzbWVjWkhOWmRMTGJuRl9acDlHdU0xY3hmNmhQUVVINGEtNUo4U3NnS1FrX1l2cEZlTG12OUFreDg1dU1xOHB1NGFUYlJBR2tFRFdlQXl5dU8yTHRiNXRzbVAwY21pekRmOWYtRkNfeExfYTM5N3gzU1dLeXAtUlJUR0N1U2tkaWhKaXFTZw?oc=5",
+        "date": "11/23 16:05"
       }
     ],
     "GOOGL": [
@@ -978,33 +981,33 @@
       },
       {
         "type": "neutral",
+        "title": "Billionaire Stanley Druckenmiller Sold 94% of His TSMC Stake and All of His Alphabet Shares in Q3. Here’s the Brilliant Stock He Added.",
+        "publisher": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLXV6TXZPNHNaNm9MZHpYY0dpOS1GZUFQaHVtSUpMNTFORUZSUldyTkZqY2lmYlJWVzJEV0d5WjhLUHBHUUZtUktTOHFRMVhEZlAwc0FNV3V5cEt0YjltaGowOGwzRlVqZVRnWXNqcGNGaTVPc3hkMlpNVFNfZjd2YXVEamVPMHEzX2FacTJzUWhsUmhJQkFacFhkQnlNQTNDQWlkS183RnlqckRqdWdNWVM4WFFfdG1UeHhmNDR3bjRFMkplQUk1N1RYdFQ4S29YMzJEbENMZXdMbTNZb1ZOZ1pVdjUxR2ZtdDEySg?oc=5",
+        "date": "11/26 01:17"
+      },
+      {
+        "type": "neutral",
         "title": "Is Google Services Still the Prime Earnings Engine for Alphabet Stock?",
         "publisher": "Zacks Investment Research",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmUyckpJX1JHbW53SkEzWkNQMmo2MEJvRXVGYk9WWVlGdzBuanpCU2dpM3NKLVN4WjdhN2dRdGlPelNIYnNQSzlRdUFYWWF6NGZ4cGI0NE5sczQ0bTRmZllVYmprak1KMUNVZGd4bnZUU0FibktCNVE5cG40aHN3ZENLOERBQ1RCeTQ2QVVIUGh4MEREOGdaaElQdE05eEdtS2FHLTh0WHkzQTZxQXFv?oc=5",
         "date": "11/25 23:10"
-      },
-      {
-        "type": "negative",
-        "title": "Alphabet stock plunges as Google walks away from a big Australian news deal",
-        "publisher": "TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRHppYVF4UlRjVERuWnA5WUNMVTNTUVJNNWY5Q2RzZmZUNGJXNFZ3SW5XdkJ4cXZORFdxbEZ2R1dSN3BrVGhtcENqUC12bm9fNGlueE50S3BiNDNDdHZId1FmQjZ1Rkx0MnFiMVpZYndnQmsybEQ4Rnk2RlZiay0tdmdJd3JKVi1aVmpkQ2V4M2VrcW4xbGpHUDNPWkhEcmxlVW04OGRwUTRRaUNxclNMUjFiVEhnQ1lnZ1JhNnZ6clVIbWV0clZ3U1hzNDJDWFVC?oc=5",
-        "date": "11/26 02:14"
       }
     ],
     "QCOM": [
+      {
+        "type": "positive",
+        "title": "What Sent Qualcomm Stock Higher?",
+        "publisher": "Trefis",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMldIcFBoWG5zeVpmc1M0YjJienJSOUtGZEFzeS1PUnh4ZEp5aS1OQmxoMXpnNEItd2lfeGRRdWgydXJTWEo1T0NWbXJBUEdJa0hsRkpNd2RDOEtFWWNldDk0WVNpUWYwajlJOUI1NXA4QXV2UFBtemU3YWJIbTJlZjU1dW1Vb25La09rWTR6TEpJQ2lWMVFB?oc=5",
+        "date": "11/26 05:22"
+      },
       {
         "type": "neutral",
         "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
         "publisher": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVUtalhPRzVFUWt3VF9jazc3M0R6MXJpeTdEQXlBU3A2d1U2SXNWQ1h4TE9IUUhqSzlqS1ZTQWRYR1EySGpFX0FtYmF5TGE0M0FSVU5EbW5ObFY3UE1ZZFM0aVpjenJzZW1yRHEtSUZVRVg5N2ZFbzJ3eFBTdlpPb2xsZ0J6YVM4NEZ2UklITlVWdjBCNTgyVXpqaW5zd245T21zUm8tTklCNnBTcm1KU0hVVzBwTktCSTJBWg?oc=5",
         "date": "11/26 06:00"
-      },
-      {
-        "type": "neutral",
-        "title": "Is Qualcomm Stock As Cheap As It Looks Now?",
-        "publisher": "Trefis",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM01xRkVQVktnQ1dzZFNRdW1nUElkUm9QU1lETk04N0x2VTNYYzBlNzZfN3lCcTVjSGM0U24yNDdWVVM4UDBNVHZkNGd1bXdtU3dxWnMtVmNnTjRQMXduV1Q3ekdtY2h0QVFjQjc4QXBVYkRrZW44RjUwVnB3b3BTMkE4TnRoeG1JTURrSEdUNHl1U09pRmx3TUxHZDJkeTFhaURWNm5B?oc=5",
-        "date": "11/25 00:27"
       },
       {
         "type": "positive",
@@ -1014,11 +1017,11 @@
         "date": "11/25 01:12"
       },
       {
-        "type": "neutral",
-        "title": "Why is Qualcomm stock sliding today?",
-        "publisher": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXhnNDNYMEM5enkzZVlOZURsR0JvWWxEbzh4aGFSNzdMc3NWdldCbklaekZ6dFlwel94RzFRT3N0TTY1UEp3VDNIdkpYN0RXdHFXV1ZsZzJoVWRwbEtMLTBKdjBJZEk2TWtmU25vUXpZcENXRmpkMlRmbXNYWVNjbkVzU3ZzMW9lY0NOMlFPd0RjQmIwUjh3SFhTcHZPZw?oc=5",
-        "date": "11/26 00:37"
+        "type": "positive",
+        "title": "Qualcomm stock rises as automotive chip business growth and dividends support sentiment",
+        "publisher": "Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXU1YmNObjlSbDFmanEzM0pvRHBqZkRGSzV5Wm5CaEZUMEVtTlVzdG1OekU1YnIwYWI3Xzg1UVJRR29Bc3RvQU5MVmFnVE1OSVpoejVfX1RXOXNlZ0dPdl9Md1RERGV3R0ZCZEJqSHNOVkhSa3N0YXNYeUs3SFF5NlpET2loNl9jc1JOZ0hKYw?oc=5",
+        "date": "11/24 01:18"
       }
     ],
     "VRT": [
@@ -1045,10 +1048,10 @@
       },
       {
         "type": "positive",
-        "title": "Vertiv Holdings Co (VRT) Looks Repriced Following AI Data Center Wins And Higher Guidance",
+        "title": "Vertiv (VRT) Stock Looks Like A Bargain On Cash Flow",
         "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMTFxaEhaNU5LUjMwbGxNWk5CX1RydXdXQ0VjQ194ODVYc2d3Sk9VVTlKQUV0eTh2V2dtc0E0WFhYSzIxaEY4ckZOYS1NV3A5SlVIUEhEOVZGRUxHTTVLMXJibHAwQ1EzY0ZoLW5MelFyTnJ2Y0tMVEFZWjFKMV9iTTRfQlJ1NXNBUENhdGhSek91S1hjSFNn?oc=5",
-        "date": "11/25 20:08"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1RkQzVwOUgxcGRCa1RsTW56Y255TVQ0NjJZYzhhQWp3ZHdubE5HWU8tSkFFV1FGNzkxZ2ZEWGE2b2QwWnY1UzUyTGlYQmphbWZ5MzF4MmozN1loN2RrWGFBa2VpTEo3S3B6X1N3cU1XdENfTXQ3THhJdXpweGh4VVJ5cEtWWmk2dWw2b2UySVI4Vm9CVThoMnZndw?oc=5",
+        "date": "11/24 00:08"
       }
     ]
   }
